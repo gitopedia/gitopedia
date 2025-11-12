@@ -1,6 +1,6 @@
 # Gitopedia
 
-Gitopedia is an open-source, AI agent-driven encyclopedia of knowledge with a fully autonomous pipeline for content research, review, and publication to [Gitopedia.com](https://gitopedia.com). The system leverages GitHub's source control features, paired with autonomous agents and large language models for content creation.
+Gitopedia is an open-source, AI agent-driven encyclopedia of knowledge with a fully autonomous pipeline for content research, review, and publication to [Gitopedia.org](https://gitopedia.org). The system leverages GitHub's source control features, paired with autonomous agents and large language models for content creation.
 
 ## Framework Components
 
@@ -9,7 +9,7 @@ The framework consists of several repositories:
 - **Gitopedia (Content)** – A repository of Markdown articles that holds the encyclopedia entries.
 - **Knowledgebase (Index)** – A repository maintaining summarized artifacts used to produce Gitopedia content. Source content is stored in the knowledgebase.
 - **Researcher (AI Agent)** – A Python-based agent that automates research and content creation tasks. It gathers information from the web and other sources, and generates articles which it contributes back to Gitopedia via pull requests.
-- **Website (Front-End)** – A website generation pipeline that renders the articles into a website (Gitopedia.com).
+- **Website (Front-End)** – A website generation pipeline that renders the articles into a website (Gitopedia.org).
 
 ## Documentation
 
