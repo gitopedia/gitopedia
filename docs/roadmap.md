@@ -11,20 +11,20 @@ This roadmap outlines the development of Gitopedia in stages from a pre-MVP setu
 ### Key Tasks
 
 - **DONE:** Create the Gitopedia repository structure. Set up directories for articles (`Compendium/` folder with category subdirectories) and add a sample Markdown article. Set up the `authority/` directory structure for controlled vocabularies (people, orgs, places, topics). Include a README explaining the article format and how the Researcher agent creates articles. Decide on an article format (e.g. use a [YAML front-matter](https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter) with fields like `id`, `title`, `slug`, etc., where `id` will be a ULID for each article).
-- **TODO:** Create documentation in README.md of Gitopedia that summarizes the article format (including facets and authority lists), and how the Researcher agent creates articles via automated PRs. Note that all articles are created by the Researcher agent, not by human contributors.
-- **TODO:** Provide ULID generation utilities for the Researcher agent:
-  - Ensure the Researcher agent uses a consistent ULID library to generate IDs (for example, `ulid-py` for Python).
-  - Possibly create a GitHub Actions chatbot for Gitopedia that, on a new PR without an `id` in front matter, leaves a comment with a suggested ULID or even automatically pushes a commit adding one.
+- **DONE:** Create documentation in README.md of Gitopedia that summarizes the article format (including facets and authority lists), and how the Researcher agent creates articles via automated PRs. Note that all articles are created by the Researcher agent, not by human contributors.
+- **DONE:** Provide ULID generation utilities for the Researcher agent:
+  - Created `scripts/generate_ulid.py` helper script for ULID generation.
+  - Set up validation in CI and pre-commit hooks to verify ULID format in article front matter.
 - **TODO:** Provision self-hosted infrastructure for Researcher dependencies:
   - Deploy a self-hosted SearXNG instance (Docker), configure engines/timeouts/rate-limits, and expose an internal `SEARXNG_URL`.
   - Deploy a self-hosted DeepSeek model behind an OpenAI-compatible API (e.g., vLLM gateway). Expose an internal `OPENAI_BASE_URL` and set default `DEEPSEEK_MODEL`.
   - Provision a stable runtime for the Researcher (VM/container) with private network access to SearXNG and DeepSeek endpoints.
-- **TODO:** Initialize the Knowledgebase repository. Define a basic schema for metadata (e.g. what fields a `meta.json` should contain for each article). Stub out a script (or notebook) that can read a Markdown file and produce a simple JSON and/or add an entry to a SQLite database. No full functionality yet, but lay the groundwork (create the repository, add dependencies like SQLite libraries in a `requirements.txt`).
-- **TODO:** Initialize the Researcher agent repository. Set up a Python project (e.g. a `main.py` that prints a greeting to confirm the environment works). Outline the steps this agent will perform (perhaps in the README or comments). Ensure the repository has access to necessary credentials (store placeholders for GitHub token, etc., to be filled in later) and can be run locally.
-- **TODO:** Initialize the Website repository with a new Next.js app. Configure `next.config.js` for static export (set `output: 'export'`). Create a placeholder homepage that confirms the app builds and deploys (for example, a page that says "Gitopedia coming soon"). Verify that `npm run build && next export` produces static files. Set up the deployment target (e.g. an S3 bucket or vercel setup) - this can be manual initially.
-- **TODO:** Set up basic CI/CD workflows (GitHub Actions or similar) for cross-repo integration. For example, configure an Action in Gitopedia that triggers (via repository dispatch or a scheduled job) a workflow in Knowledgebase. In Phase 0, these can just echo messages or create dummy files to ensure the wiring is in place.
-- **TODO:** Decide on the unique ID strategy for articles. Plan to use ULIDs for each article's stable identifier (for chronological sorting and uniqueness). In Phase 0, implement a small utility or note to generate ULIDs (e.g. integrate a ULID library in the Researcher or a script) and include an example ULID in the sample article's metadata. Set up validation for ULIDs: a pre-commit hook or CI step should verify that any new article has a valid-looking ULID in the `id` field.
-- **TODO:** Document the development setup for each component. Ensure that another developer (or AI agent) can pull each repo, run the basic setup, and understand how the pieces will connect. This includes updating this documentation and repository READMEs as needed.
+- **DONE:** Initialize the Knowledgebase repository. Defined schema for metadata, created `scripts/build_index.py` to parse Markdown files and generate SQLite FTS5 index. Added dependencies in `requirements.txt`.
+- **DONE:** Initialize the Researcher agent repository. Set up Python project structure with README outlining the agent's workflow.
+- **DONE:** Initialize the Website repository with Next.js app. Configured `next.config.js` for static export. Created static page generation that reads from Gitopedia content. Set up AWS S3 and CloudFront deployment via CDK.
+- **DONE:** Set up basic CI/CD workflows for cross-repo integration. Implemented `repository_dispatch` triggers from Gitopedia to Knowledgebase. Knowledgebase workflow builds index and uploads to S3. Website workflow builds and deploys to S3/CloudFront.
+- **DONE:** Decide on the unique ID strategy for articles. Using ULIDs for each article's stable identifier. Implemented `scripts/generate_ulid.py` and validation in CI/pre-commit hooks.
+- **DONE:** Document the development setup for each component. Created comprehensive documentation in `docs/` directory and README files in each repository.
 
 ## Phase 1: MVP (Minimum Viable Product)
 
@@ -54,11 +54,12 @@ This roadmap outlines the development of Gitopedia in stages from a pre-MVP setu
   - Add configuration and documentation for `SEARXNG_URL`, `OPENAI_BASE_URL`, `OPENAI_API_KEY`, `OPENAI_MODEL`/`DEEPSEEK_MODEL`.
 - **DONE:** Implement the Knowledgebase indexing process. Develop a Python script (or use an existing tool) to parse all Markdown files in Gitopedia. For each article, generate its metadata (`meta.json`), including fields like `id` (ULID), `title`, perhaps an excerpt or list of references. Aggregate these into a searchable SQLite database (using SQLite FTS5 or FTS4 for full-text search on article content). Verify that running this script locally produces an `index.sqlite` with the sample articles.
 - **DONE:** Set up an automated workflow for Knowledgebase. Configure a GitHub Action that triggers on new content in Gitopedia (e.g. push events on main) to run the indexing script. For MVP, this action can simply run tests or produce an artifact (it might not yet deploy the SQLite file, but should at least confirm the process). Ensure the workflow can ingest new summarized sources organized by the Copilot phase.
-- **DONE:** Implement cross-repo triggers using GitHub Actions:
-  - **In Gitopedia**: Create a workflow (on push to main) that triggers Knowledgebase's workflow. This can use `actions/github-script` or a curl to GitHub API to send a `repository_dispatch` to Knowledgebase. (Requires a GitHub token with repo scope stored as a secret.)
-  - **In Knowledgebase**: Add a workflow to receive the dispatch (trigger on: `repository_dispatch` with a specific event type, e.g., `content-updated`). This workflow runs the index build. On completion (success), use a similar method to dispatch to Website. Include payload data like `gitopedia_sha` and perhaps knowledgebase's new index version (or a URL to fetch it).
-  - **In Website**: Have a workflow on: `repository_dispatch` (e.g., event type `rebuild-site`) that runs the build and deploy. It should use the `gitopedia_sha` from the payload to ensure it builds the matching content version. It should also retrieve the new `index.sqlite` (maybe provided as an artifact URL or downloaded from S3) for packaging with the search lambda or for verification.
-  - Secure these triggers by scoping them to specific event types and secrets. (Only accept dispatches from our own workflows, using a shared secret if needed to verify authenticity.)
+- **PARTIALLY DONE:** Implement cross-repo triggers using GitHub Actions:
+  - **DONE - In Gitopedia**: Created workflow that triggers Knowledgebase via `repository_dispatch` on push to main.
+  - **DONE - In Knowledgebase**: Added workflow to receive dispatch, build index, and upload to S3. Index build and S3 upload working with OIDC authentication.
+  - **TODO - In Knowledgebase**: Add dispatch to Website on successful index build (not yet implemented).
+  - **DONE - In Website**: Workflow receives `repository_dispatch` and builds/deploys static site to S3/CloudFront with OIDC authentication.
+  - **DONE**: AWS infrastructure configured with IAM OIDC roles for secure CI/CD access.
 - **TODO:** Develop the Search Lambda (Search API) in the Website (or a dedicated directory). Use Python or Node.js to create a function that can load the `index.sqlite` file and execute full-text queries. For MVP, you can bundle the SQLite from Knowledgebase manually (e.g. attach it in the lambda package). Implement a simple query handler: accept a query string and return top N article IDs/titles. (Tip: Use SQLite FTS query with rank and snippet to get a summary – this is supported as shown in similar projects). Specific implementation steps:
   - Write the Lambda function code to open the SQLite database and perform a parameterized search query. (Ensure to use parameter binding to prevent any possibility of SQL injection, even though input is likely limited and sanitized by SQLite FTS.)
   - Test the function locally (it can be run with a test event JSON). Use a small test SQLite with known entries to verify that queries return expected results.
@@ -68,14 +69,26 @@ This roadmap outlines the development of Gitopedia in stages from a pre-MVP setu
     - Store necessary AWS credentials (or use GitHub OIDC to assume a deploy role) in the repository secrets so CI can deploy the Lambda and upload the static site.
   - After deploying, test end-to-end: from a browser (or Postman) call the `/search` API with a sample query and see that it returns results from the latest content.
 - **TODO:** Integrate search on the Website frontend. Create a search input field on the site (perhaps on the homepage or a dedicated search page). When a user submits a query, use JavaScript (fetch API) to call the Search API endpoint. Display the list of results (at least title and snippet, linking to the article pages). For MVP, this can be a very basic UI.
-- **TODO:** Implement static page generation for Website. Write a script or Next.js page that iterates over all Markdown articles from Gitopedia (which might be pulled in as a submodule or fetched via GitHub API) and generates a static page for each. This likely involves using a Markdown processing library (like remark or Next.js MDX). Ensure that the sample articles from Gitopedia appear as pages on build. Also, generate an index page or sidebar listing all articles (even a simple list of titles linking to pages). Specific implementation steps:
-  - Set up Git access or API access for the build process to retrieve Markdown files from Gitopedia. Possibly store a GitHub token in CI to fetch private repo content (if the repository is private).
-  - Write scripts or use Next.js API routes to load content during `getStaticProps`. For simplicity, consider checking out the Gitopedia repository as part of the build step so all markdown files are present locally.
-  - Use a Markdown parsing pipeline (`gray-matter` for front matter, `remark` for markdown to React or HTML). Test that an example Markdown file is correctly rendered as a page.
-  - Create page templates: one for article pages (which takes content and maybe a list of references to display), and one for index or home page.
-  - Ensure that links between articles (if any) are properly handled (we might use absolute URLs or generate Next.js `<Link>` components for internal links).
-  - Validate that after export, the files are in the expected locations (Next.js by default might output each page as an `index.html` in a folder named after the slug).
-- **DONE:** Implement the index generation script for category `index.md` files and integrate it into GitHub Actions. This includes: parsing Markdown files for titles, handling edge cases (e.g., an article missing a title in front matter should fallback to the first markdown heading), committing the updated category indexes, and ensuring the action has appropriate permissions.
+- **DONE:** Implement static page generation for Website. Created Next.js pages that:
+  - Checkout Gitopedia repository during CI build to access Markdown files.
+  - Use `lib/content.js` to parse Markdown with `gray-matter` and `remark` for HTML conversion.
+  - Generate static pages via `getStaticPaths` and `getStaticProps` for all articles.
+  - Created homepage (`pages/index.jsx`) listing all articles and article pages (`pages/[...slug].jsx`) for individual articles.
+  - Handle front matter serialization (Date objects to ISO strings) for JSON compatibility.
+  - Deploy to S3 and CloudFront via GitHub Actions with OIDC authentication.
+- **DONE:** Implement the index generation script for category `index.md` files and integrate it into GitHub Actions. Created `scripts/build_category_indexes.py` that:
+  - Scans `Compendium/` directory structure for articles.
+  - Extracts titles from front matter (with fallback to first heading).
+  - Generates/updates `index.md` in each category directory.
+  - Integrated into CI workflow with auto-commit on PRs and pushes to main.
+  - Added to pre-commit hooks for local validation.
+- **DONE:** Set up AWS infrastructure via CDK:
+  - Created `GitopediaStack` with S3 buckets for website and knowledgebase index.
+  - Configured CloudFront distribution for website with custom domain support.
+  - Set up ECR repository for Researcher container images.
+  - Created IAM OIDC roles for GitHub Actions (Website, Knowledgebase, Researcher CI roles).
+  - Configured SSL certificate stack for `gitopedia.org` domain.
+  - Deployed infrastructure and configured domain DNS (Route53) for `gitopedia.org`.
 - **TODO:** Connect the Researcher agent minimal functionality. Implement the logic for the Researcher to fetch a "research request" (for MVP, this could be a specific GitHub issue or a hard-coded task). Integrate an API call to an LLM (if available, e.g. OpenAI API) to generate content for a given prompt. If external API access is not available in the development environment, simulate this by using a placeholder text or a locally stored answer. Focus on the flow: the Researcher should take a prompt (issue title/description), produce a Markdown draft (with at least a title, some content, and maybe a fake citation), and create a Pull Request to the Gitopedia repo. Use the GitHub API or `gh` CLI for creating the PR.
 - **TODO:** Test the end-to-end flow for MVP:
   - Create a dummy "New Article Request" issue on Gitopedia (with a simple prompt).
