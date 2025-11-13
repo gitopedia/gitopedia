@@ -29,7 +29,43 @@ The system's operation involves a pipeline that moves from content creation to p
 
 ## CI Automation and GitHub Access
 
-To enable fully automated operations (creating GitHub Issues, submitting Draft PRs, and triggering the Copilot Organizer on PRs), CI workflows are granted GitHub access over SSH:
+### GitHub App for Cross-Repository Dispatch
+
+For cross-repository workflow triggers (e.g., `repository_dispatch` events), we use a GitHub App (`gitopedia-bot`) with the following permissions:
+
+- **Contents**: Read and Write (for future tag/release operations)
+- **Issues**: Read and Write (for Researcher agent operations)
+- **Pull requests**: Read and Write (for Researcher and Copilot Organizer operations)
+- **Actions**: Write (to trigger workflows via `repository_dispatch`)
+
+**Setup Steps:**
+
+1. **Install the App**: Install `gitopedia-bot` on the three repositories:
+   - `gitopedia/gitopedia`
+   - `gitopedia/knowledge-base`
+   - `gitopedia/website`
+
+2. **Generate Installation Token**: Use the GitHub App's App ID and private key to generate an installation access token. This token is used in CI workflows to authenticate as the app.
+
+3. **Store Token as Secret**: Store the installation access token as an organization secret `KB_DISPATCH_TOKEN` (or similar) that workflows can use to authenticate when calling the GitHub API for `repository_dispatch` events.
+
+**Usage in Workflows:**
+
+Workflows use the installation token to authenticate GitHub API calls:
+```yaml
+- name: Trigger Knowledgebase
+  env:
+    GITHUB_TOKEN: ${{ secrets.KB_DISPATCH_TOKEN }}
+  run: |
+    gh api repos/gitopedia/knowledge-base/dispatches \
+      -X POST \
+      -f event_type=content-updated \
+      -f client_payload='{"ref":"main","sha":"${{ github.sha }}"}'
+```
+
+### SSH Deploy Keys for Git Operations
+
+To enable fully automated git operations (creating branches, committing, pushing), CI workflows are granted GitHub access over SSH:
 
 - A dedicated deploy key (SSH keypair) is created for CI. The public key is added as a Deploy Key on the relevant repositories with write access; the private key is stored as an encrypted secret in the CI environment.
 - CI jobs load the private key using `ssh-agent` and configure `known_hosts` for GitHub to prevent MITM prompts.
@@ -37,7 +73,6 @@ To enable fully automated operations (creating GitHub Issues, submitting Draft P
   - Create and update branches, Draft PRs, and PR labels to trigger the Copilot Organizer
   - Open GitHub Issues for reporting automation findings or required follow-ups
   - Push commits made by automation (e.g., Copilot Organizer refactors)
-- Where supported, repository dispatch events and GitHub App tokens may be used for fine-grained tasks; however, SSH credentials provide a unified approach for git operations from workflows.
 
 ### Researcher Integration
 

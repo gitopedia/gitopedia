@@ -1,4 +1,4 @@
-name: Dispatch Knowledgebase Build (placeholder)
+name: Dispatch Knowledgebase Build
 
 on:
   push:
@@ -10,12 +10,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Generate GitHub App token
+        id: app-token
+        uses: tibdex/github-app-token@v2
+        with:
+          app_id: ${{ secrets.GITOPEDIA_APP_ID }}
+          private_key: ${{ secrets.GITOPEDIA_APP_PRIVATE_KEY }}
       - name: Dispatch to Knowledgebase (repository_dispatch)
         env:
-          KB_TOKEN: ${{ secrets.KB_DISPATCH_TOKEN }}
+          KB_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           if [ -z "${KB_TOKEN}" ]; then
-            echo "KB_DISPATCH_TOKEN not set; skipping dispatch." >&2
+            echo "GitHub App token not available; skipping dispatch." >&2
             exit 0
           fi
           payload=$(jq -n --arg sha "${GITHUB_SHA}" '{event_type:"content-updated", client_payload:{gitopedia_sha:$sha}}')
