@@ -15,10 +15,11 @@ This roadmap outlines the development of Gitopedia in stages from a pre-MVP setu
 - **DONE:** Provide ULID generation utilities for the Researcher agent:
   - Created `scripts/generate_ulid.py` helper script for ULID generation.
   - Set up validation in CI and pre-commit hooks to verify ULID format in article front matter.
-- **TODO:** Provision self-hosted infrastructure for Researcher dependencies:
-  - Deploy a self-hosted SearXNG instance (Docker), configure engines/timeouts/rate-limits, and expose an internal `SEARXNG_URL`.
-  - Deploy a self-hosted DeepSeek model behind an OpenAI-compatible API (e.g., vLLM gateway). Expose an internal `OPENAI_BASE_URL` and set default `DEEPSEEK_MODEL`.
-  - Provision a stable runtime for the Researcher (VM/container) with private network access to SearXNG and DeepSeek endpoints.
+- **DONE:** Provision self-hosted infrastructure for Researcher dependencies:
+  - **DONE:** Provision a stable runtime for the Researcher (VM/container) with private network access to SearXNG and DeepSeek endpoints.
+  - **DONE:** Deploy a self-hosted DeepSeek model behind an OpenAI-compatible API (e.g., vLLM gateway). Expose an internal `OPENAI_BASE_URL` and set default `DEEPSEEK_MODEL`.
+  - **SKIPPED:** Deploy a self-hosted SearXNG instance (Docker). We are using DuckDuckGo directly for MVP to avoid complexity; rate limits are managed internally.
+  - **Note:** Infrastructure setup is documented in `researcher/infra/README.md` using Docker Compose.
 - **DONE:** Initialize the Knowledgebase repository. Defined schema for metadata, created `scripts/build_index.py` to parse Markdown files and generate SQLite FTS5 index. Added dependencies in `requirements.txt`.
 - **DONE:** Initialize the Researcher agent repository. Set up Python project structure with README outlining the agent's workflow.
 - **DONE:** Initialize the Website repository with Next.js app. Configured `next.config.js` for static export. Created static page generation that reads from Gitopedia content. Set up AWS S3 and CloudFront deployment via CDK.
@@ -59,15 +60,8 @@ This roadmap outlines the development of Gitopedia in stages from a pre-MVP setu
   - **DONE - In Knowledgebase**: Workflow builds index and uploads to S3 with OIDC authentication, listens for `repository_dispatch` events (`content-updated`), and dispatches a `rebuild-site` event to the Website repo after successful index upload.
   - **DONE - In Website**: Workflow builds and deploys static site to S3/CloudFront with OIDC authentication, and listens for `repository_dispatch` events (`rebuild-site`) to rebuild the site when Knowledgebase completes.
   - **DONE**: AWS infrastructure configured with IAM OIDC roles for secure CI/CD access.
-- **TODO:** Develop the Search Lambda (Search API) in the Website (or a dedicated directory). Use Python or Node.js to create a function that can load the `index.sqlite` file and execute full-text queries. For MVP, you can bundle the SQLite from Knowledgebase manually (e.g. attach it in the lambda package). Implement a simple query handler: accept a query string and return top N article IDs/titles. (Tip: Use SQLite FTS query with rank and snippet to get a summary – this is supported as shown in similar projects). Specific implementation steps:
-  - Write the Lambda function code to open the SQLite database and perform a parameterized search query. (Ensure to use parameter binding to prevent any possibility of SQL injection, even though input is likely limited and sanitized by SQLite FTS.)
-  - Test the function locally (it can be run with a test event JSON). Use a small test SQLite with known entries to verify that queries return expected results.
-  - Set up infrastructure as code for deployment:
-    - Define an API Gateway route integration for the Lambda. This can be done with AWS SAM template or Serverless YAML. For example, define a `GET /search` route that triggers the lambda, and enable CORS to the known origins (localhost for dev, and production domain).
-    - Automate deployment via GitHub Actions: e.g., use `aws cloudformation package/deploy` commands or the Serverless framework CLI to push updates.
-    - Store necessary AWS credentials (or use GitHub OIDC to assume a deploy role) in the repository secrets so CI can deploy the Lambda and upload the static site.
-  - After deploying, test end-to-end: from a browser (or Postman) call the `/search` API with a sample query and see that it returns results from the latest content.
-- **TODO:** Integrate search on the Website frontend. Create a search input field on the site (perhaps on the homepage or a dedicated search page). When a user submits a query, use JavaScript (fetch API) to call the Search API endpoint. Display the list of results (at least title and snippet, linking to the article pages). For MVP, this can be a very basic UI.
+- **DONE:** Develop the Search Lambda (Search API) in the Website (or a dedicated directory). Implemented a Python Lambda in `website/search-api/app.py` that downloads `index.sqlite` from the Knowledgebase S3 bucket, executes SQLite FTS queries, and returns JSON results. The Solus CDK `GitopediaStack` defines the Lambda, grants it read access to the KB index bucket, and exposes it via an API Gateway `GET /search` endpoint with CORS for `gitopedia.org`. Website CI builds a deployable Lambda zip artifact.
+- **DONE:** Integrate search on the Website frontend. Added a basic search UI on the homepage (`website/pages/index.jsx`) that calls the Search API endpoint (configured via `NEXT_PUBLIC_SEARCH_API_URL`), displays results with titles and snippets, and links to article pages. For MVP, this is a simple form and result list.
 - **DONE:** Implement static page generation for Website. Created Next.js pages that:
   - Checkout Gitopedia repository during CI build to access Markdown files.
   - Use `lib/content.js` to parse Markdown with `gray-matter` and `remark` for HTML conversion.
