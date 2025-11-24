@@ -1,6 +1,6 @@
 # Researcher Agent – Automated Content Creation
 
-The Researcher is a Python-based AI agent designed to autonomously generate new Gitopedia articles. It monitors requests (for example, issues labeled "article request" in the Gitopedia repository), conducts research on the given topics, and produces well-structured Markdown articles complete with sources. Finally, it creates a pull request to add the articles to the Gitopedia repository.
+The Researcher is a Go-based AI agent designed to autonomously generate new Gitopedia articles. It monitors requests (for example, issues labeled "article request" in the Gitopedia repository), conducts research on the given topics, and produces well-structured Markdown articles complete with sources. Finally, it creates a pull request to add the articles to the Gitopedia repository.
 
 ## Strategy and Workflow
 
@@ -53,36 +53,28 @@ Automated CI and the Copilot Organizer perform validation and refactoring. If fi
 
 ### Environment and Tools
 
-The Researcher agent can run as a GitHub Action in the Researcher repository or as an external service:
+The Researcher agent runs locally as a Go binary for the MVP.
 
-- **As a GitHub Action**: We can set up a workflow that triggers on a schedule (e.g., daily) or on repository dispatch. This workflow would run the Researcher script inside a runner that has internet access. We will store necessary secrets (API keys for search/LLM and a GitHub PAT for committing) as encrypted secrets in the repo.
-- **As an external long-running bot**: Alternatively, one could run the Researcher on a server or as a GitHub App that listens to events. For simplicity, using GitHub Actions is a good starting point.
+- **Local Execution**: The agent is designed to run on a developer's machine or a dedicated server. It connects to GitHub via the API and to LLMs via network calls.
+- **No Container CI yet**: Containerization and automated CI pipelines for the Researcher are deferred to a later phase. Run `go build` to create the binary.
 
 ### Self-hosted Services and LLM Access
 
 The Researcher supports both self-hosted and cloud providers:
 
-- **Web Search via SearXNG (self-hosted)**: The agent queries a self-hosted SearXNG instance for aggregation of search results across multiple engines. The SearXNG endpoint and optional API key are provided via environment variables. The client enforces timeouts and rate limits.
-- **LLM via DeepSeek (self-hosted, OpenAI-compatible API)**: The primary LLM can be a self-hosted DeepSeek model exposed behind an OpenAI-compatible REST API (e.g., served by vLLM or another gateway). The agent uses the Python OpenAI SDK with a custom `base_url` to talk to this endpoint.
-- **LLM via OpenAI API (cloud)**: The agent also has access to the OpenAI API and includes the Python OpenAI SDK in its toolkit. It can fall back to OpenAI when the self-hosted model is unavailable or when specific models/features are needed.
+- **Web Search via DuckDuckGo**: The agent currently uses the `duckduckgo-search` approach (simulated via `internal/search` package) for simplicity. It does not require a separate SearXNG instance for the MVP. Rate limits are managed internally.
+- **LLM via DeepSeek (self-hosted, OpenAI-compatible API)**: The primary LLM is a self-hosted DeepSeek model exposed behind an OpenAI-compatible REST API (served by Ollama). The agent uses the Go OpenAI SDK with a custom `OPENAI_BASE_URL` (e.g., `http://localhost:11434/v1`) to talk to this endpoint.
+- **LLM via OpenAI API (cloud)**: The agent can also fall back to OpenAI by setting `OPENAI_BASE_URL` to the official endpoint and providing an API key.
 
-Recommended provider order:
-1) DeepSeek (self-hosted) for primary generation
-2) OpenAI (cloud) as fallback for reliability/specific tasks
+Configuration is handled via a `.env` file or environment variables.
 
-### Containerization, Registry, and Runtime
+### Runtime
 
-The Researcher is packaged and deployed as a container:
+The Researcher is built as a standalone Go binary:
 
-- **Docker Image (multi-stage, distroless runtime)**:
-  - Build stage uses a Python base image to install dependencies and prepare artifacts (e.g., wheels/venv).
-  - Final stage uses a distroless Python runtime image for minimal attack surface and size.
-  - The entrypoint runs the Researcher process (CLI/service) with configuration via environment variables.
-- **Amazon ECR**:
-  - An ECR repository is created to host the Researcher images.
-  - CI pipeline authenticates to ECR, builds the image, runs tests, tags with commit SHA and `latest`, and pushes.
-- **Deployment**:
-  - Deployment is managed by an external GitOps system (e.g., ArgoCD). The container image reference (ECR URI + tag) is updated as part of the delivery pipeline. This document references that approach at a high level without detailing the ArgoCD configuration.
+- **Build**: `go build -o researcher main.go`
+- **Run**: `./researcher`
+- **Configuration**: `.env` file for secrets (`GITHUB_TOKEN`, `OPENAI_API_KEY`, etc.).
 
 ### Key Components of the Code
 
