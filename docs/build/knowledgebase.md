@@ -111,12 +111,14 @@ Once built, `index.sqlite` will contain all searchable text. The file can be cop
 
 ### Releasing the Index
 
-After building, the Knowledgebase repository needs to make the `index.sqlite` available to the Website's search lambda. We have a couple of strategies for this:
+After building, the Knowledgebase repository uploads `index.sqlite` directly to the dedicated Knowledgebase index S3 bucket created by the Solus CDK `GitopediaStack`:
 
-- **GitHub Release/Artifact:** The CI workflow can attach `index.sqlite` as a build artifact or publish it in a GitHub Release associated with the Knowledgebase repository. For example, on each successful index build, we create (or update) a release like "Latest Index" and upload the SQLite file. This can be scripted via GitHub's API. The Website (or the Lambda function deployment) could then fetch this artifact.
-- **Direct S3 Upload:** Alternatively, if we have an S3 bucket for the project, the Knowledgebase action can upload `index.sqlite` to a known S3 location (e.g., `s3://<bucket>/index.sqlite`). The search Lambda would be configured with permission to retrieve this file. This approach was used in similar projects to allow Lambda to pull the latest database. The benefit is that Lambda can fetch the file at startup without needing a GitHub token or embedding the file in the code package.
+- The CI workflow copies `out/index.sqlite` to `s3://<GITOPEDIA_KB_INDEX_BUCKET>/index.sqlite`.
+- The Search Lambda (defined in the same CDK stack) is configured with:
+  - `INDEX_BUCKET` = this S3 bucket name
+  - `INDEX_KEY` = `index.sqlite`
 
-During development (MVP), using GitHub artifacts might be simpler (since everything stays within GitHub). For production, an S3 approach or embedding the index in the lambda deployment might be preferred for speed and simplicity (embedding avoids a network call on cold start at the cost of deploying the lambda for each update, which our CI can automate).
+On cold start, the Search Lambda downloads the latest `index.sqlite` from this bucket into `/tmp` and serves queries from it. This keeps GitHub repos focused on source/metadata while S3 holds the heavy index file.
 
 ## Repository Structure
 

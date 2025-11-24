@@ -19,13 +19,12 @@ The system's operation involves a pipeline that moves from content creation to p
    - The trigger can be another repository dispatch (for example, Knowledgebase's Action calls the GitHub API to send an event to the Website repo, including perhaps the Knowledgebase release version or a URL to the new index).
    - Alternatively, the Website could poll or be scheduled to check for a new index release. A direct trigger is preferred for immediacy.
 
-5. **Website Deployment** – The Website workflow runs:
+5. **Website Deployment and Search API** – The Website workflow runs:
    - It pulls content from Gitopedia (ideally the same commit that was used for the Knowledgebase build, to keep in sync).
-   - Downloads or accesses the latest `index.sqlite` (if needed for packaging with the search lambda).
    - Rebuilds the static site and deploys it to S3/CloudFront.
-   - Updates the Search Lambda with the new index (either by redeploying the function or ensuring the function will fetch the new index).
+   - The Search Lambda (deployed via the Solus CDK stack) reads `index.sqlite` directly from the Knowledgebase index S3 bucket on cold start and serves a `/search` HTTP endpoint through API Gateway.
 
-6. **User Facing** – The new content is live on the site and searchable via the updated index.
+6. **User Facing** – The new content is live on the site and searchable via the updated index served by the Search Lambda.
 
 ## CI Automation and GitHub Access
 
