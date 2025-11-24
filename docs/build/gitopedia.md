@@ -50,7 +50,9 @@ id: 01HABCD1234XYZ...    # ULID for the article
 title: "OpenAI"
 slug: "openai"            # Human-readable slug
 created: 2025-11-12
+author: "Gitopedia Bot"
 tags: ["artificial intelligence", "LLM"]
+summary: "A research organization focused on developing safe artificial intelligence."
 ---
 ```
 
@@ -58,7 +60,9 @@ tags: ["artificial intelligence", "LLM"]
 - **`title`:** The human-friendly canonical title of the article. One canonical title per concept is enforced with CI checks. (The article's Markdown content should also start with an H1 heading of the same title for consistency.)
 - **`slug`:** A human-readable slug used in URLs and filenames. Should match the filename (without extension and path).
 - **`created`** (optional): The date the article was created (or first added). Could be used for sorting or indicating freshness.
+- **`author`** (optional): The creator of the article (e.g., "Gitopedia Bot").
 - **`tags`** (optional): An array of tags or categories. This can help group articles by topic. (Tags might be single words or phrases like "AI" or "History".)
+- **`summary`** (optional): A concise summary of the article content.
 
 After the front matter, the article content should begin with a top-level heading (e.g. `# OpenAI`) followed by the body of the article.
 
