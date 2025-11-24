@@ -182,6 +182,18 @@ def validate_articles(authority_ids: set[str]) -> bool:
         #    error(f"{md_path}: must specify at least one of: people, orgs, places, date_refs")
         #    ok = False
 
+        # Redirect validation
+        redirect_from = fm.get("redirect_from")
+        if redirect_from is not None:
+            if not isinstance(redirect_from, list):
+                 error(f"{md_path}: 'redirect_from' must be a list of strings")
+                 ok = False
+            else:
+                for r in redirect_from:
+                    if not isinstance(r, str) or not r.startswith("/"):
+                        error(f"{md_path}: redirect_from entry '{r}' must be a string starting with '/'")
+                        ok = False
+
     return ok
 
 
