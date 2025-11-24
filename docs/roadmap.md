@@ -80,15 +80,15 @@ This roadmap outlines the development of Gitopedia in stages from a pre-MVP setu
   - Calls an LLM (OpenAI/DeepSeek) to draft Markdown content with citations.
   - Creates a branch, stages content in `_incoming/`, and opens a Draft PR.
   - Validated with unit tests and a local `Makefile` workflow.
-- **TODO:** Test the end-to-end flow for MVP:
-  - Create a dummy "New Article Request" issue on Gitopedia (with a simple prompt).
-  - Run the Researcher agent to process this issue (generating an article and PR).
-  - Merge the PR into Gitopedia.
-  - Verify the Knowledgebase action runs and updates the index.
-  - Manually deploy or update the Search API with the new index (for MVP, this might be a manual step if full automation isn't done).
-  - Rebuild the Website and deploy the updated static site.
-  - Open the website and confirm the new article is visible and searchable.
-- **TODO:** Fix any issues uncovered in testing. Likely areas: Markdown formatting errors, search queries not returning expected results, deployment misconfigurations (e.g., CORS issues between the static site and search API). Address these to ensure the MVP demonstration is successful.
+- **DONE:** Test the end-to-end flow for MVP:
+  - **DONE:** Create a dummy "New Article Request" issue on Gitopedia (with a simple prompt).
+  - **DONE:** Run the Researcher agent to process this issue (generating an article and PR).
+  - **DONE:** Merge the PR into Gitopedia.
+  - **DONE:** Verify the Knowledgebase action runs and updates the index.
+  - **DONE:** Manually deploy or update the Search API with the new index (for MVP, this might be a manual step if full automation isn't done).
+  - **DONE:** Rebuild the Website and deploy the updated static site.
+  - **DONE:** Open the website and confirm the new article is visible and searchable.
+- **DONE:** Fix any issues uncovered in testing. Addressed minor issues like regex parsing in search UI and incorrect roadmap status updates.
 
 ## Phase 2: Enhanced Capabilities and Beta Release
 
