@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:antibiotics",
+    "label": "Antibiotics",
+    "aliases": []
+  }
 ]
-
-
