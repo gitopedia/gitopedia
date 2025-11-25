@@ -1,4 +1,37 @@
 [
+  {
+    "id": "topic:space-exploration",
+    "label": "space exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:history-of-space-exploration",
+    "label": "history of space exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:salyut-missions",
+    "label": "Salyut missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:moon-landing",
+    "label": "Moon landing",
+    "aliases": []
+  },
+  {
+    "id": "topic:lunar-rovers",
+    "label": "lunar rovers",
+    "aliases": []
+  },
+  {
+    "id": "topic:mars-probe-missions",
+    "label": "mars probe missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:artemis-program",
+    "label": "artemis program",
+    "aliases": []
+  }
 ]
-
-
