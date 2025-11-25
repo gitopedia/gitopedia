@@ -1,4 +1,17 @@
 [
+  {
+    "id": "topic:introduction-to-artificial-int",
+    "label": "Introduction to Artificial Intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence",
+    "label": "Artificial Intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:applications-of-ai",
+    "label": "Applications of AI",
+    "aliases": []
+  }
 ]
-
-
