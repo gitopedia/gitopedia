@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/fs"
 	"log"
+	"net/url"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -14,6 +15,7 @@ import (
 )
 
 var ulidRegex = regexp.MustCompile(`^[0-9A-HJKMNP-TV-Z]{26}$`)
+var linkRegex = regexp.MustCompile(`\[.*?\]\((.*?)\)`)
 
 type AuthorityEntry struct {
 	ID string `json:"id"`
@@ -98,7 +100,7 @@ func validateArticles(dir string, authIDs map[string]bool) error {
 			return nil
 		}
 
-		if err := validateFile(path, authIDs, seenIDs, seenTitles); err != nil {
+		if err := validateFile(path, dir, authIDs, seenIDs, seenTitles); err != nil {
 			log.Printf("Error in %s: %v", path, err)
 			hasError = true
 		}
@@ -114,13 +116,13 @@ func validateArticles(dir string, authIDs map[string]bool) error {
 	return nil
 }
 
-func validateFile(path string, authIDs map[string]bool, seenIDs, seenTitles map[string]string) error {
+func validateFile(path, rootDir string, authIDs map[string]bool, seenIDs, seenTitles map[string]string) error {
 	content, err := os.ReadFile(path)
 	if err != nil {
 		return err
 	}
 
-	fm, err := frontmatter.Parse(content)
+	fm, body, err := frontmatter.Parse(content)
 	if err != nil {
 		return fmt.Errorf("front matter error: %w", err)
 	}
@@ -185,6 +187,51 @@ func validateFile(path string, authIDs map[string]bool, seenIDs, seenTitles map[
 	}
 	if err := checkFacets("places", fm.Places); err != nil {
 		return err
+	}
+
+	// Validate Links
+	matches := linkRegex.FindAllStringSubmatch(body, -1)
+	for _, m := range matches {
+		link := strings.TrimSpace(m[1])
+		if link == "" || strings.HasPrefix(link, "#") || strings.HasPrefix(link, "mailto:") {
+			continue
+		}
+
+		if strings.HasPrefix(link, "http") {
+			if _, err := url.Parse(link); err != nil {
+				return fmt.Errorf("invalid URL: %s", link)
+			}
+		} else {
+			// Internal link
+			var target string
+			if strings.HasPrefix(link, "/") {
+				// Absolute path relative to Compendium root
+				target = filepath.Join(rootDir, link)
+			} else {
+				// Relative to current file
+				target = filepath.Join(filepath.Dir(path), link)
+			}
+
+			// Decode URL encoding (e.g. %20 -> space)
+			if u, err := url.QueryUnescape(target); err == nil {
+				target = u
+			}
+
+			// Check existence
+			if _, err := os.Stat(target); os.IsNotExist(err) {
+				// Try with .md extension
+				if _, err := os.Stat(target + ".md"); os.IsNotExist(err) {
+					// Try index.md inside directory
+					if _, err := os.Stat(filepath.Join(target, "index.md")); os.IsNotExist(err) {
+						// Log warning instead of erroring for now, to avoid breaking build on existing content
+						// Or strict? User said "enforce".
+						// But newly generated content might have issues?
+						// Let's be strict for "Pipeline Robustness".
+						return fmt.Errorf("broken internal link: %s", link)
+					}
+				}
+			}
+		}
 	}
 
 	return nil

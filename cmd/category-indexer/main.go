@@ -96,7 +96,7 @@ func generateIndex(dir string) error {
 		
 		content, err := os.ReadFile(fpath)
 		if err == nil {
-			fm, err := frontmatter.Parse(content)
+			fm, _, err := frontmatter.Parse(content)
 			if err == nil && fm.Title != "" {
 				linkTitle = fm.Title
 			}

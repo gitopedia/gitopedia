@@ -19,20 +19,20 @@ type Data struct {
 	Rest     map[string]interface{} `yaml:",inline"`
 }
 
-func Parse(content []byte) (Data, error) {
+func Parse(content []byte) (Data, string, error) {
 	s := string(content)
 	if !strings.HasPrefix(s, "---") {
-		return Data{}, fmt.Errorf("missing front matter")
+		return Data{}, "", fmt.Errorf("missing front matter")
 	}
 	parts := strings.SplitN(s, "---", 3)
 	if len(parts) < 3 {
-		return Data{}, fmt.Errorf("malformed front matter")
+		return Data{}, "", fmt.Errorf("malformed front matter")
 	}
 
 	var fm Data
 	if err := yaml.Unmarshal([]byte(parts[1]), &fm); err != nil {
-		return Data{}, err
+		return Data{}, "", err
 	}
-	return fm, nil
+	return fm, parts[2], nil
 }
 
