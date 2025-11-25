@@ -1,4 +1,27 @@
 [
+  {
+    "id": "topic:psychiatry",
+    "label": "Psychiatry",
+    "aliases": []
+  },
+  {
+    "id": "topic:addiction",
+    "label": "Addiction",
+    "aliases": []
+  },
+  {
+    "id": "topic:substance-abuse",
+    "label": "Substance Abuse",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:addiction-psychiatry",
+    "label": "Addiction Psychiatry",
+    "aliases": []
+  }
 ]
-
-
