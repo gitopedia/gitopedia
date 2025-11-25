@@ -70,7 +70,7 @@ This is an integration test.
 	cmd := exec.Command("go", "run", absIndexerPath)
 	cmd.Dir = kbRoot
 	cmd.Env = append(os.Environ(), fmt.Sprintf("GITOPEDIA_DIR=%s", compendiumDir))
-	
+
 	out, err := cmd.CombinedOutput()
 	if err != nil {
 		t.Fatalf("Indexer failed: %v\nOutput:\n%s", err, string(out))
@@ -107,4 +107,3 @@ This is an integration test.
 
 	log.Println("Integration test passed!")
 }
-

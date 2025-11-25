@@ -9,4 +9,3 @@ import (
 func main() {
 	fmt.Println(ulid.Make().String())
 }
-

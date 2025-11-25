@@ -35,4 +35,3 @@ func Parse(content []byte) (Data, string, error) {
 	}
 	return fm, parts[2], nil
 }
-

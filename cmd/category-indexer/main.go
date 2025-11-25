@@ -42,7 +42,7 @@ func walkAndGenerate(root string) error {
 			if strings.HasPrefix(base, ".") || base == "_incoming" {
 				return filepath.SkipDir
 			}
-			
+
 			if path != root {
 				if err := generateIndex(path); err != nil {
 					log.Printf("Error generating index for %s: %v", path, err)
@@ -93,7 +93,7 @@ func generateIndex(dir string) error {
 		// Try to get title from front matter
 		fpath := filepath.Join(dir, fname)
 		linkTitle := strings.TrimSuffix(fname, filepath.Ext(fname))
-		
+
 		content, err := os.ReadFile(fpath)
 		if err == nil {
 			fm, _, err := frontmatter.Parse(content)
@@ -101,7 +101,7 @@ func generateIndex(dir string) error {
 				linkTitle = fm.Title
 			}
 		}
-		
+
 		sb.WriteString(fmt.Sprintf("- [%s](%s)\n", linkTitle, fname))
 	}
 	sb.WriteString("\n")
@@ -109,4 +109,3 @@ func generateIndex(dir string) error {
 	indexPath := filepath.Join(dir, "index.md")
 	return os.WriteFile(indexPath, []byte(sb.String()), 0644)
 }
-
