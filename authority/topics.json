@@ -1,4 +1,17 @@
 [
+  {
+    "id": "topic:atomic-physics",
+    "label": "Atomic physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:physics-and-astronomy",
+    "label": "Physics and Astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:physics",
+    "label": "Physics",
+    "aliases": []
+  }
 ]
-
-
