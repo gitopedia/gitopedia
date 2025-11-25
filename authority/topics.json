@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:philosophy",
+    "label": "Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:topic-1",
+    "label": "Topic 1",
+    "aliases": []
+  }
 ]
-
-
