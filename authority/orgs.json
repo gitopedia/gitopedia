@@ -1,4 +1,17 @@
 [
+  {
+    "id": "org:wikipedia",
+    "label": "Wikipedia",
+    "aliases": []
+  },
+  {
+    "id": "org:new-world-encyclopedia",
+    "label": "New World Encyclopedia",
+    "aliases": []
+  },
+  {
+    "id": "org:atomic-archive",
+    "label": "Atomic Archive",
+    "aliases": []
+  }
 ]
-
-
