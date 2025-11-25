@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:space-exploration",
+    "label": "Space Exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-holes-and-space-time-cur",
+    "label": "Black Holes and Space-Time Curvature",
+    "aliases": []
+  }
 ]
-
-
