@@ -1,4 +1,17 @@
 [
+  {
+    "id": "person:alexei-leonov",
+    "label": "alexei leonov",
+    "aliases": []
+  },
+  {
+    "id": "person:yuri-gagarin",
+    "label": "Yuri Gagarin",
+    "aliases": []
+  },
+  {
+    "id": "person:vladimir-komarov",
+    "label": "Vladimir Komarov",
+    "aliases": []
+  }
 ]
-
-
