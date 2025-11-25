@@ -1,4 +1,12 @@
 [
+  {
+    "id": "place:moon",
+    "label": "moon",
+    "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "mars",
+    "aliases": []
+  }
 ]
-
-
