@@ -20,3 +20,7 @@ jobs:
       - name: Validate authority and front matter
         run: |
           go run cmd/validate/main.go
+      - name: Markdown Lint
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: "Compendium/**/*.md"
