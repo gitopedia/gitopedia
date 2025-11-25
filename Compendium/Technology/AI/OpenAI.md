@@ -8,14 +8,17 @@ tags: ["artificial intelligence", "LLM", "technology"]
 
 # OpenAI
 
-OpenAI is an artificial intelligence research organization focused on developing and deploying advanced AI systems. This article is a seed example to validate the Gitopedia repository structure and automated pipelines.
+OpenAI is an artificial intelligence research organization focused on developing
+and deploying advanced AI systems. This article is a seed example to validate
+the Gitopedia repository structure and automated pipelines.
 
 ## Overview
 
-OpenAI researches and builds large language models and related AI technologies. Its projects and releases often influence research and product development across the AI ecosystem.
+OpenAI researches and builds large language models and related AI technologies.
+Its projects and releases often influence research and product development
+across the AI ecosystem.
 
 ## References
 
-- 【openai†】 https://openai.com
-
+- [OpenAI](https://openai.com)
 
