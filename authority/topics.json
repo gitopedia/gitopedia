@@ -1,4 +1,32 @@
 [
+  {
+    "id": "topic:world-history",
+    "label": "World History",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-silk-road-and-its-impact-o",
+    "label": "The Silk Road and its impact on trade and cultural exchange between East and West.",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-indus-valley-civilization-",
+    "label": "The Indus Valley Civilization and the development of urban centers in ancient India.",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-fall-of-the-western-roman-",
+    "label": "The fall of the Western Roman Empire and the rise of early medieval Europe.",
+    "aliases": []
+  },
+  {
+    "id": "topic:genghis-khan-and-the-mongol-em",
+    "label": "Genghis Khan and the Mongol Empire's expansion and conquests.",
+    "aliases": []
+  },
+  {
+    "id": "topic:colonialism-and-its-impact-on-",
+    "label": "Colonialism and its impact on indigenous cultures around the world.",
+    "aliases": []
+  }
 ]
-
-
