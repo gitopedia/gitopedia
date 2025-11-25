@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:physics",
+    "label": "Physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-holes-in-physics",
+    "label": "Black Holes in Physics",
+    "aliases": []
+  }
 ]
-
-
