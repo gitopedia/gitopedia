@@ -21,4 +21,3 @@ across the AI ecosystem.
 ## References
 
 - [OpenAI](https://openai.com)
-
