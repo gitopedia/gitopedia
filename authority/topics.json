@@ -1,4 +1,152 @@
 [
+  {
+    "id": "topic:sustainable-energy",
+    "label": "Sustainable Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-energy-technologies-and-",
+    "label": "Solar energy technologies and applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-fundamentals-",
+    "label": "Renewable Energy Fundamentals and Processes",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage-solutions",
+    "label": "Energy Storage Solutions",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-power-generation",
+    "label": "Sustainable Power Generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:alternative-energy-sources",
+    "label": "Alternative Energy Sources",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-stabilization",
+    "label": "Grid Stabilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-integration",
+    "label": "Renewable Integration",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-independence",
+    "label": "Energy Independence",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmentally-friendly-power",
+    "label": "Environmentally Friendly Power Generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-scale-battery-systems",
+    "label": "Grid-scale Battery Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:advanced-control-strategies",
+    "label": "Advanced Control Strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:microgrids",
+    "label": "Microgrids",
+    "aliases": []
+  },
+  {
+    "id": "topic:cost-reduction-through-economi",
+    "label": "Cost Reduction through Economies of Scale in Manufacturing and Operation Costs",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage-solutions-for-s",
+    "label": "Energy storage solutions for sustainable power generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomass",
+    "label": "Biomass",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-source",
+    "label": "renewable energy source",
+    "aliases": []
+  },
+  {
+    "id": "topic:organic-matter",
+    "label": "organic matter",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-background",
+    "label": "energy background",
+    "aliases": []
+  },
+  {
+    "id": "topic:history-of-biomass-use-in-ener",
+    "label": "history of biomass use in energy generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:biofuels-production",
+    "label": "biofuels production",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-applications",
+    "label": "energy applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:advantages-and-disadvantages-o",
+    "label": "advantages and disadvantages of biomass as a sustainable energy source",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomass-as-a-sustainable-energ",
+    "label": "Biomass as a Sustainable Energy Source",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-production-methods-fo",
+    "label": "Hydrogen production methods for clean energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:advanced-nuclear-reactors-for-",
+    "label": "Advanced Nuclear Reactors for Clean Power Generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:wind-energy-technologies,-appl",
+    "label": "Wind energy technologies, applications \u0026 advancements",
+    "aliases": []
+  },
+  {
+    "id": "topic:geothermal-energy-and-its-prac",
+    "label": "Geothermal Energy and its Practical Applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-energy-policy-and-",
+    "label": "Sustainable Energy Policy and Regulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-efficiency-standards-an",
+    "label": "Energy Efficiency Standards and Measures",
+    "aliases": []
+  }
 ]
-
-
