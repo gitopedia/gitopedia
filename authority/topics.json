@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:artificial-intelligence",
+    "label": "Artificial Intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:natural-language-processing",
+    "label": "Natural Language Processing",
+    "aliases": []
+  }
 ]
-
-
