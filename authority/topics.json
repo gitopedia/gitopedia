@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:biology",
+    "label": "Biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:cell-biology",
+    "label": "Cell biology",
+    "aliases": []
+  }
 ]
-
-
