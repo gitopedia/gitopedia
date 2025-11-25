@@ -1,4 +1,22 @@
 [
+  {
+    "id": "person:antonie-van-leeuwenhoek",
+    "label": "antonie van Leeuwenhoek",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-brown",
+    "label": "robert brown",
+    "aliases": []
+  },
+  {
+    "id": "person:max-delbrück",
+    "label": "max delbrück",
+    "aliases": []
+  },
+  {
+    "id": "person:salvador-luria",
+    "label": "salvador luria",
+    "aliases": []
+  }
 ]
-
-
