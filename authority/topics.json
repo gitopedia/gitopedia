@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:cardiology",
+    "label": "Cardiology",
+    "aliases": []
+  }
 ]
-
-
