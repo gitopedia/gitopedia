@@ -1,4 +1,107 @@
 [
+  {
+    "id": "topic:cell-biology",
+    "label": "cell biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:history-of-cell-biology",
+    "label": "history of cell biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:electron-microscopy",
+    "label": "electron microscopy",
+    "aliases": []
+  },
+  {
+    "id": "topic:dna-as-the-genetic-material",
+    "label": "dna as the genetic material",
+    "aliases": []
+  },
+  {
+    "id": "topic:chromosomes-and-genes",
+    "label": "chromosomes and genes",
+    "aliases": []
+  },
+  {
+    "id": "topic:cellular-differentiation",
+    "label": "cellular differentiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:cell-division",
+    "label": "cell division",
+    "aliases": []
+  },
+  {
+    "id": "topic:growth",
+    "label": "growth",
+    "aliases": []
+  },
+  {
+    "id": "topic:migration",
+    "label": "migration",
+    "aliases": []
+  },
+  {
+    "id": "topic:apoptosis-(programmed-cell-dea",
+    "label": "apoptosis (programmed cell death)",
+    "aliases": []
+  },
+  {
+    "id": "topic:autophagy-(cellular-recycling)",
+    "label": "autophagy (cellular recycling)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cell-structure-and-organelles",
+    "label": "cell structure and organelles",
+    "aliases": []
+  },
+  {
+    "id": "topic:signal-molecules-in-cells",
+    "label": "signal molecules in cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-applications-of-cell-b",
+    "label": "medical applications of cell biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:biotechnology-applications-of-",
+    "label": "biotechnology applications of cell biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:agricultural-applications-of-c",
+    "label": "agricultural applications of cell biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:genome-editing-technologies",
+    "label": "genome editing technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:synthetic-biology",
+    "label": "synthetic biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:cell-culture-technologies",
+    "label": "cell culture technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:stem-cell-research",
+    "label": "stem cell research",
+    "aliases": []
+  },
+  {
+    "id": "topic:biology",
+    "label": "Biology",
+    "aliases": []
+  }
 ]
-
-
