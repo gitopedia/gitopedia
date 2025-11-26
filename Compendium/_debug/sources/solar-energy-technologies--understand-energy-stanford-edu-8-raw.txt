@@ -1,0 +1,353 @@
+This Hub is a cross-campus effort of the Precourt Institute for Energy. Take the Understand Energy course for credit.
+
+Search this site Submit Search
+
+TopicsCurrent Energy LandscapeIntroduction to EnergyEnergy BasicsThe Accelerating Energy TransitionsWhy We Care About EnergyClimate ChangeEnergy, the Environment, and JusticeGlobal Energy AccessEnergy ResourcesFossil Fuel EnergyIntroduction to Fossil FuelsProspecting for Oil and Natural GasDrilling, Completing, and Producing from Oil and Natural Gas WellsOilNatural GasCoalNuclear EnergyIntroduction to Nuclear EnergyFissionFusionRenewable EnergyIntroduction to Renewable EnergyEnergy EfficiencyWindSolarBiomass (semi-renewable)Hydro (semi-renewable)Geothermal (semi-renewable)OceanEnergy CurrenciesElectricity GenerationThe Grid: Electricity Transmission, Industry, and MarketsA Decarbonized Electric Power SectorGasoline & DieselBiofuelsHydrogenEnergy ServicesBuildingsTransportationIndustryTools to Manage and Sustain Energy SystemsEnergy PolicyEnergy StorageCarbon ManagementDecarbonize Your Life
+
+Current Energy Landscape
+
+Introduction to EnergyEnergy BasicsThe Accelerating Energy Transitions
+
+The Accelerating Energy Transitions
+
+Why We Care About EnergyClimate ChangeEnergy, the Environment, and JusticeGlobal Energy Access
+
+Energy, the Environment, and Justice
+
+Energy ResourcesFossil Fuel EnergyIntroduction to Fossil FuelsProspecting for Oil and Natural GasDrilling, Completing, and Producing from Oil and Natural Gas WellsOilNatural GasCoalNuclear EnergyIntroduction to Nuclear EnergyFissionFusionRenewable EnergyIntroduction to Renewable EnergyEnergy EfficiencyWindSolarBiomass (semi-renewable)Hydro (semi-renewable)Geothermal (semi-renewable)Ocean
+
+Fossil Fuel EnergyIntroduction to Fossil FuelsProspecting for Oil and Natural GasDrilling, Completing, and Producing from Oil and Natural Gas WellsOilNatural GasCoal
+
+Introduction to Fossil Fuels
+
+Prospecting for Oil and Natural Gas
+
+Drilling, Completing, and Producing from Oil and Natural Gas Wells
+
+Nuclear EnergyIntroduction to Nuclear EnergyFissionFusion
+
+Introduction to Nuclear Energy
+
+Renewable EnergyIntroduction to Renewable EnergyEnergy EfficiencyWindSolarBiomass (semi-renewable)Hydro (semi-renewable)Geothermal (semi-renewable)Ocean
+
+Introduction to Renewable Energy
+
+Biomass (semi-renewable)
+
+Hydro (semi-renewable)
+
+Geothermal (semi-renewable)
+
+Energy CurrenciesElectricity GenerationThe Grid: Electricity Transmission, Industry, and MarketsA Decarbonized Electric Power SectorGasoline & DieselBiofuelsHydrogen
+
+Electricity Generation
+
+The Grid: Electricity Transmission, Industry, and Markets
+
+A Decarbonized Electric Power Sector
+
+Energy ServicesBuildingsTransportationIndustry
+
+Tools to Manage and Sustain Energy SystemsEnergy PolicyEnergy StorageCarbon ManagementDecarbonize Your Life
+
+Decarbonize Your Life
+
+Monthly SpotlightSubscribePast Issues
+
+Other Learning HubsIntegrative Design for Radical Energy Efficiency Learning HubBuilding Decarbonization Learning Accelerator
+
+Integrative Design for Radical Energy Efficiency Learning Hub
+
+Building Decarbonization Learning Accelerator
+
+AboutHow to Navigate our SiteTake the Understand Energy Course for CreditStanford StudentsNon-Stanford StudentsOur TeamContact Us
+
+How to Navigate our Site
+
+Take the Understand Energy Course for CreditStanford StudentsNon-Stanford Students
+
+Non-Stanford Students
+
+Exploring Our Content
+
+Fast Facts (Printable PDF, 150 KB)
+
+Curated Videos and Readings
+
+Stanford Course Lecture
+
+Check out our Energy Spotlight on solar energy!
+
+Fast Facts AboutSolar Energy
+
+Principal Energy Uses: Daylight, Electricity, HeatForms of Energy: Thermal, Radiant
+
+Solar energy is radiant energy from the sun—a fully renewable energy resource. We use the solar resource to provide daylight, electricity, and heat in four ways (in order of prevalence):
+
+Indirect: Our primary use of the sun’s energy is for free light and warmth (not counted in the data below but important for energy efficiency)
+
+Solar PV: Converting photons (light) directly into electricity through photovoltaics (PV), also known as solar panels
+
+Direct (solar thermal heat): Using the sun to heat water and buildings (hot water, warm pools, space heating/cooling)
+
+Solar Thermal Power (CSP): Concentrating sunlight to produce high-temperature heat to generate electricity, sometimes called concentrating solar power (CSP)
+
+Solar PV is the fastest-growing electricity resource in the world. It is fully renewable with few environmental impacts, and the cheapest source of electricity in many countries.
+
+3% of world 🌎(#7 resource)1% of U.S. 🇺🇸(#7 resource)
+
+5% of world 🌎(#6 resource)4% of U.S. 🇺🇸(#6 resource)
+
+Solar PV 79%Solar thermal heat 20%CSP 1%
+
+China 43% 🇨🇳of global installed capacity
+
+China 36% 🇨🇳of global solar electricity
+
+Chile 20% 🇨🇱of country’s electricity comes from solar
+
+Increase:⬆ 186%(2018-2023)
+
+California 24%of U.S. installed capacity
+
+California 27%of U.S. solar electricity
+
+California 28%of state's electricity comes from solar
+
+Global Solar Thermal Heat
+
+China 73% 🇨🇳of global installed capacity
+
+China’s main use is for heating buildings and water, while the main use in the U.S. is for heating swimming pools
+
+Increase:⬆ 16%(2018-2023)
+
+Global Solar Thermal Power (CSP)
+
+Spain 34% 🇪🇸of global installed capacity
+
+(U.S. has 19%, 64% of which is in California)
+
+Increase:⬆ 22%(2018-2023)
+
+Costs of U.S. Solar PV
+
+Costs increase as size of installation falls:
+
+Utility scale: largest scale, unsubsidized LCOE* = $29 - $92
+
+Community, commercial, industrial: medium scale, unsubsidized LCOE = $54 - $191
+
+Rooftop solar / residential: smallest scale, unsubsidized LCOE = $122 - $284
+
+*LCOE (levelized cost of energy) - allows for the comparison of different electricity generating technologies
+
+Compare costs with subsidies and for other resources on the Introduction to Renewable Energy Fast Facts
+
+Costs of solar PV have fallen over time:
+
+Line graph showing how the cost of utility scale solar PV has decreased dramatically since 2009 (from over $350/MWh in 2009 to $60/MWh in 2024). The LCOE increase from 2022 to 2023 and 2024 is due to higher interest rates and other cost pressures, according to Lazard's June 2024 report.This graph shows the prices for utility scale, but the same trends hold for different sizes of solar installations.
+
+Abundant, nondepletable source of energy
+
+Low climate and environmental impact
+
+Utility-scale solar PV: very low LCOE relative to fossil fuels, competitive with onshore wind
+
+Continued PV productivity gains
+
+Declining energy storage costs enable grid integration
+
+No fuel price volatility/risk
+
+Relatively short implementation timeframe from project start to electricity generation
+
+Financial incentives (investment tax credit)
+
+Renewable energy/climate targets
+
+Rooftop solar PV: no transmission needed; no additional land use
+
+Solar thermal heat: low-cost option for heating buildings, certain industrial processes
+
+Grid integration challenges due to intermittency and duck curve*
+
+Inconsistent/decreasing incentives
+
+NIMBY/BANANA** concerns
+
+U.S. economic sanctions against panels manufactured in China, which is the largest solar PV manufacturer in the world
+
+Lack of solar PV recycling capacity at end of life
+
+Rooftop solar PV: very high LCOE; net metering reforms and utility rate redesign threaten economic viability
+
+Solar thermal heat: hard to reach high enough temperatures for certain industrial processes
+
+*Non-solar power plants are forced to ramp up quickly when the sun goes down because solar electricity drops and net demand peaks**NIMBY - not in my backyard; BANANA - build absolutely nothing anywhere near anything
+
+Environmental Impact: Low
+
+Little / no water use
+
+Land use and habitat impact can be significant
+
+Updated December 2024
+
+Our 10-Minute Take OnSolar Energy
+
+If you're short on time, start by watching this video of key highlights from our lecture on Solar Energy.
+
+Presented by: Diana Gragg, PhD; Core Lecturer, Civil and Environmental Engineering, Stanford University; Explore Energy Managing Director, Precourt Institute for Energy
+
+Recorded: July 25, 2025 Duration: 13 minutes
+
+Slides available upon request.
+
+If you liked this video, watch the other 10-Minute Takes here!
+
+Before You Watch Our Lecture onSolar Energy
+
+We assign videos and readings to our Stanford students as pre-work for each lecture to help contextualize the lecture content. We strongly encourage you to review the Essential videos and readings below before watching our lecture on Solar Energy. Include selections from the Optional and Useful list based on your interests and available time.
+
+Intro to the 4 Ways We Harness the Solar Resource + Deep Dive on Solar Thermal Heat. Stanford Understand Energy. October 2022. (13 min)An overview of the primary ways we harness the solar resource and provides a more in-depth look at the direct use of solar thermal heat.
+
+Solar Thermal Electricity / Concentrating Solar Power. Stanford Understand Energy. August 1, 2025. (20 min)A more in-depth look at solar thermal electricity, also known as concentrating solar power.
+
+How Do Solar Panels Work?. Richard Komp. TEDEd. January 5, 2016. (5 min)Examines how solar panels convert solar energy to electrical energy.
+
+California Now Requires Solar Panels on All New Homes. That’s Not Necessarily a Good Thing. Vox. January 2, 2020. (5 pages)Reviews the pros and cons of California's requirement that new houses must be built with solar panels.
+
+Solar Farm Virtual Tour. MidAmerican Energy. August 15, 2013. (6 min)A brief history of solar energy and an overview of constructing and operating a solar farm.
+
+Solar 2022. NEED.org. 2024. (4 pages)An excellent overview of the solar resource.
+
+Our Lecture onSolar Energy
+
+This is our Stanford University Understand Energy course lecture on solar energy. We strongly encourage you to watch the full lecture to understand solar as an energy system and to be able to put this complex topic into context. For a complete learning experience, we also encourage you to watch / read the Essential videos and readings we assign to our students before watching the lecture.
+
+Presented by: Kirsten Stasio, Adjunct Lecturer, Civil and Environmental Engineering, Stanford University; CEO, Nevada Clean Energy Fund (NCEF)Recorded on: November 13, 2024 Duration: 51 minutes
+
+(Clicking on a timestamp will take you to YouTube.)00:00 Introduction and Significance 09:32 Solar PV Technology 29:14 Solar PV Growth Trends 41:24 Solar PV Environmental Impact 45:19 Solar PV Economics
+
+Lecture slides available upon request.
+
+Additional Resources About Solar Energy
+
+Stanford Solar Car Project
+
+Materials Science & Engineering DepartmentMark Brongersma - PhotovoltaicsYi Cui - Batteries and fuel cells, electric grid, grid scale storage, photovoltaicsReinhold Dauskardt - Batteries and fuel cells, photovoltaics, solar thermal
+
+Mark Brongersma - Photovoltaics
+
+Yi Cui - Batteries and fuel cells, electric grid, grid scale storage, photovoltaics
+
+Reinhold Dauskardt - Batteries and fuel cells, photovoltaics, solar thermal
+
+TomKat Center for SustainabilityStacy Bent - Photovoltaics, batteries and fuel cells
+
+Stacy Bent - Photovoltaics, batteries and fuel cells
+
+Gabelle Laboratory for Advanced Materials (GLAM)
+
+Government and International Organizations
+
+US Energy Information Administration (EIA) Solar PV, Solar Explained
+
+US Energy Information Administration (EIA) Today in Energy Solar
+
+US Solar Energy Technologies Office (SETO) Photovoltaics, SunShot Initiative, Solar Energy Resources
+
+National Renewable Energy Laboratory (NREL) Photovoltaic Research, Solar Resource Data, Tools, and Maps
+
+Industry Organizations
+
+American Solar Energy Society (ASES)
+
+Smart Electric Power Alliance (SEPA)
+
+Solar Energy Industries Association (SEIA)
+
+Other Organizations and Resources
+
+REN21 Renewables 2023 Global Status Report Solar Photovoltaics (PV), Concentrating Solar Power (CSP), Solar Thermal Heating
+
+National Energy Education Development (NEED) Solar
+
+Visual Capitalist Future Solar Power Capacity by Country
+
+Wood Mackenzie Power and Renewables
+
+Next Topic: Biomass Other Energy Topics to Explore
+
+Energy Mix (World 2023): Energy Institute. Statistical Review of World Energy. 2024.
+
+Energy Mix (US 2023): US Energy Information Agency (EIA). Total Energy: Energy Overview, Table 1.3.
+
+Electricity Mix (World 2023): Energy Institute. Statistical Review of World Energy. 2024.
+
+Electricity Mix (US 2023): US Energy Information Agency (EIA). Total Energy: Electricity, Table 7.2a.
+
+Global Solar Use (2023): International Energy Agency Solar Heating & Cooling Programme (IEA SHC). Solar Heat World Wide. 2024.
+
+Global Solar PV Most Installed Capacity (2023): Ember Energy. Electricity Data Explorer. 2024.
+
+Global Solar PV Most Generation (2023): Ember Energy. Electricity Data Explorer. 2024.
+
+Global Solar PV Highest Penetration (2023): Energy Institute. Statistical Review of World Energy. 2024.
+
+Global Solar PV Electricity Generation Change (2018-2023): Energy Institute. Statistical Review of World Energy. 2024.
+
+US Solar PV Most Installed Capacity (2023): Solar Energy Industries Association (SEIA). Solar State-By-State Map.
+
+US Solar PV Most Generation (2023): US Energy Information Agency (EIA). Electricity Data Browser.
+
+US Solar PV Highest Penetration (2023): National Renewable Energy Lab (NREL). Spring 2024 Solar Industry Update. 2024.
+
+Global Solar Thermal Heat Most Installed Capacity (2023): REN21. Renewables 2024 Global Status Report: Renewables in Energy Supply. 2024.
+
+Global Solar Thermal Heat Capacity Change (2018-2023): REN21. Renewables 2024 Global Status Report: Renewables in Energy Supply. 2024.
+
+CSP Most Installed Capacity (2023): REN21. Renewables 2024 Global Status Report: Renewables in Energy Supply. 2024.
+
+CSP Global Capacity Change (2018-2023): REN21. Renewables 2024 Global Status Report: Renewables in Energy Supply. 2024.
+
+Costs of US Solar PV Installations by Size: Lazard. LCOE. June 2024.
+
+Costs of US Solar PV Over Time: Lazard. LCOE. June 2024.
+
+More details available on request.Back to Fast Facts
+
+Stanford Understand Energy 473 Via Ortega Suite 325 Stanford, CA 94305 United States
+
+Stanford Doerr School of Sustainability
+
+Departments and Programs
+
+Sustainability Accelerator
+
+Our Favorite External Resources
+
+Understand Energy Course
+
+Understand Energy Learning Hub by Stanford University is licensed under CC BY-NC-SA 4.0
+
+Stanford Home (link is external)
+
+Maps & Directions (link is external)
+
+Search Stanford (link is external)
+
+Emergency Info (link is external)
+
+Terms of Use (link is external)
+
+Privacy (link is external)
+
+Copyright (link is external)
+
+Trademarks (link is external)
+
+Non-Discrimination (link is external)
+
+Accessibility (link is external)
