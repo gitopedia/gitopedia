@@ -1,0 +1,219 @@
+An official website of the United States government
+
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+About About Our Agency Our Agency History Our Leadership & Offices The National Nuclear Security Administration The Energy Information Administration National Laboratories Power Marketing Administrations Our Outreach Our Outreach Newsroom Digital Engagement and Media Brand Guides
+
+Our Agency Our Agency History Our Leadership & Offices The National Nuclear Security Administration The Energy Information Administration National Laboratories Power Marketing Administrations
+
+Our Leadership & Offices
+
+The National Nuclear Security Administration
+
+The Energy Information Administration
+
+National Laboratories
+
+Power Marketing Administrations
+
+Our Outreach Our Outreach Newsroom Digital Engagement and Media Brand Guides
+
+Digital Engagement and Media
+
+Our Mission Our Mission Genesis Mission Security & Safety Security & Safety Nuclear Security Energy Security Cybersecurity Environmental & Legacy Management Research, Technology, & Economic Security Emergency Response Scientific Excellence Scientific Excellence Scientific Research Database (OSTI) Nobel Prize Laureates National Science Bowl Environment Environment Earth Systems Modeling Extreme Weather Resiliency Energy Access Energy Access 2025 DOE 403 Orders Grid Deployment & Transmission Puerto Rico Grid Resilience & Transitions (PR 100) Tribal Energy Access Economic Growth Economic Growth Energy Workforce American Manufacturing Technology Transitions & Early Investments Commercial Implementation Global Diplomacy & Leadership Global Diplomacy & Leadership Arctic Cooperation International Market Development
+
+Security & Safety Security & Safety Nuclear Security Energy Security Cybersecurity Environmental & Legacy Management Research, Technology, & Economic Security Emergency Response
+
+Environmental & Legacy Management
+
+Research, Technology, & Economic Security
+
+Scientific Excellence Scientific Excellence Scientific Research Database (OSTI) Nobel Prize Laureates National Science Bowl
+
+Scientific Excellence
+
+Scientific Research Database (OSTI)
+
+Nobel Prize Laureates
+
+National Science Bowl
+
+Environment Environment Earth Systems Modeling Extreme Weather Resiliency
+
+Earth Systems Modeling
+
+Extreme Weather Resiliency
+
+Energy Access Energy Access 2025 DOE 403 Orders Grid Deployment & Transmission Puerto Rico Grid Resilience & Transitions (PR 100) Tribal Energy Access
+
+Grid Deployment & Transmission
+
+Puerto Rico Grid Resilience & Transitions (PR 100)
+
+Economic Growth Economic Growth Energy Workforce American Manufacturing Technology Transitions & Early Investments Commercial Implementation
+
+American Manufacturing
+
+Technology Transitions & Early Investments
+
+Commercial Implementation
+
+Global Diplomacy & Leadership Global Diplomacy & Leadership Arctic Cooperation International Market Development
+
+Global Diplomacy & Leadership
+
+International Market Development
+
+Topics Topics View All Topics
+
+Funding Opportunities Funding Opportunities View Funding Opportunities Funding Opportunities By Office Funding Opportunities By Office Office of the Under Secretary of Energy Advanced Research Projects Agency-Energy Office of Energy Efficiency and Renewable Energy Federal Energy Management Program Office of Fossil Energy Grid Deployment Office Office of Indian Energy Office of Manufacturing and Energy Supply Chains Office of Science
+
+Funding Opportunities
+
+View Funding Opportunities
+
+Funding Opportunities By Office Funding Opportunities By Office Office of the Under Secretary of Energy Advanced Research Projects Agency-Energy Office of Energy Efficiency and Renewable Energy Federal Energy Management Program Office of Fossil Energy Grid Deployment Office Office of Indian Energy Office of Manufacturing and Energy Supply Chains Office of Science
+
+Funding Opportunities By Office
+
+Office of the Under Secretary of Energy
+
+Advanced Research Projects Agency-Energy
+
+Office of Energy Efficiency and Renewable Energy
+
+Federal Energy Management Program
+
+Office of Fossil Energy
+
+Grid Deployment Office
+
+Office of Indian Energy
+
+Office of Manufacturing and Energy Supply Chains
+
+Consumer Savings Consumer Savings Tax Credits & Rebates Energy Saving Tips Weatherization Assistance Program
+
+Tax Credits & Rebates
+
+Weatherization Assistance Program
+
+Services & Opportunities Services & Opportunities Career Pathways Career Pathways Internships & Fellowships Apprenticeships & Workforce Development Work at DOE
+
+Services & Opportunities
+
+Career Pathways Career Pathways Internships & Fellowships Apprenticeships & Workforce Development Work at DOE
+
+Internships & Fellowships
+
+Apprenticeships & Workforce Development
+
+Solar Energy Technologies Office
+
+The amount of sunlight that strikes the earth's surface in an hour and a half is enough to handle the entire world's energy consumption for a full year. Solar technologies convert sunlight into electrical energy either through photovoltaic (PV) panels or through mirrors that concentrate solar radiation. This energy can be used to generate electricity or be stored in batteries or thermal storage.
+
+Below, you can find resources and information on the basics of solar radiation, photovoltaic and concentrating solar-thermal power technologies, electrical grid systems integration, and the non-hardware aspects (soft costs) of solar energy. You can also learn more about how to go solar and the solar energy industry. In addition, you can dive deeper into solar energy and learn about how the U.S. Department of Energy Solar Energy Technologies Office is driving innovative research and development in these areas.
+
+Solar radiation is light – also known as electromagnetic radiation – that is emitted by the sun. While every location on Earth receives some sunlight over a year, the amount of solar radiation that reaches any one spot on the Earth’s surface varies. Solar technologies capture this radiation and turn it into useful forms of energy. Learn about the basics of solar radiation.
+
+There are two main types of solar energy technologies—photovoltaics (PV) and concentrating solar-thermal power (CSP).
+
+You're likely most familiar with PV, which is utilized in solar panels. When the sun shines onto a solar panel, energy from the sunlight is absorbed by the PV cells in the panel. This energy creates electrical charges that move in response to an internal electrical field in the cell, causing electricity to flow.
+
+Solar Photovoltaic Technology Basics Learn the basics of how photovoltaic (PV) technology works with these resources from the DOE Solar Energy Technologies Office. Learn More about Solar Photovoltaic Technology Basics
+
+Solar Photovoltaic System Design Basics Solar photovoltaic modules are where the electricity gets generated, but are only one of the many parts in a complete photovoltaic (PV) system. Learn More about Solar Photovoltaic System Design Basics
+
+Solar Energy Clean Energy Renewable Energy Semiconductors and Microelectronics Next-Generation Energy Technologies PV Cells 101: A Primer on the Solar Photovoltaic Cell Part 1 of the PV Cells 101 primer explains how a solar cell turns sunlight into electricity and why silicon is the semiconductor that usually does it. Learn More about PV Cells 101: A Primer on the Solar Photovoltaic Cell December 3, 2019
+
+Semiconductors and Microelectronics
+
+Next-Generation Energy Technologies
+
+Solar Performance and Efficiency Improving photovoltaic (PV) efficiency is a key goal of research and helps make PV technologies cost-competitive with conventional sources of energy. Learn More about Solar Performance and Efficiency April 7, 2025
+
+Concentrating Solar-Thermal Power Basics
+
+Concentrating solar-thermal power (CSP) systems use mirrors to reflect and concentrate sunlight onto receivers that collect solar energy and convert it to heat, which can then be used to produce electricity or stored for later use. It is used primarily in very large power plants.
+
+Concentrating Solar-Thermal Power Basics Learn the basics of how concentrating solar-thermal power (CSP) works with these resources from the DOE Solar Energy Technologies Office. Learn More about Concentrating Solar-Thermal Power Basics April 3, 2025
+
+Thermal Storage System Concentrating Solar-Thermal Power Basics One challenge facing solar energy is reduced energy production when the sun sets or is blocked by clouds. Thermal energy storage is one solution. Learn More about Thermal Storage System Concentrating Solar-Thermal Power Basics December 10, 2021
+
+Power Tower System Concentrating Solar-Thermal Power Basics In power tower concentrating solar power systems, several flat, sun-tracking mirrors focus sunlight onto a receiver at the top of a tall tower Learn More about Power Tower System Concentrating Solar-Thermal Power Basics October 27, 2020
+
+Linear Concentrator System Concentrating Solar-Thermal Power Basics Linear concentrating solar power (CSP) collectors capture the sun's energy with large mirrors that reflect and focus the sunlight on a linear receiver Learn More about Linear Concentrator System Concentrating Solar-Thermal Power Basics December 4, 2020
+
+Systems Integration Basics
+
+Solar energy technology doesn’t end with electricity generation by PV or CSP systems. These solar energy systems must be integrated into homes, businesses, and existing electrical grids with varying mixtures of traditional and other renewable energy sources.
+
+Solar Systems Integration Basics Learn the basics of how solar energy technologies integrate with electrical grid systems through these resources from the DOE Solar Energy Office. Learn More about Solar Systems Integration Basics April 3, 2025
+
+Solar Integration: Inverters and Grid Services Basics This page explains what an inverter is and why it's important for solar energy generation. Learn More about Solar Integration: Inverters and Grid Services Basics March 31, 2025
+
+Solar Integration: Distributed Energy Resources and Microgrids This resource page looks at ways to ensure continuous electricity regardless of an unforeseen event are by using distributed energy resources. Learn More about Solar Integration: Distributed Energy Resources and Microgrids October 6, 2022
+
+Solar Integration: Solar Energy and Storage Basics Storage helps solar contribute to the electricity supply even when the sun isn’t shining by releasing the energy when it's needed. Learn More about Solar Integration: Solar Energy and Storage Basics March 31, 2025
+
+A number of non-hardware costs, known as soft costs, also impact the cost of solar energy. These costs include permitting, financing, and installing solar, as well as the expenses solar companies incur to acquire new customers, pay suppliers, and cover their bottom line. For rooftop solar energy systems, soft costs represent the largest share of total costs.
+
+Solar Soft Costs Basics Learn the basics of what solar soft costs are and how they impact solar energy adoption with resources from the DOE Solar Energy Technologies Office. Learn More about Solar Soft Costs Basics October 16, 2025
+
+SunShot Community Solar Basics As the solar energy market expands, alternative business models like community solar are gaining popularity. Learn More about Community Solar Basics April 7, 2025
+
+Solar Workforce Development Solar workforce development includes online training, on-the-job training, curriculum development, and other activities that prepare people for solar. Learn More about Solar Workforce Development May 6, 2025
+
+Solar energy can help to reduce the cost of electricity, contribute to a resilient electrical grid, create jobs and spur economic growth, generate back-up power for nighttime and outages when paired with storage, and operate at similar efficiency on both small and large scales.
+
+Homeowner’s Guide to Solar When it comes to installing solar, our resources can help you determine the best options. Learn More about Homeowner’s Guide to Solar October 8, 2025
+
+Farmer's Guide to Going Solar If you are an agricultural land owner and are considering your options to go solar, here are some resources to help you decide what’s best for you. Learn More about Farmer's Guide to Going Solar May 29, 2025
+
+Solar Rooftop Potential To help consumers quantify the potential benefits of going solar, national laboratories and private companies have developed a number of tools. Learn More about Solar Rooftop Potential October 14, 2025
+
+SunShot Community Solar Basics As the solar energy market expands, alternative business models like community solar are gaining popularity. Learn More about Community Solar Basics April 7, 2025
+
+Solar Industry Basics
+
+Solar energy systems come in all shapes and sizes. Residential systems are found on rooftops across the United States, and businesses are also opting to install solar panels. Utilities, too, are building large solar power plants to provide energy to all customers connected to the grid.
+
+Quarterly Solar Industry Update Each quarter, NREL conducts a presentation of technical trends within the solar industry. Learn More about Quarterly Solar Industry Update March 31, 2025
+
+Solar Energy Resources for Job Seekers These resources help those looking to find employment in the hundreds of thousands of jobs in the U.S. solar industry. Learn More about Solar Energy Resources for Job Seekers December 18, 2024
+
+Learn more about the innovative research the Solar Energy Technologies Office is doing in these areas.
+
+Photovoltaics Learn More about Photovoltaics
+
+Concentrating Solar-Thermal Power Learn More about Concentrating Solar-Thermal Power
+
+Systems Integration Learn More about Systems Integration
+
+Soft Costs Learn More about Soft Costs
+
+Manufacturing and Competitiveness Learn More about Manufacturing and Competitiveness
+
+Solar Energy Research Database Learn More about Solar Energy Research Database
+
+In addition to this basic information about solar energy, you can find more solar energy information resources here.
+
+Committed to Restoring America’s Energy Dominance.
+
+Quick Links Leadership & Offices Mission Newsroom Contact Us Careers
+
+Resources Budget & Performance Directives, Delegations, & Requirements Freedom of Information Act (FOIA) Inspector General Privacy Program
+
+Directives, Delegations, & Requirements
+
+Freedom of Information Act (FOIA)
+
+Federal Government USA.gov The White House
+
+Vulnerability Disclosure Program
+
+Whistleblower Protection
+
+Equal Employment Opportunity
