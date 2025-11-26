@@ -1,0 +1,4 @@
+{
+   "relevant": true,
+   "reason": "The page provides an overview of different types of solar energy technologies including photovoltaic (PV), Concentrated Solar Power (CSP) and biomass. It also discusses their benefits, applications and challenges in a technology-focused context.",
+   "summary": "This article explores the various solar technologies available such as photovoltaics, concentrated solar power, and biomass. Photovoltaic systems convert sunlight directly into electricity, while CSP uses mirrors to capture thermal energy from the sun. Biomass is derived from sources like forestry and agricultural residues and can be converted into biogas or solid biofuels. Other forms of solar energy include indirect wind power and passive solar heating. The article also discusses future challenges and advances in materials, efficiency, network integration, and storage.\n\nBy: InformaTecDigital"}
