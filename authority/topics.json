@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:space-exploration",
+    "label": "Space Exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-settlement-in-space",
+    "label": "Human Settlement in Space",
+    "aliases": []
+  }
 ]
-
-
