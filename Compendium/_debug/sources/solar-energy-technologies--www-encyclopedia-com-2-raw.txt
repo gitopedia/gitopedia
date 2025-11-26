@@ -1,0 +1,719 @@
+Earth and Environment
+
+Literature and the Arts
+
+Philosophy and Religion
+
+Science and Technology
+
+Social Sciences and the Law
+
+Sports and Everyday Life
+
+Additional References
+
+Science and Technology
+
+Technology: Terms and Concepts
+
+INTRODUCTION: WHAT IS SOLAR ENERGY?
+
+Solar energy is energy made from sunlight. Light from the sun may be used to make electricity, to provide heating and cooling for buildings, and to heat water. Solar energy has been used for thousands of years in other ways as well.
+
+Most life on Earth could not exist without the sun. Most plants produce their food via a chemical process called photosynthesis that begins with sunlight. Many animals include plants as part of their diet, making solar energy an indirect source of food for them. People can eat both plants and animals in a food chain providing one example of the importance of the sun's energy.
+
+In direct or indirect fashion, the sun is responsible for nearly all the energy sources to be found on Earth. All the coal, oil, and natural gas were produced by decaying plants millions of years ago. In other words, the primary fossil fuels used today are really stored solar energy.
+
+The heat from the sun also drives the wind, which is another renewable source of energy. Wind arises because Earth's atmosphere is heated unevenly by the sun. The only power sources that do not come from the sun's heat are the heat produced by radioactive decay at Earth's core; ocean tides, which are influenced by the moon's gravitational force; and nuclear fusion and fission.
+
+Historical overview: Notable discoveries and the people who made them
+
+Ancient peoples did not just use solar energy; many of them worshipped gods based on the sun. More than 5,000 years ago ancient Egyptians worshipped a sun god named Ra as the first ruler of Egypt. Two ancient Greek gods, Apollo and Helios, were likewise identified with the sun. Shamash was a sun god worshipped in Mesopotamia.
+
+Since at least the time when these gods were worshipped, the rays of the sun were used to dry things such as clothes, crops, and food. For centuries people who lived in the desert made homes from adobe, a type of brick made from sun-dried earth and straw. Adobe stores and absorbs the sun's heat during the day, which keeps the home cool. Then it releases heat at night to warm the home.
+
+Ancient Greeks were aware of an early form of passive solar heating and cooling for homes. Passive solar heating and cooling use the sun's energy without help from any machines or devices. In one of his works, the philosopher Socrates (470–399 BCE [before the common era]) described how a home should be placed in relation to the sun so that it would be warmed in the winter and cooled in the summer. Ancient Romans and Chinese also designed and placed homes based on the principles of passive solar heating and cooling.
+
+One famous Roman, Pliny the Younger (c. 61–c. 112), built a home in northern Italy that used this concept. In one room, he placed thin sheets of transparent mica (a mineral) in the window opening. That room was kept warmer than the others in the home. Because of the position of his house, Pliny was able to use less wood, which was used for heat and was in short supply.
+
+Another way that ancient Romans used the principles behind passive solar energy was in the heating of water. In the public baths that were common at the time, black tiles were used in designs on the floors and walls. These tiles were set so they would be heated by sunlight. The water that ran to the baths would pour over the tiles and become warmed. A Roman architect named Vitruvius (died c. 25 BCE) drew up plans for a bathhouse that used passive solar design to heat the building. He oriented the building so that it
+
+Polar Bears and Solar Energy
+
+Scientists have discovered that the fur and skin of polar bears are very effective at converting sunshine into heat energy. Researchers became interested in learning more about this effect when Canadian scientists found that polar bears could not be seen through infrared photography equipment. Infrared cameras are supposed to be able to detect anything that gives off heat, including all warm-blooded animals. But such cameras cannot see polar bears because their fur keeps the body heat inside so well that it cannot be detected on the outside of their bodies. A polar bear's white fur even converts more than 95 percent of the sun's ultraviolet rays into heat. This amount is larger than any solar technology that scientists and researchers have devised (come up with).
+
+Scientists have studied polar bear fur to determine why it is so efficient at drawing in and holding heat. There are several reasons why they think the fur works this way. Each piece of hair in polar bear fur is really not white, but transparent or clear. And each hair is hollow at its inner core. Because each hair is hollow, the light that hits the fur travels from the hair's tip to the skin of the polar bear. Though polar bear fur is white, the skin is black. So when the sunlight reaches the skin, it is converted into heat. Some researchers believe that this is because the hairs work the way fiber optic cable works when it transmits telephone calls. The hairs send the heat from the sun down the hair to the skin of the polar bear, like fiber optic cables transmit light from one point to another. However, other researchers do not agree and are unsure of the process by which polar bears retain their heat so effectively.
+
+Scientists have used their findings on polar bear fur to improve flat plate collectors, photovoltaic (PV) cells, and other solar technologies. They have applied it to reduce heat loss in flat plate collectors. They are hoping that other applications outside of solar energy might be possible.
+
+would be warmed by sunlight in the late afternoon, especially during the winter.
+
+There are also ancient examples of concentrated solar power. In the ruins of Ninevah in ancient Assyria, burning glasses were found. Burning glasses are like magnifying lenses. They could be used to start a fire by concentrating light from the sun into a beam.
+
+Solar energy has been used for scientific purposes for several centuries. One scientist, Joseph Priestly (1733–1804), used sunlight to accomplish his discovery and isolation of oxygen in the 1770s. He heated and broke down mercuric oxide using heat created by concentrated sunlight.
+
+An early nineteenth-century development was the greenhouse. Greenhouses are essentially passive solar energy collectors that collect the sun's energy to help grow plants. They capture light energy and retain heat while holding in humidity, which is used to water the plants. Greenhouses make it possible to grow plants even in winter.
+
+Significant discoveries that advanced the use and efficiency of solar technology occurred in the nineteenth and twentieth centuries: photovoltaic cells and solar collectors, dish systems and trough systems, and power towers.
+
+The idea behind the photovoltaic cell was described by Alexandre-Edmond Becquerel in 1839. This scientist discovered the photovoltaic effect (also known as the photoelectric effect). He made his findings while conducting an experiment on an electrolytic cell. This cell was made of photosensitive materials and consisted of two metal electrodes placed in an electricity-conducting solution. When this cell was exposed to sunlight, an electric current was created.
+
+Becquerel's experiments inspired other scientists to continue to work on the photovoltaic effect. Another discovery came in 1873 when Willoughby Smith (1828–1891) discovered the photoconductivity of the element selenium. Four years later two other scientists, William G. Adams and R. E. Day, learned that solid selenium could be used in the photovoltaic effect. They developed the first photovoltaic cell made with selenium. Their cell had limited power: It could convert less than 1 percent of the energy of the sun into electricity.
+
+Though the photovoltaic cell designed by Adams and Day was not very powerful, another inventor was able to improve on their design. In 1883 the American scientist Charles Fritts came up with his own photovoltaic cell, which was made from selenium wafers. While work continued on photovoltaic cells in the late nineteenth and early twentieth centuries, it was not until 1954 that the first practical version of photovoltaic cells was created.
+
+This cell was made in Bell Laboratories by three scientists: Calvin Fuller, Daryl Chapin, and Gerald Person. In the early 1950s they created a photovoltaic cell that was made from crystalline silicon. When exposed to light, their creation produced a significant amount of electricity. The 1954 version of the photovoltaic cell has proved to be the basis of all future photovoltaic cells. It was patented in 1957 and called a "Solar Energy Converting Apparatus." It has since been used on nearly all space satellites since that time.
+
+The first satellite to use photovoltaic cells was the Vanguard 1, launched in 1958. The success of the Vanguard 1 led the National Aeronautics and Space Administration (NASA) to use photovoltaic cells as the normal way of powering satellites in the Earth's orbit. Even the Hubble Space Telescope, which was launched in 1990, uses photovoltaic cells to produce electric power. Such cells are also used to power the international space station.
+
+In the mid-1800s a French engineer and math instructor named Auguste Mouchout was granted a patent for solar technology that used the sun to make steam. Mouchout used a dish to concentrate the sun's rays. His invention was an early version of the dish system. He began working on the project in 1860 in part because he was concerned that his country was too dependent on coal as an energy source.
+
+Mouchout's design featured a cauldron filled with water. It was surrounded by a polished metal dish that focused the sunlight on the cauldron. This focused sunlight created steam that powered an engine. Mouchout's original engine generated one-half horsepower.
+
+Over the next twenty years Mouchout continued to improve on his design. He replaced the cauldron with a multi-tubed boiler. This boiler made the engine run even better. Mouchout also made his overall design bigger. However, Mouchout's invention only found limited applications. It was used in the French protectorate of Algeria as a source of power for a time. Even this utilization was only short-lived, as coal transportation to Algeria improved and coal remained a much cheaper source of energy. Despite this situation, Mouchout was well known in France in his time, had the backing of the French government, and won a medal for his work.
+
+Mouchout's invention led to innovations on the dish system by other scientists. One of them was John Ericsson (1803–1889), an engineer who was a native of Sweden but who lived in the United States. In the 1870s Ericsson came up with a different version of Mouchout's means of using the sun to make power. Ericsson attempted to improve on Mouchout's design. He first replaced the dish with a reflector shaped like a combination of a cone and a dish.
+
+Ericsson later replaced this conical dish shape with a parabolic trough. This trough looked like an oil drum cut in half lengthwise. The trough reflected the sun's radiation in a line across the open side of the reflector. What Ericsson came up with evolved into the trough system that is currently used to convert solar energy into electricity.
+
+Ericsson's creation was simple to make. It tracked the sun in a single direction: either north to south or east to west. The trough could not produce the same temperatures or work as efficiently as the dish-shaped reflector. However, Ericsson's design was functional from the beginning. Until his death, he continued to try to improve his design with lighter materials for the reflector.
+
+Another scientist worked with Mouchout's basic design to create a new technology that became important in the late twentieth century. In 1878 William Adams, an English scientist, came up with a solar technology design that would become the basis for power towers. Adams set up flat, silvered mirrors in a semicircle around a cauldron. The mirrors were erected this way so that sunlight could be continuously focused on the cauldron. The mirrors were also placed on a rack that moved along a semicircular track so they could be moved throughout the day around the boiler by an attendant. Most modern solar power towers also use mirrors placed in a semicircle that reflect sunlight onto a boiler that generates steam to run a heat engine. Adams was able to run a small engine with his invention, though it never moved beyond the experimentation stage.
+
+The American scientist Aubrey Eneas worked with both dishes and troughs, as well as with other solar technologies, in the late nineteenth and early twentieth centuries. Eneas first began experimenting with solar-driven motors. He formed the first solar company, the Solar Motor Company, in 1900 and spent the next five years working on his idea. Eneas first made a reflector similar to Ericsson's, but he could not make it work.
+
+Then Eneas focused on making a reflector more like Mouchout's. Eneas improved on Mouchout's design to make the dish larger by increasing the sides to be more upright. The dish focused the sunlight on a boiler that was 50 percent bigger than earlier versions. Eneas exhibited his design at a Pasadena, California, ostrich farm. His demonstration model had a 33-foot diameter reflector with 1,788 mirrors. The boiler could hold 100 gallons (378 liters) of water and was 13 feet (3.9 meters) long. While Eneas received some attention in the press and sold a few of his systems, none could withstand bad weather. His idea failed to catch on.
+
+In the 1880s a French engineer named Charles Tellier (1828–1913) made significant strides in the development of the solar collector. He designed the first nonreflecting (that is, nonconcentrating) solar motor. His work in this area led to research for which he was better known: refrigeration.
+
+Tellier's solar collector was made up of ten plates. Each plate consisted of two iron sheets that were riveted (joined) together so they had a watertight seal. The plates were connected by tubes to form a solar collector. Inside the collector, Tellier placed ammonia instead of water because ammonia has a lower boiling point than water. In 1885 he put such solar collectors on the roof of his home. When the collector was exposed to the sun, each plate released ammonia gas.
+
+Tellier's solar collector worked well. The pressurized ammonia gas powered a water pump. This water pump was put in a well and was able to pump about 300 gallons per hour during daytime hours. Tellier was able to increase the efficiency of his collectors by covering the top with glass and by putting insulation on the bottom.
+
+Tellier believed that his solar collectors would work for anyone in the Northern Hemisphere that had a south-facing roof. He also was certain that his system could be used industrially if more plates were added to the collectors to make the system bigger. Tellier hoped his invention would be used in Africa to provide power and to manufacture ice. But while he realized that he had a good idea, Tellier decided to focus on developing refrigeration technologies.
+
+Other inventors improved on Tellier's design. In the first decades of the twentieth century American scientists such as Henry Willsie and Frank Shuman came up with their own solar collector designs. Their inventions failed to catch on at the time but continued to improve the technology.
+
+Government support of solar energy helped move the industry forward in the 1970s and early 1980s. Many homes were built that featured solar technologies. Although government support decreased in the 1980s and early 1990s, some progress continued on alternative energy research. By the mid-1990s there was renewed interest in the United States in building homes and businesses that used solar technologies.
+
+In 2004 only six percent of U.S. energy came from renewable sources, and only three percent of that six percent came from solar energy. However, many experts believe that solar power will be the most important alternative energy source in the future.
+
+The Million Solar Roofs Initiative
+
+Announced by the U.S. government in June 1997, the Million Solar Roofs Initiative called for one million homes and businesses in the United States to install solar energy technologies such as PV cells for electricity, solar collectors, and solar water heaters by 2010. The initiative had several goals. The federal government hoped to increase the market for solar energy and keep it viable. It was also hoped to spur job creation in the solar industry in the United States. One study showed that each solar roof could stop thirty-four tons of greenhouse gases from reaching the atmosphere over its lifetime of use. There was widespread support for the initiative. At least eighty-nine different partnerships formed to help achieve this goal, with both state and local governments as well as private businesses and community organizations. Financial incentives were given by the U.S. Department of Energy and by agencies on the state and local levels. By 2002 nearly 350,000 roofs had been installed as part of the program.
+
+How solar energy works
+
+Solar energy technologies use the energy that comes from the sun. Inside the sun, hydrogen atoms combine to make helium, and the process produces the extreme amount of heat that is felt on Earth. The core of the sun has a temperature of 36,000,000°F (20,000,000°C). The surface of the sun, called the photosphere, has a temperature of 10,000°F (5,538°C). The energy that the sun creates has to travel 93,000,000 miles (150,000,000 kilometers) to reach the surface of Earth.
+
+People on Earth do not feel the full force of the sun, because Earth's upper atmosphere blocks out much of the sun's thermal power. This power, sometimes called radiation, is spread out when it hits the water vapor, molecules of gas, and clouds that surround Earth. The sunlight that does reach the ground is called direct radiation or beam radiation. If the sunlight hits something before reaching the ground, it is called diffuse radiation.
+
+The amount of solar radiation that reaches the surface of Earth is more than ten thousand times the amount of energy used by the world already. A significant amount of the sun's radiant energy, about 69 percent, is reflected back into space by such things as clouds, ice found on the ice caps, land, and bodies of water. Of the energy that is absorbed by Earth, about 70 percent of the absorption is done by the oceans. Solar energy helps keep the oceans from freezing and pushes their currents. It also prevents Earth's atmosphere from freezing.
+
+Current solar technology
+
+Solar technologies can be divided into passive systems or active systems. Passive solar energy projects only employ the sunlight; no other forms of energy are used. Active solar energy systems employ additional mechanisms such as pumps, blowers, or generators to apply or add to the solar energy created. Active systems often make electricity or heat. Solar water heating systems can be either active or passive.
+
+Passive solar systems are primarily concerned with the design of buildings, homes, and lighting. Passive solar design focuses on the placement of the home or building and on windows, ventilation, and insulation to cut down on the need for electricity by using the sun. The home or building is designed to maximize the potential of solar energy for heating and cooling. In northern countries such as Canada, where sunshine is not as strong as it is in locations to the south, passive solar heating is one of the easiest forms of solar technology to use.
+
+One important form of passive solar design is known as "daylighting." In daylighting the placement and design of windows is used to encourage natural sunlight to light the inside of a building instead of electric lights. Daylighting helps cut down on lighting costs, and many experts believe that exposure to natural rather than artificial light sources provides health benefits to humans.
+
+Another type of passive solar system is the transpired solar collector. This is a relatively new passive solar technology made of dark perforated metal. Transpired solar collectors are used to heat buildings by heating the air. They can also cool buildings in summertime.
+
+Active systems include solar collectors (also known as solar panels), which are primarily used on solar hot water heaters; photovoltaic (PV) cells, which make electricity; and concentrated solar power systems (also known as solar thermal systems), which also make electricity but on a larger scale than PV cells.
+
+Solar collectors are used primarily to capture solar energy for use in solar hot water heaters. However, they can also be used to provide heat in a building and even to make the energy to cool a building. While not all solar collectors are used in active solar energy systems, it is more common for solar collectors to be used in an active system than a passive system.
+
+Photovoltaic (PV) cells convert sunlight directly into electricity inside the cell. They are more adaptable than many other types of solar energy technology. In addition to powering satellites, PV cells can be put on buildings to provide electricity for any number of uses. They do not require direct sun to convert sunlight into electricity.
+
+There are at least five types of concentrated solar power systems that focus the sun's power to make electricity on a larger scale than PV cells. They include solar ponds, parabolic trough systems, dish systems and dish-engine systems, solar power towers, and solar furnaces. Mirrors or other reflective devices draw in as much sunlight as possible to these systems. They often track the sun as it moves through the sky in order to capture the most sunlight.
+
+Concentrated solar power systems usually heat water, or another fluid that is connected to a source of water, to make steam. The steam is used to drive turbines that create electricity. Concentrated solar power systems are primarily used for industrial applications and to make electricity for consumers and businesses on a wide scale.
+
+Emerging solar technologies
+
+There are several technologies being developed that bypass mirrors and collectors to capture the sun. Solar paints contain conductive polymers, extremely small semiconducting wires, or quantum dots. Such paints could be used to coat any surface and turn it into an electrical generator. Other companies are working on similar technologies for plastics. Rolls of plastic are coated with an electricity-generating film. The plastic could be spread over roofs or other surfaces to convert sunlight into electricity.
+
+The use of solar energy to cool homes and buildings is another area under more development. Such systems use solar panels to produce electricity. These panels power a pump connected to an absorber machine. This machine works something like a refrigerator. The absorber employs hot air to compress a gas. When this gas expands, it causes a reaction that cools the air. Solar thermal coolers are expected to reach the commercial market in the early twenty-first century.
+
+Many new solar technologies are still in the experimental stage. One possibility is solar-powered air flights. Another is a different kind of solar lighting, in which a building's interior is lit by a parabolic collector on the roof. This collector is connected to the interior by fiber optic light pipes. Such a system would make its own electricity to power the lights.
+
+Benefits and drawbacks to solar energy
+
+One of the primary benefits to solar energy is that it is a renewable resource. Sunshine is available everywhere free. There is no limit to its renewability, at least not until the sun burns itself out billions of years from now. Solar energy also does not contribute to pollution and thus is considered a "clean" energy source. Using it produces no greenhouse gases and thus does not contribute to global warming.
+
+The biggest drawback to using solar energy is the cost of the technology. Solar photovoltaic cells and solar collectors are still very expensive. While the technology may become cheaper over time, it is still costly when compared to the amount of energy it will produce over its use cycle. Similarly, it is very expensive to build solar power towers and furnaces. Using such technology to generate power on a wide scale is too expensive to be used realistically, at least as of the early twenty-first century.
+
+Another major problem with solar technology is that solar energy is not available on demand in every location on Earth. Heavy cloud cover can limit the use of some solar energy systems. Some systems cannot be used at all if direct sunlight is not available. In most areas of the world, only low-power solar energy applications can be used because of the lack of direct sunlight.
+
+For large-scale projects such as solar power towers and solar furnaces, or even smaller-scale projects such as solar ponds, dish systems, and trough systems, large areas of land are needed. In the desert, where a number of these systems are currently located, the solar technology that is put there to capture the intense sunshine is considered unsightly by some people.
+
+Environmental impact of solar energy
+
+Solar energy can have both positive and negative effects on the environment. On the positive side, most solar technologies are environmentally friendly. They do not pollute the atmosphere by emitting (giving off) greenhouse gases, they do not produce radioactive waste like nuclear energy reactors, and they do not contribute to global warming or acid rain. Most solar energy systems are silent or quiet when they operate, which cuts down on noise pollution. If solar technologies that make electricity on a significant scale can be adopted, many countries can lessen their dependence on electricity produced by fossil fuels. This change could decrease the amount of environmental pollution in the world.
+
+Japan and Germany Lead the Way
+
+No two nations have invested more heavily in solar power than Japan and Germany. By 2001 Japan was able to produce up to 671 megawatts of solar-generated power at peak conditions. The country was also a leader in the number of solar water heating units being used. As of 2005 there were more solar hot water heaters being used just in the city of Tokyo than in the whole of the United States.
+
+As of the early 2000s Germany was number two in the world with 260.6 megawatts of solar-generated power being produced at peak conditions. By this point the German city of Freiberg had more solar projects than any other city on the continent of Europe. It was home to the headquarters of the International Solar Energy society, and the city also featured parking meters powered by solar power.
+
+However, solar energy technologies are not perfect. In addition to large-scale projects negatively affecting the landscape, these solar technologies can negatively affect the animal life around them. Big dish systems, trough systems, and power towers take up land that animals live on and affect their habitats. The very building of these projects can pollute otherwise pristine (clean) lands, even if the solar technology itself does not. Also, while the use of solar technology does not pollute the environment, the manufacture of certain types of solar technology can.
+
+Economic impact of solar energy
+
+The adoption of solar energy technologies can have a profound impact on the economies of individual communities, states, and countries. When renewable energy sources such as solar energy are used in a community in the United States, more of the money spent on that energy stays at least in the same area, if not within the country. Most of the cost of solar energy implementation comes from materials and installation, not buying the actual fuel source as is the case with oil. The materials can be local, and the installation is often done by local companies.
+
+The use of solar energy can also make countries more energy independent. Currently many countries rely on foreign oil for nearly all their energy needs. Because a few countries hold most of the oil resources in the world, they have a lot of control over the pricing and distribution of that oil. If nations are able to augment the imported oil with solar energy, they will be better able to govern their future energy supply.
+
+Societal impact of solar energy
+
+The spread of solar energy technologies could lead to electrical power being available where it was not available before. People who live in rural areas are often not connected to an electrical power grid; this is especially true in poorer, less developed countries. In 2000 more than two billion people worldwide did not have access to electricity. Solar technologies could provide energy to these communities.
+
+Barriers to implementation or acceptance
+
+There are two main barriers to implementation of solar energy on a larger scale: efficiency of the technology and cost of the technology. As of 2005 the existing solar technology was still too inefficient to make it a viable energy source on a large scale. The existing PV cells, for instance, do not convert enough sunlight into energy.
+
+The other main barrier is cost. Over the years many researchers and companies have announced that solar technologies will be ready and/or profitable by a certain date, but this promise has not been kept. Even if the technology has become available, it has not been developed as cheaply as promised. Some critics believe that solar energy, as well as other alternative energy sources, will never live up to the promises made by its supporters; they feel that the energy produced by solar power will never be enough to make up for the high cost of producing it. Increased tax breaks for solar technology on the federal, state, and local levels could help build the marketplace for the technology and drive down the production and implementation cost.
+
+Another barrier to implementation is that solar technology has not yet been applied on a widespread basis and thus remains unproven on a large scale. The technology has done well in small, specialty markets, proving that it can work, at least on this scale. More large-scale success would increase the perception of solar energy as a useful technology for the future.
+
+Passive solar design focuses on the construction of the building, the way its site is set up, the environment around it, and its orientation to the sun to make the best use of the amount of sunlight to which it is exposed. These choices can cut down on electricity costs for the building while also helping to light, heat, and cool it.
+
+Passive solar design can be used on many types of buildings, including homes, businesses, industrial sites, schools, and shopping facilities. In the Northern Hemisphere, buildings created on the principles of passive solar design usually have the longest walls running from east to west. This orientation allows heating from the sun in the winter and much less sun exposure in the summer. Such buildings also feature large south-facing windows, which are often insulated. Building materials that absorb and slowly release the heat of the sun are used in the flooring and walls. Such building materials include rocks, stone, or concrete; some even contain saltwater, which can collect the solar energy as heat.
+
+Another key facet of passive solar building design is a roof overhang. Such overhangs are designed to allow sunlight to stream inside during the winter and shade windows from the higher sun in the summer. In areas where summer temperatures are high, especially in the South, putting roof overhangs on buildings can help keep buildings much cooler than they otherwise would be.
+
+Some passive solar-designed buildings can be located underground or built into the side of a hill. Because the temperatures found a few feet below ground are steady, this allows the building to be cool in the summer and warm in the winter. Another passive solar concept is landscaping, or the design and placement of trees and shrubs around a building. For example, deciduous trees, which lose their leaves in the winter, can be planted around the building to keep it cool during the summer by providing shade. During the winter, when the trees are bare, more sunlight reaches the building.
+
+There are five basic types of passive solar design systems:
+
+Direct Gain. Direct gain is the simplest type of passive solar design. In this system a large number of windows in a building are set up to face south (in the Northern Hemisphere). The glass is usually double-paned or even triple-paned. That is, the glass consists of two to three panes of glass with a pocket of air in between each pane. These panes are sealed inside one frame. Materials that can absorb and store the sun's heat can be incorporated into the floors and walls that are hit by the sun. These floors and walls release the heat at night, when it is needed the most to heat the building.
+
+Thermal Storage. Thermal storage is very similar to direct gain. In this system, there is also a large wall oriented to the south in the Northern Hemisphere. This wall is placed behind double-glazed windows so that it can absorb sunlight. In some of these thermal storage systems, the wall contains a storage medium such as masonry or perhaps water. The solar energy that is collected is stored during daylight hours so that it can be released when there is no sun.
+
+Solar Greenhouse. Solar greenhouses are also known as sunspaces. They are a combination of both direct gain and thermal storage but are located in a greenhouse. The wall of the thermal storage system is placed next to the greenhouse and the home to which it is attached. This system primarily heats the greenhouse but also can provide heat to the house itself.
+
+Roof Pond. As its name implies, the roof pond system consists of ponds of water placed on a roof. These ponds, which are exposed to the sun, collect the radiation from the sun and store it. The heat that is produced is controlled by insulating panels that are movable. During the winter these panels are open during daylight hours so that sunlight can be collected. During nighttime hours the panels are closed so that little or no heat is lost. The heat that is collected is released into the building to warm it. During the summer roof ponds are used in the opposite way. The panels are closed during the day to block the heat of the sun. At night they are opened to allow cooling of the building.
+
+Convective Loop. The convective loop is also known as a natural convective loop. In this system, a collector is located below the building's living space. The hot air that is created from solar energy rises to heat this living space when needed.
+
+Current uses of passive solar design
+
+Passive solar design is primarily used in the planning of homes, offices, schools, and any other type of building. In 2001 about one million U.S. homes and twenty thousand buildings used only for commercial purposes employed the principles of passive solar design.
+
+Benefits and drawbacks of passive solar design
+
+What makes passive solar design so simple is that it has no moving parts or working parts. Buildings made using passive solar design do not need to be maintained any differently than any other type of building.
+
+Buildings created with passive solar design in mind are more effective in sunny environments, though buildings in any environment benefit from passive solar design. Sometimes these buildings can become overheated in the summer. However, design changes can address this issue. Nevertheless, it would be difficult to retrofit a home or building with passive solar design principles unless it sat on its lot in the correct orientation to the sun.
+
+Impact of passive solar design
+
+Passive solar design has no real negative effects on the environment, other than what would happen when any building is constructed. The principles of passive solar design often incorporate trees, resulting in more trees being planted in an area.
+
+Economically, passive solar-designed buildings can produce heating bills that are 50 percent less than buildings without any passive solar design principles, a significant savings in energy costs. The increased use of passive solar design can bring business to builders specializing in this discipline. However, unlike other solar technologies, passive solar design does not afford any tax breaks from the U.S. government.
+
+Issues, challenges, and obstacles of passive solar design
+
+One potential issue related to the use of passive solar design is that not every architect accepts and employs these principles. There are only a limited number of professionals who design such buildings. There is currently a limited market for passive solar design because many people do not know about it. However, the popularity of passive solar design is poised to grow as consumers look for ways to battle higher heating and cooling bills caused by the increase in the cost of electricity and natural gas.
+
+Daylighting, also known as passive lighting, is a form of passive solar design. Daylighting involves the use of sunlight to light up the inside of a building. Daylighting can fully replace electric lights, or it can be used to cut down on electrical costs by supplementing electrical lighting already being used. Daylighting can also be used to heat a building.
+
+Daylighting primarily occurs through a building's windows, though other kinds of openings on buildings, such as skylights, can also be used. The windows are often large and, in the Northern Hemisphere, face south. Buildings and homes that use daylighting have specific placement and spacing of windows. For example, windows that are higher up on a wall distribute sunlight better. Windows called clerestory windows (a row of windows located at the top of a wall, near the roof) are an important part of daylighting in museums and churches. Skylights, when combined with sensors and other lighting elements, can ensure that lighting inside a building stays even.
+
+Windows used in daylighting absorb sunlight and release it slowly to light up a building. One way to regulate the amount of sunlight and/or heat is through window shades or curtains that are insulating. Light shelves can also be used. They are placed so that the sunlight drawn in by the windows is reflected and lights a room from top to bottom. These shelves can bring natural light deeper into a room.
+
+Chemical compounds in windows for daylighting can be made part of window glass or placed between the panes of double- and triple-paned windows. These compounds can boost how much solar energy a window can store. They can also increase the insulating capacity of windows. In addition, coatings and glazings on the windows can control the amount of light or heat. The heating effect of daylighting can be increased by window coatings that are antireflective. Some window coatings can carry an electric current that can moderate how much light or heat is let in based on current weather conditions. One type of glazing can allow a measured amount of light to pass through a window while keeping heat out.
+
+In daylighting systems where natural light is used with electrical lighting, there is need for a control system. This control system regulates the amount of electric light used based on how much daylighting is available. The types of controls include photocell sensors, infrared receivers, occupant sensors, dimming control systems, and wall-station controls.
+
+Building materials and interior design can enhance the effectiveness of daylighting. Walls that are white or brightly colored reflect the light that is drawn inside. In office buildings, cubicle walls kept under a certain height will allow the sunlight to spread over the office.
+
+New technologies are being developed to increase the effect of daylighting. Some buildings are incorporating heliostats, which are the same mirrors used in solar power towers. The heliostats can track the movement of the sun during the day and reflect the sunshine into windows. Another device that is being worked on employs fiber optics to take the sunlight collected on the roof inside the building.
+
+Benefits and drawbacks of daylighting
+
+As daylighting provides light during the day, the amount of heat gain from electric lighting is reduced significantly. Daylighting also makes homes and buildings less gloomy. However, homes and buildings that use daylighting often have to deal with issues such as heat and glare. If the natural lighting is not regulated, the system is not properly designed, or the correct type of window for the local environment is not used, homes and buildings can become hotter than they would were daylighting not used. Daylighting can potentially increase cooling costs during the summer because there is more natural light inside. Daylighting will not work everywhere because there is not enough sunshine in some locations.
+
+Daylighting is difficult to incorporate into buildings that have already been constructed. Even if daylighting is built into a new building, the controls needed to regulate the natural light and electric lights are expensive and require a significant investment. After the system is installed, it must be operated and maintained. People must be trained to deal with the sensors and computer systems that come with many daylighting systems.
+
+Impact of daylighting
+
+There is little to no negative environmental impact with daylighting as an energy system. The only effect on the environment comes from the production of the windows, coatings, controlling systems, and buildings. Using daylighting ensures that fewer fossil fuels are burned, cutting down on pollution.
+
+For consumers and businesses, the use of daylighting can cut electric bills significantly, perhaps up to one-half. It can also cut down on energy costs for buildings. If daylighting is done correctly, less air conditioning is needed during the summer months.
+
+Because of daylighting's positive effects on people, workers in offices with daylighting are more productive. There are fewer absences and errors by such workers. When workers' productivity is increased, businesses can become more successful. Daylighting can even affect shoppers. Shopping centers and malls that incorporate daylighting into their design find that more natural light may lead to increased sales.
+
+Issues, challenges, and obstacles of daylighting
+
+Though daylighting is simple and the principles behind it show evidence of success, there is still a reluctance to embrace this solar energy system. The reasons vary. Adjusting building plans in order to place windows to save on electrical costs may increase the price of the building and thus affect its appeal to potential buyers. Also, daylighting is difficult to incorporate into existing buildings, so its growth may be limited solely to the new construction industry.
+
+TRANSPIRED SOLAR COLLECTORS
+
+A transpired solar collector, sometimes known under the brand name Solarwall, is used to heat what will become ventilated air as it enters a building. This relatively new technology was developed with the support of the U.S. Department of Energy and has won several awards.
+
+The transpired solar collector is very simple. It is a metal panel that is dark colored and has perforations (lines of holes). The metal is usually corrugated steel or aluminum. The piece of metal is formed to fit and mounted on the outside of a south-facing building wall. The collector is not fully attached to the inside wall; instead, a gap is left between the metal panel and the interior wall of the building. There are ventilation fans at the top of the space and the interior wall. These fans draw in the air through the holes in the metal panel. After the air enters the space between the walls, it rises to the top of the panel. The air becomes heated as it passes near the hot metal panel and continues to rise to the ventilation fans, where it is sucked into the building. This hot air is circulated through the building via its air ducts.
+
+A transpired solar collector does not just heat the air for a building. It can help cool the building as well. During summer months the ventilation fans draw in the hot air. Instead of bringing this hot air into the building, bypass dampers are used to move the hot air back outside. This hot air then does not come in direct contact with the inner wall, thus making the building cooler.
+
+Current uses of transpired solar collectors
+
+Transpired solar collectors are primarily used to heat air for office buildings, schools, homes, and industrial facilities. While the technology can be used in most buildings, it is really useful for buildings that are used by industry, commercial interests, and institutional interests. Such buildings usually need a lot of ventilation, and this technology can be extremely helpful in such circumstances. Transpired solar collectors can be used to preheat combustion air for industrial furnaces. In an agricultural setting this technology can be used to create hot air for crop drying.
+
+Benefits and drawbacks of transpired solar collectors
+
+As a means of heating air, transpired solar collectors are very inexpensive to make and very efficient. They preheat air twice as effectively as any other type of solar heater. Transpired solar collectors can use as much as 80 percent of the solar energy that comes into contact with the collector. The use of a transpired solar collector can result in much lower energy costs for the building to which it is attached.
+
+Transpired solar collectors can be used in parts of the world where there is not a significant amount of direct sunlight. For example, this solar technology can be used in Canada and the northern United States. Snowfall can actually make the transpired solar collector heat better. When snow covers the ground, it can reflect as much as 70 percent more solar radiation onto the transpired solar collector. More reflected solar radiation results in more heat produced. In addition, transpired solar collectors do not need as much additional heating as other solar heating systems when there is no sunlight. The heat that is collected during the day can be retained and used after dark.
+
+On the other hand, only buildings that have a south-facing wall, at least in the Northern Hemisphere, can effectively use a transpired solar collector. Because of this requirement, it can be difficult to retrofit certain homes and buildings with this solar technology.
+
+Impact of transpired solar collectors
+
+The use of transpired solar collectors has no real negative environmental impact. There is a chance that the manufacture of the metal or other pieces needed for the collector can negatively affect the environment. But by using a transpired solar collector, fossil fuel use can be lessened because the solar technology cuts down on energy costs.
+
+Many states offer consumers and businesses tax credits and incentives for the installation and use of transpired solar collectors. In new construction projects, when the transpired solar collector begins to operate to both heat and cool homes and buildings, consumers and businesses save money. The technology can reduce annual heating costs by about two to eight dollars per square foot because it can increase the temperature of incoming air by 54°F (12°C). For new construction, transpired solar collectors can pay for themselves in three years. If the technology is put on an already existing building, the transpired solar collectors pay for themselves in seven years. The cost savings depends on how long the heating season is and what kind of air ventilation is needed.
+
+Issues, challenges, and obstacles of transpired solar collectors
+
+Transpired solar collectors have not yet been widely embraced because the technology is relatively new. The collectors were not invented until the 1990s, and the general public only has minimal knowledge of the technology.
+
+Another obstacle is that transpired solar collectors are most often large and very noticeable on a building. Because they need a dark color, they do not always blend in with their surroundings. Certain types of businesses might be reluctant to put something so large on their building if the owners or operators feel the collector will detract from the way their building looks.
+
+SOLAR WATER HEATING SYSTEMS
+
+A solar water heating system uses the sun's power to heat water. The water can be used in homes, businesses, swimming pools, hot tubs, and spas. On a larger scale, water can be heated for industrial processes.
+
+While there are many different types of solar water heating systems, there is a common method to how they work. Most are simple in design and inexpensive to install, even in older homes. In general, the sunlight passes through a collector. The radiation that is absorbed by the collector is usually converted to heat in a liquid-transfer medium or through the air. The radiation can also be used to heat the water directly.
+
+Solar water heating systems can be active or passive to transfer the heat. An active solar water heating system uses pumps to transfer heat from the collector to the storage tank. Active systems can use a PV module to produce the electricity to run an electric pump motor. In a passive system, the system does not use pumps or control mechanisms to transfer the heat created to the storage tank. Instead, passive systems use natural forces such as gravity to circulate the water. There is also an exchange/storage tank of some kind. When such systems are used for bigger buildings that house businesses or offices, there is often more than one storage tank for the water.
+
+There are at least six types of solar water heating systems:
+
+Direct Systems. Direct systems use a pump to circulate the water. The water moves from the home into a water storage tank and passes through the solar collectors for heating. After it leaves the collector, the water returns to a tank. From there, it is pumped back into the house as hot water. The pump can be powered by a PV cell or by an electronic controller or appliance timer. Direct systems are usually used in warm climates with few or no days in which the temperature dips below freezing. Because of this requirement, there is a very limited area where direct systems can be used, at least in the United States.
+
+Indirect Systems. Indirect systems use a heat exchanger that is separate from the solar collector. The collector contains an antifreeze solution instead of the water to be heated. The heat exchanger transfers the heat from the collector's antifreeze solution to the water located in the water storage tank. The heat exchanger can either be inside the storage tank or outside the storage tank. One advantage to this system is that it can be used in areas where the temperature falls below the freezing point.
+
+Thermosyphons. A thermosyphon solar water heating system features an insulated storage tank that is placed above the solar collector, usually a flat-plate collector. When the sun hits the collector, it warms the water located in the tubes that pass through the collector. This water travels up through the top of the storage tank, which is insulated, and out through a hot water pipe. At the bottom of the storage tank is the cold water, which travels down through a pipe and into the collector. Sometimes, a small pump can be added to this system if it is not possible to place the tank on the same level or below the collectors. This system is more common outside of the United States and can only be used in warmer climates where temperatures remain above freezing. Locations in the Caribbean, Middle East, Mediterranean, Australia, and Asia use this system.
+
+Draindown/Drainback Systems. Draindown systems are often used in cold climates. In this system, water passes through the collector to be heated. Draindown systems prevent water from freezing inside the collector by the use of electric valves. These valves automatically remove the water from the collector if the temperature gets too cold. The drainback system is very similar to the draindown system. When the circulating pump that is part of the drainback system stops as a result of cold temperatures, the collector is automatically drained.
+
+Integral Collector Storage (ICS) Systems. These types of systems are also known as integrated collector systems, batch heaters, bulk storage systems, or breadbox heaters. Whatever the name, the ICS system features a collector and 40-gallon (151-liter) insulated storage tank that are part of one unit. The tank is lined inside with glass and painted black to draw in the sun's heat. The ICS system is usually placed on a roof or in a place on the ground where there is sunlight. Cold water comes into the ICS system from the plumbing in the house. The inlet inside the tank pushes the water to the bottom of the tank. The hot water rises in the tank and goes into the building through an outlet. There can also be a backup tank below the ICS unit that transfers water to be heated when the already heated water is taken from the primary storage tank. One drawback to this system is that the hot water created by the ICS system should be used during the afternoon or evening hours. If it is not, it should be transferred into another storage tank before nightfall. Otherwise, the water in the primary storage tank might lose much of its heat overnight, especially in cold weather.
+
+Swimming Pool Systems. The solar energy systems used to heat swimming pools and hot tubs are usually simpler than other kinds of solar water heaters, but just as effective. The use of a solar water heater can allow an outdoor pool or hot tub to be used for at least four months longer than a pool or hot tub without a heater. The system usually consists only of a temperature sensor, an electronic controller, a pumping system, and solar collectors. The collectors can be mounted on the pool's deck, on the ground, or on a roof. Most collectors used for pools or hot tubs usually have no glass covering or insulation. They are also usually lower-temperature collectors. That is, they usually are designed only to raise the temperature of the pool's water to about 80 to 100°F (26 to 37°C). This system does not need a storage tank since the pool or hot tub serves as the storage medium.
+
+There are also pumped systems intended for bigger buildings, such as hotels and gymnasiums. In this type of system the storage tank is located inside the building and uses a pump to transfer water between the collectors and the tank. In addition, a controller is needed that detects when the water in the panels is hotter than the water in the tanks. The controller regulates the pump so that the temperatures remain correct. If the outside temperature gets below freezing, the pump starts running to prevent the water from freezing.
+
+The most common type of energy collector, the flat plate collector, is a rectangular-shaped box that is put on the roof of the home or building where the solar water heating system is located. Inside the box is a thin absorber sheet, usually black in color and made of either copper or aluminum. Behind the sheet is a tubing system in the form of a grid or coils. The collector and tubing system are put inside an insulated casing. The cover is usually glass and transparent. This glass is often black or a dark color that draws in the sunlight.
+
+As the sun shines, the heat builds up in the collector and heats the fluid that is inside the tubes. If it is water, it is heated and passes through a storage tank. If the fluid inside is antifreeze, the water is heated by circulating the heated solution through a tube inside the storage tank in which the water is located.
+
+This type of collector features rows of glass tubes placed parallel to each other with a vacuum between them that insulates the tubes and helps hold on to the heat. The tubes are also transparent and covered with a coating. Inside each tube is an absorber with liquid inside it. When light from the sun hits the tube and its radiation is absorbed by the absorber, the liquid inside is heated. Because of the vacuum between the tubes, this liquid can be heated to very high temperatures, up to 350°F (176°C). Though the evacuated tube collectors can achieve high temperatures, they are more fragile than other types of solar collectors and more expensive.
+
+Current use of solar water heating systems
+
+Solar water heating systems have existed for many years. They are used in homes, businesses, schools, office buildings, prisons, military bases, and industrial settings. Solar water heating systems can be used to power irrigation systems, and they can also be used to provide water for livestock on farms and ranches. Solar hot water heating systems are often used where natural gas or electricity cannot be used to heat water.
+
+For a typical household, solar water heating systems can provide from 70 to 90 percent of the hot water needed for bathing and laundry. In a common single family home in the United States, about 25 percent of the energy is used to heat water. As of 2001 about 1.5 million solar water heating systems were being used in the United States in both commercial businesses and homes. About 300,000 swimming pools were being heated the same way. By 2005 at least 500,000 homes in California alone used solar water heating systems.
+
+Benefits and drawbacks of solar water heating systems
+
+One of the biggest benefits to solar water heating systems is their practicality. They are relatively easy to install in both new and existing homes and buildings. Because of the variety of systems available, at least one type will work in most locations. The systems are long-lasting, with most systems lasting a minimum of fifteen to twenty years. Passive solar water heating systems in particular are very inexpensive because of the limited equipment involved and the little maintenance required.
+
+However, certain types of solar water heating systems cannot be used in freezing temperatures, limiting the area in which solar technology can be used. Some types of solar water heaters cannot work as well or at all when it is cloudy. Because of the variations in temperatures and sunlight in most parts of the world, solar water heating systems sometimes need a backup water heating system to ensure the availability of hot water at all times. For many consumers, businesses, and institutions, this situation often means the purchase or use of a whole other hot water heater or water storage system with a means of keeping the water warm.
+
+Impact of solar water heating systems
+
+The use of a solar hot water heating system is positive for the environment. Using these systems reduces the amount of oil-based electricity used, resulting in fewer pollutants and lower greenhouse gas emissions. The manufacture of the elements in a solar water heating system can potentially affect the environment negatively, since most manufacturing processes require fossil fuels.
+
+On an economic level, the installation and use of a solar water heating system can immediately save a consumer, business, or institution money in electricity costs. It only takes a few years for the system to pay for itself through energy cost savings. For example, a swimming pool solar water heater can pay for itself in about three years. However, some solar water heating systems, primarily those that heat swimming pools, are usually not eligible for any type of tax credit, rebate, or incentive for use.
+
+Issues, challenges, and obstacles of solar water heating systems
+
+Solar water heating systems can save money and are widely available. There are even "do it yourself" kits that allow the average home owner to add a solar hot water heater to his or her home. These kits are usually for batch solar water heaters. Despite this wide availability, these systems are not yet commonly used. In general, solar water heating systems can be expensive when compared to conventional water heating systems.
+
+Advances in other water heating technologies also have drawn consumers away. There are new technologies that use natural gas to both heat water and spaces inside a home very efficiently. Such developments can potentially lengthen the payback time of a solar water heating system, making them less attractive to consumers and businesses.
+
+Photovoltaic cells, also known as solar cells, photoelectric cells, or just PV cells, are a type of solar technology that takes the energy found in light and directly converts it to electrical energy. PV cells are modular. That is, one can be used to make a very small amount of electricity, or many can be used together to make a large amount of electricity. A 3.9-inch (10-centimeter) diameter PV cell can make about one watt of power if the sun is directly overhead and the conditions are clear.
+
+Because each photovoltaic cell produces only about one-half volt of electricity, cells are often mounted together in groups called modules. Each module holds about forty photovoltaic cells. By being put into modules, the current from a number of cells can be combined. PV cells can be strung together in a series of modules or strung together in a parallel placement to increase the electrical output.
+
+When ten PV cell modules are put together, they can form an arrangement called an array or array field. Like modules, arrays can also be organized in a series or placed in parallel fashion. Arrays can be used to make electricity for a building or home. If many arrays are combined, they can create enough power to power a power plant. Some arrays are combined with a sun tracking device to ensure the sun hits the PV cell arrays throughout the day.
+
+Even with photovoltaic cells, concentrating systems can be used to get more sunlight on the actual cells and help them produce more power. Such systems use mirrors or lenses to focus more sunlight on the PV cells. They also must be able to track the sun and be able to remove excess heat. If the temperature is too high in the PV cells, the amount of power each cell puts out is decreased.
+
+Inside a photovoltaic cell are thin layers of a semiconductor material. Most commonly, these materials are silicon (melted sand) or cadmium telluride. The layers have a tiny amount of doping agent. Doping agents are impurities intentionally introduced in a chemical manner. Germanium and boron are examples of one type of doping agent that is used. The doping agents are important because they give the semiconductor materials the ability to make an electric current when exposed to light. These layers are stacked together. Each PV cell converts about 5 to 15 percent of the sunlight that hits it into electrical current.
+
+There are several types of PV cells. A monocrystalline PV cell is blue or gray-black in color. At the rounded corner of each cell is a white backing. This backing shows through and makes a pattern that is easy to see. Some people do not use monocrystalline PV cells on their home or businesses because of their appearance. A module of PV cells is usually covered with tempered glass and surrounded by an aluminum frame.
+
+A polycrystalline PV cell looks a little different than a monocrystalline PV cell. Polycrystalline PV cells are shaped like rectangles and colored sparkling blue. There is no white background showing. Thus, these PV cells look more uniform in appearance. Like monocrystalline cells, they are often covered in tempered glass and placed in an aluminum frame.
+
+Another type is the amorphous or thin-film cell. However, this type of PV cell is less durable, not as efficient for the conversion of sunlight into power, and not as commonly used at this time. However, many experts believe that thin-film cells are the future of PV cell technology because they use less semiconductor material, do not need as much energy to manufacture, and are easier to mass produce than other PV cells.
+
+Sometimes, photovoltaic systems have other components to make them useful for providing electricity. Two such components are an inverter and a storage device. The inverter helps change the DC power (direct current) produced by the cells to the AC (alternating current) used by most equipment, homes, and businesses that run on electricity in the United States.
+
+The storage unit stores the energy created by the photovoltaic cells for use when there is little or no sun. One storage unit that works well with photovoltaic cells is a battery, which stores the energy created electrochemically. The energy created by PV cells can also be stored as potential energy. Pumped water and compressed air are two types of potential energy. All of these storage types are used where the PV cells are located.
+
+Solar Races and Other Contests
+
+To encourage the development of solar energy and related technologies in the United States and around the world, there are a number of solar energy contests and competitions for students of many ages. Arguably the best-known solar energy competitions are the long-running solar car races. There is a World Solar Challenge, as well as smaller competitions such as the North American Solar Challenge. Sometimes cars compete in both races.
+
+These solar cars are designed, built, and raced by college students who represent their school in the race. Students are trying to build the car that most effectively converts sunlight into energy and can travel the fastest on the route, but also last the longest in the race. They use solar collectors or PV cells to power the cars. Mechanical failures are common and have to be fixed on site. Students must also attract corporate sponsors to help pay for the cars and the travel involved in getting to and from the races.
+
+These solar races have been held for a number of years. The first World Solar Challenge was held in 1987 in Australia. The North American Solar Challenge began in 2001. In 2005 twenty-eight teams competed in the North American Solar Challenge. That race ran from Austin, Texas, to Calgary, Alberta, Canada. The route was over 2,500 miles (4,100 kilometers) and took two weeks to complete. The route differs year to year. The University of Michigan won the 2005 North American Solar Challenge with a time of 53 hours, 59 minutes, and 43 seconds. The car averaged a speed of 46.2 miles (74.3 kilometers) per hour. Each year the speed the cars in the contest can achieve increases.
+
+There are other solar contests. In 2005 the second annual Solar Decathlon was held on the National Mall and other locations in Washington, D.C. This contest is sponsored by the U.S. Department of Energy, the National Renewable Energy Laboratory, and private sponsors such as Home Depot. Groups of college students compete in events such as building the best solar house.
+
+Current and future uses of photovoltaic cells
+
+The first use for the first practical PV cell was a source of electricity for satellites orbiting Earth. PV cells were chosen because they were considered safer than nuclear power, another option being considered. On Earth, photovoltaic cells are used to make electricity in places not connected to the power grid or where it is too costly to use electricity produced by the grid. This often happens in remote areas.
+
+People who live in isolated houses or who want to be independent of the power grid use PV cells to provide electricity for their homes because of their adaptability. PV cells can power most household appliances, such as televisions, refrigerators, and computers, and they can also power electric fences and feeders for livestock. Photovoltaic systems can be used on farms to power pumps that provide water for livestock on grazing areas that are far away from the main farm.
+
+Other independent, often isolated, objects use PV cells in similar ways. Navigation beacons can be powered by PV cells, as can remote monitoring equipment stations for pipeline systems, water quality systems, and meteorological information. Many traffic signals, street signs, billboards, bus stop lights, highway signs, security lighting, and roadside emergency telephones also use this technology.
+
+Photovoltaic cells and modules are being integrated into buildings and homes to provide power. They usually supplement other forms of power. There are incentives that will increase over time in many parts of the United States to use this technology. PV cells can also be used on the electrical grid in a supporting role for the transmission and distribution of power.
+
+There are large photovoltaic systems that allow certain companies to avoid the electrical grid entirely. There have also been experiments to make large central power plants based on PV cells. However, PV cells have not yet proven to be cost effective in these situations. They are not yet efficient enough to justify the high cost of putting the project together and getting it started. If PV cells continue to become less expensive, such projects might become more practical.
+
+In the future, the idea of building integrated photovoltaics (BIPV) might catch on. In this system, PV cells would be integrated into building materials such as shingles on roofs, windows, skylights, and the covers of insulation materials to provide a source of electricity for the home or building constructed with them. PV cells might also provide auxiliary power to automobiles.
+
+Though PV cells are being installed for home or business use, they are not expected to be used on a widespread basis until 2010 at the earliest. By that time the cost of the technology is expected to be similar to the cost of electricity from the grid.
+
+Benefits and drawbacks of photovoltaic cells
+
+The use of photovoltaic cells has many positive aspects. They make no noise, require little to no maintenance, and are reliable. No special training is needed to operate a PV cell system. In addition, PV cells can be made a variety of sizes from very small to very large, providing flexibility in use. Moreover, many PV cells can be used anywhere because they can use both direct sunlight and diffuse sunlight. Finally, PV cell systems are long-lasting, maintaining their effectiveness for twenty to thirty years. Thus, they produce much more energy through their operation over their lifetime than is used to manufacture them.
+
+Like many solar energy technologies, however, one major drawback to photovoltaic cells is that no power is produced when there is no sunshine. If the weather is poor and the sun is blocked, as when it rains or snows, these cells do not produce power. Photovoltaic cells also do not produce power at night. Because of this situation, some sort of backup system or alternate power supply is needed.
+
+While the PV cells are very efficient producers of power, the manufacture of these cells does come at a significant energy cost. Also, over time the PV cells slowly become less efficient. At some point the cells lose most of their ability to be conductive. The costs of PV cells have remained high, though the prices have gone down over time. But because of the cost, the electricity PV cells produces costs more than electricity from the power grid in most areas.
+
+Environmental impact of photovoltaic cells
+
+While the widespread use of PV cells will reduce global warming by helping to cut down on the use of fossil fuel-created electricity, the manufacture of this solar technology can be polluting. Most manufacturers use mercury to construct solar cells. This is toxic waste that must be disposed of during their manufacture and after PV cells have reached the end of their usefulness.
+
+Economic impact of photovoltaic cells
+
+On a house-by-house level, photovoltaic cell systems are currently only cost-effective if the home is far away from power lines or if it is too costly to bring power lines to the house. The technology is still too expensive to be used everywhere on this level.
+
+Though PV cells are costly, many governments and companies believe in the technology. Much money has been spent on research from the early 1990s to early 2000s. For instance, although BP Amoco is an oil company, it has invested in producing PV technology. By 2000 its goal was to become the biggest producer of PV cells in the world. Amoco has already put some PV cells in its gas stations.
+
+Because of this economic support of PV cell research, an industry has grown up around them. In 2004 the production worldwide of photovoltaic cells increased by 60 percent, and this growth is expected to continue. Manufacturing costs have declined every year for several years. By 2010 it is expected that the PV market may be $30 billion worldwide, perhaps making it one of the big growth industries in the world. As the market expands and research into better technology grows, prices will likely come down. Thus, the future of PV cells is extremely promising.
+
+Solar Electric Light Fund
+
+Founded in 1990, the Solar Electric Light Fund (SELF) strives to "promote, develop, and facilitate solar rural electrification and energy SELF-sufficiency in developing countries." By 2005 the fund had completed six separate projects on four continents and was working on several others. One such project in northern Nigeria used solar power to generate electricity for essential services such as water pumps to supply rural villages with fresh drinking water, lights for medical clinics and schools, and streetlights. All of the SELF projects used PV cell technology.
+
+Societal impact of photovoltaic cells
+
+The use of PV cells can increase the availability of electricity around the world. Photovoltaic cells have brought power to parts of the world that did not have power before, except from generators powered by diesel fuel. Developing countries can best benefit from PV cell technology. The World Bank has installed PV systems in developing countries to provide a source of electricity. By 2001 at least 500,000 of the systems have been put in countries such as Sri Lanka, Indonesia, Kenya, Mexico, and China. China has 100,000 of the systems, while Kenya has 150,000. These numbers are expected to increase.
+
+PV cells are also making an impact in developed countries such as the United States and Japan. By 1995 photovoltaic cells and modules added a capacity supply of 4.6 megawatts to the U.S. power grid. As of 2001 at least 200,000 residences in the United States used PV technology in some form.
+
+Issues, challenges, and obstacles of photovoltaic cells
+
+The use of photovoltaic cells can be challenging. Since the electricity they produce is DC and most applications of electric power use AC, a power conditioning system is needed to ensure that the DC is converted to AC and is safe to use.
+
+Another factor that has limited the widespread use of PV cells, especially to make large amounts of electricity, is the PV cell system's efficiency. PV cells are not particularly efficient in the amount of sunlight that is converted to electricity. If PV cells can turn more than 15 percent of the sunlight's energy into electricity, they will become an even more attractive alternative to electricity created by fossil fuels.
+
+The dish system is also known as the distributed-point-focus system. Dish systems feature small, parabolic mirrors that are dish-shaped. They reflect the sunshine onto a receiver. A two-axis tracking system is employed to move the mirrors to ensure that as much solar energy reflected by the mirrors is captured as possible. The receiver is usually mounted above the mirrors at the center of the dish, its focal point. Inside the receiver is a fluid, which transfers the intense heat created by focusing the sunlight on the receiver. This makes electricity. Each dish can produce from 5 to 50 kilowatts of electricity. The dishes can be used singly or linked together.
+
+Dish systems can be part of another solar technology called a dish-engine system. The dish part of the system is similar to the one described above. But the dish-engine system also includes an engine. The receiver in this system transfers the sunlight's energy to the engine. The engine, often one that can be driven by an external heat source, converts the energy to heat. The heat is then made into mechanical power. This happens by the compression of the working fluid, like steam, with the heat. It is then expanded via a turbine or piston. After mechanical power is produced, an electric generator or alternator turns the mechanical power into electrical power.
+
+A dish-engine system can also be linked. If they are linked, they can potentially produce a significant amount of electricity. Ten 25-kilowatt dish-engine systems can produce 250 kilowatts of power. This would only require an acre of land.
+
+Current uses of dish systems
+
+Dish systems and dish-engine systems are used to generate electric power. However, they are still in the experimental and demonstration phases. The most electricity that has been produced from a single dish-engine system is about 50 kilowatts. More commonly, as of 2005 each system generates about 25 kilowatts.
+
+It is believed that linked dish-engine systems will be a significant electricity producer of the future. Dish-engine systems can also be hybrids. That is, they might be combined with natural gas into a hybrid that can ensure the constant production of electricity.
+
+Because of the size of the dishes involved, they must be used on a significant scale. They are not made for just one home. In 2004 a dish made by Stirling Energy that could produce 25 kilowatts of electricity was 38 feet (11.5 meters) across and 40 feet (12 meters) tall. It is expected that such systems will be produced on a commercial scale. The Arizona Public Service Company has already agreed to buy ten such systems to make power. Other southwestern states in the United States are also considering purchasing them.
+
+Benefits and drawbacks of dish systems
+
+Dish systems and dish-engine systems are efficient producers of electricity. When they are linked together, they can produce more energy per acre than any other kind of solar energy technology. As the technology improves, they may be able to provide electricity for areas off the electricity grid or as an alternative to the electricity grid. Using technologies such as the dish system and dish-engine system can lead to less dependence on fossil fuels to make electricity.
+
+To use the dish system and dish-engine system, however, very intense sunshine is needed. In the United States, the kind of sunshine needed can only be found in the southwestern part of the country. Key to the use of dish-engine systems is space. If such systems are going to be used on any type of scale, large amounts of empty space are needed for the many dishes to operate.
+
+Dish systems and dish-engine systems also need more maintenance than other types of solar energy technologies. There are many moving parts, especially if a generator or motor is attached, which could break down and disrupt the flow of electricity.
+
+Impact of dish systems
+
+No matter if one or many dish systems and dish-engine systems are being used, the environment where they are placed will be affected. In the United States, the systems will most likely be placed in deserts, which means that previously barren deserts will be covered with technology. Wildlife and plant life in the area could be negatively affected. If dish-engine systems reach a commercial scale, this impact could be devastating. The very environmentalists who support solar energy might find themselves at odds with the reality of the technology.
+
+Economically, if this technology reaches maturity, it will provide a potentially cheap alternative source of power. This could affect how electric companies and energy providers run their businesses. It could also result in lower energy costs for consumers.
+
+On a societal level, dish systems and dish-engine systems could provide a source of electricity for developing countries located in extremely sunny environments. The availability of such electricity could improve quality of life there.
+
+Issues, challenges, and obstacles of dish systems
+
+It is unclear if the environmental issues related to the use of the dish system and dish-engine system will negatively affect the use of these systems as a widespread source of electricity. A balance must be created between the effect on the environment and the creation of electricity by such alternative forms of energy.
+
+The trough system, also called the line-focus collector, focuses sunlight to create electricity. The trough system has its name because each collector is shaped like a trough that is parabolic (curved) in shape. There is a tube running down the middle of the trough with fluid inside. Mirrors inside the trough concentrate sunlight on that tube and heat the fluid inside it. The fluid is usually dark oil, but other substances can be used. The oil can get as hot as 752°F (400°C). The heat from the oil is transferred to water, which turns into steam. The steam can be used to power a turbine-generator or other machinery to produce the electricity.
+
+Trough systems are modular. That means they can be linked together to make a larger amount of electricity than can be created by an individual trough. Many troughs together form a collector field when they are put in parallel rows. In a collector field the troughs are set in a certain way, usually aligned in an axis running from north to south. This allows the troughs to track the sun from east to west, the direction the sunlight moves during the day. An individual trough system can produce up to 80 megawatts of electricity.
+
+There are several ways to make sure trough systems produce electricity after the sun goes down. Some trough systems have a means of thermal storage. That is, they can save the heat transfer fluid while still hot. By doing so, the troughs can still power the turbines after the sun goes down. However, trough systems are usually hybridized, meaning they are combined with a fossil fuel system for supplying electricity. Usually, the heat is created by natural gas. Using a gas-powered steam boiler is also possible. If trough systems are hybridized, they can produce power at all times. Coal-powered plants can also be supplemented by the trough system.
+
+Current uses of trough systems
+
+The trough system is already being used to make electricity around the world. As of 2001 these types of systems accounted for 90 percent of the solar energy-produced electricity in the world. Since the early 1990s troughs have been operating in Southern California's Mojave Desert. These troughs have provided as much as 354 megawatts of electricity for the power grid in the Southern California area.
+
+Benefits and drawbacks of trough systems
+
+Trough systems have many benefits, which is why they have been so widely adopted. Except for the generator, trough systems require minimal maintenance. They are also very flexible in terms of how many or few troughs can be linked together. The energy they produce is not quite on the price level of fossil fuel-produced electricity, but the figure is often very close.
+
+As with all solar energy technologies, the fact that the sun does not shine at all times is a major drawback. For trough systems to operate to capacity, they need intense, direct sunshine. Such sunshine can only be found in the United States in the desert Southwest. Trough systems also take up a significant amount of space when they are linked together to provide power on a widespread scale.
+
+Impact of trough systems
+
+While the trough system produces pollutant-free energy, many systems used together can take up much land. They are often placed in a desert that had previously been free of buildings or other structures. Placing a collector farm or any significant number of trough systems may litter this landscape and potentially destroy it. Animals and plants in the area could be negatively affected by the presence of this technology.
+
+Despite the environmental costs, many governments support the use of trough systems to generate power. There are federal tax incentives for the use of trough systems. The State of California, for example, has mandated that power made by renewable energy sources must be purchased, and this is one technology the state has encouraged. If trough systems are ever used on a widespread basis, they could provide a cheap alternative source of power.
+
+Issues, challenges, and obstacles of trough systems
+
+Because the trough system is a more commonly used technology than other types of solar energy, there is a familiarity with it in the energy industry. This awareness makes it more appealing. If trough systems can spread to all sunny parts of the world, solar energy in general technology could become more accepted. However, the space requirement of the trough system will limit the growth of this industry.
+
+A solar pond is a large, controlled body of water that collects and stores solar energy. Solar ponds do not use tracking systems such as mirrors, nor do they concentrate the sun's rays like many other solar energy technologies.
+
+There are two types of convecting solar ponds. (Convection is a process in which a fluid such as water circulates, and in so doing the circulation causes a transfer of heat.) One is called a salt-gradient pond. At the very bottom of the pond is a dark layer that can absorb heat. This is usually a liner made of butyl rubber or other dark material. In addition to helping the water absorb the heat, it helps protect the nearby soil and groundwater from being contaminated by the saltwater from the solar pond.
+
+In the pond, there is a significant amount of salt located near the bottom. The types of salt commonly used are sodium chloride or magnesium chloride. The water is saturated (filled entirely) or almost saturated with salt. The closer to the surface, the less salt is found in the water. At the very top of the pond is a layer of freshwater (that is, water without salt). This change in saltiness forms layers in the pond. The gradual change in the amount of salt is called a salt-density gradient.
+
+The layers of saltwater stop the natural tendency of hot water to rise to the surface. Thus, the water that is heated by the sun stays at the bottom of a solar pond. The layers that are close to the surface remain cool. There is a significant temperature difference between the top and the bottom of a solar pond, though some heat can be stored on every layer. Temperatures as high as 179 to 199°F (82 to 93°C) can be found at the bottom.
+
+The heat is extracted by a heat exchanger at the bottom of the pond. This heat energy can power an engine, provide space heating, or produce electricity via a low-pressure steam turbine. The heated saltwater can be pumped to the location where the heat is needed. After the heat is used, the water can be returned to the solar pond and heated again.
+
+The second type of convecting pond is a membrane pond. A membrane pond is similar to the salt-gradient pond except the layers of water are physically divided. They are separated by membranes that are thin and transparent. The separation of layers physically prevents convection (circulating movement). With a membrane pond the heat that is created is also removed from the bottom layer of the pond as in a salt-gradient pond.
+
+There are also two types of nonconvecting ponds. One is called a shallow solar pond. This pond has no saltwater. Pure freshwater is kept inside a large bag. The bag allows convection to take place but limits the amount of water that can be evaporated. At the bottom of the bag is a black area. Foam insulation can also be found near the bottom. On top of the bag are two types of glazing. These glazings are usually sheets of plastic or glass.
+
+In a shallow solar pond, the sunshine heats the bag and the water inside during the day. The heat energy is extracted at night. The heated water is pumped into a large heat storage tank. This process can be difficult because heat loss is possible. The problems with heat loss have meant that shallow solar ponds have not been fully developed as a technology.
+
+Ocean Thermal Energy Conversion
+
+The concept behind solar ponds can be applied in the ocean in ocean thermal energy conversion (OTEC). In the ocean the water has different temperatures at different depths. It is often warm on the surface and colder the farther from the surface it is. If the temperature difference is at least 68°F (20°C), such as in tropical areas where the ocean is deep, then OTEC could be used to create energy.
+
+To take advantage of OTEC, a pipe would be used to pump a significant amount of water to the surface. There, it would be run through a heat exchanger to capture the energy. In addition to providing electricity, the system could be adapted to produce freshwater. It could also be used to provide water full of nutrients in which such food items as fish and vegetables could be raised.
+
+A prototype of OTEC was used in Hawaii in the mid-1990s. In the future, developing countries in coastal tropical areas could employ the technology.
+
+The other type of nonconvecting pond is the deep, saltless pond. The primary difference between this pond and the shallow solar pond is that the water is not pumped in and out of its storage medium. This limits the amount of heat that can be lost.
+
+Current and future uses of solar ponds
+
+Solar ponds can be used in a number of ways. They can make electricity or be used to provide heating for community, residential, and commercial purposes. They can also provide low-temperature heat for certain industrial and agricultural purposes, and they can also be used in preheating applications for industrial processes that require higher temperatures. In addition, solar ponds can be used to desalinate (remove the salt from) water. In Australia a pond at the Pyramid Hill salt works in Northern Victoria is used by the company to help make salt.
+
+Solar ponds have been used for several decades. In the 1970s in Israel, a salt-gradient pond was created near the Dead Sea. Until 1989 it generated 5 megawatts of electricity. The project ended because of the high costs involved. Similar systems were built in California and other locations in the United States as well as India and Australia, though they were on a smaller scale. Several shallow solar ponds were built by the Tennessee Valley Authority.
+
+There are a number of potential applications for solar ponds. Such ponds might be used to grow and farm brine shrimp or other sea creatures that are used as feed for livestock. In Australia solar pond projects are planned that would dry fruit and grain. Some researchers hope to use solar ponds in the production of dairy products.
+
+Benefits and drawbacks of solar ponds
+
+Solar ponds are very versatile. They can use both direct sunlight as well as diffuse radiation on cloudy days. They can store the heat they collect during the daytime hours for use at night. A separate thermal storage unit is not always needed.
+
+Another benefit is that solar ponds can be used in nearly any climate. They can even be used in winter when the top layer of a salt-gradient pond becomes covered in ice. They are also reusable: The water from which the heat is removed can be returned to the pond.
+
+Finally, solar ponds do not always cost much to construct. There is no solar collector that needs to be cleaned. Because the solar pond can be built to be big, large amounts of power can be produced.
+
+One drawback is that solar ponds require a very large area of flat land. It can be difficult to find the empty land needed to make the pond big enough to be used. In addition, lots of salt is also needed.
+
+Impact of solar ponds
+
+Some of these ponds are very large, which can affect the environment around them. Measures must be taken to ensure that the salt from the solar ponds does not contaminate the soil. This contamination could very negatively affect the environment. Solar ponds can also have a positive environmental impact, however. When combined with desalting units, solar ponds can be used to purify water that is contaminated. Solar ponds make heat energy without burning any fuels and save conventional energy resources.
+
+Despite the fact that solar ponds are not particularly efficient in their production of energy, they are inexpensive. However, they are not seen as economically advisable in the long term. As a result, there is very little commercial interest in them in most parts of the world.
+
+Make Your Own Solar Pond
+
+A small solar pond is easy to make at home with an aquarium, some food coloring, a lamp with a 100-watt light bulb, some salted water, and a few other items. First, set up a small five-gallon aquarium. Take two gallons of warm water and mix in one cup of salt. Mix until all the salt is dissolved. Then add in another one-third cup of salt. Let the mixture cool. Mix in a little red food coloring and put the mixture in the aquarium.
+
+Take a very small funnel and a foot-long piece of hose. Attach the hose to the bottom of the funnel. Put the hose about half way into the water in the tank. Slowly add a gallon of freshwater. After the water is added, move the hose up toward the top of the tank without moving the hose above the water level. This step helps to create a gradient.
+
+Now something small that can float is needed. Such items could be a plastic coffee can lid or a very thin wooden block. Put this item on the water. Pour water slowly onto the floating object. Leave the aquarium alone for one hour.
+
+After one hour, put a few drops of blue food coloring onto the floating object. Then put the lamp over the tank and turn it on so the light is shining down. Put a thermometer that can go as high as 120 degrees Fahrenheit (48 degrees Celsius) in the water. Monitor the aquarium for the next twenty-four hours. The temperature will rise over that time period. As this solar pond heats up, three different colors will appear representing the three different levels of salty water that would be found in a solar pond.
+
+Solar ponds can be a source of cheap salt in some countries. In Australia, for example, solar ponds can productively use lands that have too much salt in them to be used for anything else. All over Australia there are a number of underground sources of saltwater. This water can be turned into freshwater using solar ponds in a profitable fashion. These uses could be positive for Australian society, resulting in the creation of new jobs, industries, and sources of water.
+
+Issues, challenges, and obstacles of solar ponds
+
+While solar ponds have much potential, there has not been very much investment in the technology behind them. Yet the solar ponds could provide freshwater and electricity in coastal desert regions and islands. However, such applications have not yet been realized.
+
+Solar towers, also known as power towers, central receivers, or heliostat mirror power plants, use solar energy to generate enough power to provide electricity over a large area. In this system the sun's power is collected by a large field of flat, movable mirrors. Sometimes there are thousands of mirrors. The mirrors, called heliostats, move so they can track the sun. They are focused on one single, fixed receiver that is located on top of a tall, central tower. Temperatures can be produced from 1,022 to 2,732°F (550 to 1,500°C) at the receiver.
+
+The receiver collects all the energy and heat into a heat-transfer fluid that is flowing through it. In early power towers, this fluid was plain water. However, more recent models usually use molten salt, though liquid sodium, nitrate salt, and oil are also used. The heat energy held in the salt is used to boil water and make steam. This steam is used to generate electricity in a steam generator, usually located at the foot of the tower.
+
+Molten salt can act as an efficient thermal storage medium for the heat collected in the solar tower. The heat can be stored for many hours or several days in this fashion. This storage medium is very important. It allows the solar towers to be operational for up to 65 percent of the year. The rest of the time, a backup fuel source is used. When there is no energy storage medium, solar towers can only be used for about 25 percent of the year.
+
+Current and future uses of solar towers
+
+In the 1970s supporters believed that solar tower technology would take off. A number of solar tower technologies were implemented in the successive decades. In California there have been several solar tower projects. Solar One, which operated from 1982 to 1988, used water as a heat-transfer fluid in the receiver. It used 1,818 mirrors placed in semicircles around a tower that was 255 feet (78 meters) high. The mirrors focused the sunlight onto a boiler at the top. The use of water created problems for storage of the heat created and for running the turbine. Solar One was remade in 1992 to replace the water with molten salt. Despite this change, Solar One only functioned for a short time longer.
+
+California funded another solar tower project that required an initial investment of $150 million. Solar Two operated from 1996 to 1999, had 10 megawatts of capacity, and also used molten salt. The success of Solar Two showed that the technology could work on a commercial basis. Solar towers were built in other countries as well. In Spain a solar tower was built that was smaller than the power towers built in California. It was constructed in 1982 south of Madrid and could produce up to 50 kilowatts of power. It was only used on an experimental basis to heat air.
+
+Despite this early promise, as of 2001 there were no commercial solar towers in operation anywhere in the world. But more projects are being planned. In the future it is believed that solar towers will be built that can provide power for from 100,000 to 200,000 homes. Future projects might include a project in Spain called Solar Tres ("Solar Three") that will also use molten salt. Solar Tres was not seen as a short-term experiment but a long-term source of power. South Africa is planning on building a solar tower plant as well.
+
+The most ambitious solar tower project was planned in Australia. In the early 2000s the country talked about building a giant solar tower, one of the tallest structures in the world, out in the desert near Mildura, Victoria, Australia. It would be 0.62 miles (0.9 kilometers) high and would produce 650 gigawatts of electricity each year at its peak to serve 70,000 consumers or 200,000 homes. This tower would be connected to thirty-two turbines. The tower would cost at least US$720 million to build. Australia hopes to have the tower actually working in 2008, if funding and logistics can be worked out. It is unclear how it would be built. There were other issues such as how to protect it from high winds, if it would be commercially workable, and if it would be technologically out of date by the time it was completed.
+
+Benefits and drawbacks of solar towers
+
+Solar towers have one important advantage over other types of solar power: They continually generate electricity as long as they have a means of heat storage such as molten salt. This means that they can be used to provide reliable power for customers over a long period of time. However, there are many drawbacks to solar towers as well. The technology is currently very costly. It might cost too much to make the power when considering the cost of building the tower itself. Also, solar towers are not particularly efficient means of converting sunshine into electricity. Only about 1 percent of the sunlight that hits the tower is actually made into electricity. Moreover, the size of the tower makes it difficult to place.
+
+Impact of solar towers
+
+Solar towers take up a lot of space and are usually put in the desert or on empty land. The construction of such a large project could negatively affect the environment. The size and scope of what a solar tower looks like—the field of mirrors, the high tower, and the generator—could also negatively affect the location in which the tower is placed.
+
+On the other hand, if this technology reaches maturity, solar towers could provide a cheap alternative source of power in the future. Although at present solar towers produce power that costs more than current electricity made with fossil fuels, as fossil fuels run out, the electricity made with fossil fuels will become more expensive and solar towers will become comparatively cheaper.
+
+Issues, challenges, and obstacles of solar towers
+
+Solar towers have many positive aspects. They can run for long periods of time on stored energy, which comes from the sun. This makes solar towers different from many other renewable energy technologies. Yet solar towers have not caught on as a power-producing technology. Perception of the potential of solar towers needs to change for it to be considered a viable electric-producing source in the future. As long as the technology continues to develop, solar towers have a chance to be an important source of renewable energy in the future.
+
+Like solar power towers, solar furnaces use mirrors to concentrate sunlight onto one point to achieve high temperatures. The solar energy is collected from over a wide area. Solar furnaces can create higher temperatures than solar towers. There are several types of solar furnaces, each of which produces a different wattage of power.
+
+The best known solar furnace is called a high-flux solar furnace. It uses just one flat mirror or heliostat that is very large in size. It tracks the sun to ensure the greatest reflection of sunlight onto the primary concentrator. The concentrator consists of twenty-five or so individual curved mirrors. These mirrors focus the light, called a solar flux, at a target inside the building.
+
+The light from the concentrator is focused on a circle or target inside the furnace. The focused beam of light created by the concentrator is much, much stronger than normal sunlight. At its focal point it can produce the energy of 2,500 suns. There can also be a reflective secondary concentrator added to the focus. The equivalent of up 20,000 suns can then be produced. When a refractive concentrator is added to the system to focus even more light on the beam, the intensity can equal an amazing 50,000 suns. Temperatures rise very rapidly in a solar furnace, more than 1,832°F (1,000°C) per second. The power level inside the furnace is adjustable by a device called an attenuator, which works like pulling down blinds over a window.
+
+Current and future uses of solar furnaces
+
+Solar furnaces are primarily used to generate heat or steam to make electricity and for industrial use. Steam created by solar furnaces can be used to run generators and industrial equipment. An advantage of using solar-created heat in such industrial processes is that the heat is clean, meaning that it produces no harmful emissions. The first solar furnace was designed in Germany in 1921. It used a parabolic concentrator and lenses. Several more were built in Germany, France, and the United States between the 1930s and 1950s. One built in France in 1952 could produce 50 kilowatt hours of electricity.
+
+In 1970 one of the most powerful solar furnaces built was constructed. It was located in Odeillo, France, at one of the sunniest points in Europe. It can produce about 100 kilowatt hours of electricity and has the capability of making heat as hot as 59,432°F (33,000°C). On the hillside opposite the furnace are 9,600 to 11,000 flat mirrors over 1,860 square miles (4,817 square kilometers) that track the sun and reflect sunlight onto one side of the furnace. On this side of the ten-story furnace are curved mirrors that cover its face. These mirrors are joined together to act as one large mirror. They focus the sun's energy onto an area that is less than 10 square feet (1 square meter) in order to create the high temperatures. This solar furnace is primarily used for scientific experiments on high temperature applications.
+
+As of 2005 there are only a few solar furnaces in working order. Besides the one in Odeillo, France, they include smaller ones in China and the United States. The solar furnace in the United States is located at the National Renewable Energy Laboratory's CSR (Concentrated Solar Radiation) User Facility in Golden, Colorado. A high-flux solar furnace, it was built in 1990 and puts out 10 kilowatts of power. It is used to experiment on how solar furnaces can be used in industry.
+
+The future uses of solar furnaces are being determined by furnaces such as the one at the CSR User Facility. There, experiments are being conducted with ceramics, surface hardening, coatings, and processes related to the processing of silicon. It is believed that solar furnaces can be used in manufacturing in the production of aerospace products, defense products, and in electronics. Solar furnaces also could be used to break down and destroy toxic waste. In these uses the high-flux solar furnace would replace laser furnaces and furnaces using fossil fuels.
+
+Solar furnaces also have the potential to be used in materials processing and materials manufacturing that require high temperatures. The furnaces can quicken the pace of weathering for studying of future materials and how they will change over time. The CSR furnace can weatherize an object the equivalent of twenty years in only two-and-one-half months.
+
+Benefits and drawbacks of solar furnaces
+
+A solar furnace can produce very high temperatures for industrial processes without the environmental costs and economic costs related to fossil fuels. Because some scientific experiments need a more pure fuel than is possible with fossil fuels, solar furnaces could be used because of the purity of sunlight. One drawback of solar furnaces is that they are very large and costly to build. They require a large amount of land in a sunny area to be effective.
+
+Impact of solar furnaces
+
+Constructing a solar furnace has a profound effect on the environment in which it is placed. Acres, if not many square miles, of land are needed to place mirrors and a furnace, as well as any related industrial equipment. The building and operation of a solar furnace affects the local wildlife and local plant life.
+
+On an economic level, it is unclear if the cost of building a solar furnace is cost-effective based on how much energy is produced by such furnaces. However, if solar furnaces prove to be cost-effective and feasible in more than a few areas, they could provide an alternative heat and electricity source for many types of industry. The growth in the use of solar furnaces could be an ideal way for industry to convert to solar energy and use less fossil fuels.
+
+Issues, challenges, and obstacles of solar furnaces
+
+Solar furnace technology has existed for many years but never has been fully explored or used on a widespread commercial basis. It is unclear if solar furnaces will ever be used on any type of scale because of the limitations in their placement and use. However, the research happening at the CSR User Facility and others like it could lead to breakthroughs that improve the technology and/or lower the cost.
+
+Buckley, Shawn. Sun Up to Sun Down: Understanding Solar Energy. New York: McGraw-Hill, 1979.
+
+McDaniels, David K. The Sun. 2nd ed. New York: John Wiley & Sons, 1984.
+
+Brown, Kathryn. "Invisible Energy." Discover (October 1999): 36.
+
+Corcoran, Elizabeth. "Bright Ideas." Forbes (November 24, 2003): 222.
+
+Dixon, Chris. "Shortages Stifle a Boom Time for the Solar Industry." New York Times (August 5, 2005): A1.
+
+Libby, Brian. "Beyond the Bulbs: In Praise of Natural Light." New York Times (June 17, 2003): F5.
+
+Nowak, Rachel. "Power Tower." New Scientist (July 31, 2004): 42.
+
+Pearce, Fred. "Power of the Midday Sun." New Scientist (April 10, 2004): 26.
+
+Perlin, John. "Soaring with the Sun." World and I (August 1999): 166.
+
+Provey, Joe. "The Sun Also Rises." Popular Mechanics (September 2002): 92.
+
+Tompkins, Joshua. "Dishing Out Real Power." Popular Science (February 1, 2005): 31.
+
+The American Solar Energy Society. http://www.ases.org/ (accessed on September 1, 2005).
+
+"Clean Energy Basics: About Solar Energy." National Renewable Energy Laboratory. http://www.nrel.gov/clean_energy/solar.html (accessed on August 25, 2005).
+
+"Conserval Engineering, Inc." American Institute of Architects. http://www.solarwall.com/ (accessed on September 1, 2005).
+
+"Florida Solar Energy Center." University of Central Florida. http://www.fsec.ucf.edu (accessed on September 1, 2005).
+
+"Photos of El Paso Solar Pond." University of Texas at El Paso. http://www.solarpond.utep.edu/page1.htm (accessed on August 25, 2005).
+
+"Solar Energy for Your Home." Solar Energy Society of Canada Inc. http://www.solarenergysociety.ca/2003/home.asp (accessed on August 25, 2005).
+
+The Solar Guide. http://www.thesolarguide.com (accessed on September 1, 2005).
+
+"Solar Ponds for Trapping Solar Energy." United National Environmental Programme. http://edugreen.teri.res.in/explore/renew/pond.htm (accessed on August 25, 2005).
+
+Cite this article Pick a style below, and copy the text for your bibliography.
+
+"Solar Energy ." Alternative Energy. . Encyclopedia.com. 25 Oct. 2025 <https://www.encyclopedia.com>.
+
+"Solar Energy ." Alternative Energy. . Encyclopedia.com. (October 25, 2025). https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/solar-energy
+
+"Solar Energy ." Alternative Energy. . Retrieved October 25, 2025 from Encyclopedia.com: https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/solar-energy
+
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+http://www.mla.org/style
+
+http://www.chicagomanualofstyle.org/tools_citationguide.html
+
+http://apastyle.apa.org/
+
+Most online reference entries and articles do not have page numbers. Therefore, that information is unavailable for most Encyclopedia.com content. However, the date of retrieval is often important. Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+
+In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations. Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list.
+
+Energy from the sun is abundant and renewable. It is also the principal factor that has enabled and shaped life on our planet. The sun is directly or indirectly responsible for nearly all the energy on earth, except for radioactive decay heat from the earth's core, ocean tides associated with the gravitational attraction of Earth's moon, and the energy available from nuclear fission and fusion. Located approximately ninety-three million miles from Earth, the sun, an average-size star, belongs to the class of dwarf yellow stars whose members are more numerous than those of any other class. The energy radiated into outer space by the sun (solar radiation) is fueled by a fusion reaction in the sun's central core where the temperature is estimated to be about 10 million degrees. At this temperature the corresponding motion of matter is so violent that all atoms and molecules are reduced to fast-moving atomic nuclei and stripped electrons collectively known as a plasma. The nuclei collide frequently and energetically, producing fusion reactions of the type that occur in thermonuclear explosions.
+
+While about two-thirds of the elements found on earth have been shown to be present in the sun, the most abundant element is hydrogen, constituting about 80 percent of the sun's mass (approximately two trillion trillion million kilograms). When hydrogen nuclei (i.e., protons) collide in the sun's core, they may fuse and create helium nuclei with four nucleons (two protons and two neutrons). Roughly 20 percent of the sun's mass is in the form of helium. Also created in each fusion reaction are two neutrinos, high-energy particles having no net electrical charge, which escape into outer space, and high-energy gamma radiation that interacts strongly with the sun's matter surrounding its core. As this radiation streams outward from the core, it collides with and transfers energy to nuclei and electrons, and heats the mass of the sun so that it achieves a surface temperature of several thousand degrees Celsius. The energy distribution of the radiation emitted by this surface is fairly close to that of a classical "black body" (i.e., a perfect emitter of radiation) at a temperature of 5,500°C, with much of the energy radiated in the visible portion of the electromagnetic spectrum. Energy is also emitted in the infrared, ultraviolet and x-ray portions of the spectrum (Figure 1).
+
+The sun radiates energy uniformly in all directions, and at a distance of ninety-three million miles, Earth's disk intercepts only four parts in ten billion of the total energy radiated by the sun. Nevertheless, this very small fraction is what sustains life on Earth and, on an annual basis, is more than ten thousand times larger than all the energy currently used by Earth's human inhabitants. Total human energy use is less than 0.01 percent of the 1.5 billion billion kilowatt-hours (kWh) of energy per year the sun delivers to Earth. A kilowatt hour is one thousand watt hours and is the energy unit shown on your electric bill. A one-hundred-watt light bulb left on for ten hours will use one kWh of electric energy.
+
+AVAILABILITY OF SOLAR ENERGY
+
+While the amount of energy radiated by the sun does vary slightly due to sunspot activity, this variation is negligible compared to the energy released by the sun's basic radiative process. As a result, the amount of energy received at the outer boundary of Earth's atmosphere is called the Solar Constant because it varies so little. This number, averaged over Earth's orbit around the sun, is 1,367 watts per square meter (W/m2) on a surface perpendicular to the sun's rays. If, on average, Earth were closer to the sun than ninety-three million miles, this number would be larger; if it were farther from the sun, it would be smaller. In fact, Earth's orbit about the sun is not circular, but elliptical. As a result, the Solar Constant increases and decreases by about 3 percent from its average value at various times during the year. In the northern hemisphere the highest value is in the winter and the lowest is in the summer.
+
+A non-negligible fraction of the solar radiation incident on the earth is lost by reflection from the top of the atmosphere and tops of clouds back into outer space. For the radiation penetrating the earth's atmosphere, some of the incident energy is lost due to scattering or absorption by air molecules, clouds, dust and aerosols. The radiation that reaches the earth's surface directly with negligible direction change and scattering in the atmosphere is called "direct" or "beam" radiation. The scattered radiation that reaches the earth's surface is called "diffuse" radiation. Some of the radiation may reach a receiver after reflection from the ground, and is called "albedo." The total radiation received by a surface can have all three components, which is called "global radiation."
+
+The amount of solar radiation that reaches any point on the ground is extremely variable. As it passes through the atmosphere, 25 to 50 percent of the incident energy is lost due to reflection, scattering or absorption. Even on a cloud-free day about 30 percent is lost, and only 70 percent of 1,367 W/m2, or 960 W/m2, is available at the earth's surface. One must also take into account the earth's rotation and the resultant day-night (diurnal) cycle. If the sun shines 50 percent of the time (twelve hours per day, every day) on a one square meter surface, that surface receives no more than (960 W/m2) × (12 hours/day) × (365 days/year) = 4,200 kWh of solar energy per year. Since, on average, the sun actually shines less than twelve hours per day at any location, the maximum solar radiation a site can receive is closer to 2,600 kWh per square meter per year. To put this number into perspective, the average person on earth uses about 18,000 kWh of all forms of energy each year.
+
+For centuries the idea of using the sun's heat and light has stimulated human imagination and inventiveness. The ancient Greeks, Romans, and Chinese used passive solar architectural techniques to heat, cool, and provide light to some of their buildings. For example, in 100 C.E., Pliny the Younger built a summer home in northern Italy that incorporated thin sheets of transparent mica as windows in one room. The room got warmer than the others and saved on short supplies of wood. To conserve firewood, the Romans heated their public baths by running the water over black tiles exposed to the sun. By the sixth century, sunrooms on private houses and public building were so common that the Justinian Code introduced "sun rights" to ensure access to the sun.
+
+In more recent times, Joseph Priestly used concentrated sunlight to heat mercuric oxide and collected the resulting gas, thus discovering oxygen. In 1872, a solar distillation plant was built in Chile that provided six thousand gallons of fresh water from salt water daily for a mining operation. In 1878, at an exhibition in Paris, concentrated sunlight was used to create steam for a small steam engine that ran a printing press.
+
+Many further solar energy developments and demonstrations took place in the first half of the twentieth century. However, only one solar technology survived the commercial competition with cheap fossil fuels. That exception was solar water heaters that were widely used in Japan, Israel, Australia and Florida, where electricity was expensive and before low-cost natural gas became available.
+
+Also, passive solar, or climate responsive, buildings were in such demand by 1947 as a result of energy shortages during World War II, that the Libbey-Owens-Ford Glass Company published a book entitled Your Solar House, which profiled forty-nine solar architects. In the mid-1950s, architect Frank Bridgers designed the world's first commercial office building using passive design and solar water heating. This solar system has since been operating continuously, and is now in the U.S. National Historic Register as the world's first solar-heated office building.
+
+It was the oil embargo of 1973 that refocused attention on use of solar energy, when the cost of fossil fuels (coal, oil and natural gas) increased dramatically and people began to appreciate that fossil fuels were a depletable resource. More recently, concerns about energy security (the dependence on other countries for one's energy supply), and the local and global environmental impacts of fossil fuel use, have led to the growing realization that we cannot project today's energy system, largely dependent on fossil fuels, into the long-term future. In the years following the oil embargo, much thought and effort has gone into rethinking and developing new energy options. As a result, a growing number of people in all parts of the world believe that renewable (i.e., non- depletable) energy in its various forms (all derived directly or indirectly from solar energy except for geothermal and tidal energy) will be the basis for a new sustainable energy system that will evolve in the twenty-first century.
+
+Solar energy can be used in many direct and indirect ways. It can be used directly to provide heat and electricity. Indirectly, non-uniform heating of Earth's surface by the sun results in the movement of large masses of air (i.e., wind). The energy associated with the wind's motion, its kinetic energy, can be tapped by special turbines designed for that purpose. Winds also create ocean waves, and techniques for tapping the kinetic energy in waves are under active development. Hydropower is another indirect form of solar energy, in that the sun's radiant energy heats water at Earth's surface, water evaporates, and it eventually returns to Earth as rainfall. This rainfall creates the river flows on which hydropower depends. In addition, sunlight is essential to photosynthesis, the process by which plants synthesize complex organic materials from carbon dioxide, water and inorganic salts. The solar energy used to drive this process is captured in the resulting biomass material and can be released by burning the biomass, gasifying it to produce hydrogen and other combustible gases, or converting it to liquid fuels for use in transportation and other applications.
+
+In principle, energy can also be extracted from the kinetic energy of large currents of water circulating beneath the ocean's surface. These currents are also driven by the sun's energy, much as are wind currents, but in this case it is a slower-moving, much more dense fluid. Research into practical use of this energy resource is in its very earliest stages, but is looking increasingly promising.
+
+Finally, there are renewable sources of energy that are not direct or indirect forms of solar energy. These include geothermal energy in the form of hot water or steam derived from reservoirs below the surface of Earth (hydrothermal energy), hot dry rock, and extremely hot liquid rock (magma). These resources derive their energy content from the large amount of heat generated by radioactive decay of elements in Earth's core. Energy can also be tapped from tidal flows resulting from Earth's gravitational interaction with the moon.
+
+SOLAR HEATING AND COOLING
+
+Solar heating and cooling systems are classified either as passive or active. Passive systems make coordinated use of traditional building elements such as insulation, south-facing glass, and massive floors and walls to naturally provide for the heating, cooling and lighting needs of the occupants. They do not require pumps to circulate liquids through pipes, or fans to circulate air through ducts. Careful design is the key. Active solar heating and cooling systems circulate liquids or air through pipes or other channels to move the necessary heat to where it can be used, and utilize other components to collect, store and control the energy from the solar energy source. Systems that combine both passive and active features are called hybrid systems. Solar heating systems are used primarily for hot water heating, interior space heating, and industrial and agricultural process heat applications. Solar cooling systems use solar heat to energize heat-driven refrigeration systems or to recycle dessicant-cooling systems. They are most often combined with solar hot water and space heating systems to provide year-round use of the solar energy system.
+
+There are several types of passive system designs: direct gain, thermal storage, solar greenhouse, roof pond, and convective loop. The simplest is the direct gain design (Figure 2), which in the northern hemisphere is an expanse of south-facing glass (usually double glazed). The energy in the sunlight entering directly through the windows is absorbed, converted to heat, and stored in the thermal mass of the floors and walls. A thermal storage wall system consists of a massive sunlight-absorbing wall behind south-facing double glazing. The wall may contain water or masonry to store the energy during the day and release it during the night. Another type of passive system is the solar greenhouse (or sunspace), which combines direct gain in the greenhouse and a thermal storage wall between the greenhouse and the rest of the house. Solar energy provides the heat for the greenhouse and a good share of the energy for heating the living space in the house.
+
+A fourth type of passive solar heating and cooling system is the roof pond, in which containers of water are used to collect and store the sun's energy. Movable insulating panels are used to control the gain and loss of heat. In winter, the insulation is opened during the day to allow collection of the sun's heat; at night the insulation is closed to minimize loss of heat that is to be released to the house. In summer, the insulation is closed during the day to block the sun, and opened to the sky at night to provide radiative cooling.
+
+The fifth type of passive system is the natural convective loop, in which the collector is placed below the living space and the hot air that is created rises to provide heat where it is needed. This same principle is used in passive solar hot water heating systems known as thermosiphons. The storage tank is placed above the collector. Water is heated in the collector, becomes less dense, and rises (convects) into the storage tank. Colder water in the storage tank is displaced and moves down to the collector where it is heated to continue the cycle.
+
+More than one million residences and twenty thousand commercial buildings across the United States now employ passive solar design.
+
+An active solar heating and cooling system consists of a solar energy collector (flat plate or concentrating), a storage component to supply heat when the sun is not shining, a heat distribution system, controls, and a back-up energy source to supply heat when the sun is not shining and the storage system is depleted.
+
+The simplest type of active solar collector, the flat-plate collector, is a plate with a black surface under glass that absorbs visible solar radiation, heats up, and reradiates in the infrared portion of the electromagnetic spectrum. Because the glass is transparent to visible but not to infrared radiation, the plate gets increasingly hotter until thermal losses equal the solar heat gain. This is the same process that occurs in a car on a sunny day, and in the atmosphere, where gases such as carbon dioxide and methane play the role of the glass. It is called the greenhouse effect. Careful design can limit these losses and produce moderately high temperatures at the plate—as much as 160°F (71°C). The plate transfers its heat to circulating air or water, which can then be used for space heating or for producing hot water for use in homes, businesses or swimming pools.
+
+Higher temperatures—up to 350°F (177°C)—can be achieved in evacuated tube collectors that encase both the cylindrical absorber surface and the tubes carrying the circulating fluid in a larger tube containing a vacuum which serves as highly efficient insulation. Still another high-temperature system is the parabolic-trough collector that uses curved reflecting surfaces to focus sunlight on a receiver tube placed along the focal line of the curved surface. Such concentrating systems use only direct sunlight, and can achieve temperatures as high as 750°F (400°C), but do require tracking of the sun.
+
+Water heating accounts for approximately 25 percent of the total energy used in a typical single-family
