@@ -82,3 +82,8 @@ This document archives the completed phases of the Gitopedia development roadmap
 - **DONE:** Integrate search. Implemented `internal/search` package using DuckDuckGo.
 - **DONE:** Integrate LLM. Implemented `internal/llm` package using `sashabaranov/go-openai` SDK, configurable for self-hosted DeepSeek via `OPENAI_BASE_URL`.
 
+
+
+
+
+
