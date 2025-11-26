@@ -1,0 +1,193 @@
+Products & Applications
+
+Research & Development
+
+Products & Applications Latest Articles in "Products & Applications" sponsored PTC Thermistor Vishay Intertechnology SMD Inrush Current Limiting PTC Thermistors Increase Board-Level Efficiency to Lower Costs CURRENT AMPLIFIER Novosense launches current sense amplifiers to address PWM transient interference Charging Solutions Power strips with surge protection in our homes POWER INNOVATION GaN technology powers next-generation IQ9 solar microinverters.
+
+Industry News Latest Articles in "Industry News" STRATEGIC PARTNERSHIP New partnership to advance GaN technology for AI data centers expert SUSTAINABLITY From e-waste to a circular electronics economy – Facts & figures for a sustainable future RENEWABLE ENERGY Powering future wind energy with SiC technology GaN ADVANCEMENT GlobalFoundries licenses TSMC GaN technology to accelerate U.S. power portfolio
+
+Research & Development Latest Articles in "Research & Development" COOLING TECHNOLOGY Evolving cooling solutions for high-density data centers AI APPLICATIONS 7 use cases of ChatGPT in electronic companies BASIC KNOWLEDGE What is a capacitor? Semiconductor Material Gallium oxide: Hidden gem
+
+Tools & Software Latest Articles in "Tools & Software" ELECTRICAL PLANNING Siemens advances electrical design in industry with new software INNOVATION EMPOWERMENT Siemens empowers Europe's future semiconductor innovators BATTERY ANALYTICS Rolls-Royce introduces Battery Analytics for mtu battery solutions PRINTED CIRCUIT BOARDS Siemens acquires DownStream to enhance PCB design workflow
+
+Research & Development
+
+What is solar energy? Definition, types and more
+
+What is solar energy? Definition, types and more
+
+BASIC KNOWLEDGE – SOLAR ENERGY What is solar energy? Definition, types and more
+
+While solar energy is widely considered as synonymous with photovoltaic technology, it actually also encompasses a range of concentrated solar power configurations which can extract thermal energy from solar radiation. This article looks at both solar technologies, discusses how they work, and considers their potential.
+
+As the world races towards net zero, 137 countries have now committed to some level of carbon neutrality. While each country’s actual performance will depend on its individual circumstances, this mindset is driving interest in renewable energy solutions. With added impetus from world events, investment in renewable energy during 2021 reached the highest levels since the Great Recession.
+
+But which type of renewable energy holds out the greatest promise? The two most widely-used and obvious contenders are wind and solar, and both have venerable histories. Man has harnessed wind power since around 6000 to 5000 BC, when boats first used sails, while solar energy has been used since 700 BC when mirrors exploited it to create fire.
+
+Wind power currently outpaces solar; In 2020, for example, wind power provided about 8.4 % of the US’s generated energy, while solar’s contribution was around 2.5 %. However, this may be partly because wind power is well suited to utility-scale installations, while solar panel is often used on a smaller scale and, unlike wind power, is highly attractive for residential applications.
+
+There is also another consideration; ‘solar’ in the above statistic means photovoltaic (PV) solar panels specifically, and PV is certainly the most popular way of extracting electrical power from the sun. It is based on certain semiconductor materials’ characteristics of emitting electrons when exposed to sunlight, known as the photoelectric effect. This is described as a photovoltaic effect when these electrons enter another material.
+
+However, there are other ways of using solar energy to generate electrical power. These are based on converting solar radiation thermal energy into heat, which can then be used to generate electricity or stored for later use. They usually employ mirrors to concentrate the sun’s radiation, and are known as concentrated solar power (CSP) systems. The market for these is expected to exceed USD8 billion by 2026, with a CAGR of 10.3 % from 2019 to 2026 .
+
+Solar energy definition
+
+Solar energy, which is often referred to solar power, is energy generated from the solar radiation. It can be used in form of electric power, heat or chemical energy.
+
+Types of solar energy
+
+Accordingly, this article looks at various ways to obtain electrical energy from the sun. The different types of solar energy are:
+
+thermal energy technologies including solar farm power plants
+
+solar stirling systems
+
+thermal (or updraft) power plants
+
+Ten of the world’s largest renewable energy projects
+
+Photovoltaic (PV) power generation
+
+The fundamental building block of a PV system is the solar cell. A number of these are strung together to make a solar module, and modules in turn are assembled into a solar system, such as a panel on a roof.
+
+Each cell contains crystalline silicon, which is a semiconductor material. This is sliced into thin layers to form diodes. These absorb sunlight, and emit electrons in response. Other materials in the cell prevent the electrons recombining with their atoms, so they flow as current instead. An individual cell typically produces about 1 or 2 watts of power, which is scaled up as the cells are built into modules and complete panels or systems. These also include mounting structures that point panels towards the sun, and inverters to convert the PV cells’ DC output into AC power for local use or connection into a grid.
+
+For more detailed information about photovoltaic technology, read our Basic Knowledge article: ‘Everything you need to know about photovoltaics’
+
+Solar farm power plants
+
+The term ‘solar farm’ is often taken to mean a large array of PV panels; Shotwick Solar Park in Flintshire, UK, for example, covers 250 acres and provides 72.2 MW peak capacity.
+
+However, it can also refer to a concentrated solar power (CSP) scheme where ‘concentrated’ is somewhat loosely interpretated. Unlike other CSP designs where sunlight is focused into a single small area, a solar farm’s collector field comprises many parabolic troughs or Fresnel collectors connected in parallel, as ‘line concentrators’.
+
+Parabolic trough collectors consist of curved mirrors that focus the sunlight onto an absorber tube running along the focal line. The length of such collectors is between 20 and 150 meters, depending on the type of construction. In the absorber tubes, the concentrated solar radiation heats a circulating heat transfer medium, usually thermal oil or superheated steam.
+
+More than just a power source: How the Talatan PV Power Station changed lives
+
+Thermal oil systems, which can reach temperatures of up to 390 °C, are used in a heat exchanger to generate steam. Direct steam generation or direct solar steam (DISS) does not require such heat exchangers, as the superheated water vapor is generated directly in absorber tubes. This enables temperatures of over 500 °C.
+
+As in a steam power plant, the water vapor is then fed to a centrally located steam turbine, which is coupled to a generator. The turbines used today are adapted to the special operating conditions in solar thermal power plants. Improved efficiencies mean that the same output can be achieved from a smaller solar field. This reduces investment costs and improves the electricity generation’s profitability.
+
+Subscribe to the newsletter now
+
+Please enter a valid mailadress.
+
+By clicking on „Subscribe to Newsletter“ I agree to the processing and use of my data according to the consent form (please expand for details) and accept the Terms of Use. For more information, please see our Privacy Policy.
+
+Declaration of consent
+
+It goes without saying that we treat your personal data responsibly. Where we collect personal data from you, we process the data in compliance with the relevant data protection regulations. More detailed information is available in our privacy policy.
+
+Consent to the use of data for advertising purposes
+
+I consent to the use of my email address to send editorial newsletters by Mesago Messe Frankfurt GmbH, Rotebühlstr. 83-85, 70178 Stuttgart, Germany including all of its affiliates within the meaning of Section 15 et seq. AktG (‘Mesago’). I have viewed lists of each group of affiliates here for the Mesago.The content of the newsletter covers the products and services of all of the companies listed above including, for example, trade magazines and specialist books, events and exhibitions and event-related products and services, printed and digital media products and services such as additional (editorial) newsletters, competitions, lead campaigns, online and offline market research, technical web portals and e-learning courses. If my personal telephone number has also been collected, it may be used to send offers for the aforementioned products and services from the above companies, as well as for market research purposes.If I wish to access protected content online on portals of Mesago including its affiliates within the meaning of Section 15 et seq. AktG, I must register with additional data in order to access that content. In return for this free access to editorial content, my data may be used in line with this declaration of consent for the purposes described herein.
+
+Right to withdraw consent
+
+I am aware that I can withdraw this consent at any time with future effect. My withdrawal of consent does not affect the lawfulness of processing performed based on my consent before its withdrawal. If I wish to withdraw my consent, I can send an email to Mesago at privacy@mesago.com. If I no longer wish to receive individual newsletters to which I have subscribed, I can also click on the unsubscribe link at the bottom of a newsletter. I can find more information on my right to withdraw, how to exercise this right and the consequences of my withdrawal in the Privacy policy Editorial newsletters section.
+
+The day/night cycle and changing weather conditions also require very short start-up times for the steam turbine. For these reasons, mostly two-casing steam turbines with reheating are used in solar thermal power plants. The exhaust steam from the high-pressure turbine is fed into a reheater at constant pressure before it enters the downstream low-pressure turbine conducted in the steam boiler, where it is superheated again. The steam cycle thus operates at a higher average temperature than a non-reheated cycle. This increases efficiency, because the turbine produces a higher output with the same amount of heat being supplied to the boiler. A special housing design protects the steam turbine from excessive cooling at night and, with low rotor weight, contributes to a short start-up time.
+
+The Noor Complex in the Sahara Desert has been described as the world’s largest CSP solar farm . The first phase has been providing 160 MW since switching on in 2016, while all three phases amount to 510 MW CSP plus 70 MW photovoltaic. Have a closer look at the Noor Complex in this video:
+
+Solar tower power plants
+
+A solar power tower, also known as a central receiver, is a large-scale CSP approach. A ‘Solar Tower Power’ article in the Alternative Energy Tutorial series describes how solar towers uses hundreds if not thousands of small sun-tracking mirrored solar dish collectors, called heliostats. They operate as a true concentrated solar power solution, since the solar power from all the dishes is focused on one single point – a heat absorbing receiver mounted at the top of a tall tower in the center of the heliostat array.
+
+The receiver contains a high temperature heat transfer fluid or working medium which absorbs the highly concentrated radiation reflected by the heliostat field and converts this thermal energy into super-heated high-pressure steam to be used on the ground to spin a series of turbines, much like a traditional power plant, to generate electricity. By focusing the sunlight and therefore concentrating the solar thermal energy in this way very high temperatures can be achieved - from 800 °C to well over 1,000 °C.
+
+The heat transfer medium options for most modern solar power towers includes water/steam, molten salts, liquid sodium, oil and even air. Early solar tower designs focused the sun’s rays to heat plain water in a high-pressure cold-water tank mounted at the top of the tower and then used the resulting generated steam to power a turbine generator.
+
+Nowadays, solar power towers use molten salt such as sodium nitrate (NaNO3) as an efficient transfer medium, but water is still used as a coolant for the receiver. Using molten salt means that the absorbed heat can be stored for many hours and used at night or on low solar energy days.
+
+The pre-heated liquid salt at a temperature of about 300 °C is pumped up the tower from a cold storage tank through the heat absorbing central receiver where it is heated to over 600 °C by the concentrated sunlight. It then flows under gravity down the tower into a hot liquid storage tank for use later by the generating plant.
+
+When electrical power is required by the generating power plant at the foot of the tower, the hot stored liquid salt is pumped to a heat exchanger design that produces super-heated steam for the turbine generator. The salt cools as it transfers its heat energy to the water and is returned to the cold storage tank to be reheated again by the solar thermal receiver.
+
+This liquid salt solar concentrator design allows for electrical power to be generated even when the sun is not shining. However, one major disadvantage of using molten salt is that the salt must be kept in a liquid state in the system at all times even during standby or when there is no solar radiation to prevent it from solidifying and blocking the pipes or the actual solar receiver at the top of the tower.
+
+Solar power Stirling engine
+
+A Stirling cycle engine can be described as a ‘closed cycle regenerative heat engine that operates by cyclically compressing and expanding a gaseous working fluid at different temperatures such that there is a net conversion of heat energy to mechanical work’. Closed cycle means that it uses a sealed volume of gas to move heat back and forth repetitively, meaning it does not consume water to maintain steam pressure like a conventional steam engine. Regenerative means that it uses a heat exchanger to recycle some of the heat energy and improve efficiency.
+
+Another key advantage is that Stirling engines can operate from many different high-temperature heat sources, including CSP, where parabolic reflectors focus the sun’s energy at a concentration ratio of over 2,000 to heat a transfer fluid inside the solar engine to over 530 °C. A component within the Stirling engine known as an ‘economizer’ uses the CSP energy to heat the engine’s working gas (typically helium or hydrogen) so that it expands. It also cools when it contracts. A piston is driven by compression or expansion of the working gas which never leaves the engine.
+
+A look at the main applications of energy storage systems
+
+An electrical generator is directly coupled to the Stirling motor shaft, which converts the mechanical energy into the desired AC electrical energy and as such is a system in which temperature differences plays a significant factor. The power output of the Stirling motor is mainly controlled by varying the working gas pressure inside the piston cylinder.
+
+The Stirling engine’s tolerance of different heat sources means that the systems can be operated on cloudy days or at night by using complementary methods such as burning natural gas. Dish Stirling systems can also be combined with photovoltaic systems. The parabolic mirror is retained, but the Stirling engine and the generator are replaced by a solar cell.
+
+Since this only has to be as large as the area of the focal point (i.e., only a very small fraction of the size of normal solar cells which would be required for the same performance), extremely efficient solar cells can be used which would be far too expensive for a conventional application. Water cooling of the solar cells is essential for this use; the resulting hot water can simply be used for heating or washing.
+
+Thermal (or Updraft) power plant
+
+In an updraft power plant (sometimes also called a thermal power plant ), air is heated by the sun and rises in a chimney due to natural convection . One or more turbines generate electricity from this air flow. The heated air is drawn from a greenhouse structure inside a large solar collection area, which can exceed 1 km2. In the center of the collection area is a large diameter concrete chimney structure, which vents the hot air into the atmosphere by convection. As the hot air moves from the solar collection area to the chimney structure, it drives the electricity producing turbines, which are either situated around the base of the chimney, or actually in a horizontal plane within the chimney itself.
+
+The two factors that are critical for successful operation of the updraft tower are the size of the collection area, and the size (or height) of the tower – ideally over 750 m. These dimensions and their associated costs have historically made these systems economically unattractive, especially as they are also very inefficient.
+
+Yet interest in these towers has not entirely disappeared. In October 2010, for example, Enviromission announced plans to build two 2000 MW systems in Western Arizona, although these have not been completed. One attraction is that unlike other solar sources which are intermittent because they rely on the sun to operate, updraft towers can produce electricity 24/7. Special materials can be used under the collection canopy that retain solar heat during the day, then release it at night. Additionally, underneath the collection area canopy, condensation created at night allows the soil to be used for arable land, enlivening potentially otherwise barren desert. Importantly, the collection area canopy has sufficient height to allow farming equipment to move freely.Finally, if the towers were associated with air filters (potentially carbon dioxide), this technology could also act as a CO2 scrubber potentially helping to reduce global warming.
+
+BATTERY STORAGE SYSTEMS
+
+BESS: These factors are driving the growing demand
+
+Solar energy – advantages and disadvantages
+
+Solar energy, as a green energy source, has undoubted attractions over fossil fuels, irrespective of the solar energy technology used – photovoltaic or CSP.
+
+These are the most important advantages of solar energy:
+
+Solar energy is a truly free and renewable energy source accessible from anywhere in the world, is available to some extent every day, and will never run out.
+
+Solar energy can be used to produce electricity in areas without grid access, and to power satellites in space. It emits no pollution into the atmosphere.
+
+Solar energy systems do not generally require much maintenance, with solar panels typically requiring cleaning a couple of times a year. They usually carry a 20 – 25 year warranty. Inverters may need changing after five to 10 years as they operate continuously, and cables also need maintenance.
+
+Technology in the solar panel industry is constantly advancing. Innovations in quantum physics and nanotechnology can potentially increase solar panels’ effectiveness and double, or even triple, their electrical output.
+
+But there are also some solar energy disadvantages:
+
+Solar panel system costs remain high, although their price is dropping and can be expected to drop further.
+
+Also, their output levels depend on the strength or presence of sunlight, so are unpredictable. This can be mitigated by storing energy in large batteries, but battery systems are expensive to install and require maintenance.
+
+Some CSP systems are inefficient in their water usage.
+
+As mentioned above, updraft towers may offer large-scale 24/7 generation solutions if they become commercially viable.
+
+Both PV and CSP systems at industrial or utility scales need a large land area, which can present both economic and logistic problems in high population density locations. CSP systems can cause problems with light pollution from the mirrors used.
+
+PV systems contain many of the hazardous materials as electronics products, and will create more disposal problems as PV becomes more popular. Material scarcities can also be a problem for PV systems, but not for CSP projects.
+
+Solar energy applications and uses
+
+As we have seen, CSP technologies in their various forms can be used to generate electricity by extracting energy from sunlight to drive a turbine, but these technologies can also deliver heat to a variety of industrial applications such as water desalination, enhanced oil recovery, food processing, chemical production, and mineral processing.
+
+PV technology lends itself to a wider variety of applications because it can be built into much smaller and more maneuverable configurations. The Solar Impulse airplane, for example, uses 12,000 PV panels and can fly day and night using sunlight alone.
+
+Solar paint is another interesting application: Researchers at the University of Notre Dame have developed low-cost solar paint using nano-sized particles of titanium dioxide that are coated with cadmium sulfide or cadmium selenide. Brushed onto a conducting material, and exposed to sunlight, the paint creates electricity with a light-to-energy conversion efficiency of 1 % .
+
+Pvilion is one company that has made solar technology significantly lighter and more adaptable than traditional solutions. Their products can be integrated into tents, shade canopies and other structures to provide power, shelter, lighting, and climate control. And in the UK, Oxford Photovoltaics has pioneered perovskite thin-film solar cells, which can be printed directly onto glass to produce a transparent coating. Windows treated with the new electricity generating coating (which produces the world’s smallest functional solar cell at a quarter of the size of a grain of rice) remain see-through, yet can convert sunshine to energy with no need for specialized production facilities.
+
+Tin halide: Paving the way for lead-free perovskites
+
+The future of solar energy
+
+Over the years, the United States has made strides in positioning itself as a leader in solar energy production, along with China, India, Japan, and Vietnam. Although solar power was once seen as a niche market, these countries are proving that this source of renewable energy is a legitimate answer to the world’s search for alternatives to fossil fuels.The US’s leadership status has been enhanced by expansion of the technology within both the utility and residential sectors. Much of the increase is attributable to substantial government incentives given to the residential sector, which is a fast-growing market segment .
+
+The country’s leadership status also gives extra weight to the Solar Futures Study, produced by the U.S. Department of Energy Solar Energy Technologies Office (SETO) and the National Renewable Energy Laboratory (NREL) and released on September 8, 2021. The Study finds that with aggressive cost reductions, supportive policies, and large-scale electrification, solar could account for as much as 40 % of the nation’s electricity supply by 2035 and 45 % by 2050.
+
+The Study also highlights some universal truths about solar power and its goals. Challenges must be addressed so that solar costs and benefits are distributed equitably. Solar deployment can bring jobs, savings on electricity bills, and enhanced energy resilience. Various interventions—financial, community engagement, siting, policy, regulatory, and resilience measures—can improve equity in rooftop solar adoption. Additional equity measures can address the distribution of public and private benefits, the distribution of costs, procedural justice in energy-related decision making, the need for a just workforce transition, and potential negative externalities related to solar project siting and disposal of solar materials.
+
+Follow us on LinkedIn
+
+Have you enjoyed reading this article? Then follow us on LinkedIn and stay up-to-date with daily posts about the latest developments on the industry, products and applications, tools and software as well as research and development.
+
+10 Solar power facts – You might be surprised
+
+Ten of the world’s largest renewable energy projects
+
+Cookie-Manager Imprint Customer Center Privacy General Terms & Conditions Media AI-Guidelines
+
+Copyright © 2025 Mesago Messe Frankfurt GmbH
