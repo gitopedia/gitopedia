@@ -1,0 +1,6 @@
+{
+   "relevant": true,
+   "reason": "The page provides information on various solar technologies and innovations in the solar energy industry.",
+   "summary": "
+      The Solar Wiki is an online resource that covers all aspects of solar energy. It offers information on innovative solar power generation methods, cutting-edge solar technologies, and sustainable energy solutions. Users can explore advancements in the field and learn about the latest developments in the solar energy industry through this platform. Additionally, it provides a comprehensive guide for anyone interested in learning more about solar power.\n\nThe Solar Wiki is highly recommended by users who have found valuable information on the site. The resource is edited by Info@TheSolarWiki and is protected by copyright in 2024."
+}
