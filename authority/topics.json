@@ -1,4 +1,12 @@
 [
+  {
+    "id": "topic:sustainable-energy",
+    "label": "Sustainable Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-energy-technologies",
+    "label": "Solar energy technologies",
+    "aliases": []
+  }
 ]
-
-
