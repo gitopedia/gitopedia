@@ -1,0 +1,4 @@
+{
+"relevant": true,
+"reason": "The history of solar energy is relatively recent, with the first solar cell created in 1839. However, the industry has experienced significant growth and development since then, including the creation of high-power silicon solar PV cells in 1954, the launch of thin-film silicon modules in 1976, and the implementation of federal solar tax credits in 2005. Today, solar energy is a popular and cost-effective option for homeowners and businesses.",
+"summary": "Solar energy has a history dating back to 1839 with the creation of the first solar cell. Since then, the industry has experienced significant growth, including the development of high-power silicon solar PV cells in 1954, the launch of thin-film silicon modules in 1976, and the implementation of federal solar tax credits in 2005. Today, solar energy is a popular and cost-effective option for homeowners and businesses."}
