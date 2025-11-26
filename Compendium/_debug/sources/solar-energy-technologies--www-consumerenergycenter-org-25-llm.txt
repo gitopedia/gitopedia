@@ -1,0 +1,17 @@
+What is solar energy?
+Solar energy is a renewable resource that comes from the sun's rays. It can be harnessed through various technologies such as photovoltaic (PV) panels, concentrating solar power (CSP), and passive solar design. Solar energy is converted into electricity or thermal energy for heating and cooling purposes.
+
+How does solar energy work?
+Solar energy works by converting sunlight into electricity using PV panels or CSP technology. In PV panels, sunlight hits the photovoltaic cells which are made of silicon, causing electrons to be released from the atoms in the silicon, creating an electric current. CSP technology uses mirrors and tracking systems to focus sunlight onto a small area, generating heat that is used to produce steam for electricity generation.
+
+What are the benefits of solar energy?
+The main benefit of solar energy is its renewable nature, which means it's sustainable and doesn't emit greenhouse gases during energy production. Solar energy can also help reduce dependence on fossil fuels, lower energy costs, create jobs in the industry, and contribute to a cleaner environment.
+
+What are some common uses for solar energy?
+Solar energy is commonly used for electricity generation through PV panels, heating water with thermal solar systems, and providing space or pool heating using CSP technology. It can also be used for air conditioning by cooling buildings using solar-powered chillers.
+
+How much does it cost to install a solar system?
+The cost of installing a solar system varies depending on the size of the installation, type of system, location, and other factors. On average, residential installations range from $15,000 to $35,000, while commercial installations can cost between $250,000 to over $1 million.
+
+What incentives are available for installing solar systems?
+Various federal, state, and local incentives may be available for installing solar systems, such as tax credits, rebates, net metering policies, and grants. It's essential to research the specific incentives in your area before making a decision on installing a solar system.
