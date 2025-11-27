@@ -1,4 +1,22 @@
 [
+  {
+    "id": "topic:behavioral-economics",
+    "label": "Behavioral Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:psychology",
+    "label": "Psychology",
+    "aliases": []
+  },
+  {
+    "id": "topic:economics",
+    "label": "Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-policy",
+    "label": "Public Policy",
+    "aliases": []
+  }
 ]
-
-
