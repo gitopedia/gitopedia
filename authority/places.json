@@ -1,4 +1,27 @@
 [
+  {
+    "id": "place:bennu",
+    "label": "Bennu",
+    "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
+  },
+  {
+    "id": "place:europe",
+    "label": "Europe",
+    "aliases": []
+  },
+  {
+    "id": "place:china",
+    "label": "China",
+    "aliases": []
+  },
+  {
+    "id": "place:ryugu",
+    "label": "Ryugu",
+    "aliases": []
+  }
 ]
-
-
