@@ -1,4 +1,47 @@
 [
+  {
+    "id": "org:nasa",
+    "label": "NASA",
+    "aliases": []
+  },
+  {
+    "id": "org:planetary-resources",
+    "label": "Planetary Resources",
+    "aliases": []
+  },
+  {
+    "id": "org:deep-space-industries",
+    "label": "Deep Space Industries",
+    "aliases": []
+  },
+  {
+    "id": "org:astroforge",
+    "label": "AstroForge",
+    "aliases": []
+  },
+  {
+    "id": "org:artemis-metals",
+    "label": "Artemis Metals",
+    "aliases": []
+  },
+  {
+    "id": "org:spacex",
+    "label": "SpaceX",
+    "aliases": []
+  },
+  {
+    "id": "org:blue-origin",
+    "label": "Blue Origin",
+    "aliases": []
+  },
+  {
+    "id": "org:virgin-galactic",
+    "label": "Virgin Galactic",
+    "aliases": []
+  },
+  {
+    "id": "org:orbital-assembly-corporation",
+    "label": "Orbital Assembly Corporation",
+    "aliases": []
+  }
 ]
-
-
