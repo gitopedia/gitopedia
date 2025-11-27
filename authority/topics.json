@@ -1,4 +1,57 @@
 [
+  {
+    "id": "topic:asteroid-mining",
+    "label": "Asteroid Mining",
+    "aliases": []
+  },
+  {
+    "id": "topic:psyche-mission",
+    "label": "Psyche mission",
+    "aliases": []
+  },
+  {
+    "id": "topic:s-type",
+    "label": "S-type",
+    "aliases": []
+  },
+  {
+    "id": "topic:c-type",
+    "label": "C-type",
+    "aliases": []
+  },
+  {
+    "id": "topic:m-type",
+    "label": "M-type",
+    "aliases": []
+  },
+  {
+    "id": "topic:outer-space-treaty-(ost)",
+    "label": "Outer Space Treaty (OST)",
+    "aliases": []
+  },
+  {
+    "id": "topic:u.s.-commercial-space-launch-c",
+    "label": "U.S. Commercial Space Launch Competitiveness Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:artemis-accords",
+    "label": "Artemis Accords",
+    "aliases": []
+  },
+  {
+    "id": "topic:platinum-group-metals-(pgms)",
+    "label": "Platinum-group metals (PGMs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:helium-3",
+    "label": "Helium-3",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-exploration",
+    "label": "Space Exploration",
+    "aliases": []
+  }
 ]
-
-
