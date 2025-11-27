@@ -1,4 +1,32 @@
 [
+  {
+    "id": "topic:ancient-greek-philosophy",
+    "label": "Ancient Greek Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:neoplatonism",
+    "label": "Neoplatonism",
+    "aliases": []
+  },
+  {
+    "id": "topic:stoicism",
+    "label": "Stoicism",
+    "aliases": []
+  },
+  {
+    "id": "topic:virtue-ethics",
+    "label": "Virtue Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:perseus-digital-library",
+    "label": "Perseus Digital Library",
+    "aliases": []
+  },
+  {
+    "id": "topic:philosophy",
+    "label": "Philosophy",
+    "aliases": []
+  }
 ]
-
-
