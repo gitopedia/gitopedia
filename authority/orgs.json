@@ -1,4 +1,27 @@
 [
+  {
+    "id": "org:nasa",
+    "label": "NASA",
+    "aliases": []
+  },
+  {
+    "id": "org:hayabusa2",
+    "label": "Hayabusa2",
+    "aliases": []
+  },
+  {
+    "id": "org:jaxa",
+    "label": "JAXA",
+    "aliases": []
+  },
+  {
+    "id": "org:planetary-resources",
+    "label": "Planetary Resources",
+    "aliases": []
+  },
+  {
+    "id": "org:deep-space-industries",
+    "label": "Deep Space Industries",
+    "aliases": []
+  }
 ]
-
-
