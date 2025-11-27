@@ -64,7 +64,7 @@ The Researcher supports both self-hosted and cloud providers:
 - **LLM via DeepSeek (self-hosted)**: The primary LLM is a self-hosted DeepSeek model served by Ollama.
 - **LLM via OpenAI API (cloud)**: Can fallback to OpenAI by configuring `OPENAI_BASE_URL`.
 
-Configuration is handled via a `.env` file or environment variables.
+Configuration is handled via `config/base.env` (defaults) and `.env` (overrides) files, or environment variables.
 
 ### Runtime
 
@@ -72,7 +72,7 @@ The Researcher is built as a standalone Go binary:
 
 - **Build**: `go build -o researcher main.go`
 - **Run**: `./researcher` (or via Docker Compose)
-- **Configuration**: `.env` file for secrets (`GITHUB_TOKEN` or `GITHUB_APP_*`).
+- **Configuration**: `config/base.env` contains all default settings; `.env` file only needs to override specific values (e.g., `GITHUB_TOKEN` or `GITHUB_APP_*`).
 
 ### Key Components of the Code
 
