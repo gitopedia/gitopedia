@@ -1,4 +1,47 @@
 [
+  {
+    "id": "topic:asteroid-mining",
+    "label": "Asteroid Mining",
+    "aliases": []
+  },
+  {
+    "id": "topic:outer-space-treaty",
+    "label": "Outer Space Treaty",
+    "aliases": []
+  },
+  {
+    "id": "topic:commercial-space-launch-compet",
+    "label": "Commercial Space Launch Competitiveness Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:s-type-asteroids",
+    "label": "S-type Asteroids",
+    "aliases": []
+  },
+  {
+    "id": "topic:c-type-asteroids",
+    "label": "C-type Asteroids",
+    "aliases": []
+  },
+  {
+    "id": "topic:m-type-asteroids",
+    "label": "M-type Asteroids",
+    "aliases": []
+  },
+  {
+    "id": "topic:platinum",
+    "label": "Platinum",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-ice",
+    "label": "Water Ice",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-exploration",
+    "label": "Space Exploration",
+    "aliases": []
+  }
 ]
-
-
