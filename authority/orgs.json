@@ -1,4 +1,22 @@
 [
+  {
+    "id": "org:ormat-technologies",
+    "label": "Ormat Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:terra-gen-power",
+    "label": "Terra-Gen Power",
+    "aliases": []
+  },
+  {
+    "id": "org:exergy-orc",
+    "label": "Exergy-ORC",
+    "aliases": []
+  },
+  {
+    "id": "org:u.s.-department-of-energy",
+    "label": "U.S. Department of Energy",
+    "aliases": []
+  }
 ]
-
-
