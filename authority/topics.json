@@ -1,4 +1,57 @@
 [
+  {
+    "id": "topic:quantum-field-theory",
+    "label": "Quantum Field Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics",
+    "label": "quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:special-relativity",
+    "label": "special relativity",
+    "aliases": []
+  },
+  {
+    "id": "topic:particle-physics",
+    "label": "particle physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:condensed-matter-physics",
+    "label": "condensed matter physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmology",
+    "label": "cosmology",
+    "aliases": []
+  },
+  {
+    "id": "topic:higgs-boson",
+    "label": "Higgs boson",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-electrodynamics",
+    "label": "quantum electrodynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-chromodynamics",
+    "label": "quantum chromodynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:electroweak-theory",
+    "label": "electroweak theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:physics",
+    "label": "Physics",
+    "aliases": []
+  }
 ]
-
-
