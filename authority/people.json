@@ -1,4 +1,97 @@
 [
+  {
+    "id": "person:plato",
+    "label": "Plato",
+    "aliases": []
+  },
+  {
+    "id": "person:aristotle",
+    "label": "Aristotle",
+    "aliases": []
+  },
+  {
+    "id": "person:socrates",
+    "label": "Socrates",
+    "aliases": []
+  },
+  {
+    "id": "person:thales-of-miletus",
+    "label": "Thales of Miletus",
+    "aliases": []
+  },
+  {
+    "id": "person:anaximander",
+    "label": "Anaximander",
+    "aliases": []
+  },
+  {
+    "id": "person:anaximenes",
+    "label": "Anaximenes",
+    "aliases": []
+  },
+  {
+    "id": "person:pythagoras",
+    "label": "Pythagoras",
+    "aliases": []
+  },
+  {
+    "id": "person:heraclitus",
+    "label": "Heraclitus",
+    "aliases": []
+  },
+  {
+    "id": "person:parmenides",
+    "label": "Parmenides",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-the-great",
+    "label": "Alexander the Great",
+    "aliases": []
+  },
+  {
+    "id": "person:zeno-of-citium",
+    "label": "Zeno of Citium",
+    "aliases": []
+  },
+  {
+    "id": "person:epictetus",
+    "label": "Epictetus",
+    "aliases": []
+  },
+  {
+    "id": "person:marcus-aurelius",
+    "label": "Marcus Aurelius",
+    "aliases": []
+  },
+  {
+    "id": "person:euclid",
+    "label": "Euclid",
+    "aliases": []
+  },
+  {
+    "id": "person:al-farabi",
+    "label": "Al-Farabi",
+    "aliases": []
+  },
+  {
+    "id": "person:avicenna",
+    "label": "Avicenna",
+    "aliases": []
+  },
+  {
+    "id": "person:augustine-of-hippo",
+    "label": "Augustine of Hippo",
+    "aliases": []
+  },
+  {
+    "id": "person:ryan-holiday",
+    "label": "Ryan Holiday",
+    "aliases": []
+  },
+  {
+    "id": "person:alasdair-macintyre",
+    "label": "Alasdair MacIntyre",
+    "aliases": []
+  }
 ]
-
-
