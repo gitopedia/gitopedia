@@ -1,4 +1,52 @@
 [
+  {
+    "id": "place:lardarello",
+    "label": "Lardarello",
+    "aliases": []
+  },
+  {
+    "id": "place:italy",
+    "label": "Italy",
+    "aliases": []
+  },
+  {
+    "id": "place:u.s.",
+    "label": "U.S.",
+    "aliases": []
+  },
+  {
+    "id": "place:china",
+    "label": "China",
+    "aliases": []
+  },
+  {
+    "id": "place:india",
+    "label": "India",
+    "aliases": []
+  },
+  {
+    "id": "place:pacific-ring-of-fire",
+    "label": "Pacific Ring of Fire",
+    "aliases": []
+  },
+  {
+    "id": "place:iceland",
+    "label": "Iceland",
+    "aliases": []
+  },
+  {
+    "id": "place:japan",
+    "label": "Japan",
+    "aliases": []
+  },
+  {
+    "id": "place:germany",
+    "label": "Germany",
+    "aliases": []
+  },
+  {
+    "id": "place:united-kingdom",
+    "label": "United Kingdom",
+    "aliases": []
+  }
 ]
-
-
