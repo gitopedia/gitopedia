@@ -1,4 +1,27 @@
 [
+  {
+    "id": "person:daniel-kahneman",
+    "label": "Daniel Kahneman",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-thaler",
+    "label": "Richard Thaler",
+    "aliases": []
+  },
+  {
+    "id": "person:amos-tversky",
+    "label": "Amos Tversky",
+    "aliases": []
+  },
+  {
+    "id": "person:vernon-smith",
+    "label": "Vernon Smith",
+    "aliases": []
+  },
+  {
+    "id": "person:cass-sunstein",
+    "label": "Cass Sunstein",
+    "aliases": []
+  }
 ]
-
-
