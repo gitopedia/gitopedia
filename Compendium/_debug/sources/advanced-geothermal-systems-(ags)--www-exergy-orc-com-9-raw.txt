@@ -1,0 +1,263 @@
+Who we are Company Network Vision Sustainability Quality policy and certificates Organization Strengths Code of Ethics Whistleblowing
+
+Quality policy and certificates
+
+Technology ACTIVITIES OF R&D ORC Radial Outflow Turbine
+
+Radial Outflow Turbine
+
+Products ORC-lite PureCycle Gas expander Industrial Heat Pumps
+
+Industrial Heat Pumps
+
+Application Geothermal Biomass Heat Recovery from the industrial process Heat Recovery from Power Station Cold Energy Recovery CSP
+
+Heat Recovery from the industrial process
+
+Heat Recovery from Power Station
+
+References Case Studies What our clients say
+
+Who we are Company Network Vision Sustainability Quality policy and certificates Organization Strengths Code of Ethics Whistleblowing
+
+Quality policy and certificates
+
+Technology ACTIVITIES OF R&D ORC Radial Outflow Turbine
+
+Radial Outflow Turbine
+
+Products ORC-lite PureCycle Gas expander Industrial Heat Pumps
+
+Industrial Heat Pumps
+
+Application Geothermal Biomass Heat Recovery from the industrial process Heat Recovery from Power Station Cold Energy Recovery CSP
+
+Heat Recovery from the industrial process
+
+Heat Recovery from Power Station
+
+References Case Studies What our clients say
+
+Media News & Events Press
+
+Media News & Events Press
+
+ADVANCED GEOTHERMAL SYSTEMS: HARNESSING GEOTHERMAL ENERGY
+
+In this article, we explore how advanced geothermal systems are shaping the future of clean energy, offering scalable and reliable solutions even in regions without traditional geothermal resources. We’ll examine recent breakthroughs in Enhanced and Closed-Loop Geothermal Systems, the surge in global investment, and the key technical and operational challenges that must be addressed.
+
+We will analyse the following factors:
+
+Geothermal Revolution
+
+Evolution of Geothermal Systems
+
+Surface geothermal systems for EGS and AGS
+
+Advancements and Challenges in Geothermal Systems
+
+Global Trends and Adoption of EGS
+
+Overcoming Barriers and the Future of Geothermal Energy
+
+1. Geothermal Revolution: Unlocking New Potential
+
+The shift toward next-generation geothermal energy is redefining what’s possible in the world of sustainable power. Traditionally, geothermal development has relied on either shallow ground-source heat pumps or high-temperature hydrothermal reservoirs—resources that are often limited by geography and geology. This has posed a barrier, especially for industrial applications and large-scale power generation.
+
+Today, however, innovative breakthroughs are opening the door to advanced geothermal systems that are no longer bound by natural reservoir availability. By leveraging technologies developed in the oil and gas sector—such as directional drilling, hydraulic fracturing, and well insulation—researchers and developers are pioneering reservoir-independent solutions like Enhanced Geothermal Systems (EGS) and Closed-Loop Geothermal Systems (CLGS).
+
+The integration of next-generation geothermal energy is transforming the energy landscape, particularly in areas where geothermal resources were once inaccessible.
+
+2. Evolution of Geothermal Systems
+
+Enhanced Geothermal Systems (EGS) and advanced geothermal systems (AGS) are transforming how and where geothermal energy can be harnessed, making it possible to tap into heat sources even in areas without naturally occurring reservoirs. With continued technology improvements and reductions in project costs, geothermal could meet up to 15% of global electricity demand growth to 2050.
+
+What is an enhanced geothermal system?
+
+EGS technologies work by enhancing or creating permeability in hot rock formations, typically through advanced drilling techniques and targeted stimulation methods. Hydraulic stimulation is one of the most used approaches, injecting high-pressure fluids into deep wells to create or open fractures within the rock. Other techniques, such as thermal stimulation (using cold fluids to induce thermal cracking) and chemical stimulation (using specific compounds to dissolve minerals and open pathways), further increase rock permeability and heat extraction efficiency.
+
+These engineered fractures allow fluids to circulate through the subsurface, absorb heat, and bring it to the surface for electricity generation or direct use. EGS expands the reach of geothermal energy to high-temperature regions that lack sufficient fluid volumes or natural permeability—areas once dismissed as “hot dry rock” zones. Today, major projects such as the Utah FORGE initiative and Fervo Energy’s Cape Station in the U.S., along with Switzerland’s Haute-Sorne project, are pushing the boundaries of what EGS can achieve, with promising potential for high-output, low-carbon power generation.
+
+In Europe, an example of an EGS project is being developed in Cornwall, UK, at the United Downs site, Geothermal Engineering Ltd. (GEL) is the developing company, in partnership with Exergy International as technology provider for the power plant. This project marks the first integrated deep geothermal initiative in the UK, with a capacity of 3 MWe of baseload renewable electricity and up to 10 MWth of zero-carbon heat, expected to be operational by the end of 2024.
+
+Another frontier of new generation technologies is represented by, advanced geothermal systems—often referred to as closed-loop geothermal systems (CLGS). These systems circulate a working fluid through sealed, underground loops that extract heat via conduction from the surrounding rock, without direct interaction with the subsurface. Though still emerging, projects like Eavor-Lite™ in Canada and GreenFire Energy’s GreenLoop in California have demonstrated the technical feasibility of CLGS solutions, while Eavor’s upcoming plant in Geretsried, Germany aims to scale these systems commercially.
+
+3. Binary cycle systems: a key technology for EGS and AGS
+
+EGS and AGS subsurface technologies can be efficiently utilized through binary cycle power plants for electricity generation and large heat pumps for direct heating applications. Binary cycle systems are particularly well-suited for next-generation geothermal reservoirs due to their high efficiency in harnessing low- to medium-enthalpy resources, operational flexibility, and lower maintenance requirements. These characteristics make them an ideal match for the evolving demands of EGS and AGS developments.Binary-cycle power plants are closed-loop systems with no emissions to the atmosphere, making them a highly sustainable option. Unlike flash power plants, the geothermal fluid in binary systems never comes into direct contact with the turbine or generator. Instead, the geothermal fluid transfers its heat to a secondary organic working fluid via a heat exchanger. This secondary fluid, with a lower boiling point, vaporizes and drives the turbine to generate electricity. Afterward, it is condensed and repressurized to repeat the cycle, while the cooled geothermal fluid is reinjected into the reservoir. This closed-loop process enhances environmental safety and long-term system reliability, aligning well with the technical and sustainability goals of advanced geothermal projects.
+
+4. Advancements and Challenges in Geothermal Systems
+
+Recent breakthroughs in Enhanced Geothermal Systems (EGS) technology, including the use of horizontal wells and multistage stimulation techniques, have significantly improved reservoir volumes, heat transfer areas, and flow rates, as demonstrated in 2023 at Fervo’s Project Red in Nevada. Despite these advancements, EGS remains technically challenging, with technical difficulties related to:
+
+Managing water losses
+
+Maintaining well integrity
+
+Ensuring consistent high flow rates and production temperatures
+
+Additionally, the stimulation process implies some impact on environment:
+
+Significant water usage
+
+Risks connected to induced seismicity, which has led to social opposition and regulatory restrictions in some areas
+
+In contrast, Closed-Loop Geothermal Systems (CLGS) offer the advantage of
+
+Minimal site-specific requirements, enabling them to be deployed nearly anywhere
+
+Avoiding the risks associated with reservoir stimulation, including induced seismicity
+
+However, CLGS face their own set of challenges, particularly the need for much longer drilling distances to create sufficient heat transfer areas, leading to higher costs and more complex downhole completions. Moreover, maintaining stable production temperatures over time remains a hurdle that requires improved designs and operating strategies.While EGS projects involve risks tied to site-specific characteristics, CLGS challenges are more related to engineering and operational factors that need to be addressed for better cost-efficiency and performance.
+
+5. Global Trends and Adoption of EGS
+
+Enhanced Geothermal Systems (EGS) are rapidly emerging as a cornerstone for sustainable energy solutions, with global investments steadily increasing to drive technological advancements and scalability. Since 2017, investment in next-generation geothermal technologies has surged from negligible amounts to over USD 420 million annually by 2023, with expectations for continued growth as global interest in geothermal intensifies. This trend is backed by both private and public sector contributions, with countries like the United States, Canada, and Germany providing substantial public funding to accelerate the development of EGS and Advanced Geothermal Systems (AGS). Key investments are being made by venture capital firms, oil and gas companies, and innovative startups, with pioneering companies such as Fervo and Eavor raising over USD 700 million since 2021, representing more than 60% of the total early-stage geothermal investment. Global market opportunities for next-generation geothermal systems are concentrated in regions with high energy demand, including China, the U.S., India, Southeast Asia, Europe, and Japan.
+
+Notable developments include:
+
+Oil and Gas Industry Involvement: The oil and gas sector has invested nearly USD 140 million in EGS and AGS, leveraging its experience in subsurface operations to support geothermal projects.
+
+Public Support: Countries like the U.S., Canada, and Germany have provided significant public funding to support EGS companies and enhance technological progress.
+
+Venture Capital Growth: Venture capital and private-equity firms have been instrumental in financing next-generation geothermal projects, despite the high-risk nature of such investments.
+
+EGS plays an increasingly vital role, especially in markets with large-scale energy demands. For example:
+
+China: With its significant reliance on coal and rapid clean energy transitions, China is targeting geothermal to meet nearly 650 GW of additional dispatchable power capacity needed by 2050.
+
+United States and India: Both countries have high-quality geothermal resources and are actively pursuing geothermal technologies to ensure grid stability and energy independence.
+
+Europe and Japan: Geothermal offers a solution to complement intermittent renewable sources like wind and solar, ensuring a reliable energy supply.
+
+Southeast Asia and Africa: Growing economies in these regions present vast untapped potential for geothermal energy, particularly for district heating and industrial applications.
+
+The global market potential for next-generation geothermal is substantial, with projections showing over 800 GW of electrical capacity and 10,000 PJ of heat production annually by 2050. To unlock this potential, investments will need to exceed USD 1 trillion by 2035, with annual investments reaching USD 200 billion around 2035. With this capital influx, next-generation geothermal systems could provide up to 8% of the global electricity supply by 2050 and contribute significantly to reducing emissions in the heating sector.
+
+6. Overcoming Barriers and the Future of Geothermal Energy
+
+While geothermal energy holds immense potential, there are several technical and economic challenges that must be overcome to fully unlock its capabilities. These challenges include high upfront costs, the risk of induced seismicity, drilling inefficiencies, and well completion issues. However, advancements in technology and innovative solutions, particularly in low-enthalpy geothermal energy and Enhanced Geothermal Systems (EGS), are gradually overcoming these obstacles.
+
+Induced Seismicity:A key challenge for EGS is the risk of induced seismicity, which can occur when the subsurface stress is altered during reservoir stimulation. To mitigate seismicity risks, micro seismicity monitoring and advanced stimulation techniques have been implemented, reducing the risk of potential earthquakes. Additionally, international R&D initiatives, such as the DEEP project, are exploring adaptive traffic light systems (ATLS), which use real-time data to dynamically adjust stimulation flow rates, reducing the risk of larger seismic events.
+
+Drilling Challenges:Drilling for geothermal resources is technically like oil and gas drilling but involves higher costs and longer timeframes to generate cash flow. The primary focus is on improving drilling efficiency and reducing the time spent on site. Strategies to overcome these challenges include:
+
+Increasing penetration rates, extending drill-bit lifetimes, and improving supply chain efficiency to reduce downtime
+
+Implementing innovations in drilling technologies to access deeper and hotter reservoirs, such as superhot rock systems, which can unlock higher energy yields compared to traditional geothermal systems
+
+Developing hybrid conventional and no-contact drilling, to handle high temperatures, reduce equipment wear, and improve pressure control.
+
+Addressing issues related to high temperatures and challenging geological conditions with techniques such as insulated pipes, mud chillers, and compact polycrystalline diamond bits
+
+Well Completion:Well completion involves preparing a drilled well for production by installing production tubing and downhole tools. However, the continuous flow of liquid and steam can cause mechanical issues, and the fluids can be corrosive or lead to scaling. Solutions for these issues include:
+
+Temperature-resistant downhole tools to withstand high temperatures and harsh conditions
+
+Innovations in well-testing and downhole measurement tools to assess geothermal reservoir potential accurately
+
+Research in the development of high-temperature-resistant optical fibres and adapted equipment for improved performance in challenging geothermal environments
+
+Despite current challenges, low-enthalpy and EGS technologies significantly expand the potential of geothermal energy, even in non-traditional regions. As costs decrease and efficiency improves, they lay the groundwork for a broader, low-carbon energy transition.
+
+Want to learn how to unlock the full potential of geothermal energy? Visit our website to explore more!
+
+In conclusion, Enhanced Geothermal Systems (EGS) and advanced geothermal technologies are rapidly advancing, presenting a promising solution for sustainable and reliable energy. With global investments in geothermal technologies on the rise, these systems are overcoming geographical and geological barriers, enabling energy production in regions previously considered unsuitable for geothermal use. As both private and public sectors continue to support innovation, the potential for geothermal energy to play a central role in the global energy transition is immense. By 2050, geothermal systems could contribute significantly to reducing emissions and providing a substantial portion of the world’s electricity and heat, underscoring the transformative power of this renewable energy source.
+
+Read the full IEA’s report here.
+
+Looking to turn geothermal heat into clean energy? Discover our ORC solutions to generate reliable renewable power and drive sustainability
+
+For more information, contact us here.
+
+Let’s partner together!
+
+HOW ENERGY EFFICIENCY DRIVERS INDUSTRIAL COMPETITIVENESS
+
+HOW INDUSTRIAL HEAT PUMPS ARE TRANSFORMING DISTRICT HEATING: MARKET OUTLOOK & OPPORTUNITIES
+
+OBBB’S DIFFERENTIAL IMPACT ON ENERGY EFFICIENCY AND RENEWABLES: POLICY ANALYSIS 2025-2030
+
+EXERGY TAKING PART IN THE EUROPEAN HEAT PUMP SUMMIT 2025
+
+EXERGY HEADING TO RENO FOR THE GEOTHERMAL RISING CONFERENCE 2025
+
+Quality policy and certificates
+
+Radial Outflow Turbine
+
+Industrial Heat Pumps
+
+Heat Recovery industrial process
+
+Heat Recovery Power Station
+
+WHO WE ARECompanyNetworkVisionSustainabilityOrganizationStrengthsQuality policy and certificatesCode of EthicsWhistleblowing
+
+Quality policy and certificates
+
+TECHNOLOGYACTIVITIES OF R&DORCRadial Outflow Turbine
+
+Radial Outflow Turbine
+
+PRODUCTSTailor-Made ORCORC-litePureCycleGas expanderIndustrial Heat Pumps
+
+Industrial Heat Pumps
+
+APPLICATIONGeothermalBiomassHeat Recovery from Power StationHeat Recovery from the industrial processCold Energy RecoveryCSP
+
+Heat Recovery from Power Station
+
+Heat Recovery from the industrial process
+
+ReferencesCase StudiesWhat our clients say
+
+MEDIANews & EventsPress
+
+exergy international srlcf/vat 03745100127share capital 5.010.000,00€company subjected to the direction and coordination of tica-exergy srl
+
+Copyright © 2022 - All rights reserved
+
+WHO WE ARECompanyNetworkVisionSustainabilityOrganizationStrengthsQuality policy and certificatesCode of EthicsWhistleblowing
+
+Quality policy and certificates
+
+TECHNOLOGYACTIVITIES OF R&DORCRadial Outflow Turbine
+
+Radial Outflow Turbine
+
+PRODUCTSTailor-Made ORCORC-litePureCycleGas expanderIndustrial Heat Pumps
+
+Industrial Heat Pumps
+
+APPLICATIONGeothermalBiomassHeat Recovery from Power StationHeat Recovery from the industrial processCold Energy RecoveryCSP
+
+Heat Recovery from Power Station
+
+Heat Recovery from the industrial process
+
+ReferencesCase StudiesWhat our clients say
+
+MEDIANews & EventsPress
+
+WHO WE ARECompanyNetworkVisionSustainabilityOrganizationStrengthsQuality policy and certificatesCode of EthicsWhistleblowing
+
+Quality policy and certificates
+
+TECHNOLOGYACTIVITIES OF R&DORCRadial Outflow Turbine
+
+Radial Outflow Turbine
+
+PRODUCTSTailor-Made ORCORC-litePureCycleGas expanderIndustrial Heat Pumps
+
+Industrial Heat Pumps
+
+APPLICATIONGeothermalBiomassHeat Recovery from Power StationHeat Recovery from the industrial processCold Energy RecoveryCSP
+
+Heat Recovery from Power Station
+
+Heat Recovery from the industrial process
+
+ReferencesCase StudiesWhat our clients say
+
+MEDIANews & EventsPress
