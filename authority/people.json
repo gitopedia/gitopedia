@@ -1,4 +1,27 @@
 [
+  {
+    "id": "person:richard-feynman",
+    "label": "Richard Feynman",
+    "aliases": []
+  },
+  {
+    "id": "person:david-deutsch",
+    "label": "David Deutsch",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-shor",
+    "label": "Peter Shor",
+    "aliases": []
+  },
+  {
+    "id": "person:einstein,-podolsky,-and-rosen",
+    "label": "Einstein, Podolsky, and Rosen",
+    "aliases": []
+  },
+  {
+    "id": "person:jeutner",
+    "label": "Jeutner",
+    "aliases": []
+  }
 ]
-
-
