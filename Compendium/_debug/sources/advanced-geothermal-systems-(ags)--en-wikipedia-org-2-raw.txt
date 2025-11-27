@@ -1,0 +1,109 @@
+Participate in the 2025 international science photo competition!
+
+2 Research and development
+
+4 Related terminology Toggle Related terminology subsection 4.1 Hot dry rock 4.2 Closed-loop geothermal systems vs. ground source heat pumps
+
+4.2 Closed-loop geothermal systems vs. ground source heat pumps
+
+Closed-loop geothermal
+
+Add interlanguage links
+
+Closed-loop geothermal systems (also known as “advanced geothermal systems” or “AGS”) are a type of engineered geothermal energy system containing subsurface working fluid that is heated in a hot rock reservoir without direct contact with rock pores and fractures.:[1][2][3] Instead, the subsurface working fluid stays inside a closed loop of deeply buried pipes that conduct Earth’s heat. Closed-loop geothermal systems are one of the prominent categories of next-generation geothermal systems in development today.[4][5]
+
+Like all geothermal systems, closed-loop geothermal systems provide renewable energy, and primarily operate as baseload resources that produce energy at a constant rate.[6] Unlike conventional geothermal energy plants, closed-loop geothermal plants can be placed anywhere in the world, depending only on the depth of the hot rock resource.[1][4]
+
+Closed-loop geothermal projects are under development in the United States, Canada, Japan, and Germany.
+
+Closed-loop geothermal companies use a wide variety of engineered systems to produce geothermal energy. These systems primarily vary based on the length and geometry of the closed-loop wells placed subsurface, but can also vary in the materials used in well construction and the working fluid used.
+
+Two commons designs of closed-loop geothermal systems are the U-tube and the tube-in-tube:[7]
+
+U-tube closed-loop geothermal: In this system, cool water is pumped down one deep vertical pipe, which then extends horizontally for a certain distance at a depth where the rock is hot and then comes up in a different location. The horizontal section may be composed of one or multiple lateral (horizontal) well sections.
+
+Tube-in-a-tube closed-loop geothermal: In this system, the cool water is pumped down along the outer layer of a pipe to a certain depth, at which point the pipe may extend an additional horizontal distance at that depth. When the hot water hits the end of the pipe it is pushed into the inner pipe, through which the hot water returns to the surface. Also called a coaxial or pipe-in-pipe system.
+
+Research and development
+
+Several closed-loop geothermal systems have been demonstrated globally. One commercial closed-loop geothermal project is under construction in Geretsried, Germany.
+
+The advantages of a deep, closed-loop geothermal circuit include[13][14]
+
+No need for a geofluid
+
+No need for the hot rock to be permeable or porous
+
+All the introduced working fluid can be recirculated with zero loss
+
+No fracking or stimulation is required to establish the engineered geothermal reservoir.
+
+These advantages mean closed-loop geothermal systems can be placed anywhere in the world as a source of carbon-free, baseload energy, with no impact to natural water resources and significantly reduced risk of induced seismicity.[15]
+
+Hot dry rock (HDR) is an abundant source of geothermal energy, but it is typically difficult to access. Hot, dry crystalline basement rocks are found almost everywhere sufficiently far beneath the surface.[16]
+
+Multiple deep hot dry rock wells have been drilled around the world, including the US, Japan, Australia, France, and the UK.[17] Whereas hydrothermal energy production can exploit already present hot fluids, HDR recovers heat from dry rock via the circulation of an artificially introduced working fluid. Ongoing efforts are underway to further develop and test technologies that can produce geothermal energy from hot dry rock, including Enhanced Geothermal Systems and Closed-Loop Geothermal Systems.[18]
+
+Closed-loop geothermal systems vs. ground source heat pumps
+
+Closed-loop geothermal systems are not to be confused with the ground source heat pumps used for small-scale, largely residential heating and cooling. While both systems use underground closed-loop circuits of working fluid, there are important differences in the depth, temperature, scale, and applications for each system:
+
+Depth: Ground source heat pumps are placed at shallow depths, less than 400 feet (122 meters).[19] Closed-loop geothermal systems are drilled much deeper, greater than 1640 feet (500 meters), to access the hotter rock found at greater depths (see: geothermal gradient).
+
+Temperature: Ground source heat pumps target shallow ground temperatures, which vary seasonally from 45 °F (7 °C) to 75 °F (21 °C).[19] Closed-loop geothermal systems target much hotter underground temperatures, greater than 212 °F (100 °C), to produce larger volumes of energy.
+
+Scale: Ground source heat pumps are used for small-scale residential heating and cooling and typically produce less than 1 kilowatt of thermal energy.[20] Closed-Loop Geothermal Systems are used for utility-scale commercial and industrial energy production and typically produce greater than 1 megawatt of thermal energy.
+
+Application: Ground source heat pumps are most often used for small-scale residential and commercial buildings, and are only used for heating and cooling applications.[19] Closed-loop geothermal systems are most suitable for large-scale commercial and industrial use, and can be used for electricity production, in addition to 'direct use' heating and cooling.
+
+See the glossary of geothermal heating and cooling page for further clarification.
+
+^ Jump up to: a b .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}"Superhot Rock Energy Glossary". Clean Air Task Force. Retrieved 2023-11-29.
+
+^ "Next-Generation Geothermal Technologies Are Heating Up". BloombergNEF. 2023-05-10. Retrieved 2023-11-29.
+
+^ Matthews, Dylan (2023-09-13). "Is the future of energy ... pouring water on hot rocks in the ground?". Vox. Retrieved 2023-11-29.
+
+^ Jump up to: a b c "Next-Generation Geothermal Power". Pathways to Commercial Liftoff. Retrieved 2024-03-30.
+
+^ "DOE Unveils Roadmap for the Next Generation of Geothermal Power". Energy.gov. 18 March 2024. Retrieved 2024-03-30.
+
+^ "5 Things to Know About Geothermal Power". Energy.gov. Retrieved 2024-03-30.
+
+^ Jump up to: a b "New tool models viability of closed-loop geothermal systems". Retrieved 2024-04-18.
+
+^ GeoEnergy, Think (2016-11-11). "Successful demonstration of closed-loop geothermal plant in Kokonoe, Japan | ThinkGeoEnergy - Geothermal Energy News". Retrieved 2024-03-30.
+
+^ "Eavor-Lite™ - Eavor - Demonstrating a New Energy Solution". Eavor. Retrieved 2024-03-30.
+
+^ "GreenFire Energy Inc. Completes the World's First Field-Scale Demonstration of Closed-Loop Geothermal Energy and the Final Report to the California Energy Commission". Geothermal Canada. 2020-06-19. Retrieved 2024-03-30.
+
+^ GeoEnergy, Think (2023-06-22). "Chevron and MOECO to pilot test closed-loop geothermal in Hokkaido, Japan". Retrieved 2024-03-30.
+
+^ "Eavor-Loop™ Geretsried". Eavor-Loop™ Geretsried. Retrieved 2024-03-30.
+
+^ Roberts, David (2020-10-21). "Geothermal energy is poised for a big breakout". Vox. Retrieved 2024-03-30.
+
+^ "New Opportunities and Applications for Closed-Loop Geothermal Energy Systems | Geothermal Rising :: Using the Earth to Save the Earth". geothermal.org. Retrieved 2024-03-31.
+
+^ "Geothermal Anywhere". www.nrel.gov. Retrieved 2024-03-30.
+
+^ "Superhot Rock Energy: A Vision for Firm, Global Zero-Carbon Energy". Clean Air Task Force. November 2022.
+
+^ Ball, Philip. "Superhot Rock Project Map". Clean Air Task Force.
+
+^ Adler, Ben (11 January 2023). "Geothermal energy poised for boom, as U.S. looks to follow Iceland's lead". Yahoo News. Retrieved 18 January 2023.
+
+^ Jump up to: a b c "Geothermal Heat Pumps". Energy.gov. Retrieved 2024-04-13.
+
+^ Energy, Dandelion (2020-02-10). "Do Geothermal Heat Pumps Raise Your Electric Bill? - Dandelion Energy". Dandelion Energy | Energy Efficiency in Home Heating. Retrieved 2024-04-14.
+
+Articles with short description
+
+Short description matches Wikidata
+
+This page was last edited on 26 November 2024, at 13:18 (UTC).
+
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+Edit preview settings
