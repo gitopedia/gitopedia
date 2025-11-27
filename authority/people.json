@@ -1,4 +1,47 @@
 [
+  {
+    "id": "person:paul-dirac",
+    "label": "Paul Dirac",
+    "aliases": []
+  },
+  {
+    "id": "person:werner-heisenberg",
+    "label": "Werner Heisenberg",
+    "aliases": []
+  },
+  {
+    "id": "person:wolfgang-pauli",
+    "label": "Wolfgang Pauli",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-feynman",
+    "label": "Richard Feynman",
+    "aliases": []
+  },
+  {
+    "id": "person:julian-schwinger",
+    "label": "Julian Schwinger",
+    "aliases": []
+  },
+  {
+    "id": "person:sin-itiro-tomonaga",
+    "label": "Sin-Itiro Tomonaga",
+    "aliases": []
+  },
+  {
+    "id": "person:sheldon-glashow",
+    "label": "Sheldon Glashow",
+    "aliases": []
+  },
+  {
+    "id": "person:abdus-salam",
+    "label": "Abdus Salam",
+    "aliases": []
+  },
+  {
+    "id": "person:steven-weinberg",
+    "label": "Steven Weinberg",
+    "aliases": []
+  }
 ]
-
-
