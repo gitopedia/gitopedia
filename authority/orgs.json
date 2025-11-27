@@ -1,4 +1,17 @@
 [
+  {
+    "id": "org:eavor-loop",
+    "label": "Eavor-Loop",
+    "aliases": []
+  },
+  {
+    "id": "org:greenfire-energy",
+    "label": "GreenFire Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:sage-geosystems",
+    "label": "Sage Geosystems",
+    "aliases": []
+  }
 ]
-
-
