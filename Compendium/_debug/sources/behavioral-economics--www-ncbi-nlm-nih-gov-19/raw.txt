@@ -1,0 +1,121 @@
+An official website of the United States government
+
+The .gov means it's official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+National Academies of Sciences, Engineering, and Medicine; Division of Behavioral and Social Sciences and Education; Board on Behavioral, Cognitive, and Sensory Sciences; Committee on Future Directions for Applying Behavioral Economics to Policy; Beatty A, Moffitt R, Buttenheim A, editors. Behavioral Economics: Policy Impact and Future Directions. Washington (DC): National Academies Press (US); 2023 Apr 20.
+
+Behavioral Economics: Policy Impact and Future Directions.
+
+Hardcopy Version at National Academies Press
+
+Behavioral economics has had a growing influence on public policy over the past several decades. The awarding of two Nobel Memorial Prizes in economics for work in the field is a mark of the influence of this interdisciplinary approach. The field, which encompasses and draws on findings from many disciplines, can be loosely described as an approach to understanding human behavior and decision making that integrates knowledge from psychology and other behavioral fields with economic analysis.
+
+The field took shape as a growing number of economists recognized the work of psychologists who demonstrated that people do not behave as traditional economists had assumed: as rational actors who consistently make decisions that will optimize their expected benefits. These scholars observed, for example, that people lack complete self-control, make inconsistent choices over time, show selective attention, and respond unconsciously to an array of influences. People also do not necessarily prioritize, or accurately assess, the benefits and costs of different actions, particularly those that accrue over long time intervals; their decisions are often influenced by the social context in which they are made; they respond unconsciously to the way a choice is framed and presented; and they have limited capacity to overcome logistical obstacles that stand in the way of an objectively optimal choice.
+
+While economists continue to consider behavioral influences in their work, behavioral economics is a narrower field that draws on insights from the behavioral sciences; often builds on those insights; and, most important, incorporates those insights into economic models of human behavior. Behavioral economists have explored ways to apply knowledge of human behavior in the design of policy interventions to encourage people to make beneficial choices that, for example, promote health, support financial well-being, and encourage actions to protect the environment. The field has accumulated evidence about when, how, and under what circumstances the knowledge and approaches from behavioral economics can support effective policy. Along with its influence have come questions and challenges, such as the possibility that behaviorally based interventions may in some cases be paternalistic, ethical concerns about how knowledge of behavioral principles may be applied outside of research settings, and the risk of unintended negative outcomes for some populations.
+
+Recognizing the growing influence of the field, the Sloan Foundation and the National Institutes of Health requested that the National Academies of Sciences, Engineering, and Medicine assess the contributions of the field to public policy. The Committee on Future Directions for Applying Behavioral Economics to Policy—whose members have expertise in economics, behavioral economics, health policy and behavioral design, psychology, cognitive science (e.g., judgment and decision making), methodology, and public policy—was appointed to carry out the study. The committee was charged to review evidence about the application of behavioral economics to key public policy objectives in a range of domains and synthesize what has been learned from this body of work, to suggest guiding principles for future work and applications, and to offer direction for future research.
+
+To carry out its charge, the committee explored the history and theoretical foundation of the field and the available research in six public policy domains: health, retirement benefits, social safety net benefits, climate change, education, and criminal justice. Recognizing that the charge called for a tradeoff between breadth and depth, the committee chose these six as a varied set of important policy domains in which the ideas of behavioral economics have been tested. Three commissioned papers and a public workshop supplemented the committee’s survey of the literature.
+
+Foundational theoretical work that has integrated understanding of cognitive and psychosocial processes with economic analysis shows that decision processes are dynamic, malleable, and context dependent and that insights from this work help to explain how and why people make decisions that seem to run counter to rational analysis. This work points to the importance of five behavioral principles that affect people’s decision making: limited attention and cognition, inaccurate beliefs, present bias, reference dependence and framing, and social preferences and social norms.
+
+These five principles do not capture all the relevant behaviors, but they have direct application to the kinds of decision making that behavioral economists study and the choices that policy makers hope to influence. The committee applied these five core principles in our examination of research in the six selected policy domains and reached two conclusions.
+
+Conclusion 11-1: Core principles of behavioral economics have been tested repeatedly across six domains—health, retirement benefits, social safety net benefits, climate change, education, and (to a lesser extent) criminal justice—and the evidence for their importance and value in the design of policy interventions is well established.
+
+Conclusion 14-1: The very strong evidence that complex cognitive, social, behavioral, and contextual factors influence judgment and decision making means that behavioral economics concepts are indispensable for advancing scientific understanding of policy-relevant human behavior and for the design of public policies. Behavioral economics has produced invaluable evidence about why people act in seemingly irrational ways, how they respond to interventions, and how public policy and practice interventions can be designed to modify the habitual and unconscious ways that people act and make decisions.
+
+A large and growing array of tools has been developed based on the evidence about influences on behavior. Findings from research on the design of these interventions are nuanced and mixed. For some strategies, such as the use of default options to guide people to a desired choice—for example, making employer-matched increased retirement savings the default option for employees—and the framing of the available options, there is strong empirical evidence of effectiveness. For others, such as behaviorally informed incentives and interventions that appeal to social norms, the evidence is mixed or less robust.
+
+The strongest effects are apparent where interventions have precisely targeted specific behavioral issues. The strongest results the committee observed across the six domains it studied are for a very specific intervention: making retirement savings a default choice for employees. A substantial body of research has confirmed this finding in diverse contexts and with numerous variations. Across all domains, the evidence points to the high value of targeting an intervention to a particular population and set of circumstances. The evidence also supports the cumulative value of multiple small-scale, low-cost interventions. Interventions that operate on a broader scale, such as efforts to reduce the administrative burden associated with social service programs, and better reach the neediest populations who can benefit from them, can also be effective when carefully targeted.
+
+The research demonstrating positive effects for behavioral economics interventions typically shows modest effect sizes. However, as is particularly evident in the work on climate change—a challenge of unmeasurable magnitude—the application of combinations of individually modest interventions can cumulatively bring important changes and benefits for relatively little cost.
+
+Conclusion 14-2: The field of behavioral economics has made significant advances over the past 20 years, producing evidence about both general principles and specific intervention approaches that address policy challenges in many domains. However, the field has not yet produced generalizable and implementable practice guidance and intervention design strategies for determining what works, when, and for whom. Whether the goal of providing such specific guidance can be achieved, given the importance of context and the unique characteristics of many targets of behavior change, is not clear.
+
+Despite strong evidence across domains and contexts that intervention strategies based on behavioral economics can have significant effects on important policy objectives, it is challenging to apply this evidence beyond the scale and setting of a focused research study. A substantial number of individual studies of interventions have been carried out across the six domains we explored, but far fewer studies have followed up promising results with replication studies and systematic efforts at scale.
+
+The process of translating research findings to effective, broad-scale, real-world applications is complex and, ideally, involves an interactive feedback loop that links theory, experimentation, design, evaluation, and implementation. Even when a solid body of evidence is brought to bear and translation to context has been carefully addressed, there is no guarantee that an intervention will perform as expected when implemented on a broad scale, whether in the public or private sector.
+
+Two ways to strengthen policy makers’ and practitioners’ capacity to implement evidence-based interventions are to encourage collaboration among those trained in behavioral economics and those trained in implementation science or public management, and to improve training in behavioral economics and public administration to better prepare policy makers to collaborate in translating research ideas for real-world policy development and design. With this perspective, we offer a conclusion and several recommendations.
+
+Conclusion 13-1: Collaboration among researchers and policy makers is invaluable both for the continued development of knowledge about the application of behavioral economics to policy and for the development of effective policies. The development of strong intermediary institutions that can function to bring the two groups together and to assist in the translation between different languages could contribute to such collaborations.
+
+Recommendation 13-1: Government units should consider adopting the example of the Office of Evaluation Sciences, in the General Services Administration, to support and fund in-house capabilities for integrating behavioral specialists into policy development, such as through institutional structures that facilitate learning and collaboration among policy makers and researchers in the design, implementation, and evaluation of behavioral economics–based policies in all relevant domains. The use of temporary research appointments and consulting organizations could bring expertise and assistance to state and local government entities that cannot afford permanent in-house staff.
+
+Recommendation 13-2: University leaders should ensure that training in the principles of behavioral economics and critical thinking about their translation and application to policy making is a core component of training for students pursuing degrees in public administration.
+
+It is clear from the committee’s review that behavioral economics has made a substantial contribution to the understanding of decision making and the design of interventions, and that there are numerous promising directions for future research. We also found that attention to the way research is conducted will help to strengthen the field. The research in the six domains we studied pointed to many important directions for specific research to build on the remarkable body of knowledge already accumulated.
+
+Recommendation 14-1: Researchers and funders of research should balance attention and funding across:
+
+basic research in intervention design, interdisciplinary investigation, and development of methods;
+
+research to support applications of behavioral economics concepts in practice, including implementation and scale-up and evaluation; and
+
+research to explore and support the positive contributions of behavioral economics to society, including attention to equity of impact and attitudes about behavioral interventions.
+
+For the field to continue to flourish it will be important for researchers, funders, and others who support their work to consider ways to strengthen the way research is conducted and ensure that research is rigorous and accessible. Behavioral economics, like other fields, has benefited from growing attention to replication, generalizability, and publication bias. Specific changes in the way behavioral economics research is typically funded and conducted will strengthen the field.
+
+Recommendation 12-1: Researchers, funders of research, university leaders, and journal editors in behavioral economics should take steps to support the replicability and generalizability of behavioral economics research, more fully acknowledge publication bias and take steps to detect its presence, and counter publication bias using a variety of approaches.
+
+Future progress will also depend on continued collaboration across disciplines, with each informing the others. Such interaction is not easy: differences in theoretical perspectives, terminology, research methods and tools, and standards of evidence all bring challenges, so persistent efforts to bridge these gaps will be a critical support for this inherently interdisciplinary field.
+
+Recommendation 14-2: Funders and university leaders should prioritize investments in interdisciplinary research collaborations.
+
+Recommendation 14-3: Researchers and funders of research should prioritize research related to methods and ways of understanding the mechanisms of behavior and behavior change. Specifically, research is needed to:
+
+advance behavioral design and intervention design methods to better link behavioral principles and insights to specific intervention and policy goals;
+
+advance methods for conducting pilot and rapid-cycle studies;
+
+accumulate more evidence on how findings from one setting can be applied to other settings or at broader scales;
+
+realize the potential for artificial intelligence and machine learning approaches to improve tailoring and targeting;
+
+bring cutting-edge adaptive trial design approaches to behavioral economics studies; and
+
+incorporate empirical methods from other disciplines and fields that can enrich behavioral economics research.
+
+Recommendation 14-4: Researchers, funders of research, and entities that support or sponsor behavioral units in organizations should prioritize research and practice initiatives that increase the impact of behavioral economics findings through implementation, scale-up, and evaluation of potentially successful interventions and policies.
+
+Recommendation 14-5: Researchers, funders of research, and entities that support or sponsor behavioral units in organizations should prioritize ongoing investigations into the role of behavioral economics in society, with specific attention to the equity implications of behavioral economics policies and interventions; the implications of public attitudes toward the ethics of behavioral economics research and practice, as well as their acceptance by the general public; and possible public policy interest in commercial applications of behavioral economics findings.
+
+Recommendation 14-6: Funders and university leaders should foster the development and application of behavioral economics by supporting training opportunities for public policy professionals. They should also support learning about practices for research transparency.
+
+The benefits that behaviorally based approaches can bring are clear, regardless of whether they are viewed as primarily the province of economics, behavioral science, or a hybrid of the two. Future application of these ideas, however they are categorized, may reach beyond the context of individual behaviors to help explain what appear to be nonrational responses. In the context of complex regulatory structures, for example, there may be behavioral solutions to challenges that are not primarily the result of individual behavioral biases. Behavioral economists can consider not only a broad range of solutions to behavioral biases but also how to apply behavioral solutions even when there is no clear problem of cognitive bias. It is likely that ideas not explicitly identified as coming from behavioral economics research, but that nevertheless take advantage of behavioral insights, have already influenced the development of policy. All of these are reasons to be optimistic about the future contributions of the field.
+
+PDF version of this title (1.4M)
+
+Other titles in this collection
+
+The National Academies Collection: Reports funded by National Institutes of Health
+
+Summary - Behavioral EconomicsSummary - Behavioral Economics
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+.st20 { fill: #FFFFFF; } .st30 { fill: none; stroke: #FFFFFF; stroke-width: 8; stroke-miterlimit: 10; } Twitter
+
+.st10 { fill: #FFFFFF; } .st110 { fill: none; stroke: #FFFFFF; stroke-width: 8; stroke-miterlimit: 10; } Facebook
+
+Youtube .st4 { fill: none; stroke: #FFFFFF; stroke-width: 8; stroke-miterlimit: 10; } .st5 { fill: #FFFFFF; }
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+Web Policies FOIA HHS Vulnerability Disclosure
+
+Help Accessibility Careers
+
+We are experimenting with display styles that make it easier to read books and documents in Bookshelf. Our first effort uses ebook readers, which have several "ease of reading" features already built in.
+
+The content is best viewed in the iBooks reader. You may notice problems with the display of some features of books or documents in other eReaders.
