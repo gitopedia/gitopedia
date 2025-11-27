@@ -1,4 +1,37 @@
 [
+  {
+    "id": "org:university-of-new-south-wales",
+    "label": "University of New South Wales",
+    "aliases": []
+  },
+  {
+    "id": "org:google",
+    "label": "Google",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm",
+    "label": "IBM",
+    "aliases": []
+  },
+  {
+    "id": "org:microsoft",
+    "label": "Microsoft",
+    "aliases": []
+  },
+  {
+    "id": "org:rigetti",
+    "label": "Rigetti",
+    "aliases": []
+  },
+  {
+    "id": "org:nist",
+    "label": "NIST",
+    "aliases": []
+  },
+  {
+    "id": "org:d-wave",
+    "label": "D-Wave",
+    "aliases": []
+  }
 ]
-
-
