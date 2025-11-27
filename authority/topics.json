@@ -1,4 +1,57 @@
 [
+  {
+    "id": "topic:quantum-computing",
+    "label": "Quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:qubits",
+    "label": "qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-gates",
+    "label": "quantum gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:shor's-algorithm",
+    "label": "Shor's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:grover's-algorithm",
+    "label": "Grover's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:sycamore-processor",
+    "label": "Sycamore processor",
+    "aliases": []
+  },
+  {
+    "id": "topic:condor-processor",
+    "label": "Condor processor",
+    "aliases": []
+  },
+  {
+    "id": "topic:bb84-protocol",
+    "label": "BB84 protocol",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-flagship",
+    "label": "Quantum Flagship",
+    "aliases": []
+  },
+  {
+    "id": "topic:national-quantum-initiative",
+    "label": "National Quantum Initiative",
+    "aliases": []
+  },
+  {
+    "id": "topic:computer-science",
+    "label": "Computer Science",
+    "aliases": []
+  }
 ]
-
-
