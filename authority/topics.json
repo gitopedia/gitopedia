@@ -1,4 +1,52 @@
 [
+  {
+    "id": "topic:advanced-geothermal-systems",
+    "label": "Advanced Geothermal Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:ags",
+    "label": "AGS",
+    "aliases": []
+  },
+  {
+    "id": "topic:enhanced-geothermal-systems",
+    "label": "Enhanced Geothermal Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:egs",
+    "label": "EGS",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy",
+    "label": "renewable energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:geothermal-energy",
+    "label": "geothermal energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology",
+    "label": "technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainability",
+    "label": "sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-energy",
+    "label": "Sustainable Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:advanced-geothermal-systems-(a",
+    "label": "Advanced Geothermal Systems (AGS)",
+    "aliases": []
+  }
 ]
-
-
