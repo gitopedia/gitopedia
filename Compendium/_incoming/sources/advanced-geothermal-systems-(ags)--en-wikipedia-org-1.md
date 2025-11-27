@@ -1,0 +1,68 @@
+---
+id: 01KB1B3NPQQXVP9KZH1EZVRAER
+title: "Source: Closed-loop geothermal - Wikipedia"
+url: "https://en.wikipedia.org/wiki/Closed-loop_geothermal"
+type: source
+related_article: "advanced-geothermal-systems-(ags)"
+created: 2025-11-27
+tags: ["Source"]
+summary: "Summarized source material for Advanced Geothermal Systems (AGS)"
+model: "qwen3:14b"
+language: "en"
+---
+
+# Closed-loop geothermal systems
+
+- Closed-loop geothermal systems (also known as "advanced geothermal systems" or "AGS") are engineered systems that use subsurface working fluid heated in hot rock reservoirs without direct contact with rock pores or fractures. The fluid remains within a closed loop of deeply buried pipes that conduct Earth’s heat.
+- These systems are a key category of next-generation geothermal technologies being developed globally, offering renewable energy with minimal environmental impact.
+- Unlike conventional geothermal plants, closed-loop systems can be deployed anywhere in the world, depending only on the depth of the hot rock resource, making them a potential solution for regions without natural geothermal fluid availability.
+- Projects are currently under development in the United States, Canada, Japan, and Germany, with commercial examples such as the Geretsried project in Germany.
+- The systems use a variety of engineered designs, primarily differing in the length and geometry of subsurface closed-loop wells, materials used in well construction, and the type of working fluid employed.
+
+# Technical Design and Operation
+
+- Two common designs of closed-loop geothermal systems are the **U-tube** and **tube-in-tube** configurations. Both involve circulating fluid through insulated pipes buried in hot rock formations to extract heat.
+- The **U-tube** design consists of two parallel pipes connected at the ends, forming a U-shape. Fluid flows through one pipe to absorb heat and returns through the other pipe to the surface.
+- The **tube-in-tube** design uses concentric pipes, with the inner pipe carrying the working fluid and the outer pipe providing insulation and structural support. This design is often used in high-temperature environments.
+- These systems operate by circulating fluid through the closed loops, which is then used to generate electricity or provide direct heating. The fluid is typically water or a water-antifreeze mixture, chosen for its thermal properties and compatibility with subsurface conditions.
+- The systems are designed to minimize environmental disruption, as they do not require drilling into geothermal reservoirs or extracting geothermal fluids, reducing the risk of subsurface contamination or resource depletion.
+
+# Advantages and Environmental Impact
+
+- Closed-loop geothermal systems offer several advantages over conventional geothermal technologies:
+  - **No need for geofluid extraction**: Unlike traditional geothermal plants, which rely on natural geothermal fluids, closed-loop systems use artificial circulation, eliminating the risk of depleting subsurface water resources.
+  - **Reduced seismic risk**: The absence of fluid injection or extraction reduces the likelihood of induced seismicity, a common concern in conventional geothermal operations.
+  - **Lower environmental footprint**: These systems avoid the need for large surface infrastructure, such as ponds or pipelines, and minimize land use disruption.
+  - **Wider geographic applicability**: The ability to deploy systems in any region with sufficient subsurface heat (typically at depths of 3–5 kilometers) makes them a viable energy source for areas without natural geothermal fluid availability.
+- The systems are considered a low-emission energy source, producing minimal greenhouse gases during operation. The primary emissions occur during the construction phase, such as from drilling and material transportation.
+- Closed-loop systems are compatible with renewable energy integration, as they can provide baseload power (consistent energy supply) and complement intermittent sources like solar and wind.
+
+# Comparison with Ground Source Heat Pumps
+
+- **Depth and scale**: Ground source heat pumps (GSHPs) typically operate at shallow depths (up to 150 meters) and are used for small-scale heating and cooling applications. In contrast, closed-loop geothermal systems operate at much greater depths (3–5 kilometers) and are designed for large-scale electricity generation.
+- **Temperature range**: GSHPs utilize the relatively stable temperatures of the shallow subsurface (around 10–15°C) for heating and cooling. Closed-loop systems access much hotter rock formations (often exceeding 150°C), enabling the generation of high-temperature steam for electricity production.
+- **Energy output**: GSHPs are limited to low-temperature applications (e.g., building heating), while closed-loop systems can produce high-temperature heat suitable for industrial processes or power generation.
+- **Environmental impact**: Both systems have low environmental impact, but closed-loop systems require more extensive drilling and infrastructure, which can increase their ecological footprint compared to GSHPs.
+- **Economic considerations**: GSHPs are generally more cost-effective for small-scale applications, while closed-loop systems require significant upfront investment but offer long-term energy production potential.
+
+# Related Terminology: Hot Dry Rock (HDR)
+
+- **Hot Dry Rock (HDR)** refers to subsurface rock formations that are both hot (typically above 150°C) and dry (lacking significant geothermal fluids). These formations are a key target for closed-loop geothermal systems, as they provide the necessary heat without the need for natural fluid availability.
+- HDR resources are found in regions with tectonic activity, such as fault zones or areas with deep crustal heating. These regions are often associated with high geothermal gradients, making them ideal for closed-loop system deployment.
+- The concept of HDR energy was first proposed in the 1970s as a way to harness geothermal energy in areas without natural geothermal fluid reservoirs. Closed-loop systems represent a modern evolution of this concept, using artificial circulation to extract heat from HDR formations.
+- HDR energy has the potential to provide a large-scale, baseload renewable energy source, particularly in regions with limited access to other renewable resources. However, challenges remain in terms of drilling technology, system efficiency, and economic viability.
+
+# Research and Development
+
+- **United States**: The U.S. Department of Energy (DOE) has launched initiatives to advance closed-loop geothermal technologies, including the "Next-Generation Geothermal Power" roadmap. Research focuses on improving drilling efficiency, reducing costs, and enhancing system scalability.
+- **Japan**: Japan has been a leader in closed-loop geothermal development, with successful demonstrations such as the Kokonoe project. The country is also exploring partnerships with companies like Chevron and MOECO for pilot testing in Hokkaido.
+- **Germany**: The Eavor-Loop™ Geretsried project in Germany represents a commercial-scale closed-loop geothermal plant, demonstrating the feasibility of the technology in a European context.
+- **Global efforts**: Organizations such as the Clean Air Task Force and the International Geothermal Association are promoting closed-loop geothermal energy as a key component of global decarbonization strategies. Research is ongoing to optimize system designs, improve heat extraction efficiency, and reduce environmental impacts.
+
+# Challenges and Future Prospects
+
+- **Technical challenges**: One of the primary challenges in closed-loop geothermal systems is the high cost of deep drilling and the need for advanced materials to withstand high temperatures and pressures. Innovations in drilling technology, such as directional drilling and enhanced geothermal systems (EGS), are being explored to address these issues.
+- **Economic viability**: The high upfront costs of closed-loop systems, including drilling, infrastructure, and maintenance, remain a barrier to widespread adoption. However, as technology advances and economies of scale are achieved, costs are expected to decrease.
+- **Policy and regulation**: The development of closed-loop geothermal systems requires supportive policies, including incentives for renewable energy, streamlined permitting processes, and research funding. Countries with strong geothermal policies, such as Iceland and the United States, are leading the way in this regard.
+- **Environmental considerations**: While closed-loop systems have a lower environmental footprint than conventional geothermal technologies, they still require careful management of subsurface resources to avoid long-term ecological impacts. Ongoing research aims to minimize these effects through improved system design and monitoring.
+- **Future outlook**: With increasing global demand for clean energy and advancements in geothermal technology, closed-loop systems are expected to play a significant role in the transition to a low-carbon energy future. Continued investment in research, development, and deployment will be critical to realizing their full potential.
