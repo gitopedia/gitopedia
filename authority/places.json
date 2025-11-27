@@ -1,4 +1,22 @@
 [
+  {
+    "id": "place:germany",
+    "label": "Germany",
+    "aliases": []
+  },
+  {
+    "id": "place:japan",
+    "label": "Japan",
+    "aliases": []
+  },
+  {
+    "id": "place:united-states",
+    "label": "United States",
+    "aliases": []
+  },
+  {
+    "id": "place:italy",
+    "label": "Italy",
+    "aliases": []
+  }
 ]
-
-
