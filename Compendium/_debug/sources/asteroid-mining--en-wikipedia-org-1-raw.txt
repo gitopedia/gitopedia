@@ -1,0 +1,1389 @@
+Participate in the 2025 international science photo competition!
+
+1 History Toggle History subsection 1.1 Prior to 1970 1.2 The 1970s 1.3 The 1980s 1.4 The 1990s 1.5 The 2010s 1.6 The 2020s
+
+3 Mining considerations
+
+4 Economics Toggle Economics subsection 4.1 Scarcity 4.2 Financial feasibility 4.3 Mining the Asteroid Belt from Mars 4.4 Phobos as a space elevator for Mars
+
+4.2 Financial feasibility
+
+4.3 Mining the Asteroid Belt from Mars
+
+4.4 Phobos as a space elevator for Mars
+
+5 Regulation and safety Toggle Regulation and safety subsection 5.1 The Outer Space Treaty 5.2 The Moon Agreement 5.3 Legal regimes of some countries 5.3.1 Luxembourg 5.3.2 United States
+
+5.1 The Outer Space Treaty
+
+5.2 The Moon Agreement
+
+5.3 Legal regimes of some countries 5.3.1 Luxembourg 5.3.2 United States
+
+6 Environmental impact Toggle Environmental impact subsection 6.1 Space debris 6.2 Contamination of celestial bodies 6.3 Unsustainable mining techniques 6.4 Landscape changes 6.5 Carbon emissions and atmospheric impact
+
+6.2 Contamination of celestial bodies
+
+6.3 Unsustainable mining techniques
+
+6.4 Landscape changes
+
+6.5 Carbon emissions and atmospheric impact
+
+7 Demonstrating technological capacity Toggle Demonstrating technological capacity subsection 7.1 Space mission firsts by country 7.2 Additional completed and ongoing missions 7.3 Proposed Missions 7.4 Other precursor activities 7.4.1 Asteroid cataloging
+
+7.1 Space mission firsts by country
+
+7.2 Additional completed and ongoing missions
+
+7.3 Proposed Missions
+
+7.4 Other precursor activities 7.4.1 Asteroid cataloging
+
+7.4.1 Asteroid cataloging
+
+Српски / srpski
+
+Edit interlanguage links
+
+Asteroid mining is the hypothetical extraction of materials from asteroids and other minor planets, including near-Earth objects.[1]
+
+Asteroid sample return research missions, such as Hayabusa, Hayabusa2, OSIRIS-REx, and Tianwen-2, illustrate the challenges of collecting ore from space using current technology. As of 2024, around 127 grams of asteroid material have been successfully brought to Earth from space.[2] Asteroid research missions are complex endeavors and yield a tiny amount of material (less than 100 milligrams Hayabusa,[3] 5.4 grams Hayabusa2,[4] ~121.6 grams OSIRIS-REx,[5] Tianwen-2 (in progress)) relative to the size and expense of these projects ($300 million Hayabusa, $800 million Hayabusa2, $1.16 billion OSIRIS-REx, $70 million Tianwen-2).[6][7]
+
+Notable asteroid mining challenges include the high cost of spaceflight, unreliable identification of asteroids that are suitable for mining, and the challenges of extracting usable material in a space environment.[citation needed]
+
+Before 1970, asteroid mining existed largely within the realm of science fiction. Publications such as Worlds of If,[8] Scavengers in Space,[9] and Miners in the Sky[10] told stories about the conceived dangers, motives, and experiences of mining asteroids. At the same time, many researchers in academia speculated about the profits that could be gained from asteroid mining, but they lacked the technology to seriously pursue the idea.[11]
+
+In 1969,[12] the Apollo 11 Moon Landing spurred a wave of scientific interest in human space activity far beyond the Earth's orbit. As the decade continued, increasing academic interest surrounded the topic of asteroid mining. A sizeable portion of serious academic consideration was aimed at mining asteroids located closer to Earth than the main asteroid belt. In particular, the asteroid groups Apollo and Amor were considered.[13] These groups were chosen not only because of their proximity to Earth but also because many at the time thought they were rich in raw materials that could be refined.[13]
+
+Despite the wave of interest, many in the space science community were aware of how little was known about asteroids and encouraged a more gradual and systematic approach to asteroid mining.[14]
+
+Academic interest in asteroid mining continued into the 1980s. The idea of targeting the Apollo and Amor asteroid groups still had some popularity.[15] However, by the late 1980s, the interest in the Apollo and Amor asteroid groups was being replaced with interest in the moons of Mars, Phobos and Deimos.[16]
+
+Governmental organizations and space agencies, such as NASA, begin to formulate ideas of how to process materials in space[17] and what to do with the materials that are hypothetically gathered from space.[18]
+
+New reasons emerged for pursuing asteroid mining. These reasons tended to revolve around environmental concerns, such as fears over humans over-consuming the Earth's natural resources[19] and trying to capture energy from the Sun in space.[20]
+
+In the same decade, NASA was trying to establish what materials in asteroids could be valuable for extraction. These materials included free metals, volatiles, and bulk dirt.[21]
+
+After a burst of interest in the 2010s, asteroid mining ambitions shifted to more distant long-term goals, and some 'asteroid mining' companies pivoted to more general-purpose propulsion technology.[22]
+
+On 24 April 2012, at the Seattle, Washington Museum of Flight, a plan was announced by billionaire entrepreneurs to mine asteroids for their resources.[23] The company was called Planetary Resources, and its founders included aerospace entrepreneurs Eric Anderson and Peter Diamandis.[24] The company announced plans to create a propellant depot in space by 2020, aiming to develop the process of splitting water from asteroids into hydrogen and oxygen to replenish satellites and spacecraft. Advisers included film director and explorer James Cameron; investors included Google's chief executive Larry Page, and its executive chairman was Eric Schmidt.[25][24] Telescope technology proposed to identify and examine candidate asteroids lead to development of the Arkyd family of spacecraft; two prototypes of which were flown in 2015[26] and 2018.[27] Shortly after, all plans for the Arkyd space telescope technology were abandoned; the company was wound down, its hardware auctioned off,[28] and remaining assets acquired by ConsenSys, a blockchain company.[29]
+
+A year after the appearance of Planetary Resources, similar asteroid mining plans were announced in 2013 by Deep Space Industries; a company established by David Gump, Rick Tumlinson, and others.[30] The initial goal was to visit asteroids with prospecting and sample return spacecraft in 2015 and 2016;[31] and begin mining within ten years.[32] Deep Space Industries later pivoted to developing & selling the propulsion systems that would enable its envisioned asteroid operations, including a successful line of water-propellant thrusters in 2018;[33] and in 2019 was acquired by Bradford Space, a company with a portfolio of earth orbit systems and space flight components.[34]
+
+The 2020s have brought a resurgence of interest, with companies from the United States, Europe, and China renewing their efforts in this ambitious venture. This revival is fueled by a new era of commercial space exploration, significantly driven by SpaceX. SpaceX's development of reusable rocket boosters has substantially lowered the cost of space access, reigniting interest and investment in asteroid mining. A US congressional committee acknowledged this renewed interest by holding a hearing on the topic in December 2023.[35] There are also endeavors to make first-time landings on M-type asteroids to mine metals like iridium which sells for many thousands of dollars per ounce. Private company driven efforts have also given rise to a new culture of secrecy obfuscating which asteroids are identified and targeted for mining missions, whereas previously government-led asteroid research and exploration operated with more transparency.[36]
+
+As resource depletion on Earth becomes more of a concern, the idea of extracting valuable elements from asteroids and transporting them to Earth for profit, or using space-based resources to build solar-power satellites and space habitats,[37][38] becomes more attractive. Hypothetically, water processed from ice could refuel orbiting propellant depots.[39][40][41]
+
+Although asteroids and Earth accreted from the same starting materials, Earth's relatively stronger gravity pulled all heavy siderophilic (iron-loving) elements into its core during its molten youth more than four billion years ago.[42][43][44] This left the crust depleted of such valuable elements until a rain of asteroid impacts re-infused the depleted crust with metals like gold, cobalt, iron, manganese, molybdenum, nickel, osmium, palladium, platinum, rhenium, rhodium, ruthenium and tungsten (some flow from core to surface does occur, e.g. at the Bushveld Igneous Complex, a famously rich source of platinum-group metals).[45][46][47][48] Today, these metals are mined from Earth's crust, and they are essential for economic and technological progress. Hence, the geologic history of Earth may very well set the stage for a future of asteroid mining.
+
+In 2006, the Keck Observatory announced that the binary Jupiter trojan 617 Patroclus,[49] and possibly large numbers of other Jupiter trojans, are likely extinct comets and consist largely of water ice. Similarly, Jupiter-family comets, and possibly near-Earth asteroids that are extinct comets, might also provide water. The process of in-situ resource utilization—using materials native to space for propellant, thermal management, tankage, radiation shielding, and other high-mass components of space infrastructure—could lead to radical reductions in its cost.[24] Although whether these cost reductions could be achieved, and if achieved would offset the enormous infrastructure investment required, is unknown.
+
+From the astrobiological perspective, asteroid prospecting could provide scientific data for the search for extraterrestrial intelligence (SETI). Some astrophysicists have suggested that if advanced extraterrestrial civilizations employed asteroid mining long ago, the hallmarks of these activities might be detectable.[50][51][52]
+
+An important factor to consider in target selection is orbital economics, in particular the change in velocity (Δv) and travel time to and from the target. More of the extracted native material must be expended as propellant in higher Δv trajectories, thus less returned as payload. Direct Hohmann trajectories are faster than Hohmann trajectories assisted by planetary and/or lunar flybys, which in turn are faster than those of the Interplanetary Transport Network, but the reduction in transfer time comes at the cost of increased Δv requirements.[53]
+
+The Easily Recoverable Object (ERO) subclass of Near-Earth asteroids are considered likely candidates for early mining activity. Their low Δv makes them suitable for use in extracting construction materials for near-Earth space-based facilities, greatly reducing the economic cost of transporting supplies into Earth orbit.[54]
+
+The table above shows a comparison of Δv requirements for various missions. In terms of propulsion energy requirements, a mission to a near-Earth asteroid compares favorably to alternative mining missions.
+
+An example of a potential target[55] for an early asteroid mining expedition is 4660 Nereus, expected to be mainly enstatite. This body has a very low Δv compared to lifting materials from the surface of the Moon. However, it would require a much longer round-trip to return the material.
+
+Multiple types of asteroids have been identified but the three main types would include the C-type, S-type, and M-type asteroids:
+
+C-type asteroids have a high abundance of water which is not currently of use for mining, but could be used in an exploration effort beyond the asteroid. Mission costs could be reduced by using the available water from the asteroid. C-type asteroids also have high amounts of organic carbon, phosphorus, and other key ingredients for fertilizer which could be used to grow food.[56]
+
+S-type asteroids carry little water but are more attractive because they contain numerous metals, including nickel, cobalt, and more valuable metals, such as gold, platinum, and rhodium. A small 10-meter S-type asteroid contains about 650,000 kg (1,433,000 lb) of metal with 50 kg (110 lb) in the form of rare metals like platinum and gold.[57]
+
+M-type asteroids are rare but contain up to 10 times more metal than S-types.[56]
+
+A class of "easily retrievable objects" (EROs) was identified by a group of researchers in 2013. Twelve asteroids made up the initially identified group, all of which could be potentially mined with present-day rocket technology. Of 9,000 asteroids searched in the NEO database, these twelve could all be brought into an Earth-accessible orbit by changing their velocity by less than 500 meters per second (1,800 km/h; 1,100 mph). The dozen asteroids range in size from 2 to 20 meters (10 to 70 ft).[58]
+
+Mining considerations
+
+There are four options for mining:[54]
+
+In-space manufacturing (ISM),[59] which may be enabled by biomining.[60]
+
+Bring raw asteroidal material to Earth for use.
+
+Process asteroidal material on-site to bring back only processed materials, and perhaps produce propellant for the return trip.
+
+Transport the asteroid to a safe orbit around the Moon or Earth or to a space station.[41] This can hypothetically allow for most materials to be used and not wasted.[38]
+
+Processing in situ for the purpose of extracting high-value minerals will reduce the energy requirements for transporting the materials, although the processing facilities must first be transported to the mining site. In situ mining will involve drilling boreholes and injecting hot fluid/gas and allow the useful material to react or melt with the solvent and extract the solute. Due to the weak gravitational fields of asteroids, any activities, like drilling, will cause large disturbances and form dust clouds. These might be confined by some dome or bubble barrier. Or else some means of rapidly dissipating any dust could be provided.
+
+Mining operations require special equipment to handle the extraction and processing of ore in outer space.[54] The machinery will need to be anchored to the body,[61] but once in place, the ore can be moved about more readily due to the lack of gravity. However, no techniques for refining ore in zero gravity currently exist. Docking with an asteroid might be performed using a harpoon-like process, where a projectile would penetrate the surface to serve as an anchor; then an attached cable would be used to winch the vehicle to the surface, if the asteroid is both penetrable and rigid enough for a harpoon to be effective.[62]
+
+Due to the distance from Earth to an asteroid selected for mining, the round-trip time for communications will be several minutes or more, except during occasional close approaches to Earth by near-Earth asteroids. Thus any mining equipment will either need to be highly automated, or a human presence will be needed nearby.[54] Humans would also be useful for troubleshooting problems and for maintaining the equipment. On the other hand, multi-minute communications delays have not prevented the success of robotic exploration of Mars, and automated systems would be much less expensive to build and deploy.[63]
+
+Currently, the quality of the ore and the consequent cost and mass of equipment required to extract it are unknown and can only be speculated on. Some economic analyses indicate that the cost of returning asteroidal materials to Earth far outweighs their market value, and that asteroid mining will not attract private investment at current commodity prices and space transportation costs.[64][65] Other studies suggest large profit by using solar power.[66][67] Potential markets for materials can be identified and profit generated if extraction cost is brought down. For example, the delivery of multiple tonnes of water to low Earth orbit for rocket fuel preparation for space tourism could generate significant profit if space tourism itself proves profitable.[68]
+
+In 1997, it was speculated that a relatively small metallic asteroid with a diameter of 1.6 km (1 mi) contains more than US$20 trillion worth of industrial and precious metals.[40][69] A comparatively small M-type asteroid with a mean diameter of 1 km (0.62 mi) could contain more than two billion metric tons of iron–nickel ore,[70] or two to three times the world production of 2004.[71] The asteroid 16 Psyche is believed to contain 1.7×1019 kg of nickel–iron, which could supply the world production requirement for several million years. A small portion of the extracted material would also be precious metals.
+
+Not all mined materials from asteroids would be cost-effective, especially for the potential return of economic amounts of material to Earth. For potential return to Earth, platinum is considered very rare in terrestrial geologic formations and therefore is potentially worth bringing some quantity for terrestrial use. Nickel, on the other hand, is quite abundant on Earth and being mined in many terrestrial locations, so the high cost of asteroid mining may not make it economically viable.[72]
+
+Although Planetary Resources indicated in 2012 that the platinum from a 30-meter-long (98 ft) asteroid could be worth US$25–50 billion,[73] an economist remarked any outside source of precious metals could lower prices sufficiently to possibly doom the venture by rapidly increasing the available supply of such metals.[74]
+
+Development of an infrastructure for altering asteroid orbits could offer a large return on investment.[75]
+
+Scarcity is a fundamental economic problem of humans having seemingly unlimited wants in a world of limited resources. Since Earth's resources are finite, the relative abundance of asteroidal ore gives asteroid mining the potential to provide nearly unlimited resources, which could essentially eliminate scarcity for those materials.
+
+The idea of exhausting resources is not new. In 1798, Thomas Malthus wrote, because resources are ultimately limited, the exponential growth in a population would result in falls in income per capita until poverty and starvation would result as a constricting factor on population.[76] Malthus posited this 227 years ago, and no sign has yet emerged of the Malthus effect regarding raw materials.
+
+Proven reserves are deposits of mineral resources that are already discovered and known to be economically extractable under present or similar demand, price and other economic and technological conditions.[76]
+
+Conditional reserves are discovered deposits that are not yet economically viable.[76]
+
+Indicated reserves are less intensively measured deposits whose data is derived from surveys and geological projections. Hypothetical reserves and speculative resources make up this group of reserves.[76]
+
+Inferred reserves are deposits that have been located but not yet exploited.[76]
+
+Continued development in asteroid mining techniques and technology may help to increase mineral discoveries.[77] As the cost of extracting mineral resources, especially platinum group metals, on Earth rises, the cost of extracting the same resources from celestial bodies declines due to technological innovations around space exploration.[76]
+
+Asteroid tracking catalogs such as Asterank estimate about 700 known asteroids with a value exceeding US$100 trillion each.[78]
+
+Financial feasibility
+
+Space ventures are high-risk, with long lead times and heavy capital investment, and that is no different for asteroid-mining projects. These types of ventures could be funded through private investment or through government investment. For a commercial venture, it can be profitable as long as the revenue earned is greater than total costs (costs for extraction and costs for marketing).[76] The costs involving an asteroid-mining venture were estimated to be around US$100 billion in 1996.[76]
+
+There are six categories of cost considered for an asteroid mining venture:[76]
+
+Research and development costs
+
+Exploration and prospecting costs
+
+Construction and infrastructure development costs
+
+Operational and engineering costs
+
+Determining financial feasibility is best represented through net present value.[76] One requirement needed for financial feasibility is a high return on investment estimating around 30%.[76] Example calculation assumes for simplicity that the only valuable material on asteroids is platinum. On 16 August 2016, platinum was valued at $1157 per ounce or $37,000 per kilogram. At a price of $1,340, for a 10% return on investment, 173,400 kg (5,575,000 ozt) of platinum would have to be extracted for every 1,155,000 tons of asteroid ore. For a 50% return on investment 1,703,000 kg (54,750,000 ozt) of platinum would have to be extracted for every 11,350,000 tons of asteroid ore. This analysis assumes that doubling the supply of platinum to the market (5.13 million ounces in 2014) would have no effect on the price of platinum. An economics-based assessment would conclude increasing the supply of platinum without an obvious increase in demand will drive prices downward.[79]
+
+The financial feasibility of asteroid mining with regards to different technical parameters has been presented by Sonter[80] and more recently by Hein et al. They have specifically explored the case where platinum is brought from space to Earth and estimate that economically viable asteroid mining for this specific case would be rather challenging.[81]
+
+Decreases in the price of space access matter. The start of operational use of the low-cost-per-kilogram-in-orbit Spacex Falcon Heavy launch vehicle in 2018 is projected by astronomer Martin Elvis to have increased the extent of economically minable near-Earth asteroids from hundreds to thousands. With the increased availability of several kilometers per second of delta-v that Falcon Heavy provides, it increases the number of NEAs accessible from 3 percent to around 45 percent.[82]
+
+Precedent for joint investment by multiple parties into a long-term venture to mine commodities may be found in the legal concept of a mining partnership, which exists in the state laws of multiple US states including California. In a mining partnership, "[Each] member of a mining partnership shares in the profits and losses thereof in the proportion which the interest or share he or she owns in the mine bears to the whole partnership capital or whole number of shares."[83]
+
+Mining the Asteroid Belt from Mars
+
+Since Mars is much closer to the asteroid belt than Earth is, it would take less Delta-v to get to the asteroid belt and return minerals to Mars. One hypothesis is that the origin of the Moons of Mars (Phobos and Deimos) are actually asteroid captures from the asteroid belt.[84] 16 Psyche in the main belt could have over $10,000 Quadrillion United States dollar worth of minerals. NASA is planning a mission for 10 October 2023 for the Psyche orbiter to launch and get to the asteroid by August 2029 to study.[85] 511 Davida could have $27 quadrillion worth of minerals and resources.[86] Using the moon Phobos to launch spacecraft is energetically favorable and a useful location from which to dispatch missions to main belt asteroids.[87] Mining the asteroid belt from Mars and its moons could help in the Colonization of Mars.[88][89][90]
+
+Phobos as a space elevator for Mars
+
+Phobos is synchronously orbiting Mars, where the same face stays facing the planet at ~6,028 km above the Martian surface. A space elevator could extend from Phobos to Mars 6,000 km, about 28 kilometers from the surface, and just out of the atmosphere of Mars. A similar space elevator cable could extend out 6,000 km the opposite direction that would counterbalance Phobos. In total the space elevator would extend over 12,000 km which would be below Areostationary orbit of Mars (17,032 km). A rocket launch would be needed to get the rocket and cargo to the beginning of the space elevator 28 km above the surface. The surface of Mars is rotating at 0.25 km/s at the equator and the bottom of the space elevator would be rotating around Mars at 0.77 km/s, so only 0.52 km/s of Delta-v would be needed to get to the space elevator. Phobos orbits at 2.15 km/s and the outer most part of the space elevator would rotate around Mars at 3.52 km/s.[91]
+
+Regulation and safety
+
+Space law involves a specific set of international treaties, along with national statutory laws. The system and framework for international and domestic laws have emerged in part through the United Nations Office for Outer Space Affairs.[92] The rules, terms and agreements that space law authorities consider to be part of the active body of international space law are the five international space treaties and five UN declarations. Approximately 100 nations and institutions were involved in negotiations. The space treaties cover many major issues such as arms control, non-appropriation of space, freedom of exploration, liability for damages, safety and rescue of astronauts and spacecraft, prevention of harmful interference with space activities and the environment, notification and registration of space activities, and the settlement of disputes. In exchange for assurances from the space power, the nonspacefaring nations acquiesced to U.S. and Soviet proposals to treat outer space as a commons (res communis) territory which belonged to no one state.
+
+Asteroid mining in particular is covered by both international treaties—for example, the Outer Space Treaty—and national statutory laws—for example, specific legislative acts in the United States[93] and Luxembourg.[94]
+
+Varying degrees of criticism exist regarding international space law. Some critics accept the Outer Space Treaty, but reject the Moon Agreement. The Outer Space Treaty allows private property rights for outer space natural resources once removed from the surface, subsurface or subsoil of the Moon and other celestial bodies in outer space.[95] Thus, international space law is capable of managing newly emerging space mining activities, private space transportation, commercial spaceports and commercial space stations, habitats and settlements. Space mining involving the extraction and removal of natural resources from their natural location is allowable under the Outer Space Treaty.[96] Once removed, those natural resources can be reduced to possession, sold, traded and explored or used for scientific purposes. International space law allows space mining, specifically the extraction of natural resources. It is generally understood within the space law authorities that extracting space resources is allowable, even by private companies for profit.[95] However, international space law prohibits property rights over territories and outer space land.[96]
+
+Astrophysicists Carl Sagan and Steven J. Ostro raised the concern altering the trajectories of asteroids near Earth might pose a collision hazard threat. They concluded that orbit engineering has both opportunities and dangers: if controls instituted on orbit-manipulation technology were too tight, future spacefaring could be hampered, but if they were too loose, human civilization would be at risk.[75][97][98]
+
+The Outer Space Treaty
+
+After ten years of negotiations between nearly 100 nations, the Outer Space Treaty opened for signature on 27 January 1966. It entered into force as the constitution for outer space on 10 October 1967. The Outer Space Treaty was well received; it was ratified by ninety-six nations and signed by an additional twenty-seven states. The outcome has been that the basic foundation of international space law consists of five (arguably four) international space treaties, along with various written resolutions and declarations. The main international treaty is the Outer Space Treaty of 1967; it is generally viewed as the "Constitution" for outer space. By ratifying the Outer Space Treaty of 1967, ninety-eight nations agreed that outer space would belong to the "province of mankind", that all nations would have the freedom to "use" and "explore" outer space, and that both these provisions must be done in a way to "benefit all mankind".[99]
+
+The province of mankind principle and the other key terms have not yet been specifically defined.[100] Critics have complained that the Outer Space Treaty is vague. Yet, international space law has worked well and has served space commercial industries and interests for many decades. The taking away and extraction of Moon rocks, for example, has been treated as being legally permissible.
+
+The framers of Outer Space Treaty initially focused on solidifying broad terms first, with the intent to create more specific legal provisions later (Griffin, 1981: 733–734).[101] This is why the members of the COPUOS later expanded the Outer Space Treaty norms by articulating more specific understandings which are found in the "three supplemental agreements" – the Rescue and Return Agreement of 1968,[102] the Liability Convention of 1973,[103] and the Registration Convention of 1976.[104]
+
+Hobe (2007) explains that the Outer Space Treaty "explicitly and implicitly prohibits only the acquisition of territorial property rights" but extracting space resources is allowable. It is generally understood within the space law authorities that extracting space resources is allowable, even by private companies for profit. However, international space law prohibits property rights over territories and outer space land. Hobe further explains that there is no mention of "the question of the extraction of natural resources which means that such use is allowed under the Outer Space Treaty" (2007: 211). He also points out that there is an unsettled question regarding the division of benefits from outer space resources in accordance with Article, paragraph 1 of the Outer Space Treaty.[105]
+
+The Moon Agreement was signed on 18 December 1979, as part of the United Nations Charter and it entered into force in 1984 after a five state ratification consensus procedure, agreed upon by the members of the United Nations Committee on Peaceful Uses of Outer Space (COPUOS).[106] As of September 2019, only 18 nations have signed or ratified the treaty.[106] The other three outer space treaties experienced a high level of international cooperation in terms of signage and ratification, but the Moon Treaty went further than them, by defining the Common Heritage concept in more detail and by imposing specific obligations on the parties engaged in the exploration and/or exploitation of outer space. The Moon Treaty explicitly designates the Moon and its natural resources as part of the Common Heritage of Mankind.[107]
+
+The Article 11 establishes that lunar resources are "not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means".[108] However, exploitation of resources is suggested to be allowed if it is "governed by an international regime" (Article 11.5), but the rules of such regime have not yet been established.[109] S. Neil Hosenball, the NASA General Counsel and chief US negotiator for the Moon Treaty, cautioned in 2018 that negotiation of the rules of the international regime should be delayed until the feasibility of exploitation of lunar resources has been established.[110]
+
+The objection to the treaty by the spacefaring nations is held to be the requirement that extracted resources (and the technology used to that end) must be shared with other nations. The similar regime in the United Nations Convention on the Law of the Sea is believed to impede the development of such industries on the seabed.[111]
+
+The United States, the Russian Federation, and the People's Republic of China (PRC) have neither signed, acceded to, nor ratified the Moon Agreement.[111]
+
+Legal regimes of some countries
+
+In February 2016, the Government of Luxembourg said that it would attempt to "jump-start an industrial sector to mine asteroid resources in space" by, among other things, creating a "legal framework" and regulatory incentives for companies involved in the industry.[94][112] By June 2016, it announced that it would "invest more than US$200 million in research, technology demonstration, and in the direct purchase of equity in companies relocating to Luxembourg".[113] In 2017, it became the "first European country to pass a law conferring to companies the ownership of any resources they extract from space", and remained active in advancing space resource public policy in 2018.[114][115]
+
+In 2017, Japan, Portugal, and the UAE entered into cooperation agreements with Luxembourg for mining operations in celestial bodies.[116][117]
+
+In 2018, the Luxembourg Space Agency was created.[118] It provides private companies and organizations working on asteroid mining with financial support.[119][120]
+
+Some nations are beginning to promulgate legal regimes for extraterrestrial resource extraction. For example, the United States "SPACE Act of 2015"—facilitating private development of space resources consistent with US international treaty obligations—passed the US House of Representatives in July 2015.[121][122] In November 2015 it passed the United States Senate.[123] On 25 November U.S. President Barack Obama signed the H.R.2262 – U.S. Commercial Space Launch Competitiveness Act into law.[124] The law recognizes the right of U.S. citizens to own space resources they obtain and encourages the commercial exploration and use of resources from asteroids. According to the article § 51303 of the law:[125]
+
+A United States citizen engaged in commercial recovery of an asteroid resource or a space resource under this chapter shall be entitled to any asteroid resource or space resource obtained, including to possess, own, transport, use, and sell the asteroid resource or space resource obtained in accordance with applicable law, including the international obligations of the United States
+
+On 6 April 2020 U.S. President Donald Trump signed the Executive Order on Encouraging International Support for the Recovery and Use of Space Resources. According to the Order:[126][127]
+
+Americans should have the right to engage in commercial exploration, recovery, and use of resources in outer space
+
+the US does not view space as a "global commons"
+
+the US opposes the Moon Agreement
+
+A positive impact of asteroid mining has been conjectured as being an enabler of transferring industrial activities into space, such as energy generation.[128] A quantitative analysis of the potential environmental benefits of water and platinum mining in space has been developed, where potentially large benefits could materialize, depending on the ratio of material mined in space and mass launched into space.[129]
+
+Asteroid mining, or off-Earth Mining (OEM), is occasionally promoted as a sustainable alternative to terrestrial extraction,[130] with the potential to reduce ecological degradation on Earth. Metals such as platinum and palladium, which are comparatively scarce on Earth but more abundant in some near-Earth asteroids (NEAs)[131] such as 16 Psyche[132] are likely to be primary targets for future resource return missions. However, growing academic and environmental scrutiny suggests this narrative may oversimplify the complex, and often negative, environmental implications of OEM.
+
+Mining on asteroids is expected to generate large amounts of dust due to the fine-grained nature of regolith on these bodies. This dust is not only abrasive, due to a high glass content, but can also be sticky, clinging to equipment and spacesuits.[133] Previous missions, such as all 6 Apollo missions (11, 12, 14, 15, 16, and 17) reported serious issues with lunar dust (similar dust can occur on asteroids) interfering with mechanical systems, visibility, and even posing health risks to astronauts.[134] Similar challenges are anticipated during asteroid mining, where dust may travel significant distances[135] and impact nearby operations. Managing this risk will be crucial for the environmental and technical success of future OEM activities
+
+Asteroid mining has the potential to worsen the existing issue of space debris, particularly if large-scale operations are introduced without adequate regulation. These missions are likely to involve multiple spacecraft, automated mining systems, and transportation vehicles, all of which carry the risk of contributing additional debris to orbit.[136] Fragments of rock, dust, or equipment failures during extraction or transit phases could increase congestion in already crowded orbital pathways. This would heighten the risk of in-orbit collisions, contributing to what is known as the Kessler syndrome, a scenario where debris collisions generate more debris, leading to a self-perpetuating cascade effect. Kessler's Syndrome poses serious risks to satellite functionality, potentially disrupting essential services and utilities and significantly impacting global stability.[137] According to the European Space Agency[138] over 36,000 objects larger than 10 cm are currently being tracked in Earth's orbit, and so if mitigation strategies are not put in place, asteroid mining could significantly impact the long-term safety and sustainability of space activities.
+
+Contamination of celestial bodies
+
+Although OEM will differ in many ways from operations on Earth, the risk of contamination from spills or accidents remains an important concern. On Earth, spills from mining and processing have caused long-term environmental damage that has often been difficult to reverse.[139] It's crucial that similar risks are taken seriously in space, with strong safeguards and contingency plans in place from the outset.
+
+The severe health and environmental consequences of rare earth mining on Earth, including radioactive contamination of waterways, increased rates of cancer in affected communities, arsenic poisoning, and long-term degradation of soil and water systems. While these impacts are terrestrial, the same extractive logic based on environmental sacrifice and regulatory avoidance, could be extended to off-Earth contexts. If left unregulated, OEM could lead to similar disregard for the integrity of planetary bodies, treating them as consequence-free zones for contamination.[140]
+
+Several asteroids are thought to be relatively untouched since the early formation of the solar system, making them valuable targets for scientific research. These bodies may contain important clues about the distribution of water, the presence of organic compounds, and the conditions under which planets formed.[141]
+
+Planetary protection is a set of international guidelines designed to prevent harmful contamination of celestial bodies. For example, although most asteroids are not expected to support life, the accidental introduction of Earth-based microbes or substances could still compromise their natural state.[142] The Committee on Space Research (COSPAR) also outlines procedures to minimise biological contamination, but enforcement may become increasingly difficult as commercial missions expand into deep space.[143]
+
+Unsustainable mining techniques
+
+Mining techniques, such as surface excavation, thermal extraction and electrostatic separation could permanently disturb their physical and chemical makeup, limiting future opportunities for scientific study.[144]
+
+I. Pneumatic excavation is considered one of the least sustainable techniques due to its high energy requirements and potential to generate hazardous debris in microgravity environments.
+
+II. Thermal and chemical extraction can be extremely energy-intensive and may leave behind harmful by-products, raising concerns about long-term environmental impacts.
+
+III. Electrostatic separation, while effective in theory, poses sustainability challenges in space due to its significant power demands and sensitivity to environmental conditions.
+
+The geology and geomorphology of celestial bodies offer important insights into the history of the Solar System and the formation of asteroids, moons and terrestrial planets. Changes to these features because of OEM could be detrimental to scientific research. Without flowing water, landscapes on bodies such as the Moon change very slowly, shaped mainly by meteorite impacts. This means that any anthropogenic changes could be effectively permanent or at least, long-term.
+
+The scale of OEM proposals varies; some may involve extensive regolith excavation, potentially altering key geomorphological features, while others may have minimal impact. Effects on geological formations such as layers, hollows and caverns should be considered.[131]
+
+On Earth, mining often leads to temporary or permanent landscape changes, and sites suitable for OEM may also be targeted for future human settlement. Irreversible alterations could reduce the habitability of these areas.[145] Therefore, OEM planning should consider how landscape changes might be minimised, reversed, or adapted to support post-mining uses.
+
+Carbon emissions and atmospheric impact
+
+Although asteroid mining takes place beyond Earth's atmosphere, it still carries significant environmental consequences here on Earth, particularly in relation to carbon emissions. The process relies heavily on regular rocket launches, which currently emit pollutants such as black carbon, water vapour, and nitrogen oxides into the stratosphere.[146] These particles can disrupt atmospheric chemistry and contribute to ozone layer depletion and radiative forcing, both of which are linked to climate change.[147] Unlike emissions released at lower altitudes, pollutants in the upper atmosphere remain for longer periods due to the lack of rain.[148] As demand for space-based operations grows, including those related to asteroid mining, the environmental burden of launch emissions could become increasingly significant. Unregulated growth in the space sector may lead to measurable impacts on Earth's climate systems over time.[original research?]
+
+Demonstrating technological capacity
+
+Missions demonstrating technological capacity and capability are precursors enabling the complex solutions necessary for extra-terrestrial resource exploitation and mining.
+
+Space mission firsts by country
+
+Technological "stepping stones" comprise capabilities including flying by the object, orbiting the object, landing on the object, roving on the surface of the object, and returning a sample from an exterrestrial object. Here are the list of "first" successful missions by country:
+
+Additional completed and ongoing missions
+
+Hayabusa2 (completed) – JAXA asteroid sample return mission (arrived at the target in 2018, returned sample in 2020)
+
+OSIRIS-REx (completed) – NASA asteroid sample return mission (launched on 8 September 2016, arrived at target 2020,[149] returned sample on 24 September 2023[150])
+
+Tianwen-2 (ongoing) – ongoing CNSA asteroid sample return mission (will arrive at the target in 2026, will return sample in 2027)
+
+Many missions have been initiated by both sovereign and commercial players to advance technologies necessary to support extra-planetary resource exploitation, including mining, as shown in the table below. For purposes of tracking technology development, this table includes missions with lunar, asteroid, planetary, and comet mission targets.
+
+Other precursor activities
+
+To support the cataloging of potentially dangerous asteroids, NASA announced in September 2019 that a space-based infrared telescope will be developed and launched. NASA/JPL is developing the NEO Surveyor mission with budget from NASA's Planetary Defense Coordination Office, within the Planetary Science Division.[160] Launch is planned for June 2028.[161]
+
+Private organizations including the B612 Foundation have conducted related research to help detect asteroids that could one day strike Earth, and find the technological means to divert their path to avoid such collisions. Plans have included a design and build a privately financed asteroid-finding space telescope, Sentinel in 2013. When private fundraising did not achieve goals, the program was canceled and the Foundation pursued alternate approaches using a constellation of much smaller spacecraft[162] In August 2023, the Asteroid Institute, a program of the B612 foundation, announced the availability of the Asteroid Discovery Analysis and Mapping (ADAM) platform to enable ready public access to asteroid orbit data and related resources.[163]
+
+The first mention of asteroid mining in science fiction is regarded to be Garrett P. Serviss' story Edison's Conquest of Mars, published in the New York Evening Journal in 1898.[164][165] Several science-fiction video games include asteroid mining.[166]
+
+Illustration of proposed asteroid capture by Keck Institute for Space Studies made for Asteroid Redirect Mission
+
+Artist's concept from the 1970s of asteroid mining
+
+Artist's concept of an asteroid mining vehicle as seen in 1984
+
+Artist's concept of an asteroid moved by a space tether
+
+16 Psyche space elevator concept The surface gravity is less than 2% of Earth's at ~0.144 m/s2
+
+Asteroid Redirect Mission
+
+Gravity train / elevator
+
+In situ resource utilization
+
+Mining the Sky: Untold Riches from the Asteroids, Comets, and Planets
+
+Near Earth Asteroid Prospector
+
+Sample-return mission
+
+World Is Not Enough (spacecraft propulsion)
+
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}Gump, David Gump (1990). Space Enterprise: Beyond NASA. Bloomsbury Academic. ISBN 0-275-93314-8.
+
+Badescu, Viorel (2013). Badescu, Viorel (ed.). Asteroids – prospective energy and material resources. Berlin, Germany: Springer. Bibcode:2013aste.book.....B. doi:10.1007/978-3-642-39244-3. ISBN 978-3-642-39243-6. Retrieved 29 March 2025.
+
+Jakhu, Ram S.; Pelton, Joseph N.; Nyampong, Yaw Otu Mankata (2016). Space Mining and Its Regulation. Springer. doi:10.1007/978-3-319-39246-2. ISBN 978-3-319-39245-5. Retrieved 29 March 2025.
+
+Froehlich, Annette (2018). Space Resource Utilization: A View from an Emerging Space Faring Nation. Studies in Space Policy. Vol. 12. Springer. doi:10.1007/978-3-319-66969-4. ISBN 978-3-319-66969-4.
+
+^ This is the average amount; asteroids with much lower delta-v exist.
+
+^ O'Leary, B. (22 July 1977). "Mining the Apollo and Amor Asteroids". Science. 197 (4301): 363–366. Bibcode:1977Sci...197..363O. doi:10.1126/science.197.4301.363. ISSN 0036-8075. PMID 17797965. S2CID 45597532.
+
+^ Zhang, Cici (30 September 2018). "The tale of 2 asteroid sample-return missions". cen.acs.org. Archived from the original on 2 June 2021. Retrieved 30 May 2021.
+
+^ "Actual mass of Hayabusa samples in 2010?". Archived from the original on 2 December 2021. Fellow member Jack extracted the data from the available pdfs and collated it to get a very rough value - 60 mg. It's based on what he hopes is a representative sample from categories 1 and 2 which account for ~75% of the particles, then just multiplied by 1500.
+
+^ "Hayabusa2 returned with 5 grams of asteroid soil, far more than target". Japan Times. Archived from the original on 1 October 2023.
+
+^ Barry, Rachel (15 February 2024). "NASA Announces OSIRIS-REx Bulk Sample Mass". Archived from the original on 21 June 2024.
+
+^ "Cost of OSIRIS-REx". The Planetary Society. Archived from the original on 2 June 2021. Retrieved 31 May 2021.
+
+^ Morton, Erin (20 October 2023). "NASA's OSIRIS-REx Achieves Sample Mass Milestone – OSIRIS-REx Mission". blogs.nasa.gov. Retrieved 12 March 2024.
+
+^ Reynolds, Caleb (27 April 2003). "Businesses of the Beyond: How Asteroid Mining Maybe Arriving Sooner than we think". wesleyanbusinessreview.com. Retrieved 31 March 2025.
+
+^ Nourse, Alan E. (1959). Scavengers in space. David McKay Co. OCLC 55200836.
+
+^ Leinster, Murray (1967). Miners in the Sky. Avon Books. ISBN 978-0-7221-5482-3.
+
+^ Novak, Matt (18 November 2014). "Asteroid mining's peculiar past". bbc.com. Retrieved 8 May 2022.
+
+^ "July 20, 1969: One Giant Leap For Mankind - NASA". 20 July 2019. Retrieved 3 January 2024.
+
+^ Jump up to: a b O'Leary, Brian (22 July 1977). "Mining the Apollo and Amor Asteroids". Science. 197 (4301): 363–366. doi:10.1126/science.197.4301.363. ISSN 0036-8075. PMID 17797966. S2CID 37982824.
+
+^ Fanale, F. P. (1 January 1978). "Science rationale for an initial asteroid-dedicated mission". NASA, Washington Asteroids. 2053: 193. Bibcode:1978NASCP2053..193F.
+
+^ The utilization of nonterrestrial materials (Report). NASA. 1 March 1981. Retrieved 29 March 2025.
+
+^ O'Leary, Brian (1988). "Asteroid mining and the moons of Mars". Acta Astronautica. 17 (4): 457–462. Bibcode:1988AcAau..17..457O. doi:10.1016/0094-5765(88)90059-8.
+
+^ Leonard, Raymond S.; Johnson, Stewart W. (1 January 1988). "Power requirements for mining and microwave processing of extraterrestrial resources". New Mexico Univ., Transactions of the Fifth Symposium on Space Nuclear Power Systems: 71. Bibcode:1988snps.symp...71L.
+
+^ "Nonterrestrial utilization of materials: Automated space manufacturing facility". Advan. Automation for Space Missions: 77. 1 November 1982. Bibcode:1982aasm.nasa...77.
+
+^ Radovich, Brian M.; Carlson, Alan E.; Date, Medha D.; Duarte, Manny G.; Erian, Neil F.; Gafka, George K.; Kappler, Peter H.; Patano, Scott J.; Perez, Martin; Ponce, Edgar (1 January 1992). "Asteroid exploration and utilization". USRA, Proceedings of the 8th Annual Summer Conference: NASA (USRA Advanced Design Program): 264. Bibcode:1992adp..proc..264R.
+
+^ Creola, Peter (1 August 1996). "Space and the fate of humanity". Space Policy. 12 (3): 193–201. Bibcode:1996SpPol..12..193C. doi:10.1016/0265-9646(96)00018-5. ISSN 0265-9646.
+
+^ Lewis, John S. (1 January 1992). "Asteroid resources". NASA. Johnson Space Center, Space Resources. Volume 3: Materials. 509: 59. Bibcode:1992NASSP.509C..59L.
+
+^ "How the asteroid-mining bubble burst". MIT Technology Review. Archived from the original on 16 April 2021. Retrieved 31 May 2021.
+
+^ Planetary Resources, Inc. Press Conference, April 24, 2012 (Part 1 of 8). Retrieved 6 April 2024 – via www.youtube.com.
+
+^ Jump up to: a b c "Plans for asteroid mining emerge". BBC News. 24 April 2012. Archived from the original on 31 December 2019. Retrieved 24 April 2012.
+
+^ Lendon, Brad (24 April 2012). "Companies plan to mine precious metals in space". CNN News. Archived from the original on 27 April 2012. Retrieved 24 April 2012.
+
+^ Lewin, Sarah (17 July 2015). "Asteroid Mining Company's 1st Satellite Launches from Space Station". Space.com. Retrieved 6 April 2024.
+
+^ Wall, Mike (25 April 2018). "Asteroid Miners' Arkyd-6 Satellite Aces Big Test in Space". Space.com. Retrieved 6 April 2024.
+
+^ Boyle, Alan (4 June 2020). "Everything must boldly go! Defunct asteroid mining company's hardware put up for auction". geekwire.com. Archived from the original on 1 May 2021. Retrieved 31 May 2021.
+
+^ Boyle, Alan (1 May 2020). "After buying Planetary Resources, ConsenSys sets its space ideas free – but will sell off the hardware". geekwire.com. Retrieved 29 March 2025.
+
+^ Soper, Taylor (22 January 2013). "Deep Space Industries entering asteroid-mining world, creates competition for Planetary Resources". GeekWire: Dispatches from the Digital Frontier. GeekWire. Archived from the original on 23 January 2013. Retrieved 22 January 2013.
+
+^ "Commercial Asteroid Hunters announce plans for new Robotic Exploration Fleet" (Press release). Deep Space Industries. 22 January 2013. Archived from the original on 23 January 2013. Retrieved 22 January 2013.
+
+^ Wall, Mike (22 January 2013). "Asteroid-Mining Project Aims for Deep-Space Colonies". Space.com. TechMediaNetwork. Archived from the original on 22 January 2013. Retrieved 22 January 2013.
+
+^ "Deep Space Industries to provide Comet satellite propulsion for BlackSky, LeoStella". 6 April 2018. Archived from the original on 6 April 2018. Retrieved 6 June 2022.
+
+^ Foust, Jeff (2 January 2019). "Deep Space Industries acquired by Bradford Space". SpaceNews. Retrieved 29 March 2025.
+
+^ "The Mineral Supply Chain and the New Space Race | Oversight and Investigations Subcommittee | House Committee on Natural Resources". naturalresources.house.gov. Retrieved 6 August 2024.
+
+^ O'Callaghan, Jonathan (27 December 2023). "The First Secret Asteroid Mission Won't Be the Last". The New York Times. ISSN 0362-4331. Retrieved 6 August 2024.
+
+^ O'Leary, Brian; Gaffey, Michael J.; Ross, David J. & Salkeld, Robert (1979). "Retrieval of Asteroidal Materials". SPACE RESOURCES and SPACE SETTLEMENTS,1977 Summer Study at NASA Ames Research Center, Moffett Field, California. NASA. Archived from the original on 24 May 2019. Retrieved 29 September 2011.
+
+^ Jump up to: a b Valentine, Lee (2002). "A Space Roadmap: Mine the Sky, Defend the Earth, Settle the Universe". Space Studies Institute. Archived from the original on 7 August 2019. Retrieved 19 September 2011.
+
+^ Massonnet, Didier; Meyssignac, Benoit (2006). "A captured asteroid: Our David's stone for shielding earth and providing the cheapest extraterrestrial material". Acta Astronautica. 59 (1–5): 77–83. Bibcode:2006AcAau..59...77M. doi:10.1016/j.actaastro.2006.02.030.
+
+^ Jump up to: a b Lewis, John S. (1997). Mining the Sky: Untold Riches from the Asteroids, Comets, and Planets. Perseus. ISBN 978-0-201-32819-6. Archived from the original on 6 May 2012. Retrieved 23 September 2016.
+
+^ Jump up to: a b Brophy, John; Culick, Fred; Friedman, Louis; et al. (12 April 2012). "Asteroid Retrieval Feasibility Study" (PDF). Keck Institute for Space Studies, California Institute of Technology, Jet Propulsion Laboratory. Archived (PDF) from the original on 31 May 2017. Retrieved 19 April 2012.
+
+^ University of Toronto (19 October 2009). "Geologists Point To Outer Space As Source Of The Earth's Mineral Riches". ScienceDaily. Archived from the original on 16 December 2019. Retrieved 9 March 2018.
+
+^ Brenan, James M.; McDonough, William F. (2009). "Core formation and metal–silicate fractionation of osmium and iridium from gold" (PDF). Nature Geoscience. 2 (11): 798–801. Bibcode:2009NatGe...2..798B. doi:10.1038/ngeo658. Archived from the original (PDF) on 6 July 2011.
+
+^ Willbold, Matthias; Elliott, Tim; Moorbath, Stephen (2011). "The tungsten isotopic composition of the Earth's mantle before the terminal bombardment". Nature. 477 (7363): 195–198. Bibcode:2011Natur.477..195W. doi:10.1038/nature10399. PMID 21901010. S2CID 4419046.
+
+^ Klemm, D. D.; Snethlage, R.; Dehm, R. M.; Henckel, J.; Schmidt-Thomé, R. (1982). "The Formation of Chromite and Titanomagnetite Deposits within the Bushveld Igneous Complex". Ore Genesis. Special Publication of the Society for Geology Applied to Mineral Deposits. Springer, Berlin, Heidelberg. pp. 351–370. doi:10.1007/978-3-642-68344-2_35. ISBN 978-3-642-68346-6.
+
+^ Almécija, Clara; Cobelo-García, Antonio; Wepener, Victor; Prego, Ricardo (1 May 2017). "Platinum group elements in stream sediments of mining zones: The Hex River (Bushveld Igneous Complex, South Africa)". Journal of African Earth Sciences. 129: 934–943. Bibcode:2017JAfES.129..934A. doi:10.1016/j.jafrearsci.2017.02.002. hdl:10261/192883. ISSN 1464-343X.
+
+^ Rauch, Sebastien; Fatoki, Olalekan S. (2015). "Impact of Platinum Group Element Emissions from Mining and Production Activities". Platinum Metals in the Environment. Environmental Science and Engineering. Springer, Berlin, Heidelberg. pp. 19–29. doi:10.1007/978-3-662-44559-4_2. ISBN 978-3-662-44558-7. S2CID 73528299.
+
+^ Rauch, Sebastien; Fatoki, Olalekan S. (1 January 2013). "Anthropogenic Platinum Enrichment in the Vicinity of Mines in the Bushveld Igneous Complex, South Africa". Water, Air, & Soil Pollution. 224 (1): 1395. Bibcode:2013WASP..224.1395R. doi:10.1007/s11270-012-1395-y. ISSN 0049-6979. S2CID 97231760.
+
+^ Marchis, F.; et al. (2006). "A low density of 0.8 g cm−3 for the Trojan binary asteroid 617 Patroclus". Nature. 439 (7076): 565–567. arXiv:astro-ph/0602033. Bibcode:2006Natur.439..565M. doi:10.1038/nature04350. PMID 16452974. S2CID 4416425.
+
+^ "Evidence of asteroid mining in our galaxy may lead to the discovery of extraterrestrial civilizations". Smithsonian Science. Smithsonian Institution. 5 April 2011. Archived from the original on 8 April 2011.
+
+^ Gilster, Paul (29 March 2011). "Asteroid Mining: A Marker for SETI?". www.centauri-dreams.org. Archived from the original on 26 December 2019. Retrieved 26 December 2019.
+
+^ Marchis, Franck; Hestroffer, Daniel; Descamps, Pascal; Berthier, Jerome; Bouchez, Antonin H; Campbell, Randall D; Chin, Jason C. Y; van Dam, Marcos A; Hartman, Scott K; Johansson, Erik M; Lafon, Robert E; David Le Mignant; Imke de Pater; Stomski, Paul J; Summers, Doug M; Vachier, Frederic; Wizinovich, Peter L; Wong, Michael H (2011). "Extrasolar Asteroid Mining as Forensic Evidence for Extraterrestrial Intelligence". International Journal of Astrobiology. 10 (4): 307–313. arXiv:1103.5369. Bibcode:2011IJAsB..10..307F. doi:10.1017/S1473550411000127. S2CID 119111392.
+
+^ Doody, Dave (20 July 2023). "Basics of Spaceflight Chapter 4: Trajectories". NASA. Retrieved 1 April 2025.
+
+^ Jump up to: a b c d Harris, Stephen (16 April 2013). "Your questions answered: asteroid mining". The Engineer. Archived from the original on 6 September 2015. Retrieved 16 April 2013.
+
+^ Ross, Shane D. (14 December 2001). Near-Earth asteroid mining (PDF) (Report). California Institute of Technology. Archived (PDF) from the original on 12 October 2018. Retrieved 26 December 2019.
+
+^ Jump up to: a b "M-Type Asteroids – Astronomy Source". astronomysource.com. 21 August 2012. Archived from the original on 23 November 2018. Retrieved 17 December 2013.
+
+^ Steigerwald, William (8 August 2013). "New NASA Mission to Help Us Learn How to Mine Asteroids". NASA. Retrieved 29 March 2025.
+
+^ Mohan, Keerthi (13 August 2012). "New Class of Easily Retrievable Asteroids That Could Be Captured With Rocket Technology Found". International Business Times. Archived from the original on 6 November 2018. Retrieved 15 August 2012.
+
+^ "In-Space Manufacturing". NASA. 25 April 2019. Archived from the original on 24 December 2020. Retrieved 17 January 2021.
+
+^ "Mining rocks in orbit could aid deep space exploration". Science Daily. 10 November 2020. Archived from the original on 12 February 2021. Retrieved 17 January 2021. The first mining experiments conducted in space could pave the way for new technologies to help humans explore and establish settlements on distant worlds, a study suggests.
+
+^ Gertsch, L. S.; Gertsch, R. E. (2000). "Mine Planning for Asteroid Orebodies" (PDF). Space Resources Roundtable II. Bibcode:2000srrt.conf...19G. Retrieved 29 March 2025.
+
+^ Durda, Daniel. "Mining Near-Earth Asteroids". nss.org. National Space Society. Archived from the original on 21 July 2017. Retrieved 17 May 2014.
+
+^ Crandall, W. B. C.; et al. (2009). "Why Space, Recommendations to the Review of United States Human Space Flight Plans Committee" (PDF). NASA Document Server. Archived (PDF) from the original on 4 June 2017. Retrieved 23 November 2009.
+
+^ R. Gertsch and L. Gertsch, "Economic analysis tools for mineral projects in space, Archived 24 December 2014 at the Wayback Machine", Space Resources Roundtable, 1997.
+
+^ Kluger, Jeffrey (25 April 2012). "Can James Cameron – Or Anyone – Really Mine Asteroids?". Time Science. Archived from the original on 25 April 2012. Retrieved 25 April 2012.
+
+^ Sonter, M. J. (1997). "The technical and economic feasibility of mining the near-earth asteroids". Acta Astronautica. 41 (4–10): 637–647. Bibcode:1997AcAau..41..637S. doi:10.1016/S0094-5765(98)00087-3. Archived from the original on 2 August 2019. Retrieved 2 August 2019.
+
+^ Busch, M. (2004). "Profitable Asteroid Mining". Journal of the British Interplanetary Society. 57: 301. Bibcode:2004JBIS...57..301B.
+
+^ Sonter, Mark. "Mining Economics and Risk-Control in the Development of Near-Earth-Asteroid Resources". Space Future. Archived from the original on 29 October 2006. Retrieved 8 June 2006.
+
+^ "Asteroid Mining". nova.org. Archived from the original on 13 December 2011. Retrieved 4 December 2011.
+
+^ Covault, Craig (25 April 2012). "Historic Asteroid Mining To Return Space Resources To Global Economy". America Space. Retrieved 30 March 2025.
+
+^ "World Produces 1.05 Billion Tonnes of Steel in 2004, Archived 31 March 2006 at the Wayback Machine", International Iron and Steel Institute, 2005.
+
+^ Lu, Anne (21 April 2015). "Asteroid Mining Could Be The Next Frontier For Resource Mining". International Business Times Australia Edition. Archived from the original on 12 April 2018. Retrieved 27 December 2020.
+
+^ Klotz, Irene (30 April 2012). "Tech billionaires bankroll gold rush to mine asteroids". Reuters. Archived from the original on 2 June 2019. Retrieved 10 July 2021.
+
+^ Suciu, Peter (24 April 2012). "Asteroid Mining Venture Could Change Supply/Demand Ratio On Earth". RedOrbit. Archived from the original on 1 May 2012. Retrieved 28 April 2012.
+
+^ Jump up to: a b Ostro, Steven J.; Sagan, Carl (1998), "Cosmic Collisions and the Longevity of Non-Spacefaring Galactic Civilizations" (PDF), Interplanetary Collision Hazards, Pasadena, California, USA: Jet Propulsion Laboratory – NASA, archived (PDF) from the original on 8 April 2017, retrieved 7 April 2017.
+
+^ Jump up to: a b c d e f g h i j k Lee, Ricky J. (2012). Law and regulation of commercial mining of minerals in outer space. Dordrecht: Springer. doi:10.1007/978-94-007-2039-8. ISBN 978-94-007-2039-8. OCLC 780068323.
+
+^ Howell, Elizabeth (6 May 2015). "Roadmap for Manned Missions to Mars Reaching 'Consensus,' NASA Chief Says". Space.com. Archived from the original on 30 December 2019. Retrieved 1 January 2020. We really are trying to demonstrate we can develop the technologies and the techniques to help commercial companies, entrepreneurs and others get to asteroids and mine them.
+
+^ Webster, Ian. "Asteroid Database and Mining Rankings – Asterank". asterank.com. Archived from the original on 11 February 2020. Retrieved 30 March 2025.
+
+^ "What Factors Influence the Price of Platinum?". suissgold.com. 14 September 2024. Retrieved 1 April 2025.
+
+^ Sonter, M. J. (1 August 1997). "The technical and economic feasibility of mining the near-earth asteroids" (PDF). Acta Astronautica. Developing Business. 41 (4): 637–647. Bibcode:1997AcAau..41..637S. doi:10.1016/S0094-5765(98)00087-3. ISSN 0094-5765. Archived (PDF) from the original on 23 July 2018. Retrieved 26 December 2019.
+
+^ Hein, Andreas M.; Matheson, Robert; Fries, Dan (10 May 2019). "A techno-economic analysis of asteroid mining". Acta Astronautica. 168: 104–115. arXiv:1810.03836. doi:10.1016/j.actaastro.2019.05.009. ISSN 0094-5765. S2CID 53481045.
+
+^ Mandelbaum, Ryan F. (18 February 2018). "Falcon Heavy May Have Drastically Increased the Number of Asteroids We Can Mine". Gizmodo. Archived from the original on 18 February 2018. Retrieved 18 February 2018.
+
+^ "California Public Resources Code Chapter 2. Mining Partnerships [3940 - 3950]". leginfo.legislature.ca.gov. Archived from the original on 17 June 2020. Retrieved 16 June 2020.
+
+^ Tillman, Nola Taylor (15 January 2014). "Potato-Shaped Mars Moon Phobos May be a Captured Asteroid". Space.com.
+
+^ "NASA Continues Psyche Asteroid Mission". Jet Propulsion Laboratory. 28 October 2022.
+
+^ Gough, Evan (21 June 2022). "Could We Use Mars as a Base for Asteroid Mining?". Universe Today. Retrieved 29 March 2025.
+
+^ Taylor, Anthony J.; McDowell, Jonathan C.; Elvis, Martin (2022). "Phobos and Mars orbit as a base for asteroid exploration and mining". Planetary and Space Science. 214 105450. Bibcode:2022P&SS..21405450T. doi:10.1016/j.pss.2022.105450. S2CID 247275237.
+
+^ Carter, Jamie (19 October 2021). "Space Mining: Scientists Discover Two Asteroids Whose Precious Metals Would Exceed Global Reserves". Forbes. Retrieved 29 March 2025.
+
+^ Carter, Jamie (26 October 2020). "Hubble Examines Massive Metal Asteroid Called 'Psyche' That's Worth Way More Than Our Global Economy". Forbes. Retrieved 29 March 2025.
+
+^ "NASA Heads for 'Psyche,' A Mysterious Metallic Asteroid That Could be the Heart of a Dead Planet". Forbes.
+
+^ Weinstein, Leonard M. Space Colonization Using Space-Elevators from Phobos (PDF) (Report). NASA. Retrieved 20 December 2022.
+
+^ "Space Law". United Nations Office for Outer Space Affairs. Archived from the original on 13 September 2016. Retrieved 24 September 2016.
+
+^ "Asteroid mining made legal after passing of 'historic' space bill in US". telegraph.co.uk. 26 November 2015. Archived from the original on 19 February 2018. Retrieved 19 February 2018.
+
+^ Jump up to: a b de Selding, Peter B. (3 February 2016). "Luxembourg to invest in space-based asteroid mining". SpaceNews. Retrieved 19 February 2018. The Luxembourg government on Feb. 3 announced it would seek to jump-start an industrial sector to mine asteroid resources in space by creating regulatory and financial incentives.
+
+^ Jump up to: a b Hutchings, Ethan (18 December 2024). "Navigating the legal landscape of space mining: interpreting international space law". Space News. Retrieved 31 March 2025.
+
+^ Jump up to: a b Wrench, John G. (2019). "Non-Appropriation, No Problem: The Outer Space Treaty Is Ready for Asteroid Mining". Case Western Reserve Journal of International Law. 51 (1). Retrieved 30 March 2025.
+
+^ Ostro, Steven and Sagan, Carl (4 August 1998). "Cambridge Conference Correspondence". uga.edu. Archived from the original on 4 March 2016. Retrieved 24 September 2016.
+
+^ Sagan, Carl; Ostro, Steven J. (7 April 1994). "Dangers of asteroid deflection". Nature. 368 (6471): 501–2. Bibcode:1994Natur.368Q.501S. doi:10.1038/368501a0. PMID 8139682. S2CID 38478106.
+
+^ Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies (Report). United Nations Office for Outer Space Affairs. October 1967. Retrieved 29 March 2025.
+
+^ Jasentuliyana, Nandasiri (1992). Space Law: Development and Scope. Bloomsbury Academic. ISBN 978-0-275-94036-2. Retrieved 29 March 2025.
+
+^ Griffin, Nancy L. (1981). "Americans and the Moon Treaty, 46". J. Air L. & Com. 729. Retrieved 29 March 2025.
+
+^ Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space (Report). United Nations Office for Outer Space Affairs. December 1968. Retrieved 29 March 2025.
+
+^ Convention on International Liability for Damage Caused by Space Objects (Report). United Nations Office for Outer Space Affairs. September 1972. Retrieved 29 March 2025.
+
+^ Convention on Registration of Objects Launched into Outer Space (Report). United Nations Office for Outer Space Affairs. 15 September 1976. Retrieved 29 March 2025.
+
+^ Hobe, Stephan (2007). "Adequacy of the Current Legal and Regulatory Framework Relating to the Extraction and Appropriation of Natural Resources". Annals of Air and Space Law. 32. McGill Institute of Air & Space Law: 115–130.
+
+^ Jump up to: a b "Agreement governing the Activities of States on the Moon and Other Celestial Bodies". United Nations. Archived from the original on 21 October 2016. Retrieved 5 December 2014.
+
+^ Agreement Governing the Activities of States on the Moon and Other Celestial Bodies., Archived 18 November 2019 at the Wayback Machine, Resolution 34/68 Adopted by the General Assembly. 89th plenary meeting; 5 December 1979.
+
+^ Schingler, J. K.; Kapoglou, A. (15 July 2019). "Common Pool Lunar Resources" (PDF). Lunar ISRU 2019: Developing a New Space Economy Through Lunar Resources and Their Utilization. 2152. Columbia, Maryland: 5124. Bibcode:2019LPICo2152.5124S. Archived from the original (PDF) on 25 July 2020.
+
+^ Tronchetti, Fabio (27 March 2017). "Current International Legal Framework Applicability to Space Resource Activities" (PDF). IISL/ECSL Space Law Symposium 2017. Vienna, Austria. Archived from the original (PDF) on 20 October 2020.
+
+^ Beldavs, Vidvuds (15 January 2018). "Simply fix the Moon Treaty". The Space Review. Archived from the original on 6 November 2019.
+
+^ Jump up to: a b Listner, Michael (24 October 2011). "The Moon Treaty: failed international law or waiting in the shadows?". The Space Review. Archived from the original on 15 October 2017. Retrieved 14 October 2017.
+
+^ "Luxembourg plans to pioneer asteroid mining". ABC News. 3 February 2016. Archived from the original on 29 May 2017. Retrieved 8 February 2016. The Government said it planned to create a legal framework for exploiting resources beyond Earth's atmosphere, and said it welcomed private investors and other nations.
+
+^ de Selding, Peter B. (3 June 2016). "Luxembourg invests to become the 'Silicon Valley of space resource mining'". SpaceNews. Retrieved 4 June 2016.
+
+^ "Luxembourg vies to become the Silicon Valley of asteroid mining". CNBC. 16 April 2018. Archived from the original on 22 April 2018. Retrieved 21 April 2018.
+
+^ "A legal framework for space exploration". Official Portal of Grand Duchy of Luxembourg. 13 July 2017. Archived from the original on 14 August 2018.
+
+^ Mallick, Senjuti; Rajagopalan, Rajeswari Pillai (24 January 2019). "If space is 'the province of mankind', who owns its resources?". ORF. Archived from the original on 10 May 2020. Retrieved 10 April 2020.
+
+^ Siddique, Haroon (3 February 2016). "Luxembourg aims to be big player in possible asteroid mining". The Guardian. Retrieved 29 March 2025.
+
+^ Foust, Jeff (13 September 2018). "Luxembourg establishes space agency and new fund". SpaceNews. Retrieved 21 January 2022.
+
+^ Jamasmie, Cecilia (18 November 2020). "Luxembourg to set up Europe space mining centre". mining.com. Retrieved 26 January 2022.
+
+^ Hardy, Michael (29 August 2019). "Luxembourg's Bold Plan to Mine Asteroids for Rare Minerals". wired.com. Retrieved 26 January 2022.
+
+^ H.R.2262 – SPACE Act of 2015 Archived 19 November 2015 at the Wayback Machine, accessed 14 September 2015.
+
+^ Fung, Brian (22 May 2015). "The House just passed a bill about space mining. The future is here". The Washington Post. Archived from the original on 22 November 2015. Retrieved 14 September 2015.
+
+^ Yuhas, Alan. "American 'space pioneers' deserve asteroid rights, Congress says". The Guardian. Archived from the original on 9 December 2016. Retrieved 29 March 2025.
+
+^ Malloy, Mark (26 November 2015). "Asteroid mining made legal after passing of 'historic' space bill in US". telegraph.co.uk. Archived from the original on 19 February 2018.
+
+^ "President Obama Signs Bill Recognizing Asteroid Resource Property Rights into Law". planetaryresources.com. Archived from the original on 26 November 2015. Retrieved 24 September 2016.
+
+^ Foust, Jeff (7 April 2020). "White House looks for international support for space resource rights". Space News. Retrieved 29 March 2025.
+
+^ Trump, Donald J. (6 April 2020). "Executive Order on Encouraging International Support for the Recovery and Use of Space Resources". whitehouse.gov. Archived from the original on 20 January 2021. Retrieved 25 February 2021 – via National Archives.
+
+^ Metzger, Philip (August 2016). "Space Development and Space Science Together, an Historic Opportunity". Space Policy. 37 (2): 77–91. arXiv:1609.00737. Bibcode:2016SpPol..37...77M. doi:10.1016/j.spacepol.2016.08.004. S2CID 118612272.
+
+^ Hein, Andreas Makoto; Saidani, Michael; Tollu, Hortense (2018). Exploring Potential Environmental Benefits of Asteroid Mining. 69th International Astronautical Congress 2018. Bremen, Germany. arXiv:1810.04749.
+
+^ Fleming, Maxwell; Lange, Ian; Shojaeinia, Sayeh; Stuermer, Martin (24 October 2023). "Mining in space could spur sustainable growth". Proceedings of the National Academy of Sciences. 120 (43) e2221345120. Bibcode:2023PNAS..12021345F. doi:10.1073/pnas.2221345120. PMC 10614935. PMID 37844231.
+
+^ Jump up to: a b Dallas, J.A.; Raval, S.; Saydam, S.; Dempster, A.G. (August 2021). "An Environmental Impact Assessment Framework for Space Resource Extraction". Space Policy. 57 101441. Bibcode:2021SpPol..5701441D. doi:10.1016/j.spacepol.2021.101441.
+
+^ Zhang, Jietang (2024). "Analysis the Principle and the State-of-Art Scenarios for Asteroid Detection". Proceedings of the 1st International Conference on Innovations in Applied Mathematics, Physics and Astronomy. SCITEPRESS - Science and Technology Publications. pp. 313–320. doi:10.5220/0013075600004601. ISBN 978-989-758-722-1.
+
+^ "Protecting Space Hardware from Lunar and Martian Dust: The Role of Regolith Simulants". Space Resource Technologies. Retrieved 9 April 2025.
+
+^ Gaier, James R. (1 March 2005). The Effects of Lunar Dust on EVA Systems During the Apollo Missions (Report). NASA. Retrieved 24 May 2025.
+
+^ Westphal, Andrew J.; Stroud, Rhonda M.; Bechtel, Hans A.; Brenker, Frank E.; Butterworth, Anna L.; Flynn, George J.; Frank, David R.; Gainsforth, Zack; Hillier, Jon K.; Postberg, Frank; Simionovici, Alexandre S.; Sterken, Veerle J.; Nittler, Larry R.; Allen, Carlton; Anderson, David (15 August 2014). "Evidence for interstellar origin of seven dust particles collected by the Stardust spacecraft". Science. 345 (6198): 786–791. Bibcode:2014Sci...345..786W. doi:10.1126/science.1252496. hdl:2381/32470. PMID 25124433.
+
+^ Hansen, Korbin; Muniysamy, Sivaperuman; Thangavelautham, Jekan (27 July 2024), "Modified Bucket Wheel Design and Mining Techniques for Asteroid Mining", AIAA AVIATION FORUM AND ASCEND 2024, AIAA Aviation Forum and ASCEND co-located Conference Proceedings, American Institute of Aeronautics and Astronautics, doi:10.2514/6.2024-4892, ISBN 978-1-62410-716-0, retrieved 9 April 2025
+
+^ Mariappan, Amrith; Crassidis, John L. (28 November 2023). "Kessler's syndrome: a challenge to humanity". Frontiers in Space Technologies. 4 1309940. Bibcode:2023FrST....409940M. doi:10.3389/frspt.2023.1309940. ISSN 2673-5075.
+
+^ "ESA Space Environment Report 2024". www.esa.int. Retrieved 9 April 2025.
+
+^ Barron, Mace G.; Vivian, Deborah N.; Heintz, Ron A.; Yim, Un Hyuk (2 June 2020). "Long-Term Ecological Impacts from Oil Spills: Comparison of Exxon Valdez, Hebei Spirit, and Deepwater Horizon". Environmental Science & Technology. 54 (11): 6456–6467. Bibcode:2020EnST...54.6456B. doi:10.1021/acs.est.9b05020. ISSN 0013-936X. PMC 7397809. PMID 32267150.
+
+^ Klinger, Julie Michelle (15 January 2018). Rare Earth Frontiers: From Terrestrial Subsoils to Lunar Landscapes. Cornell University Press. ISBN 978-1-5017-1461-0.
+
+^ "Science of Psyche: Unique Asteroid Holds Clues to Early Solar System". NASA Jet Propulsion Laboratory (JPL). Retrieved 9 April 2025.
+
+^ Genge, Matthew J.; Almeida, Natasha; Van Ginneken, Matthias; Pinault, Lewis; Preston, Louisa J.; Wozniakiewicz, Penelope J.; Yano, Hajime (2025). "Rapid colonization of a space-returned Ryugu sample by terrestrial microorganisms". Meteoritics & Planetary Science. 60 (1): 64–73. Bibcode:2025M&PS...60...64G. doi:10.1111/maps.14288. ISSN 1945-5100.
+
+^ Radicella, Sandro M.; Nava, Bruno (1 January 2020), Materassi, Massimo; Forte, Biagio; Coster, Anthea J.; Skone, Susan (eds.), "Chapter 6 - Empirical ionospheric models", The Dynamical Ionosphere, Elsevier, pp. 39–53, doi:10.1016/b978-0-12-814782-5.00006-6, ISBN 978-0-12-814782-5, retrieved 9 April 2025
+
+^ "Defense Technical Information Center". apps.dtic.mil. Archived from the original on 25 June 2024. Retrieved 9 April 2025.
+
+^ Kumi, Samuel; Addo-Fordjour, Patrick; Fei-Baffoe, Bernard; Adjapong, Abena Owusu; Asamoah, Francis Boafo (March 2024). "Dynamic influence of mining-induced land use land cover changes on avifauna community over a mining landscape, Ghana". Trees, Forests and People. 15 100515. Bibcode:2024TFP....1500515K. doi:10.1016/j.tfp.2024.100515.
+
+^ Döring, Christopher; Esposito, P. (2020). "Business model for outer space mineral mining missions". www.semanticscholar.org. S2CID 251983963. Retrieved 9 April 2025.
+
+^ "FAQ 2.1 - AR4 WGI Chapter 2: Changes in Atmospheric Constituents and in Radiative Forcing". archive.ipcc.ch. Retrieved 9 April 2025.
+
+^ Dieminger, Walter; Hartmann, Gerd K.; Leitinger, Reinhart (1996), Dieminger, Walter; Hartmann, Gerd K.; Leitinger, Reinhart (eds.), "Pollution of the Upper Atmosphere", The Upper Atmosphere, Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 153–168, doi:10.1007/978-3-642-78717-1_6, ISBN 978-3-642-78719-5, retrieved 9 April 2025
+
+^ "In Depth | OSIRIS-REx". NASA Solar System Exploration. 7 March 2023. Retrieved 24 September 2023.
+
+^ Shekhtman, Lonnie (24 September 2023). "OSIRIS-REx Spacecraft Departs for New Mission". Nasa Blogs. Retrieved 24 September 2023.
+
+^ Ridenoure, Rex (17 June 2013). "NEAP: 15 years later". The Space Review. Retrieved 29 March 2025.
+
+^ "SpaceDev Sells Ride to Asteroid". nasa jpl. 20 July 1999. Archived from the original on 23 January 2000.
+
+^ "NEAP". Encyclopedia Astronautica. Archived from the original on 26 February 2012. Retrieved 11 February 2012.
+
+^ Beatty, J. Kelly (11 November 2011). "Phobos-Grunt's Sad Fate". Sky & Telescope. Retrieved 30 March 2025.
+
+^ Robotic Asteroid Prospector (RAP) Staged from L-1: Start of the Deep Space Economy, Archived 21 February 2014 at the Wayback Machine. nasa.gov, accessed 2012-09-11.
+
+^ Foust, Jeff (28 April 2018). "NASA emphasizes commercial lunar lander plans with Resource Prospector cancellation". SpaceNews. Retrieved 30 March 2025.
+
+^ "Current ISDC 2013 Speakers". nss.org. August 2018. Archived from the original on 22 September 2013. Retrieved 3 February 2014.
+
+^ Doyle, Tiernan P. (17 July 2024). "NASA Ends VIPER Project, Continues Moon Exploration". NASA. Retrieved 29 March 2025.
+
+^ Berger, Eric (31 May 2022). "AstroForge aims to succeed where other asteroid mining companies have failed". Ars Technica. Retrieved 6 April 2024.
+
+^ Talbert, Tricia (11 June 2021). "NASA Approves Asteroid Hunting Space Telescope to Continue Development". NASA. Retrieved 11 June 2021. This article incorporates text from this source, which is in the public domain.
+
+^ Foust, Jeff (7 December 2022). "NASA confirms NEO Surveyor for 2028 launch". SpaceNews. Retrieved 8 December 2022.
+
+^ Foust, Jeff (20 June 2017). "B612 studying smallsat missions to search for near Earth objects". Space News. Retrieved 29 March 2025.
+
+^ "Asteroid Institute Unveils Rapid Online Precovery Tool For Searching Multiple Astronomical Datasets in Minutes". Space News. 3 August 2023. Retrieved 5 April 2025.
+
+^ Novak, Matt (18 November 2014). "Asteroid mining's peculiar past". BBC. Retrieved 29 March 2025.
+
+^ Serviss, Garrett P. Edison's Conquest of Mars. Project Gutenberg. Archived from the original on 12 October 2011..
+
+^ Wheeler, Mac (29 May 2024). "7 Best Games With Space Mining, Ranked". gamerant.com. Retrieved 29 March 2025.
+
+Quotations from Wikiquote
+
+Textbooks from Wikibooks
+
+Resources from Wikiversity
+
+Michael Booth: The Future of Space Mining (21 December 1995)
+
+Mann, Adam (5 October 2011). "The Plan to Bring an Asteroid to Earth". wired.com.
+
+Blair, Brad R. (2000). "The Role of Near-Earth Asteroids in Long-Term Platinum Supply" (PDF). Space Resources Roundtable II. 1 (1070): 5. Bibcode:2000srrt.conf....5B. Archived from the original (PDF) on 12 December 2011. Retrieved 8 October 2016.
+
+Video Beyond Earth – NEO Destinations, NewSpace Conference of the Space Frontier Foundation, 7 Aug 2011
+
+Video Moon, Mars, Asteroids – Where to Go First for Resources? Space manufacturing Conference of the Space Studies Institute, October 2010
+
+Video Moving An Asteroid, California Institute of Technology, Workshop Public Lecture Panel, September 2011
+
+Video Asteroid Mining – The Market Problem and Radical Solution, November 2013
+
+Physical characteristics dynamic method
+
+Gravitational keyhole
+
+Palomar–Leiden survey
+
+Trojans Venus trojan Earth trojans Mars trojans Jupiter trojans Saturn trojan Uranus trojans Neptune trojans
+
+Interior to Earth Vulcanoids Mercury-crossers Venus-crossers
+
+Near-Earth Aten Amor Apollo Atira Earth-crossers
+
+Between Earth and the main belt Mars crossers
+
+Asteroid belt Kirkwood gap Active asteroids
+
+Outer Solar System, does not include distant minor planets Jupiter-crossers Saturn-crossers Uranus-crossers Neptune-crossers
+
+C-group B-type F-type G-type C-type
+
+X-group M-type E-type P-type
+
+small classes A-type D-type J-type T-type Q-type R-type V-type
+
+C-group B-type C-type Cg Ch Cgh Cb
+
+S-group A-type Q-type R-type K-type L-type S-type Sa Sq Sr Sk Sl
+
+X-group X-type Xe Xc Xk
+
+small types T-type D-type Ld-type O-type V-type
+
+Asteroids visited by spacecraft
+
+Discovering observatories
+
+Asteroids in astrology
+
+Occultations by asteroids
+
+Terrestrials Mercury Venus Earth Mars
+
+Giants Gas Jupiter Saturn Ice Uranus Neptune
+
+Dwarfs Ceres Orcus Pluto Haumea Quaoar Makemake Gonggong Eris Sedna
+
+Large Minor Planets Salacia Varuna Ixion List
+
+Jupiter Ganymede Callisto Io Europa all 97
+
+Saturn Titan Rhea Iapetus Dione Tethys Enceladus Mimas Hyperion Phoebe all 274
+
+Uranus Titania Oberon Umbriel Ariel Miranda all 29
+
+Neptune Triton Proteus Nereid all 16
+
+Pluto Charon Nix Hydra Kerberos Styx
+
+Haumea Hiʻiaka Namaka
+
+Makemake S/2015 (136472) 1
+
+Discovery astronomy historical models timeline
+
+Space probes timeline list
+
+Human spaceflight space stations list programs
+
+Possible dwarf planets
+
+Gravitationally rounded objects
+
+Solar System objects by size by discovery date
+
+Interstellar and circumstellar molecules
+
+Planetary Jovian Saturnian (Rhean?) Uranian Neptunian
+
+Minor objects' Charikloan Chironean Haumean Quaoarian
+
+Accretion disk Excretion
+
+Capture theory Capture of Triton
+
+Circumstellar envelope
+
+Co-orbital configuration Trojan moons Co-orbital moons
+
+Extraterrestrial materials Curation Sample-return mission
+
+Sample-return mission
+
+Giant-impact hypothesis
+
+Grand tack hypothesis
+
+Gravitational collapse
+
+Interplanetary dust cloud
+
+Interplanetary medium/space
+
+Late Heavy Bombardment
+
+Nice model Nice 2 model Five-planet Nice model
+
+Five-planet Nice model
+
+Oort cloud Oort limit
+
+Planet Disrupted Migration System Planetesimal Formation Merging stars Protoplanetary disk
+
+Formation Merging stars
+
+Roche limit vs. Hill sphere
+
+Asteroids Ceres Vesta Pallas Hygiea active List families PHA exceptional Kirkwood gap
+
+Minor planets names and meanings moons
+
+Planetary orbit-crossers Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune
+
+Trojans Venus Earth Mars Jupiter Trojan camp Greek camp Saturn Uranus Neptune
+
+Jupiter Trojan camp Greek camp
+
+Near-Earth objects NEAs
+
+Trans-Neptunian objects Kuiper belt Cubewanos Plutinos Detached objects Sednoids Scattered disc Hills cloud Oort cloud Oort limit
+
+Kuiper belt Cubewanos Plutinos
+
+Oort cloud Oort limit
+
+Outline of the Solar System
+
+Earth sciences portal
+
+Solar System → Local Interstellar Cloud → Local Bubble → Gould Belt → Orion Arm → Milky Way → Milky Way subgroup → Local Group → Local Sheet → Local Volume → Virgo Supercluster → Laniakea Supercluster → Pisces–Cetus Supercluster Complex → Local Hole → Observable universe → UniverseEach arrow (→) may be read as "within" or "part of".
+
+Psychology Psychological and sociological effects
+
+Psychological and sociological effects
+
+Animals Cats Cockroaches Dogs Frogs Fruit flies Mice Primates Tardigrades Tortoises
+
+Extraterrestrial life
+
+Archaeology of Earth of items in space
+
+Food Carbonated drinks
+
+Power Batteries Nuclear Solar for Earth for spacecraft
+
+Solar for Earth for spacecraft
+
+Interplanetary spaceflight
+
+Planetary habitability
+
+Solar System Mercury Venus Mars Asteroids mining Moon Titan Trans-Neptunian objects
+
+Trans-Neptunian objects
+
+National Space Society
+
+The Planetary Society
+
+Space traffic management
+
+Space debris management Space Debris Working Group Space Debris Committee
+
+Space Debris Working Group
+
+Space Debris Committee
+
+Planetary protection principle
+
+Post-detection policy
+
+Asteroid impact Prediction Avoidance Spaceguard The Spaceguard Foundation
+
+Spaceguard The Spaceguard Foundation
+
+The Spaceguard Foundation
+
+Cold War Space Race Sputnik crisis Timeline
+
+Billionaire space race
+
+Two Bombs, One Satellite doctrine (1966–1976)
+
+Shuguang program (1966–1972)
+
+Chinese ASAT program (1964–) 2007 test
+
+Project 921 (1992–) Shenzhou program Tiangong program Space station
+
+Chinese Lunar Exploration Program (2003–)
+
+Mars and beyond Planetary Exploration of China (2016–) MARS-500 study
+
+Planetary Exploration of China (2016–)
+
+European Launcher Development Organisation (1960–1975) Europa launcher programme (1962–1973)
+
+Europa launcher programme (1962–1973)
+
+European Space Research Organisation (1964–1975)
+
+European Space Agency (1975–) EU/ESA Space Council European Cooperation for Space Standardization European Space Research and Technology Centre Concurrent Design Facility European Astronaut Centre ESA Centre for Earth Observation Living Planet Programme European Centre for Space Applications and Telecommunications European Data Relay System Space Telescope European Coordinating Facility (1983–2010) European Space Astronomy Centre (2005–) European Space Security and Education Centre European Space Operations Centre ESTRACK network Guiana Space Centre Ariane launcher programme (1973–) Vega launcher programme (1998–) European Space Policy Institute Space Situational Awareness Programme Future Launchers Preparatory Programme Intermediate eXperimental Vehicle PRIDE Space Rider ESA Television Mars and beyond Mars Exploration Joint Initiative MARS-500 study Aurora programme ExoMars
+
+European Cooperation for Space Standardization
+
+European Space Research and Technology Centre Concurrent Design Facility
+
+Concurrent Design Facility
+
+European Astronaut Centre
+
+ESA Centre for Earth Observation Living Planet Programme
+
+Living Planet Programme
+
+European Centre for Space Applications and Telecommunications
+
+European Data Relay System
+
+Space Telescope European Coordinating Facility (1983–2010)
+
+European Space Astronomy Centre (2005–)
+
+European Space Security and Education Centre
+
+European Space Operations Centre ESTRACK network
+
+Ariane launcher programme (1973–)
+
+Vega launcher programme (1998–)
+
+European Space Policy Institute
+
+Space Situational Awareness Programme
+
+Future Launchers Preparatory Programme Intermediate eXperimental Vehicle PRIDE Space Rider
+
+Intermediate eXperimental Vehicle
+
+Mars and beyond Mars Exploration Joint Initiative MARS-500 study Aurora programme ExoMars
+
+Mars Exploration Joint Initiative
+
+Cassini–Huygens Huygens
+
+ISS programme Politics
+
+Western European Union Satellite Centre (1992–2002)
+
+EU Satellite Centre (2002–)
+
+EU Commission DG Defence Industry and Space European GNSS Supervisory Authority (2004–2010) European GNSS Agency (2010–2021) EU Agency for the Space Programme (2021–) Galileo programme Copernicus programme EGNOS programme EUSST programme
+
+European GNSS Supervisory Authority (2004–2010)
+
+European GNSS Agency (2010–2021)
+
+EU Agency for the Space Programme (2021–) Galileo programme Copernicus programme EGNOS programme EUSST programme
+
+Body of European Regulators for Electronic Communications
+
+European Union Aviation Safety Agency
+
+European Network of Civil Aviation Safety Investigation Authorities
+
+European Defence Agency
+
+AeroSpace and Defence Industries Association of Europe Eurospace
+
+Council of European Aerospace Societies
+
+European Broadcasting Union
+
+European Civil Aviation Conference
+
+European Committee for Standardization/European Committee for Electrotechnical Standardization
+
+European Conference of Postal and Telecommunications Administrations European Telecommunications Standards Institute
+
+European Telecommunications Standards Institute
+
+European Organisation for Civil Aviation Equipment
+
+European Organisation for the Exploitation of Meteorological Satellites
+
+European Patent Organisation European Patent Office
+
+European Patent Office
+
+European Telecommunications Satellite Organization
+
+European Southern Observatory
+
+Organization for Security and Co-operation in Europe
+
+Indian Human Spaceflight Programme
+
+Space Activities Bill
+
+Indian ASAT programme Mission Shakti
+
+Creation of the British National Committee for Space Research (1958)
+
+Start of the Ariel programme (1962)
+
+Black Arrow launcher (1964–1971)
+
+Creation of the British National Space Centre (1985)
+
+Space Innovation and Growth Team (2009–2010)
+
+Creation of the UK Space Agency (2010)
+
+Strategic Defence and Security Review 2015
+
+Space Industry Act 2018
+
+UK Global Navigation Satellite System (2018–2020)
+
+2021 Integrated Review Defence in a Competitive Age
+
+Defence in a Competitive Age
+
+Operation Paperclip list of scientists
+
+Aerobee rocket program
+
+Establishment of Cape Canaveral
+
+Introduction to Outer Space
+
+1958 NASA Act Space Act Agreement
+
+Cancellation of Man in Space Soonest
+
+Launch of Project Mercury
+
+Launch of X-15 program
+
+Launch of the Mariner program
+
+Launch of the Gemini project
+
+Launch of the Apollo program
+
+"We choose to go to the Moon"
+
+1967 Outer Space Treaty
+
+Extra-Terrestrial Exposure Law
+
+Launch of the Space Shuttle Program
+
+Launch of the Viking program
+
+Citizens' Advisory Council
+
+Strategy of Technology doctrine
+
+Strategic Defense Initiative
+
+Space Station Freedom proposal
+
+1985 anti-satellite missile test
+
+Space Shuttle Challenger disaster
+
+Space Exploration Initiative
+
+1990 Augustine Committee
+
+Hubble Space Telescope
+
+National Space Council
+
+Faster, better, cheaper
+
+Gore–Chernomyrdin Commission
+
+ISS Shuttle–Mir program ISS programme Politics
+
+Shuttle–Mir program
+
+ISS programme Politics
+
+Launch of the Mars Exploration Program
+
+Decadal Planning Team
+
+Launch of the X-37 program
+
+Aerospace Industry Commission
+
+2002 National missile defense directive
+
+Space Shuttle Columbia disaster
+
+Vision for Space Exploration
+
+Launch of the Constellation program
+
+Operation Burnt Frost
+
+2009 Augustine Committee
+
+Kennedy Space Center speech
+
+Cancellation of the Constellation program
+
+Launch of the Space Launch System program
+
+Redesign of the Orion program
+
+Mars Exploration Joint Initiative
+
+Space Shuttle retirement
+
+Development of the Commercial Crew Program
+
+Re-establishment of the National Space Council
+
+Creation of the Space Force
+
+Launch of the Artemis program
+
+Launch of the Lunar Gateway project
+
+Executive Order 13959
+
+China exclusion policy of NASA
+
+International Traffic in Arms Regulations
+
+Full-spectrum dominance doctrine
+
+House Committee on Space
+
+NESDIS Office of Space Commerce
+
+Office of Space Commerce
+
+IEEE Aerospace and Electronic Systems Society Antennas & Propagation Society Broadcast Technology Society Geoscience and Remote Sensing Society Vehicular Technology Society
+
+Aerospace and Electronic Systems Society
+
+Antennas & Propagation Society
+
+Broadcast Technology Society
+
+Geoscience and Remote Sensing Society
+
+Vehicular Technology Society
+
+Operation Osoaviakhim (1946) list of scientists
+
+Sputnik program Sputnik crisis (1957)
+
+Sputnik crisis (1957)
+
+Vostok program (1960–1963)
+
+Fractional Orbital Bombardment System (1960–1982)
+
+Soviet crewed lunar programs (1961–1976)
+
+Voskhod program (1964–1966)
+
+Soyuz program (1967–)
+
+Interkosmos (1967–1991)
+
+Salyut program (1971–1986)
+
+Buran program (1974–1993)
+
+Apollo–Soyuz (1975)
+
+Gore–Chernomyrdin Commission
+
+ISS (1993–) Shuttle–Mir program ISS programme Politics
+
+Shuttle–Mir program
+
+Medvedev modernisation programme
+
+2010 Military doctrine
+
+United Rocket and Space Corporation (2013–2015)
+
+2014 Military doctrine
+
+2015 Creation of Roscosmos
+
+Mars MARS-500 study ExoMars
+
+Australian space program
+
+Brazilian space program
+
+Emirati space program
+
+Japanese space program
+
+Lebanese space program
+
+North Korean space program
+
+Pakistani space program Space programme 2040
+
+Philippine space program
+
+South Korean space program
+
+Ugandan space initiatives
+
+International Space Station programme Politics of the International Space Station
+
+Politics of the International Space Station
+
+International Civil Aviation Organization
+
+Office for Outer Space Affairs UN-SPIDER Space Generation Advisory Council
+
+Space Generation Advisory Council
+
+Committee on the Peaceful Uses of Outer Space
+
+General Assembly Fourth Committee
+
+Consultative Committee for Space Data Systems
+
+Committee on Earth Observation Satellites
+
+Committee on Space Research International Planetary Data Alliance
+
+International Planetary Data Alliance
+
+International Cospas-Sarsat Programme
+
+Group on Earth Observations
+
+Global Standards Collaboration
+
+Inter-Agency Space Debris Coordination Committee
+
+International Charter 'Space and Major Disasters'
+
+International Mobile Satellite Organization
+
+International Space Exploration Coordination Group
+
+International Space Station Multilateral Coordination Board
+
+International Telecommunications Satellite Organization
+
+Orbital Debris Co-ordination Working Group
+
+Regional African Satellite Communication Organization
+
+Arab Satellite Communications Organization
+
+Asia-Pacific Space Cooperation Organization
+
+Partial Test Ban Treaty (1963)
+
+Outer Space Treaty (1967)
+
+Rescue Agreement (1968)
+
+Space Liability Convention (1972)
+
+US-USSR Cooperation Agreement (1972)
+
+Satellite Convention (1974)
+
+Registration Convention (1975)
+
+Bogota Declaration (1976)
+
+Prevention of an Arms Race in Outer Space (1981)
+
+International Cospas-Sarsat Programme Agreement (1988)
+
+International Space Station Intergovernmental Agreement (1998)
+
+International Docking System Standard
+
+International Charter 'Space and Major Disasters' (1999)
+
+Cape Town Treaty, Space Assets protocol (2012)
+
+Artemis Accords (2020)
+
+Common heritage of mankind
+
+Extraterrestrial real estate
+
+Astronomical naming conventions
+
+ITU Radio Regulations
+
+COSPAR standards International Designator IPDA standards
+
+International Designator
+
+Various conventions, treaties, agreements, memorandums, charters or declarations establishing and governing intergovernmental organisations or inter-agency bodies dealing with space affairs
+
+Space industry India Russia United Kingdom United States Private spaceflight Launch market competition
+
+Launch market competition
+
+Space-based economy Space trade Space manufacturing Lunar resources Project Harvest Moon Asteroid mining
+
+Lunar resources Project Harvest Moon
+
+Space forces Australia Brazil Canada China Colombia France Germany Iran AJA IRGC Israel Japan Netherlands New Zealand North Korea Pakistan Russia South Korea Spain Thailand Turkey United Kingdom United States History Structure Vietnam Ranks and insignia
+
+United States History Structure
+
+Space commands France India Italy NATO NORAD United Kingdom United States
+
+Space domain awareness
+
+Anti-satellite weapon China India Russia United States
+
+Reconnaissance satellite
+
+Air & Space Forces Association
+
+Alliance for Space Development National Space Society Space Frontier Foundation Mars Society Moon Society Students for the Exploration and Development of Space
+
+National Space Society
+
+Space Frontier Foundation
+
+Students for the Exploration and Development of Space
+
+Arthur C. Clarke Institute for Modern Technologies
+
+British Interplanetary Society
+
+Coalition for Deep Space Exploration
+
+International Academy of Astronautics
+
+International Astronautical Federation
+
+International Astronomical Union
+
+Lunar Explorers Society
+
+Space Exploration Alliance
+
+Space Force Association
+
+The Planetary Society
+
+CNSA SASTIND CASC CALT CAST CCF CGWIC PLAASF CASIC
+
+CASC CALT CAST CCF CGWIC
+
+ISRO2 Antrix Corp DoS NRSC NSIL DSA
+
+ESA ECSS ESTEC EAC ESRIN ECSAT ESAC ESOC ESTRACK Guiana Space Centre
+
+POLSA2 CBK PAN UKE KRRiT ORO ULC
+
+See also: Timeline of first orbital launches by country
+
+1 Preceded by the Soviet space program
+
+2 Preceded by Interkosmos participation
+
+Space law in the United States
+
+Pages with non-numeric formatnum arguments
+
+Webarchive template wayback links
+
+Articles with short description
+
+Short description is different from Wikidata
+
+Wikipedia articles in need of updating from May 2023
+
+All Wikipedia articles in need of updating
+
+Use dmy dates from March 2025
+
+All articles with unsourced statements
+
+Articles with unsourced statements from October 2025
+
+Pages using multiple image with auto scaled images
+
+All articles that may contain original research
+
+Articles that may contain original research from August 2025
+
+Pages using Sister project links with wikidata namespace mismatch
+
+This page was last edited on 29 October 2025, at 01:20 (UTC).
+
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+Edit preview settings
