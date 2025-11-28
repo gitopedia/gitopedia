@@ -1,4 +1,87 @@
 [
+  {
+    "id": "topic:quantum-computing",
+    "label": "Quantum Computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:qubits",
+    "label": "Qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:superposition",
+    "label": "Superposition",
+    "aliases": []
+  },
+  {
+    "id": "topic:entanglement",
+    "label": "Entanglement",
+    "aliases": []
+  },
+  {
+    "id": "topic:di-vincenzo-criteria",
+    "label": "Di Vincenzo criteria",
+    "aliases": []
+  },
+  {
+    "id": "topic:shor's-algorithm",
+    "label": "Shor's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:grover's-algorithm",
+    "label": "Grover's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:hhl-algorithm",
+    "label": "HHL algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:qaoa",
+    "label": "QAOA",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-quantum-cryptography",
+    "label": "Post-quantum cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-key-distribution-(qkd)",
+    "label": "Quantum key distribution (QKD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-qubits",
+    "label": "Superconducting qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:trapped-ions",
+    "label": "Trapped ions",
+    "aliases": []
+  },
+  {
+    "id": "topic:photonic-qubits",
+    "label": "Photonic qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-qubits",
+    "label": "Topological qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocelot-chip",
+    "label": "Ocelot chip",
+    "aliases": []
+  },
+  {
+    "id": "topic:computer-science",
+    "label": "Computer Science",
+    "aliases": []
+  }
 ]
-
-
