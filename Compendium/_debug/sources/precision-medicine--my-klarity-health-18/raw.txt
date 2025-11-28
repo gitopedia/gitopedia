@@ -1,0 +1,65 @@
+BSc Human Biology, University of Glasgow
+
+Precision medicine considers genetic variability, environment, and lifestyle to develop precise approaches for disease treatment and prevention. It aims to predict the most effective strategies for individual patients.
+
+Precision medicine, also known as P4 medicine (predictive, preventive, personalised, and participatory), marks a transition from traditional one-size-fits-all healthcare to more personalised, data-driven approaches. It leverages information about an individual's genes, environment, and lifestyle to develop treatment plans specifically tailored to their unique characteristics.
+
+Recognising the diversity among individuals, precision medicine aims to provide the right treatments to each patient precisely when they need them, enhancing the efficacy of healthcare delivery. In oncology, precision medicine is increasingly utilised, serving as a practical example of its application in healthcare.
+
+This article provides an overview of precision medicine, particularly focusing on precision oncology. It discusses current challenges, future directions and the role of AI in advancing precision medicine.
+
+What is precision oncology?
+
+In most medical care systems, cancers are typically classified based on their origin in specific tissues or body parts, such as breast, colon, lung, and pancreas. However, a significant shift is occurring. Researchers are currently pinpointing the molecular signatures of different cancers, refining their classifications into more precise types and subtypes. They're also discovering that cancers from different body parts can share common molecular traits. This new approach marks an exciting phase in cancer research known as precision oncology, where doctors personalise treatments based on the DNA signature of each patient's tumour.
+
+The concept gained traction in 1998 when researchers successfully targeted a genetic abnormality in chronic myeloid leukaemia with a drug called imatinib. This led to significant improvements in patients' health. A few years later, the human genome was first completely sequenced, opening doors to understanding cancer on a genetic level.
+
+In the early 2000s, sequencing technology and costs improved rapidly, especially with the introduction of NGS (Next-Generation Sequencing) on formalin-fixed, paraffin-embedded tissue. This approach allows for the quick and affordable analysis of multiple genes at once.
+
+Precision oncology operates on the principle that certain genetic mutations fuel cancer growth. By pinpointing these mutations, doctors can choose treatments that specifically target them.
+
+However, despite the promise of precision medicine, its implementation has faced challenges. While many patients have genetic mutations that treatments have the potential to target, only a small fraction receive such therapies, usually in clinical trials. Additionally, there's variability in how doctors interpret genetic test results and select treatments based on them. Despite these challenges, precision medicine continues to hold promise for improving cancer treatment outcomes.1
+
+In breast cancer treatment, a notable example of precision oncology is found in the use of trastuzumab. This therapy targets the overexpression of the HER2 protein (HER2+), thereby inhibiting tumour growth. A recent clinical study has shown promising results, with 89% of patients with early-stage HER2+ breast cancer treated with adjuvant trastuzumab achieving disease-free status after 4 years.2 Furthermore, various molecular diagnostic tools are routinely utilised in breast cancer treatment to determine a patient's response to chemotherapy or immunotherapy.
+
+What does the future hold for cancer treatment?
+
+Analysing DNA in normal cells and tumour cells is a standard practice in precision oncology, facilitating the categorisation of tumours based on genetic alterations and guiding treatment selection. While significant advancements have been made in cancers such as lung and breast cancer, effective biomarkers and therapies for pancreatic cancer remain elusive. Pancreatic tumours grow in a complex environment surrounded by various types of cells. Experts agree that addressing the intricate interplay between the tumour environment and cancer cells directly is crucial for improving outcomes in pancreatic cancer treatment.
+
+Due to the complexity of certain tumours and the challenges in treatments, researchers are exploring new ways to better understand this disease. This included omics approaches such as genomics, transcriptomics, proteomics, pharmacogenomics and more.
+
+Transcriptomics, a method of studying gene activity, shows promise in generating detailed tumour profiles. Single-cell RNA sequencing, in particular, has provided clinically relevant insights into both tumour and surrounding tissue components. By combining this data with clinical outcomes, researchers aim to further understand pancreatic cancer, find new treatment targets, and create more personalised treatment plans.
+
+Proteomic methods, which study proteins in cells, are helping to improve our understanding of cancer. Unlike genetic or RNA-based approaches, these methods directly examine the proteins present in tumours. Some studies suggest that they may exceed other methods in predicting treatment responses. However, their clinical use requires more testing in real patient data.
+
+Alongside proteomics, pharmacogenomics contributes to a thorough understanding of tumour profiles. Pharmacogenomics is a key part of precision oncology, blending pharmacology and genetics to understand how a person's genes influence their response to medication. By leveraging advanced drug screening methods and an abundance of pharmacological data alongside various omics data,researchers have been able to uncover genetic biomarkers linked to treatment effectiveness. However, despite notable progress in genomics-based drug sensitivity analysis, the practical application of genomic profiling to tailor drug selection remains limited.
+
+Advancements in technology and sharing data can make molecular testing easier and faster. This means patients can get more accurate diagnoses and treatment plans tailored specifically to them.3,4
+
+AI advances in precision medicine and cancer diagnosis
+
+Artificial intelligence (AI) is increasingly transforming cancer research and personalised medical care.
+
+Scientists have trained a computer program to analyse tissue samples on slides and identify two common types of lung cancer: adenocarcinoma, comprising about 40% of cases, and squamous cell carcinoma, accounting for roughly 25% to 30%. Through a process called machine learning, the program achieves 97% accuracy. Furthermore, it can identify the ten most common genetic mutations associated with cancer and predict six of these mutations solely by examining images of cancerous tissue. This system operates using artificial intelligence (AI), similar to the technology used for recognising faces, animals, and objects in photos. The program teaches itself to get better at its job, which in this case is classifying cancer specimens.
+
+Over 1,600 slides of lung tissue, sourced from the Cancer Genome Atlas (TCGA), were used to train the program. This research, led by scientists at New York University's Langone Medical Center and published in September 2017 in Nature Medicine, sheds light on how machine learning can aid in cancer diagnosis and understanding.
+
+In a separate study, researchers used machine learning to retrospectively identify various factors that might explain why immunotherapy works for certain individuals.5
+
+AI-driven precision medicine have potential to greatly affect doctors, healthcare systems, and patients. However, challenges arise in ensuring the privacy and security of patient data as well as addressing data bias.6
+
+Precision medicine tailors disease treatments based on genetics, environment, and lifestyle to improve patient outcomes and cost-effectiveness. Precision oncology exemplifies this approach, personalising cancer treatments by targeting molecular signatures of tumours. Challenges include limited access to targeted therapies and variability in interpreting genetic test results.
+
+Transcriptomics, especially single-cell RNA sequencing, offers insights into tumour biology and aids in developing tailored treatment plans. Proteomic methods, which directly examine tumour proteins, show promise in predicting treatment responses. Similarly, pharmacogenomics holds the potential for anticipating how individuals will respond to treatments. The fusion of AI and precision medicine promises to transform health care.
+
+Schwartzberg L, Kim ES, Liu D, Schrag D. Precision oncology: who, how, what, when, and when not? Am Soc Clin Oncol Educ Book. 2017;37:160–9.
+
+Earl HM, Hiller L, Vallier AL, Loi S, McAdam K, Hughes-Davies L, et al. 6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (Persephone): 4-year disease-free survival results of a randomised phase 3 non-inferiority trial. Lancet. 2019 Jun 29;393(10191):2599–612.
+
+Rulten SL, Grose RP, Gatz SA, Jones JL, Cameron AJM. The future of precision oncology. Int J Mol Sci. 2023 Aug 9 ;24(16):12613. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454858/
+
+Dawood M, Vu QD, Young LS, Branson K, Jones L, Rajpoot N, et al. Cancer drug sensitivity prediction from routine histology images. npj Precis Onc [Internet]. 2024 Jan 6;8(1):1–13. Available from: https://www.nature.com/articles/s41698-023-00491-9
+
+Seyhan AA, Carini C. Are innovation and new technologies in precision medicine paving a new era in patients centric care? J Transl Med. 2019 Apr 5;17(1):114.
+
+Johnson KB, Wei W, Weeraratne D, Frisse ME, Misulis K, Rhee K, et al. Precision medicine, ai, and the future of personalized health care. Clin Transl Sci. 2021 Jan;14(1):86–93. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7877825/
