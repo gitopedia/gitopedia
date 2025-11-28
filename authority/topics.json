@@ -1,4 +1,42 @@
 [
+  {
+    "id": "topic:genomic-and-personalized-medic",
+    "label": "Genomic and Personalized Medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology",
+    "label": "Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai",
+    "label": "AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:genomics",
+    "label": "Genomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:healthcare",
+    "label": "Healthcare",
+    "aliases": []
+  },
+  {
+    "id": "topic:personalized-medicine",
+    "label": "Personalized Medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:personalized-medicine-and-geno",
+    "label": "Personalized Medicine and Genomics",
+    "aliases": []
+  }
 ]
-
-
