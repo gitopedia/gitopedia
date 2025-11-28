@@ -1,4 +1,27 @@
 [
+  {
+    "id": "org:spacex",
+    "label": "SpaceX",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa",
+    "label": "NASA",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-society",
+    "label": "Mars Society",
+    "aliases": []
+  },
+  {
+    "id": "org:european-space-agency-(esa)",
+    "label": "European Space Agency (ESA)",
+    "aliases": []
+  },
+  {
+    "id": "org:united-arab-emirates’-space-",
+    "label": "United Arab Emirates’ Space Agency",
+    "aliases": []
+  }
 ]
-
-
