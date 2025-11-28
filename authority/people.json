@@ -1,4 +1,22 @@
 [
+  {
+    "id": "person:percival-lowell",
+    "label": "Percival Lowell",
+    "aliases": []
+  },
+  {
+    "id": "person:konstantin-tsiolkovsky",
+    "label": "Konstantin Tsiolkovsky",
+    "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:elon-musk",
+    "label": "Elon Musk",
+    "aliases": []
+  }
 ]
-
-
