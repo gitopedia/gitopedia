@@ -1,0 +1,45 @@
+An official website of the United States government
+
+Here’s how you know
+
+Official websites use .govA .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPSA lock ( Lock Locked padlock icon ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+What is precision medicine?
+
+According to the Precision Medicine Initiative, precision medicine is "an emerging approach for disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person." This approach will allow doctors and researchers to predict more accurately which treatment and prevention strategies for a particular disease will work in which groups of people. It is in contrast to a one-size-fits-all approach, in which disease treatment and prevention strategies are developed for the average person, with less consideration for the differences between individuals.
+
+Although the term "precision medicine" is relatively new, the concept has been a part of healthcare for many years. For example, a person who needs a blood transfusion is not given blood from a randomly selected donor; instead, the donor’s blood type is matched to the recipient to reduce the risk of complications. Although examples can be found in several areas of medicine, the role of precision medicine in day-to-day healthcare is relatively limited. Researchers hope that this approach will expand to many areas of health and healthcare in coming years.
+
+Learn more about precision medicine:
+
+The National Human Genome Research Institute (NHGRI) offers a definition of precision medicine.
+
+The Centers for Disease Control and Prevention (CDC) offers the following information:
+
+Precision Health: Predict and Prevent Disease
+
+Precision Health: Treat and Manage Disease
+
+Topics in the Precision Medicine chapter
+
+What is precision medicine?
+
+What is the difference between precision medicine and personalized medicine? What about pharmacogenomics?
+
+What is the Precision Medicine Initiative?
+
+What are some potential benefits of precision medicine and the Precision Medicine Initiative?
+
+What are some of the challenges facing precision medicine and the Precision Medicine Initiative?
+
+Other chapters in Help Me Understand Genetics
+
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+
+Was this page helpful?
+
+HHS Vulnerability Disclosure
+
+MedlinePlus Connect for EHRs
