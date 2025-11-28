@@ -1,0 +1,355 @@
+---
+id: 01KB66T2KRPKDJ951SE57TNVBA
+title: "Source: The rise of the genome and personalised medicine - PMC"
+url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6297695/"
+type: source
+related_article: "personalized-medicine-and-genomics"
+created: 2025-11-29
+tags: ["Source"]
+summary: "Summarized source material for Personalized Medicine and Genomics"
+model: "code-prefilter"
+language: "en"
+---
+
+# Personalized Medicine and Genomics
+
+- An official website of the United States government
+
+- Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+- Primary site navigation
+
+- View on publisher site
+
+- Permalink PERMALINK Copy
+
+- The rise of the genome and personalised medicine
+
+- Copyright and License information
+
+- Address for correspondence: Dr Helen Brittain, Clinical Genetics, Great Ormond Street Hospital For Children NHS Trust, Level 4, Barclay House, Great Ormond Street, London WC1N 3JH, UK. Email: helen.brittain@genomicsengland.co.uk
+
+- Virtually all medical specialties are impacted by genetic disease.
+- Enhanced understanding of the role of genetics in human disease, coupled with rapid advancement in sequencing technology, is transforming the speed of diagnosis for patients and providing increasing opportunities to tailor management.
+- As set out in the Annual report of the Chief Medical Officer 2016: Generation Genome1 and the recent NHS England board paper Creating a genomic medicine service to lay the foundations to deliver personalised interventions and treatments,2 the increasing ‘mainstreaming’ of genetic testing into routine practice and plans to embed whole genome sequencing in the NHS mean that the profile and importance of genomics is on the rise for many clinicians.
+- This article provides a brief overview of genomics and its current clinical applications, including its contribution to personalised medicine.
+- Physicians will be signposted to key issues that will allow the successful implementation of genomics for rare disease diagnosis and cancer management.
+
+- Keywords: Ethics, genomics, personalised medicine, variant classification and whole genome sequencing
+
+- Genomic approaches offer the capacity to understand the breadth of rare disease and cancer, including those that are exclusively genetic, common diseases with a Mendelian subset, polygenic complex conditions and somatic mosaic conditions
+
+- Genomic approaches offer the capacity to understand the breadth of rare disease and cancer, including those that are exclusively genetic, common diseases with a Mendelian subset, polygenic complex conditions and somatic mosaic conditions
+
+- The applications of personalised medicine are numerous and exciting and are growing, but the evidence base and impact of each intervention requires thorough analysis
+
+- The applications of personalised medicine are numerous and exciting and are growing, but the evidence base and impact of each intervention requires thorough analysis
+
+- Every human genome contains around 3–5 million genetic variants compared with the reference sequence. Caution is therefore required in analysing genomic results and attributing causation for any given variant; expert interpretation, preferably in a multi-disciplinary setting is required
+
+- Every human genome contains around 3–5 million genetic variants compared with the reference sequence. Caution is therefore required in analysing genomic results and attributing causation for any given variant; expert interpretation, preferably in a multi-disciplinary setting is required
+
+- Detailed clinical information, in terms of phenotype and family structure, remains key in interpreting genetic variation
+
+- Detailed clinical information, in terms of phenotype and family structure, remains key in interpreting genetic variation
+
+- It is important that patients and clinicians do not see a negative genomic test result as a ‘clean bill of health’
+
+- It is important that patients and clinicians do not see a negative genomic test result as a ‘clean bill of health’
+
+- Genomic medicine has the capacity to revolutionise the healthcare of an individual with a rare disease or cancer by offering prompt and accurate diagnosis, risk stratification based upon genotype and the capacity for personalised treatments.
+
+- Deciphering the genome
+
+- The human genome comprises in excess of 3 billion DNA base pairs.3 It was first mapped through the Human Genome Project, an extensive international collaboration over 13 years.4 Advances in sequencing technology (known as ‘next generation sequencing’) have enabled a genome to be sequenced within hours, at a fraction of the initial cost,5 resulting in widespread application for diagnosis and research.
+- Previously, individual genes were sequenced exon by exon, using capillary electrophoresis (Sanger sequencing).
+- Despite the speed and automation involved in the sequencing itself, considerable input is required in the interpretation of the results, meaning that clinically useful information is typically provided through diagnostic laboratories in 2–12 weeks, depending on clinical urgency.
+- Fig 1 and Table 1 provide an overview and comparison of the approaches using newer sequencing technology: whole genome sequencing (WGS), whole exome sequencing and targeted sequencing of genes via a static ‘panel’.
+
+- An overview of whole genome sequencing (WGS), whole exome sequencing (WES) and static gene panel techniques. Adapted from graphics provided by Genomics England.
+
+- A comparison of whole genome sequencing, whole exome sequencing and static gene panel techniques
+
+- Even coverage enabling identification of dosage abnormalities/ structural rearrangements
+
+- Even coverage enabling identification of dosage abnormalities/ structural rearrangements
+
+- Detects non-coding variants
+
+- Detects non-coding variants
+
+- Potential to detect disorders caused by DNA repeats, including Fragile X, myotonic dystrophy
+
+- Potential to detect disorders caused by DNA repeats, including Fragile X, myotonic dystrophy
+
+- Able to detect mitochondrial mutations
+
+- Able to detect mitochondrial mutations
+
+- Millions of variants, which can be difficult to interpret
+
+- Millions of variants, which can be difficult to interpret
+
+- Relatively shallow sequencing (fewer reads per gene), which can affect sensitivity; however, this is improving as technology advances
+
+- Relatively shallow sequencing (fewer reads per gene), which can affect sensitivity; however, this is improving as technology advances
+
+- Need a clear system to deal with additional findings
+
+- Need a clear system to deal with additional findings
+
+- Analysis not restricted to genes known to cause a given condition
+
+- Analysis not restricted to genes known to cause a given condition
+
+- Fewer variants than WGS so easier to interpret
+
+- Fewer variants than WGS so easier to interpret
+
+- Deep sequencing increases sensitivity
+
+- Deep sequencing increases sensitivity
+
+- Able to detect mitochondrial mutations
+
+- Able to detect mitochondrial mutations
+
+- Less even coverage of the genome, therefore dosage abnormalities are more difficult to detect
+
+- Less even coverage of the genome, therefore dosage abnormalities are more difficult to detect
+
+- Only 1–2% of the genome is covered
+
+- Only 1–2% of the genome is covered
+
+- Need a clear system to deal with additional findings
+
+- Need a clear system to deal with additional findings
+
+- Fewer variants detected so data easier to interpret
+
+- Fewer variants detected so data easier to interpret
+
+- Difficult to add new genes to the panel as they are discovered as this requires a redesign of the capture process
+
+- Difficult to add new genes to the panel as they are discovered as this requires a redesign of the capture process
+
+- Less even coverage of the subset of genes, therefore dosage abnormalities are harder to detect
+
+- Less even coverage of the subset of genes, therefore dosage abnormalities are harder to detect
+
+- Patients do not benefit from additional health findings
+
+- Patients do not benefit from additional health findings
+
+- The genome and rare disease
+
+- There are an estimated 6,000 rare diseases, each defined as affecting less than 1 in 2,000 people.6 In the UK, these cumulatively affect 3.5 million people5 equating to a 1 in 17 lifetime risk. 80% are estimated to have genetic origins.7 These include conditions with a virtually exclusive Mendelian genetic aetiology and rare Mendelian subsets within common disorders (eg familial hypercholesterolaemia).
+- In some disorders, highly targeted genetic testing remains best, for example cystic fibrosis, which is readily identifiable clinically with a single causative gene.
+- In an increasing number of clinical settings, broader-based genetic investigation – such as gene panels, exome sequencing and WGS – is recognised as advantageous, particularly where the phenotype is variable or non-specific and the range of plausibly causative genes is wide.
+- Table 2 gives examples of how patients can benefit from WGS.2 In addition, WGS can detect non-coding variants that disrupt regulatory control of gene expression and potentially uncover novel disease mechanisms.
+
+- Cases reported in the NHS England Board paper demonstrating a benefit from WGS
+
+- Annex A cases from page 8.2
+
+- The genome and cancer
+
+- Cancer is a genetic disease resulting from an accumulation of mutations in a particular tissue (the soma) causing uncontrolled cell division.
+- Sequencing DNA extracted from a tumour constructs a picture of the mutational events and drivers for oncogenesis.
+- These somatic genomic mutations can direct therapy based on likely tumour response.
+
+- Abbosh et al8 outline the potential role in sequencing circulating tumour DNA (ctDNA), which is separate from cellular DNA, to identify tumour recurrence in advance of conventional imaging modalities.
+- This could offer a therapeutic window of opportunity and the potential to identify further mutations within the ctDNA sequence, indicating the development of chemotherapeutic resistance.
+
+- Sequencing an individual’s constitutional DNA (their germline) reveals inherited cancer predisposition syndromes, conferring considerable lifetime risk of malignancy.
+- Many of these are heritable as autosomal dominant traits and may therefore direct treatment choices, as well as surveillance, for family members.
+
+- The genome and common disease
+
+- In time, with access to large genomic datasets, the capacity to understand complex disease predisposition through multiple small-effect genetic variants, coupled with environmental interaction, will evolve.
+- Currently, there are very few clinical settings where testing for such variants alters management.
+
+- Communicating genomics and ethical considerations
+
+- Genomic test results have potential implications for the sequenced individual, their family and future generations. Although there is currently no single accepted approach, it is increasingly becoming standard practice to consider categorising the potential findings:
+
+- pertinent (primary) findings – those related to the original reason for the test, providing a diagnosis.
+
+- pertinent (primary) findings – those related to the original reason for the test, providing a diagnosis.
+
+- additional (secondary) findings – genetic alterations that confer the risk of another, unrelated disease.
+- Conditions with an intervention to reduce the risk of an adverse outcome, including cancer predisposition syndromes with effective screening or surgical approaches, can be sought specifically.
+- The American College of Medical Genetics and Genomics (ACMG) have published guidance on this.9 Patients can choose whether to receive these findings.
+
+- additional (secondary) findings – genetic alterations that confer the risk of another, unrelated disease.
+- Conditions with an intervention to reduce the risk of an adverse outcome, including cancer predisposition syndromes with effective screening or surgical approaches, can be sought specifically.
+- The American College of Medical Genetics and Genomics (ACMG) have published guidance on this.9 Patients can choose whether to receive these findings.
+
+- carrier status – findings of reproductive relevance, where risk of a specific condition is conferred upon future generations.
+
+- carrier status – findings of reproductive relevance, where risk of a specific condition is conferred upon future generations.
+
+- incidental findings – other types of information, for example identification of misattributed paternity.
+- Management of these findings, and consideration of whether it is appropriate to feedback, should be directed by professionals experienced in genetic counselling, considering the context of the sequencing and clinical impact of any results.
+
+- incidental findings – other types of information, for example identification of misattributed paternity.
+- Management of these findings, and consideration of whether it is appropriate to feedback, should be directed by professionals experienced in genetic counselling, considering the context of the sequencing and clinical impact of any results.
+
+- For those who have no clear diagnostic-grade findings from genomic testing, it is important this is not interpreted as a ‘clean bill of health’.
+- The negative predictive value of genomic testing is uncertain in many clinical settings, reflecting the current knowledge base, and would be expected to improve once our understanding of the phenotypic effects of an individual’s genome-wide variation gain precision.
+- Reviewing the phenotype and potential disease mechanisms, and offering research participation, may offer additional opportunities for a genetic diagnosis.
+
+- Interpreting genomic data
+
+- Understanding variation within the human genome, to differentiate ‘normal’ from disease-causing variants, is challenging.
+- Every human genome contains around 3–5 million genetic variants compared with the reference sequence.
+- The vast majority of rare variants in the genome have no link to a patient’s disorder.
+- Positive evidence needs to be sought as to the pathogenicity for any given variant, accompanied by consideration of the phenotype, family structure and inheritance pattern.
+- Therefore, a multidisciplinary approach including clinical scientists and clinicians is recommended.
+- UK diagnostic genetics laboratories are adopting variant classification guidelines from the ACMG.10 Accuracy is vital given the potential harm – not just for the individual, but also family members and perhaps future generations – if an inaccurate diagnosis is made.
+
+- Increasingly, large databases of genomes across different ethnic populations, from sources including GnoMAD11 and the 100,000 genomes project,12 will improve the accuracy of interpretation.
+
+- Health Education England provide a range of courses on genomics, from formal qualifications through to continuing personal and professional development modules (www.genomicseducation.hee.nhs.uk/taught-courses).
+
+- Personalised medicine
+
+- Personalised medicine represents a shift in approach from ‘one-size-fits-all’ to tailored care and targeted therapies.13 The application of new technologies, including genomics, enhances our understanding of disease and its molecular mechanisms, and therefore the capacity for personalised interventions.
+- Increasingly, other testing modalities will contribute, including transcriptomics (RNA-based testing), metabolomics (analysing the metabolites present in an individual) and proteomics (analysing the entire complement of expressed proteins).
+
+- Prediction and prevention of disease
+
+- An important example in prediction and prevention of disease is familial hypercholesterolaemia, where heterozygous gene mutations are expected in 1:500 of the population.14 This confers a high risk of cardiovascular disease and is inherited in an autosomal dominant manner.
+- Risk-reducing treatments have been recommended by the National Institute for Health and Care Excellence (NICE) since 2007 (Table 3).
+- Molecular diagnosis and familial cascade testing by genotype identify those who warrant aggressive lipid-lowering therapy, representing an exciting step towards primary prevention.
+- More families with familial hypercholesterolaemia will be identified through analysis of secondary findings from genomic tests for unrelated conditions.
+
+- Personalised interventions recommended by the National Institute for Health and Care Excellence (NICE) on the basis of genotype
+
+- they have chronic kidney disease stage 2 or 3 at the start of treatment
+
+- they have chronic kidney disease stage 2 or 3 at the start of treatment
+
+- there is evidence of rapidly progressing disease and the company provides it with the discount agreed in the patient access scheme.
+
+- there is evidence of rapidly progressing disease and the company provides it with the discount agreed in the patient access scheme.
+
+- they have had three or more courses of platinum- based chemotherapy and
+
+- they have had three or more courses of platinum- based chemotherapy and
+
+- the drug cost of olaparib for people who remain on treatment after 15 months will be met by the company.
+
+- the drug cost of olaparib for people who remain on treatment after 15 months will be met by the company.
+
+- Compiled from the full list of recommendations downloaded from www.nice.org.uk/about/what-we-do/our-programmes/nice-guidance/nice-technology-appraisal-guidance/summary-of-decisions [Accessed 3 April 2017].
+- Only the most recent recommendation for each technology is outlined in full (others referenced in brackets).
+
+- Targeted therapy based on efficacy
+
+- There are long-standing examples of germline findings, such as BRCA1 and BRCA2 mutations, used in the oncological setting to predict the natural history of disease and enable individualised choice regarding risk-reduction. Increasingly, these results also direct therapeutic strategies.
+
+- The cancer, or somatic, genome can predict therapeutic response through an understanding of the molecular implications of certain mutations.
+- For example, in malignant melanoma, the BRAF V600E mutation is common and results in constitutive activation of downstream signalling pathways,15 leading to cellular proliferation.
+- Vemurafenib, an inhibitor of mutated BRAF, has been shown to improve overall survival and progression-free survival compared with standard therapy,15 leading to its recommendation by NICE.
+- Table 3 summarises all NICE approvals by genotype (germline and somatic).
+
+- Development of new targeted therapies
+
+- A number of conditions have progressed through the cycle of gene discovery, pathogenesis research and development of a novel treatment, leading to clinical trials.
+- One such example is the delineation of FGFR3 signalling pathways and mechanism of reduced bone formation in achondroplasia.
+- This has led to phase III clinical trials for BMN11116 after promising pre-clinical and earlier phase studies,17 which suggest this treatment improves bone growth.
+
+- Pharmacogenetics to minimise the risk of adverse events
+
+- Genetic variation is already used to predict treatment response or adverse effects across a number of clinical areas.
+- An example of this isabacavir treatment in HIV, where genotype can predict the risk of a severe adverse reaction.18 Selection of an alternative anti-retroviral drug in those at risk has been shown to be an effective strategy.
+
+- For effective application of pharmacogenetic testing, the likelihood and severity of the predicted adverse outcome must be balanced against the risk of avoiding use of an effective drug.
+- In many cases further research is required to inform these decisions.
+- The Clinical Pharmacogenomics Implementation Consortium19 (CPIC) are collating and curating such evidence, in a standardised format to assist with this.
+
+- Health economics impact
+
+- Individual benefits are clear regarding many of the applications described in this article.
+- However, there are cost implications in identifying and testing the at-risk individual or population.
+- Therefore, another essential component in the required evidence base is health economic analysis.
+- This varies by condition, intervention and outcome; Peters et al provide an overview of the considerations in the case of monogenic diabetes.19
+
+- Technological advances and the dramatically reduced costs of DNA sequencing have resulted in increasing ‘mainstreaming’ of genetic testing into routine practice and the prospect of WGS becoming part of NHS diagnostics.
+- Clinicians need to understand the role of genomic medicine in their specialty, in offering prompt and precise diagnosis for patients and in directing management decisions.
+- Detailed clinical information and multidisciplinary input remains vital for variant interpretation.
+
+- The knowledge gained from genomics and personalised medical approaches is exciting.
+- A number of applications are in current practice and these are likely to increase exponentially as WGS becomes embedded in routine patient care.
+- Analysis of the evidence, from a clinical and health economic perspective, is pivotal to the ongoing success of the genomics era.
+
+- Conflicts of interest
+
+- All authors are currently working for Genomics England as part of the 100,000 Genomes Project.
+
+- The authors would like to thank Genomics England for providing a graphic regarding whole genome sequencing that was used to produce Fig 1.
+
+- 1.Davies SC. Annual report of the Chief Medical Officer 2016: Generation Genome. London:: Department of Health; 2017. [Google Scholar]
+
+- 2.NHS England Creating a genomic medicine service to lay the ­foundations to deliver personalised interventions and treatments. Leeds:: NHS England; 2017. [Google Scholar]
+
+- 3.National Human Genome Research Instititue The Human Genome Project completion: frequently asked questions. Bethesday, MD: NHGRI: 2003. www.genome.gov/11006943/human-genome-project-completion-frequently-asked-questions/ [Accessed 15 September 2017] [Google Scholar]
+
+- 4.Lander ES. Linton LM. Birren B, et al. Initial sequencing and ­analysis of the human genome. Nature. 2001;409:860–921. doi: 10.1038/35057062. [DOI] [PubMed] [Google Scholar]
+
+- 5.National Human Genome Research Institute DNA Sequencing costs: data. Bethesda, MD:: NHGRI; 2016. www.genome.gov/sequencingcostsdata/ [Accessed 15 September 2017] [Google Scholar]
+
+- 6.Rare Disease Day What is a rare disease? 2017. www.rarediseaseday.org/article/what-is-a-rare-disease. [Accessed 15 September]
+
+- 7.Department of Health UK strategy for rare diseases. London:: Department of Health; 2013. [Google Scholar]
+
+- 8.Abbosh C. Birkbak NJ. Wilson GA, et al. Phylogenetic ctDNA ­analysis depicts early-stage lung cancer evolution. Nature. 2017;545:446–51. doi: 10.1038/nature22364. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 9.Green RC. Berg JS. Grody WW, et al. ACMG recommendations for reporting of incidental findings in clinical exome and genome sequencing. Genet Med. 2013;15:565–74. doi: 10.1038/gim.2013.73. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.
+- Genet Med. 2015;17:405–23. doi: 10.1038/gim.2015.30. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 11.Genome Aggregation Database gnomAD browser. 2017. http://gnomad.broadinstitute.org/ [Accessed 15 September]
+
+- 12.Genomics England The 100,000 genomes project. www.genomicsengland.co.uk/the-100000-genomes-project/ [Accessed 15 September 2017]
+
+- 13.NHS England Personalised medicine. www.england.nhs.uk/ourwork/qual-clin-lead/personalisedmedicine/ [Accessed 15 September 2017]
+
+- 14.Neil HAW. Hammond T. Huxley R. Matthews DR. Humphries SE. Extent of underdiagnosis of familial hypercholesterolaemia in ­routine practice: prospective registry study. BMJ . 2000;321:148. doi: 10.1136/bmj.321.7254.148. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 15.Chapman PB. Hauschild A. Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med. 2011;364:2507–16. doi: 10.1056/NEJMoa1103782. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- 16.Biomarin Pharmaceuticals Roadmap to a new therapy: understanding achondroplasia and the clinical trial process. London:: Biomarin Pharmaceuticals; 2016. Available online at www.biomarin.com/pdf/BMN111_Infographic_Poster_Web_022516.pdf. [Accessed 15 September 2017] [Google Scholar]
+
+- 17.Fujii T. Komatsu Y. Yasoda A, et al. Circulating C-type natriuretic peptide (CNP) rescues chondrodysplastic CNP knockout mice from their impaired skeletal growth and early death. Endocrinology. 2010;151:4381–8. doi: 10.1210/en.2010-0078. [DOI] [PubMed] [Google Scholar]
+
+- 18.Mallal S. Phillips E. Carosi G, et al. HLA-B*5701 screening for hypersensitivity to abacavir. N Engl J Med. 2008;358:568–79. doi: 10.1056/NEJMoa0706135. [DOI] [PubMed] [Google Scholar]
+
+- 19.Clinical Pharmacogenomics Implementation Consortium. https://cpicpgx.org/ [Accessed 15 September 2017]
+
+- 20.Peters JL. Anderson R. Hyde C. Development of an economic evaluation of diagnostic strategies: the case of monogenic diabetes. BMJ Open. 2013;3:e002905. doi: 10.1136/bmjopen-2013-002905. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Articles from Clinical Medicine are provided here courtesy of Royal College of Physicians
+
+- View on publisher site
+
+- Permalink PERMALINK Copy
+
+- Cited by other articles
+
+- Links to NCBI Databases
+
+- Personalised medicine
+
+- Conflicts of interest
+
+- Format: AMA APA MLA NLM
+
+- National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+- HHS Vulnerability Disclosure
