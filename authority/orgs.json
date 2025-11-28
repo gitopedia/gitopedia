@@ -1,4 +1,27 @@
 [
+  {
+    "id": "org:ibm",
+    "label": "IBM",
+    "aliases": []
+  },
+  {
+    "id": "org:google",
+    "label": "Google",
+    "aliases": []
+  },
+  {
+    "id": "org:rigetti",
+    "label": "Rigetti",
+    "aliases": []
+  },
+  {
+    "id": "org:ionq",
+    "label": "IonQ",
+    "aliases": []
+  },
+  {
+    "id": "org:honeywell",
+    "label": "Honeywell",
+    "aliases": []
+  }
 ]
-
-
