@@ -1,0 +1,405 @@
+# CRISPR Technology
+
+- Search by Sequence Information
+
+- Search by Sequence Terms
+
+- About Search by Sequence
+
+- Search by Sequence performs a nucleotide-nucleotide or protein-translated nucleotide BLAST search against Addgene’s plasmid sequence database. BLAST returns plasmids with similarity to the query sequence.
+
+- Results are sorted by E-value, a statistic from BLAST that describes the significance of a match. Lower values are considered better matches.
+
+- FASTA headers and numbers at the beginning of each line will be removed. The query should only contain DNA characters.
+
+- Enter a distinct sequence that is an important, differentiating feature. For example, the coding region of a gene, instead of the plasmid origin of replication.
+
+- Inspect the percent identity, query coverage, and alignment details to determine if a result match is satisfactory. Visit the corresponding plasmid webpage to view additional details about a matching plasmid.
+
+- If no results are returned: Try a different isoform or region of the desired sequence.
+- Choose a different BLAST database.
+- Try the general “All Addgene Plasmids” (default selection), instead of a specific database, such as “Plant Expression Plasmids” Try selecting a different BLAST algorithm: megablast: Designed for comparing sequences within the same, or closely related, species.
+- Default selection. blastn: Designed for comparing sequences from different species.
+- May return additional results, if exact species match is not required. blastn-short: Optimized for searching with shorter sequences (<= 30 nucleotides) but can still be effective with slightly larger sequences. tblastn: Designed for comparing protein sequences against a translated nucleotide sequence database.
+- Helpful for finding plasmids with codon-optimized sequences. tblastn-fast: A faster version of tblastn that may return results more quickly, but is less sensitive There may not be a match in our database.
+
+- Try a different isoform or region of the desired sequence.
+
+- Choose a different BLAST database. Try the general “All Addgene Plasmids” (default selection), instead of a specific database, such as “Plant Expression Plasmids”
+
+- Try selecting a different BLAST algorithm: megablast: Designed for comparing sequences within the same, or closely related, species.
+- Default selection. blastn: Designed for comparing sequences from different species.
+- May return additional results, if exact species match is not required. blastn-short: Optimized for searching with shorter sequences (<= 30 nucleotides) but can still be effective with slightly larger sequences. tblastn: Designed for comparing protein sequences against a translated nucleotide sequence database.
+- Helpful for finding plasmids with codon-optimized sequences. tblastn-fast: A faster version of tblastn that may return results more quickly, but is less sensitive
+
+- megablast: Designed for comparing sequences within the same, or closely related, species. Default selection.
+
+- blastn: Designed for comparing sequences from different species. May return additional results, if exact species match is not required.
+
+- blastn-short: Optimized for searching with shorter sequences (<= 30 nucleotides) but can still be effective with slightly larger sequences.
+
+- tblastn: Designed for comparing protein sequences against a translated nucleotide sequence database. Helpful for finding plasmids with codon-optimized sequences.
+
+- tblastn-fast: A faster version of tblastn that may return results more quickly, but is less sensitive
+
+- There may not be a match in our database.
+
+- You can adjust the Max Results setting on the results page from 25 to 500. If many sequences share the same top E-value, only a truncated set of equally high-scoring matches will be shown. Set the Max Results to 500 to see more matches.
+
+- Fill out our Suggest a Plasmid form or e-mail help@addgene.org to let us know what we're missing.
+
+- By using search by sequence, you understand that some sequences are subject to our Terms of Access and the restrictions contained therein.
+
+- Search by SequenceNEW
+
+- Enter a sequence to perform a BLAST-based search of Addgene plasmid sequence databases.
+
+- Addgene Website Feedback
+
+- Please note: Your browser does not support the features used on Addgene's website. You may not be able to create an account or request plasmids through this website until you upgrade your browser. Learn more
+
+- Please note: Your browser does not fully support some of the features used on Addgene's website. If you run into any problems registering, depositing, or ordering please contact us at help@addgene.org. Learn more
+
+- Learn about AAV and antibody materials from user‐contributed reports
+
+- Analyze a DNA sequence to see restriction sites and map
+
+- Browse a digital‐only collection of vector backbone information
+
+- Access unparalleled plasmid and sequence data to accelerate your research and fuel groundbreaking discoveries in life sciences and beyond.
+
+- About Our Viral Service
+
+- In-Stock AAV Function Biosensors Chemogenetics Controls Optogenetics Recombinases Engineered Serotypes Caltech Systemic Retrograde University of Florida Eye Panel View all AAV
+
+- University of Florida Eye Panel
+
+- In-Stock Lentivirus Cas9 Pooled CRISPR Libraries Non-CRISPR View all lentivirus
+
+- Pooled CRISPR Libraries
+
+- Genome Editing CRISPR Cre-lox TALENs Zinc Fingers
+
+- Viral Plasmids AAV Adenovirus Lentivirus γ-Retrovirus
+
+- Luminescence Fluorescent Proteins Luciferase
+
+- Chemogenetics & Optogenetics Chemogenetics Optogenetics
+
+- Cloning & Engineering Antibodies Bacterial Expression Empty Backbones Genetic Code Expansion Genome Engineering Tet-Regulated Expression
+
+- Genetic Code Expansion
+
+- Tet-Regulated Expression
+
+- Model Systems Microbes Plants Worm Zebrafish
+
+- Research Fields Cancer COVID-19 Immunology Stem Cells
+
+- Communities Allen Institute for Cell Science View all communities
+
+- Allen Institute for Cell Science
+
+- Available to Industry
+
+- Depositing with Addgene
+
+- Benefits of Depositing Plasmids
+
+- Depositor Testimonials
+
+- Pre-Publication Depositing
+
+- Submit Online Deposit
+
+- Download Deposit Spreadsheet
+
+- Deposit Process Guide
+
+- Deposit Help Center Articles
+
+- Email deposit@addgene.org
+
+- Molecular Biology Basics
+
+- View all Educational Resources
+
+- Recipient Instructions
+
+- Data Hub Learn about AAV and antibody materials from user-contributed reports
+
+- Learn about AAV and antibody materials from user-contributed reports
+
+- Sequence Analyzer Analyze a DNA sequence to see restriction sites and map
+
+- Analyze a DNA sequence to see restriction sites and map
+
+- Vector Database Browse a digital-only collection of vector backbone information
+
+- Browse a digital-only collection of vector backbone information
+
+- Developers Portal Access unparalleled plasmid and sequence data to accelerate your research and fuel groundbreaking discoveries in life sciences and beyond.
+
+- Access unparalleled plasmid and sequence data to accelerate your research and fuel groundbreaking discoveries in life sciences and beyond.
+
+- How do I place an order? Does Addgene accept orders by fax, phone or email?
+
+- What is an MTA/Who is authorized to sign?
+
+- How do I get a quote?
+
+- What do I need to know about the customs and importation process for my country?
+
+- View all Ordering & MTA articles
+
+- Can you help me find a plasmid?
+
+- There is a problem with the plasmid I received.
+
+- My stab did not grow. What do I do?
+
+- What strain of bacteria does my stab contain?
+
+- How can I be notified when a new material becomes available?
+
+- What services does Addgene provide?
+
+- View all Technical Support articles
+
+- How do I prepare and deposit my plasmids?
+
+- Which plasmids should I deposit?
+
+- How can I track requests for my plasmids?
+
+- What are Rewards Points?
+
+- View all Depositing Plasmids articles
+
+- Viral Preps & Antibodies
+
+- What is virus associated DNA, and why do I have to order it?
+
+- What virus titer will I receive?
+
+- View All Viral Preps & Antibodies articles
+
+- View all Plasmid Handling articles
+
+- Resources for your Tech Transfer Office
+
+- Access the Help Center
+
+- View all Help Center articles
+
+- CRISPR History and Development for Genome Engineering
+
+- The CRISPR revolution shows no signs of slowing down.
+- This prokaryotic immune system is especially amenable to genome engineering, offering flexibility and easy multiplexing/scaling.
+- Prokaryotes have long utilized CRISPR as a powerful defensive strategy against viral invaders, and this system is proving to be just as useful (if not more so) for research applications, eclipsing past genome engineering technologies like zinc finger nucleases (ZFNs) and TALENs.
+
+- CRISPR: An Adaptive Immune System
+
+- CRISPR (Clustered Regularly Interspaced Short Palindromic Repeat) sequences were initially discovered in the E. coli genome in 1987, but their function as a safeguard against bacteriophages was not elucidated until 2007.
+- Scientists hypothesized that prokaryotes used CRISPR as part of an adaptive immune system - utilizing various CRISPR-associated (Cas) genes to not only store a record of invading phages but also to destroy the phages upon re-exposure.
+
+- More specifically, specialized Cas proteins snip foreign DNA into small fragments approximately 20 bp in length and paste them into contiguous stretches of DNA known as CRISPR arrays.
+- Separate Cas proteins then express and process the CRISPR loci to generate CRISPR RNAs (crRNAs).
+- Through sequence homology, these crRNAs guide a Cas nuclease to the specified exogenous genetic material, which must also contain a species-specific sequence known as a protospacer adjacent motif (PAM).
+- The CRISPR complex binds to the foreign DNA and cleaves it to destroy the invader (Figure 1).
+
+- Figure 1: An overview of the endogenous Type II bacterial CRISPR system.
+- Within the bacterial genome, a CRISPR array contains many unique protospacer sequences that have homology to foreign DNA.
+- Protospacers are separated by short palindromic repeat sequences. (1) The CRISPR array is transcribed to make the pre-CRISPR RNA (pre-crRNA). (2) The pre-crRNA is processed into individual crRNAs by a special trans-activating crRNA (tracrRNA) with homology to the short palindromic repeat.
+- The tracrRNA helps recruit RNAse III and Cas9 enzymes, which together separate the individual crRNAs. (3) The tracrRNA and Cas9 nuclease form a complex with each individual, unique crRNA. (4) Each crRNA:tracrRNA:Cas9 complex seeks out the DNA sequence complementary to the crRNA.
+- In Type II CRISPR systems, a potential target sequence is only valid if it contains a special Protospacer Adjacent Motif (PAM) directly after where the crRNA would bind. (5) After the complex binds, Cas9 separates the double stranded DNA target and cleaves both strands near the PAM. (6) The crRNA:tracrRNA:Cas9 complex unbinds after the double-strand break.
+
+- CRISPR systems, found in 95% of archaeal and 48% of bacterial genomes, are highly diverse, with varying PAM sequences and number/types of Cas proteins.
+- Makarova et al.’s classification defines 5 types and 16 subtypes based on shared characteristics and evolutionary similarity.
+- These are grouped into two large classes based on the structure of the effector complex that cleaves the genomic DNA.
+- Type II CRISPR was the first system harnessed for genome engineering, with Type V following in 2015.
+
+- Fighting Back: Anti-CRISPR Genes in Phage
+
+- The CRISPR adaptive immune system seems like a winning strategy to ensure prokaryotic survival, but it is not invincible.
+- Bondy-Denomy et al. identified the first set of anti-CRISPR genes in bacteriophages infecting Pseudomonas aeruginosa.
+- Anti-CRISPR genes employ varied mechanisms to block CRISPR.
+- Some prevent the CRISPR-Cas complex from binding to DNA.
+- Others inhibit the recruitment of Cas proteins to the CRISPR-Cas complex.
+- Recently, researchers have begun to use anti-CRISPRs as off-switches for CRISPR genomic editing.
+
+- Genome Engineering Applications
+
+- In 2012, Jinek et al. first demonstrated that CRISPR could be programmed for targeted DNA cleavage in vitro.
+- In 2013, Cong et al. and Mali et al. described CRISPR-based genome editing in mammalian cell culture.
+- Five years later, PubMed lists more than 6,300 CRISPR-related publications, many of which detail work to improve the tool’s specificity, orthogonality, and multiplexibility in various species, as well as the development of new applications.
+
+- The first CRISPR papers described two main categories of genome edits.
+- First, the double-strand break (DSB) induced by Cas9 could be repaired through non-homologous end joining (NHEJ), an error-prone process that produces insertions/deletions disrupting a target gene.
+- On the other hand, if a repair template with homology arms was supplied, the break could be repaired according to this template, allowing for precise gene editing.
+- These edits can include mutations seen in human patients, protein tags, or loxP/FRT sites, among others.
+- Homology-directed repair (HDR) allows us to create a variety of modifications in endogenous loci with unprecedented speed and specificity.
+
+- Figure 2: An overview of CRISPR and NHEJ/HDR. The Cas9/gRNA complex produces a DSB at the target genomic locus. Repair will proceed through NHEJ or HDR depending on the experimental conditions.
+
+- Genome editing with CRISPR is not only simple, but also scalable.
+- Multiple gRNAs targeting multiple loci can be easily expressed in the same cell or organism.
+- The ability to precisely target CRISPR to a given locus makes it especially amenable to genetic screens.
+- Pooled gRNA libraries can be used to identify genes that are important to a given phenotype.
+- Current libraries are available for gene knockout, as well as transcriptional activation or repression.
+- Combined with the power of next-generation sequencing, CRISPR is a robust system for genome-wide screening.
+
+- CRISPR Technological Advances
+
+- CRISPR technology development has occurred at a truly astonishing pace, with work directed towards increasing on-target editing rates and decreasing off-target editing rates. Advances in this area include:
+
+- Nickase mutant: cuts only one strand of DNA and can be used with paired gRNAs to lower off-target cleavage frequency.
+
+- Truncated gRNAs: Truncated gRNAs display less off-target activity.
+
+- High fidelity Cas9s: Three high fidelity Cas9 variants, SpCas9-HF, eSpCas9, and HypaCas9 display very low off-target activity due to rationally designed mutations.
+
+- Researchers have expanded the CRISPR field beyond SpCas9, moving us closer to being able to target every locus in every genome.
+
+- Multiple Cas9 orthologs have also been characterized. Staphylococcus aureus (SaCas9) is smaller than SpCas9 and more easily packaged in AAV. Cas9 orthologs also have distinct PAM sites that do not cross react, allowing multiple Cas9s to be used together.
+
+- Researchers have engineered mutant Cas enzymes with alternative PAM sites.
+
+- Cpf1, another CRISPR nuclease, recognizes a 5’-TTN PAM, improving targeting in AT-rich genomes. Cpf1's small size also makes it suitable for multiplexing and use in AAV.
+
+- Scientists have also developed CRISPR editing technologies that do not rely on NHEJ or HDR:
+
+- Base editors: Base editors directly convert bases without creating a double-strand break. This method displays higher efficiency than HDR-mediated editing. The first base editors converted cytidine to thymidine; newly engineering base editors convert adenosine to guanosine.
+
+- RNA editors: Cas13 fused to the ADAR2 deaminase convert adenosine to inosine on RNA.
+- Inosine is translated as guanosine, so the overall effect is an A->G change.
+- Since this method targets RNA rather than DNA, it does not create permanent genome edits or double-strand breaks.
+- In mammalian cells, Cas13-ADAR2 does not require a specific flanking sequence on the target RNA, making it a very flexible system.
+
+- Scientists have also used the targeting capability of Cas9 to make other types of modifications at specific loci.
+
+- Activate or Repress: dCas9 fused to transcriptional activators or repressors can modulate transcription in a reversible manner.
+
+- Epigenetics: dCas9 fused to epigenetic modifiers can modulate transcriptions and create heritable epigenetic marks.
+
+- Visualize: Fluorescently labeled dCas9 or gRNAs that bind fluorescent proteins can be used to image genomic loci in live cells.
+
+- RNA targeting: Cas13 enzymes target RNA rather than DNA, sometimes requiring a protospacer flanking sequence (PFS). In bacteria, Cas13 targeting also promotes non-specific RNA cleavage, but this non-specific cleavage does not occur in mammalian cells.
+
+- Purify: Epitope-tagged dCas9 can also be used to purify a genomic locus and its associated proteins or RNAs through ChIP (enChIP) or biotin-streptavidin pulldown (CAPTURE.)
+
+- Tag: Multiple methods make it easier to tag endogenous loci with epitope tags or fluorescent markers.
+
+- It’s amazing to see how much progress has been made in just five years, with the skyrocketing popularity of CRISPR echoing that of RNAi and iPS cells.
+- Genome engineers continue to work to develop a highly specific, programmable platform well-suited for various biological and translational technologies.
+- Biotechnology companies are exploring therapeutic applications of CRISPR to treat genetic disease, with the caveat that off-target editing risk must be made very low or nonexistent.
+- Scientists continue to wrestle with the possibility of postnatal and germline editing, with the International Summit of Human Gene Editing convened in 2015 to discuss the ethics associated with CRISPR in agricultural and therapeutic applications.
+
+- Despite the ethical controversies surrounding non-research applications, it’s clear that CRISPR is a truly disruptive technology for basic research. The beauty of CRISPR is that it’s adaptable to almost any model system or biological topic, and you don’t need to be an expert to see results!
+
+- Getting Started with CRISPR
+
+- Addgene has empowered researchers to further develop the CRISPR toolkit by posting lab protocols, providing tips from experts in the field, and enabling access to multiple plasmids used for various platform applications.
+- For more information on CRISPR, check out Addgene’s CRISPR Guide and CRISPR blog posts, or find CRISPR plasmids for your research.
+- Addgene has CRISPR plasmids for the following models:
+
+- Mammalian systems (Human, mouse, and rat)
+
+- Bacteria (E. coli, Streptococcus, Streptomyces, and others)
+
+- Plants (monocots and dicots)
+
+- Yeast (S. cerevisiae and S. pombe)
+
+- Barrangou R, Fremaux C, Deveau H, Richards M, Boyaval P, Moineau S, Romero DA, Horvath P. 2007. CRISPR provides acquired resistance against viruses in prokaryotes. Science. 315(5819):1709-12. PMID: 17379808
+
+- Bondy-Denomy J, Garcia B, Strum S, Du M, Rollins MF, Hidalgo-Reyes Y, Wiedenheft B, Maxwell KL, Davidson AR. 2015. Multiple mechanisms for CRISPR-Cas inhibition by anti-CRISPR proteins. Nature. 526(7571):136-9. PMID: 26416740
+
+- Bondy-Denomy J, Pawluk A, Maxwell KL, Davidson AR. 2013. Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system. Nature. 493(7432):429-32. PMID: 23242138
+
+- Chen B, Gilbert LA, Cimini BA, Schnitzbauer J, Zhang W, Li GW, Park J, Blackburn EH, Weissman JS, Qi LS, Huang B. 2013. Dynamic imaging of genomic loci in living human cells by an optimized CRISPR/Cas system. Cell. 155(7):1479-91. PMID: 24360272
+
+- Chen JS, Dagdas YS, Kleinstiver BP, Welch MM, Sousa AA, Harrington LB, Sternberg SH, Joung JK, Yildiz A, Doudna JA. 2017. Enhanced proofreading governs CRISPR-Cas9 targeting accuracy. Nature. 550(7676):407-410. PMID: 28931002
+
+- Cong L, Ran FA, Cox D, Lin S, Barretto R, Habib N, Hsu PD, Wu X, Jiang W, Marraffini LA, Zhang F. 2013. Multiplex genome engineering using CRISPR/Cas systems. Science. 339 (6121): 819–23. PMID: 23287718
+
+- Dalvai M, Loehr J, Jacquet K, Huard CC, Roques C, Herst P, Côté J, Doyon Y. 2015. A Scalable Genome-Editing-Based Approach for Mapping Multiprotein Complexes in Human Cells. Cell Rep. 13(3):621-33. PMID: 26456817
+
+- Fu Y, Sander JD, Reyon D, Cascio VM, Joung JK. 2014. Improving CRISPR-Cas nuclease specificity using truncated guide RNAs. Nat Biotechnol. 32(3):279-84. PMID: 24463574
+
+- Fujita T, Fujii H. 2013. Efficient isolation of specific genomic regions and identification of associated proteins by engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP) using CRISPR. Biochem Biophys Res Commun. 439(1):132-6. PMID: 23942116
+
+- Gilbert LA, Horlbeck MA, Adamson B, Villalta JE, Chen Y, Whitehead EH, Guimaraes C, Panning B, Ploegh HL, Bassik MC, Qi LS, Kampmann M, Weissman JS. 2014. Genome-Scale CRISPR-Mediated Control of Gene Repression and Activation. Cell. 159(3):647-6. PMID: 25307932
+
+- Gilbert LA, Larson MH, Morsut L, Liu Z, Brar GA, Torres SE, Stern-Ginossar N, Brandman O, Whitehead EH, Doudna JA, Lim WA, Weissman JS, Qi LS. 2013. CRISPR-mediated modular RNA-guided regulation of transcription in eukaryotes. Cell. 154(2):442-51. PMID: 23849981
+
+- Ishino Y, Shinagawa H, Makino K, Amemura M, Nakata A. 1987. Nucleotide sequence of the iap gene, responsible for alkaline phosphatase isozyme conversion in Escherichia coli, and identification of the gene product. J Bacteriol. 169(12):5429-33. PMID: 3316184
+
+- Jinek M, Chylinski K, Fonfara I, Hauer M, Doudna JA, Charpentier E. 2012. A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science. 337(6096):816-21. PMID: 22745249
+
+- Kleinstiver BP, Pattanayak V, Prew MS, Tsai SQ, Nguyen NT, Zheng Z, Joung JK. 2016. High-fidelity CRISPR-Cas9 nucleases with no detectable genome-wide off-target effects. Nature. 529(7587):490-5. PMID: 26735016
+
+- Kleinstiver BP, Prew MS, Tsai SQ, Topkar VV, Nguyen NT, Zheng Z, Gonzales AP, Li Z, Peterson RT, Yeh JR, Aryee MJ, Joung JK. 2015. Engineered CRISPR-Cas9 nucleases with altered PAM specificities. Nature. 523(7561):481-5. PMID: 26098369
+
+- Komor AC, Kim YB, Packer MS, Zuris JA, Liu DR. 2016. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage. Nature. 533(7603):420-4. PMID: 27096365
+
+- Ma H, Naseri A, Reyes-Gutierrez P, Wolfe SA, Zhang S, Pederson T. 2015. Multicolor CRISPR labeling of chromosomal loci in human cells. Proc Natl Acad Sci U S A. 112(10):3002-7. PMID: 25713381
+
+- Ma H, Tu LC, Naseri A, Huisman M, Zhang S, Grunwald D, Pederson T. 2016. Multiplexed labeling of genomic loci with dCas9 and engineered sgRNAs using CRISPRainbow. Nat Biotechnol. . PMID: 27088723
+
+- Makarova KS, Wolf YI, Alkhnbashi OS, Costa F, Shah SA, Saunders SJ, Barrangou R, Brouns SJ, Charpentier E, Haft DH, Horvath P, Moineau S, Mojica FJ, Terns RM, Terns MP, White MF, Yakunin AF, Garrett RA, van der Oost J, Backofen R, Koonin EV. 2015.
+- An updated evolutionary classification of CRISPR-Cas systems.
+- Nat Rev Microbiol. 13(11):722-36.
+
+- Mali P, Yang L, Esvelt KM, Aach J, Guell M, DiCarlo JE, Norville JE, Church GM. 2013. RNA-guided human genome engineering via Cas9. Science. 339(6121):823-6. PMID: 23287722
+
+- Pawluk A, Amrani N, Zhang Y, Garcia B, Hidalgo-Reyes Y, Lee J, Edraki A, Shah M, Sontheimer EJ, Maxwell KL, Davidson AR. 2016. Naturally occurring off-switches for CRISPR-Cas9. Cell. 167(7):1829-1838. PMID: 27984730
+
+- Ran FA, Cong L, Yan WX, Scott DA, Gootenberg JS, Kriz AJ, Zetsche B, Shalem O, Wu X, Makarova KS, Koonin EV, Sharp PA, Zhang F. 2015. In vivo genome editing using Staphylococcus aureus Cas9. Nature. 520(7546):186-91. PMID: 25830891
+
+- Savic D, Partridge EC, Newberry KM, Smith SB, Meadows SK, Roberts BS, Mackiewicz M, Mendenhall EM, Myers RM. 2015. CETCh-seq: CRISPR epitope tagging ChIP-seq of DNA-binding proteins. Genome Res. 25(10):1581-9. PMID: 26355004
+
+- Shalem O, Sanjana NE, Hartenian E, Shi X, Scott DA, Mikkelson T, Heckl D, Ebert BL, Root DE, Doench JG, Zhang F. 2014. Genome-Scale CRISPR-Cas9 Knockout Screening in Human Cells. Science. 343(6166):84-7. PMID: 24336571
+
+- Slaymaker IM, Gao L, Zetsche B, Scott DA, Yan WX, Zhang F. 2016. Rationally engineered Cas9 nucleases with improved specificity. Science. 351(6268):84-8. PMID: 26628643
+
+- Wang T, Wei JJ, Sabatini DM, Lander ES. 2014. Genetic Screens in Human Cells Using the CRISPR/Cas9 System. Science. 343(6166):80-4. PMID: 24336569
+
+- Zetsche B, Gootenberg JS, Abudayyeh OO, Slaymaker IM, Makarova KS, Essletzbichler P, Volz SE, Joung J, van der Oost J, Regev A, Koonin EV, Zhang F. 2015. Cpf1 Is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System. Cell. 163(3):759-71. PMID: 26422227
+
+- Zetsche B, Heidenreich M, Mohanraju P, Fedorova I, Kneppers J, DeGennaro EM, Winblad N, Choudhury SR, Abudayyeh OO, Gootenberg JS, Wu WY, Scott DA, Severinov K, van der Oost J, Zhang F. 2017.
+- Multiplex gene editing by CRISPR-Cpf1 using a single crRNA array.
+
+- Keep up with the latest Addgene news, releases, and more.
+
+- Learn about new materials in the repository and helpful community resources.
+
+- Have questions about your order, deposit, or a material?
+
+- Addgene is a nonprofit plasmid repository.
+
+- We store and distribute high-quality plasmids from your colleagues.
+
+- Mission Leadership Testimonials Sponsors Financial Conflicts of Interest Biosafety Blue Flame Award Careers Industry Customers News & Press Recipient Instructions Technology Transfer
+
+- Financial Conflicts of Interest
+
+- Recipient Instructions
+
+- Help Center Depositing Ordering Technical Resources Viral Service
+
+- Deposit Plasmids Why Deposit with Us Start a Deposit
+
+- General Reagents Antibodies Plasmids Plasmid Kits Pooled Libraries
+
+- Viral Service AAV Lentivirus
+
+- DNA Service Cloning Grade DNA
+
+- Plasmid Collections Chemogenetics CRISPR Empty Backbones Fluorescent Proteins Optogenetics Synthetic Biology Viral Plasmids View All
+
+- Blog eBooks Molecular Biology Basics Podcast Protocols Science Guides Videos View All
+
+- Molecular Biology Basics
+
+- Data Hub Sequence Analyzer Vector Database Developers Portal
