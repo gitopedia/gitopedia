@@ -1,0 +1,243 @@
+AI and Machine Learning
+
+AI Ethics: What It Is, Why It Matters, and More
+
+AI Ethics: What It Is, Why It Matters, and More
+
+AI ethics in technological advancements can help foster a world with less bias and more fairness. Here’s what it is and why it matters.
+
+AI ethics are the moral principles that guide companies toward responsible, fair development and use of AI. As artificial intelligence (AI) becomes increasingly important to society, experts in the field have identified a need for ethical boundaries when creating and implementing new AI tools. Although there's currently no wide-scale governing body to write and enforce these rules, many technology companies have adopted their own version of AI ethics or an AI code of conduct.
+
+In this article, we'll explore what ethics in AI are, why they matter, and some challenges and benefits of developing an AI code of conduct. Afterward, if you'd like to learn more about AI ethics, consider taking IBM's Generative AI Fundamentals Specialization. During this five-course series, you will have an opportunity to explore the ethical issues of AI and responsible AI use in greater detail.
+
+Generative AI Fundamentals
+
+Large Language Modeling, LLM Application, Data Ethics, Deep Learning, Generative AI, Legal Risk, Prompt Patterns, Strategic Leadership, Leadership and Management, Business Ethics, Risking, OpenAI, AI Product Strategy, Business Development, Content Creation, Generative Model Architectures, ChatGPT, Artificial Intelligence and Machine Learning (AI/ML), Responsible AI, Prompt Engineering, Natural Language Processing, Business Transformation, Machine Learning, Socioeconomics, Accountability, Environmental Social And Corporate Governance (ESG), Workforce Development, Ethical Standards And Conduct, Automation, Information Privacy
+
+Generative AI Fundamentals
+
+Unlock and leverage the potential of generative AI. Learn how you can use the capabilities of generative AI to enhance your work and daily life.
+
+49,478 already enrolled
+
+Average time: 1 month(s)
+
+Learn at your own pace
+
+Large Language Modeling, LLM Application, Data Ethics, Deep Learning, Generative AI, Legal Risk, Prompt Patterns, Strategic Leadership, Leadership and Management, Business Ethics, Risking, OpenAI, AI Product Strategy, Business Development, Content Creation, Generative Model Architectures, ChatGPT, Artificial Intelligence and Machine Learning (AI/ML), Responsible AI, Prompt Engineering, Natural Language Processing, Business Transformation, Machine Learning, Socioeconomics, Accountability, Environmental Social And Corporate Governance (ESG), Workforce Development, Ethical Standards And Conduct, Automation, Information Privacy
+
+AI ethics are the set of guiding principles that stakeholders (from engineers to government officials) use to ensure artificial intelligence technology is developed and used responsibly. This means taking a safe, secure, humane, and environmentally friendly approach to AI.
+
+A strong AI code of ethics can include avoiding bias, ensuring privacy of users and their data, and mitigating environmental risks. Codes of ethics in companies and government regulation frameworks are two main ways that AI ethics can be implemented. By covering global and national ethical AI issues, and laying the policy groundwork for ethical AI in companies, both approaches help regulate AI technology.
+
+More broadly, the discussion around AI ethics has progressed from being centered around academic research and non-profit organizations. Today, big tech companies like IBM, Google, and Meta have assembled teams to tackle ethical issues that arise from collecting massive amounts of data. At the same time, government and intergovernmental entities have begun to devise regulations and ethics policy based on academic research.
+
+AI ethics and governance: Stakeholders in AI ethics
+
+Designing ethical principles for responsible AI use and development requires collaboration between industry actors, business leaders, and government representatives. Stakeholders must examine how social, economic, and political issues intersect with AI and determine how machines and humans can coexist harmoniously by limiting potential risks or unintended consequences.
+
+Each of these actors plays an important role in ensuring less bias and risk for AI technologies:
+
+Academics: Researchers and professors are responsible for developing theory-based statistics, research, and ideas that can support governments, corporations, and non-profit organizations.
+
+Academics: Researchers and professors are responsible for developing theory-based statistics, research, and ideas that can support governments, corporations, and non-profit organizations.
+
+Government: Agencies and committees within a government can help facilitate AI ethics in a nation. A good example of this is the Preparing for the Future of Artificial Intelligence report, which was developed by the National Science and Technology Council (NSTC) in 2016. It outlines AI and its relationship to public outreach, regulation, governance, economy, and security.
+
+Government: Agencies and committees within a government can help facilitate AI ethics in a nation. A good example of this is the Preparing for the Future of Artificial Intelligence report, which was developed by the National Science and Technology Council (NSTC) in 2016. It outlines AI and its relationship to public outreach, regulation, governance, economy, and security.
+
+Intergovernmental entities: Entities like the United Nations and the World Bank are responsible for raising awareness and drafting agreements for AI ethics globally. For example, UNESCO’s 193 member states adopted the first-ever global agreement on the Ethics of AI in November 2021 to promote human rights and dignity.
+
+Intergovernmental entities: Entities like the United Nations and the World Bank are responsible for raising awareness and drafting agreements for AI ethics globally. For example, UNESCO’s 193 member states adopted the first-ever global agreement on the Ethics of AI in November 2021 to promote human rights and dignity.
+
+Non-profit organizations: Non-profit organizations like Black in AI and Queer in AI help diverse groups gain representation within AI technology. The Future of Life Institute created 23 guidelines that are now the Asilomar AI Principles, which outline specific risks, challenges, and outcomes for AI technologies.
+
+Non-profit organizations: Non-profit organizations like Black in AI and Queer in AI help diverse groups gain representation within AI technology. The Future of Life Institute created 23 guidelines that are now the Asilomar AI Principles, which outline specific risks, challenges, and outcomes for AI technologies.
+
+Private companies: Executives at Google, Meta, and other tech companies, as well as banking, consulting, health care, and other private sector industries that use AI technology, are responsible for creating ethics teams and codes of conduct. This often sets a standard for companies to follow.
+
+Private companies: Executives at Google, Meta, and other tech companies, as well as banking, consulting, health care, and other private sector industries that use AI technology, are responsible for creating ethics teams and codes of conduct. This often sets a standard for companies to follow.
+
+Artificial Neural Networks, Jupyter, Emergency Response, Predictive Modeling, Machine Learning, Data Ethics, Computer Vision, Climate Change Mitigation, Supervised Learning, Exploratory Data Analysis, Artificial Intelligence, Mitigation, Disaster Recovery, Text Mining, Environmental Monitoring, Applied Machine Learning, Natural Language Processing, Image Analysis, Responsible AI, Data Analysis, Geospatial Information and Technology, Machine Learning Methods, Public Health, Deep Learning, Information Privacy, Forecasting, Environmental Science, Data Processing
+
+Learn AI's role in addressing complex challenges. Build skills combining human and machine intelligence for positive real-world impact using AI
+
+13,469 already enrolled
+
+Average time: 1 month(s)
+
+Learn at your own pace
+
+Artificial Neural Networks, Jupyter, Emergency Response, Predictive Modeling, Machine Learning, Data Ethics, Computer Vision, Climate Change Mitigation, Supervised Learning, Exploratory Data Analysis, Artificial Intelligence, Mitigation, Disaster Recovery, Text Mining, Environmental Monitoring, Applied Machine Learning, Natural Language Processing, Image Analysis, Responsible AI, Data Analysis, Geospatial Information and Technology, Machine Learning Methods, Public Health, Deep Learning, Information Privacy, Forecasting, Environmental Science, Data Processing
+
+Why are AI ethics important?
+
+AI ethics are important because AI technology is meant to augment or replace human intelligence—but when technology is designed to replicate human life, the same issues that can cloud human judgment can seep into the technology.
+
+AI projects built on biased or inaccurate data can have harmful consequences, particularly for underrepresented or marginalized groups and individuals. Further, if AI algorithms and machine learning models are built too hastily, then it can become unmanageable for engineers and product managers to correct learned biases. It's easier to incorporate a code of ethics during the development process to mitigate any future risks.
+
+AI ethics in film and TV
+
+Science fiction—in books, film, and television—has toyed with the notion of ethics in artificial intelligence for a while. In Spike Jonze’s 2013 film Her, a computer user falls in love with his operating system because of her seductive voice. It’s entertaining to imagine the ways in which machines could influence human lives and push the boundaries of “love”, but it also highlights the need for thoughtfulness around these developing systems.
+
+Examples of AI concerns
+
+It may be easiest to illustrate the ethics of artificial intelligence with real-life examples. In December 2022, the app Lensa AI used artificial intelligence to generate cool, cartoon-looking profile photos from people’s regular images. From an ethical standpoint, some people criticized the app for not giving credit or enough money to artists who created the original digital art on which the AI was trained [1]. According to The Washington Post, Lensa was being trained on billions of photographs sourced from the internet without consent [2].
+
+Another example is the AI model ChatGPT, which enables users to produce original content by asking questions. ChatGPT is trained on data from the internet and can answer a question in a variety of ways, whether it be a poem, Python code, or a proposal. One ethical dilemma is that people are using ChatGPT to win coding contests or write essays. It also raises similar questions to Lensa, but with text rather than images.
+
+These are just two popular examples of AI ethics. As AI has grown in recent years, influencing nearly every industry and having a huge positive impact on industries like health care, the topic of AI ethics has become even more salient. How do we ensure bias-free AI? What can be done to mitigate risks in the future? There are many potential solutions, but stakeholders must act responsibly and collaboratively to ensure positive outcomes across the globe.
+
+Read more: Generative AI Ethics: AI Risks, Benefits, and Best Practices
+
+Business Process Automation, Information Systems Security Assessment Framework (ISSAF), Operational Efficiency, Data Security, Generative AI, Analysis, Prompt Patterns, Critical Thinking, Artificial Intelligence and Machine Learning (AI/ML), Innovation, Prompt Engineering, Productivity Software, Machine Learning, Responsible AI, Business Workflow Analysis, Complex Problem Solving, Human Machine Interfaces, Content Creation, Computer Security Awareness Training, Strategic Thinking
+
+Boost Your Productivity with AI Tools. New to AI? Learn from Google experts how AI can help you speed up daily tasks and spark new ideas.
+
+302,705 already enrolled
+
+Average time: 1 month(s)
+
+Learn at your own pace
+
+Business Process Automation, Information Systems Security Assessment Framework (ISSAF), Operational Efficiency, Data Security, Generative AI, Analysis, Prompt Patterns, Critical Thinking, Artificial Intelligence and Machine Learning (AI/ML), Innovation, Prompt Engineering, Productivity Software, Machine Learning, Responsible AI, Business Workflow Analysis, Complex Problem Solving, Human Machine Interfaces, Content Creation, Computer Security Awareness Training, Strategic Thinking
+
+Possible AI ethical issues
+
+There are plenty of real-life challenges that can help illustrate AI ethics. Here are just a few.
+
+If AI doesn’t collect data that accurately represents the population, its decisions might be susceptible to historical biases. In 2018, Amazon was under fire for its AI recruiting tool, which downgraded resumes that featured the word “women” (such as “Women’s International Business Society”) [3]. In essence, the AI tool discriminated against women and caused legal risk for the tech giant.
+
+As illustrated earlier with the Lensa AI example, AI relies on data pulled from internet searches, social media photos and comments, online purchases, and more. While this helps to personalize the customer experience, there are questions about the apparent lack of true consent for these companies to access our personal information.
+
+3. AI and the environment
+
+Some AI models are large and require significant amounts of energy to train on data. While research is being done to devise methods for energy-efficient AI, more could be done to incorporate environmental ethical concerns into AI-related policies.
+
+Security, Compliance, and Governance for AI Solutions
+
+Responsible AI, Cyber Governance, Security Controls, Data Governance, AWS Identity and Access Management (IAM), Information Systems Security, Amazon Web Services, Cloud Security
+
+Security, Compliance, and Governance for AI Solutions
+
+This course helps you understand some common issues of around security, compliance, and governance associated with artificial intelligence (AI) solutions. ...
+
+3,989 already enrolled
+
+Average time: 1 hour(s)
+
+Learn at your own pace
+
+Responsible AI, Cyber Governance, Security Controls, Data Governance, AWS Identity and Access Management (IAM), Information Systems Security, Amazon Web Services, Cloud Security
+
+What are the 7 principles of ethical AI?
+
+As AI evolves, so will the principles guiding its ethical use. Seven principles to begin with include the following:
+
+1. Focuses on respecting and promoting human rights and freedoms
+
+2. Has a specific purpose and intent to reduce potential safety and security limitations
+
+3. Promotes equal distribution and fairness while limiting discrimination and adhering to laws and regulations
+
+4. Aims to mitigate environmental harm
+
+5. Factors in the importance of data governance and protection
+
+6. Protects humans’ self-sufficiency and freedom
+
+7. Contains explainable and transparent systems
+
+Additionally, the World Economic Forum put forth seven evolving guidelines for ensuring that AI remains human-centered. They include the following: empower humans, minimize bias and discrimination, center use and deployment around privacy, apply human oversight to maximize safety, establish accountability, deploy AI with transparency, and keep sustainability in mind.
+
+How to create more ethical AI
+
+Creating more ethical AI requires a close look at the ethical implications of policy, education, and technology. Regulatory frameworks can ensure that technologies benefit society rather than harm it. Globally, governments are beginning to enforce policies for ethical AI, including how companies should deal with legal issues if bias or other harm arises.
+
+Anyone who encounters AI should understand the risks and potential negative impact of AI that is unethical or fake. The creation and dissemination of accessible resources can mitigate these types of risks.
+
+It may seem counterintuitive to use technology to detect unethical behavior in other forms of technology, but AI tools can be used to determine whether video, audio, or text is fake or not. These tools can detect unethical data sources and biases better and more efficiently than humans.
+
+Keep up with issues in technology with free online resources
+
+Determine if AI is the right career field for you with Coursera’s AI Career Quiz, one of many resources you’ll find in the Career Resource Hub. You can also explore professional options and AI ethics further with resources like the following:
+
+Watch on YouTube: The Dark Side of AI: Challenges, Risks, & Ethical Considerations or 30 Days of GenAI
+
+Watch on YouTube: The Dark Side of AI: Challenges, Risks, & Ethical Considerations or 30 Days of GenAI
+
+Learn AI-related terms: Artificial Intelligence (AI) Terms & Definitions
+
+Learn AI-related terms: Artificial Intelligence (AI) Terms & Definitions
+
+Read a weekly newsletter: AI ethics: what it is, why it matters, + challenges to know or What data privacy really means (and how it affects you)
+
+Read a weekly newsletter: AI ethics: what it is, why it matters, + challenges to know or What data privacy really means (and how it affects you)
+
+You might also consider subscribing to Coursera Plus. Choose from monthly or annual payment options to access more than 10,000 educational programs from over 350 of the leading institutions and businesses across the globe.
+
+NBC News. “Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art, https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242.” Accessed September 4, 2025.
+
+Washington Post. “Your selfies are helping AI learn. You did not consent to this, https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/.” Accessed September 4, 2025.
+
+Reuters. “Amazon scraps secret AI recruiting tool that showed bias against women, https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G.” Accessed September 4, 2025.
+
+Coursera’s editorial team is comprised of highly experienced professional editor...
+
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+Artificial Intelligence (AI)
+
+Generative AI (GenAI)
+
+Certificates & Programs
+
+Google Cybersecurity Certificate
+
+Google Data Analytics Certificate
+
+Google IT Support Certificate
+
+Google Project Management Certificate
+
+Google UX Design Certificate
+
+IBM Data Analyst Certificate
+
+IBM Data Science Certificate
+
+Machine Learning Certificate
+
+Microsoft Power BI Data Analyst Certificate
+
+UI / UX Design Certificate
+
+Information Technology (IT)
+
+Examples of Strengths and Weaknesses for Job Interviews
+
+High-Income Skills to Learn
+
+How Does Cryptocurrency Work?
+
+How to Highlight Duplicates in Google Sheets
+
+How to Learn Artificial Intelligence
+
+Popular Cybersecurity Certifications
+
+Preparing for the PMP Certification
+
+Signs You Will Get the Job After an Interview
+
+What Is Artificial Intelligence?
+
+Professional Certificates
+
+MasterTrack® Certificates
+
+Share your Coursera learning story
+
+Modern Slavery Statement
+
+Manage Cookie Preferences
