@@ -1,0 +1,341 @@
+An official website of the United States government
+
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Primary site navigation
+
+View on publisher site
+
+Permalink PERMALINK Copy
+
+Precision Medicine: A New Paradigm in Therapeutics
+
+Copyright and License information
+
+Address for correspondence: Dr. Neha Akhoon, Department of Pharmacology, Armed Forces Medical College, Pune - 411 040, Maharashtra, India. E-mail: nehaakhoon@gmail.com
+
+Received 2019 Nov 10; Accepted 2020 Feb 4; Collection date 2021.
+
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.
+
+A key goal of clinical care is to treat patients as individuals and to approach therapeutics in such a way that it has optimal efficacy and minimal toxicity. With swift technological advances, such as genomic sequencing and molecular targeted drug exploitation, the concept of precision medicine has been robustly promoted in recent years. Precision medicine endeavors to demarcate diseases using multiple data sources from genomics to digital health metrics in order to facilitate an individualized yet “evidence-based” decision regarding diagnostic and therapeutic approaches. In this way, therapeutics can be centered toward patients based on their molecular presentation rather than grouping them into broad categories with a “one size fits all” approach. This review article is aimed to provide a broad overview of the advent and emergence of precision medicine in view of its current implications.
+
+Keywords: Precision medicine, preventive medicine, therapeutics
+
+Health care is centered on working out generalized solutions that can treat the largest number of patients with similar symptoms. At the launch of President Obama's Precision Medicine Initiative, precision medicine (PM) was described as “providing the right treatment at the right time to the right person and taking into account patients' health history, genes, environments, and lifestyles.”[1] The recent completion of the Human Genome Project, along with technological advances for characterizing patients using “omics” including proteomics, metabolomics, and genomics, provides a unique and exciting opportunity for PM to play an important role in clinical decision-making.[2] The objective of this review is to focus on a realistic scenario for the evolution of PM, to explore the issues affecting its development and implementation and the role of regulatory agencies in its adaptation. This paper also highlights the roles and applications of PM. The studies in high impact journals were searched on PubMed using Boolean terms (AND/OR) to capture relevant articles for this review.
+
+Evolution of Precision Medicine (PM)
+
+In the past, making clinical decisions was solely done on the basis of clinical experience and pathophysiological rationale.[3,4] The current scenario acknowledged as “evidence-based medicine” is more experience-based and entails judicious use of current best evidence in making decisions about the care of individual patients. Evidence-based medicine (EBM) is grounded on three fundamental principles, the hierarchy of evidence based on study design: systematic reviews to avoid selection bias, and patients' values and preferences.[5] Many researchers have criticized EBM for focusing on groups of patients rather than on the individual.[6,7] Specifically, when evidence is reported for treatment efficacy after trials, the results are often based on the average treatment effect and do not apply to all patients.
+
+Personalized medicine is an older term that is often used interchangeably with PM. It seeks to utilize treatment or prevention strategies that are tailored to an individual's disease process or symptoms.
+
+In this era with cheap genome sequencing, advanced biotechnology, health sensors that patients use at home and collection of information about patients' journeys in health care categorized under digital health, the health care becomes increasingly bespoke which is called “PM.”
+
+PM is defined by the National Institutes of Health as, “an emerging approach for disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person.” PM seeks to incorporate technology into medicine to create a data ecosystem that can better identify and treat an individual patient's disease. This approach aims to seamlessly integrate clinical phenotypes and biological information from imaging to laboratory tests (including -omics data) and health records. To facilitate drug discovery from PM-driven studies, investigators have developed new trial designs—such as basket or umbrella trials—which have been used in numerous precision oncology cancer studies.[8,9,10]
+
+The implementation of PM on a wider basis requires better identification of “the right patient,” who should receive a particular treatment and “the right dose,” dose required to be given to each patient with the potential to respond. Hence, it is essential to understand the key reasons for variation in response to treatment,[11] which can be considered under two main groups:
+
+Pharmacokinetic variability includes variability in: Subject phenotype: weight, body surface area, organ status, age, ethnicity, gender, microbiome Subject genotype: polymorphisms in metabolizing enzymes or transporters Disease response or progression with time Lifestyle and environmental factors such as concomitant medications, diet, smoking Adherence to treatment, drug formulation, route of administration, and dosing regimen.
+
+Pharmacokinetic variability includes variability in:
+
+Subject phenotype: weight, body surface area, organ status, age, ethnicity, gender, microbiome
+
+Subject genotype: polymorphisms in metabolizing enzymes or transporters
+
+Disease response or progression with time
+
+Lifestyle and environmental factors such as concomitant medications, diet, smoking
+
+Adherence to treatment, drug formulation, route of administration, and dosing regimen.
+
+Pharmacodynamic variability includes polymorphism in drug target or downstream pathway and driver mutations of disease heterogeneity.[11]
+
+Pharmacodynamic variability includes polymorphism in drug target or downstream pathway and driver mutations of disease heterogeneity.[11]
+
+Role of Disease Heterogeneity in PM
+
+Specific molecular pathways have been identified which are abnormal in subgroups of patients and drugs have been developed that are active against those targets and pathways. For various diseases, several mechanisms produce similar sets of signs and symptoms,[12,13,14] suggesting that disease heterogeneity is an important source of response variability in terms of selecting the right treatment. The significance of taking disease heterogeneity into account can be elucidated with the example of drug vemurafenib, which selectively targets mutated b-raf kinase in tumors with a V600E mutation in the b-raf gene and is an effective treatment for melanoma but is less effective in colorectal carcinoma with the same mutation.[15] Presumably, additional factors account for greater heterogeneity in colorectal carcinoma and its response than in melanoma.
+
+Role of Therapeutic Drug Monitoring in PM
+
+Therapeutic drug monitoring (TDM) has a substantial role to play in the execution of PM as it allows doses to be adjusted in individual patients in order to achieve a predetermined target exposure, thereby, reducing pharmacokinetic variability with a reduction in overall response variability.[16] Drug doses may be adjusted based on markers such as glucose/glycosylated hemoglobin, cholesterol, prostate-specific antigen, blood pressure, etc. When suitable biomarkers are available, their use to guide dosing would be expected to reduce response variability, more so, than the dose adjustment based on plasma drug concentration. Recent studies suggesting the presence of exposure-effect relationships support the potential value of TDM for biologic agents in rheumatoid arthritis and some cancers; trials are underway to determine if adjusting dose to maintain a target exposure can improve efficacy.[11]
+
+Illustrations of Implementation of PM
+
+There are various established examples of the application of PM in the literature which comprise its use directed to drug individualization, dose individualization, and treatment through target identification. To appreciate the effectiveness and translational value of PM, let us take the examples of its implementation in the following disorders.
+
+The field of oncology has been a clear pioneer of PM. The move toward personalized therapies was likely in part due to the general cytotoxicity and severe side effects of existing “one size fits all” cancer drugs along with the identification of associated tumor-specific vulnerabilities as potential drug targets.[17] Therapies can now be designed to more precisely target cancer cells through two primary methods: selectively disrupting pathways necessary for cancer cell survival or growth (pathway-based targeted therapy), and artificially modulating patients' immune systems to generate a response against cancer cells (immunotherapy).[11] Targeted therapies spare healthy cells and promote the substratification of tumor types, allowing treatments to be tailored correspondingly.
+
+Imatinib, which targets BCR–ABL fusion gene in chronic myelogenous leukemia (CML) and gain-of-function mutations in the genes encoding mast/stem cell growth factor receptor KIT or platelet-derived growth factor receptor-α (PDGFRα) in gastrointestinal stromal tumors (GISTs), served as one of the first clinical success stories for targeted cancer treatment[18]
+
+Imatinib, which targets BCR–ABL fusion gene in chronic myelogenous leukemia (CML) and gain-of-function mutations in the genes encoding mast/stem cell growth factor receptor KIT or platelet-derived growth factor receptor-α (PDGFRα) in gastrointestinal stromal tumors (GISTs), served as one of the first clinical success stories for targeted cancer treatment[18]
+
+Overexpression of tyrosine-protein kinase erbB-2 (HER2) is associated with an aggressive form of breast cancer with poor prognosis but responds significantly to trastuzumab, a monoclonal antibody that targets HER2, which has shown a significant survival benefit in these patients[19]
+
+Overexpression of tyrosine-protein kinase erbB-2 (HER2) is associated with an aggressive form of breast cancer with poor prognosis but responds significantly to trastuzumab, a monoclonal antibody that targets HER2, which has shown a significant survival benefit in these patients[19]
+
+The emergence of resistance to anti-cancer drugs has disputed the pathway-based approach in cancer treatment. Advances in understanding tumor resistance and the mutations responsible for it have led to the development of the next generation of kinase inhibitors. Osimertinib, a third-generation EGFR tyrosine kinase inhibitor, was designed to target the T790M mutation that provides resistance to other EGFR inhibitors[20,21]
+
+The emergence of resistance to anti-cancer drugs has disputed the pathway-based approach in cancer treatment. Advances in understanding tumor resistance and the mutations responsible for it have led to the development of the next generation of kinase inhibitors. Osimertinib, a third-generation EGFR tyrosine kinase inhibitor, was designed to target the T790M mutation that provides resistance to other EGFR inhibitors[20,21]
+
+Patients with tumors that express high levels of programmed death-ligand 1 (PD-L1) respond better to pembrolizumab, an Anti-programmed death-ligand 1 antibody than those with little or no expression[20,21]
+
+Patients with tumors that express high levels of programmed death-ligand 1 (PD-L1) respond better to pembrolizumab, an Anti-programmed death-ligand 1 antibody than those with little or no expression[20,21]
+
+Around 40% of patients with metastatic colon cancer do not respond to cetuximab and panitumumab because of the mutation of the KRAS gene. This discovery led to the recommendation that only patients without a mutation in the KRAS gene should be treated with the above drugs.[22]
+
+Around 40% of patients with metastatic colon cancer do not respond to cetuximab and panitumumab because of the mutation of the KRAS gene. This discovery led to the recommendation that only patients without a mutation in the KRAS gene should be treated with the above drugs.[22]
+
+Despite producing profound reductions in eosinophils, mepolizumab, an IL-5 antibody, was proved to be clinically ineffective in patients with moderate asthma.[19] About a decade later, it was confirmed to be highly effective in the subset of patients with hypereosinophilic syndrome.[20,21] It was, hence, presumed that the IL-5 eosinophil pathway is less important in most asthmatics, and there is no clinical benefit from blocking it. This is an example to signify the role of disease heterogeneity in choosing the right drug for the patients.
+
+There is a piece of established evidence suggesting that the efficacy of omalizumab, an IgE antibody, depends on free IgE levels to be <50 μg/mL. Its dosing is adjusted for body weight and baseline IgE to achieve the necessary reduction in IgE levels.[23]
+
+Diabetes Mellitus (DM): Despite availability of several classes of drugs for DM, both oral and insulin preparations, treatment is often given on trial and error basis or on affordability of medications rather than the underlying pathophysiology, hence, most of the patients do not achieve proper blood glucose control[24] mainly because all guidelines aim at the management of an average patient rather than personalized, PM[25] Up to 3% of cases of diabetes diagnosed in children have monogenic diabetes, most common being mutation in transcription factor gene HNF1A, which present before the age of 25 years and are responsive to sulfonylureas (SUR). SUR is also a first-line treatment in neonatal diabetes with KCNJ11 and ABCC8 gene mutation.[26,27,28,29] Neonatal Diabetes, diagnosed in infancy, affects 1:400,000 live births, roughly ½ develop permanent diabetes. Of later, around 70% are estimated to carry a mutation in genes encoding ATP-sensitive K+ channel (KCNJ11 and ABCC8), this mutation blocks the closing of K+ATP channels, preventing beta-cell depolarization and insulin secretion.[30] Treatment with SUR rectifies this defect in ~90% cases, allowing discontinuation of exogenous insulin.[31] New classes of glucose-lowering drugs 1 (GLP1) receptor agonists, DPP-4 inhibitors and sodium-glucose co-transporter-2 (SGLT2) inhibitors extend the ability to treat type 2 DM with reduced rates of hypoglycemia, less frequent self-monitoring of blood glucose, and without weight gain. These drugs were initially developed on the basis of metabolic physiology.[30,32] The mechanisms of action and safety of SGLT2 inhibitors and GLP1 agonists were subsequently validated by the analysis of genetic variation at SLC5A2 (gene encoding for SGLT2) and GLP1 receptor in individuals and large population studies.[33]
+
+Diabetes Mellitus (DM): Despite availability of several classes of drugs for DM, both oral and insulin preparations, treatment is often given on trial and error basis or on affordability of medications rather than the underlying pathophysiology, hence, most of the patients do not achieve proper blood glucose control[24] mainly because all guidelines aim at the management of an average patient rather than personalized, PM[25]
+
+Up to 3% of cases of diabetes diagnosed in children have monogenic diabetes, most common being mutation in transcription factor gene HNF1A, which present before the age of 25 years and are responsive to sulfonylureas (SUR). SUR is also a first-line treatment in neonatal diabetes with KCNJ11 and ABCC8 gene mutation.[26,27,28,29] Neonatal Diabetes, diagnosed in infancy, affects 1:400,000 live births, roughly ½ develop permanent diabetes. Of later, around 70% are estimated to carry a mutation in genes encoding ATP-sensitive K+ channel (KCNJ11 and ABCC8), this mutation blocks the closing of K+ATP channels, preventing beta-cell depolarization and insulin secretion.[30] Treatment with SUR rectifies this defect in ~90% cases, allowing discontinuation of exogenous insulin.[31]
+
+New classes of glucose-lowering drugs 1 (GLP1) receptor agonists, DPP-4 inhibitors and sodium-glucose co-transporter-2 (SGLT2) inhibitors extend the ability to treat type 2 DM with reduced rates of hypoglycemia, less frequent self-monitoring of blood glucose, and without weight gain. These drugs were initially developed on the basis of metabolic physiology.[30,32] The mechanisms of action and safety of SGLT2 inhibitors and GLP1 agonists were subsequently validated by the analysis of genetic variation at SLC5A2 (gene encoding for SGLT2) and GLP1 receptor in individuals and large population studies.[33]
+
+Dyslipidemia: Development of proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors is a transparent specimen that implicated genetic, phenotypic, and molecular findings to serve as the basis for pursuing PCSK9 as a drug target for the treatment of hypercholesterolemia. PCSK9 is demonstrated to be a hepatic secretory protein that enters circulation and binds to low-density lipoprotein (LDL) receptors (the primary source for clearance of circulating cholesterol), ultimately mediating LDL receptor endocytosis and subsequent degradation.[34] PCSK9 inhibition results in a surplus of available LDL receptors, thereby, reducing plasma LDL-C levels. A significant reduction (36–60%) in LDL-C was demonstrated following the administration of alirocumab and evolocumab, leading to their US FDA approval.[34] Loss of function mutation of the ANGPTL4 gene is associated with good lipid profiles and lower risk of coronary artery disease.[35] Animal models back these effects of monoclonal antibodies,[35] further supporting ANGPTL4 as a candidate drug target in coronary artery disease.
+
+Dyslipidemia: Development of proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors is a transparent specimen that implicated genetic, phenotypic, and molecular findings to serve as the basis for pursuing PCSK9 as a drug target for the treatment of hypercholesterolemia. PCSK9 is demonstrated to be a hepatic secretory protein that enters circulation and binds to low-density lipoprotein (LDL) receptors (the primary source for clearance of circulating cholesterol), ultimately mediating LDL receptor endocytosis and subsequent degradation.[34] PCSK9 inhibition results in a surplus of available LDL receptors, thereby, reducing plasma LDL-C levels. A significant reduction (36–60%) in LDL-C was demonstrated following the administration of alirocumab and evolocumab, leading to their US FDA approval.[34]
+
+Loss of function mutation of the ANGPTL4 gene is associated with good lipid profiles and lower risk of coronary artery disease.[35] Animal models back these effects of monoclonal antibodies,[35] further supporting ANGPTL4 as a candidate drug target in coronary artery disease.
+
+PM In Preventive Role
+
+PM plays a substantial role in the reduction in adverse drug reactions (ADRs) which may intensify adherence. Many ADRs result from variation in genes that code for drug-metabolizing enzymes like CYP450, which can result in the drug being metabolized at a faster or slower rate than normal[36,37]
+
+PM plays a substantial role in the reduction in adverse drug reactions (ADRs) which may intensify adherence. Many ADRs result from variation in genes that code for drug-metabolizing enzymes like CYP450, which can result in the drug being metabolized at a faster or slower rate than normal[36,37]
+
+Pharmacogenetics of an individual has a great deal to play in prediction of the risk of adverse events and it identifies as to who are the patients who should not receive a particular drug. In patients with HIV infection, with the HLA-B*5701 gene, abacavir may lead to multi-organ system hypersensitivity. Hence, genetic testing is recommended for all patients to be prescribed abacavir[38]
+
+Pharmacogenetics of an individual has a great deal to play in prediction of the risk of adverse events and it identifies as to who are the patients who should not receive a particular drug. In patients with HIV infection, with the HLA-B*5701 gene, abacavir may lead to multi-organ system hypersensitivity. Hence, genetic testing is recommended for all patients to be prescribed abacavir[38]
+
+Similarly, the presence of allele HLA-B*1502 is associated with Stevens-Johnson syndrome in patients taking carbamazepine[39] and SLCO1B1 is associated with Simvastatin-induced myopathy, hence, making the screening of these biomarkers essential to determine the susceptibility of patients to these drugs.[40] This implies the impact of pharmacodynamic variability on drug selectivity
+
+Similarly, the presence of allele HLA-B*1502 is associated with Stevens-Johnson syndrome in patients taking carbamazepine[39] and SLCO1B1 is associated with Simvastatin-induced myopathy, hence, making the screening of these biomarkers essential to determine the susceptibility of patients to these drugs.[40] This implies the impact of pharmacodynamic variability on drug selectivity
+
+Polymorphisms in enzyme vitamin K epoxide reductase convertase 1 alters sensitivity to the effects of warfarin, which is now being considered in dosing algorithms[41,42,43]
+
+Polymorphisms in enzyme vitamin K epoxide reductase convertase 1 alters sensitivity to the effects of warfarin, which is now being considered in dosing algorithms[41,42,43]
+
+The value for PM approaches for the improvement of the population's health rests on the adaptability of these approaches to whole populations and preferably to the prevention of disease. For example, identification of genetic aberrations associated with familial cancer syndromes has led to therapeutic options to reduce the risk of cancer development. Among patients who test positive for multiple endocrine neoplasia 2, a total thyroidectomy is the only method to prevent medullary thyroid cancer[45]
+
+The value for PM approaches for the improvement of the population's health rests on the adaptability of these approaches to whole populations and preferably to the prevention of disease. For example, identification of genetic aberrations associated with familial cancer syndromes has led to therapeutic options to reduce the risk of cancer development. Among patients who test positive for multiple endocrine neoplasia 2, a total thyroidectomy is the only method to prevent medullary thyroid cancer[45]
+
+In the case of patients with BRCA mutations, prophylactic bilateral mastectomy and salpingo-oophorectomy are options to reduce breast and ovarian cancer risk, respectively. Bilateral prophylactic mastectomy reduces the risk of breast cancer by at least 95% among women with a deleterious mutation in the BRCA1 or BRCA2 gene[46,47]
+
+In the case of patients with BRCA mutations, prophylactic bilateral mastectomy and salpingo-oophorectomy are options to reduce breast and ovarian cancer risk, respectively. Bilateral prophylactic mastectomy reduces the risk of breast cancer by at least 95% among women with a deleterious mutation in the BRCA1 or BRCA2 gene[46,47]
+
+A noninvasive method of cancer prevention includes regular screening or tamoxifen as antiestrogen therapy. The latter has shown to be beneficial among women with BRCA2 mutations specifically and reduced breast cancer risk by 62%[48]
+
+A noninvasive method of cancer prevention includes regular screening or tamoxifen as antiestrogen therapy. The latter has shown to be beneficial among women with BRCA2 mutations specifically and reduced breast cancer risk by 62%[48]
+
+Some chemoprevention therapies in familial cancer syndromes include the use of 600 mg per day of aspirin to reduce the risk of colorectal cancer in Lynch syndrome carriers.[16]
+
+Some chemoprevention therapies in familial cancer syndromes include the use of 600 mg per day of aspirin to reduce the risk of colorectal cancer in Lynch syndrome carriers.[16]
+
+Regulatory Facets of PM
+
+Companion diagnostics can identify a group of patients highly likely to respond to medication, predict adverse effects, and monitor response to a medication.[49]
+
+Though FDA has laid down some regulatory policies and guidance documents on clinical pharmacogenetics, it faces a major challenge to develop a clear, viable pathway for approval of new targeted diagnostics, therapeutics, and theragnostics.
+
+The proponents of PM suggest it has the potential to refocus medicine from reaction to prevention, direct the selection of optimal therapy, improve quality of life, reduce ADRs, increase treatment adherence, and reduce overall health care expenses.[24,50]
+
+Having discussed the recompenses of PM, it is equally important to throw some light on the other school of thought considering the potential bottlenecks in its implementation, which are summarized as under.
+
+”One dose for all” is convenient for prescribers and any recommendations that bring about treatment individualization and dose flexibility will add complexity. Management is easy when dosing is done by a clinical endpoint or a biomarker which is simple, cheap, and easily measurable, but it is more challenging when more complex or expensive tests are required[11]
+
+”One dose for all” is convenient for prescribers and any recommendations that bring about treatment individualization and dose flexibility will add complexity. Management is easy when dosing is done by a clinical endpoint or a biomarker which is simple, cheap, and easily measurable, but it is more challenging when more complex or expensive tests are required[11]
+
+Genotype-guided prescribing is conceptually simple as it usually requires knowledge of a single genotype per drug, and yet is still a challenge to implement because there are many drugs, many genotypes and the tests along with their interpretation are unfamiliar[11]
+
+Genotype-guided prescribing is conceptually simple as it usually requires knowledge of a single genotype per drug, and yet is still a challenge to implement because there are many drugs, many genotypes and the tests along with their interpretation are unfamiliar[11]
+
+PM could mean higher medication prices for specific subgroups of patients, though it is important to understand that it is a way to avoid the costs of unnecessary and inappropriate treatment measures for individuals not responsive to specific therapeutic approaches[51]
+
+PM could mean higher medication prices for specific subgroups of patients, though it is important to understand that it is a way to avoid the costs of unnecessary and inappropriate treatment measures for individuals not responsive to specific therapeutic approaches[51]
+
+In addition to the problem of financial support for the development of new therapies, populations of developing countries remain without a sufficient amount of collected genomic data. For instance, India has 20% of the global population but represents only 1% of genetic data[51]
+
+In addition to the problem of financial support for the development of new therapies, populations of developing countries remain without a sufficient amount of collected genomic data. For instance, India has 20% of the global population but represents only 1% of genetic data[51]
+
+Establishment of frameworks for organizing, compiling, and expounding the influx of data that can keep pace with rapid scientific innovations will require the promotion of handling and proficiency in interpreting “omics” data, dealing with complexity and volume of new information[52]
+
+Establishment of frameworks for organizing, compiling, and expounding the influx of data that can keep pace with rapid scientific innovations will require the promotion of handling and proficiency in interpreting “omics” data, dealing with complexity and volume of new information[52]
+
+The cost-effectiveness of this approach is highly argued upon. The global market for PM was valued at USD 43.6 billion in 2016 and is predicted to get tripled in the next decade.[53] The economic dynamics of PM differ from conventional medicines, as the nature of approach in PM means it is likely to be approved for use only in a specific subpopulation, limiting the number of patients eligible for treatment with a given drug. Owing to the smaller market share, the competition to produce cheaper drugs between manufacturers may be less than conventional drugs. Collectively, these factors will impact the cost-effectiveness of PM
+
+The cost-effectiveness of this approach is highly argued upon. The global market for PM was valued at USD 43.6 billion in 2016 and is predicted to get tripled in the next decade.[53] The economic dynamics of PM differ from conventional medicines, as the nature of approach in PM means it is likely to be approved for use only in a specific subpopulation, limiting the number of patients eligible for treatment with a given drug. Owing to the smaller market share, the competition to produce cheaper drugs between manufacturers may be less than conventional drugs. Collectively, these factors will impact the cost-effectiveness of PM
+
+There are legal, social, and ethical considerations associated with this concept. A major concern about genetic data is its linkage to databases that enables inferences about a person's social, cognitive, moral, cultural, health, sexual identity, to which participants had not consented[54]
+
+There are legal, social, and ethical considerations associated with this concept. A major concern about genetic data is its linkage to databases that enables inferences about a person's social, cognitive, moral, cultural, health, sexual identity, to which participants had not consented[54]
+
+While these approaches yield some degree of promise at the level of individual treatment and diagnosis, they are much more problematic when targeted at the population level, aiming to identify or improve the health of a large-scale high-risk population[55]
+
+While these approaches yield some degree of promise at the level of individual treatment and diagnosis, they are much more problematic when targeted at the population level, aiming to identify or improve the health of a large-scale high-risk population[55]
+
+Improving the classification of disease is beneficial principally only if therapies are available. In the absence of treatment options, a better description of pathogenic processes may yield little benefit to the population even if it may benefit other patients in the future.[56]
+
+Improving the classification of disease is beneficial principally only if therapies are available. In the absence of treatment options, a better description of pathogenic processes may yield little benefit to the population even if it may benefit other patients in the future.[56]
+
+The current era is of four Ps: preventive, predictive, precision, and participatory medicine. We are transitioning from an age of gold standards to one in which generalizations give way to patient-specific diagnostics and therapeutics. The term “Predictive” medicine has come into play as the technology is allowing us to better understand not only our genomics but also our epigenetic response to environmental changes, the resulting proteome in each of our cells and posttranslational modifications affecting our proteins. The National Research Council (NRC) expressed concern that “personalized medicine” may be misconstrued to mean that completely individualized treatments are available for every unique patient, which is not the case. PM has replaced the term 'personalized medicine' as it merely refers to tailoring of medical treatment to the individual characteristics by classifying subpopulations using their common genetic patterns, lifestyles, drug responses, environmental, and cultural factors. “Participatory” medicine emphasizes that patients should play a decisive role in their own health care by actively controlling the health status and participating in the decision-making process regarding their treatment. It is necessary to bridge EBM and PM as outliers cannot be treated with EBM. The knowledge of PM could allow the transition from reactive to proactive medicine. Long-term goals of PM are better disease delineation and stratification, detection and monitoring of disease symptoms as early as possible, identification of presymptomatic individuals, monitoring the evolution of the disease, and management of disease, making it less costly and with fewer adverse effects. Digital versions of data pertaining to the health status of patients constituting the electronic health record, such as medical and treatment histories, allows easy and secured electronic information retrieval. Various initiatives have been taken to implement PM globally, which have been summarized in Table 1 (adapted from reference 59). Obstacles in the way of PM are incomplete legal protection to prevent genetic discrimination, lack of comprehensive health care technology system, and a medical education system that has no skilled physicians who know how to incorporate PM diagnostics or pharmacogenomics into their practice. Efforts such as clinical path initiatives are paving way for collaborations with the pharmaceutical industry to address the challenges and accelerate progress in PM.
+
+Global precision medicine initiatives
+
+Source: Adapted from reference 91. EMR=Electronic medical records
+
+Some people from the medical community feel that the unstinting focus on PM is a diversion from the main aim of producing a healthier population and are not convinced that investing in biomedical research will result in unlimited rewards in finances. This could be a worthwhile investment with significant positive medical and socioeconomic outcomes for achieving “health for all.”
+
+Financial support and sponsorship
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+1.Stone A. Precision medicine: Health care tailored to you. The White House Blog. 2016 [Google Scholar]
+
+2.Levy G. Pharmacologic target-mediated drug disposition. Clin Pharmacol Ther. 1994;56:248–52. doi: 10.1038/clpt.1994.134. [DOI] [PubMed] [Google Scholar]
+
+3.Sackett DL, Rosenberg WM, Gray JA, Haynes RB, Richardson WS. Evidence based medicine: What it is and what it isn't. BMJ. 1996;312:71–2. doi: 10.1136/bmj.312.7023.71. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+4.Evidence-based medicine. Vol. 268. JAMA; 1992. Evidence-Based Medicine Working Group; pp. 2420–5. A new approach to teaching the practice of medicine. [DOI] [PubMed] [Google Scholar]
+
+5.Chow N, Gallo L, Busse J. Evidence-based medicine and precision medicine: Complementary approaches to clinical decision-making. Precis Clin Med. 2018;1:60–4. doi: 10.1093/pcmedi/pby009. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+6.Bensing J. Bridging the gap: The separate worlds of evidence-based medicine and patient-centered medicine. Patient Educ Couns. 2000;39:17–25. doi: 10.1016/s0738-3991(99)00087-7. [DOI] [PubMed] [Google Scholar]
+
+7.Groopman J. Houghton Mifflin Harcourt; 2008. How doctors think. [Google Scholar]
+
+8.Abrams J, Conley B, Mooney M, Zwiebel J, Chen A, Welch JJ, et al. National cancer institute's precision medicine initiatives for the new national clinical trials network. Am Soc Clin Oncol Educ Book. 2014;34:71–6. doi: 10.14694/EdBook_AM.2014.34.71. [DOI] [PubMed] [Google Scholar]
+
+9.Biankin AV, Piantadosi S, Hollingsworth SJ. Patient-centric trials for therapeutic development in precision oncology. Nature. 2015;526:361–70. doi: 10.1038/nature15819. [DOI] [PubMed] [Google Scholar]
+
+10.Redig AJ, Jänne PA. Basket trials and the evolution of clinical trial design in an era of genomic medicine. J Clin Oncol. 2015;33:975–7. doi: 10.1200/JCO.2014.59.8433. [DOI] [PubMed] [Google Scholar]
+
+11.Peck R. Precision medicine is not just genomics: The right dose for every patient. Ann Rev Pharmacol Toxicol. 2018;58:105–22. doi: 10.1146/annurev-pharmtox-010617-052446. [DOI] [PubMed] [Google Scholar]
+
+12.Kola I, Bell J. A call to reform the taxonomy of human disease. Nat Rev Drug Discov. 2011;10:641–2. doi: 10.1038/nrd3534. [DOI] [PubMed] [Google Scholar]
+
+13.National Research Council. National Academies Press; 2011. Toward Precision Medicine: Building a Knowledge Network for Biomedical Research and a New Taxonomy of Disease. [PubMed] [Google Scholar]
+
+14.Chan AC, Behrens TW. Personalizing medicine for autoimmune and inflammatory diseases. Nat Immunol. 2013;14:106–9. doi: 10.1038/ni.2473. [DOI] [PubMed] [Google Scholar]
+
+15.Hyman DM, Puzanov I, Subbiah V, Faris JE, Chau I, Blay JY, et al. Vemurafenib in multiple nonmelanoma cancers with BRAF V600 mutations. N Engl J Med. 2015;373:726–36. doi: 10.1056/NEJMoa1502309. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+16.Munnink TO, Henstra MJ, Segerink LI, Movig KL, Brummelhuis-Visser P. Therapeutic drug monitoring of monoclonal antibodies in inflammatory and malignant disease: Translating TNF-α experience to oncology. Clin Pharmacol Ther. 2016;99:419–31. doi: 10.1002/cpt.211. [DOI] [PubMed] [Google Scholar]
+
+17.Dugger SA, Platt A, Goldstein DB. Drug development in the era of precision medicine. Nat Rev Drug Discov. 2018;17:183–96. doi: 10.1038/nrd.2017.226. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+18.Stegmeier F, Warmuth M, Sellers WR, Dorsch M. Targeted cancer therapies in the twenty-first century: Lessons from imatinib. Clin Pharmacol Ther. 2010;87:543–52. doi: 10.1038/clpt.2009.297. [DOI] [PubMed] [Google Scholar]
+
+19.Slamon DJ, Leyland-Jones B, Shak S, Fuchs H, Paton V, Bajamonde A, et al. Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med. 2001;344:783–92. doi: 10.1056/NEJM200103153441101. [DOI] [PubMed] [Google Scholar]
+
+20.Chae YK, Pan A, Davis AA, Raparia K, Mohindra NA, Matsangou M, et al. Biomarkers for PD-1/PD-L1 blockade therapy in non–small-cell lung cancer: Is PD-L1 expression a good marker for patient selection.? Clin Lung Cancer. 2016;17:350–61. doi: 10.1016/j.cllc.2016.03.011. [DOI] [PubMed] [Google Scholar]
+
+21.Abdel-Rahman O. Correlation between PD-L1 expression and outcome of NSCLC patients treated with anti-PD-1/PD-L1 agents: A meta-analysis. Crit Rev Oncol Hematol. 2016;101:75–85. doi: 10.1016/j.critrevonc.2016.03.007. [DOI] [PubMed] [Google Scholar]
+
+22.National Comprehensive Cancer Network. National Comprehensive Cancer Network Guidelines in Oncology.Non-Small Cell Lung Cancer Version 7. 5 National Comprehensive Cancer Network Guidelines in Oncology Non-Small Cell Lung Cancer Version 7 2015. [Google Scholar]
+
+23.Slavin RG, Ferioli C, Tannenbaum SJ, Martin C, Blogg M, Lowe PJ. Asthma symptom re-emergence after omalizumab withdrawal correlates well with increasing IgE and decreasing pharmacokinetic concentrations. J Allergy Clin Immunol. 2009;123:107–13. doi: 10.1016/j.jaci.2008.09.050. [DOI] [PubMed] [Google Scholar]
+
+24.Han K, Jin J, Maia M, Lowe J, Sersch MA, Allison DE. Lower exposure and faster clearance of bevacizumab in gastric cancer and the impact of patient variables: Analysis of individual data from AVAGAST phase III trial. AAPS J. 2014;16:1056–63. doi: 10.1208/s12248-014-9631-6. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+25.Stolar MW. Defining and achieving treatment success in patients with type 2 diabetes mellitus. Mayo Clin Proc. 2010;85:S50–9. doi: 10.4065/mcp.2010.0471. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+26.Gloyn AL, Pearson ER, Antcliff JF, Proks P, Bruining GJ, Slingerland AS, et al. Activating mutations in the gene encoding the ATP-sensitive potassium-channel subunit Kir6-2 and permanent neonatal diabetes. N Engl J Med. 2004;350:1838–49. doi: 10.1056/NEJMoa032922. [DOI] [PubMed] [Google Scholar]
+
+27.Pearson ER, Flechtner I, Njølstad PR, Malecki MT, Flanagan SE, Larkin B, et al. Switching from insulin to oral sulfonylureas in patients with diabetes due to Kir6-2 mutations. N Engl J Med. 2006;355:467–77. doi: 10.1056/NEJMoa061759. [DOI] [PubMed] [Google Scholar]
+
+28.Babenko AP, Polak M, Cavé H, Busiah K, Czernichow P, Scharfmann R, et al. Activating mutations in the ABCC8 gene in neonatal diabetes mellitus. N Engl J Med. 2006;355:456–66. doi: 10.1056/NEJMoa055068. [DOI] [PubMed] [Google Scholar]
+
+29.Rafiq M, Flanagan SE, Patch AM, Shields BM, Ellard S, Hattersley AT Neonatal Diabetes International Collaborative Group. Effective treatment with oral sulfonylureas in patients with diabetes due to sulfonylurea receptor 1 (SUR1) mutations. Diabetes Care. 2008;31:204–9. doi: 10.2337/dc07-1785. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+30.Magen D, Sprecher EL, Zelikovic I, Skorecki K. A novel missense mutation in SLC5A2 encoding SGLT2 underlies autosomal-recessive renal glucosuria and aminoaciduria. Kidney Int. 2005;67:34–41. doi: 10.1111/j.1523-1755.2005.00053.x. [DOI] [PubMed] [Google Scholar]
+
+31.Stolar MW. In Mayo Clin Proc. Vol. 85. Elsevier; 2010. Defining and achieving treatment success in patients with type 2 diabetes mellitus. No.12, pp. S50-S59. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+32.Mulvihill EE, Drucker DJ. Pharmacology, physiology, and mechanisms of action of dipeptidyl peptidase-4 inhibitors. Endocr Rev. 2014;35:992–1019. doi: 10.1210/er.2014-1035. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+33.Scott RA, Freitag DF, Li L, Chu AY, Surendran P, Young R, et al. A genomic approach to therapeutic target validation identifies a glucose-lowering GLP1R variant protective for coronary heart disease. Sci Transl Med. 2016;8:341ra76. doi: 10.1126/scitranslmed.aad3744. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+34.Dadu RT, Ballantyne CM. Lipid lowering with PCSK9 inhibitors. Nat Rev Cardiol. 2014;11:563–75. doi: 10.1038/nrcardio.2014.84. [DOI] [PubMed] [Google Scholar]
+
+35.Dewey FE, Gusarova V, O'Dushlaine C, Gottesman O, Trejos J, Hunt C, et al. Inactivating variants in ANGPTL4 and risk of coronary artery disease. N Engl J Med. 2016;374:1123–33. doi: 10.1056/NEJMoa1510926. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+36.Phillips KA, Veenstra DL, Oren E, Lee JK, Sadee W. Potential role of pharmacogenomics in reducing adverse drug reactions: A systematic review. JAMA. 2001;286:2270–9. doi: 10.1001/jama.286.18.2270. [DOI] [PubMed] [Google Scholar]
+
+37.BlueCross BlueShield Association. Chicago: BlueCross BlueShield Association (BCBS); 2004. Special report: Genotyping for cytochrome P450 polymorphisms to determine drug-metabolizer status; p. 19. TEC Assessment. [PubMed] [Google Scholar]
+
+38.Stekler J, Maenza J, Stevens C, Holte S, Malhotra U, McElrath MJ, et al. Abacavir hypersensitivity reaction in primary HIV infection. Aids. 2006;20:1269–74. doi: 10.1097/01.aids.0000232234.19006.a2. [DOI] [PubMed] [Google Scholar]
+
+39.Man CB, Kwan P, Baum L, Yu E, Lau KM, Cheng AS, et al. 5. Vol. 48. Epilepsia; 2007. May, Association between HLA-B* 1502 allele and antiepileptic druginduced cutaneous reactions in Han Chinese; pp. 1015–8. [DOI] [PubMed] [Google Scholar]
+
+40.SEARCH Collaborative Group. SLCO1B1 variants and statin-induced myopathy—a genomewide study. N Engl J Med. 2008;359:789–99. doi: 10.1056/NEJMoa0801936. [DOI] [PubMed] [Google Scholar]
+
+41.Hamberg AK, Dahl ML, Barban M, Scordo MG, Wadelius M, Pengo V, et al. A PK–PD model for predicting the impact of age, CYP2C9, and VKORC1 genotype on individualization of warfarin therapy. Clin Pharmacol Ther. 2007;81:529–38. doi: 10.1038/sj.clpt.6100084. [DOI] [PubMed] [Google Scholar]
+
+42.International Warfarin Pharmacogenetics Consortium. Estimation of the warfarin dose with clinical and pharmacogenetic data. N Engl J Med. 2009;360:753–64. doi: 10.1056/NEJMoa0809329. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+43.Avery PJ, Jorgensen A, Hamberg AK, Wadelius M, Pirmohamed M, Kamali F. A proposal for an individualized pharmacogenetics-based warfarin initiation dose regimen for patients commencing anticoagulation therapy. Clin Pharmacol Ther. 2011;90:701–6. doi: 10.1038/clpt.2011.186. [DOI] [PubMed] [Google Scholar]
+
+44.Raue F, Frank-Raue K, Grauer A. Multiple endocrine neoplasia type 2: Clinical features and screening. Endocrinol Metab Clin North Am. 1994;23:137–56. [PubMed] [Google Scholar]
+
+45.Chae YK, Pan A, Davis AA, Raparia K, Mohindra NA, Matsangou M, et al. Biomarkers for PD-1/PD-L1 blockade therapy in non–small-cell lung cancer: Is PD-L1 expression a good marker for patient selection.? Clin Lung Cancer. 2016;17:350–61. doi: 10.1016/j.cllc.2016.03.011. [DOI] [PubMed] [Google Scholar]
+
+46.Azizi F. Precision medicine for endocrinology. Int J Endocrinol Metab. 2016;14:e40283. doi: 10.5812/ijem.40283. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+47.Collins FS, Varmus H. A new initiative on precision medicine. N Engl J Med. 2015;372:793–5. doi: 10.1056/NEJMp1500523. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+48.Cardoso F, Van't Veer LJ, Bogaerts J, Slaets L, Viale G, Delaloge S, et al. 70-gene signature as an aid to treatment decisions in early-stage breast cancer. N Engl J Med. 2016;375:717–29. doi: 10.1056/NEJMoa1602253. [DOI] [PubMed] [Google Scholar]
+
+49.Mager DE, Jusko WJ. General pharmacokinetic model for drugs exhibiting target-mediated drug disposition. J Pharmacokinetics Pharmacodyn. 2001;28:507–32. doi: 10.1023/a:1014414520282. [DOI] [PubMed] [Google Scholar]
+
+50.Gameiro GR, Sinkunas V, Liguori GR, Auler-Júnior JO. Precision medicine: Changing the way we think about healthcare. Clinics (Sao Paulo) 2018;73:e723. doi: 10.6061/clinics/2017/e723. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+51.Meijers-Heijboer H, van Geel B, van Putten WL, Henzen-Logmans SC, Seynaeve C, Menke-Pluymers MB, et al. Breast cancer after prophylactic bilateral mastectomy in women with a BRCA1 or BRCA2 mutation. N Engl J Med. 2001;345:159–64. doi: 10.1056/NEJM200107193450301. [DOI] [PubMed] [Google Scholar]
+
+52.Soda M, Choi YL, Enomoto M, Takada S, Yamashita Y, Ishikawa S, et al. Identification of the transforming EML4–ALK fusion gene in non-small-cell lung cancer. Nature. 2007;448:561–6. doi: 10.1038/nature05945. [DOI] [PubMed] [Google Scholar]
+
+53.Topol EJ. Individualized medicine from prewomb to tomb. Cell. 2014;157:241–53. doi: 10.1016/j.cell.2014.02.012. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+54.Ramaswami R, Bayer R, Galea S. Precision medicine from a public health perspective. Ann Rev Public Health. 2018;39:153–68. doi: 10.1146/annurev-publhealth-040617-014158. [DOI] [PubMed] [Google Scholar]
+
+55.Ginsburg GS, Phillips KA. Precision medicine: From science to value. Health Aff (Millwood) 2018;37:694–701. doi: 10.1377/hlthaff.2017.1624. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+Articles from International Journal of Preventive Medicine are provided here courtesy of Wolters Kluwer -- Medknow Publications
+
+View on publisher site
+
+Permalink PERMALINK Copy
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Evolution of Precision Medicine (PM)
+
+Role of Disease Heterogeneity in PM
+
+Role of Therapeutic Drug Monitoring in PM
+
+Illustrations of Implementation of PM
+
+PM In Preventive Role
+
+Regulatory Facets of PM
+
+Format: AMA APA MLA NLM
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+HHS Vulnerability Disclosure
