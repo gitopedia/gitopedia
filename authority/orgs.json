@@ -1,4 +1,62 @@
 [
+  {
+    "id": "org:human-genome-project-(hgp)",
+    "label": "Human Genome Project (HGP)",
+    "aliases": []
+  },
+  {
+    "id": "org:national-institutes-of-health-",
+    "label": "National Institutes of Health (NIH)",
+    "aliases": []
+  },
+  {
+    "id": "org:national-human-genome-research",
+    "label": "National Human Genome Research Institute (NHGRI)",
+    "aliases": []
+  },
+  {
+    "id": "org:fda",
+    "label": "FDA",
+    "aliases": []
+  },
+  {
+    "id": "org:ema",
+    "label": "EMA",
+    "aliases": []
+  },
+  {
+    "id": "org:pharmacogenomics-knowledge-bas",
+    "label": "Pharmacogenomics Knowledge Base (PharmGKB)",
+    "aliases": []
+  },
+  {
+    "id": "org:american-cancer-society",
+    "label": "American Cancer Society",
+    "aliases": []
+  },
+  {
+    "id": "org:mayo-clinic",
+    "label": "Mayo Clinic",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm",
+    "label": "IBM",
+    "aliases": []
+  },
+  {
+    "id": "org:u.s.-department-of-health-\u0026-hu",
+    "label": "U.S. Department of Health \u0026 Human Services",
+    "aliases": []
+  },
+  {
+    "id": "org:1000-genomes-project",
+    "label": "1000 Genomes Project",
+    "aliases": []
+  },
+  {
+    "id": "org:all-of-us-research-program",
+    "label": "All of Us Research Program",
+    "aliases": []
+  }
 ]
-
-
