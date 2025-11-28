@@ -1,0 +1,261 @@
+An official website of the United States government
+
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Primary site navigation
+
+View on publisher site
+
+Permalink PERMALINK Copy
+
+Precision Medicine: Historiography of Life Sciences and the Geneticization of the Clinics**
+
+Copyright and License information
+
+Corresponding author.
+
+This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc-nd/4.0/ License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.
+
+In 2013, Hans Jörg Rheinberger proposed that Mendelian genetics and molecular biology were “scientific ideologies,” that is, for him they are systems of thought whose objects are hyperbolic; they are not, or not yet, in the realm of and not, or not yet, under the control of that system. This article proposes that precision medicine today is a scientific ideology and analyses the implications of this statement for historians of biology, genetics, and medicine.
+
+Keywords: scientific ideologies, personalized medicine, precision medicine, translation, phamacogenetics, oncology
+
+1. Science in the Clinics
+
+In a 2013 article, “Heredity in the Twentieth Century: Some Epistemological Considerations,” Hans‐Jörg Rheinberger proposed that Mendelian genetics and molecular biology were “scientific ideologies.” Following George Canguilhem, Rheinberger described scientific ideology as a domain that has an explicit ambition to be a science, imitating an already constituted model of science. 1 Scientific ideologies are “systems of thought whose objects, as compared to the standards of the system to which they appeal, are hyperbolic; that is, they are not, or not yet, in the realm of and not, or not yet, under the control of that system.” They are an “extension of a science from one field into another field that comes into a lateral focus.” Commenting on Canguilhem's concept of scientific ideology, Étienne Balibar added that historians should always take into account that history of science cannot be only history of science. There is “always already a dialectics of scientificity and ideologization, or better even, of ideologization and of de‐ideologization of the concept which is constitutive of knowledge.” 2 Rheinberger, following Yehuda Elkana, proposes to see scientific ideologies as, “images of knowledge.” 3 His text is focused on the fate of the concept of gene and its transformation from an epistemic thing to a technical thing, and as a handle for the exploration and manipulation of life processes. Rheinberger also stresses the importance of translation from one domain of production of knowledge to another, although he elects not to discuss translational or personalized medicine.
+
+The term translational medicine arose in the late twentieth century to describe the increasing role of genetic‐based approaches in the clinical practice and the need to accelerate the transfer of knowledge from the laboratory to the bedside. With respect to pharmacogenetics, the term translational medicine was rapidly replaced by personalized medicine, a term that put a greater accent on the importance of genetic research in adapting therapies to each individual patient. The latter term was however seen as too vague—medicine was personalized from antiquity on, while individual traits of patients may be interpreted as including also non‐biological variables such as their socio‐economic status. The term usually employed today to describe the utilization of knowledge produced thanks to the development of new genomic technologies (and in some interpretations, also other new technologies, from medical imagery to data science) in the clinics is precision medicine. It is undeniable that twenty‐first‐century medicine increasingly relies on genomic technologies. On the other hand, the use of such technologies is much more complex that a simple application of fundamental knowledge for the solution of concrete clinical problems. As Rheinberger rightly pointed out, the concept of translation, from one domain of scientific intervention to another, is much broader than a practical application of new scientific developments
+
+The focus on translation is not new. In 1935, Ludwik Fleck analyzed the consequences of circulation of scientific facts:
+
+A set of findings meanders through the community; becoming polished, transformed, reinforced or attenuated while influencing other findings, concept‐formation, opinions and habits of thought. 4
+
+Even the simple communication of an item of knowledge can by no means be compared with the translocation of a rigid body in Euclidean space. Communication never occurs without a transformation, and indeed always involves a stylized remodeling, which collectively achieves corroboration, and which intercollectively yields fundamental alteration. […] Each passage involves a metamorphosis and a harmonious change of the entire thought style of the new collective arising from the connections within concepts. The change in thought style, that is, the change in readiness for directed perception, offers a new possibility for discovery and creates new facts. 5
+
+Fleck spoke about the circulation of concepts and practices and their translation into the thought style of a different thought collective as an important source of change in science and society. He refrained, however, from using positively connotated terms such as innovation or progress, and employed neutral expressions, such as transformation and alteration. New occurrences in science, Fleck strongly hints elsewhere, are not always an unmixed blessing. Innovations, especially in practice‐oriented domains such as medicine, can alter things for better or worse.
+
+2. Scientific Medicine as a Promissory Science
+
+Scientific medicine was, from its very beginning a promissory science. In the second half of the nineteenth‐century leading physicians promoted the introduction of new disciplines such as physiology, the chemistry of life, and microbiology into the curriculum of medical schools, in spite of limited evidence that laboratory‐based disciplines were able to make a contribution to healing. 6 Such evidence came later: first in the late nineteenth century with the development of therapeutic sera—anti‐diphtheria, anti‐tetanus, and anti‐snake venom—and then in the twentieth century with the science‐based wonder drugs: insulin, sulphamides, and antibiotics. The molecularization of biology and medicine, which had begun between the two World Wars and intensified in the post‐World War Two era, was directly linked with the development of biotechnologies. 7 The growing proximity between investigation methods employed in biological and clinical laboratories led to the rise of the concept of “biomedicine.” 8 The next stage, captured by the rise of the term “translational medicine,” was mainly a response to the rapid expansion of new genomic technologies, and the rise of new approaches to the analysis, synthesis, and processing of data. This change stimulated an aspiration to radically change the interactions between clinicians and scientists.
+
+Although the rise of biomedicine was rooted in the homogenization of methods used to study the normal and the pathological, this development did not lead to a parallel homogenization of jurisdictions; physicians had absolute control of development in clinical medicine and research on patients. Experts from other domains occupied an important role in many areas of clinical medicine (e. g., statisticians in the planification of clinical trials, radiobiologists in devising new radiotherapies), but when dealing with human pathologies their intervention was subordinated to the authority of the clinician. Translational medicine, especially the version promoted in the US by the National Institute of Health (NIH), was expected to challenge established hierarchies, and allow individuals with a PhD, especially those coming from genetic, genomic, and data sciences, to control experimentation in the clinics. 9
+
+The idea that experts without a medical degree and clinical experience will have authority over physicians was gradually abandoned, as was the term “translational medicine,” but not an aspiration to “geneticize” the clinics. This aspiration is relatively new. In the second half of the twentieth century, clinical genetics, previously a marginal area of medical activity, had expanded quickly. 10 Initially limited to the study of a small number of hereditary diseases, clinical genetics’ jurisdiction was extended in the 1960s to the newly developed field of chromosomal anomalies. 11 This led in turn to rapid growth in the number of pathologies classified as “genetic.” The first edition of the database of the Mendelian Inheritance in Man from 1966 included 1,486 “genetic” conditions; today its online version, Online Mendelian Inheritance in Man (OMIM), lists more than 25,000 such conditions. At the same time, the advent of new genomic technologies promoted the accumulation of data about changes in the human genome. This development was favored, among other things, by the growing popularity of direct‐to‐consumer (DTC) genetic tests. Private companies that sequence people's DNA propose to their clients medical information, e. g., information on their (presumed) susceptibility to chronic diseases. While such information may not infrequently be of doubtful quality, testing for susceptibility to diseases continues to be popular, and it affects people's behavior. 12
+
+Private companies are an important source of genetic data; such data are employed in many contexts, some more legitimate than others. 13 Another problematic issue linked with the expansion of genetic testing is the multiplication of incidental findings. With the proliferation of genetic tests in the clinics, doctors have to decide whether the patient should be informed about a health problem unrelated to the original complaint. Such dilemmas are far from being limited to genetic tests—they are quite frequent, e. g., in medical imagery—but their magnitude was amplified with the proliferation of such tests. 14
+
+3. Genes and Pathologies
+
+The search for hereditary pathologies (especially late‐onset ones) or high penetrance and high susceptibility genes (such as BRCA) is a relatively straightforward endeavor. Such searches were strongly supported by physicians, researchers, and members of affected families well before the development of the techniques that facilitated such a search. 15 The search for a genetic component of common acute and chronic diseases is a much more complicated enterprise. Physicians traditionally recognized the role of inherited predispositions (diathesis) in the susceptibility to disease, but it was not easy to visualize them or to distinguish between inherited and acquired predisposition to develop specific pathologies. In the 1970s and 80s, the enthusiasm for the study of the links between Human Leucocyte Antigen (HLA) groups and disease produced few practical outcomes. The strongest links between HLA groups and pathologies were found in selected autoimmune diseases; in other chronic conditions, such as cancer, these links were too weak to be useful in the clinic. The study of the putative role of genetic markers in common non‐hereditary conditions was, however, dramatically modified with the development of powerful and ultra‐rapid methods of sequencing nucleic acids (next‐generation sequencing) and the decrease of costs of these methods. These developments led to a hope, expressed jointly in 2010 by the US Food and Drug Administration (FDA) and the NIH heads, that all areas of medical genetics would play a key role in making major medical decisions. Such hope justified important investment, in a “national highway system for personalized medicine, with substantial investment in infrastructure and standards.” 16 The two immediate applications of this claim were pharmacogenomic and oncology.
+
+The application of new genetic methods to the prevention of accidents produced by side effects of drugs is a very plausible approach. It is well known that people react differently to drugs and that such differences are frequently rooted in their genetic makeup. Studies of links between genetics and reactions to the medication have a much longer history than the advent of new genomic technologies. The origins of this domain are usually traced to the work of the Toronto pharmacologist Warner Kalow, who published an influential book entitled Pharmacogenetic in 1962. 17 Between the 1960s and the 1990s experts readily acknowledged the importance of genetic factors in reaction to drugs, but research on this topic was kept on a low burner. It was reactivated in the late 1990s with the rise of personalized medicine. One of the most important attempts to apply genetic data to the prescription of a drug was the case of anticoagulant warfarin. Warfarin is a very useful drug, but the patients’ reactions to this drug vary greatly, and in some patients the effective dose is close to the harmful one, making the treatment tricky. In the early twenty‐first century, geneticists isolated two genetic variants linked with response to warfarin and proposed to systematically test potential patients for their presence to better calibrate the administration of this drug. Clinical trials had however shown that systematic genetic testing provided only modest gains in terms of the drug's efficacy. Many clinicians decided that such a small advantage does not justify the additional expense of genetic testing. 18
+
+Another example of the use of genetic tests is the detection of individuals who metabolize the drug codeine very fast, a trait that put them at risk of severe secondary effects of this substance. The capacity to rapidly metabolize codeine is hereditary and can be uncovered by a genetic test. On the other hand, ultra‐rapid metabolizers of codeine are rare, the test to detect this trait is expensive, and physicians seldom wish to wait for results of genetic tests when they prescribe a medication employed during acute pain crisis. Following a dramatic case in the US in which the baby of an ultra‐rapid codeine metabolizer died after ingesting the drug through breastmilk, the FDA considered recommending a genetic test before prescribing codeine to anyone breastfeeding. Finally, experts decided against such a step, mainly because it is simpler and cheaper to prescribe an alternative treatment in such cases. In order to enter a routine use, a genetic test has to provide a clear advantage for the patient, but also to be cost‐efficient. Very few pharmacogenetic tests fulfill these conditions. 19
+
+In 1962, the aspiration to employ genetic data to improve the use of drugs was a promissory science. In 2022, it still has a similar status. The study of the role of genetic factors in the efficacy of medication continues nevertheless to be generously funded because genetics offers plausible explanations, while genetic tests and technologies offer financial incentives that are not available for interventions, based for example on the limitations of environmental exposures to harmful substances. 20 Moreover, studies on this topic allow scientists to investigate interesting questions, to publish in prestigious journals, and not infrequently also to develop marketable products, since, as Susan Lindee argued, modern genomics “has become a big business focused more on risk and prediction (which can be readily marketed) than on effective clinical intervention.” 21 The combination of all these elements favors the continuation of research on the role of genetic factors in therapy, despite the frequently disappointing results. One important exception to the rule of the maintenance of generous support despite (as for now) unsatisfactory results, is oncology. In the twenty‐first century, genetic and genomic technologies lead to important changes in the diagnosis and cure of cancer.
+
+4. Genomics in Oncology
+
+Cancer is defined as a disease of the so‐called deviant cell and, especially since the 1950s, oncologists have stressed the role of individual mutations in the genesis of malignancies. In the 1990s, scientists developed several highly efficient drugs targeted against specific mutations on cancer cells. The best known among them is Gleevec, a tyrosine kinase inhibitor that treats chronic myelogenous leukemia, and Herceptin (Trastuzumab), a monoclonal antibody employed mainly to treat HER2 (human epidermal growth factor) positive breast cancers. In the early twenty‐first century, new diagnostic tools in oncology expanded the locus of clinical decisions. They promoted a tighter re‐alignment of the biological and clinical component of medical activities and the rise of hybrid scientific‐regulatory scripts that favor the introduction of new diagnostic approaches in oncology. 22 The realignment of biology and the clinics in turn shaped the organization of clinical trials. Such trials, Nicole Nelson and her collaborators proposed, adopted many of the traits described by Rheinberger as characterizing experimental work in molecular biologies, such as the capacity to generate surprises, the flexibility of experimental protocols, and ongoing tension between continuity and discontinuity. 23
+
+The recent massive injection of molecular biology approaches and high‐throughput genomic technologies into oncology led to a reshuffling of the research and care distinction, and produced new forms of what is called experimental care. 24 The use of genomic approaches to cancer is not limited to studies conducted in leading teaching and research hospitals. In industrialized countries, genomic‐based approaches reached, although in a somewhat different form, the routine management of malignant tumors. In hospitals specialized in cancer therapy, genomic analysis of malignant tumors became the new standard of care and a pre‐condition for initiation of a therapeutic trajectory. The new approaches had multiple effects, from a contribution to the reduction of uncertainty of therapeutic decisions to the consolidation of the status of the specialist. They also deeply influence the division of labor in the oncology clinics. 25
+
+Oncology, a clinical trial‐based discipline, is, nevertheless, exceptional. The rapid adoption of genomic approaches in this domain reflects its unique history and the long‐term alliance between cancer treatment and cutting‐edge biological research. 26 Other branches of clinical medicine do not have the same pattern of integration of genetic and genomic innovations. 27 Moreover, while the twenty‐first‐century oncology in industrialized countries was deeply modified by the introduction of genetic approaches, changes such as the increasing blurring of the boundary between diagnosis and treatment affected mainly the organization of clinical work. They did not yield (until now) impressive advances in patients’ survival. Drugs developed in the 1990s, Glivec and Herceptin, are still seen as the most outstanding precision‐base treatments against cancer. Today numerous drugs target specific mutations of malignant cells, and the prognosis of some cancer patients was dramatically modified by their advent, but in 2022 they are still a small minority among people with malignant tumors. Another major problem with the geneticization of oncology is its cost and the fact that these promissory therapies are available only to a tiny fraction of cancer patients worldwide. 28 For some critics of the geneticization of oncology, enthusiasm for this approach stems mainly from highly publicized cases of patients for whom experimental therapies work exceptionally well. As one such critic remarked, “despite the hype surrounding rare cases such as these, most people with cancer do not benefit from the precision strategy, nor has this approach been shown to improve outcomes in controlled studies.” 29 For the majority of cancer patients, progress in survival and quality of life came mainly from steady advances in the application of less specific treatments: radiotherapy and chemotherapy. 30
+
+5. Challenges of Studying Post‐Genomic Medicine
+
+Medicine in the twenty‐first century increasingly relies on extended application of genomic technologies. Speaking about the COVID‐19 pandemic, the epidemiologist Hugh Pennington called it “the first post‐genomic epidemic” pointing to the key role of the new genomic technologies in the rapid identification of the SARS‐CoV2 virus, manufacture of efficient diagnostic tests, and the development of innovative vaccines. 31 Terms like “PCR test” and “RNA vaccines” once known only to a small group of experts, became omnipresent in the media and the public discourse. The key role of genomic technologies in the COVID‐19 pandemic does not mean, however, that they shaped clinical practices. In 2020 and 2021, the treatment of patients hospitalized for severe COVID‐19 was grounded mainly in application of routine clinical approaches. 32 The most important advances in this area came from low‐tech techniques such as a regular changing of the patient's position, the use of older drugs such as the steroid dexamethasone, and the accumulation of clinical experience. Patients with long COVID or post‐COVID syndrome receive (as for now) mainly symptomatic treatment, a nineteenth‐century approach that preceded the era of specific diseases and the “tyranny of diagnosis.” 33 The COVID‐19 pandemic may be described as the first post‐genomic pandemic but the treatments of patients infected by SARS‐CoV2 may illustrate the principle that personalized medicine can be also an old‐fashioned striving to understand the source of the individual patient's suffering and reduce it.
+
+On the other hand, the acceleration of integration of life science and medicine did have a deep effect on both domains. Facing such an acceleration, historians of life sciences and medicine may face a double trap. They may develop an uncritical fascination with new developments and forget that, especially in practice‐based domains, old approaches often continue to occupy an important place, either alone or together with newer technologies. They may also be tempted by the opposite approach; they may seek continuities everywhere, and forget that perceived continuity may mask radical alteration. 34
+
+The growing use of genomic approaches in the clinics opened new domains of inquiry for historians. Among such domains:
+
+1.) Important changes in the understanding of physiological mechanisms of specific pathologies: Such changes may affect the organization of clinical labor, public health practices, and patients’ understanding of their disease.
+
+2.) Rise of new ethical dilemmas: It may be important to examine areas such as the fate of incidental findings, the sharing and circulation of data and samples derived from patients and other individuals who take genetic tests, and the multiple uses of these data and samples.
+
+3.) Consequences of the intensification of intersections of biomedicine with commerce, industry, and politics: This is decidedly not a new phenomenon, but its growing role in the late twentieth and early twenty‐first centuries led to a rapid expansion of the scientific‐clinical‐industrial complex, and a parallel growing opacity of many aspects of this complex.
+
+4.) The modification of uses of past data and collections of biological materials: 35 One effect of the massive increase in power and efficacy of the study of genetic materials, is the possibility of re‐mining conserved biological materials for new information. This has important consequences for forensic medicine, population genetics, and migration studies, but also for relationships with specific groups of stakeholders. Historians may have different access to historical materials, but also a different attitude to these materials.
+
+6. Images of Knowledge and the Historian
+
+History, the anthropologist Claude Lévi‐Strauss proposed, “is […] never history, but history‐for.” 36 Historians tell stories to their contemporaries with specific goals in mind. With the reconfiguration of relationships between biological research and clinical practice, historians may need to clarify what the questions they ask are and how they answer them. Since biomedicine is a complicated, hybrid, and multilayered domain, it may be tempting to deal with its complexity by promoting discourse about seamless webs, tangles, multifunctionality, and the multiplication of hyphened terms (bio‐citizenship, bio‐capital, bio‐power, bio‐sociality), while staying on a purely descriptive level. Such an approach may, however, become more difficult when part of the equation is the health of individuals and populations. Discussing the trajectory of the pioneer of evolution theory, Alfred Russel Wallace, the historian James Moore described the radical shift in Wallace's world‐view when he realized that his work as a land surveyor, a supposedly neutral, technical task, had tangible and not infrequently disastrous consequences in real life. 37 Producing data, Wallace grasped, is also taking responsibility. One can add that producing narratives that shape the public's understanding of production and application of data, similarly entails responsibility. 38 Discussing medical ideology, Canguilhem explained that by this term,
+
+I mean a discourse that parallels the development of a science and that, under the pressure of pragmatic needs, makes statements that go beyond what has actually been proved by research. In relation to science itself it is both presumptuous and misplaced. Presumptuous because it believes that the end has been reached when research in fact stands at the beginning. Misplaced because when the achievements of science actually do come, they are not in the areas where the ideology thought they would be, nor are they achieved in the manner predicted by the ideology. 39
+
+The tendency to claim that the end has been reached while this is far from being the case is not new. In the late nineteenth century, the Polish doctor and thinker Zygmunt Kramsztyk witnessed the first scientific revolution in medicine and observed its concrete effects but also the hype it generated. In 1899, he proposed a parable of a man walking on uneven ground in a faint moonlight. He sees a light from afar and directs his steps towards it, but a dark abyss, unnoticed by him, opens just under his feet, and he perishes before reaching the light. 40 Kramsztyk's parable, I propose, is not only a warning about the pitfalls of enthusiasm for the latest cutting edge medical innovation—no less valid today as it was 120 years ago—but also a call to pay special attention to what is hidden from sight. Scientists use images of knowledge to make sense of their work. Historians should study what such images may reveal, but also what they may mask.
+
+I. Löwy, Ber. Wissenschaftsgesch. 2022, 45, 487.
+
+This paper is part of a special issue, On Epistemic Times: Writing History 25 Years after Synthesizing Proteins in the Test Tube.
+
+Rheinberger 2013. Rheinberger quotes Canguilhem 1988.
+
+Balibar 1983, quoted in Rheinberger 2013, on 482.
+
+Images of knowledge can be described as part of our social imaginary, a concept developed by the philosopher Charles Taylor. They derive their strength from the prestige of science in modern societies.
+
+Chadavarian and Kamminga 1998.
+
+Keating and Cambrosio 2003.
+
+Hamburg and Collins 2010. This text discusses only genetics.
+
+Lindee 2005; Comfort 2014.
+
+Hogan 2016; Chadavarian 2020.
+
+Löwy 2015; Stoll 2018; Stoll 2019.
+
+Hamburg and Collins 2010.
+
+Kalow 1963. Jones 2011. Kalow's studies were highly visible in the 1960s.
+
+Jones 2013; Gamma 2013.
+
+On the aspirations and limits of precision medicine, see Phillips 2020.
+
+Bourret et al. 2011; Cambrosio et al. 2019.
+
+Nelson et al. 2014, on 75–77.
+
+Cambrosio et al. 2018.
+
+Beaudevin et al. 2019.
+
+This is true for many hereditary diseases too. Lindee 2016, on 45.
+
+Pennington 2022. Soraya de Chadarevian develops a similar argument: Chadaverian, this volume.
+
+In 2020 and 2021, patients with mild or moderate COVID‐19 were mainly advised to rest, eat easily digestible food, and take anti‐pyretic drugs, the same advice they would have received 100 years ago. The main difference in advice would be the suggestion to use an oxymeter to check whether their level of oxygenation does not fall to dangerous level.
+
+Pickstone 2000; Edgerton 2007; Strasser 2012.
+
+See the article of Jenny Bangham, this volume.
+
+Lévy‐Strauss 1967, on 257.
+
+More 1997, on 301–302.
+
+Bruno Latour, once a promoter of a value‐free “following scientists and engineers through society,” seems to recognize today the problematic aspects of such a standpoint. Latour et Schultz 2022.
+
+Canguilhem 1988, on 57–58. Angela Creager also discusses Canguilhem's concept of scientific ideology and quotes his definition of this concept. Creager, this volume.
+
+Kramsztyk 1899. Kramsztyk was an ophtalmologist, and therefore worked in a domain that saw gradual, but very real progress (surgery for eye defects, advances in manufacture of eyeglasses) rather than a promissory revolution.
+
+1. Beaudevin, Claire , Peerbaye Ashveen, and Bourgain Catherine, “‘It Has to Become True Genetics:’ Tumour Genetics and the Division of Diagnostic Labor in the Clinic,” Sociology of Health and Illness 41 no. 4 (2019): 643–657. [DOI] [PubMed] [Google Scholar]
+
+2.Balibar, Étienne, “Science et vérite dans la philosophie de George Canguilhem,” in Georges Canguilhem, philosophe, historien des sciences, ed. Étienne Balibar et al. (Paris: Alban Michel, 1993), 58–76.
+
+3. Bourgain, Catherine , “Génomique, de la recherche à la clinique: Questions autour d'un changement de perspective,” Medicine/Sciences 30 no. 2 (2014): 14–17. [DOI] [PubMed] [Google Scholar]
+
+4. Bourret, Pascale , Keating Peter, and Cambrosio Alberto, “Regulating Diagnosis in Post-Genomic Medicine: Re-Aligning Clinical Judgment?,” Social Science & Medicine 73 (2011): 816–824. [DOI] [PubMed] [Google Scholar]
+
+5.Cambrosio, Alberto, Jonah Campbell, Peter Keating, and Pascale Bourret, “Multi-Polar Scripts: Techno-Regulatory Environments and the Rise of Precision Oncology Diagnostic Tests,” Social Sciences & Medicine 2019, online: https://pubmed.ncbi.nlm.nih.gov/31133442/ (accessed 9 June 2022). [DOI] [PubMed]
+
+6.Cambrosio, Alberto, Peter Keating, Étienne Vignola-Gagné, Sylvain Besle, and Pascale Bourret, “Extending Experimentation: Oncology's Fading Boundary between Research and Care,” New Genetics and Society 37 no. 3 (2018): 207–226.
+
+7.Canguilhem, George, Ideology and Rationality in the History of the Life Sciences, trans. Arthur Goldhammer (Cambridge, MA: MIT Press, 1988 [1977].
+
+8.Chadavarian, Soraya de, and Harmke Kamminga (eds.), Molecularization of Biology and Medicine: New Practices and Alliances, 1920s to 1970s (London: Taylor and Francis, 1998).
+
+9.Chadavarian, Soraya de, Heredity Under the Microscope: Chromosomes and the Study of Human Genome (Chicago: University of Chicago Press, 2020).
+
+10.Comfort, Nathaniel, The Science of Human Perfection: How Genes Became the Heart of American Medicine (New Haven: Yale University Press, 2014).
+
+11.Edgerton David, The Shock of the Old: Technology and Global History Since 1900 (Oxford: Oxford University Press, 2007).
+
+12.Fleck, Ludwik, Genesis and Development of a Scientific Fact, trans. Fred Bradley and Thaddeus Trenn (Chicago: University of Chicago Press 1979 [1935]).
+
+13. Gamma, Alex , “The Role of Genetic Information in Personalized Medicine,” Perspectives in Biology and Medicine 56 no. 4 (2013): 485–512. [DOI] [PubMed] [Google Scholar]
+
+14. Hamburg, Margaret , and Collins Francis, “The Path to Personalized Medicine,” New England Journal of Medicine 363, no. 4 (2010): 302–304. [DOI] [PubMed] [Google Scholar]
+
+15.Hogan, Andrew, Life Histories of Genetic Disease: Patterns and Prevention in Postwar Medical Genetics (Baltimore: Johns Hopkins University Press, 2016).
+
+16.Jones, David, “The Prospects of Personalized Medicine,” in Genetic Explanations: Sense and Nonsense, ed. Sheldon Krimsky and Jeremy Gruber (Cambridge, MA: Harvard University Press, 2013), 147–170.
+
+17.Jones, David S., “How Personalized Medicine Became Genetic, and Racial: Werner Kalow and the Formations of Pharmacogenetic,“ Journal of the History of Medicine and Allied Sciences 68 no. 1 (2011): 1–48. [DOI] [PubMed]
+
+18.Jones, David S., Alberto Cambrosio, and Andrei Mogoutov, “Detection and Characterization of Translational Research in Cancer and Cardiovascular Medicine,” Journal of Translational Medicine 9, no. 57 (2011), online: https://translational-medicine.biomedcentral.com/articles/10.1186/1479-5876-9-57 (accessed 9 June 2022). [DOI] [PMC free article] [PubMed]
+
+19.Kalow, Werner, Pharmacogenetics: Heredity and the Responses to Drugs (Philadelphia: W. W. Saunders Company, 1963).
+
+20.Keating, Peter, and Alberto Cambrosio, Biomedical Platforms Realigning the Normal and the Pathological in Late-Twentieth-Century Medicine (Cambridge, MA.: MIT Press, 2003).
+
+21.Kramsztyk, Zygmunt, “Racyonale leczenie” [Rational Treatment], in Zygmunt Kramsztyk, Szkice krytyczne z zakresu medycyny [Critical Notes on Medical Subjects] (Warsaw: E. Wende, 1899), 189–196; English translation in Löwy 1990, on 137–142.
+
+22.Latour, Bruno, and Nicolaj Schultz, Mémo sur la nouvelle classe écologique (Paris: Éditions de la Découverte, 2022).
+
+23.Lévi-Strauss, Claude, The Savage Mind (London: Weidenfeld and Nicolson, 1966 [1962]).
+
+24. Lindee, Susan , “Genetic Disease in the 1960s: A Structural Revolution,” American Journal of Medical Genetics 115 (2002): 75–82. [DOI] [PubMed] [Google Scholar]
+
+25.Lindee, Susan, Moments of Truth in Genetic Medicine (Baltimore: Johns Hopkins University Press, 2005).
+
+26. Lindee, Susan , “Human Genetics after the Bomb: Archives, Clinics, Proving Grounds and Board Rooms,” Studies in History and Philosophy of Biological and Biomedical Sciences 55 (2016): 45–53. [DOI] [PubMed] [Google Scholar]
+
+27.Löwy, Ilana, “Cancer: The Century of the Transformed Cell,” in Science in the Twentieth Century, ed. John Krige and Dominique Pestre (Amsterdam: Harwood Academic Press, 1997), 461–477.
+
+28.Löwy, Ilana, “From Savvy Consumers to Informed Risk Managers: Shifting Images of Medical Self-Care,” eä: Journal of Medical Humanities & Social Studies of Science and Technology 7, no. 2 (2015), online: http://www.ea-journal.com/en/numeros-anteriores/81-vol-7-no2/678-from-savvy-consumers-to-informed-risk-managers-shifting-images-of-medical-self-care-2 (accessed 9 June 2022).
+
+29.Löwy, Ilana (ed. and trans.), The Polish School of Philosophy of Medicine: From Tytus Chałubiński (1820–1889) to Ludwik Fleck (1896–1961) (Dordrech: Kluwer Academic Publishers, 1990).
+
+30.More, James, “Wallace's Malthusian Moment: The Common Context Revisited,” in Victorian Science in Context, ed. Bernard Lichtman (Chicago: University of Chicago Press, 1997), 290–311.
+
+31. Nelson, Nicole , Keating Peter, Cambrosio Alberto, Aguilar-Mahecha Adriana, and Basik Mark, “Testing Devices or Experimental Systems? Cancer Clinical Trials Take the Genomic Turn,” Social Science & Medicine 111 (2014): 74–83. [DOI] [PubMed] [Google Scholar]
+
+32.Pennington, Hugh, COVID-19: The Post-Genomic Pandemics (Cambridge: Polity Press, in press).
+
+33.Phillips, Andelka M., “Think before You Click: Ordering a Genetic Test online,” SciTech Lawyer 11, no. 2 (2015), online: https://www.andelkamphillips.com/wp-content/uploads/2018/02/Think-before-you-click.pdf (accessed 9 June 2022).
+
+34.Phillips, Christopher, “Precision Medicine and Its Imprecise History,” Harvard Data Science Review 2 no. 1 (2020), online: https://hdsr.duqduq.org/pub/y7r65r4k/release/3?readingCollection=03f9b00c (accessed 9 June 2022).
+
+35.Pickstone, John, Ways of Knowing: A New History of Science, Medicine and Technology (Manchester: Manchester University Press, 2000). [DOI] [PubMed]
+
+36.Prasad, Vinay, “The Precision Oncology Illusion,” Nature 537 (2016): S63. [DOI] [PubMed]
+
+37. Rheinberger, Hans Jörg , “Heredity in the Twentieth Century: Some Epistemological Considerations,” Public Culture 25, no. 3 (2013): 477–493. [Google Scholar]
+
+38. Rosenberg, Charles , “The Tyranny of Diagnosis: Specific Entities and Individual Experience,” The Milbank Quarterly 80, no. 2 (2002): 237–260. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+39.Rosenberg, Charles, “The Therapeutic Revolution: Medicine, Meaning, and Social Change,” in Charles Rosenberg, Explaining Epidemics and Other Studies in the History of Medicine (Cambridge: Cambridge University Press, 1992), 9–31.
+
+40.Stoll, Katie, “DCT: Direct to children?,” The DNA Exchange (blog), 10 May 2018. https://thednaexchange.com/2018/05/10/dtc-direct-to-children/ (accessed 9 June 2022).
+
+41.Stoll, Katie, “Mind Games,” The DNA Exchange (blog), 22 August 2019, online: https://thednaexchange.com/2019/08/22/mind-games/ (accessed 9 June 2022).
+
+42.Strasser, Bruno, “Data-Driven Sciences: From Wonder Cabinets to Electronic Databases,” Studies in History and Philosophy of Biological and Biomedical Sciences 43 (2012): 85–87. [DOI] [PubMed]
+
+43. Wolf, Susan , Annas George, and Elias Sherman, “Patient Autonomy and Incidental Findings in Clinical Genomics,” Science 340 (2013): 1049–1050. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+Articles from Berichte Zur Wissenschaftsgeschichte are provided here courtesy of Wiley
+
+View on publisher site
+
+Permalink PERMALINK Copy
+
+Cited by other articles
+
+Links to NCBI Databases
+
+1. Science in the Clinics
+
+2. Scientific Medicine as a Promissory Science
+
+3. Genes and Pathologies
+
+4. Genomics in Oncology
+
+5. Challenges of Studying Post‐Genomic Medicine
+
+6. Images of Knowledge and the Historian
+
+Format: AMA APA MLA NLM
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+HHS Vulnerability Disclosure
