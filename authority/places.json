@@ -1,4 +1,12 @@
 [
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
+  },
+  {
+    "id": "place:utah",
+    "label": "Utah",
+    "aliases": []
+  }
 ]
-
-
