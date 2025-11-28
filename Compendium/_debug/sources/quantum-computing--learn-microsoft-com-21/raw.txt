@@ -1,0 +1,321 @@
+This browser is no longer supported.
+
+Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+Documentation All product documentation Azure documentation Dynamics 365 documentation Microsoft Copilot documentation Microsoft 365 documentation Power Platform documentation Code samples Troubleshooting documentation Free to join. Request to attend. Microsoft AI Tour Take your business to the AI frontier.
+
+All product documentation
+
+Dynamics 365 documentation
+
+Microsoft Copilot documentation
+
+Microsoft 365 documentation
+
+Power Platform documentation
+
+Troubleshooting documentation
+
+Free to join. Request to attend.
+
+Take your business to the AI frontier.
+
+Training All training Azure training Dynamics 365 training Microsoft Copilot training Microsoft 365 training Microsoft Power Platform training Credentials Career paths Free to join. Request to attend. Microsoft AI Tour Take your business to the AI frontier.
+
+Dynamics 365 training
+
+Microsoft Copilot training
+
+Microsoft 365 training
+
+Microsoft Power Platform training
+
+Free to join. Request to attend.
+
+Take your business to the AI frontier.
+
+Q&A Ask a question Azure questions Windows questions Microsoft 365 questions Microsoft Outlook questions Microsoft Teams questions Popular tags All questions Free to join. Request to attend. Microsoft AI Tour Take your business to the AI frontier.
+
+Microsoft 365 questions
+
+Microsoft Outlook questions
+
+Microsoft Teams questions
+
+Free to join. Request to attend.
+
+Take your business to the AI frontier.
+
+Topics Artificial intelligence Learning hub to build AI skills Compliance Compliance resources you need to get started with your business DevOps DevOps practices, Git version control and Agile methods Learn for Organizations Curated offerings from Microsoft to boost your team’s technical skills Platform engineering Tools from Microsoft and others to build personalized developer experiences Security Guidance to help you tackle security challenges Assessments Interactive guidance with custom recommendations Student hub Self-paced and interactive training for students Educator center Resources for educators to bring technical innovation in their classroom Free to join. Request to attend. Microsoft AI Tour Take your business to the AI frontier.
+
+Artificial intelligence Learning hub to build AI skills
+
+Learning hub to build AI skills
+
+Compliance Compliance resources you need to get started with your business
+
+Compliance resources you need to get started with your business
+
+DevOps DevOps practices, Git version control and Agile methods
+
+DevOps practices, Git version control and Agile methods
+
+Learn for Organizations Curated offerings from Microsoft to boost your team’s technical skills
+
+Curated offerings from Microsoft to boost your team’s technical skills
+
+Platform engineering Tools from Microsoft and others to build personalized developer experiences
+
+Tools from Microsoft and others to build personalized developer experiences
+
+Security Guidance to help you tackle security challenges
+
+Guidance to help you tackle security challenges
+
+Assessments Interactive guidance with custom recommendations
+
+Interactive guidance with custom recommendations
+
+Student hub Self-paced and interactive training for students
+
+Self-paced and interactive training for students
+
+Educator center Resources for educators to bring technical innovation in their classroom
+
+Resources for educators to bring technical innovation in their classroom
+
+Free to join. Request to attend.
+
+Take your business to the AI frontier.
+
+Products Popular products Azure AI Foundry Azure App Service Azure Databricks Azure DevOps Azure Functions Azure Monitor Azure Virtual Machines Popular categories Compute Networking Storage AI & machine learning Analytics Databases Security View all products
+
+Popular products Azure AI Foundry Azure App Service Azure Databricks Azure DevOps Azure Functions Azure Monitor Azure Virtual Machines
+
+Azure Virtual Machines
+
+Popular categories Compute Networking Storage AI & machine learning Analytics Databases Security
+
+AI & machine learning
+
+Architecture Cloud Adoption Framework Well-Architected Framework Azure Architecture Center
+
+Cloud Adoption Framework
+
+Well-Architected Framework
+
+Azure Architecture Center
+
+Develop Python .NET JavaScript Java PowerShell Azure CLI View all developer resources
+
+View all developer resources
+
+Learn Azure Start your AI learning assessment Top learning paths Cloud concepts AI fundamentals Intro to generative AI Azure Architecture fundamentals Earn credentials Instructor-led courses View all training
+
+Start your AI learning assessment
+
+Top learning paths Cloud concepts AI fundamentals Intro to generative AI Azure Architecture fundamentals
+
+Intro to generative AI
+
+Azure Architecture fundamentals
+
+Instructor-led courses
+
+Resources Product overview Latest blog posts Pricing information Support options
+
+More Products Popular products Azure AI Foundry Azure App Service Azure Databricks Azure DevOps Azure Functions Azure Monitor Azure Virtual Machines Popular categories Compute Networking Storage AI & machine learning Analytics Databases Security View all products Architecture Cloud Adoption Framework Well-Architected Framework Azure Architecture Center Develop Python .NET JavaScript Java PowerShell Azure CLI View all developer resources Learn Azure Start your AI learning assessment Top learning paths Cloud concepts AI fundamentals Intro to generative AI Azure Architecture fundamentals Earn credentials Instructor-led courses View all training Troubleshooting Resources Product overview Latest blog posts Pricing information Support options
+
+Products Popular products Azure AI Foundry Azure App Service Azure Databricks Azure DevOps Azure Functions Azure Monitor Azure Virtual Machines Popular categories Compute Networking Storage AI & machine learning Analytics Databases Security View all products
+
+Popular products Azure AI Foundry Azure App Service Azure Databricks Azure DevOps Azure Functions Azure Monitor Azure Virtual Machines
+
+Azure Virtual Machines
+
+Popular categories Compute Networking Storage AI & machine learning Analytics Databases Security
+
+AI & machine learning
+
+Architecture Cloud Adoption Framework Well-Architected Framework Azure Architecture Center
+
+Cloud Adoption Framework
+
+Well-Architected Framework
+
+Azure Architecture Center
+
+Develop Python .NET JavaScript Java PowerShell Azure CLI View all developer resources
+
+View all developer resources
+
+Learn Azure Start your AI learning assessment Top learning paths Cloud concepts AI fundamentals Intro to generative AI Azure Architecture fundamentals Earn credentials Instructor-led courses View all training
+
+Start your AI learning assessment
+
+Top learning paths Cloud concepts AI fundamentals Intro to generative AI Azure Architecture fundamentals
+
+Intro to generative AI
+
+Azure Architecture fundamentals
+
+Instructor-led courses
+
+Resources Product overview Latest blog posts Pricing information Support options
+
+Azure Quantum documentation
+
+OverviewWhat is Azure Quantum?What is quantum computing?Microsoft's quantum machine
+
+What is Azure Quantum?
+
+What is quantum computing?
+
+Microsoft's quantum machine
+
+Get startedExplore with Copilot in Azure QuantumCreate an Azure Quantum workspaceSet up the Quantum Development KitWays to run Q# programs
+
+Explore with Copilot in Azure Quantum
+
+Create an Azure Quantum workspace
+
+Set up the Quantum Development Kit
+
+Ways to run Q# programs
+
+Hybrid quantum computing (QC)
+
+Key concepts of quantum computing
+
+Access to this page requires authorization. You can try signing in or changing directories.
+
+Access to this page requires authorization. You can try changing directories.
+
+What is quantum computing?
+
+History of quantum computing
+
+What are the requirements to build a quantum computer?
+
+Understand quantum phenomena
+
+Quantum computing holds the promise of solving some of our planet's biggest challenges - in the areas of environment, agriculture, health, energy, climate, materials science, and more. For some of these problems, classical computing is increasingly challenged as the size of the system grows. When designed to scale, quantum systems will likely have capabilities that exceed those of today's most powerful supercomputers.
+
+This article explains the principles of quantum computing, how it compares to classical computing, and how it uses the principles of quantum mechanics.
+
+History of quantum computing
+
+Quantum systems, such as atoms and molecules, can be difficult or impossible to simulate on a classical computer. In the 1980s, Richard Feynman and Yuri Manin suggested that hardware based on quantum phenomena might be more efficient for the simulation of quantum systems than conventional computers.
+
+There are several reasons why quantum systems are difficult to simulate on regular computers. One main reason is that matter, at a quantum level, is described as a combination of multiple configurations (known as states) at the same time.
+
+Quantum states grow exponentially
+
+Consider a system of particles, and 40 possible locations where those particles can exist. The system could be in any of 240 unique states because each location can either have or not have a particle. If these are classical particles, then the system is always in only one of the 240 states, so a classical computer needs only 40 bits to describe the state of the system. But if these are quantum particles, then the system exists in a combination of all 240 states. A classical computer needs to store 240 numbers to describe the quantum system, which requires over 130 GB of memory. However, a quantum computer needs only 40 quantum bits to describe this quantum system.
+
+If we add another location to the system so that the electrons can exist in 41 locations, then the number of unique configurations of the system doubles to 241. It would take more than 260 GB of memory to store that quantum state on a classical computer. We can't play this game of increasing the number of locations forever. To store a quantum state on a conventional computer, you quickly exceed the memory capacities of the world's most powerful machines. At a few hundred electrons, the memory required to store the system exceeds the number of particles in the universe. There's no hope with our conventional computers to completely simulate quantum dynamics for larger systems!
+
+Turning difficulty into opportunity
+
+The observation of this exponential growth posed a powerful question: is it possible to turn this difficulty into an opportunity? If quantum systems are difficult to simulate on regular computers, what would happen if we build a machine that uses quantum effects for its fundamental operations? Could we simulate quantum systems with a machine that exploits exactly the same laws of physics? And could we use that machine to investigate other important problems outside of quantum mechanics? These are the kinds of questions that gave rise to the fields of quantum information and quantum computing.
+
+In 1985, David Deutsch showed that a quantum computer could efficiently simulate the behavior of any physical system. This discovery was the first indication that quantum computers could be used to solve problems that are too difficult to solve on classical computers.
+
+In 1994, Peter Shor discovered a quantum algorithm to find the prime factors of large integers. Shor's algorithm runs exponentially faster than the best known classical algorithm for this factoring problem. Such a fast algorithm could potentially break many of our modern public key cryptosystems that we use to secure transactions in e-commerce, such as Rivest–Shamir–Adleman (RSA) and Elliptic Curve Cryptography. This discovery sparked a huge interest in quantum computing and led to the development of quantum algorithms for many other problems.
+
+Since that time, fast and efficient quantum computer algorithms were developed for other problems that are difficult to solve on classical computers. For example, we now have quantum algorithms to search an unordered database, to solve systems of linear equations, to perform machine learning, and to simulate physical systems in chemistry, physics, and materials science.
+
+Just as bits are the fundamental object of information in classical computing, qubits (quantum bits) are the fundamental object of information in quantum computing.
+
+Qubits play a similar role in quantum computing as bits play in classical computing, but qubits behave differently than bits. Classical bits are binary and, at any given time, can be in only one of two states, 0 or 1. But qubits can be in a superposition of both the 0 and 1 states at the same time. In fact, there are infinite possible superpositions of 0 and 1, and each of them is a valid qubit state.
+
+In quantum computing, information is encoded in superpositions of the states 0 and 1. For example, 8 regular bits can encode up to 256 unique values, but these 8 bits can only represent one of the 256 values at a time. With 8 qubits, we could encode all 256 values at the same time, because the qubits can be in a superposition of all 256 possible states.
+
+For more information, see The qubit in quantum computing.
+
+What are the requirements to build a quantum computer?
+
+A quantum computer uses quantum systems and the properties of quantum mechanics to solve computational problems. The systems in a quantum computer consist of the qubits, the interactions between qubits, and operations on the qubits to store and compute information. We can use quantum computers to program effects like quantum entanglement and quantum interference to accurately solve certain problems faster than on classical computers.
+
+To build a quantum computer, we need to consider how to create and store the qubits. We also need to think about how to manipulate the qubits and how to measure the results of our computations.
+
+Popular qubit technologies include trapped-ion qubits, superconducting qubits, and topological qubits. For some methods of qubit storage, the unit that houses the qubits must be kept at a temperature near absolute zero to maximize their coherence and reduce interference. Other types of qubit housing use a vacuum chamber to help minimize vibrations and stabilize the qubits. Signals can be sent to the qubits through various methods, such as microwaves, lasers, or voltages.
+
+The five criteria for a quantum computer
+
+A good quantum computer should have these five features:
+
+Scalable: It can have many qubits.
+
+Initializable: It can set the qubits to a specific state (usually the 0 state).
+
+Resilient: It can keep the qubits in superposition state for a long time.
+
+Universal: A quantum computer doesn't need to perform every possible operation, only a set of operations called universal set. A set of universal quantum operations is such that any other operation can be decomposed into a sequence of them.
+
+Reliable: It can measure the qubits accurately.
+
+These five criteria are often known as the Di Vincenzo criteria for quantum computation.
+
+Building devices that meet these five criteria is one of the most demanding engineering challenges ever faced by humankind. Azure Quantum offers a variety of quantum computing solutions with different qubit technologies. For more information, see the full list of Azure Quantum providers.
+
+Understand quantum phenomena
+
+Quantum phenomena are the fundamental principles that differentiate quantum computing from classical computing. Understanding these phenomena is crucial for grasping how quantum computers operate and why they hold such potential. The two most important quantum phenomena are superposition and entanglement.
+
+Imagine that you are exercising in your living room. You turn all the way to your left and then all the way to your right. Now turn to your left and your right at the same time. You can’t do it (not without splitting yourself in two, at least). Obviously, you can’t be in both of those states at once – you can’t be facing left and facing right at the same time.
+
+However, if you are a quantum particle, then you can have a certain probability of facing left AND a certain probability of facing right due to a phenomenon known as superposition (also known as coherence).
+
+Only quantum systems like ions, electrons, or superconducting circuits can exist in the superposition states that enable the power of quantum computing. For example, electrons are quantum particles that have their own "facing left or facing right" property called spin. The two spin states are called spin up and spin down, and the quantum state of an electron is a superposition of the spin up and spin down states.
+
+If you want to learn more and practice with superposition, see Training module: Explore superposition with Q#.
+
+Entanglement is a quantum correlation between two or more quantum systems. When two qubits are entangled, they're correlated and sharing the information of their states such that the quantum state of individual qubits can't be described independently. With quantum entanglement you can only know the quantum state of the global system, not the individual states.
+
+Entangled quantum systems maintain this correlation even when separated over large distances. This means that whatever operation or process you apply to one subsystem correlates to the other subsystem as well. Thus, measuring the state of one qubit provides information about the state of the other qubit – this particular property is very helpful in quantum computing.
+
+If you want to learn more, see Tutorial: Explore quantum entanglement with Q# and, for a practical implementation check out Training module: Teleport a qubit using entanglement.
+
+Vectors and matrices in quantum computing
+
+Quantum circuit diagram conventions
+
+Entanglement in quantum computing
+
+Introduction to the quantum programming language Q#
+
+Was this page helpful?
+
+Need help with this topic?
+
+Want to try using Ask Learn to clarify or guide you through this topic?
+
+Introduction to quantum computing with Azure Quantum - Training
+
+Get started with quantum computing and the Azure Quantum service.
+
+Microsoft Certified: Azure Fundamentals - Certifications
+
+Demonstrate foundational knowledge of cloud concepts, core Azure services, plus Azure management and governance features and tools.
+
+Nov 28, 6 PM - Nov 28, 6 PM
+
+Take your business to the AI frontier with the Microsoft AI Tour
+
+Last updated on 09/30/2025
+
+History of quantum computing
+
+What are the requirements to build a quantum computer?
+
+Understand quantum phenomena
+
+Was this page helpful?
+
+Need help with this topic?
+
+Want to try using Ask Learn to clarify or guide you through this topic?
+
+Ask Learn is an AI assistant that can answer questions, clarify concepts, and define terms using trusted Microsoft documentation.
+
+Please sign in to use Ask Learn.
