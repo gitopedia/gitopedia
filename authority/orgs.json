@@ -1,4 +1,57 @@
 [
+  {
+    "id": "org:european-union",
+    "label": "European Union",
+    "aliases": []
+  },
+  {
+    "id": "org:world-economic-forum",
+    "label": "World Economic Forum",
+    "aliases": []
+  },
+  {
+    "id": "org:partnership-on-ai",
+    "label": "Partnership on AI",
+    "aliases": []
+  },
+  {
+    "id": "org:ieee",
+    "label": "IEEE",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon",
+    "label": "Amazon",
+    "aliases": []
+  },
+  {
+    "id": "org:lensa-ai",
+    "label": "Lensa AI",
+    "aliases": []
+  },
+  {
+    "id": "org:unesco",
+    "label": "UNESCO",
+    "aliases": []
+  },
+  {
+    "id": "org:stanford-encyclopedia",
+    "label": "Stanford Encyclopedia",
+    "aliases": []
+  },
+  {
+    "id": "org:coursera",
+    "label": "Coursera",
+    "aliases": []
+  },
+  {
+    "id": "org:propublica",
+    "label": "ProPublica",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-technology-review",
+    "label": "MIT Technology Review",
+    "aliases": []
+  }
 ]
-
-
