@@ -1,4 +1,27 @@
 [
+  {
+    "id": "person:frederick-griffith",
+    "label": "Frederick Griffith",
+    "aliases": []
+  },
+  {
+    "id": "person:james-watson",
+    "label": "James Watson",
+    "aliases": []
+  },
+  {
+    "id": "person:francis-crick",
+    "label": "Francis Crick",
+    "aliases": []
+  },
+  {
+    "id": "person:francis-collins",
+    "label": "Francis Collins",
+    "aliases": []
+  },
+  {
+    "id": "person:eric-lander",
+    "label": "Eric Lander",
+    "aliases": []
+  }
 ]
-
-
