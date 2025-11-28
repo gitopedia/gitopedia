@@ -1,4 +1,37 @@
 [
+  {
+    "id": "topic:mars-colonization",
+    "label": "Mars Colonization",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-exploration",
+    "label": "Space Exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology",
+    "label": "Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainability",
+    "label": "Sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethics",
+    "label": "Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-agencies",
+    "label": "Space Agencies",
+    "aliases": []
+  },
+  {
+    "id": "topic:mars-colonization-initiatives",
+    "label": "Mars Colonization Initiatives",
+    "aliases": []
+  }
 ]
-
-
