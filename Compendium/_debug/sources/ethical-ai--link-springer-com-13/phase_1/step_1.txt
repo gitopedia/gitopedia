@@ -1,0 +1,357 @@
+Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+Engineering Ethics of AI by Design
+
+The Ethics of Artificial Intelligence
+
+First Online: 16 November 2025
+
+Muthu Ramachandran ORCID: orcid.org/0000-0002-5303-31002
+
+This chapter explores the ethical dimensions of artificial intelligence (AI), emphasizing the importance of embedding ethics throughout the AI development lifecycle. It introduces foundational principles—transparency, fairness, accountability, privacy, and non-maleficence—and examines practical frameworks like AI Ethics by Design. Through historical context, classifications of AI, case studies, and governance models, the chapter offers a comprehensive overview for developers, policymakers, and researchers committed to responsible AI. It culminates in actionable strategies and tools for implementing ethical practices in real-world AI systems. Ethical considerations in AI are not merely theoretical but practical necessities that shape the development and use of AI technologies. Through adherence to ethical principles and the integration of frameworks such as AI Quality by Design, AI systems can enhance human welfare and minimize potential harm. This chapter offers key Features:
+
+Quick Reference Tools section for immediate use
+
+Quick Reference Tools section for immediate use
+
+Emergency Ethics Questions for real-time decision making
+
+Emergency Ethics Questions for real-time decision making
+
+30/90/365-day implementation timeline
+
+30/90/365-day implementation timeline
+
+What’s Next section connecting to subsequent chapters.
+
+What’s Next section connecting to subsequent chapters.
+
+This is a preview of subscription content, log in via an institution to check access.
+
+Starting from 10 chapters or articles per month
+
+Access and download chapters and articles from more than 300k books and 2,500 journals
+
+Available as EPUB and PDF
+
+Durable hardcover edition
+
+Dispatched in 3 to 5 business days
+
+Free shipping worldwide - see info
+
+Tax calculation will be finalised at checkout
+
+Purchases are for personal use only
+
+Institutional subscriptions
+
+Similar content being viewed by others
+
+Measuring Ethics in AI with AI: A Methodology and Dataset Construction
+
+Understanding the Artificial Intelligence Revolution and its Ethical Implications
+
+The 3D model of ethical AI practice
+
+Explore related subjects
+
+Philosophy of Artificial Intelligence
+
+McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1955). A proposal for the dartmouth summer research project on artificial intelligence. Google Scholar
+
+McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1955). A proposal for the dartmouth summer research project on artificial intelligence.
+
+Ramachandran, M. (2022). AI ethics and AI quality by design. In Presentation on the Ethical Dimensions of AI and ML Systems, Data Science Conference, Belgrade, November 2022. Google Scholar
+
+Ramachandran, M. (2022). AI ethics and AI quality by design. In Presentation on the Ethical Dimensions of AI and ML Systems, Data Science Conference, Belgrade, November 2022.
+
+Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433–460.Article MathSciNet Google Scholar
+
+Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433–460.
+
+Article MathSciNet Google Scholar
+
+Russell, S., & Norvig, P. (2010). Artificial intelligence: A modern approach. Prentice Hall. Google Scholar
+
+Russell, S., & Norvig, P. (2010). Artificial intelligence: A modern approach. Prentice Hall.
+
+Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies (p. 2014). Oxford University Press. Google Scholar
+
+Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies (p. 2014). Oxford University Press.
+
+Brundage, M. (2015). Taking superintelligence seriously superintelligence: Paths, dangers, strategies by Nick Bostrom (Oxford University Press, 2014), Futures 72 (2015) 32–35. Elsevier. Google Scholar
+
+Brundage, M. (2015). Taking superintelligence seriously superintelligence: Paths, dangers, strategies by Nick Bostrom (Oxford University Press, 2014), Futures 72 (2015) 32–35. Elsevier.
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.MATH Google Scholar
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
+
+Narayanan, A., & Kapoor, S. (2024). AI snake oil: What artificial intelligence can do, what it can’t, and how to tell the difference. Princeton University Press. Google Scholar
+
+Narayanan, A., & Kapoor, S. (2024). AI snake oil: What artificial intelligence can do, what it can’t, and how to tell the difference. Princeton University Press.
+
+Spero, T. A. (2024). Using ChatGPT to improve equity and inclusion in higher education. In Lin et al. (Eds.), ChatGPT and global higher education. Google Scholar
+
+Spero, T. A. (2024). Using ChatGPT to improve equity and inclusion in higher education. In Lin et al. (Eds.), ChatGPT and global higher education.
+
+European Commission High-Level Expert Group on AI. (2019). Ethics Guidelines for Trustworthy AI. https://ec.europa.eu/futurium/en/ai-alliance-consultation
+
+European Commission High-Level Expert Group on AI. (2019). Ethics Guidelines for Trustworthy AI. https://ec.europa.eu/futurium/en/ai-alliance-consultation
+
+IEEE. (2019). Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems (2nd Ed.). IEEE. https://ethicsinaction.ieee.org
+
+IEEE. (2019). Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems (2nd Ed.). IEEE. https://ethicsinaction.ieee.org
+
+OECD. (2019). OECD Principles on Artificial Intelligence. https://oecd.ai/en/ai-principles
+
+OECD. (2019). OECD Principles on Artificial Intelligence. https://oecd.ai/en/ai-principles
+
+UNESCO. (2021). Recommendation on the Ethics of Artificial Intelligence. https://unesdoc.unesco.org/ark:/48223/pf0000381137
+
+UNESCO. (2021). Recommendation on the Ethics of Artificial Intelligence. https://unesdoc.unesco.org/ark:/48223/pf0000381137
+
+Singapore Personal Data Protection Commission (PDPC). (2020). Model AI Governance Framework (2nd Ed.). https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Gov-Framework
+
+Singapore Personal Data Protection Commission (PDPC). (2020). Model AI Governance Framework (2nd Ed.). https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Gov-Framework
+
+UK Government. (2023). A pro-innovation approach to AI regulation. https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach
+
+UK Government. (2023). A pro-innovation approach to AI regulation. https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach
+
+Montreal AI Ethics Institute. Montreal AI Ethics Guidelines. (2021). Google Scholar
+
+Montreal AI Ethics Institute. Montreal AI Ethics Guidelines. (2021).
+
+Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. Big Data & Society, 3(2). https://doi.org/10.1177/2053951716679679
+
+Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. Big Data & Society, 3(2). https://doi.org/10.1177/2053951716679679
+
+Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1(9), 389–399. https://doi.org/10.1038/s42256-019-0088-2
+
+Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1(9), 389–399. https://doi.org/10.1038/s42256-019-0088-2
+
+Wachter, S., Mittelstadt, B., & Floridi, L. (2017). Why a right to explanation of automated decision-making does not exist in the general data protection regulation. International Data Privacy Law, 7(2), 76–99. https://doi.org/10.1093/idpl/ipx005
+
+Wachter, S., Mittelstadt, B., & Floridi, L. (2017). Why a right to explanation of automated decision-making does not exist in the general data protection regulation. International Data Privacy Law, 7(2), 76–99. https://doi.org/10.1093/idpl/ipx005
+
+Gunning, D., & Aha, D. W. (2019). DARPA’s explainable artificial intelligence (XAI) program. AI Magazine, 40(2), 44–58. https://www.darpa.mil/program/explainable-artificial-intelligence
+
+Gunning, D., & Aha, D. W. (2019). DARPA’s explainable artificial intelligence (XAI) program. AI Magazine, 40(2), 44–58. https://www.darpa.mil/program/explainable-artificial-intelligence
+
+Russell, S. (2019). Human compatible: Artificial intelligence and the problem of control. Viking. Google Scholar
+
+Russell, S. (2019). Human compatible: Artificial intelligence and the problem of control. Viking.
+
+Boden, M. A. (2018). Artificial intelligence: A very short introduction. Oxford University Press. Google Scholar
+
+Boden, M. A. (2018). Artificial intelligence: A very short introduction. Oxford University Press.
+
+Lin, P., Abney, K., & Bekey, G. A. (Eds.). (2011). Robot ethics: The ethical and social implications of robotics. MIT Press. Google Scholar
+
+Lin, P., Abney, K., & Bekey, G. A. (Eds.). (2011). Robot ethics: The ethical and social implications of robotics. MIT Press.
+
+Moor, J. H. (2006). The nature, importance, and difficulty of machine ethics. IEEE Intelligent Systems, 21(4), 18–21. https://doi.org/10.1109/MIS.2006.80
+
+Moor, J. H. (2006). The nature, importance, and difficulty of machine ethics. IEEE Intelligent Systems, 21(4), 18–21. https://doi.org/10.1109/MIS.2006.80
+
+Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI in society. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.8cd550d1
+
+Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI in society. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.8cd550d1
+
+Benjamin, R. (2019). Race after technology: Abolitionist tools for the new Jim code. Polity. Google Scholar
+
+Benjamin, R. (2019). Race after technology: Abolitionist tools for the new Jim code. Polity.
+
+Crawford, K. (2021). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press. Google Scholar
+
+Crawford, K. (2021). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
+
+Buolamwini, J. (2023). Unmasking AI: My mission to protect what is human in a world of machines. Random House. Google Scholar
+
+Buolamwini, J. (2023). Unmasking AI: My mission to protect what is human in a world of machines. Random House.
+
+Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. PublicAffairs. Google Scholar
+
+Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. PublicAffairs.
+
+Russell, S. J., & Norvig, P. (2021). Artificial intelligence: A modern approach (4th ed.). Pearson. Google Scholar
+
+Russell, S. J., & Norvig, P. (2021). Artificial intelligence: A modern approach (4th ed.). Pearson.
+
+Silver, D., et al. (2016). Mastering the game of Go with deep neural networks and tree search. Nature, 529(7587), 484–489. Google Scholar
+
+Silver, D., et al. (2016). Mastering the game of Go with deep neural networks and tree search. Nature, 529(7587), 484–489.
+
+Chhabra, A., Masalkovaitė, K., & Mohapatra, P. (2021). An overview of fairness in clustering. IEEE Access, 9, 130698–130720. https://doi.org/10.1109/ACCESS.2021.3114099
+
+Chhabra, A., Masalkovaitė, K., & Mohapatra, P. (2021). An overview of fairness in clustering. IEEE Access, 9, 130698–130720. https://doi.org/10.1109/ACCESS.2021.3114099
+
+Shihab, I. F., Chen, Y., & Zhang, L. (2025). Detecting and mitigating reward hacking in reinforcement learning systems: A comprehensive empirical study. arXiv preprint arXiv:2507.05619
+
+Shihab, I. F., Chen, Y., & Zhang, L. (2025). Detecting and mitigating reward hacking in reinforcement learning systems: A comprehensive empirical study. arXiv preprint arXiv:2507.05619
+
+Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). Why should I trust you? Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1135–1144). https://doi.org/10.1145/2939672.2939778
+
+Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). Why should I trust you? Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1135–1144). https://doi.org/10.1145/2939672.2939778
+
+Rakova, B., Yang, J., Cramer, H., & Chowdhury, R. (2021). Where responsible AI meets reality: Practitioner perspectives on enablers for shifting organizational practices. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), 1–23. https://doi.org/10.1145/3449081
+
+Rakova, B., Yang, J., Cramer, H., & Chowdhury, R. (2021). Where responsible AI meets reality: Practitioner perspectives on enablers for shifting organizational practices. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), 1–23. https://doi.org/10.1145/3449081
+
+Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 33–44). https://doi.org/10.1145/3351095.3372873
+
+Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 33–44). https://doi.org/10.1145/3351095.3372873
+
+Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1(9), 389–399. https://doi.org/10.1038/s42256-019-0088-2
+
+Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1(9), 389–399. https://doi.org/10.1038/s42256-019-0088-2
+
+Liu, B., et al. (2025). Advances and challenges in foundation agents. arXiv:2504.01990
+
+Liu, B., et al. (2025). Advances and challenges in foundation agents. arXiv:2504.01990
+
+OpenAI. (2023). GPT-4 Technical Report. https://openai.com/research/gpt-4
+
+OpenAI. (2023). GPT-4 Technical Report. https://openai.com/research/gpt-4
+
+Bengio, Y., Lodi, A., & Prouvost, A. (2021). Machine learning for combinatorial optimization. Annual Review of Operations Research and Management Science. Google Scholar
+
+Bengio, Y., Lodi, A., & Prouvost, A. (2021). Machine learning for combinatorial optimization. Annual Review of Operations Research and Management Science.
+
+Deng, J., et al. (2009). ImageNet: A large-scale hierarchical image database. In CVPR. Google Scholar
+
+Deng, J., et al. (2009). ImageNet: A large-scale hierarchical image database. In CVPR.
+
+Google DeepMind. (2024). RT-2 and TidyBot projects. Google Scholar
+
+Google DeepMind. (2024). RT-2 and TidyBot projects.
+
+Lin, X., Chan, R. Y., Sharma, S., & Bista, K. (Eds.). (2024). ChatGPT and global higher education: Using AI in teaching and learning. STAR Scholars Press. Google Scholar
+
+Lin, X., Chan, R. Y., Sharma, S., & Bista, K. (Eds.). (2024). ChatGPT and global higher education: Using AI in teaching and learning. STAR Scholars Press.
+
+Kokotajlo, D., et al. (2025). AI 2027: The future of AI. AI Futures Project. Google Scholar
+
+Kokotajlo, D., et al. (2025). AI 2027: The future of AI. AI Futures Project.
+
+OpenAI. (2024). GPT-4o: Multimodal AI capabilities. https://openai.com/research/gpt-4o
+
+OpenAI. (2024). GPT-4o: Multimodal AI capabilities. https://openai.com/research/gpt-4o
+
+Bran, A., et al. (2023). ChemCrow: Large Language Models in chemistry. arXiv:2304.05376
+
+Bran, A., et al. (2023). ChemCrow: Large Language Models in chemistry. arXiv:2304.05376
+
+Salzano, M. (2024). Keeping the human educator in the loop. In Lin et al. (Eds.), ChatGPT and global higher education. Google Scholar
+
+Salzano, M. (2024). Keeping the human educator in the loop. In Lin et al. (Eds.), ChatGPT and global higher education.
+
+He, Y., & Cordie, L. (2024). The influence of ChatGPT on student learning outcomes in higher education. In Lin et al. (Eds.), ChatGPT and Global Higher Education. Google Scholar
+
+He, Y., & Cordie, L. (2024). The influence of ChatGPT on student learning outcomes in higher education. In Lin et al. (Eds.), ChatGPT and Global Higher Education.
+
+Luan, L., et al. (2024). Transforming STEM education with ChatGPT. In Lin et al. (Eds.), ChatGPT and global higher education. Google Scholar
+
+Luan, L., et al. (2024). Transforming STEM education with ChatGPT. In Lin et al. (Eds.), ChatGPT and global higher education.
+
+Rubin, L. M. (2024). ChatGPT and research ethics. In Lin et al. (Eds.), ChatGPT and global higher education. Google Scholar
+
+Rubin, L. M. (2024). ChatGPT and research ethics. In Lin et al. (Eds.), ChatGPT and global higher education.
+
+Authors and Affiliations
+
+Forti5 Technologies Limited, London, UKMuthu Ramachandran
+
+Forti5 Technologies Limited, London, UK
+
+Muthu RamachandranView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Correspondence to Muthu Ramachandran .
+
+1.1 Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (PPTX 51 kb)
+
+Supplementary file2 (DOCX 26 kb)
+
+Rights and permissions
+
+Reprints and permissions
+
+Copyright information
+
+Ramachandran, M. (2026). The Ethics of Artificial Intelligence. In: Engineering Ethics of AI by Design. Springer, Singapore. https://doi.org/10.1007/978-981-95-2909-4_1
+
+DOI: https://doi.org/10.1007/978-981-95-2909-4_1
+
+DOI: https://doi.org/10.1007/978-981-95-2909-4_1
+
+Published: 16 November 2025
+
+Published: 16 November 2025
+
+Publisher Name: Springer, Singapore
+
+Publisher Name: Springer, Singapore
+
+Print ISBN: 978-981-95-2908-7
+
+Print ISBN: 978-981-95-2908-7
+
+Online ISBN: 978-981-95-2909-4
+
+Online ISBN: 978-981-95-2909-4
+
+eBook Packages: EngineeringEngineering (R0)
+
+eBook Packages: EngineeringEngineering (R0)
+
+Anyone you share the following link with will be able to read this content:
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Starting from 10 chapters or articles per month
+
+Access and download chapters and articles from more than 300k books and 2,500 journals
+
+Available as EPUB and PDF
+
+Durable hardcover edition
+
+Dispatched in 3 to 5 business days
+
+Free shipping worldwide - see info
+
+Tax calculation will be finalised at checkout
+
+Purchases are for personal use only
+
+Institutional subscriptions
+
+Publish your research
+
+Open access publishing
+
+Products and services
+
+Partners and advertisers
+
+Your privacy choices/Manage cookies
+
+Your US state privacy rights
+
+Accessibility statement
+
+Cancel contracts here
