@@ -1,0 +1,18 @@
+{
+  "relevant": true,
+  "reason": "The content provides an overview of the Indus Valley Civilization, including its historical context, urban planning, economic systems, societal structures, writing systems, theories on its decline, related topics, additional context, and a conclusion.",
+  "summary": "The content provides an overview of the Indus Valley Civilization, including its historical context, urban planning, economic systems, societal structures, writing systems, theories on its decline, related topics, additional context, and a conclusion. The text is structured into 10 sections, each beginning with a heading starting with #, followed by detailed explanations and analysis of the subject matter.",
+  "language": "en",
+  "topics": [
+    "Indus Valley Civilization Overview",
+    "Key Historical Context",
+    "Urban Planning and Architecture",
+    "Economy and Trade",
+    "Society and Culture",
+    "Writing System and Language",
+    "Decline Theories",
+    "Related Topics and Concepts",
+    "Additional Contextual Information",
+    "Conclusion"
+  ]
+}
