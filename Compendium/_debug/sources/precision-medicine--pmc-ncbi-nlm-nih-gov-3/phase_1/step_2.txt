@@ -1,0 +1,5 @@
+{
+  "summary": "You are provided with a summary text that includes specific sections and content. The summary is structured with headings (indicated by `# `), which are part of the original text and should be preserved exactly as they appear. The summary includes references to key topics such as precision medicine, pharmacogenomics, metabolomics, AI in healthcare, ethical considerations, and research misconduct. The text also includes detailed explanations, formatting notes (e.g., citations), and actionable steps (e.g., next steps). The summary is to be copied as-is into the `summary` field, with no modifications to its content or structure.",
+  "topics": ["Understanding Context", "Research Misconduct Flag", "Precision Medicine Tools", "Citation Formatting", "Next Steps", "Additional Resources"],
+  "language": "en"
+}
