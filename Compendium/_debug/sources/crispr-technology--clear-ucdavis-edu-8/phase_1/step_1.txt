@@ -1,0 +1,133 @@
+Make a Gift to UC Davis
+
+Campus COVID Information
+
+Main navigation (extended config)
+
+2025 Feed Summit About the Summit Dr. Troy Rowan
+
+About the Summit Dr. Troy Rowan
+
+News Media Resources CLEAR Research Researchgate Newsletter Signup
+
+by UC Davis CLEAR Center
+
+What is gene editing?
+
+Gene editing is used to make a tiny, controlled change to DNA. By replacing a segment of DNA, scientists have the ability to remove undesirable or problematic genes.
+
+While this may sound outlandish, gene editing has been used in agriculture for years. Genetically modified organisms, or GMOs, are the byproducts of edited DNA to make organisms more efficient — whether through disease resistance, size of crop, weather tolerance, etc. To understand gene editing, there are a few key elements to be aware of: DNA are the building blocks of genes; they are tasked with making specific proteins and play a critical role in the structure of the body.
+
+RNA is a cousin of DNA. While DNA is double stranded, RNA is single stranded. There are many variations of RNA, but in gene editing the specific RNA used is called “guide RNA,” which leads gene-editing enzymes to the targeted segments of DNA. Guide RNA consists of approximately 20 base pairs, compared to at least 1,000 base pairs per strand in traditional RNA.
+
+CRISPR refers to a technology that removes a small piece of DNA and is adapted from gene editing in bacteria.
+
+Cas9 is an enzyme produced by the CRISPR system. After guide RNA binds to DNA, Cas9 is
+
+introduced and cuts DNA, which shuts off the target gene. Guide RNA are crucial to this process as they indicate where the cut should occur. Furthermore, guide RNA are short-lived, so the quickness of the Cas9 cut important.
+
+Dr. Trish Berger is a distinguished professor at the University of California Davis Department of Animal Science. Her career-spanning swine research explores fertilization and molecules involved in the fertilization process, environmental stress on reproduction, and most recently, genetic editing.
+
+“We may be able to take advantage of the tremendous improvements and efficiencies and improvements in animal welfare as a result of gene editing,” Dr. Berger explained. “We have to keep on doing the research and gathering all the data.”
+
+CRISPR is a revolutionary technology that enable scientists to do this work. But, how does gene editing work? Scientists begin by engineering a piece of RNA that will be a match for the DNA they want to edit. They introduce the guide RNA to the DNA. The guide RNA binds to the DNA, indicating where the Cas9 will cut. The cell rushes to fix the broken DNA after the cut is made, frequently omitting a small segment of DNA.
+
+Currently, Dr. Berger is working with CRISPR to try and eliminate boar taint and the need for castration. When it comes to boar taint, the gene Berger and her colleagues targeted in this process is known as SRD5A2, which scientists have identified as the gene that produces androsterone. In an experiment researchers used CRISPR, Cas9 to edit this gene in a single fertilized cell. The cell divided over the course of days, producing additional modified cells they could insert the embryo into a sow to produce a pig without the gene that leads to androsterone production.
+
+“What we’re proposing (with the use of CRISPR) is that the males will still have their pubertal growth spurt that you would expect with intact males, and they would still have that increased feed efficiency so if we are decreasing the use of natural resources to produce the same amount of pork, then that’s good for everyone.” Dr. Berger said.
+
+The on-going gene editing experiment shows promise
+
+Berger and her colleagues are hopeful that this example of using CRISPR to prevent boar taint and future research will lead to a promising solution. They have successfully produced two unrelated pigs from their genetically modified fertilized cells — one male and one female. Both had normal appearances at birth and their blood was tested to determine they have normal hormone levels.
+
+The male does not show signs of boar taint at 16 weeks by simple smell tests. Berger and her colleagues are watching the animals closely and hope to breed the two pigs to see the efficacy of their solution in future generations. The research on the potential to use CRIPSR, Cas9 technology to prevent androsterone is ongoing.
+
+Insung Park, who is a postdoctoral scholar in the Department of Animal Science and works with Dr. Berger and has been working alongside her with CRISPR in hopes of eliminating boar taint in pigs.
+
+“We can be making huge changes in agriculture with this.” Park said. “If you can prove that this is the way to go, then it could be a game changer for many people.”
+
+Benefits of gene editing in the swine industry
+
+Berger sees great promise in gene editing for a multitude of reasons. Eliminating the need for castration is certainly a benefit. Castration is an animal welfare concern for many consumers that could be eliminated. Additionally, using gene editing to eliminate the need for castration has the potential to make animals more efficient.
+
+“Boars with testes have higher levels of testosterone,” said Berger. “So, they are more feed efficient and grow at a faster rate than castrated barrows. We have the potential to remove the need for castration while also making pigs more efficient.”
+
+Boars become aggressive as they age, which castration eliminates. In-tact boars are harvested approximately two weeks earlier than castrated barrows to reduce the effects of this aggression which can include mounting boars and sows or harming workers. Berger notes that although they are harvested slightly earlier than castrated barrows, their size is the same because of their increased growth rate.
+
+The future of gene editing in the swine industry
+
+Because the industry uses artificial insemination and purchases semen from the market, Berger explains that their research will be beneficial for companies devoted to developing strong genetics to breed into herds. Although every genetic line is different, any gene company should be able to use the guide RNA created to delete the SRD5A2 gene in their genetic lines.
+
+Gene editing speaks to the broad innovation in the pork industry to make improvements for pigs, people and the planet. Berger and her colleagues are committed to their ongoing research to determine efficacy of this gene editing technology and ensure there are not adverse effects to animals.
+
+Key talking points and Q&A:
+
+How does gene editing work in animals?
+
+Scientists design a piece of “guide RNA” that matches the DNA sequence they want to change. This guide RNA directs an enzyme called Cas9 to the exact spot in the genome. Cas9 then cuts the DNA, and the cell repairs it—often deleting or altering the gene in the process.
+
+It’s not about “adding” anything
+
+Gene editing is about making small, natural changes to the pig’s own DNA—no foreign genes are added.
+
+It’s like speeding up the kind of improvements farmers have made for generations.
+
+Think of it as snipping or turning off a specific trait, not changing what a pig is.
+
+Gene editing helps animals stay healthier—naturally.
+
+Some gene edits help pigs resist diseases, reducing the need for antibiotics or other treatments.
+
+Healthier animals = safer, more sustainable food.
+
+Less stress on animals and less waste in the food system.
+
+What’s different in a gene-edited pig? Mostly how the pigs are raised—not the pork itself.
+
+It supports a more sustainable food future.
+
+Gene-edited pigs can thrive with fewer resources and lower environmental impact.
+
+Better health and efficiency mean less feed, less water, and lower emissions.
+
+It’s one tool helping agriculture reduce its footprint while feeding more people.
+
+Why is eliminating boar taint important?
+
+Boar taint affects pork quality and traditionally requires surgical castration to prevent. Removing the need for castration would improve animal welfare and help pigs grow faster and use feed more efficiently.
+
+What other ways has CRISPR proved successful?
+
+Sickle Cell Disease TreatmentCRISPR has been used in clinical trials to edit blood cells of patients with sickle cell disease or beta-thalassemia. Many patients have seen dramatic improvements or even apparent cures.
+
+Gene-Edited Dogs for Human Disease ResearchGene editing has helped create accurate models of diseases like muscular dystrophy in dogs, which helps researchers develop treatments for humans.
+
+What’s an analogy of CRISPR is?
+
+When software designers run into an issue or glitch in their programs, they design code to overwrite or correct the glitch. That is what CRISPR is doing in genes—it’s not adding anything but rather it’s fixing a glitch (disease, etc.) with precision and accuracy.
+
+The CLEAR Center receives support from the Pork Checkoff, through the National Pork Board.
+
+Subscribe to the CLEAR Center Newsletter
+
+Do you like to eat? Do you want to breathe clean air and be confident that our planet will be in acceptable – or even good – shape for our children, for their children and for many generations after them?
+
+Call me naive; I believe you do. As a professor and extension specialist at the University of California, Davis, I have the privilege of working on these issues and helping the public, media and thought leaders better understand the role of agriculture in nourishing our world, while also focusing attention on cleaner air and a healthy climate.
+
+I won’t tell you what to think, and I certainly won’t tell you what to eat. That’s a personal decision based on many factors. What I will do is present the latest, most accurate research we have on animal agriculture and air quality in regards to climate.
+
+Read Frank Mitloehner's Blog
+
+Follow the CLEAR Center
+
+University of California, Davis, One Shields Avenue, Davis, CA 95616 | 530-752-1011
+
+Questions or comments?
+
+Privacy & Accessibility
+
+Principles of Community
+
+University of California
+
+Last update: June 27, 2025
