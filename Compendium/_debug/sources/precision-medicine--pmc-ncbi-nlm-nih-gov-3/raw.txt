@@ -1,0 +1,261 @@
+An official website of the United States government
+
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Primary site navigation
+
+View on publisher site
+
+Permalink PERMALINK Copy
+
+Precision medicine: Concept and tools
+
+Copyright and License information
+
+Corresponding author. bijuvasudevan1975@gmail.com
+
+Precision medicine is the new age medicine and refers to tailoring treatments to a subpopulation who have a common susceptibility to a particular disease or similar response to a particular drug. Although the concept existed even during the times of Sir William Osler, it was given a shot in the arm with the Precision Medicine Initiative launched by Barack Obama in 2015. The main tools of precision medicine are Big data, artificial intelligence, the various omics, pharmaco-omics, environmental and social factors and the integration of these with preventive and population medicine. Big data can be acquired from electronic health records of patients and includes various biomarkers (clinical and omics based), laboratory and radiological investigations and these can be analysed through machine learning by various complex flowcharts setting up an algorithm for the management of specific subpopulations. So, there is a move away from the traditional “one size fits all” treatment to precision-based medicine. Research in “omics” has increased in leaps and bounds and advancements have included the fields of genomics, epigenomics, proteomics, transcriptomics, metabolomics and microbiomics. Pharmaco-omics has also come to the forefront with development of new drugs and suiting a particular drug to a particular subpopulation, thus avoiding their prescription to non-responders, preventing unwanted adverse effects and proving economical in the long run. Environmental, social and behavioural factors are as important or in fact more important than genetic factors in most complex diseases and managing these factors form an important part of precision medicine. Finally integrating precision with preventive and public health makes “precision medicine” a complete final product which will change the way medicine will be practised in future.
+
+Keywords: Precision medicine, Omics, Big data, Preventive medicine, Epigenetics
+
+“Precision medicine” is a term which refers to tailoring the treatment to a subpopulation of people who differ in their susceptibility to develop a particular disease or response to a specific medicine.1 Previously the term “Personalised medicine” was in vogue, but due to the misinterpretation that it would mean treatment catering to only a particular individual, it has been replaced worldwide by the term Precision medicine. It has also been labelled as stratified medicine, targeted therapy and deep phenotyping in literature.
+
+The concept of precision medicine is not really new. It existed even during the times of Sir William Osler when he said – “It is much more important to know what sort of a patient has disease than what sort of a disease a patient has”. Developments in the field of genomics mirror early inroads into the development of precision medicine: from discovery of the double Helix model of DNA in 1953 to the development of Sanger sequencing in 1977 and finally to the launching of the Human Genome Project in 1990. The Human Genome project took a long 13 years for completion, but it was based on the premise that all disorders follow Mendelian characteristics. However, we now know that multiple genes affect most complex diseases and individual genes may contribute very less to pathogenicity. Also, individuals with same gene defects may develop different phenotypical disorders and a single disorder may be caused by varied genetic defects. So, predictive power of genetics alone towards disease causation is at best low to moderate. Hence there was a felt need for newer technologies and ideas in medicine.
+
+The concept of precision medicine was actually brought to the limelight in 2015 by US President Barrack Obama when during his State of the Union address, he said that “Tonight I am launching a new precision medicine initiative to bring us closer to curing diseases such as cancer and diabetes.”2 Following this there was a huge increase in interest and research on precision medicine techniques with evidence from Google search where there was a 1000-fold jump in searches for the term precision medicine from 2015 onwards.
+
+Traditional medicine versus precision medicine
+
+Traditional medicine used a “one size fits all” approach meaning that a particular drug was used to treat all patients suffering from a particular disease. This approach however is laden with various problems like only a certain percentage of these patients would respond to the particular drug, a significant percentage would not respond and another important subset would develop adverse effects. The reasons for these inter-individual differences could be genetic variations, age, gender, addictions, race, ethnicity, concomitant drugs, comorbidities, environmental factors, and so on.3 This led to not only wastage of drugs but also increased costs and poor patient and doctor satisfaction.
+
+Precision medicine seeks to circumvent this by taking into account subpopulation variability in genetic, socio-environmental and lifestyle factors to propose precise therapies. It aims for accurate measurement of molecular, environmental and behavioural factors contributing to health and disease thus leading to more precise diagnosis, rational disease prevention strategy, treatment selection and development of newer therapies.
+
+The actual difference between the traditional practise of medicine and precision medicine is brought about by the availability of Big Data. With rapid advances in molecular biology and genetic testing becoming much quicker and cheaper by the day, it has now allowed researchers to collect large volumes of data and by combining this with clinical, pharmacological and socio-economic information, analysis can be carried out using integrated data sets by various computer-based algorithms, thus observing patterns of effectiveness of particular treatments and titrating treatments to the susceptible populations alone.
+
+Precision medicine can also be tailored for population-based approaches thus lending a huge preventive angle to the whole concept. It also seeks to engage patients as active participants in research and care thus giving rise to the terminology – “preventive, personalised, precision, population and participatory medicine.”
+
+Tools of precision medicine
+
+The various tools by which precision medicine seeks to achieve its goals are omics, pharmaco-omics, big data, artificial intelligence, machine learning (ML), environmental, social and behavioural factors and integration with preventive and public health (Fig. 1).
+
+Tools of precision medicine.
+
+Since the completion of human genome project at the beginning of millennium, high-throughput technologies have revolutionized medical research. These technologies help in providing a snapshot of any biological system of interest at a resolution that has never been possible before. This high resolution and high-throughput outcomes constitute “Omics” which is a nomenclature broadly applied to a collective study of molecular characterization and quantification of biological molecules from various subdomains of molecular biology using high-throughput technology. There is a plethora of “omics” terms derived from different types of biomolecules in cells of the human body.4
+
+The central dogma of molecular biology states that DNA passes the coded information for protein synthesis to messenger ribonucleic acid (mRNA) by the process of transcription and the coded information from mRNA is translated to proteins. The complete set of DNA in a cell is called a genome.5 The characterization of this genome is called Genomics which is the most evolved branch of omics.6 Similarly, complete set of RNA both coding (messenger RNA), as well as non-coding RNA (transfer RNA, soluble RNA, mRNA small interfering RNA, and so on) present in a cell or sample studied is called transcriptome and the comprehensive analysis of transcriptome is called Transcriptomics.7 Likewise, complete set of expressed proteins in a cell is called proteome and its study is called Proteomics.8,9
+
+The more or less constant genome that we are born with may undergo chemical modifications during our lifetime due to the diet, environment and lifestyle. These modifications are also heritable. Two most common and well-studied chemical modifications are histone acetylation and DNA methylation. These may lead to transcriptional activation or repression thus affecting the synthesis of corresponding protein. The sum total of these modifications is referred to as epigenome and the quantification and characterization of the same is called Epigenomics.10 MicroRNA (miRNA) which can either destroy coding mRNA or interfere in translation can also regulate gene expression and forms a part of Epigenomics.11
+
+Proteins as enzymes, carrier proteins and signalling molecules are involved in metabolism at cellular and subcellular level which produces thousands of small molecules (<1500 Da) called metabolites. These metabolites are organic molecules comprising of peptides, oligonucleotides, sugars, nucleosides, organic acids, ketones, aldehydes, amines, amino acids, lipids, steroids, alkaloids, foods, food additives, toxins, pollutants, drugs and drug metabolites. These metabolites are derived from both endogenous, as well as exogenous products and the complete set of metabolites present in a sample is called Metabolome and its analysis is called Metabolomics.12
+
+The list of omics would be incomplete without the mention of Microbiomics. Microbiomics refers to the characterization of molecules responsible for structural and functional dynamics of microbiome, which is the complete load of microorganisms present in a human body. Microbiome may alter the metabolome and epigenome of the human being thus having significant implications in precision medicine along with other omics.13
+
+Sequencing as a technology has revamped the world of omics. Though sequencing has evolved from first generation Sanger's sequencing to the current third generation next-generation sequencing (NGS), the basic concept of sequencing remains same that is determining the order of bases adenine, guanine, cytosine and thymine. NGS has been instrumental in deciphering genomics, epigenomics and transcriptomics with the help of various approaches (Fig. 2).6,14,15 The issue with NGS is that it generates huge amount of data. Whole-genome sequencing of one sample may yield about 200 Gb data which would require complex bioinformatics interpretation and is time consuming.
+
+Multi-omics approaches.
+
+Microarray is another technique for genomics, epigenomics and transcriptomics which is able to provide customized clinically relevant information in relatively short turnaround time and manageable data. It is based on the principle of hybridization of complementary nucleotides to produce coloured display of light which can be read by the software.16,17
+
+The omics technique which has proved to be boon for proteomics and metabolomics is a combination of liquid or gas chromatography (LC or GC) and mass spectrometry (MS). The chromatogram and mass spectra generated from samples help in identification of specific proteins and metabolites. MS can also identify and quantitate post-translational covalent modifications of proteins.18 Through targeted analysis, the concentration of limited set of known metabolites can be estimated, whereas untargeted metabolic profiling, which is also known as global metabolomics, attempts to measure large set of unknown metabolites in a sample. The technique also helps in getting metabolic fingerprinting i.e total metabolic profile as a unique pattern or fingerprint for a particular metabolic state. Nuclear magnetic resonance (NMR) spectroscopy is another high-throughput technique used for metabolomics for similar applications as MS but with lower sensitivity. NMR spectroscopy creates data in the form of spectra consisting of multiple peaks that are the superposition of the spectra of all detected metabolites.19
+
+Every individual has a unique microbiome which can be used as the fingerprint. The most popular method for microbiomics is Metagenomics which involves direct genetic analysis of genomes contained within an environmental sample by shotgun sequencing. The proteomics and metabolomics techniques for microbiome are same as that for humans.20
+
+Multi-omics signatures or molecular signatures are biomolecular features derived from omics data of gene or transcript sequence, protein and metabolite expression corroborating with clinical phenotype using mathematical models. Molecular signatures can be utilized for the entire spectrum of the disease management from diagnosis to response to therapy and prognosis.21 Genomics signature has been the most evolved out of all omics signature but epigenomics and transcriptomics too have contributed significant data. Metabolomics signature facilitates in contributing metabolic phenotypes or metabotypes. Other omics signatures are also emerging in leaps and bounds.22
+
+The omics signature is influenced by the cross talk and dynamic exchange going on within the human body. At the same time there are external environmental and lifestyle factors which also influence the omics outcome (Fig. 3).23 Therefore, multi-omics data from an individual needs to be integrated to produce more meaningful molecular signatures which would be consistent with disease conditions or health. Integration of multi-omics signatures is called system biology.24 This captures information from all types of omics and its correlation with computational models for predicting behaviour of cells, tissue, or organ in health and disease.25
+
+Factors affecting omics signature.
+
+Thus, the omics with all its sub branches has a powerful role as tools of precision medicine.
+
+“Pharmaco-omics” is the study of “omics” sciences to provide an insight into molecular mechanisms involved in individual variations in drug response phenotypes and mechanisms of drug response and their application into therapeutics.26,27 The oldest and most developed branch is pharmacogenomics; others viz. pharmaco-transcriptomics, pharmaco-epigenetics, pharmaco-proteomics, pharmaco-metabolomics and pharmaco-microbiomics are relatively newer and developing fields. Genomic data provides a screen shot of the genetic milieu, but genes and their transcripts may not always translate to corresponding proteins that regulate cellular functions (Fig. 4). Almost 100 alleles are known for the drug metabolizing cytochrome P450 enzyme CYP2D6, but only nine of them account for 95% of the phenotypes.28 For CYP2C19 over 30 alleles are known but only four of them account for all the phenotypes.28 Proteins have a more dynamic nature making them ideal to study drug responses; so, pharmacogenomics should be paired with the other omics data to achieve precision pharmacotherapeutics. The Clinical Pharmacogenetics Implementation Consortium issues periodic guidelines for using genetic information in selecting medication and its dosing. Food and Drug Administration (FDA) issues labellings regulations and it is now mandatory to endorse any clinically relevant genetic information known about the drug on its label.28 Pharmaco-omics can be associated individually with the various omics in the following manner:
+
+a)Pharmacogenomics: It involves study of the effects of genetic polymorphisms on drug disposition and drug response. Genetic variations may be in single genes or in multiple genes (polygenetic) and any genetic variation that occurs in more than 1% of population is considered to be a genetic polymorphism.28 Pharmacogenetics is the study of how variation in a single gene influences the response to a drug. It has been clinically relevant for decades with the discovery of acetylation polymorphisms, atypical pseudocholinesterase and G6PD deficiency.29 With the conclusion of the Human Genome Project, it has evolved into pharmacogenomics, the focus being shifted from individual genes to entire genome.30 Drug disposition influences the circulatory and target drug concentrations achieved and is controlled by the drug pharmacokinetics (absorption, distribution, metabolism and excretion) (Fig. 5). Any alteration in the same could be as a consequence of changes in the drug metabolizing enzymes (Fig. 6), drug transport proteins (Fig. 7), plasma protein binding and transcription factors. Drug response is affected by the pharmacodynamics i.e., by the drug targets/receptors and post-receptor mechanisms (Fig. 8).28
+
+Pharmacogenomics: It involves study of the effects of genetic polymorphisms on drug disposition and drug response. Genetic variations may be in single genes or in multiple genes (polygenetic) and any genetic variation that occurs in more than 1% of population is considered to be a genetic polymorphism.28 Pharmacogenetics is the study of how variation in a single gene influences the response to a drug. It has been clinically relevant for decades with the discovery of acetylation polymorphisms, atypical pseudocholinesterase and G6PD deficiency.29 With the conclusion of the Human Genome Project, it has evolved into pharmacogenomics, the focus being shifted from individual genes to entire genome.30 Drug disposition influences the circulatory and target drug concentrations achieved and is controlled by the drug pharmacokinetics (absorption, distribution, metabolism and excretion) (Fig. 5). Any alteration in the same could be as a consequence of changes in the drug metabolizing enzymes (Fig. 6), drug transport proteins (Fig. 7), plasma protein binding and transcription factors. Drug response is affected by the pharmacodynamics i.e., by the drug targets/receptors and post-receptor mechanisms (Fig. 8).28
+
+b)Pharmaco-transcriptomics: This is based on individualizing drug treatment and dosing based on interindividual transcriptome variations.31 They have therapeutic potential in bone and cardiac regeneration, in cancers and as immunomodulators, provided suitable delivery systems are developed for them to reach their intracellular targets.32
+
+Pharmaco-transcriptomics: This is based on individualizing drug treatment and dosing based on interindividual transcriptome variations.31 They have therapeutic potential in bone and cardiac regeneration, in cancers and as immunomodulators, provided suitable delivery systems are developed for them to reach their intracellular targets.32
+
+c)Pharmaco-epigenetics: It is the study of epigenetic basis for individual variation in drug response.33 Epigenetic alterations may regulate the expression of drug metabolizing enzymes, drug transporters or nuclear receptors thereby affecting drug response, adverse effects and resistance. Some approved epigenetic focused therapies that act by modulating acetylation or methylation are enlisted in Table 1,34 and many more are being investigated.
+
+Pharmaco-epigenetics: It is the study of epigenetic basis for individual variation in drug response.33 Epigenetic alterations may regulate the expression of drug metabolizing enzymes, drug transporters or nuclear receptors thereby affecting drug response, adverse effects and resistance. Some approved epigenetic focused therapies that act by modulating acetylation or methylation are enlisted in Table 1,34 and many more are being investigated.
+
+d)Pharmaco-proteomics: It is application of proteomics to assess drug effects and in drug discovery.35 It helps in demarcating patient to patient variation more clearly than pharmacogenomics as all the genetic changes may not actually translate into changes in the protein milieu. Inter-individual variations may be qualitative or quantitative and may also get altered in diseases and after drug administration.
+
+Pharmaco-proteomics: It is application of proteomics to assess drug effects and in drug discovery.35 It helps in demarcating patient to patient variation more clearly than pharmacogenomics as all the genetic changes may not actually translate into changes in the protein milieu. Inter-individual variations may be qualitative or quantitative and may also get altered in diseases and after drug administration.
+
+e)Pharmaco-metabolomics: It involves study of the interactions between pharmacology and the patient's metabolic phenotype.36 It applies metabolomic approach to drug research to understand the pharmacokinetics and pharmacodynamics of the drug, to detect the factors that can alter drug metabolism, to identify biomarkers relevant to the response to a drug and to detect novel targets for drug research.37 The metabolomic data of an individual is dynamic and may change in diseases, infections or after drug administration and monitoring it helps in predicting the effectiveness and toxicity of treatment and in individualizing the dosage. N Methyl glycerine was identified as a novel target for treating prostate carcinoma in 2009 38 and similarly 2-hydroxyglutarate for acute myeloid leukaemia.39
+
+Pharmaco-metabolomics: It involves study of the interactions between pharmacology and the patient's metabolic phenotype.36 It applies metabolomic approach to drug research to understand the pharmacokinetics and pharmacodynamics of the drug, to detect the factors that can alter drug metabolism, to identify biomarkers relevant to the response to a drug and to detect novel targets for drug research.37 The metabolomic data of an individual is dynamic and may change in diseases, infections or after drug administration and monitoring it helps in predicting the effectiveness and toxicity of treatment and in individualizing the dosage. N Methyl glycerine was identified as a novel target for treating prostate carcinoma in 2009 38 and similarly 2-hydroxyglutarate for acute myeloid leukaemia.39
+
+f)Pharmaco-microbiomics: Gut microbiome alters bioavailability, actions and adverse effects of drugs, thus playing a key role in drug response. The microbiome can be modified by diet, probiotics and antibiotics making them a potential therapeutic target. Pharmaco-microbiomics is an emerging field which studies the relationship among prevailing microbiome, patient, drug pharmacokinetic and pharmacodynamics and their applications in therapeutics.40 An example of bacteriotherapy is fecal transplantation for treating recurrent C. difficile colitis.41
+
+Pharmaco-microbiomics: Gut microbiome alters bioavailability, actions and adverse effects of drugs, thus playing a key role in drug response. The microbiome can be modified by diet, probiotics and antibiotics making them a potential therapeutic target. Pharmaco-microbiomics is an emerging field which studies the relationship among prevailing microbiome, patient, drug pharmacokinetic and pharmacodynamics and their applications in therapeutics.40 An example of bacteriotherapy is fecal transplantation for treating recurrent C. difficile colitis.41
+
+Translation of genetic polymorphisms to observable phenotypes.
+
+Effect of pharmacokinetic and pharmacodynamics on drug effects and toxicity.
+
+Genetic polymorphisms in drug metabolizing enzymes. (A) CYP2D6 polymorphism affecting disposition of codeine. (B) CYP2C19 polymorphism affecting disposition of clopidogrel.
+
+Genetic polymorphism in drug transporters. Organic anion transporter P1B1 (OAT P1B1) polymorphism reduces uptake of clopidogrel into the liver thus causing increased plasma and increases the plasma concentrations (and adverse effects).
+
+Genetic polymorphism in CYP2C9 inhibits metabolism of warfarin and increases inhibition of VKOR (vitamin K epoxide reductase) which reduces vitamin K which is required for the carboxylation (activation) of coagulation factors VII, IX, and X – bleeding. Genetic polymorphism in VKOR (target for warfarin) prevents reduction of vitamin K – Bleeding. Polymorphisms of both, much higher incidence of bleeding.
+
+Epigenetic modulators.
+
+HDAC, histone deacetylase; HMT, histone methyl transferase.
+
+The data obtained from clinical information, complex biomolecular assays, radiological investigations, social and environmental factors are collected together forming a large amount of data for an individual and subpopulation which is referred to as the Big Data.42 These data are obtained through electronic medical records, scanners, biosensors, social media and the various omics including DNA sequences, transcriptomes, proteomes, metabolomes, epigenomes and microbiomes.43 The term “panoromic” has been used to denote the multiple biologic omic technologies which form a major part of the Big Data.44 These data can also be collected from various bio-sensor devices such as smart phones and other wearable smart devices. Thus, we are moving in the direction of growing data opportunity with each passing day. This large volume of data cannot be processed by traditional methods especially in a timely manner.
+
+Artificial Intelligence (AI) and Machine Learning (ML)
+
+Artificial intelligence (AI) and machine learning (ML) can process volumes of data in a timely manner through the bioinformatics system. AI and ML can integrate and convert Big Data into useful diagnostic and therapeutic interventions.45 Data storing, handling and analysis are best carried out using these methods. They can also handle all statistical challenges more efficiently than traditional methods. Internal and external validation of study models are another area where they will shine. Data mining and removing the noise in data are special techniques offered by AI and ML. By germinating various clinical, diagnostic and therapeutic algorithms through flowcharts, these methods allow the clinician to make various quick decisions. Predictive and prognostic models can also be designed admirably with these tools.
+
+Geospatial tracking of populations during the COVID-19 pandemic disease outbreaks, which provided real-time information of occurrence of infection, its spread, risk factors associated, mortality, contact tracing, effectivity of lockdowns and vaccine distribution have eased out management at all levels.46 Remote patient monitoring, telemedicine and AI use in radiology during the pandemic were some of the modalities which also highlighted the growing importance of digitalisation and precision medicine.
+
+Environmental, social and behavioural factors
+
+It has been increasingly realized that apart from genes, there are many other important determinants of health. Genetic factors have been attributed to account for only up to 30% in determining the health of any individual. That leaves more than two third of health being determined by four other factors including human behaviour (40%), social circumstances (15%), environmental exposures (5%) and healthcare (10%).47
+
+Unlike genetic factors, most of the behavioural, social and environmental factors can be modified to alter the risk of any given disease for an individual in future especially if we know the genetic predisposition of the disease.48 This concept looks lucrative giving clear levy to healthcare professionals to practice precision medicine not only for treatment but also for prevention of genetically predisposed diseases.
+
+To translate this concept into reality, one would require a robust prediction model using complex computational equations taking into account these determinants and their relative role in determining diseases, which would vary from one disease to another. This model looks easy to understand for diseases following monogenic inheritance, for example, cystic fibrosis, Huntington disease, and so on. However, non-communicable diseases such as primary hypertension. Type-II diabetes mellitus and coronary artery diseases, which account for 71% of global mortality in the modern world, have multifactorial causes which can be explained by web of causation depicting complex interaction between genetic and other factors.49 Polygenic inheritance occurs in most of the non-communicable diseases, wherein many genes are implicated in increasing the risk of these diseases. An index to measure this genetic predisposition is called polygenic risk score (PRS) which is calculated by adding weighted effect of each of these genetic variants together.50 Large genome-wide association studies are used to calculate and validate PRS for various diseases. A PRS then can be used to predict genetic risk for any given individual based on his/her genomes. However, the limitation is that this is not representative of the various populations across ethnic and geographical differences. We are still in process of evolving the better understanding of the interaction of various omics, including genomics and other factors influencing the health to arrive at mush more sophisticated predictive model. Such an ideal model is likely to be a reality in near future in light of big data opportunity from diverse sources and advanced technological tools of AI and ML, which will predict the personalised risk scores to any given individual based on omics, EHR, biosensor and various other facets of data to make precise decisions for applications in preventive, therapeutics and prognostic domains.
+
+Integration with preventive medicine and public health
+
+With increasing ability to not only measure but also to store and share data related to health in addition to the abundance of available genetic testing tools, integration of precision medicine with public health will be a very productive union. Electronic health records of a population can be accessed and along with information from other data, health risks can be gauged, to identify sub populations at higher risk so that preventive modalities can be targeted to this subpopulation. Prevention of chronic diseases, improvement of quality of life, reducing healthcare expenses and bridging the gaps in healthcare will result in proper integration of precision medicine with preventive medicine and public health.51
+
+Precision medicine is thus the new age medicine and with its various tools as described previously will really change the way medicine is practiced in the future.
+
+Disclosure of competing interest
+
+The authors have none to declare.
+
+1.McGrath S., Ghersi D. Building towards precision medicine: empowering medical professionals for the next revolution. BMC Med Genom. 2016;9:23. doi: 10.1186/s12920-016-0183-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+2.Collins F.S., Varmus H. A new initiative on precision medicine. N Engl J Med. 2015;372:793–795. doi: 10.1056/NEJMp1500523. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+3.Miller N.A., Farrow E.G., Gibson M. A 26-hour system of highly sensitive whole genome sequencing for emergency management of genetic diseases. Genome Med. 2015;7:100. doi: 10.1186/s13073-015-0221-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+4.Hasin Y., Seldin M., Lusis A. Multi-omics approaches to disease. Genome Biol. 2017;18(1):1–5. doi: 10.1186/s13059-017-1215-1. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+5.Crick F. Central dogma of molecular biology. Nature. 1970;227(5258):561–563. doi: 10.1038/227561a0. [DOI] [PubMed] [Google Scholar]
+
+6.Zeggini E., Gloyn A.L., Barton A.C., Wain L.V. Translational genomics and precision medicine: moving from the lab to the clinic. Science. 2019;365(6460):1409–1413. doi: 10.1126/science.aax4588. [DOI] [PubMed] [Google Scholar]
+
+7.Melé M., Ferreira P.G., Reverter F. The human transcriptome across tissues and individuals. Science. 2015;348(6235):660–665. doi: 10.1126/science.aaa0355. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+8.Duarte T.T., Spencer C.T. Personalized proteomics: the future of precision medicine. Proteomes. 2016;4(4):29. doi: 10.3390/proteomes4040029. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+9.Shapiro J.A. Revisiting the central dogma in the 21st century. Ann N Y Acad Sci. 2009;1178(1):6–28. doi: 10.1111/j.1749-6632.2009.04990.x. [DOI] [PubMed] [Google Scholar]
+
+10.Chadwick L.H., Sawa A., Yang I.V. New insights and updated guidelines for epigenome-wide association studies. Neuroepigenetics. 2015;1:14–19. [Google Scholar]
+
+11.Kozomara A., Birgaoanu M., Griffiths-Jones S. miRBase: from microRNA sequences to function. Nucleic Acids Res. 2019;47(D1):D155–D162. doi: 10.1093/nar/gky1141. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+12.Jacob M., Lopata A.L., Dasouki M., Abdel Rahman A.M. Metabolomics is the integrative readout of both genetic and environmental impacts Metabolomics toward personalized medicine. Mass Spectrom Rev. 2019;38(3):221–238. doi: 10.1002/mas.21548. [DOI] [PubMed] [Google Scholar]
+
+13.Knight R., Callewaert C., Marotz C. The microbiome and human biology. Annu Rev Genom Hum Genet. 2017;18(1):65–86. doi: 10.1146/annurev-genom-083115-022438. [DOI] [PubMed] [Google Scholar]
+
+14.Flanagan J.M. Epigenome-wide association studies (EWAS): past, present, and future. Methods Mol Biol. 2015;1238:51–63. doi: 10.1007/978-1-4939-1804-1_3. [DOI] [PubMed] [Google Scholar]
+
+15.Hrdlickova R., Toloue M., Tian B. RNA-Seq methods for transcriptome analysis. Wiley Interdiscip Rev RNA. 2017;8(1) doi: 10.1002/wrna.1364. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+16.Dwivedi S., Purohit P., Misra R. Diseases and molecular diagnostics: a step closer to precision medicine. Indian J Clin Biochem. 2017;32(4):374–398. doi: 10.1007/s12291-017-0688-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+17.Marín de Evsikova C., Raplee I.D., Lockhart J., Jaimes G., Evsikov A.V. The transcriptomic toolbox: resources for interpreting large gene expression data within a precision medicine context for metabolic disease atherosclerosis. J Personalized Med. 2019;9(2):21. doi: 10.3390/jpm9020021. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+18.Ding C., Qin Z., Li Y. Proteomics and precision medicine. Small Methods. 2019;3(7):1900075. [Google Scholar]
+
+19.Azad R.K., Shulaev V. Metabolomics technology and bioinformatics for precision medicine. Briefings Bioinf. 2019;20(6):1957–1971. doi: 10.1093/bib/bbx170. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+20.Thomas T., Gilbert J., Meyer F. Metagenomics-a guide from sampling to data analysis. Microb Inf Exp. 2012;2(1):1–2. doi: 10.1186/2042-5783-2-3. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+21.Sung J., Wang Y., Chandrasekaran S., Witten D.M., Price N.D. Molecular signatures from omics data: from chaos to consensus. Biotechnol J. 2012;7(8):946–957. doi: 10.1002/biot.201100305. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+22.Olivier M., Asmis R., Hawkins G.A., Howard T.D., Cox L.A. The need for multi-omics biomarker signatures in precision medicine. Int J Mol Sci. 2019;20(19):4781. doi: 10.3390/ijms20194781. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+23.Shukla S.K., Murali N.S., Brilliant M.H. Personalized medicine going precise: from genomics to microbiomics. Trends Mol Med. 2015;21(8):461. doi: 10.1016/j.molmed.2015.06.002. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+24.Abu-Asab M.S., Chaouchi M., Alesci S. Biomarkers in the age of omics: time for a systems biology approach. OMICS J Integr Biol. 2011;15(3):105–112. doi: 10.1089/omi.2010.0023. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+25.Rohart F., Gautier B., Singh A., Lê Cao K.A. mixOmics: an R package for ‘omics feature selection and multiple data integration. PLoS Comput Biol. 2017;13(11) doi: 10.1371/journal.pcbi.1005752. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+26.Turanli Beste, Karagoz Kubra, Gulfidan Gizem. A network-based cancer drug discovery: from integrated multi-omics approaches to precision medicine. Curr Pharmaceut Des. 2018;24(32):3778–3790. doi: 10.2174/1381612824666181106095959. [DOI] [PubMed] [Google Scholar]
+
+27.Weinshilboum R.M., Wang L. Mayo Clinic Proceedings. Elsevier; 2017. Pharmacogenomics: precision medicine and drug response. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+28.Jennifer E Hibma, Giacomini Kathleen M. Pharmacogenonics. In: Katzung Betram G., editor. Basic and Clinical Pharmacology. 14th ed. Mc Graw Hill; India: 2018. pp. 74–87. [Google Scholar]
+
+29.Evans W.E., Relling M.V. Pharmacogenomics: translating functional genomics into rational therapeutics. Science. 1999;286:487–491. doi: 10.1126/science.286.5439.487. [DOI] [PubMed] [Google Scholar]
+
+30.Wang Liewei, McLeod H.L., Weinshilboum Richard M. Genomics and drug response. N Engl J Med. 2011;364(12):1145–1153. doi: 10.1056/NEJMra1010600. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+31.Lucafo Marainna, Stancovic Biljana, Katur Nicola. Pharmacotranscriptomic biomarkers in glucocorticoid treatment in pediatric inflammatory bowel disease. Curr Med Chem. 2018;25(24):2855–2871. doi: 10.2174/0929867324666170920145337. [DOI] [PubMed] [Google Scholar]
+
+32.Rilo-Alvarez H., Ledo A.M., Vidal A., Garcia-Fuentes M. Delivery of transcription factors as modulators of cell differentiation. Drug Deliv Transl Res. 2021;11:426–444. doi: 10.1007/s13346-021-00931-8. [DOI] [PubMed] [Google Scholar]
+
+33.Majchrak-Celenska Aleksandra, Baer-Dubowska Wanda. Pharmacoepigenetics: an element of personalized therapy? Expet Opin Drug Metabol Toxicol. 2017;13(4):387–389. doi: 10.1080/17425255.2017.1260546. [DOI] [PubMed] [Google Scholar]
+
+34.Duncan K.W., Campbell J.E. Epigenetic modulators. In: Waring M.J., editor. vol. 28. Springer; 2017. (Cancer II. Topics in Medicinal Chemistry 2017). [DOI] [Google Scholar]
+
+35.D'Allessando Anelo, Zolla Lello. Pharmacoproteomics: a chess game in protein field. Drug Discov Today. 2010;15:23–24. doi: 10.1016/j.drudis.2010.10.002. [DOI] [PubMed] [Google Scholar]
+
+36.Pang H., Jia W., Hu Z. Emerging applications of metabolomics in clinical pharmacology. Clin Pharmacol Ther. 2019;106:544–556. doi: 10.1002/cpt.1538. [DOI] [PubMed] [Google Scholar]
+
+37.Mussap M., Loddo C., Fanni C., Fanos V. Metabolomics in pharmacology - a delve into the novel field of pharmacometabolomics. Expet Rev Clin Pharmacol. 2020 doi: 10.1080/17512433.2020.1713750. [DOI] [PubMed] [Google Scholar]
+
+38.Sreekumar A., Poisson L.M., Rajendiran T.M. Metabolomic profiles delineate potential role for sarcosine in prostate cancer progression. Nature. 2009;457:910–914. doi: 10.1038/nature07762. [DOI] [PMC free article] [PubMed] [Google Scholar] [Research Misconduct Found]
+
+39.Xu W., Yang H., Liu Y. Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of α-ketoglutarate-dependent dioxygenases. Cancer Cell. 2011;19:17–30. doi: 10.1016/j.ccr.2010.12.014. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+40.Katsila T., Balasopoulou A., Tsagaraki I. Pharmacomicrobiomics informs clinical pharmacogenomics. Pharmacogenomics. 2019;20:731–739. doi: 10.2217/pgs-2019-0027. [DOI] [PubMed] [Google Scholar]
+
+41.Lopetuso L.R., Ianiro G., Allegretti J.R. Fecal transplantation for ulcerative colitis: current evidence and future applications. Expet Opin Biol Ther. 2020;20(4):343–351. doi: 10.1080/14712598.2020.1733964. [DOI] [PubMed] [Google Scholar]
+
+42.Ristevski B., Chen M. Big data analytics in medicine and healthcare. J Integr Bioinform. 2018 10;15(3):20170030. doi: 10.1515/jib-2017-0030. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+43.Alonso S.G., de la Torre Díez I., Rodrigues J.J.P.C., Hamrioui S., López-Coronado M. A systematic review of techniques and sources of big data in the healthcare sector. J Med Syst. 2017;41(11):183. doi: 10.1007/s10916-017-0832-2. [DOI] [PubMed] [Google Scholar]
+
+44.López-Cortés A., Paz-Y-Miño C., Guerrero S. OncoOmics approaches to reveal essential genes in breast cancer: a panoramic view from pathogenesis to precision medicine. Sci Rep. 2020 24;10(1):5285. doi: 10.1038/s41598-020-62279-2. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+45.Wang F., Preininger A. AI in health: state of the art, challenges, and future directions. Yearb Med Inform. 2019;28(1):16–26. doi: 10.1055/s-0039-1677908. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+46.Mbunge E., Akinnuwesi B., Fashoto S.G., Metfula A.S., Mashwama P. A critical review of emerging technologies for tackling COVID-19 pandemic. Hum Behav Emerg Technol. 2020 doi: 10.1002/hbe2.237. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+47.Mackenbach J.P. Genetics and health inequalities: hypotheses and controversies. J Epidemiol Community Health. 2005;59:268–273. doi: 10.1136/jech.2004.026807. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+48.Schroeder S.A. Shattuck Lecture. We can do better--improving the health of the American people. N Engl J Med. 2007;357(12):1221–1228. doi: 10.1056/NEJMsa073350. [DOI] [PubMed] [Google Scholar]
+
+49.Einarson T.R., Acs A., Ludwig C., Panton U.H. Prevalence of cardiovascular disease in type 2 diabetes: a systematic literature review of scientific evidence from across the world in 2007-2017. Cardiovasc Diabetol. 2018;17(1):83. doi: 10.1186/s12933-018-0728-6. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+50.Torkamani A., Wineinger N.E., Topol E.J. The personal and clinical utility of polygenic risk scores. Nat Rev Genet. 2018;19(9):581–590. doi: 10.1038/s41576-018-0018-x. [DOI] [PubMed] [Google Scholar]
+
+51.Vaithinathan A.G., Asokan V. Public health and precision medicine share a goal. J Evid Base Med. 2017;10(2):76–80. doi: 10.1111/jebm.12239. [DOI] [PubMed] [Google Scholar]
+
+Articles from Medical Journal, Armed Forces India are provided here courtesy of Elsevier
+
+View on publisher site
+
+Permalink PERMALINK Copy
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Traditional medicine versus precision medicine
+
+Tools of precision medicine
+
+Disclosure of competing interest
+
+Format: AMA APA MLA NLM
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+HHS Vulnerability Disclosure
