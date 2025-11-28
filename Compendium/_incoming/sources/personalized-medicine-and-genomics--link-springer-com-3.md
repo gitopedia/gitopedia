@@ -1,0 +1,276 @@
+---
+id: 01KB66TR191HQ2W0J5PXVXR32W
+title: "Source: The Rise of Genomics and Personalized Medicine - Springer"
+url: "https://link.springer.com/chapter/10.1007/978-3-030-80100-7_2"
+type: source
+related_article: "personalized-medicine-and-genomics"
+created: 2025-11-29
+tags: ["Source"]
+summary: "Summarized source material for Personalized Medicine and Genomics"
+model: "code-prefilter"
+language: "en"
+---
+
+# Personalized Medicine and Genomics
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- Advancing Healthcare Through Personalized Medicine
+
+- The Rise of Genomics and Personalized Medicine
+
+- First Online: 28 September 2021
+
+- This is a preview of subscription content, log in via an institution to check access.
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Available as EPUB and PDF
+
+- Durable hardcover edition
+
+- Dispatched in 3 to 5 business days
+
+- Free shipping worldwide - see info
+
+- Tax calculation will be finalised at checkout
+
+- Purchases are for personal use only
+
+- Institutional subscriptions
+
+- Similar content being viewed by others
+
+- Pharmacogenetics, Pharmacogenomics, and Personalized Medicine
+
+- Pharmacogenomics and Pharmacogenetics
+
+- Single Nucleotide Polymorphisms and Pharmacogenomics
+
+- Explore related subjects
+
+- Genetics and Genomics
+
+- Personalized Medicine
+
+- Yashon R, Cummings M. Human genetics and society. Belmont, CA: Brooks/Cole; 2009. Google Scholar
+
+- Yashon R, Cummings M. Human genetics and society. Belmont, CA: Brooks/Cole; 2009.
+
+- Manolio TA, Guttmacher AE, Pearson TA. Genome-wide association studies and assessment of the risk of disease. New Engl Jour Med. 2010;363(2):166–76.Article CAS Google Scholar
+
+- Manolio TA, Guttmacher AE, Pearson TA. Genome-wide association studies and assessment of the risk of disease. New Engl Jour Med. 2010;363(2):166–76.
+
+- Article CAS Google Scholar
+
+- Pearson TA, Manolio TA. How to interpret a genome-wide association study. JAMA. 2008;299(11):1335–134.Article CAS Google Scholar
+
+- Pearson TA, Manolio TA. How to interpret a genome-wide association study. JAMA. 2008;299(11):1335–134.
+
+- Article CAS Google Scholar
+
+- Dervan A, Shendure J. The state of whole genome sequencing. In: Ginsburg GS, Willard HF, editors. Genomic and precision medicine: foundations, translation and implementation. 3rd ed. London: Academic Press; 2017. p. 45–62.Chapter Google Scholar
+
+- Dervan A, Shendure J. The state of whole genome sequencing. In: Ginsburg GS, Willard HF, editors. Genomic and precision medicine: foundations, translation and implementation. 3rd ed. London: Academic Press; 2017. p. 45–62.
+
+- Chapter Google Scholar
+
+- Pereira MA, Lima MK, PGP C, Penna MG, Alvim LB, et al.
+- Cancer genomics in precision oncology: applications, challenges and prospects.
+- In: Masood N, Malikm SS, editors.
+- Essentials of cancer genomic, computational approaches and precision medicine.
+- Singapore: Springer; 2020. p. 453–99.Chapter Google Scholar
+
+- Pereira MA, Lima MK, PGP C, Penna MG, Alvim LB, et al. Cancer genomics in precision oncology: applications, challenges and prospects. In: Masood N, Malikm SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 453–99.
+
+- Chapter Google Scholar
+
+- Kuhns L. Larger next-generation sequencing panels useful for solid tumor targeting therapy information. October 22, 2020. [cited 1 Feb 2021]. Available from https://www.journalofclinicalpathways.com/news/larger-next-generation-sequencing-panels-useful-solid-tumor-targeted-therapy-information
+
+- Kuhns L. Larger next-generation sequencing panels useful for solid tumor targeting therapy information. October 22, 2020. [cited 1 Feb 2021]. Available from https://www.journalofclinicalpathways.com/news/larger-next-generation-sequencing-panels-useful-solid-tumor-targeted-therapy-information
+
+- Moensch S. EMSO issues recommendations on use of multigene NGS in metastatic solid tumor profiling. September 1, 2020. [cited 1 Feb 2021]. Available from https://www.cancertherapyadvisor.com/home/cancer-topics/general-oncology/solid-cancer-esmo-recommendations-multigene-ngs/
+
+- Moensch S. EMSO issues recommendations on use of multigene NGS in metastatic solid tumor profiling. September 1, 2020. [cited 1 Feb 2021]. Available from https://www.cancertherapyadvisor.com/home/cancer-topics/general-oncology/solid-cancer-esmo-recommendations-multigene-ngs/
+
+- Wiedmeier JE, Noel P, Lin W, Von Hoff DD, Han H. Single-cell sequencing in precision medicine. In: Von Hoff DD, Han H, editors. Precision medicine in cancer therapy. Switzerland: Springer; 2019. p. 237–52.Chapter Google Scholar
+
+- Wiedmeier JE, Noel P, Lin W, Von Hoff DD, Han H. Single-cell sequencing in precision medicine. In: Von Hoff DD, Han H, editors. Precision medicine in cancer therapy. Switzerland: Springer; 2019. p. 237–52.
+
+- Chapter Google Scholar
+
+- Zia A, Rashid S. Systems biology and integrated computational methods for cancer- associated mutational analysis. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 335–62.Chapter Google Scholar
+
+- Zia A, Rashid S. Systems biology and integrated computational methods for cancer- associated mutational analysis. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 335–62.
+
+- Chapter Google Scholar
+
+- Personalized medicine: the path forward.
+- Washington, DC: McKinsey & Company; 2013.
+- Available from http://www.mckinsey.com/∼/media/McKinsey/dotcom/client_service/Pharma%20and%20 Medical%20Products/PMP%20NEW/PDFs/ McKinsey%20on%20Personalized%20 Medicine%20March%202013.ashx.
+
+- McKinsey & Company. Personalized medicine: the path forward. Washington, DC: McKinsey & Company; 2013. Available from http://www.mckinsey.com/∼/media/McKinsey/dotcom/client_service/Pharma%20and%20 Medical%20Products/PMP%20NEW/PDFs/ McKinsey%20on%20Personalized%20 Medicine%20March%202013.ashx.
+
+- Demeure MJ. The role of precision medicine in the diagnosis and treatment of patients with rare cancers. In: Von Hoff DD, Han H, editors. Precision medicine in cancer therapy. Switzerland: Springer; 2019. p. 81–108.Chapter Google Scholar
+
+- Demeure MJ. The role of precision medicine in the diagnosis and treatment of patients with rare cancers. In: Von Hoff DD, Han H, editors. Precision medicine in cancer therapy. Switzerland: Springer; 2019. p. 81–108.
+
+- Chapter Google Scholar
+
+- ENCODE Project Consortium. 2007. Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project. Nature, June 13, 2007. Google Scholar
+
+- ENCODE Project Consortium. 2007. Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project. Nature, June 13, 2007.
+
+- John S, Wang H, Stamatoyannopoulos JA. Mapping the functional genome: The ENCODE and Roadmap Epigenomics projects. In: Ginsburg G, Willard H, editors. Genomic and personalized medicine. 2nd ed. Waltham, MA: Academic Press; 2013. p. 28–40.Chapter Google Scholar
+
+- John S, Wang H, Stamatoyannopoulos JA. Mapping the functional genome: The ENCODE and Roadmap Epigenomics projects. In: Ginsburg G, Willard H, editors. Genomic and personalized medicine. 2nd ed. Waltham, MA: Academic Press; 2013. p. 28–40.
+
+- Chapter Google Scholar
+
+- Reddy TE. The functional genome: epigenetics and epigenomics. In: Ginsburg GS, Willard HF, editors. Genomic and precision medicine: foundations, translation and implementation. 3rd ed. London: Academic Press; 2017. p. 21–44.Chapter Google Scholar
+
+- Reddy TE. The functional genome: epigenetics and epigenomics. In: Ginsburg GS, Willard HF, editors. Genomic and precision medicine: foundations, translation and implementation. 3rd ed. London: Academic Press; 2017. p. 21–44.
+
+- Chapter Google Scholar
+
+- Qazi AS, Akbar S, Saeed RF, Bhatti MZ. Translational research in oncology. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 261–312.Chapter Google Scholar
+
+- Qazi AS, Akbar S, Saeed RF, Bhatti MZ. Translational research in oncology. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 261–312.
+
+- Chapter Google Scholar
+
+- Salahuddin H, Tahir MJI. Pharmacogenomics of thiopurine-induced toxicity in children. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 413–22. Google Scholar
+
+- Salahuddin H, Tahir MJI. Pharmacogenomics of thiopurine-induced toxicity in children. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 413–22.
+
+- Voora D. Pharmacogenetics and pharmacogenomics. In: Ginsburg GS, Willard HF, editors. Genomic and precision medicine: foundations, translation and implementation. 3rd ed. London: Academic Press; 2017. p. 233–46.Chapter Google Scholar
+
+- Voora D. Pharmacogenetics and pharmacogenomics. In: Ginsburg GS, Willard HF, editors. Genomic and precision medicine: foundations, translation and implementation. 3rd ed. London: Academic Press; 2017. p. 233–46.
+
+- Chapter Google Scholar
+
+- In conversation with D. Roden MD Vanderbilt University (March 2016). Google Scholar
+
+- In conversation with D. Roden MD Vanderbilt University (March 2016).
+
+- Roos A, Byron SA. Genomics-enabled precision medicine for cancer. In: Von Hoff DD, Han H, editors. Precision medicine in cancer therapy. Switzerland: Springer; 2019. p. 137–69.Chapter Google Scholar
+
+- Roos A, Byron SA. Genomics-enabled precision medicine for cancer. In: Von Hoff DD, Han H, editors. Precision medicine in cancer therapy. Switzerland: Springer; 2019. p. 137–69.
+
+- Chapter Google Scholar
+
+- Hayes DF, Schott AF. Personalized medicine: genomics trials in oncology. Trans Amer Clin Clim Assoc. 2015;126:133–43. Google Scholar
+
+- Hayes DF, Schott AF. Personalized medicine: genomics trials in oncology. Trans Amer Clin Clim Assoc. 2015;126:133–43.
+
+- Seyhan AA, Carini C. Are innovation and new technologies in precision medicine paving a new era in patients centric care? J Transl Med. 2019;7(114):2–28. Google Scholar
+
+- Seyhan AA, Carini C. Are innovation and new technologies in precision medicine paving a new era in patients centric care? J Transl Med. 2019;7(114):2–28.
+
+- Dancey JE. Biomarker discovery and development through genomics. In: Graham D, Berman JN, Arceci RJ, editors. Cancer genomics; 2014. Google Scholar
+
+- Dancey JE. Biomarker discovery and development through genomics. In: Graham D, Berman JN, Arceci RJ, editors. Cancer genomics; 2014.
+
+- Yamin M, Raza HG, Fatima I. Overview of cancer genomics, organization, and variations in the human genome. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 3–33.Chapter Google Scholar
+
+- Yamin M, Raza HG, Fatima I. Overview of cancer genomics, organization, and variations in the human genome. In: Masood N, Malik SS, editors. Essentials of cancer genomic, computational approaches and precision medicine. Singapore: Springer; 2020. p. 3–33.
+
+- Chapter Google Scholar
+
+- NCI Press Release. NCI-MATCH precision medicine clinical trial releases new findings, strengthens path forward for targeted cancer therapies. June 4, 2018. [cited 1 Feb 2021] Available from https://www.cancer.gov/news-events/press-releases/2018/nci-match-first-results.
+
+- NCI Press Release. NCI-MATCH precision medicine clinical trial releases new findings, strengthens path forward for targeted cancer therapies. June 4, 2018. [cited 1 Feb 2021] Available from https://www.cancer.gov/news-events/press-releases/2018/nci-match-first-results.
+
+- Authors and Affiliations
+
+- Hays Documentation Specialists, LLC, San Mateo, CA, USAPriya Hays
+
+- Hays Documentation Specialists, LLC, San Mateo, CA, USA
+
+- Priya HaysView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Rights and permissions
+
+- Reprints and permissions
+
+- Copyright information
+
+- Hays, P. (2021). The Rise of Genomics and Personalized Medicine. In: Advancing Healthcare Through Personalized Medicine. Springer, Cham. https://doi.org/10.1007/978-3-030-80100-7_2
+
+- DOI: https://doi.org/10.1007/978-3-030-80100-7_2
+
+- DOI: https://doi.org/10.1007/978-3-030-80100-7_2
+
+- Published: 28 September 2021
+
+- Published: 28 September 2021
+
+- Publisher Name: Springer, Cham
+
+- Publisher Name: Springer, Cham
+
+- Print ISBN: 978-3-030-80099-4
+
+- Print ISBN: 978-3-030-80099-4
+
+- Online ISBN: 978-3-030-80100-7
+
+- Online ISBN: 978-3-030-80100-7
+
+- eBook Packages: MedicineMedicine (R0)
+
+- eBook Packages: MedicineMedicine (R0)
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Next-generation sequencing
+
+- Genome-wide association studies
+
+- Biomarker discovery and validation
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Available as EPUB and PDF
+
+- Durable hardcover edition
+
+- Dispatched in 3 to 5 business days
+
+- Free shipping worldwide - see info
+
+- Tax calculation will be finalised at checkout
+
+- Purchases are for personal use only
+
+- Institutional subscriptions
+
+- Publish your research
+
+- Open access publishing
+
+- Products and services
+
+- Partners and advertisers
+
+- Your privacy choices/Manage cookies
+
+- Your US state privacy rights
+
+- Accessibility statement
+
+- Cancel contracts here
