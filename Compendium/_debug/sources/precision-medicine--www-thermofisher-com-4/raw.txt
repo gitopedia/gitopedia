@@ -1,0 +1,305 @@
+Products Antibodies Beakers Chemicals Lab Centrifuges Lab Equipment Lab Plasticware and Supplies PCR Equipment and Supplies Pipettes and Pipette Tips Ultra Low-Temperature Freezers Spectroscopy See all product categories
+
+Lab Plasticware and Supplies
+
+PCR Equipment and Supplies
+
+Pipettes and Pipette Tips
+
+Ultra Low-Temperature Freezers
+
+See all product categories
+
+Applications Bioprocessing Clinical and Diagnostics Digital Solutions Environmental Food and Beverage Hospital and Patient Care Industrial and Applied Sciences Lab Solutions Life Sciences Manufacturing and Processing See all applications and techniques
+
+Clinical and Diagnostics
+
+Hospital and Patient Care
+
+Industrial and Applied Sciences
+
+Manufacturing and Processing
+
+See all applications and techniques
+
+Services Compliance, Validation and Calibration Services 360° CDMO and CRO Solutions CDMO Services CRO Services Custom Services Financial and Leasing Services Instrument Service Plans Instrument Services Lab Informatics OEM and Commercial Supply Training Services See all services
+
+Compliance, Validation and Calibration Services
+
+360° CDMO and CRO Solutions
+
+Financial and Leasing Services
+
+Instrument Service Plans
+
+OEM and Commercial Supply
+
+Help and Support How to Order Instrument Support Learning Centers Register for an Account Technical Support Centers See all help and support topics
+
+Register for an Account
+
+Technical Support Centers
+
+See all help and support topics
+
+Popular TaqMan Real-Time PCR Assays Antibodies Oligos, Primers & Probes GeneArt Gene Synthesis Cell Culture Plastics
+
+TaqMan Real-Time PCR Assays
+
+Oligos, Primers & Probes
+
+GeneArt Gene Synthesis
+
+Cell Culture Plastics
+
+Order Status and Tracking
+
+Documents and Certificates
+
+Popular Product Areas
+
+All Documents & Support
+
+Sign in window.performance && window.performance.mark && window.performance.mark("header_17"); Sign in Don't have an account ? Create Account Account Check Order Status Custom Products & Projects Instrument Management window.performance && window.performance.mark && window.performance.mark("header_18");
+
+Custom Products & Projects
+
+Instrument Management
+
+Clinical & Diagnostics›
+
+Precision Medicine›
+
+Precision Medicine Learning Center›
+
+Precision Medicine Resource Library›
+
+Overview of Precision Medicine
+
+Overview of Precision Medicine
+
+The Saudi Human Genome Program: Bringing Genetic Testing to Routine Clinical Care ›
+
+Cancer: A Multidimensional Challenge ›
+
+The Future of Mass Spectrometry in Healthcare ›
+
+Pharmacogenomics is Ready to Go Mainstream ›
+
+Precision Medicine Leaders Gather in Beijing for First China-U.S. Precision Medicine Summit ›
+
+Practicing Pharmacogenomics at Scale ›
+
+Overview of Precision Medicine ›
+
+Cancer patient finds hope – and remission – in CAR T cell therapy ›
+
+Precision medicine uses an individual’s unique clinical, molecular and lifestyle information to guide disease diagnosis, treatment and prevention for cancer, inherited diseases and other complex disorders. This overview introduces precision medicine, outlines its applications and illustrates the collaboration needed across the healthcare ecosystem to advance this revolutionary shift in the practice of medicine.
+
+Introduction to precision medicine
+
+Precision medicine vs. personalized medicine
+
+Applications of precision medicine
+
+Precision medicine ecosystem
+
+Precision medicine case studies
+
+View and select products
+
+Translational research
+
+Molecular diagnostics
+
+Targeted therapeutics
+
+Introduction to precision medicine
+
+While understanding a patient’s unique molecular profile to diagnose or treat disease is often the focus of precision medicine, it has also been described as a paradigm shift, from a one-size-fits-all approach to targeted therapeutics. Underlying this shift is a series of critical handoffs, starting with profiling large populations to better understand human genetic variations and identify disease biomarkers. From there, translational research bridges the gap from research and development (R&D) to the clinic, paving the way for the development of molecular diagnostics and targeted therapeutics.
+
+The availability of increasing amounts of data from population studies, coupled with the acceleration of technology and increased testing accuracy, is enabling researchers to discover novel biomarkers and better understand diseases at the molecular level. This will ultimately enable delivery of targeted therapeutics to stratified patient populations for optimal benefits. When molecular diagnostics and targeted therapeutics reach the clinic, the outcome is precision medicine.
+
+Precision medicine vs. personalized medicine
+
+Healthcare providers have been practicing some form of precision medicine for decades. Any family medicine physician would say their approach is highly personalized. Beyond the physical exam, doctors typically consider family history, lifestyle and environmental changes before prescribing a medication or treatment plan.
+
+The term personalized medicinefirst came into use in the late 1990s, referring to the goal of developing uniquely tailored medications for each individual. The scientific and health community’s newfound fascination with personalized medicine paralleled the rise of genomics. When the Human Genome Project was completed in 2000, it was thought that genetic markers would be able to clearly distinguish between patients who responded to medicine and those who did not.
+
+In 2011, the National Research Council published “Toward Precision Medicine,” a report summarizing the need to pair genomics information with insights on lifestyle and environment to better understand, treat and prevent disease. The report cautioned that the word personalized could be misinterpreted to imply that medicine was being developed uniquely for an individual. Within a few years, the term precision medicine gained significant traction in the scientific community.
+
+Outside the research community and scientific literature, precision medicine made its mainstream debut when former President Barack Obama launched the All of Usresearchinitiative in 2016. The National Institutes of Health allocated $130 million towards a public initiative to build a national, large-scale research cohort of one million or more people living in the United States. According to the website, “All of Us will serve as a national research resource to inform thousands of studies, covering a wide variety of health conditions.” This study promised to bring in data on each individual’s lifestyle as well as environmental and biological makeup to better understand how each factor can influence health and disease.
+
+—Francis S. Collins, M.D., Ph.D., director, National Institutes of Health
+
+While All of Us is still one of the largest population studies underway today, globally scientists and health professionals are gathering tremendous amounts of data to characterize specific subsets of patients.
+
+For example, health systems are collecting samples from localized patient populations to compare the data with other subsets of the larger population. The idea is to stratify a population into increasingly narrow sub-populations that share a common profile, depending on genetic, environmental and lifestyle factors. Ultimately, those profiles would correlate with precise treatments.
+
+In the end, initiatives such as All of Us are making health more personalized and precise. Health will be personalized in that physicians will continue to consider all information available about their patients. It will be precise because providers will increasingly look to information from molecular data to determine specific genetic mutations and identify appropriate interventions at a molecular level. A more accurate description of this approach may be precision health.
+
+In the words of Stephanie Devaney, deputy director of the All of Us research program: “What really matters is that people understand why we need research and what efforts like All of Us aim to do. The terms we use matter less than the outcomes that result from our national focus on this area of science.”
+
+Applications of Precision medicine
+
+Precision medicine has been adopted across a range of fields (see table below), most notably in cancer research and inherited diseases, for both diagnosis and treatment using next-generation sequencing (NGS) technology. Precision medicine also holds promise to improve the overall health of populations and bring down the total cost of care through the application of pharmacogenomics, which uses patient data to inform effective, safe medication plans for patients. It may be decades before the scientific community is able to collect and leverage the explosion of information available to us. We are creating a fertile ground for discovery, and we are in the early stages of translating that research into improved outcomes for patients.
+
+Examples of applications of Precision Medicine.
+
+Solid tumor screening to determine biomarkers and inform therapy selection using multi-biomarker targeted assays.
+
+Profile tumors to identify new cancer driver variants and assess tumor mutational burden.
+
+Manipulate the body’s own immune response to mount an attack against tumor cells using immuno-oncology.
+
+Develop targeted new therapies, including cell therapies and immunotherapies.
+
+Understand tumor heterogeneity, detection of cancer progression, and monitor patients’ response to therapeutics using liquid biopsy (cell-free DNA).
+
+Leveraging NGS in a molecular pathology setting.
+
+Determine the genomic alterations specific to a child’s tumor and inform treatment decisions.
+
+Study patient populations to investigate the relationship between genetics and disease.
+
+Discover and validate medication response predictors in individual patients.
+
+Devise safe, effective medication treatment plans to manage disease.
+
+Reproductive health including Inherited disease
+
+Study genome abnormalities to understand inherited diseases.
+
+Discover causal variants of inherited disease.
+
+Determine genetic risk through prenatal testing.
+
+Screen adults for genetic mutations that may be passed to children.
+
+Precision medicine ecosystem
+
+A convergence of technological advancements and rising demand from healthcare providers is accelerating investment in precision medicine.
+
+The healthcare community approaches precision medicine with a shared goal:
+
+Develop more effective medicines that will improve patient outcomes
+
+Lower costs associated with trial-and-error or ineffective treatments
+
+For these goals to become a reality, however, key stakeholders must work together to overcome fundamental challenges.
+
+Government and payers: Much of precision medicine is being driven by governments and the health insurance industry, including the Centers for Medicaid and Medicare and private payers. These groups are hyper-focused on using precision medicine to drive down the costs of healthcare. To do so, they first need to provide the policy and regulatory structure to facilitate the move from translational research into the clinic. For example, one key area for ongoing research is in accumulating data to justify health outcomes and establish a proven path to reimbursement.
+
+Research institutions: Academic researchers are working hand-in-hand with providers in hospital settings to bring precision medicine out of the lab and into the clinic. Researchers are focused on foundational discovery, including the study of disease mechanisms, and early stage development of diagnosis and treatment strategies. They also educate scientists and medical professionals, and study the ethical, legal and business of healthcare.
+
+Clinical providers: Providers in health systems hope to implement precision medicine at scale to help them deliver value-based care and improve population health. Before recommending genetic testing and targeted treatments, physicians must understand the clinical and economic value. This ensures costs to patients are reasonable and will provide actionable results. In addition, providers face the significant hurdle of interpreting and implementing data at the point-of-care. For clinicians to make decisions guided by patients’ genetic information, that data must be available within in their existing workflow, and that means within electronic health records.
+
+Pharmaceutical and biotech companies: As pharmaceutical companies face increasing pressure to demonstrate the return on their R&D, they’re shifting to precision-based research. This includes finding the right patients for clinical trial enrollment and co-developing diagnostics and therapeutics. With drug pricing under fire, the industry is also adapting to a trend in value-based payment models that tie reimbursement to outcomes in an effort to reduce costs. Unlike flat, one-time payments, pay-for-performance deals reward pharmaceutical and biotech companies with payments on a yearly basis as long as their therapies continue to show effectiveness.
+
+Diagnostic labs and services: For clinicians, accuracy, consistency and data interoperability, are primary concerns. Standardized technology is needed to connect results within and across a network of labs and help the ecosystem keep up with the rapidly expanding field. Diagnostic labs and services provide specialization and reliability of results. Privacy is also a concern for laboratories managing patient data, including genetic information that can be used to potentially identify patients.
+
+Precision medicine case studies
+
+Thermo Fisher Scientific is committed to leveraging its industry-leading capabilities, expertise and global scale to advance precision medicine. Thermo Fisher is actively collaborating with industry, academia and government leaders to enable cost-effective, scalable solutions that will lead to better patient outcomes and prevent disease. The following case studies are examples of those collaborations.
+
+Population profiling: Pharmacogenomics center of excellence with the University of Pittsburgh medical center
+
+Health systems such as the University of Pittsburgh Medical Center (UPMC) are leading the way in implementing precision diagnostics across patient populations to improve outcomes and lower costs.
+
+Together with UPMC, Thermo Fisher launched the Pharmacogenomics (PGx) Center of Excellence, combining the organizations’ experience and technology to demonstrate that targeted testing can be deployed clinically at population scale using precision testing platforms.
+
+To achieve this aim, the center launched a preemptive, panel-based study that will screen up to 150,000 patients in Western Pennsylvania to discover and validate medication response predictors. The center is also focused on overcoming clinical implementation barriers by showing the clinical and economic utility of widespread pharmacogenomics testing.
+
+Practicing Pharmacogenomics at Scale
+
+Translational research: Blood atlas profiling pilot
+
+Liquid biopsy is gaining traction in cancer research as a complementary or alternative technique for cancer detection, analysis and recurrence monitoring. It is less invasive, faster and more cost-effective than traditional solid tissue biopsy. While liquid biopsy can be used for any fluid containing genetic material, the sample is usually blood.
+
+In 2016, as part of Former Vice President Joe Biden’s national Cancer Moonshot Project, Thermo Fisher joined the Blood Profiling Atlas pilot, an initiative bringing together regulatory and government agencies, providers, academics and pharmaceutical companies to accelerate the development of safe and effective blood profiling diagnostics.
+
+By creating an open database for liquid biopsies, the project is helping labs quickly process samples and providing physicians with actionable data – including circulating tumor DNA (ct-DNA) data generated using Thermo Fisher’s next-generation sequencing (NGS) platforms – to better understand cancer.
+
+Liquid Biopsy Cancer Research
+
+Molecular diagnostics: Collaboration with Novartis and Pfizer for non-small cell lung cancer companion diagnostic
+
+Traditionally, non-small cell lung cancer (NSCLC) patients are screened for cancer using a sequenced approach, but new panel-based diagnostics look at multiple genes at the same time.
+
+Oncomine Dx Target Test is FDA approved to simultaneously report 23 genes clinically associated with NSCLC. Of those 23, three contain markers that are approved for use as a CDx for specific targeted therapies. It has also been adopted for use by several national reference laboratories, including LabCorp's Diagnostics and Covance businesses, Quest Diagnostics, Cancer Genetics, Inc., and NeoGenomics Laboratories.
+
+Since receiving FDA approval, Oncomine Dx Target Test has received positive reimbursement decisions from the Centers for Medicare and Medicaid Services and from the country's largest commercial health insurers, including CIGNA, Aetna, UnitedHealthcare and the Centers for Medicare and Medicaid Services – making the test available to more than 160 million lives in the United States.
+
+Technical and Validation Information
+
+Targeted therapeutics: Collaboration with Novartis for first-ever FDA-approved CAR-T cell therapy
+
+Immunotherapy is a type of cancer treatment that helps the body’s own immune system detect and destroy cancer cells. Chimeric antigen receptor T, or CAR-T, cell therapy is a type of immunotherapy that collects T cells from a patient’s blood and reprograms them in a lab to produce receptors that recognize specific proteins on tumor cells. Working in collaboration with the University of Pennsylvania, Novartis used Thermo Fisher’s Cell Therapy Systems (CTS™)Dynabeads™ technology to develop Kymriah, the first FDA-approved CAR-T cell therapy. The magnetic beads isolate, activate and expand T cells that have been genetically engineered to find and attack cancerous cells. Once the cells are reprogrammed, they are injected back into the patient’s body as a “living therapy” to fight cancer. Kymriah is approved to treat children and young adults with refractory or relapsing acute lymphomatic leukemia (ALL), a cancer of the blood or bone marrow that represents more than a quarter of all pediatric cancers. A Phase II multinational clinical trial for the therapy achieved an 83 percent overall remission rate within the first three months of infusion, with 75 percent of participants remaining cancer-free six months after remission.
+
+Cancer Patient Finds Hope – and Remission – in CAR T Cell Therapy
+
+Groundbreaking advances in precision medicine promise to change how we approach diseases such as cancer, but the availability of new diagnostics and treatments doesn’t guarantee access to all patients.
+
+To make precision medicine more accessible, healthcare leaders are collaborating with the FDA to create a regulatory framework that allows clinically valid tests to be adopted rapidly in clinical settings.
+
+But the biggest challenge standing in the way of widespread adoption is the need to establish clinical utility and forge proven pathways to reimbursement.
+
+Precision medicine treatments can come with a higher price tag than traditional therapies and, when one calculates the cost of each individual test, the companion diagnostics approved to match patients with precision therapies are often more expensive than conventional screening. Looking through the lens of value-based care, however, precision medicine has the potential to lower costs overall by reducing the need for additional testing and enabling physicians to prescribe more effective therapies as a first course of treatment. By replacing a trial-and-error based approach with a targeted approach that has been proven to improve patient outcomes, providers are making the economic case for precision medicine.
+
+descriptions off, selected
+
+captions settings, opens captions settings dialog
+
+captions off, selected
+
+This is a modal window.
+
+Beginning of dialog window. Escape will cancel and close the window.
+
+End of dialog window.
+
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+
+Increased access to precision medicine will also require more widespread participation in clinical trials to accelerate the availability of new targeted therapies. Large-scale studies are not feasible with traditional, one-sample, one-biomarker testing.
+
+Further, as the industry moves toward developing drugs in smaller, even individualized batches - drug manufacturing is becoming more complex. To make the process more affordable and accessible to more people, biotech and pharmaceutical companies are starting to collaborate and share resources, expanding the total infrastructure working to speed up drug development.
+
+Lastly, clinicians will need specialized training to increase their comfort level working with new precision medicine tests. Most cancer patients in the United States are treated in community hospitals that typically don’t have the advanced genomic sequencing capabilities of larger medical research centers. Companies such as Thermo Fisher are working to make precision medicine more accessible by developing new technologies that are easier to use and, ideally, more cost-effective, outside of major medical centers.
+
+Precision medicine beyond genomics
+
+As precision medicine advances, researchers are realizing that genetic sequencing alone does not complete an individual’s molecular profile. In the past, a researcher would look at one component in the body at a time to determine how it is contributing to a disease. Today, new technologies and analytical capabilities such as mass spectrometry are enabling researchers to analyze additional information such as protein levels and RNA expression to inform earlier, more specific disease diagnosis. This emerging field of “multi-omics” research includes:
+
+Proteomics: Used to understand the functions of individual proteins and how changes in protein abundance affect complex biological systems.
+
+Metabolomics: Looks at the complete set of small molecule metabolites in an organism.
+
+Transcriptomics: Examines the complete set of RNA transcripts produced by the genome using high-throughput methods such as microarray analysis.
+
+Lipidomics: Studies the pathways and networks of cellular lipids in biological systems.
+
+The rise of multi-omics, combined with a wealth of data coming out of new precision medicine tests, creates a growing data analysis challenge across the industry. Clinicians need help interpreting the mountain of data that’s now available and making it actionable at the point of care. While an abundance of data creates new dimensions for researchers to consider, it also makes possible the discovery of new biomarkers that can propel precision medicine from the lab to the clinic.
+
+How personalized medicine is transforming your health care
+
+Related learning centers More Learning Centers ›
+
+Biobanking ›Resource Library ›
+
+Clinical & Translational ›Resource Library ›
+
+Drug development & manufacturing
+
+Technical Support Centers
+
+Documents and Certificates
+
+Social Responsibility
+
+Price & Freight Policy
+
+Cookie Preferences .ta-hide { visibility: hidden !important; opacity: 0 !important; transition: opacity 300ms ease-in, visibility 0s ease-in 300ms; } .ta-display-hide { display: none !important; } .ta-show { visibility: visible !important; opacity: 1 !important; } @font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-35Thin.ttf) format("ttf"); font-weight: lighter; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-35Thin.ttf) format("ttf"); font-weight: 100; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-45Light.ttf) format("ttf"); font-weight: 200; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-45Light.ttf) format("ttf"); font-weight: 300; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-55Roman.ttf) format("ttf"); font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-55Roman.ttf) format("ttf"); font-weight: 400; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-56Italic.ttf) format("ttf"); font-weight: 400; font-style: italic; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-65Medium.ttf) format("ttf"); font-weight: 500; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-65Medium.ttf) format("ttf"); font-weight: 600; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-75Bold.ttf) format("ttf"); font-weight: 700; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-75Bold.ttf) format("ttf"); font-weight: 800; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-75Bold.ttf) format("ttf"); font-weight: 900; font-style: normal; font-display: swap;}@font-face { font-family: "HelveticaNeue"; src:url(https://consent.trustarc.com/get?name=HelveticaNeueLTW06-75Bold.ttf) format("ttf"); font-weight: bold; font-style: normal; font-display: swap;}#truste-repop-msg element #truste-repop-msg { display:none; } .mainHeader h1 { color: #000; font-family: "HelveticaNeue",sans-serif; font-weight: 500; font-size: 20px; line-height: 24px;} #consent_blackbar{ position:relative; width:100%; z-index: 999999; text-align:left; } #trustarc-banner-overlay { background-color: rgb(0, 0, 0); opacity: 0.3; position: fixed; z-index: 1000000; width: 100%; height: 100%; left: 0px; overflow: hidden; top:0;} #truste-consent-track { background-color: #fff; direction: ltr; height: fit-content; width: 100%; margin: auto; bottom: 0; position: fixed !important; left: 0; right: 0; z-index: 100; }div.truste-consent-track-class { position: relative; /*max-width: 688px;*/ z-index:9999999; background: #ffffff;padding: 24px 32px 32px; box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.5);} #truste-consent-text { color: #333; font-size: 14px; line-height: 22px; margin: 0px 0px 14px 0px; } #truste-consent-button:first-letter,#truste-consent-required:first-letter, #truste-show-consent:first-letter { text-transform: capitalize;} #truste-consent-button, #truste-consent-required { background-color: #54545C; color: #FFFFFF; border: 1px solid #54545C; padding: 9px 24px; border-radius: 4px; cursor: pointer; font-family: "HelveticaNeue",sans-serif; font-size: 14px; line-height: 22px; font-weight:700; text-transform: lowercase; } #truste-show-consent { background: none; color: #0071D0; border: none; padding: 9px 0; border-radius: 4px; cursor: pointer; font-family: "HelveticaNeue",sans-serif; font-size: 14px; line-height: 22px; font-weight:700; text-transform: lowercase; } .do-not-sell-link { color: #ffffff; text-decoration: underline; } .do-not-sell-link:hover { color: #ffffff; text-decoration: underline; } .truste-messageColumn { font-family: "HelveticaNeue",sans-serif; font-size: 14px; color: #fff; margin: 15px 0px 15px 0px; float: left; } .truste-privacy-button,.truste-cookie-link { font-family: "HelveticaNeue",sans-serif; font-size: 14px; color: #1e8ae7; text-decoration: none; } .truste-cookie-link:hover{ text-decoration: underline; } .truste-buttonsColumn { float: right; margin: 10px 0px 0px 0px; font-size: 15px; font-family: "HelveticaNeue",sans-serif; } div#truste-consent-content { display: flex; flex-direction: column; width: 100%; gap: 10px; } div#truste-consent-buttons { display: flex; gap: 24px; justify-content: space-between; }div#truste-consent-buttons { /*display: flex; gap: 8px; justify-content: space-between;*/ width: 100%;}.truste-buttonsColumn { float: right; margin: 10px 0px 0px 0px; font-size: 15px; font-family: "HelveticaNeue",sans-serif;} #consent_blackbar { position: fixed; bottom: 0; left: 0; right: 0; } .truste-icon-box { position: absolute; top: 20px; right: 20px;} /* MOBILE ONLY */ @media only screen and (max-width:600px){ .mainHeader h1 { font-size: 16px; } #ta-title { font-size: 16px; } } @media screen and (min-width: 1px) and (max-width: 380px) { .truste-messageColumn { float: none; } .truste-buttonsColumn { float: none;} #truste-show-consent { display: block; width: 100%; margin: 0px auto;} #truste-consent-button, #truste-consent-required { display: block; width: 100%; } }div#truste-consent-buttons { /* display: flex; gap: 8px; justify-content: space-between;*/} #truste-consent-close { cursor: pointer;} /*RESPONSIVE DESKTOP*/@media only screen and (max-width: 1200px) { } /*RESPONSIVE TABLET*/@media only screen and (max-width: 991px) { div#truste-consent-content { display: flex; gap: 10px; }} /*RESPONSIVE MOBILE*/ @media only screen and (max-width: 767px) { div#truste-consent-content { flex-direction: column; gap: 10px; } div#truste-consent-text { width: 100%; } div#truste-consent-buttons { display: flex; width: 100%; flex-direction: row; } #trustarc-banner-overlay { top: -2000px !important; bottom: 2000px !important; height: 4000px !important; } @keyframes slide-up { 0% {transform: translateY(110vh);}100% {transform: translateY(0vh);} } #truste-consent-track { transform: translateY(110vh);animation: slide-up 0.3s forwards; } } @media only screen and (max-width: 500px) { div#truste-consent-buttons { flex-direction: column; gap: 0px; margin-top:24px; } div#truste-consent-buttons .right { display: flex; gap: 24px; flex-direction: column; } div#truste-consent-buttons .left { margin-bottom: 24px; } div#truste-consent-buttons .left > button { width: 100%; } div#truste-consent-buttons .right > button { width: 100%; } #truste-consent-track { max-height: 100%; position: fixed !important; margin: 0 !important; padding-bottom: 0px !important; width: 100%; top: unset; bottom: 0; left: 0; box-sizing: border-box; right: 0; height: auto; } button#truste-show-consent { background: #fff !; border-radius: 4px; border: solid 1px #ccc; }} #ta-title { color: #000; font-family: "HelveticaNeue",sans-serif; font-weight: 500; font-size: 20px; line-height: 24px; padding: 0px; margin-top: 13px; margin-bottom: 13px;} Your choices regarding cookies on this site We and our affiliates and vendors use cookies and similar technologies to operate our sites, recognize visitors to our sites, provide secure log-in, collect statistics to optimize site functionality, and deliver content tailored to your interests. Click Accept All to accept all cookies and go directly to the site, or click on Manage Settings to see detailed descriptions of the types of cookies and choose whether to accept certain cookies while on the site. Manage Settings Accept All
+
+Your choices regarding cookies on this site
