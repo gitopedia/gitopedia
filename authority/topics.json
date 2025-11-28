@@ -1,4 +1,52 @@
 [
+  {
+    "id": "topic:quantum-computing",
+    "label": "Quantum Computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology",
+    "label": "Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai",
+    "label": "AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:shor's-algorithm",
+    "label": "Shor's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:grover's-algorithm",
+    "label": "Grover's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:vqe",
+    "label": "VQE",
+    "aliases": []
+  },
+  {
+    "id": "topic:qaoa",
+    "label": "QAOA",
+    "aliases": []
+  },
+  {
+    "id": "topic:superposition",
+    "label": "Superposition",
+    "aliases": []
+  },
+  {
+    "id": "topic:entanglement",
+    "label": "Entanglement",
+    "aliases": []
+  },
+  {
+    "id": "topic:computer-science",
+    "label": "Computer Science",
+    "aliases": []
+  }
 ]
-
-
