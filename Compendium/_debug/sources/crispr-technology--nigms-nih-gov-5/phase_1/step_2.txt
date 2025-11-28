@@ -1,0 +1,60 @@
+# CRISPR Technology
+
+- National Institute ofGeneral Medical Sciences
+
+- National Institute of General Medical SciencesBiomedical Beat Blog
+
+- It might sound like a science fiction author made up genetic engineering, but it’s a real tool researchers use in the laboratory!
+- A gene is a segment of DNA that codes for a protein.
+- The information within a gene directs the building of a protein, block by block, through the process of gene expression.
+- For a variety of reasons, including learning about certain cellular processes, scientists use genetic engineering in the lab to manipulate a cell’s genes and the proteins they encode.
+
+- One of the most commonly used genetic engineering techniques is called clustered regularly interspaced short palindromic repeats (CRISPR), named for the odd, repeating sequences that researchers found in bacterial DNA in 1987.
+
+- Eventually, researchers discovered that these sequences are part of a bacterial immune system. (Just like humans, bacteria are susceptible to viral infections!) Some bacteria are able to insert short sequences of DNA from viruses that previously infected them into their own genome, allowing them to “remember” and more quickly recognize that virus in the future.
+- If the invader tries to attack again, the bacterium recognizes and kills it by chopping up the part of its DNA that matches the “memory” using a special type of protein, an enzyme called CRISPR-Associated (Cas) protein.
+- Our own immune systems also have the ability to remember pathogens through our adaptive immune response.
+
+- So, what does this bacterial process have to do with genetic engineering?
+- Researchers figured out the exact molecules and proteins involved with this process, isolated them, and learned that they could be guided to recognize any DNA sequence—even within living human cells.
+- Now, researchers can load all of the components of the CRISPR system into cells in culture, guide the system to chop up the cell’s DNA in the middle of a specific gene, and successfully change the protein it coded for in a highly specific way without killing the cell.
+
+- CRISPR in the Laboratory
+
+- The CRISPR gene-editing system has two components.
+- The first is one of the bacterial DNA-cutting Cas enzymes, Cas9, and the second is a targeting device—also called a guide—made of RNA.
+- The sequence of the guide RNA is complementary to the DNA sequence that the researcher wants to target.
+- True to its name, the guide RNA will direct Cas9 to the correct cutting location by scanning the DNA for the target sequence and then binding to it.
+
+- Once in position, Cas9 cuts through both strands of the DNA.
+- The cell must repair the break to stay alive, but scientists can direct the cell to repair the break in different ways, depending on their goal for the experiment.
+- In some cases, they can alter the gene’s sequence enough to inactivate it or make the protein it codes for nonfunctional by having the cell add random nucleotides to repair the break.
+- In other cases, a researcher can provide the cell with specific genetic material that they want inserted in the break, which allows for highly specific gene editing—even changing a single nucleotide.
+
+- CRISPR gene editing has many possible applications in research and medicine.
+- Researchers can inactivate a specific protein to learn about its role in a certain cellular process, such as aging or cancer development, in a variety of cell types or research organisms, like yeast or zebrafish.
+- Clinicians have also been able to use CRISPR to help treat genetic diseases.
+- For example, it can alter the gene that causes sickle cell disease, making it code for a healthy version of hemoglobin instead of an abnormal one.
+
+- Although CRISPR is a bacterial immune system, it has the potential to shape the future of human medicine.
+- Through many years of basic research into a seemingly unrelated topic like immune systems of bacteria, scientists now have this powerful technology for studying, diagnosing, and curing human disease.
+
+- This post is a great supplement to our "What Is CRISPR?" Kahoot! quiz. Learn more in our Educator's Corner.
+
+- Connect With Us: Linkedin YouTube
+
+- HHS Vulnerability DisclosureThis link takes you away from the NIGMS website. NIGMS does not endorse and is not responsible for the content on the destinatio
+
+- U.S. Department of Health and Human ServicesThis link takes you away from the NIGMS website. NIGMS does not endorse and is not responsible for the content on the destinatio
+
+- National Institutes of Health: NIH...Turning Discovery Into Health®
+
+- USA.govThis link takes you away from the NIGMS website. NIGMS does not endorse and is not responsible for the content on the destinatio
+
+- National Institute of General Medical Sciences
+
+- 45 Center Drive MSC 6200
+
+- Bethesda, MD 20892-6200
+
+- Some content included on this platform includes historical information about programs or activities that have since been discontinued.
