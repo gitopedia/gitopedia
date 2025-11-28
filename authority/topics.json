@@ -1,4 +1,42 @@
 [
+  {
+    "id": "topic:technology",
+    "label": "Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai",
+    "label": "AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethics",
+    "label": "Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:machine-learning",
+    "label": "Machine Learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence-act",
+    "label": "Artificial Intelligence Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:compas-algorithm",
+    "label": "COMPAS algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence",
+    "label": "Artificial Intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai",
+    "label": "Ethical AI",
+    "aliases": []
+  }
 ]
-
-
