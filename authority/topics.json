@@ -1,4 +1,82 @@
 [
+  {
+    "id": "topic:precision-medicine",
+    "label": "Precision Medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:p4-medicine",
+    "label": "P4 medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:pharmacogenomics",
+    "label": "Pharmacogenomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-privacy",
+    "label": "Data privacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:equity-in-access",
+    "label": "Equity in access",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-hurdles",
+    "label": "Regulatory hurdles",
+    "aliases": []
+  },
+  {
+    "id": "topic:patient-engagement",
+    "label": "Patient engagement",
+    "aliases": []
+  },
+  {
+    "id": "topic:patient-empowerment",
+    "label": "Patient empowerment",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-health-strategies",
+    "label": "Public health strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-considerations",
+    "label": "Ethical considerations",
+    "aliases": []
+  },
+  {
+    "id": "topic:globalization-of-precision-med",
+    "label": "Globalization of precision medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:healthcare",
+    "label": "Healthcare",
+    "aliases": []
+  },
+  {
+    "id": "topic:genomics",
+    "label": "Genomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology",
+    "label": "Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:biotechnology",
+    "label": "Biotechnology",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
+  }
 ]
-
-
