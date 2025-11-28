@@ -1,4 +1,17 @@
 [
+  {
+    "id": "person:jennifer-doudna",
+    "label": "Jennifer Doudna",
+    "aliases": []
+  },
+  {
+    "id": "person:emmanuelle-charpentier",
+    "label": "Emmanuelle Charpentier",
+    "aliases": []
+  },
+  {
+    "id": "person:he-jiankui",
+    "label": "He Jiankui",
+    "aliases": []
+  }
 ]
-
-
