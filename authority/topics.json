@@ -1,4 +1,132 @@
 [
+  {
+    "id": "topic:crispr-cas-systems",
+    "label": "CRISPR-Cas Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:biotechnology",
+    "label": "Biotechnology",
+    "aliases": []
+  },
+  {
+    "id": "topic:genome-editing",
+    "label": "Genome Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethics",
+    "label": "Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-engineering",
+    "label": "Genetic Engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:medicine",
+    "label": "Medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:agriculture",
+    "label": "Agriculture",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-science",
+    "label": "Environmental Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:gene-drives",
+    "label": "Gene Drives",
+    "aliases": []
+  },
+  {
+    "id": "topic:germline-editing",
+    "label": "Germline Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:rna-editing",
+    "label": "RNA Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-cas9",
+    "label": "CRISPR-Cas9",
+    "aliases": []
+  },
+  {
+    "id": "topic:cas12",
+    "label": "Cas12",
+    "aliases": []
+  },
+  {
+    "id": "topic:cas13",
+    "label": "Cas13",
+    "aliases": []
+  },
+  {
+    "id": "topic:base-editors",
+    "label": "Base Editors",
+    "aliases": []
+  },
+  {
+    "id": "topic:prime-editors",
+    "label": "Prime Editors",
+    "aliases": []
+  },
+  {
+    "id": "topic:single-guide-rna-(sgrna)",
+    "label": "Single-guide RNA (sgRNA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-homologous-end-joining-(nh",
+    "label": "Non-homologous End Joining (NHEJ)",
+    "aliases": []
+  },
+  {
+    "id": "topic:homology-directed-repair-(hdr)",
+    "label": "Homology-directed Repair (HDR)",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-discrimination",
+    "label": "Genetic Discrimination",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-based-therapies",
+    "label": "CRISPR-based Therapies",
+    "aliases": []
+  },
+  {
+    "id": "topic:car-t-therapy",
+    "label": "CAR-T Therapy",
+    "aliases": []
+  },
+  {
+    "id": "topic:malaria",
+    "label": "Malaria",
+    "aliases": []
+  },
+  {
+    "id": "topic:designer-babies",
+    "label": "Designer Babies",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-technology",
+    "label": "CRISPR Technology",
+    "aliases": []
+  }
 ]
-
-
