@@ -1,0 +1,45 @@
+### **Precision and Personalized Medicine: Definitions and Models**  
+Precision and personalized medicine are often used interchangeably but reflect distinct conceptual frameworks. **Precision medicine** focuses on tailoring healthcare based on individual genetic, environmental, and lifestyle factors, often leveraging advanced technologies like genomics and data analytics (National Human Genome Research Institute, 2022). **Personalized medicine** emphasizes individualized care, integrating clinical, biological, and social data to optimize treatment and prevention strategies (National Library of Medicine, 2019). Both concepts implicitly reflect the **biomedical model of health**, which prioritizes biological mechanisms over social and environmental determinants (Yuill et al., 2010). However, critics argue that this narrow focus overlooks the **"embodiment dynamic"**—how social inequalities and environmental exposures shape health outcomes through biological pathways (Kelly-Irving & Delpierre, 2021).  
+
+---
+
+### **Why a Broader Vision of Health is Critical**  
+Developing personalized medicine and health based on a **broader vision** is essential to address health inequities and the complex interplay between **exogenous** (e.g., pollution, socioeconomic status) and **endogenous** (e.g., genetic predispositions, psychosocial stress) factors (Krieger, 2005). Key arguments include:  
+1. **The Exposome Concept**: The **exposome**—the totality of environmental exposures across the lifespan—highlights how non-genetic factors (e.g., air pollution, trauma) interact with biology to influence disease (Wild, 2005). For example, adverse childhood experiences (ACEs) are linked to epigenetic changes and accelerated telomere shortening, increasing risks for chronic diseases (Lang et al., 2020).  
+2. **Social Determinants of Health**: Structural inequalities (e.g., racism, poverty) contribute to disparities in health outcomes. Psychosocial stress from racial discrimination, for instance, is associated with accelerated epigenetic aging (Lim et al., 2022).  
+3. **Integration of "Personomics"**: Ziegelstein (2017) proposes **"personomics"** as a framework to bridge precision medicine and personalized care by incorporating social, psychological, and environmental data. This approach aligns with the **socio-exposome**, which advances exposure science and environmental justice (Senier et al., 2017).  
+
+---
+
+### **Specificities of Current Personalized Medicine and Implications**  
+Current practices in personalized medicine are heavily **genomics-driven**, with applications in cancer therapy (Gambardella et al., 2020) and pharmacogenomics (National Library of Medicine, 2019). However, this focus has limitations:  
+1. **Overemphasis on Biology**: The biomedical model often neglects the **social-to-biological transitions** that underpin health inequalities (Vineis & Barouki, 2022). For example, while genetic testing can identify cancer risks, it does not address upstream factors like access to healthcare or environmental toxins.  
+2. **Implementation Gaps**: Precision medicine initiatives (e.g., the U.S. National Institutes of Health’s All of Us program) face challenges in collecting diverse data and ensuring equitable access (Mentis et al., 2018).  
+3. **Need for Interdisciplinary Approaches**: Addressing the **"embodiment dynamic"** requires collaboration between clinicians, epidemiologists, and social scientists to develop interventions that mitigate structural inequities (Krieger, 2005).  
+
+---
+
+### **Data Availability Statement**  
+The original contributions presented in this study are included in the article/supplementary material. Further inquiries should be directed to the corresponding author.  
+
+---
+
+### **References**  
+- **Exposome and Social Determinants**:  
+  - Wild, C. P. (2005). *Complementing the genome with an "exposome": the outstanding challenge of environmental exposure measurement in molecular epidemiology*.  
+  - Vineis, P., & Barouki, R. (2022). *The exposome as the science of social-to-biological transitions*.  
+- **Psychosocial Stress and Health**:  
+  - Lang, J., et al. (2020). *Adverse childhood experiences, epigenetics, and telomere length variation*.  
+  - Lim, S., et al. (2022). *The impact of psychosocial stress from life trauma and racial discrimination on epigenetic aging*.  
+- **Personomics and Health Equity**:  
+  - Ziegelstein, R. C. (2017). *Personomics: the missing link in the evolution from precision medicine to personalized medicine*.  
+  - Senier, L., et al. (2017). *The socio-exposome: advancing exposure science and environmental justice*.  
+
+---
+
+### **Conclusion**  
+A broader vision of personalized medicine must integrate **social, environmental, and biological data** to address health inequities and the complex drivers of disease. This requires redefining the goals of precision medicine beyond genomics, embracing interdisciplinary collaboration, and prioritizing **health equity** as a core principle.  
+
+--- 
+
+**Note**: This summary synthesizes key concepts from the provided text and references, emphasizing the need for a holistic approach to personalized medicine. For further details, consult the original articles and data sources cited.
