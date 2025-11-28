@@ -1,4 +1,12 @@
 [
+  {
+    "id": "person:david-deutsch",
+    "label": "David Deutsch",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-shor",
+    "label": "Peter Shor",
+    "aliases": []
+  }
 ]
-
-
