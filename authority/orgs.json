@@ -1,4 +1,47 @@
 [
+  {
+    "id": "org:ibm",
+    "label": "IBM",
+    "aliases": []
+  },
+  {
+    "id": "org:google",
+    "label": "Google",
+    "aliases": []
+  },
+  {
+    "id": "org:microsoft",
+    "label": "Microsoft",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon",
+    "label": "Amazon",
+    "aliases": []
+  },
+  {
+    "id": "org:microsoft-learn",
+    "label": "Microsoft Learn",
+    "aliases": []
+  },
+  {
+    "id": "org:azure-quantum",
+    "label": "Azure Quantum",
+    "aliases": []
+  },
+  {
+    "id": "org:nist",
+    "label": "NIST",
+    "aliases": []
+  },
+  {
+    "id": "org:ionq",
+    "label": "IonQ",
+    "aliases": []
+  },
+  {
+    "id": "org:honeywell",
+    "label": "Honeywell",
+    "aliases": []
+  }
 ]
-
-
