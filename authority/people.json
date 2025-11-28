@@ -1,4 +1,17 @@
 [
+  {
+    "id": "person:alan-turing",
+    "label": "Alan Turing",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-feynman",
+    "label": "Richard Feynman",
+    "aliases": []
+  },
+  {
+    "id": "person:david-deutsch",
+    "label": "David Deutsch",
+    "aliases": []
+  }
 ]
-
-
