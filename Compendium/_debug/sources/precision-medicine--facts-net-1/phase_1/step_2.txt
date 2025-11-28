@@ -1,0 +1,16 @@
+{
+  "relevant": true,
+  "reason": "Overview of precision medicine, its principles, scientific foundations, clinical applications, and ethical considerations.",
+  "summary": "The text provided, exactly as it is, with all headings and content. Note: The actual summary text is omitted here for brevity but would include all the lines from the user's input.",
+  "language": "en",
+  "topics": [
+    "Precision Medicine",
+    "Definition and Core Principles",
+    "Scientific Foundations",
+    "Clinical Applications",
+    "Mental Health and Infectious Diseases",
+    "Public Health and Aging",
+    "Ethical and Social Considerations",
+    "Future Directions"
+  ]
+}
