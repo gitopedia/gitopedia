@@ -2,15 +2,23 @@
 
 The Knowledgebase repository is responsible for transforming the unstructured Markdown articles from Gitopedia into structured data and search indices. It serves as the "brains" that enable efficient querying of the content. This includes generating machine-readable metadata (JSON) for each article and building a full-text search index (SQLite database) that the website's search feature can use.
 
-## Inputs from Copilot Organizer (Summarized Sources)
+## Source Materials Ingestion
 
-In addition to Markdown articles, the pipeline ingests summarized website sources produced during research. These summaries are initially committed by the Researcher under a branch-local `_incoming/` directory in Gitopedia and then organized by the Copilot Organizer during the Draft PR phase. When the PR is finalized and merged, any new summarized sources are:
+In addition to Markdown articles, the pipeline ingests summarized website sources produced during research. The flow is:
 
-- Identified and de-duplicated against existing Knowledgebase artifacts
-- Converted or normalized into Knowledgebase metadata artifacts (for example, creating source-level `meta.json` entries or augmenting article metadata with reference pointers)
-- Included in the subsequent index build so that referenced material is discoverable and auditable
+1. **Researcher** stages sources under `_incoming/sources/` in Gitopedia alongside articles
+2. **Encyclopaedist** (Copilot Organizer) leaves sources untouched – it only organizes articles
+3. **PR merges** with sources still in `_incoming/sources/`
+4. **KB Indexer** ingests sources into SQLite (not as files) and cleans up gitopedia
 
-This ensures provenance and source transparency, while keeping Gitopedia focused on articles and Knowledgebase focused on structured data and search.
+When the KB indexer runs after a PR merge, sources are:
+
+- Identified and de-duplicated against existing sources in the SQLite database
+- Parsed and inserted into the `sources` table with full-text search support
+- Linked to their related articles via the `related_article` field
+- **Deleted from `_incoming/sources/`** in gitopedia after successful ingestion
+
+This keeps gitopedia focused on articles (no source file bloat) while making sources searchable via the Knowledgebase SQLite index.
 
 ## Metadata Artifacts (meta.json)
 
@@ -66,18 +74,36 @@ A simple approach is to create an FTS5 virtual table that contains the text of a
 **Pseudo-SQL schema:**
 
 ```sql
+-- Articles table and FTS index
 CREATE TABLE articles (
     id TEXT PRIMARY KEY,
     title TEXT,
-    content TEXT
+    path TEXT,
+    author TEXT,
+    summary TEXT,
+    tags TEXT,           -- JSON array
+    meta_json TEXT       -- Full metadata as JSON
 );
--- Insert each article's full content text here (this table is optional if using FTS directly).
 
--- FTS virtual table, indexing content (and title for better search by title).
-CREATE VIRTUAL TABLE article_index USING fts5(content, title, id UNINDEXED);
+CREATE VIRTUAL TABLE article_index USING fts5(content, title, summary, tags, id UNINDEXED);
+
+-- Sources table and FTS index
+CREATE TABLE sources (
+    id TEXT PRIMARY KEY,           -- ULID
+    url TEXT NOT NULL,             -- Original source URL
+    title TEXT,                    -- Source page title
+    related_article TEXT,          -- Slug of the article this source was used for
+    summary TEXT,                  -- Brief description
+    content TEXT,                  -- Full summarized content
+    model TEXT,                    -- LLM model used for summarization (optional)
+    language TEXT,                 -- Detected language (optional)
+    created TEXT                   -- ISO date when source was captured
+);
+
+CREATE VIRTUAL TABLE source_index USING fts5(content, title, summary, id UNINDEXED, url UNINDEXED);
 ```
 
-We could insert each article's full Markdown (or rendered text) into the `article_index` (with its title and id attached). SQLite will then allow querying this table with full-text search queries.
+We insert each article's full Markdown (or rendered text) into the `article_index` and each source's summarized content into the `source_index`. SQLite will then allow querying both tables with full-text search queries.
 
 > **Note:** We may choose to index the Markdown content as raw text or strip out Markdown syntax for the index. It's often beneficial to remove formatting and just index the plain text of articles.
 
@@ -98,16 +124,28 @@ We will use FTS5 if available, as it provides enhancements over FTS3/FTS4 (bette
 
 ### Building the Index
 
-The Knowledgebase build process (e.g., a script `build_index.py`) will:
+The Knowledgebase build process (e.g., the Go indexer in `cmd/indexer/`) will:
 
-1. Gather all articles' text. For each article, we likely combine the title and body text into one large text field for indexing (or use separate fields in FTS).
-2. Create (or open) the SQLite database (`index.sqlite`) in the repository.
-3. Create the schema (if not exists). If the index file already exists from a previous run, it might be easier to drop and rebuild the FTS index to keep it in sync, unless we implement an update mechanism.
-4. Insert/update each article's content into the FTS table. Use the article's `id` as a reference (so we know which article a search result corresponds to).
-5. (Optional) Compute any additional metadata for ranking. SQLite's FTS has built-in BM25 ranking, or we can use custom rank functions as needed.
-6. Save and close the database file.
+1. **Index Articles:**
+   - Gather all articles from `Compendium/` in gitopedia
+   - Parse front matter and content for each article
+   - Insert into `articles` table and `article_index` FTS
 
-Once built, `index.sqlite` will contain all searchable text. The file can be copied or deployed for use by the search service.
+2. **Ingest Sources:**
+   - Scan `_incoming/sources/` in gitopedia for source files
+   - Parse each source's front matter (`id`, `url`, `title`, `related_article`, etc.)
+   - De-duplicate against existing sources in the database (by URL)
+   - Insert new sources into `sources` table and `source_index` FTS
+
+3. **Cleanup Gitopedia:**
+   - After successful source ingestion, delete `_incoming/sources/*` from gitopedia
+   - Commit and push the cleanup to keep gitopedia focused on articles only
+
+4. **Finalize:**
+   - Save and close the database file
+   - Upload to S3 for the Search Lambda
+
+Once built, `index.sqlite` will contain all searchable articles and sources. The file is deployed for use by the search service.
 
 ### Releasing the Index
 

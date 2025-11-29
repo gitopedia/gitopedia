@@ -232,14 +232,16 @@ All new articles in Gitopedia are created exclusively by the Researcher agent. H
 
 ### Staging via `_incoming/` and Copilot Organizer
 
-New or updated articles are first staged by the Researcher agent into a branch-local `_incoming/` directory at the root of the branch (for example, `research/issue-42/_incoming/`). The Researcher then opens a Draft Pull Request. A label or convention on the Draft PR triggers an automated Copilot Organizer agent that:
+New or updated articles are first staged by the Researcher agent into a branch-local `_incoming/` directory at the root of the branch. The Researcher also stages summarized source materials under `_incoming/sources/`. The Researcher then opens a Draft Pull Request and triggers a Custom Copilot Agent (Encyclopaedist) that:
 
-- Analyzes the `_incoming/` contents (articles and supporting files)
+- Analyzes the `_incoming/` contents (articles only, not sources)
 - Refactors and moves articles into the appropriate `Compendium/` category paths
-- Updates or creates authority entries where needed
+- Flags any authority entries that need review (does not create them automatically)
 - Ensures front matter (ULID, title, slug, tags) is valid and consistent
-- Processes summarized source websites included in the branch (to be ingested into Knowledgebase if new)
+- **Leaves `_incoming/sources/` untouched** – these are temporary staging for the Knowledgebase
 - Pushes commits back to the PR branch and transitions the PR from Draft when complete
+
+**Source materials flow:** After the PR merges, the Knowledgebase indexer ingests sources from `_incoming/sources/` into its SQLite database, then deletes them from gitopedia. This keeps the repository focused on articles while making sources searchable via the Knowledgebase.
 
 This ensures all organization and compliance is fully automated before merge.
 
@@ -248,15 +250,18 @@ This ensures all organization and compliance is fully automated before merge.
 The Researcher agent adds or updates articles through pull requests. The agent submits a Draft PR that contains new or updated Markdown files staged under `_incoming/`. Each PR should ideally contain one article addition/update at a time, including:
 
 - The article Markdown file(s) staged under `_incoming/` (the Copilot Organizer will relocate them into the appropriate `Compendium/` subdirectories).
-- Any images or media (if used) placed in an `assets/` folder (with references updated in the Markdown).
 - Updates to authority lists if new entities are introduced.
 - (Optional) an update to `index.md` (the table of contents) – if not, an automated process will update it.
 
 When a PR is merged into the main branch, it triggers the ingestion pipeline:
 
-1. **Knowledgebase Update:** A GitHub Action in Gitopedia (or a webhook) notifies the Knowledgebase repository that new content is available. The Knowledgebase will pull the latest articles and update its metadata and index (see [knowledgebase.md](knowledgebase.md) for details).
+1. **Knowledgebase Update:** A GitHub Action in Gitopedia (or a webhook) notifies the Knowledgebase repository that new content is available. The Knowledgebase will:
+   - Pull the latest articles from `Compendium/` and update its metadata and index
+   - Ingest sources from `_incoming/sources/` into its SQLite `sources` table
+   - Delete `_incoming/sources/` from gitopedia after successful ingestion
+   - See [knowledgebase.md](knowledgebase.md) for details.
 2. **Website Rebuild:** After the Knowledgebase processes the update (or in parallel), the Website repository is prompted to rebuild the static site so the new article becomes available online.
-3. **Search Index Refresh:** The updated search index (SQLite) from Knowledgebase is deployed to the Search API, ensuring the new article is searchable.
+3. **Search Index Refresh:** The updated search index (SQLite) from Knowledgebase is deployed to the Search API, ensuring both articles and sources are searchable.
 
 (The integration between these steps is automated; see [integration.md](../integration.md) for configuration of cross-repo triggers.)
 
@@ -267,7 +272,7 @@ The Researcher (automation) creates new articles by opening PRs. It monitors for
 - Create a new branch on the Gitopedia repo and stage generated Markdown file(s) under the branch-local `_incoming/` directory (each with front matter including a new ULID, title, and slug).
 - Extract facets from the content and reference appropriate authority IDs.
 - Create or update authority entries if new entities are encountered.
-- Include summarized website sources used during research in the branch (so they can be ingested into the Knowledgebase if they are new).
+- Stage summarized website sources under `_incoming/sources/` (these will be ingested into the Knowledgebase after the PR merges).
 - Commit and push the branch, then open a Draft pull request (labeled to trigger the Copilot Organizer). The PR description might reference the original issue and any notes about sources used.
 - This PR follows the same review and merge process as above.
 
@@ -317,8 +322,8 @@ We will integrate this script into the development workflow:
 All articles are created by the Researcher agent. The workflow is as follows:
 
 1. **Article Generation:** The Researcher agent generates content in Markdown, including the YAML front matter with a new ULID, title, and slug. The agent ensures the text follows style guidelines (neutral tone, uses Markdown syntax for formatting, includes citations for claims). The agent uses singular form for classes and parentheses for disambiguation.
-2. **Draft PR & Staging:** The Researcher agent creates a branch and stages new/updated articles under `_incoming/`, includes summarized source websites, then opens a Draft PR labeled to trigger the Copilot Organizer.
-3. **Copilot Organizer:** An automated Copilot agent organizes the branch by relocating files into `Compendium/` categories, validating front matter and authority references, and preparing summarized sources for Knowledgebase ingestion. It pushes commits and marks the PR ready when complete.
+2. **Draft PR & Staging:** The Researcher agent creates a branch and stages new/updated articles under `_incoming/` and summarized sources under `_incoming/sources/`, then opens a Draft PR labeled to trigger the Copilot Organizer.
+3. **Copilot Organizer (Encyclopaedist):** An automated Copilot agent organizes the branch by relocating articles into `Compendium/` categories and validating front matter. It leaves sources in `_incoming/sources/` for the Knowledgebase to ingest post-merge. It pushes commits and marks the PR ready when complete.
 4. **Continuous Integration Checks:** On the PR, automated checks will run (once set up). These include:
    - Markdown linting
    - Front matter validation (ULID, title, slug present)
