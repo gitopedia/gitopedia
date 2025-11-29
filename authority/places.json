@@ -1,4 +1,17 @@
 [
+  {
+    "id": "place:abu-dhabi-(united-arab-emirates)",
+    "label": "Abu Dhabi (United Arab Emirates)",
+    "aliases": []
+  },
+  {
+    "id": "place:australia",
+    "label": "Australia",
+    "aliases": []
+  },
+  {
+    "id": "place:morocco",
+    "label": "Morocco",
+    "aliases": []
+  }
 ]
-
-
