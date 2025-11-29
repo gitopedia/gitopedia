@@ -1,8 +1,0 @@
-# Epigenetics
-
-- Our systems have detected unusual traffic activity from your network.
-- Please complete this reCAPTCHA to demonstrate that it's you making the requests and not a robot.
-- If you are having trouble seeing or completing this challenge, this page may help.
-- If you continue to experience issues, you can contact JSTOR support.
-
-- Block Reference: #02a54ae8-ccc3-11f0-aa3b-406e3009f5bf VID: # IP: 103.187.6.156 Date and time: Sat, 29 Nov 2025 01:30:38 GMT Javascript is disabled
