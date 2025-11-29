@@ -23,5 +23,20 @@
     "id": "person:andrew-feinberg",
     "label": "Andrew Feinberg",
     "aliases": []
+  },
+  {
+    "id": "person:alan-turing-(computer-scientist)",
+    "label": "Alan Turing (computer scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:norbert-wiener-(cyberneticist)",
+    "label": "Norbert Wiener (cyberneticist)",
+    "aliases": []
+  },
+  {
+    "id": "person:alan-turing",
+    "label": "Alan Turing",
+    "aliases": []
   }
 ]
