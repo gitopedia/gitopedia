@@ -232,7 +232,7 @@ All new articles in Gitopedia are created exclusively by the Researcher agent. H
 
 ### Staging via `_incoming/` and Copilot Organizer
 
-New or updated articles are first staged by the Researcher agent into a branch-local `_incoming/` directory at the root of the branch. The Researcher also stages summarized source materials under `_incoming/sources/`. The Researcher then opens a Draft Pull Request and triggers a Custom Copilot Agent (Encyclopaedist) that:
+New or updated articles are first staged by the Researcher agent into a branch-local `_incoming/` directory at the root of the branch. The Researcher also stages summarized source materials under `_incoming/sources/`. The Researcher then opens a Draft Pull Request and triggers a Custom Copilot Agent ([Encyclopaedist](../agents/README.md)) that:
 
 - Analyzes the `_incoming/` contents (articles only, not sources)
 - Refactors and moves articles into the appropriate `Compendium/` category paths

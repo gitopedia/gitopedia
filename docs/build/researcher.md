@@ -129,6 +129,37 @@ These will be provided via environment variables or secret management in the CI 
 - Ensure both services are reachable from the Researcher runtime (firewall rules, VPC, or Docker network as appropriate).
 - Create an ECR repository and grant CI permissions to authenticate and push images. Use OIDC or scoped AWS credentials in CI to log in to ECR.
 
+### GitHub CLI Requirements
+
+The Researcher relies on the host machine's GitHub CLI (`gh`) for invoking the Encyclopaedist agent after creating Draft PRs:
+
+1. **Install gh CLI**: https://cli.github.com/
+2. **Authenticate**: Run `gh auth login` and complete the OAuth flow
+3. **Verify**: Run `gh auth status` to confirm authentication
+
+The Researcher uses the authenticated `gh` session to:
+- Create and manage PRs
+- Invoke the Encyclopaedist Copilot agent for article organization
+
+**Note:** The `gh` CLI must be installed and authenticated on the machine running the Researcher. Docker deployments should mount the host's `~/.config/gh` directory or use `gh auth token` for non-interactive authentication.
+
+```bash
+# Non-interactive authentication (for CI/containers)
+echo "$GH_TOKEN" | gh auth login --with-token
+```
+
+### Encyclopaedist Integration
+
+After the Researcher creates a Draft PR with articles in `_incoming/`, it invokes the Encyclopaedist agent to:
+
+1. Move articles from `_incoming/` to proper `Compendium/<Category>/` paths
+2. Validate front matter (ULID, title, slug, tags)
+3. Flag authority reference issues
+4. Remove debug artifacts
+5. Mark the PR ready for review
+
+See [../agents/README.md](../agents/README.md) for full agent documentation.
+
 ## Future Improvements
 
 - **Better Source Integration**: In Phase 2, the Researcher could use the Knowledgebase's index to find if Gitopedia already has related content to avoid redundancy or to link articles together.
