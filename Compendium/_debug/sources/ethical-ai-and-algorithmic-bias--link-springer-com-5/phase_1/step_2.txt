@@ -1,0 +1,291 @@
+# Ethical AI and Algorithmic Bias
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- Immersive Technology and Experiences
+
+- Algorithmic Bias: A Challenge for Ethical Artificial Intelligence (AI)
+
+- First Online: 31 December 2023
+
+- Artificial Intelligence (AI) has become an important aspect of our lives as it has humongous potential to support humans in various domains by sharing the cognitive load.
+- However, the ethical side of AI poses serious challenges.
+- There have been several cases when AI algorithms are declared as unfair, inscrutable, harmful, i.e., biased.
+- Therefore, it becomes important to understand—What kinds of algorithmic biases exist and how do they occur?
+- How can they be identified and corrected to make them more ethical?
+- What are the optimum ways to exploit them?
+- This chapter offers a thematic review of ‘Algorithmic bias’ by exploring the recent literature (2016–2022) to find the answers to the above questions.
+
+- This is a preview of subscription content, log in via an institution to check access.
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Available as EPUB and PDF
+
+- Compact, lightweight edition
+
+- Dispatched in 3 to 5 business days
+
+- Free shipping worldwide - see info
+
+- Durable hardcover edition
+
+- Dispatched in 3 to 5 business days
+
+- Free shipping worldwide - see info
+
+- Tax calculation will be finalised at checkout
+
+- Purchases are for personal use only
+
+- Institutional subscriptions
+
+- Similar content being viewed by others
+
+- Bias, Privacy and Mistrust: Considering the Ethical Challenges of Artificial Intelligence
+
+- Research, Ethics and Artificial Intelligence Challenges and Opportunities
+
+- Algorithm Bias Detection System Based on Artificial Intelligence
+
+- Explore related subjects
+
+- Philosophy of Artificial Intelligence
+
+- Artificial Intelligence
+
+- Abonamah, A. A., Tariq, M. U., & Shilbayeh, S. (2021). On the commoditization of artificial intelligence. Frontiers in Psychology, 12, 3934. Google Scholar
+
+- Abonamah, A. A., Tariq, M. U., & Shilbayeh, S. (2021). On the commoditization of artificial intelligence. Frontiers in Psychology, 12, 3934.
+
+- Akter, S., McCarthy, G., Sajib, S., Michael, K., Dwivedi, Y. K., D’Ambra, J., & Shen, K. N. (2021). Algorithmic bias in data-driven innovation in the age of AI. International Journal of Information Management, 60, 102387.Article Google Scholar
+
+- Akter, S., McCarthy, G., Sajib, S., Michael, K., Dwivedi, Y. K., D’Ambra, J., & Shen, K. N. (2021). Algorithmic bias in data-driven innovation in the age of AI. International Journal of Information Management, 60, 102387.
+
+- Article Google Scholar
+
+- Asatiani, A., Malo, P., Nagbøl, P. R., Penttinen, E., Rinta-Kahila, T., & Salovaara, A. (2020). Challenges of explaining the behavior of black-box AI systems. MIS Quarterly Executive, 19(4), 259–278.Article Google Scholar
+
+- Asatiani, A., Malo, P., Nagbøl, P. R., Penttinen, E., Rinta-Kahila, T., & Salovaara, A. (2020). Challenges of explaining the behavior of black-box AI systems. MIS Quarterly Executive, 19(4), 259–278.
+
+- Article Google Scholar
+
+- Baeza-Yates, R. (2016). Data and algorithmic bias in the web. In Proceedings of the 8th ACM Conference on Web Science (p. 1). Google Scholar
+
+- Baeza-Yates, R. (2016). Data and algorithmic bias in the web. In Proceedings of the 8th ACM Conference on Web Science (p. 1).
+
+- Baeza-Yates, R. (2018). Bias on the web. Communications of the ACM, 61(6), 54–61.Article Google Scholar
+
+- Baeza-Yates, R. (2018). Bias on the web. Communications of the ACM, 61(6), 54–61.
+
+- Article Google Scholar
+
+- Cowgill, B., & Tucker, C. E. (2019). Economics, fairness and algorithmic bias. In The preparation for the Journal of Economic Perspectives. Google Scholar
+
+- Cowgill, B., & Tucker, C. E. (2019). Economics, fairness and algorithmic bias. In The preparation for the Journal of Economic Perspectives.
+
+- Danks, D., & London, A. J. (2017). Algorithmic bias in autonomous systems. In The Proceedings of 26th International Joint Conference on Artificial Intelligence (IJCAI) (Vol. 17, pp. 4691–4697). Google Scholar
+
+- Danks, D., & London, A. J. (2017). Algorithmic bias in autonomous systems. In The Proceedings of 26th International Joint Conference on Artificial Intelligence (IJCAI) (Vol. 17, pp. 4691–4697).
+
+- Dinh, T. N., & Thai, M. T. (2018). AI and blockchain: A disruptive integration. Computer, 51(9), 48–53.Article Google Scholar
+
+- Dinh, T. N., & Thai, M. T. (2018). AI and blockchain: A disruptive integration. Computer, 51(9), 48–53.
+
+- Article Google Scholar
+
+- Dolata, M., Feuerriegel, S., & Schwabe, G. (2021). A sociotechnical view of algorithmic fairness. Information Systems Journal, 1–65. Google Scholar
+
+- Dolata, M., Feuerriegel, S., & Schwabe, G. (2021). A sociotechnical view of algorithmic fairness. Information Systems Journal, 1–65.
+
+- Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI in society. Harvard Data Science Review, 1(1). Google Scholar
+
+- Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI in society. Harvard Data Science Review, 1(1).
+
+- Fu, R., Huang, Y., & Singh, P. V. (2020). Artificial intelligence and algorithmic bias: Source, detection, mitigation, and implications. In INFORMS tutorials in operations research (pp. 39–63). Google Scholar
+
+- Fu, R., Huang, Y., & Singh, P. V. (2020). Artificial intelligence and algorithmic bias: Source, detection, mitigation, and implications. In INFORMS tutorials in operations research (pp. 39–63).
+
+- Hajian, S., Bonchi, F., & Castillo, C. (2016). Algorithmic bias: From discrimination discovery to fairness-aware data mining. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 2125–2126). Google Scholar
+
+- Hajian, S., Bonchi, F., & Castillo, C. (2016). Algorithmic bias: From discrimination discovery to fairness-aware data mining. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 2125–2126).
+
+- Hooker, S. (2021). Moving beyond “algorithmic bias is a data problem.” Patterns, 2(4), 100241.Article Google Scholar
+
+- Hooker, S. (2021). Moving beyond “algorithmic bias is a data problem.” Patterns, 2(4), 100241.
+
+- Article Google Scholar
+
+- Kirkpatrick, K. (2016). Battling algorithmic bias: How do we ensure algorithms treat us fairly? Communications of the ACM, 59(10), 16–17.Article Google Scholar
+
+- Kirkpatrick, K. (2016). Battling algorithmic bias: How do we ensure algorithms treat us fairly? Communications of the ACM, 59(10), 16–17.
+
+- Article Google Scholar
+
+- Kordzadeh, N., & Ghasemaghaei, M. (2021). Algorithmic bias: Review, synthesis, and future research directions. European Journal of Information Systems, 1–22. Google Scholar
+
+- Kordzadeh, N., & Ghasemaghaei, M. (2021). Algorithmic bias: Review, synthesis, and future research directions. European Journal of Information Systems, 1–22.
+
+- Lambrecht, A., & Tucker, C. (2019). Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads. Management Science, 65(7), 2966–2981.Article Google Scholar
+
+- Lambrecht, A., & Tucker, C. (2019). Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads. Management Science, 65(7), 2966–2981.
+
+- Article Google Scholar
+
+- Marjanovic, O., Cecez-Kecmanovic, D., & Vidgen, R. (2021). Algorithmic pollution: Making the invisible visible. Journal of Information Technology, 36(4), 391–408.Article Google Scholar
+
+- Marjanovic, O., Cecez-Kecmanovic, D., & Vidgen, R. (2021). Algorithmic pollution: Making the invisible visible. Journal of Information Technology, 36(4), 391–408.
+
+- Article Google Scholar
+
+- Martin, K. (2019). Designing ethical algorithms. MIS Quarterly Executive, 18(2), 5. Google Scholar
+
+- Martin, K. (2019). Designing ethical algorithms. MIS Quarterly Executive, 18(2), 5.
+
+- Mehrabi, N., Naveed, M., Morstatter, F., & Galstyan, A. (2020). Exacerbating algorithmic bias through fairness attacks. arXiv preprint arXiv:2012.08723
+
+- Mehrabi, N., Naveed, M., Morstatter, F., & Galstyan, A. (2020). Exacerbating algorithmic bias through fairness attacks. arXiv preprint arXiv:2012.08723
+
+- Mikalef, P., Conboy, K., Lundström, J. E., & Popovič, A. (2022). Thinking responsibly about responsible AI and ‘the dark side’ of AI. European Journal of Information Systems, 1–12. Google Scholar
+
+- Mikalef, P., Conboy, K., Lundström, J. E., & Popovič, A. (2022). Thinking responsibly about responsible AI and ‘the dark side’ of AI. European Journal of Information Systems, 1–12.
+
+- Nassar, M., Salah, K., ur Rehman, M. H., & Svetinovic, D. (2019). Blockchain for explainable and trustworthy artificial intelligence. WIREs Data Mining and Knowledge Discovery, 10(1), 1340. Google Scholar
+
+- Nassar, M., Salah, K., ur Rehman, M. H., & Svetinovic, D. (2019). Blockchain for explainable and trustworthy artificial intelligence. WIREs Data Mining and Knowledge Discovery, 10(1), 1340.
+
+- Raub, M. (2018). Bots, bias and big data: Artificial intelligence, algorithmic bias and disparate impact liability in hiring practices. Arkansas Law Review, 71, 529. Google Scholar
+
+- Raub, M. (2018). Bots, bias and big data: Artificial intelligence, algorithmic bias and disparate impact liability in hiring practices. Arkansas Law Review, 71, 529.
+
+- Riemer, K., & Peter, S. (2021). Algorithmic audiencing: Why we need to rethink free speech on social media. Journal of Information Technology, 36(4), 409–426.Article Google Scholar
+
+- Riemer, K., & Peter, S. (2021). Algorithmic audiencing: Why we need to rethink free speech on social media. Journal of Information Technology, 36(4), 409–426.
+
+- Article Google Scholar
+
+- Rinta-Kahila, T., Someh, I., Gillespie, N., Indulska, M., & Gregor, S. (2021). Algorithmic decision-making and system destructiveness: A case of automatic debt recovery. European Journal of Information Systems, 1–26. Google Scholar
+
+- Rinta-Kahila, T., Someh, I., Gillespie, N., Indulska, M., & Gregor, S. (2021). Algorithmic decision-making and system destructiveness: A case of automatic debt recovery. European Journal of Information Systems, 1–26.
+
+- Sarlin, P., & Mezei, J. (2020). Introduction to the Minitrack on machine learning and predictive analytics in accounting, finance and management. In Proceedings of the 53rd Hawaii international conference on system sciences. Google Scholar
+
+- Sarlin, P., & Mezei, J. (2020). Introduction to the Minitrack on machine learning and predictive analytics in accounting, finance and management. In Proceedings of the 53rd Hawaii international conference on system sciences.
+
+- Xiang, A. (2021). Reconciling legal and technical approaches to algorithmic bias. Tennessee Law Review, 88(3), 649–724. Google Scholar
+
+- Xiang, A. (2021). Reconciling legal and technical approaches to algorithmic bias. Tennessee Law Review, 88(3), 649–724.
+
+- Zhang, S., Mehta, N., Singh, P., & Srinivasan, K. (2021). Frontiers: Can an artificial intelligence algorithm mitigate racial economic inequality? An analysis in the context of Airbnb. Marketing Science, 40(5), 813–820.Article Google Scholar
+
+- Zhang, S., Mehta, N., Singh, P., & Srinivasan, K. (2021). Frontiers: Can an artificial intelligence algorithm mitigate racial economic inequality? An analysis in the context of Airbnb. Marketing Science, 40(5), 813–820.
+
+- Article Google Scholar
+
+- Authors and Affiliations
+
+- IIM Bangalore, Bangalore, IndiaDivya Dwivedi
+
+- IIM Bangalore, Bangalore, India
+
+- Divya DwivediView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Editors and Affiliations
+
+- MICA, Ahmedabad, IndiaGitha S. Heggde
+
+- MICA, Ahmedabad, India
+
+- MICA, Media, Entertainment and Sports Business, Ahmedabad, IndiaSantosh Kumar Patra
+
+- MICA, Media, Entertainment and Sports Business, Ahmedabad, India
+
+- MICA, Economics, Ahmedabad, IndiaRasananda Panda
+
+- MICA, Economics, Ahmedabad, India
+
+- Rights and permissions
+
+- Reprints and permissions
+
+- Copyright information
+
+- Dwivedi, D. (2024). Algorithmic Bias: A Challenge for Ethical Artificial Intelligence (AI). In: Heggde, G.S., Patra, S.K., Panda, R. (eds) Immersive Technology and Experiences. Palgrave Macmillan, Singapore. https://doi.org/10.1007/978-981-99-8834-1_5
+
+- DOI: https://doi.org/10.1007/978-981-99-8834-1_5
+
+- DOI: https://doi.org/10.1007/978-981-99-8834-1_5
+
+- Published: 31 December 2023
+
+- Published: 31 December 2023
+
+- Publisher Name: Palgrave Macmillan, Singapore
+
+- Publisher Name: Palgrave Macmillan, Singapore
+
+- Print ISBN: 978-981-99-8833-4
+
+- Print ISBN: 978-981-99-8833-4
+
+- Online ISBN: 978-981-99-8834-1
+
+- Online ISBN: 978-981-99-8834-1
+
+- eBook Packages: Business and ManagementBusiness and Management (R0)
+
+- eBook Packages: Business and ManagementBusiness and Management (R0)
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Available as EPUB and PDF
+
+- Compact, lightweight edition
+
+- Dispatched in 3 to 5 business days
+
+- Free shipping worldwide - see info
+
+- Durable hardcover edition
+
+- Dispatched in 3 to 5 business days
+
+- Free shipping worldwide - see info
+
+- Tax calculation will be finalised at checkout
+
+- Purchases are for personal use only
+
+- Institutional subscriptions
+
+- Publish your research
+
+- Open access publishing
+
+- Products and services
+
+- Partners and advertisers
+
+- Your privacy choices/Manage cookies
+
+- Your US state privacy rights
+
+- Accessibility statement
+
+- Cancel contracts here
