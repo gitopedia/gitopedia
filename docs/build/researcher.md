@@ -150,15 +150,29 @@ echo "$GH_TOKEN" | gh auth login --with-token
 
 ### Encyclopaedist Integration
 
-After the Researcher creates a Draft PR with articles in `_incoming/`, it invokes the Encyclopaedist agent to:
+After the Researcher creates a Draft PR with articles in `_incoming/`, it:
 
-1. Move articles from `_incoming/` to proper `Compendium/<Category>/` paths
-2. Validate front matter (ULID, title, slug, tags)
-3. Flag authority reference issues
-4. Remove debug artifacts
-5. Mark the PR ready for review
+1. **Invokes the Encyclopaedist** by posting a `@copilot` comment on the PR
+2. **Monitors PR state** - polls for draft status, CI status, and mergeability
+3. **Auto-merges** when the PR is ready (not draft, CI passed, mergeable)
+4. **Closes the tracking issue** after successful merge
+5. **Continues** to process the next research request
+
+The Encyclopaedist agent handles:
+- Moving articles from `_incoming/` to proper `Compendium/<Category>/` paths
+- Validating front matter (ULID, title, slug, tags)
+- Flagging authority reference issues
+- Removing debug artifacts
+- Marking the PR ready for review
 
 See [../agents/README.md](../agents/README.md) for full agent documentation.
+
+### Configuration
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `PR_POLL_INTERVAL_SECONDS` | 30 | How often to check PR status |
+| `PR_MAX_WAIT_MINUTES` | 30 | Maximum time to wait for PR to be ready |
 
 ## Future Improvements
 
