@@ -150,29 +150,32 @@ echo "$GH_TOKEN" | gh auth login --with-token
 
 ### Encyclopaedist Integration
 
-After the Researcher creates a Draft PR with articles in `_incoming/`, it:
+The Researcher uses a non-blocking workflow:
 
-1. **Invokes the Encyclopaedist** by posting a `@copilot` comment on the PR
-2. **Monitors PR state** - polls for draft status, CI status, and mergeability
-3. **Auto-merges** when the PR is ready (not draft, CI passed, mergeable)
-4. **Closes the tracking issue** after successful merge
-5. **Continues** to process the next research request
+1. **Before starting research:**
+   - Check all open PRs for any that are ready to merge
+   - Merge ready PRs and close their tracking issues
+   
+2. **Select a research task:**
+   - Filter out issues that already have open PRs
+   - Pick a random issue from the remaining available issues
+   
+3. **After completing research:**
+   - Create Draft PR with articles in `_incoming/`
+   - **Invoke the Encyclopaedist** by posting a `@copilot` comment
+   - Check again for ready PRs and merge them
+   - **Continue immediately** - does not wait for the new PR
 
-The Encyclopaedist agent handles:
+The Encyclopaedist agent (triggered asynchronously) handles:
 - Moving articles from `_incoming/` to proper `Compendium/<Category>/` paths
 - Validating front matter (ULID, title, slug, tags)
 - Flagging authority reference issues
 - Removing debug artifacts
 - Marking the PR ready for review
 
+On the next Researcher run, the now-ready PR will be merged automatically.
+
 See [../agents/README.md](../agents/README.md) for full agent documentation.
-
-### Configuration
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `PR_POLL_INTERVAL_SECONDS` | 30 | How often to check PR status |
-| `PR_MAX_WAIT_MINUTES` | 30 | Maximum time to wait for PR to be ready |
 
 ## Future Improvements
 
