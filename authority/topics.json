@@ -1,4 +1,147 @@
 [
+  {
+    "id": "topic:energy-storage-technologies-in-renewable-systems",
+    "label": "Energy Storage Technologies in Renewable Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage-systems",
+    "label": "energy storage systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-integration",
+    "label": "renewable energy integration",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-stabilization",
+    "label": "grid stabilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:transportation",
+    "label": "transportation",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-processes",
+    "label": "industrial processes",
+    "aliases": []
+  },
+  {
+    "id": "topic:advanced-materials",
+    "label": "advanced materials",
+    "aliases": []
+  },
+  {
+    "id": "topic:next-generation-batteries",
+    "label": "next-generation batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:battery-electricity-storage",
+    "label": "battery electricity storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-energy-storage",
+    "label": "thermal energy storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:variable-renewable-energy",
+    "label": "variable renewable energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:electricity-storage-valuation-framework",
+    "label": "Electricity Storage Valuation Framework",
+    "aliases": []
+  },
+  {
+    "id": "topic:sodium-ion-batteries",
+    "label": "sodium-ion batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:sector-coupling",
+    "label": "sector coupling",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-mini-grids",
+    "label": "smart mini-grids",
+    "aliases": []
+  },
+  {
+    "id": "topic:decarbonisation",
+    "label": "decarbonisation",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-vehicles",
+    "label": "electric vehicles",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage",
+    "label": "Energy storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy",
+    "label": "Renewable energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainability",
+    "label": "Sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:lithium-ion-batteries",
+    "label": "Lithium-ion batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:pumped-hydro-storage",
+    "label": "Pumped hydro storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:flywheels",
+    "label": "Flywheels",
+    "aliases": []
+  },
+  {
+    "id": "topic:molten-salt-storage",
+    "label": "Molten salt storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-vehicles-(evs)",
+    "label": "Electric vehicles (EVs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:vehicle-to-grid-(v2g)",
+    "label": "Vehicle-to-grid (V2G)",
+    "aliases": []
+  },
+  {
+    "id": "topic:u.s.-inflation-reduction-act",
+    "label": "U.S. Inflation Reduction Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:european-union’s-green-deal",
+    "label": "European Union’s Green Deal",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-energy",
+    "label": "Sustainable Energy",
+    "aliases": []
+  }
 ]
-
-
