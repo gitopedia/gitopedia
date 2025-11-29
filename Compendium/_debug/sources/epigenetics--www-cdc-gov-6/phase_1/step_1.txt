@@ -1,0 +1,141 @@
+A .gov website belongs to an official government organization in the United States.
+
+A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Epigenetics, Health, and Disease
+
+Precision Health: Predict and Prevent Disease
+
+Precision Health: Treat and Manage Disease
+
+Epigenetics, Health, and Disease
+
+Precision Health: Predict and Prevent Disease
+
+Precision Health: Treat and Manage Disease
+
+Family Health History
+
+About Cascade Testing
+
+About Genetic Counseling
+
+About Genetic Disorders
+
+About Pharmacogenetics
+
+Epigenetics, Health, and Disease
+
+Epigenetics refers to the way your behaviors and environment can cause changes that affect the way your genes work.
+
+Epigenetics turns genes "on" and "off."
+
+Your epigenetics change as you age, both as part of normal development and aging and because of exposure to environmental factors that happen over the course of your life.
+
+Epigenetic changes can affect your health in different ways.
+
+Your genes play an important role in your health, but so do your behaviors and environment, such as what you eat and how physically active you are. Epigenetics refers to how your behaviors and environment can cause changes that affect the way your genes work. Unlike genetic changes (mutations), epigenetic changes are reversible and do not change the sequence of DNA bases, but they can change how your body reads a DNA sequence.
+
+Gene expression refers to the process of making proteins using the instructions from genes. A person's DNA includes many genes. Each gene includes instructions for making proteins. Additionally, there are other sections of DNA that are not part of any gene but are important for making sure the genes work properly. These DNA sections provide directions about where in the body the protein is made, when it is made, and how much is made.
+
+While changes to the genes (mutations) can change the protein that is made, epigenetic changes affect gene expression to turn genes "on" and "off." This can mean that genes make proteins in cells and tissues where or when they normally would not, or that genes don't make proteins where and when they normally would. It can also mean that genes make more or less of a protein than they normally would.
+
+There are several ways an environmental factor can cause an epigenetic change to occur. One of the most common ways is by causing changes to DNA methylation. DNA methylation works by adding a chemical (known as a methyl group) to DNA. This chemical can also be removed from the DNA through a process called demethylation. Typically, methylation turns genes off and demethylation turns genes on. Thus, environmental factors can impact the amount of protein a cell makes. Less protein might be made if an environmental factor causes an increase in DNA methylation, and more protein might be made if a factor causes an increase in demethylation.
+
+Your epigenetics change as you age as part of normal development.
+
+Epigenetics and development
+
+Epigenetic changes begin before you are born. All your cells have the same genes but look and act differently. As you grow and develop, epigenetics helps determine which function a cell will have—for example, whether it will become a heart cell, nerve cell, muscle cell, or skin cell.
+
+EXAMPLE: Nerve cell and muscle cell. Your nerve cells and muscle cells have the same DNA, but they work differently. A nerve cell transports information to other cells in your body. A muscle cell has a structure that aids in your body's ability to move. Epigenetics allows the muscle cell to turn on genes to make proteins important for its job and turn off genes important for a nerve cell's job.
+
+Your epigenetics change throughout your life. Your epigenetics at birth are not the same as your epigenetics during childhood or adulthood.
+
+EXAMPLE: A newborn, 26-year-old, and 103-year-old. Scientists measured DNA methylation at millions of sites in a newborn, 26-year-old, and 103-year-old. The level of DNA methylation decreased with age. The newborn had the highest level of DNA methylation, the 103-year-old had the lowest level of DNA methylation, and the 26-year-old had a DNA methylation level that was between that of the newborn and the 103-year-old.1
+
+Epigenetics and exposures
+
+Your epigenetics can change in response to your behaviors and environment.
+
+Nutrition during pregnancy
+
+A pregnant woman's environment and behavior during pregnancy, such as whether they eat healthy food, can change the baby's epigenetics. Some of these changes can remain for decades and might make the child more likely to get certain diseases.
+
+EXAMPLE: Dutch Hunger Winter famine (1944–1945). People whose mothers were pregnant with them during the famine were more likely to develop certain diseases, such as heart disease, schizophrenia, and type 2 diabetes.2 Around 60 years after the famine, researchers looked at DNA methylation levels in people whose mothers were pregnant with them during the famine. These people had increased DNA methylation at some genes and decreased DNA methylation at other genes, compared with their siblings who were not exposed to famine before birth. 345These differences in DNA methylation could help explain why these people had an increased likelihood for certain diseases later in life.2567
+
+Exposures such as smoking can cause epigenetic changes. However, these epigenetic changes can be reversible in some cases.
+
+EXAMPLE: Smokers, nonsmokers, and former smokers. Smoking can result in epigenetic changes. For example, at certain parts of the AHRR gene, smokers tend to have less DNA methylation than nonsmokers. The difference is greater for heavy smokers and long-term smokers. After quitting smoking, former smokers can begin to have increased DNA methylation at this gene. Eventually, they can reach levels similar to those of nonsmokers. In some cases, this can happen in less than a year, but the length of time depends on how long and how much someone smoked before quitting.8
+
+Epigenetics and diseases
+
+Certain diseases can change your epigenetics. In addition, some epigenetic changes can make you more likely to develop certain diseases, such as cancer.
+
+Germs can change your epigenetics to weaken your immune system. This helps the germ survive.
+
+EXAMPLE: Tuberculosis. Mycobacterium tuberculosis causes tuberculosis. Infections with these germs can cause epigenetic changes in some of your immune cells that result in turning off the IL-12B gene. Turning off the IL-12B gene weakens your immune system and improves the survival of Mycobacterium tuberculosis.9
+
+Certain mutations make you more likely to develop cancer. Likewise, some epigenetic changes increase your cancer risk. For example, having a mutation in the BRCA1 gene that prevents it from working properly makes you more likely to get breast and other cancers. Similarly, increased DNA methylation that results in decreased BRCA1 gene expression raises your risk for breast and other cancers.10 While cancer cells have increased DNA methylation at certain genes, overall DNA methylation levels are lower in cancer cells compared with normal cells.
+
+Different types of cancer that seem similar can have different DNA methylation patterns. Epigenetics can be used to help determine which type of cancer a person has or can help to find hard-to-detect cancers earlier. Epigenetics alone cannot diagnose cancer. Cancers would need to be confirmed with further screening tests.
+
+EXAMPLE: Colorectal cancer. Colorectal cancers have abnormal DNA methylation near certain genes, which affects expression of these genes. Some commercial colorectal cancer screening tests (for example, Cologuard®) use stool samples to look for this abnormal DNA methylation. It is important to know that if you have one of these tests and the result is positive or abnormal, you will need to have a colonoscopy, which is a procedure to check your colon for cancer.11
+
+Learn. Genetics: Genetic Science Learning Center at the University of Utah provides a detailed explanation and interactive tutorial about epigenetics.
+
+National Human Genomic Research Institute: Epigenomics Fact Sheet provides answers to questions about the epigenome.
+
+National Institute of Environmental Health Sciences: Epigenetics provides information about epigenetics, epigenetic research, and a video about epigenetics.
+
+Epigenetics and exposures
+
+Epigenetics and diseases
+
+Precision Health: Predict and Prevent Disease
+
+Precision Health: Treat and Manage Disease
+
+Distinct DNA methylomes of newborns and centenarians. Proc Natl Acad Sci U S A 2012; 109:10522-7. Heyn H, Li N, Ferreira H, et al.
+
+Epidemiological evidence for the developmental origins of health and disease: effects of prenatal undernutrition in humans. J Endocrinol 2019. 242:T135-T144. Roseboom T.
+
+Persistent epigenetic differences associated with prenatal exposure to famine in humans. Proc Natl Acad Sci U S A 2008; 105: 17046-17049. Heijmans B, Tobi E, Stein A, et al.
+
+DNA Methylation Differences After Exposure to Prenatal Famine Are Common and Timing- And Sex- Specific. Hum Mol Genet 2009; 18:4046-53. Tobi E, Lumey L, Talens R, et al.
+
+DNA methylation as a mediator of the association between prenatal adversity and risk factors for metabolic disease in adulthood. Sci Adv 2018; 4:eaao4364. Tobi E, Slieker R, Luijk R, et al.
+
+DNA Methylation of Loci Within ABCG1 and PHOSPHO1 in Blood DNA is Associated With Future Type 2 Diabetes Risk. Epigenetics 2016; 7: 482-8. Dayeh T, Tuomi T, Almgren P, et al.
+
+Epigenetic and genetic variation at the IGF2/H19 imprinting control region on 11p15.5 is associated with cerebellum weight. Epigenetics 2012; 7:155-163. Pidsley R, Dempster E, Troakes C, et al.
+
+Epigenetic signatures of starting and stopping smoking. EBioMedicine 2018; 37:214-220. McCartney D, Stevenson A, Hillary R, et al.
+
+Mycobacterium tuberculosis Infection Induces HDAC1-Medicated Suppression of IL-12B Gene Expression in Macrophages. Front Cell Infect Microbiol 2015; 5:90. Chandran A, Antony C, Jose L, et al.
+
+Blood-based DNA methylation as biomarker for breast cancer: a systematic review. Clin Epigenetics 2016; 8: 115. Tang Q, Cheng J, Cao X, et al.
+
+Advances in tests for colorectal cancer screening and diagnosis. Expert Rev Mol Diagn 2022; 22: 449-460. Chan SCH, Liang JQ.
+
+Precision Health: Predict and Prevent Disease
+
+Precision Health: Treat and Manage Disease
+
+Genomics and Your Health
+
+Learn more about genomics and its importance for your health
+
+Epigenetics, Health, and Disease
+
+Precision Health: Predict and Prevent Disease
+
+Precision Health: Treat and Manage Disease
+
+Vulnerability Disclosure Policy
+
+Public Health Publications
+
+Vulnerability Disclosure Policy
+
+Public Health Publications
