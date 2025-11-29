@@ -1,0 +1,1042 @@
+# Energy Storage Technologies in Renewable Systems
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- Current technologies development for renewable energy storage: a review
+
+- Published: 11 September 2025
+
+- Chime Chinedu Enoch Mmaduabuchi1,
+
+- Bachirou Guene Lougou ORCID: orcid.org/0000-0001-7252-27971,2,3
+
+- Renewable energy storage technologies have emerged as the most effective for energy storage due to significant advantages.
+- The major goal of energy storage is to efficiently store energy and deliver it for use.
+- Renewable energy storage solutions increase system productivity and capture the unpredictable renewable energy supply, enabling quick and simple modifications to the electric infrastructure.
+- To fully realize the benefits of this added flexibility, a comprehensive optimization of an energy storage system’s specialized functions is required.
+- This paper outlines the essential components of various energy storage systems and examines their benefits and drawbacks across the full range of system operations, including demand response and self-generation, from generation to distribution to the customer.
+- This review focuses on the performance and limitations of the different types currently used for renewable energy storage, with an emphasis on the most significant factor contributing to the rise of thermochemical energy storage for reducing emissions: energy storage has the potential to reduce reliance on “peaker” plants that run on fossil fuels to meet peak demand, which produces large amounts of pollution.
+- One of the goals for the modeling and improvement of thermochemical energy storage technology, particularly employing perovskite and other materials, is to provide broad coverage and a quick response time, especially when used in induction heating reactors.
+- Furthermore, energy storage can enhance the resilience of the grid, helping it withstand external shocks and natural disasters.
+
+- This is a preview of subscription content, log in via an institution to check access.
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Price includes VAT (New Zealand)
+
+- Instant access to the full article PDF.
+
+- Institutional subscriptions
+
+- Similar content being viewed by others
+
+- Storage Demand in Power Supply
+
+- Energy Storage Techniques for Renewables
+
+- Hybrid Electric Energy Storages: Their Specific Features and Application (Review)
+
+- Explore related subjects
+
+- Chemical hydrogen storage
+
+- Hydrogen storage materials
+
+- Mechanical and Thermal Energy Storage
+
+- Mansour, D.-E. A.: 8—Energy storage technologies in MVDC microgrids. In: Eissa, M. M. (ed) Medium Voltage Direct Current Grid. Academic Press, pp. 189–207 (2019). https://doi.org/10.1016/B978-0-12-814560-9.00010-0
+
+- Mansour, D.-E. A.: 8—Energy storage technologies in MVDC microgrids. In: Eissa, M. M. (ed) Medium Voltage Direct Current Grid. Academic Press, pp. 189–207 (2019). https://doi.org/10.1016/B978-0-12-814560-9.00010-0
+
+- Minh, N. Q.: Reversible solid oxide cell technology. In: Cabeza, L. F. (ed) Encyclopedia of Energy Storage. Elsevier, Oxford, pp. 338–343 (2022). https://doi.org/10.1016/B978-0-12-819723-3.00096-2
+
+- Minh, N. Q.: Reversible solid oxide cell technology. In: Cabeza, L. F. (ed) Encyclopedia of Energy Storage. Elsevier, Oxford, pp. 338–343 (2022). https://doi.org/10.1016/B978-0-12-819723-3.00096-2
+
+- Ashfaq, S., Myasse, I.E., Musleh, A.S., Zhang, D., Dong, Z.Y.: Least cost analysis of bulk energy storage for deep decarbonized power system with increased share of renewable energy. Electr. Power Syst. Res. 220, 109375 (2023)Article Google Scholar
+
+- Ashfaq, S., Myasse, I.E., Musleh, A.S., Zhang, D., Dong, Z.Y.: Least cost analysis of bulk energy storage for deep decarbonized power system with increased share of renewable energy. Electr. Power Syst. Res. 220, 109375 (2023)
+
+- Article Google Scholar
+
+- González-González, J. M., Parrilla, Á. P., Aguado, J. A.: Chemical energy storage technologies. In: García, J. (ed) Encyclopedia of Electrical and Electronic Power Engineering. Elsevier, Oxford, 426–439 (2023). https://doi.org/10.1016/B978-0-12-821204-2.00100-8
+
+- González-González, J. M., Parrilla, Á. P., Aguado, J. A.: Chemical energy storage technologies. In: García, J. (ed) Encyclopedia of Electrical and Electronic Power Engineering. Elsevier, Oxford, 426–439 (2023). https://doi.org/10.1016/B978-0-12-821204-2.00100-8
+
+- Ani, P.C., Nzereogu, P.U., Agbogu, A.C., Ezema, F.I., Nwanya, A.C.: Cellulose from waste materials for electrochemical energy storage applications: a review. Appl. Surf. Sci. Adv. 11, 100298 (2022)Article Google Scholar
+
+- Ani, P.C., Nzereogu, P.U., Agbogu, A.C., Ezema, F.I., Nwanya, A.C.: Cellulose from waste materials for electrochemical energy storage applications: a review. Appl. Surf. Sci. Adv. 11, 100298 (2022)
+
+- Article Google Scholar
+
+- Haynes, M.W., González, R.C., Hatzell, M.C.: Optimizing geographic locations for electric vehicle battery recycling preprocessing facilities in California. RSC Sustain. 2, 377–389 (2024)Article Google Scholar
+
+- Haynes, M.W., González, R.C., Hatzell, M.C.: Optimizing geographic locations for electric vehicle battery recycling preprocessing facilities in California. RSC Sustain. 2, 377–389 (2024)
+
+- Article Google Scholar
+
+- Elio, J., Phelan, P., Villalobos, R., Milcarek, R.J.: A review of energy storage technologies for demand-side management in industrial facilities. J. Clean. Prod. 307, 127322 (2021)Article Google Scholar
+
+- Elio, J., Phelan, P., Villalobos, R., Milcarek, R.J.: A review of energy storage technologies for demand-side management in industrial facilities. J. Clean. Prod. 307, 127322 (2021)
+
+- Article Google Scholar
+
+- R., Santato, C.: In situ studies at metal oxide/ionic medium interfaces for electronics and electrochemical energy storage.
+- In: Reference Module in Chemistry, Molecular Sciences and Chemical Engineering.
+- Elsevier, (2023). https://doi.org/10.1016/B978-0-323-85669-0.00060-X
+
+- R., Santato, C.: In situ studies at metal oxide/ionic medium interfaces for electronics and electrochemical energy storage.
+- In: Reference Module in Chemistry, Molecular Sciences and Chemical Engineering.
+- Elsevier, (2023). https://doi.org/10.1016/B978-0-323-85669-0.00060-X
+
+- Mubarak, S., Dhamodharan, D., Byun, H.-S.: Recent advances in 3D printed electrode materials for electrochemical energy storage devices. J. Energy Chem. 81, 272–312 (2023)Article Google Scholar
+
+- Mubarak, S., Dhamodharan, D., Byun, H.-S.: Recent advances in 3D printed electrode materials for electrochemical energy storage devices. J. Energy Chem. 81, 272–312 (2023)
+
+- Article Google Scholar
+
+- Liu, Y., Ma, C., Wang, K., Chen, J.: Recent advances in porous carbons for electrochemical energy storage. New Carbon Mater. 38, 1–15 (2023)Article Google Scholar
+
+- Liu, Y., Ma, C., Wang, K., Chen, J.: Recent advances in porous carbons for electrochemical energy storage. New Carbon Mater. 38, 1–15 (2023)
+
+- Article Google Scholar
+
+- McMahon, R., Infante, L.: Energy storage in the United States. In: Lawrence E. J. (ed) Renewable Energy Integration: Practical Management of Variability, Uncertainty, and Flexibility in Power Grids: Second Edition (2017). https://doi.org/10.1016/B978-0-12-809592-8.00021-4
+
+- McMahon, R., Infante, L.: Energy storage in the United States. In: Lawrence E. J. (ed) Renewable Energy Integration: Practical Management of Variability, Uncertainty, and Flexibility in Power Grids: Second Edition (2017). https://doi.org/10.1016/B978-0-12-809592-8.00021-4
+
+- Wang, B., Wang, Z., Dou, B., Ma, Y., Liang, Y.: The investigation of SrCoO3-δ perovskite doping cobalt oxide thermochemical energy storage system. J. Taiwan Inst. Chem. Eng. 136, 104406 (2022)Article Google Scholar
+
+- Wang, B., Wang, Z., Dou, B., Ma, Y., Liang, Y.: The investigation of SrCoO3-δ perovskite doping cobalt oxide thermochemical energy storage system. J. Taiwan Inst. Chem. Eng. 136, 104406 (2022)
+
+- Article Google Scholar
+
+- Portilla-Nieto, Y., et al.: Development and stabilization of Co2.4Ni0.6O4 material for long-term thermochemical energy storage. J. Energy Storage 52, 104876 (2022)Article Google Scholar
+
+- Portilla-Nieto, Y., et al.: Development and stabilization of Co2.4Ni0.6O4 material for long-term thermochemical energy storage. J. Energy Storage 52, 104876 (2022)
+
+- Article Google Scholar
+
+- Seitz, G.: Modeling Fixed-Bed Reactors for Thermochemical Heat Storage with the Reaction System CaO/Ca (OH)2 (2021)
+
+- Seitz, G.: Modeling Fixed-Bed Reactors for Thermochemical Heat Storage with the Reaction System CaO/Ca (OH)2 (2021)
+
+- Tong, W., et al.: Solid gravity energy storage technology: classification and comparison. Energy Rep. 8, 926–934 (2022)Article Google Scholar
+
+- Tong, W., et al.: Solid gravity energy storage technology: classification and comparison. Energy Rep. 8, 926–934 (2022)
+
+- Article Google Scholar
+
+- Development of energy storage technology: Grid-scale Energy Storage Systems and Applications, pp. 1–15 (2019). https://doi.org/10.1016/b978-0-12-815292-8.00001-0.
+
+- Development of energy storage technology: Grid-scale Energy Storage Systems and Applications, pp. 1–15 (2019). https://doi.org/10.1016/b978-0-12-815292-8.00001-0.
+
+- Aktaş, A. & Kirçiçek, Y. Chapter 6—Solar thermal systems and thermal storage. In: Aktaş, A., Kirçiçek, Y (eds) Solar Hybrid Systems. (Academic Press, pp. 127–137(2021). https://doi.org/10.1016/B978-0-323-88499-0.00006-9
+
+- Aktaş, A. & Kirçiçek, Y. Chapter 6—Solar thermal systems and thermal storage. In: Aktaş, A., Kirçiçek, Y (eds) Solar Hybrid Systems. (Academic Press, pp. 127–137(2021). https://doi.org/10.1016/B978-0-323-88499-0.00006-9
+
+- Technologies of Energy Storage Systems. Grid-scale energy storage systems and applications (2019).https://doi.org/10.1016/b978-0-12-815292-8.00002-2
+
+- Technologies of Energy Storage Systems. Grid-scale energy storage systems and applications (2019).https://doi.org/10.1016/b978-0-12-815292-8.00002-2
+
+- Panchabikesan, K., Mastani Joybari, M., Haghighat, F., Eicker, U., Ramalingam, V.: Analogy between thermal, mechanical, and electrical energy storage systems.
+- F. (ed) Encyclopedia of Energy Storage.
+- Elsevier, Oxford, pp. 315–328 (2022). https://doi.org/10.1016/B978-0-12-819723-3.00143-8
+
+- Panchabikesan, K., Mastani Joybari, M., Haghighat, F., Eicker, U., Ramalingam, V.: Analogy between thermal, mechanical, and electrical energy storage systems.
+- F. (ed) Encyclopedia of Energy Storage.
+- Elsevier, Oxford, pp. 315–328 (2022). https://doi.org/10.1016/B978-0-12-819723-3.00143-8
+
+- Srivyas, P.D., Charoo, M.S.: Tribological behaviour of nano additive based PAO lubricant for eutectic Al-Si alloy-chromium plated chrome steel tribopair. Mater. Today Proc. 44, 1–6 (2021)Article Google Scholar
+
+- Srivyas, P.D., Charoo, M.S.: Tribological behaviour of nano additive based PAO lubricant for eutectic Al-Si alloy-chromium plated chrome steel tribopair. Mater. Today Proc. 44, 1–6 (2021)
+
+- Article Google Scholar
+
+- Kalaiselvam, S., Parameshwaran, R.: Thermal energy storage systems design. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.00010-4Article Google Scholar
+
+- Kalaiselvam, S., Parameshwaran, R.: Thermal energy storage systems design. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.00010-4
+
+- Article Google Scholar
+
+- Kalaiselvam, S., Parameshwaran, R.: Thermal Energy Storage Technologies. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.00003-7Article Google Scholar
+
+- Kalaiselvam, S., Parameshwaran, R.: Thermal Energy Storage Technologies. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.00003-7
+
+- Article Google Scholar
+
+- Florida, L.: Summary of Thermal Energy Storage Systems Installation. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.09991-6Article Google Scholar
+
+- Florida, L.: Summary of Thermal Energy Storage Systems Installation. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.09991-6
+
+- Article Google Scholar
+
+- Water, M., et al.: Thermal Properties of Various Heat Storage Materials. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.09998-9Article Google Scholar
+
+- Water, M., et al.: Thermal Properties of Various Heat Storage Materials. Thermal Energy Storage Technol. Sustain. (2014). https://doi.org/10.1016/b978-0-12-417291-3.09998-9
+
+- Article Google Scholar
+
+- Acknowledgments: Thermal Energy Storage Technologies for Sustainability, pp. xi (2014). https://doi.org/10.1016/b978-0-12-417291-3.09981-3
+
+- Acknowledgments: Thermal Energy Storage Technologies for Sustainability, pp. xi (2014). https://doi.org/10.1016/b978-0-12-417291-3.09981-3
+
+- Engineers, A. C.: Abbreviations. In: Thermal Energy Storage Technologies for Sustainability, pp. 405–408 (2014). https://doi.org/10.1016/b978-0-12-417291-3.09994-1.
+
+- Engineers, A. C.: Abbreviations. In: Thermal Energy Storage Technologies for Sustainability, pp. 405–408 (2014). https://doi.org/10.1016/b978-0-12-417291-3.09994-1.
+
+- Preface: Thermal energy storage technologies for sustainability, pp. xiii–xiv (2014). https://doi.org/10.1016/b978-0-12-417291-3.09980-1
+
+- Preface: Thermal energy storage technologies for sustainability, pp. xiii–xiv (2014). https://doi.org/10.1016/b978-0-12-417291-3.09980-1
+
+- List of Specific Websites: Thermal energy storage technologies for sustainability 413 (2014). https://doi.org/10.1016/b978-0-12-417291-3.09990-4
+
+- List of Specific Websites: Thermal energy storage technologies for sustainability 413 (2014). https://doi.org/10.1016/b978-0-12-417291-3.09990-4
+
+- Carter, M.: Page numbers followed by. Rapid Prototyp. Biomater., 75–77 (1964). https://doi.org/10.1016/B978-0-12-417291-3.09984-9
+
+- Carter, M.: Page numbers followed by. Rapid Prototyp. Biomater., 75–77 (1964). https://doi.org/10.1016/B978-0-12-417291-3.09984-9
+
+- Phenomenon, A. et al.: Glossary. In: Thermal Energy Storage Technologies for Sustainability, pp. 409–411 (2014). https://doi.org/10.1016/b978-0-12-417291-3.09989-8
+
+- Phenomenon, A. et al.: Glossary. In: Thermal Energy Storage Technologies for Sustainability, pp. 409–411 (2014). https://doi.org/10.1016/b978-0-12-417291-3.09989-8
+
+- Kalaiselvam, S.: Front matter. In: Thermal Energy Storage Technologies for Sustainability. Elsevier Inc. (2014). https://doi.org/10.1016/b978-0-12-417291-3.09983-7
+
+- Kalaiselvam, S.: Front matter. In: Thermal Energy Storage Technologies for Sustainability. Elsevier Inc. (2014). https://doi.org/10.1016/b978-0-12-417291-3.09983-7
+
+- Kumar, N., Gupta, S.K., Sharma, V.K.: Application of phase change material for thermal energy storage: an overview of recent advances. Mater. Today Proc. 44, 368–375 (2021)Article Google Scholar
+
+- Kumar, N., Gupta, S.K., Sharma, V.K.: Application of phase change material for thermal energy storage: an overview of recent advances. Mater. Today Proc. 44, 368–375 (2021)
+
+- Article Google Scholar
+
+- T.: Chapter 3—Characteristic features of pumped hydro energy storage systems.
+- O (eds) Pumped Hydro Energy Storage for Hybrid Systems.
+- Academic Press, pp. 43–59 (2023). https://doi.org/10.1016/B978-0-12-818853-8.00006-6
+
+- T.: Chapter 3—Characteristic features of pumped hydro energy storage systems.
+- O (eds) Pumped Hydro Energy Storage for Hybrid Systems.
+- Academic Press, pp. 43–59 (2023). https://doi.org/10.1016/B978-0-12-818853-8.00006-6
+
+- Diawuo, F. A., Amanor, R. T.: Chapter 2—Need for pumped hydro energy storage systems. In: Kabo-Bah, A. T., Diawuo, F. A. & Antwi, E. O. (eds) Pumped Hydro Energy Storage for Hybrid Systems, Academic Press, pp. 23–41 (2023). https://doi.org/10.1016/B978-0-12-818853-8.00001-7
+
+- Diawuo, F. A., Amanor, R. T.: Chapter 2—Need for pumped hydro energy storage systems. In: Kabo-Bah, A. T., Diawuo, F. A. & Antwi, E. O. (eds) Pumped Hydro Energy Storage for Hybrid Systems, Academic Press, pp. 23–41 (2023). https://doi.org/10.1016/B978-0-12-818853-8.00001-7
+
+- Hendrick, P. Introduction to hydro energy storage. In: Encyclopedia of Energy Storage. In: Cabeza, L. F. (ed) Elsevier, Oxford, pp. 100–103 (2022). https://doi.org/10.1016/B978-0-12-819723-3.00158-X
+
+- Hendrick, P. Introduction to hydro energy storage. In: Encyclopedia of Energy Storage. In: Cabeza, L. F. (ed) Elsevier, Oxford, pp. 100–103 (2022). https://doi.org/10.1016/B978-0-12-819723-3.00158-X
+
+- Poulain, A., de Dreuzy, J.-R., Goderniaux, P.: Pump hydro energy storage systems (PHES) in groundwater flooded quarries. J. Hydrol. 559, 1002–1012 (2018)Article Google Scholar
+
+- Poulain, A., de Dreuzy, J.-R., Goderniaux, P.: Pump hydro energy storage systems (PHES) in groundwater flooded quarries. J. Hydrol. 559, 1002–1012 (2018)
+
+- Article Google Scholar
+
+- Ali, S., Stewart, R.A., Sahin, O., Vieira, A.S.: Integrated GIS-AHP-based approach for off-river pumped hydro energy storage site selection. Appl. Energy 337, 120914 (2023)Article Google Scholar
+
+- Ali, S., Stewart, R.A., Sahin, O., Vieira, A.S.: Integrated GIS-AHP-based approach for off-river pumped hydro energy storage site selection. Appl. Energy 337, 120914 (2023)
+
+- Article Google Scholar
+
+- Rogeau, A., Girard, R., Kariniotakis, G.: A generic GIS-based method for small pumped hydro energy storage (PHES) potential evaluation at large scale. Appl. Energy 197, 241–253 (2017)Article Google Scholar
+
+- Rogeau, A., Girard, R., Kariniotakis, G.: A generic GIS-based method for small pumped hydro energy storage (PHES) potential evaluation at large scale. Appl. Energy 197, 241–253 (2017)
+
+- Article Google Scholar
+
+- Parrilla, Á. P., González-González, J. M., Aguado, J. A.: Mechanical energy storage technologies. In: García, J. (ed) Encyclopedia of Electrical and Electronic Power Engineering. Elsevier, Oxford, pp. 440–455 (2023). https://doi.org/10.1016/B978-0-12-821204-2.00101-X
+
+- Parrilla, Á. P., González-González, J. M., Aguado, J. A.: Mechanical energy storage technologies. In: García, J. (ed) Encyclopedia of Electrical and Electronic Power Engineering. Elsevier, Oxford, pp. 440–455 (2023). https://doi.org/10.1016/B978-0-12-821204-2.00101-X
+
+- Vecchi, A., Sciacovelli, A.: Long-duration thermo-mechanical energy storage—present and future techno-economic competitiveness. Appl. Energy 334, 120628 (2023)Article Google Scholar
+
+- Vecchi, A., Sciacovelli, A.: Long-duration thermo-mechanical energy storage—present and future techno-economic competitiveness. Appl. Energy 334, 120628 (2023)
+
+- Article Google Scholar
+
+- Tang, W., et al.: Fine powders from dyed waste wool as odor adsorbent and coloration pigment. Powder Technol. 400, 117261 (2022)Article Google Scholar
+
+- Tang, W., et al.: Fine powders from dyed waste wool as odor adsorbent and coloration pigment. Powder Technol. 400, 117261 (2022)
+
+- Article Google Scholar
+
+- Yu, C., et al.: Hydrogen and chemical energy storage in gas hydrate at mild conditions. Int. J. Hydrogen Energy 45, 14915–14921 (2020)Article Google Scholar
+
+- Yu, C., et al.: Hydrogen and chemical energy storage in gas hydrate at mild conditions. Int. J. Hydrogen Energy 45, 14915–14921 (2020)
+
+- Article Google Scholar
+
+- MacCarley, C.A., Van Vorst, W.D.: Electronic fuel injection techniques for hydrogen powered i.c. engines. Int. J. Hydrogen Energy 5, 179–203 (1980)Article Google Scholar
+
+- MacCarley, C.A., Van Vorst, W.D.: Electronic fuel injection techniques for hydrogen powered i.c. engines. Int. J. Hydrogen Energy 5, 179–203 (1980)
+
+- Article Google Scholar
+
+- Rezasoltani, A., Khonsari, M.M.: Experimental investigation of the chemical degradation of lubricating grease from an energy point of view. Tribol. Int. 137, 289–302 (2019)Article Google Scholar
+
+- Rezasoltani, A., Khonsari, M.M.: Experimental investigation of the chemical degradation of lubricating grease from an energy point of view. Tribol. Int. 137, 289–302 (2019)
+
+- Article Google Scholar
+
+- Abu Khalla, S., Suss, M.E.: Desalination via chemical energy: an electrodialysis cell driven by spontaneous electrode reactions. Desalination 467, 257–262 (2019)Article Google Scholar
+
+- Abu Khalla, S., Suss, M.E.: Desalination via chemical energy: an electrodialysis cell driven by spontaneous electrode reactions. Desalination 467, 257–262 (2019)
+
+- Article Google Scholar
+
+- Rahman, M.M., Gemechu, E., Oni, A.O., Kumar, A.: The greenhouse gas emissions’ footprint and net energy ratio of utility-scale electro-chemical energy storage systems. Energy Convers. Manag. 244, 114497 (2021)Article Google Scholar
+
+- Rahman, M.M., Gemechu, E., Oni, A.O., Kumar, A.: The greenhouse gas emissions’ footprint and net energy ratio of utility-scale electro-chemical energy storage systems. Energy Convers. Manag. 244, 114497 (2021)
+
+- Article Google Scholar
+
+- Humbert, G., Ding, Y., Sciacovelli, A.: Combined enhancement of thermal and chemical performance of closed thermochemical energy storage system by optimized tree-like heat exchanger structures. Appl. Energy 311, 118633 (2022)Article Google Scholar
+
+- Humbert, G., Ding, Y., Sciacovelli, A.: Combined enhancement of thermal and chemical performance of closed thermochemical energy storage system by optimized tree-like heat exchanger structures. Appl. Energy 311, 118633 (2022)
+
+- Article Google Scholar
+
+- Lu, X., et al.: Comprehensive stability analysis of complex hydropower system under flexible operating conditions based on a fast stability domain solving method. Energy 274, 127368 (2023)Article Google Scholar
+
+- Lu, X., et al.: Comprehensive stability analysis of complex hydropower system under flexible operating conditions based on a fast stability domain solving method. Energy 274, 127368 (2023)
+
+- Article Google Scholar
+
+- Andrus, S.R., Diffely, R.J., Alford, T.L.: Theoretical analysis of green hydrogen from hydropower: a case study of the Northwest Columbia River system. Int. J. Hydrogen Energy 48, 7993–8001 (2023)Article Google Scholar
+
+- Andrus, S.R., Diffely, R.J., Alford, T.L.: Theoretical analysis of green hydrogen from hydropower: a case study of the Northwest Columbia River system. Int. J. Hydrogen Energy 48, 7993–8001 (2023)
+
+- Article Google Scholar
+
+- Bhatti, B.A., et al.: Using energy storage systems to extend the life of hydropower plants. Appl. Energy 337, 120894 (2023)Article Google Scholar
+
+- Bhatti, B.A., et al.: Using energy storage systems to extend the life of hydropower plants. Appl. Energy 337, 120894 (2023)
+
+- Article Google Scholar
+
+- Zhou, Y., Zhao, J., Zhai, Q.: 100% renewable energy: a multi-stage robust scheduling approach for cascade hydropower system with wind and photovoltaic power. Appl. Energy 301, 117441 (2021)Article Google Scholar
+
+- Zhou, Y., Zhao, J., Zhai, Q.: 100% renewable energy: a multi-stage robust scheduling approach for cascade hydropower system with wind and photovoltaic power. Appl. Energy 301, 117441 (2021)
+
+- Article Google Scholar
+
+- Zhang, Y., et al.: Capacity configuration and economic evaluation of a power system integrating hydropower, solar, and wind. Energy 259, 125012 (2022)Article Google Scholar
+
+- Zhang, Y., et al.: Capacity configuration and economic evaluation of a power system integrating hydropower, solar, and wind. Energy 259, 125012 (2022)
+
+- Article Google Scholar
+
+- Areri, D.C., Bibi, T.S.: Identification of small-scale hydropower potential sites using geographic information system and hydrologic modeling technique: Awata river, Genale Dawa basin, Ethiopia. Energy Rep. 9, 2405–2419 (2023)Article Google Scholar
+
+- Areri, D.C., Bibi, T.S.: Identification of small-scale hydropower potential sites using geographic information system and hydrologic modeling technique: Awata river, Genale Dawa basin, Ethiopia. Energy Rep. 9, 2405–2419 (2023)
+
+- Article Google Scholar
+
+- Wang, L., Guo, W.: Nonlinear hydraulic coupling characteristics and energy conversion mechanism of pipeline—surge tank system of hydropower station with super long headrace tunnel. Renew. Energy 199, 1345–1360 (2022)Article Google Scholar
+
+- Wang, L., Guo, W.: Nonlinear hydraulic coupling characteristics and energy conversion mechanism of pipeline—surge tank system of hydropower station with super long headrace tunnel. Renew. Energy 199, 1345–1360 (2022)
+
+- Article Google Scholar
+
+- Huang, J., Li, W., Wu, X., Gu, Z.: A bi-level capacity planning approach of combined hydropower hydrogen system. J. Clean. Prod. 327, 129414 (2021)Article Google Scholar
+
+- Huang, J., Li, W., Wu, X., Gu, Z.: A bi-level capacity planning approach of combined hydropower hydrogen system. J. Clean. Prod. 327, 129414 (2021)
+
+- Article Google Scholar
+
+- Kumar, K., Saini, R.P.: Data-driven internet of things and cloud computing enabled hydropower plant monitoring system. Sustain. Comput. Inform. Syst. 36, 100823 (2022)MathSciNet Google Scholar
+
+- Kumar, K., Saini, R.P.: Data-driven internet of things and cloud computing enabled hydropower plant monitoring system. Sustain. Comput. Inform. Syst. 36, 100823 (2022)
+
+- MathSciNet Google Scholar
+
+- Blom, E., Söder, L.: Accurate model reduction of large hydropower systems with associated adaptive inflow. Renew. Energy 200, 1059–1067 (2022)Article Google Scholar
+
+- Blom, E., Söder, L.: Accurate model reduction of large hydropower systems with associated adaptive inflow. Renew. Energy 200, 1059–1067 (2022)
+
+- Article Google Scholar
+
+- Babu, K.S., Kumar, E.A.: Compressor operated sorption system for high temperature thermochemical energy storage using Mg based hydrides. Int. J. Hydrogen Energygy (2022). https://doi.org/10.1016/j.ijhydene.2022.09.262Article Google Scholar
+
+- Babu, K.S., Kumar, E.A.: Compressor operated sorption system for high temperature thermochemical energy storage using Mg based hydrides. Int. J. Hydrogen Energygy (2022). https://doi.org/10.1016/j.ijhydene.2022.09.262
+
+- Article Google Scholar
+
+- Humbert, G., Sciacovelli, A.: Topology optimization for mass transfer enhancement in open thermochemical energy storage reactors. J. Energy Storage 64, 107132 (2023)Article Google Scholar
+
+- Humbert, G., Sciacovelli, A.: Topology optimization for mass transfer enhancement in open thermochemical energy storage reactors. J. Energy Storage 64, 107132 (2023)
+
+- Article Google Scholar
+
+- Sarath Babu, K., Anil Kumar, E.: A novel cascade resorption system for high temperature thermochemical energy storage and large temperature lift energy upgradation. Int. J. Hydrogen Energygy (2022). https://doi.org/10.1016/j.ijhydene.2022.11.345Article Google Scholar
+
+- Sarath Babu, K., Anil Kumar, E.: A novel cascade resorption system for high temperature thermochemical energy storage and large temperature lift energy upgradation. Int. J. Hydrogen Energygy (2022). https://doi.org/10.1016/j.ijhydene.2022.11.345
+
+- Article Google Scholar
+
+- Hu, Y., Chen, Y., Fu, R., Yan, S., Li, H.: Steam reactivation of spent CaO/CaCO3 for thermochemical energy storage. Sol. Energy 255, 138–145 (2023)Article Google Scholar
+
+- Hu, Y., Chen, Y., Fu, R., Yan, S., Li, H.: Steam reactivation of spent CaO/CaCO3 for thermochemical energy storage. Sol. Energy 255, 138–145 (2023)
+
+- Article Google Scholar
+
+- Talebi, E., Morgenstern, L., Würth, M., Kerscher, F., Spliethoff, H.: Effect of particle size distribution on heat transfer in bubbling fluidized beds applied in thermochemical energy storage. Fuel 344, 128060 (2023)Article Google Scholar
+
+- Talebi, E., Morgenstern, L., Würth, M., Kerscher, F., Spliethoff, H.: Effect of particle size distribution on heat transfer in bubbling fluidized beds applied in thermochemical energy storage. Fuel 344, 128060 (2023)
+
+- Article Google Scholar
+
+- Yuan, P., Xu, H., Ning, Z., Xiao, G.: Understanding thermochemical energy storage performance of Ba1-xSrxCoO3-δ perovskite system: a computational and experimental study. J. Energy Storage 61, 106695 (2023)Article Google Scholar
+
+- Yuan, P., Xu, H., Ning, Z., Xiao, G.: Understanding thermochemical energy storage performance of Ba1-xSrxCoO3-δ perovskite system: a computational and experimental study. J. Energy Storage 61, 106695 (2023)
+
+- Article Google Scholar
+
+- Zheng, H., Liu, X., Xuan, Y., Ding, Y., Flamant, G.: Efficient direct solar-driven thermochemical energy storage of (AlMgFeMn)OxCaCO3 pellets in a fluidized bed reactor. Energy Convers. Manage. 285, 116990 (2023)Article Google Scholar
+
+- Zheng, H., Liu, X., Xuan, Y., Ding, Y., Flamant, G.: Efficient direct solar-driven thermochemical energy storage of (AlMgFeMn)OxCaCO3 pellets in a fluidized bed reactor. Energy Convers. Manage. 285, 116990 (2023)
+
+- Article Google Scholar
+
+- Lai, C.S., Locatelli, G., Pimm, A., Wu, X., Lai, L.L.: A review on long-term electrical power system modeling with energy storage. J. Clean. Prod. 280, 124298 (2021)Article Google Scholar
+
+- Lai, C.S., Locatelli, G., Pimm, A., Wu, X., Lai, L.L.: A review on long-term electrical power system modeling with energy storage. J. Clean. Prod. 280, 124298 (2021)
+
+- Article Google Scholar
+
+- Alvira, D., Antorán, D., Manyà, J.J.: Assembly and electrochemical testing of renewable carbon-based anodes in SIBs: a practical guide. J. Energy Chem. 75, 457–477 (2022)Article Google Scholar
+
+- Alvira, D., Antorán, D., Manyà, J.J.: Assembly and electrochemical testing of renewable carbon-based anodes in SIBs: a practical guide. J. Energy Chem. 75, 457–477 (2022)
+
+- Article Google Scholar
+
+- Bridgwater, A.V., et al.: The nature and control of solid, liquid and gaseous emissions from the thermochemical processing of biomass. Biomass Bioenergy 9, 325–341 (1995)Article Google Scholar
+
+- Bridgwater, A.V., et al.: The nature and control of solid, liquid and gaseous emissions from the thermochemical processing of biomass. Biomass Bioenergy 9, 325–341 (1995)
+
+- Article Google Scholar
+
+- Oppenheim, A.K., Maxson, J.A.: A thermochemical phase space for combustion in engines. Symp. (Int.) Combust. 25, 157–165 (1994)Article Google Scholar
+
+- Oppenheim, A.K., Maxson, J.A.: A thermochemical phase space for combustion in engines. Symp. (Int.) Combust. 25, 157–165 (1994)
+
+- Article Google Scholar
+
+- Al-Rashed, A.A.A.A., Alsarraf, J., Alnaqi, A.A.: A comparative investigation of syngas and biofuel power and hydrogen plant combining nanomaterial-supported solid oxide fuel cell with vanadium-chlorine thermochemical cycle. Fuel 331, 125910 (2023)Article Google Scholar
+
+- Al-Rashed, A.A.A.A., Alsarraf, J., Alnaqi, A.A.: A comparative investigation of syngas and biofuel power and hydrogen plant combining nanomaterial-supported solid oxide fuel cell with vanadium-chlorine thermochemical cycle. Fuel 331, 125910 (2023)
+
+- Article Google Scholar
+
+- Niknam, P.H., Sciacovelli, A.: Hybrid PCM-steam thermal energy storage for industrial processes—link between thermal phenomena and techno-economic performance through dynamic modelling. Appl. Energy 331, 120358 (2023)Article Google Scholar
+
+- Niknam, P.H., Sciacovelli, A.: Hybrid PCM-steam thermal energy storage for industrial processes—link between thermal phenomena and techno-economic performance through dynamic modelling. Appl. Energy 331, 120358 (2023)
+
+- Article Google Scholar
+
+- Xiao, W., et al.: Free energy regulation and domain engineering of BaTiO3-NaNbO3 ceramics for superior dielectric energy storage performance. Chem. Eng. J. 461, 142070 (2023)Article Google Scholar
+
+- Xiao, W., et al.: Free energy regulation and domain engineering of BaTiO3-NaNbO3 ceramics for superior dielectric energy storage performance. Chem. Eng. J. 461, 142070 (2023)
+
+- Article Google Scholar
+
+- Li, Y., et al.: System value and utilization performance analysis of grid-integrated energy storage technologies in Japan. J. Energy Storage 63, 107051 (2023)Article Google Scholar
+
+- Li, Y., et al.: System value and utilization performance analysis of grid-integrated energy storage technologies in Japan. J. Energy Storage 63, 107051 (2023)
+
+- Article Google Scholar
+
+- Calvo, L.F., Grasa, G., Alonso, M., Diego, M.E.: Investigation on the performance of fine iron ore particles for energy storage applications in a novel CLC reactor. Fuel Process. Technol. 245, 107755 (2023)Article Google Scholar
+
+- Calvo, L.F., Grasa, G., Alonso, M., Diego, M.E.: Investigation on the performance of fine iron ore particles for energy storage applications in a novel CLC reactor. Fuel Process. Technol. 245, 107755 (2023)
+
+- Article Google Scholar
+
+- Qiu, L., He, L., Lu, H., Liang, D.: Spatial-temporal evolution of pumped hydro energy storage potential on the Qinghai-Tibet Plateau and its future trend under global warming. Sci. Total. Environ. 857, 159332 (2023)Article Google Scholar
+
+- Qiu, L., He, L., Lu, H., Liang, D.: Spatial-temporal evolution of pumped hydro energy storage potential on the Qinghai-Tibet Plateau and its future trend under global warming. Sci. Total. Environ. 857, 159332 (2023)
+
+- Article Google Scholar
+
+- Wang, H., et al.: Advances and perspectives of ZIFs-based materials for electrochemical energy storage: design of synthesis and crystal structure, evolution of mechanisms and electrochemical performance. Energy Storage Mater. 43, 531–578 (2021)Article Google Scholar
+
+- Wang, H., et al.: Advances and perspectives of ZIFs-based materials for electrochemical energy storage: design of synthesis and crystal structure, evolution of mechanisms and electrochemical performance. Energy Storage Mater. 43, 531–578 (2021)
+
+- Article Google Scholar
+
+- Degirmenci, T., Yavuz, H.: Environmental taxes, R&D expenditures and renewable energy consumption in EU countries: are fiscal instruments effective in the expansion of clean energy? Energy 299, 131466 (2024)Article Google Scholar
+
+- Degirmenci, T., Yavuz, H.: Environmental taxes, R&D expenditures and renewable energy consumption in EU countries: are fiscal instruments effective in the expansion of clean energy? Energy 299, 131466 (2024)
+
+- Article Google Scholar
+
+- Ma, T., Yu, S.: Strategizing CO2 emission commitments in mainland China by integrating the experiences of primary energy consumption structures from the European assemblage and the USA in 1971–2021. Energy 306, 132496 (2024)Article Google Scholar
+
+- Ma, T., Yu, S.: Strategizing CO2 emission commitments in mainland China by integrating the experiences of primary energy consumption structures from the European assemblage and the USA in 1971–2021. Energy 306, 132496 (2024)
+
+- Article Google Scholar
+
+- Perera, N., et al.: The interconnectedness of energy consumption with economic growth: a granger causality analysis. Heliyon 10, e36709 (2024)Article Google Scholar
+
+- Perera, N., et al.: The interconnectedness of energy consumption with economic growth: a granger causality analysis. Heliyon 10, e36709 (2024)
+
+- Article Google Scholar
+
+- Adeyemo, A.A., Alves, E., Marra, F., Brandao, D., Tedeschi, E.: Suitability assessment of high-power energy storage technologies for offshore oil and gas platforms: a life cycle cost perspective. J. Energy Storage 61, 106643 (2023)Article Google Scholar
+
+- Adeyemo, A.A., Alves, E., Marra, F., Brandao, D., Tedeschi, E.: Suitability assessment of high-power energy storage technologies for offshore oil and gas platforms: a life cycle cost perspective. J. Energy Storage 61, 106643 (2023)
+
+- Article Google Scholar
+
+- Jiao, Y., Månsson, D.: Greenhouse gas emissions from hybrid energy storage systems in future 100% renewable power systems – a Swedish case based on consequential life cycle assessment. J. Energy Storage 57, 106167 (2023)Article Google Scholar
+
+- Jiao, Y., Månsson, D.: Greenhouse gas emissions from hybrid energy storage systems in future 100% renewable power systems – a Swedish case based on consequential life cycle assessment. J. Energy Storage 57, 106167 (2023)
+
+- Article Google Scholar
+
+- Tang, H., Wang, S.: Life-cycle economic analysis of thermal energy storage, new and second-life batteries in buildings for providing multiple flexibility services in electricity markets. Energy 264, 126270 (2023)Article Google Scholar
+
+- Tang, H., Wang, S.: Life-cycle economic analysis of thermal energy storage, new and second-life batteries in buildings for providing multiple flexibility services in electricity markets. Energy 264, 126270 (2023)
+
+- Article Google Scholar
+
+- López, A.I., Ramírez-Díaz, A., Castilla-Rodríguez, I., Gurriarán, J., Mendez-Perez, J.A.: Wind farm energy surplus storage solution with second-life vehicle batteries in isolated grids. Energy Policy 173, 113373 (2023)Article Google Scholar
+
+- López, A.I., Ramírez-Díaz, A., Castilla-Rodríguez, I., Gurriarán, J., Mendez-Perez, J.A.: Wind farm energy surplus storage solution with second-life vehicle batteries in isolated grids. Energy Policy 173, 113373 (2023)
+
+- Article Google Scholar
+
+- Li, T., Ding, Y., Shi, J., Guo, Z. & Lu, H.: 13—Principles of the life cycle assessment for emerging energy storage technologies.
+- In: Smirnova, A., Numan-Al-Mobin, A. & Inamuddin (eds) Green Sustainable Process for Chemical and Environmental Engineering and Science.
+- Elsevier, pp. 365–400 (2023). https://doi.org/10.1016/B978-0-323-90635-7.00013-0
+
+- Li, T., Ding, Y., Shi, J., Guo, Z. & Lu, H.: 13—Principles of the life cycle assessment for emerging energy storage technologies.
+- In: Smirnova, A., Numan-Al-Mobin, A. & Inamuddin (eds) Green Sustainable Process for Chemical and Environmental Engineering and Science.
+- Elsevier, pp. 365–400 (2023). https://doi.org/10.1016/B978-0-323-90635-7.00013-0
+
+- Shen, K., et al.: Life-cycle assessment based energy consumption analysis for cold food storage facilities. Procedia CIRP 116, 624–629 (2023)Article Google Scholar
+
+- Shen, K., et al.: Life-cycle assessment based energy consumption analysis for cold food storage facilities. Procedia CIRP 116, 624–629 (2023)
+
+- Article Google Scholar
+
+- Shan, R., Reagan, J., Castellanos, S., Kurtz, S., Kittner, N.: Evaluating emerging long-duration energy storage technologies. Renew. Sustain. Energy Rev. 159, 112240 (2022)Article Google Scholar
+
+- Shan, R., Reagan, J., Castellanos, S., Kurtz, S., Kittner, N.: Evaluating emerging long-duration energy storage technologies. Renew. Sustain. Energy Rev. 159, 112240 (2022)
+
+- Article Google Scholar
+
+- Mugyema, M., Botha, C.D., Kamper, M.J., Wang, R.-J., Sebitosi, A.B.: Levelised cost of storage comparison of energy storage systems for use in primary response application. J. Energy Storage 59, 106573 (2023)Article Google Scholar
+
+- Mugyema, M., Botha, C.D., Kamper, M.J., Wang, R.-J., Sebitosi, A.B.: Levelised cost of storage comparison of energy storage systems for use in primary response application. J. Energy Storage 59, 106573 (2023)
+
+- Article Google Scholar
+
+- Smallbone, A., Jülch, V., Wardle, R. & Paul Roskilly, A.: Erratum to: “Levelised cost of storage for pumped heat energy storage in comparison with other energy storage technologies” [Energy Convers. Manage. 152 (2017) 221–228]. Energy Convers Manag 210, 112668 (2020)
+
+- Smallbone, A., Jülch, V., Wardle, R. & Paul Roskilly, A.: Erratum to: “Levelised cost of storage for pumped heat energy storage in comparison with other energy storage technologies” [Energy Convers. Manage. 152 (2017) 221–228]. Energy Convers Manag 210, 112668 (2020)
+
+- Nikolaidis, P., Poullikkas, A.: Cost metrics of electrical energy storage technologies in potential power system operations. Sustain. Energy Technol. Assess. 25, 43–59 (2018) Google Scholar
+
+- Nikolaidis, P., Poullikkas, A.: Cost metrics of electrical energy storage technologies in potential power system operations. Sustain. Energy Technol. Assess. 25, 43–59 (2018)
+
+- Abou Jarboua, T., Davison, M., Karamanev, D.: Cost analysis of a 1 MW BioGenerator, a bioelectrochemical technology for energy storage. J. Energy Storage 21, 328–336 (2019)Article Google Scholar
+
+- Abou Jarboua, T., Davison, M., Karamanev, D.: Cost analysis of a 1 MW BioGenerator, a bioelectrochemical technology for energy storage. J. Energy Storage 21, 328–336 (2019)
+
+- Article Google Scholar
+
+- Smallbone, A., Jülch, V., Wardle, R., Roskilly, A.P.: Levelised cost of storage for pumped heat energy storage in comparison with other energy storage technologies. Energy Convers. Manage. 152, 221–228 (2017)Article Google Scholar
+
+- Smallbone, A., Jülch, V., Wardle, R., Roskilly, A.P.: Levelised cost of storage for pumped heat energy storage in comparison with other energy storage technologies. Energy Convers. Manage. 152, 221–228 (2017)
+
+- Article Google Scholar
+
+- Zhang, X., et al.: Arbitrage analysis for different energy storage technologies and strategies. Energy Rep. 7, 8198–8206 (2021)Article MathSciNet Google Scholar
+
+- Zhang, X., et al.: Arbitrage analysis for different energy storage technologies and strategies. Energy Rep. 7, 8198–8206 (2021)
+
+- Article MathSciNet Google Scholar
+
+- Rahman, M.M., Gemechu, E., Oni, A.O., Kumar, A.: The development of a techno-economic model for assessment of cost of energy storage for vehicle-to-grid applications in a cold climate. Energy 262, 125398 (2023)Article Google Scholar
+
+- Rahman, M.M., Gemechu, E., Oni, A.O., Kumar, A.: The development of a techno-economic model for assessment of cost of energy storage for vehicle-to-grid applications in a cold climate. Energy 262, 125398 (2023)
+
+- Article Google Scholar
+
+- Li, C., et al.: Thermochemical energy storage performance of papermaking soda residue during CaO-CaCO3 cycles. J. CO2 Util. 62, 102072 (2022)Article Google Scholar
+
+- Li, C., et al.: Thermochemical energy storage performance of papermaking soda residue during CaO-CaCO3 cycles. J. CO2 Util. 62, 102072 (2022)
+
+- Article Google Scholar
+
+- Li, M., Shan, R., Abdulla, A., Tian, J., Gao, S.: High energy capacity or high power rating: which is the more important performance metric for battery energy storage systems at different penetrations of variable renewables? J. Energy Storage 59, 106560 (2023)Article Google Scholar
+
+- Li, M., Shan, R., Abdulla, A., Tian, J., Gao, S.: High energy capacity or high power rating: which is the more important performance metric for battery energy storage systems at different penetrations of variable renewables? J. Energy Storage 59, 106560 (2023)
+
+- Article Google Scholar
+
+- Zhang, Q., Wang, S., Pan, D., Li, J.: Investigation on thermo-economic performance of shipboard waste heat recovery system integrated with cascade latent thermal energy storage. J. Energy Storage 64, 107171 (2023)Article Google Scholar
+
+- Zhang, Q., Wang, S., Pan, D., Li, J.: Investigation on thermo-economic performance of shipboard waste heat recovery system integrated with cascade latent thermal energy storage. J. Energy Storage 64, 107171 (2023)
+
+- Article Google Scholar
+
+- Lucio-Martin, T., et al.: Thermal performance of a hybrid steel-concrete tank section for thermal energy storage in concentrated solar power plants. J. Energy Storage 60, 106630 (2023)Article Google Scholar
+
+- Lucio-Martin, T., et al.: Thermal performance of a hybrid steel-concrete tank section for thermal energy storage in concentrated solar power plants. J. Energy Storage 60, 106630 (2023)
+
+- Article Google Scholar
+
+- Li, J., et al.: Effect of SiO2-doped on microstructural evolution and hydrogen storage performances of AB2 type alloy. J. Alloys Compd. 950, 169893 (2023)Article Google Scholar
+
+- Li, J., et al.: Effect of SiO2-doped on microstructural evolution and hydrogen storage performances of AB2 type alloy. J. Alloys Compd. 950, 169893 (2023)
+
+- Article Google Scholar
+
+- Li, C., Li, Q., Ge, R.: A review of heat transfer performance enhancement and applications of inorganic salt based shape-stabilized composite phase change materials for medium and high temperature thermal energy storage. Energy Rep. 8, 12740–12764 (2022)Article Google Scholar
+
+- Li, C., Li, Q., Ge, R.: A review of heat transfer performance enhancement and applications of inorganic salt based shape-stabilized composite phase change materials for medium and high temperature thermal energy storage. Energy Rep. 8, 12740–12764 (2022)
+
+- Article Google Scholar
+
+- Martinot, E.: World bank energy projects in China: influences on environmental protection. Energy Policy 29, 581–594 (2001)Article Google Scholar
+
+- Martinot, E.: World bank energy projects in China: influences on environmental protection. Energy Policy 29, 581–594 (2001)
+
+- Article Google Scholar
+
+- Kumar, L., Mamun, M. A. A., Hasanuzzaman, M.: Chapter 7—Energy economics. In: Hasanuzzaman, M. D., Rahim, N. A. (eds) Energy for sustainable development. Academic Press, pp. 167–178 (2020). https://doi.org/10.1016/B978-0-12-814645-3.00007-9
+
+- Kumar, L., Mamun, M. A. A., Hasanuzzaman, M.: Chapter 7—Energy economics. In: Hasanuzzaman, M. D., Rahim, N. A. (eds) Energy for sustainable development. Academic Press, pp. 167–178 (2020). https://doi.org/10.1016/B978-0-12-814645-3.00007-9
+
+- Cuce, P.M.: Box type solar cookers with sensible thermal energy storage medium: a comparative experimental investigation and thermodynamic analysis. Sol. Energy 166, 432–440 (2018)Article Google Scholar
+
+- Cuce, P.M.: Box type solar cookers with sensible thermal energy storage medium: a comparative experimental investigation and thermodynamic analysis. Sol. Energy 166, 432–440 (2018)
+
+- Article Google Scholar
+
+- Azhary, K.E., Raefat, S., Laaroussi, N., Garoum, M.: Energy performance and thermal proprieties of three types of unfired clay bricks. Energy Procedia 147, 495–502 (2018)Article Google Scholar
+
+- Azhary, K.E., Raefat, S., Laaroussi, N., Garoum, M.: Energy performance and thermal proprieties of three types of unfired clay bricks. Energy Procedia 147, 495–502 (2018)
+
+- Article Google Scholar
+
+- Işık, S., Yıldız, C.: Improving thermal energy storage efficiency of solar collector tanks by placing phase change materials in novel finned-type cells. Therm. Sci. Eng. Prog. 19, 100618 (2020)Article Google Scholar
+
+- Işık, S., Yıldız, C.: Improving thermal energy storage efficiency of solar collector tanks by placing phase change materials in novel finned-type cells. Therm. Sci. Eng. Prog. 19, 100618 (2020)
+
+- Article Google Scholar
+
+- Li, S., et al.: Energy transfer, optical properties and thermal stability of Ce3+, Tb3+ activated apatite-type Ca8NaGd(PO4)6F2 phosphors. Opt. Mater. 107, 110151 (2020)Article Google Scholar
+
+- Li, S., et al.: Energy transfer, optical properties and thermal stability of Ce3+, Tb3+ activated apatite-type Ca8NaGd(PO4)6F2 phosphors. Opt. Mater. 107, 110151 (2020)
+
+- Article Google Scholar
+
+- Ben Zohra, M., Riad, A., Hassoune, H., Alhamany, A., Mansouri, M.: A new system for the production and storage of thermal energy based on two complementary and different types of phase changing materials. Case Stud. Therm. Eng. 26, 101072 (2021)Article Google Scholar
+
+- Ben Zohra, M., Riad, A., Hassoune, H., Alhamany, A., Mansouri, M.: A new system for the production and storage of thermal energy based on two complementary and different types of phase changing materials. Case Stud. Therm. Eng. 26, 101072 (2021)
+
+- Article Google Scholar
+
+- Sun, X., et al.: Study on the energy charging process of a plate-type latent heat thermal energy storage unit and optimization using Taguchi method. Appl. Therm. Eng. 164, 114528 (2020)Article Google Scholar
+
+- Sun, X., et al.: Study on the energy charging process of a plate-type latent heat thermal energy storage unit and optimization using Taguchi method. Appl. Therm. Eng. 164, 114528 (2020)
+
+- Article Google Scholar
+
+- Xie, N., et al.: Spray-type packed bed concept for thermal energy storage: liquid holdup and energy storage characteristics. Appl. Therm. Eng. 160, 114082 (2019)Article Google Scholar
+
+- Xie, N., et al.: Spray-type packed bed concept for thermal energy storage: liquid holdup and energy storage characteristics. Appl. Therm. Eng. 160, 114082 (2019)
+
+- Article Google Scholar
+
+- Huang, K., et al.: Thermal performance of dual S-channel air-type phase change energy storage device. Appl. Therm. Eng. 171, 115071 (2020)Article Google Scholar
+
+- Huang, K., et al.: Thermal performance of dual S-channel air-type phase change energy storage device. Appl. Therm. Eng. 171, 115071 (2020)
+
+- Article Google Scholar
+
+- Mikos-Nuszkiewicz, N., Furmański, P., Łapka, P.: A mathematical model of charging and discharging processes in a thermochemical energy storage reactor using the hydrated potassium carbonate as a thermochemical material. Energy 263, 125642 (2023)Article Google Scholar
+
+- Mikos-Nuszkiewicz, N., Furmański, P., Łapka, P.: A mathematical model of charging and discharging processes in a thermochemical energy storage reactor using the hydrated potassium carbonate as a thermochemical material. Energy 263, 125642 (2023)
+
+- Article Google Scholar
+
+- Zhao, Q., Lin, J., Huang, H., Xie, Z., Xiao, Y.: Sorption characteristics of K2CO3-based thermochemical material for thermal energy storage. Energy Rep. 8, 129–136 (2022)Article Google Scholar
+
+- Zhao, Q., Lin, J., Huang, H., Xie, Z., Xiao, Y.: Sorption characteristics of K2CO3-based thermochemical material for thermal energy storage. Energy Rep. 8, 129–136 (2022)
+
+- Article Google Scholar
+
+- Yang, L., Huang, G., Huang, Z.: Optimized design of Ca-based thermochemical heat storage materials for concentrated solar power. J. Energy Storage 43, 103236 (2021)Article Google Scholar
+
+- Yang, L., Huang, G., Huang, Z.: Optimized design of Ca-based thermochemical heat storage materials for concentrated solar power. J. Energy Storage 43, 103236 (2021)
+
+- Article Google Scholar
+
+- Yan, T., Zhang, H.: A critical review of salt hydrates as thermochemical sorption heat storage materials: thermophysical properties and reaction kinetics. Sol. Energy 242, 157–183 (2022)Article Google Scholar
+
+- Yan, T., Zhang, H.: A critical review of salt hydrates as thermochemical sorption heat storage materials: thermophysical properties and reaction kinetics. Sol. Energy 242, 157–183 (2022)
+
+- Article Google Scholar
+
+- Shi, T., Xu, H.J., Ke, H.B., Zhao, C.Y.: Thermal transport of charging/discharging for hydrogen storage in a metal hydride reactor coupled with thermochemical heat storage materials. Energy Convers. Manage. 273, 116421 (2022)Article Google Scholar
+
+- Shi, T., Xu, H.J., Ke, H.B., Zhao, C.Y.: Thermal transport of charging/discharging for hydrogen storage in a metal hydride reactor coupled with thermochemical heat storage materials. Energy Convers. Manage. 273, 116421 (2022)
+
+- Article Google Scholar
+
+- Liu, C., et al.: Oriented conversion of spent LiCoO2-lithium battery cathode materials to high-value products via thermochemical reduction with common ammonium oxalate. Resour. Conserv. Recycl. 190, 106782 (2023)Article Google Scholar
+
+- Liu, C., et al.: Oriented conversion of spent LiCoO2-lithium battery cathode materials to high-value products via thermochemical reduction with common ammonium oxalate. Resour. Conserv. Recycl. 190, 106782 (2023)
+
+- Article Google Scholar
+
+- Ur Rehman, A., et al.: Nanoengineering of MgSO4 nanohybrid on MXene substrate for efficient thermochemical heat storage material. Appl. Energy 332, 120549 (2023)Article Google Scholar
+
+- Ur Rehman, A., et al.: Nanoengineering of MgSO4 nanohybrid on MXene substrate for efficient thermochemical heat storage material. Appl. Energy 332, 120549 (2023)
+
+- Article Google Scholar
+
+- Swaraj Kumar, B., Varghese, J., Jacob, J.: Optimal thermochemical material selection for a hybrid thermal energy storage system for low temperature applications using multi criteria optimization technique. Mater. Sci. Energy Technol. 5, 452–472 (2022) Google Scholar
+
+- Swaraj Kumar, B., Varghese, J., Jacob, J.: Optimal thermochemical material selection for a hybrid thermal energy storage system for low temperature applications using multi criteria optimization technique. Mater. Sci. Energy Technol. 5, 452–472 (2022)
+
+- Hawwash, A.A., Hassan, H., feky, K.E.: Impact of reactor design on the thermal energy storage of thermochemical materials. Appl. Therm. Eng. 168, 114776 (2020)Article Google Scholar
+
+- Hawwash, A.A., Hassan, H., feky, K.E.: Impact of reactor design on the thermal energy storage of thermochemical materials. Appl. Therm. Eng. 168, 114776 (2020)
+
+- Article Google Scholar
+
+- Haeussler, A., Julbe, A., Abanades, S.: Investigation of reactive perovskite materials for solar fuel production via two-step redox cycles: thermochemical activity, thermodynamic properties and reduction kinetics. Mater. Chem. Phys. 276, 125358 (2022)Article Google Scholar
+
+- Haeussler, A., Julbe, A., Abanades, S.: Investigation of reactive perovskite materials for solar fuel production via two-step redox cycles: thermochemical activity, thermodynamic properties and reduction kinetics. Mater. Chem. Phys. 276, 125358 (2022)
+
+- Article Google Scholar
+
+- Zhang, Z., Andre, L., Abanades, S.: Experimental assessment of oxygen exchange capacity and thermochemical redox cycle behavior of Ba and Sr series perovskites for solar energy storage. Sol. Energy 134, 494–502 (2016)Article Google Scholar
+
+- Zhang, Z., Andre, L., Abanades, S.: Experimental assessment of oxygen exchange capacity and thermochemical redox cycle behavior of Ba and Sr series perovskites for solar energy storage. Sol. Energy 134, 494–502 (2016)
+
+- Article Google Scholar
+
+- Smith, J., Weinberger, P., Werner, A.: Dehydration performance of a novel solid solution library of mixed tutton salts as thermochemical heat storage materials. J. Energy Storage 78, 110003 (2024)Article Google Scholar
+
+- Smith, J., Weinberger, P., Werner, A.: Dehydration performance of a novel solid solution library of mixed tutton salts as thermochemical heat storage materials. J. Energy Storage 78, 110003 (2024)
+
+- Article Google Scholar
+
+- Ye, Z., et al.: Reaction/sorption kinetics of salt hydrates for thermal energy storage. J. Energy Storage 56, 106122 (2022)Article Google Scholar
+
+- Ye, Z., et al.: Reaction/sorption kinetics of salt hydrates for thermal energy storage. J. Energy Storage 56, 106122 (2022)
+
+- Article Google Scholar
+
+- Bio Gassi, K., Guene Lougou, B., Baysal, M.: Performance analysis of induction heated-porous thermochemical energy storage for heat applications in power systems. Appl. Therm. Eng. 217, 119226 (2022)Article Google Scholar
+
+- Bio Gassi, K., Guene Lougou, B., Baysal, M.: Performance analysis of induction heated-porous thermochemical energy storage for heat applications in power systems. Appl. Therm. Eng. 217, 119226 (2022)
+
+- Article Google Scholar
+
+- Smith, K.L., Zaluzec, N.J.: The displacement energies of cations in perovskite (CaTiO3). J. Nucl. Mater. 336, 261–266 (2005)Article Google Scholar
+
+- Smith, K.L., Zaluzec, N.J.: The displacement energies of cations in perovskite (CaTiO3). J. Nucl. Mater. 336, 261–266 (2005)
+
+- Article Google Scholar
+
+- Gokon, N., Yawata, T., Bellan, S., Kodama, T., Cho, H.-S.: Thermochemical behavior of perovskite oxides based on LaxSr1-x(Mn, Fe, Co)O3-δ and BaySr1-yCoO3-δ redox system for thermochemical energy storage at high temperatures. Energy 171, 971–980 (2019)Article Google Scholar
+
+- Gokon, N., Yawata, T., Bellan, S., Kodama, T., Cho, H.-S.: Thermochemical behavior of perovskite oxides based on LaxSr1-x(Mn, Fe, Co)O3-δ and BaySr1-yCoO3-δ redox system for thermochemical energy storage at high temperatures. Energy 171, 971–980 (2019)
+
+- Article Google Scholar
+
+- Li, S., et al.: Improvement of photovoltaic performance of perovskite solar cells by interface modification with CaTiO3. J. Power. Sources 449, 227504 (2020)Article Google Scholar
+
+- Li, S., et al.: Improvement of photovoltaic performance of perovskite solar cells by interface modification with CaTiO3. J. Power. Sources 449, 227504 (2020)
+
+- Article Google Scholar
+
+- Bayon, A., de la Calle, A., Ghose, K.K., Page, A., McNaughton, R.: Experimental, computational and thermodynamic studies in perovskites metal oxides for thermochemical fuel production: a review. Int. J. Hydrogen Energy 45, 12653–12679 (2020)Article Google Scholar
+
+- Bayon, A., de la Calle, A., Ghose, K.K., Page, A., McNaughton, R.: Experimental, computational and thermodynamic studies in perovskites metal oxides for thermochemical fuel production: a review. Int. J. Hydrogen Energy 45, 12653–12679 (2020)
+
+- Article Google Scholar
+
+- Lee, J.H., et al.: Cost-effective and dynamic carbon dioxide conversion into methane using a CaTiO3@Ni-Pt catalyst in a photo-thermal hybrid system. J. Photochem. Photobiol. A Chem. 364, 219–232 (2018)Article Google Scholar
+
+- Lee, J.H., et al.: Cost-effective and dynamic carbon dioxide conversion into methane using a CaTiO3@Ni-Pt catalyst in a photo-thermal hybrid system. J. Photochem. Photobiol. A Chem. 364, 219–232 (2018)
+
+- Article Google Scholar
+
+- Dong, Y., et al.: Highly improved ionic conduction in reverse spinel structured CoAl2O4 and ZnO heterostructure through interfacial disordering. Ceram. Int. 50, 28113–28122 (2024)Article Google Scholar
+
+- Dong, Y., et al.: Highly improved ionic conduction in reverse spinel structured CoAl2O4 and ZnO heterostructure through interfacial disordering. Ceram. Int. 50, 28113–28122 (2024)
+
+- Article Google Scholar
+
+- Bio Gassi, K., Guene Lougou, B., Baysal, M.: Performance analysis of induction heated-porous thermochemical energy storage for heat applications in power systems. Appl. Therm. Eng. 217, 119226 (2022)Article Google Scholar
+
+- Bio Gassi, K., Guene Lougou, B., Baysal, M.: Performance analysis of induction heated-porous thermochemical energy storage for heat applications in power systems. Appl. Therm. Eng. 217, 119226 (2022)
+
+- Article Google Scholar
+
+- Bio Gassi, K., Guene Lougou, B., Baysal, M.: Performance analysis of induction heated-porous thermochemical energy storage for heat applications in power systems. Appl. Therm. Eng. 217, 119226 (2022)Article Google Scholar
+
+- Bio Gassi, K., Guene Lougou, B., Baysal, M.: Performance analysis of induction heated-porous thermochemical energy storage for heat applications in power systems. Appl. Therm. Eng. 217, 119226 (2022)
+
+- Article Google Scholar
+
+- Vecchi, A., Sciacovelli, A.: Long-duration thermo-mechanical energy storage – present and future techno-economic competitiveness. Appl. Energy 334, 120628 (2023)Article Google Scholar
+
+- Vecchi, A., Sciacovelli, A.: Long-duration thermo-mechanical energy storage – present and future techno-economic competitiveness. Appl. Energy 334, 120628 (2023)
+
+- Article Google Scholar
+
+- Sales, W.F., Oliveira, A.R.F., Raslan, A.A.: Titanium perovskite (CaTiO3) formation in Ti6Al4V alloy using the electrical discharge machining process for biomedical applications. Surf. Coat. Technol. 307, 1011–1015 (2016)Article Google Scholar
+
+- Sales, W.F., Oliveira, A.R.F., Raslan, A.A.: Titanium perovskite (CaTiO3) formation in Ti6Al4V alloy using the electrical discharge machining process for biomedical applications. Surf. Coat. Technol. 307, 1011–1015 (2016)
+
+- Article Google Scholar
+
+- Labrim, H., et al.: Study of the perovskites CaZrO3-xSx (x=0, 1, 2 and 3) for photovoltaic applications. Solid State Commun. 363, 115105 (2023)Article Google Scholar
+
+- Labrim, H., et al.: Study of the perovskites CaZrO3-xSx (x=0, 1, 2 and 3) for photovoltaic applications. Solid State Commun. 363, 115105 (2023)
+
+- Article Google Scholar
+
+- Al Kaabi, F.S., Abdulkareem, M.A., Muhsin, N.A.: Determining the optimal conditions for the synthesis nano CaTiO3 square prepared from natural dolomite rocks. Results Chem. 5, 100915 (2023)Article Google Scholar
+
+- Al Kaabi, F.S., Abdulkareem, M.A., Muhsin, N.A.: Determining the optimal conditions for the synthesis nano CaTiO3 square prepared from natural dolomite rocks. Results Chem. 5, 100915 (2023)
+
+- Article Google Scholar
+
+- Albrecht, K.J., Jackson, G.S., Braun, R.J.: Evaluating thermodynamic performance limits of thermochemical energy storage subsystems using reactive perovskite oxide particles for concentrating solar power. Sol. Energy 167, 179–193 (2018)Article Google Scholar
+
+- Albrecht, K.J., Jackson, G.S., Braun, R.J.: Evaluating thermodynamic performance limits of thermochemical energy storage subsystems using reactive perovskite oxide particles for concentrating solar power. Sol. Energy 167, 179–193 (2018)
+
+- Article Google Scholar
+
+- Kumar, R.E., et al.: Opportunities for machine learning to accelerate halide-perovskite commercialization and scale-up. Matter 5, 1353–1366 (2022)Article Google Scholar
+
+- Kumar, R.E., et al.: Opportunities for machine learning to accelerate halide-perovskite commercialization and scale-up. Matter 5, 1353–1366 (2022)
+
+- Article Google Scholar
+
+- Ren, Z., et al.: An invertible crystallographic representation for general inverse design of inorganic crystals with targeted properties. Matter 5, 314–335 (2022)Article Google Scholar
+
+- Ren, Z., et al.: An invertible crystallographic representation for general inverse design of inorganic crystals with targeted properties. Matter 5, 314–335 (2022)
+
+- Article Google Scholar
+
+- Santibañez-Aguilar, J.E., et al.: Design of domestic photovoltaics manufacturing systems under global constraints and uncertainty. Renew. Energy 148, 1174–1189 (2020)Article Google Scholar
+
+- Santibañez-Aguilar, J.E., et al.: Design of domestic photovoltaics manufacturing systems under global constraints and uncertainty. Renew. Energy 148, 1174–1189 (2020)
+
+- Article Google Scholar
+
+- Liu, Z., et al.: Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing. Joule 6, 834–849 (2022)Article Google Scholar
+
+- Liu, Z., et al.: Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing. Joule 6, 834–849 (2022)
+
+- Article Google Scholar
+
+- Sultana, S., Mansingh, S., Parida, K.M.: Crystal facet and surface defect engineered low dimensional CeO2 (0D, 1D, 2D) based photocatalytic materials towards energy generation and pollution abatement. Mater. Adv. 2, 6942–6983 (2021)Article Google Scholar
+
+- Sultana, S., Mansingh, S., Parida, K.M.: Crystal facet and surface defect engineered low dimensional CeO2 (0D, 1D, 2D) based photocatalytic materials towards energy generation and pollution abatement. Mater. Adv. 2, 6942–6983 (2021)
+
+- Article Google Scholar
+
+- Domínguez, A., Geyer, R.: Photovoltaic waste assessment in Mexico. Resour. Conserv. Recycl. 127, 29–41 (2017)Article Google Scholar
+
+- Domínguez, A., Geyer, R.: Photovoltaic waste assessment in Mexico. Resour. Conserv. Recycl. 127, 29–41 (2017)
+
+- Article Google Scholar
+
+- Tan, X., et al.: Stabilizing CsPbI3 perovskite for photovoltaic applications. Matter 6, 691–727 (2023)Article Google Scholar
+
+- Tan, X., et al.: Stabilizing CsPbI3 perovskite for photovoltaic applications. Matter 6, 691–727 (2023)
+
+- Article Google Scholar
+
+- Li, H., et al.: Perovskite catalysts with different dimensionalities for environmental and energy applications: a review. Sep. Purif. Technol. 307, 122716 (2023)Article Google Scholar
+
+- Li, H., et al.: Perovskite catalysts with different dimensionalities for environmental and energy applications: a review. Sep. Purif. Technol. 307, 122716 (2023)
+
+- Article Google Scholar
+
+- Lou, Y., et al.: Perovskite single crystals: dimensional control, optoelectronic properties, and applications. Mater. Today 62, 225–250 (2023)Article Google Scholar
+
+- Lou, Y., et al.: Perovskite single crystals: dimensional control, optoelectronic properties, and applications. Mater. Today 62, 225–250 (2023)
+
+- Article Google Scholar
+
+- Khan, S.A., et al.: Recent developments of lead-free halide-perovskite nanocrystals: synthesis strategies, stability, challenges, and potential in optoelectronic applications. Mater. Today Phys. 34, 101079 (2023)Article Google Scholar
+
+- Khan, S.A., et al.: Recent developments of lead-free halide-perovskite nanocrystals: synthesis strategies, stability, challenges, and potential in optoelectronic applications. Mater. Today Phys. 34, 101079 (2023)
+
+- Article Google Scholar
+
+- Jiang, N., et al.: Smart thermally responsive perovskite materials: thermo-chromic application and density function theory calculation. Heliyon 9, e12845 (2023)Article Google Scholar
+
+- Jiang, N., et al.: Smart thermally responsive perovskite materials: thermo-chromic application and density function theory calculation. Heliyon 9, e12845 (2023)
+
+- Article Google Scholar
+
+- Choon, S.L., et al.: New potential materials in advancement of photovoltaic and optoelectronic applications: Metal halide perovskite nanorods. Renew. Sustain. Energy Rev. 171, 113037 (2023)Article Google Scholar
+
+- Choon, S.L., et al.: New potential materials in advancement of photovoltaic and optoelectronic applications: Metal halide perovskite nanorods. Renew. Sustain. Energy Rev. 171, 113037 (2023)
+
+- Article Google Scholar
+
+- Yin, Z., Li, Y., Xu, J., Qian, Z.F., Xiong, K.: Recent advances of perovskite materials for surface enhanced raman scattering and their applications. Mater. Today Phys. 27, 100815 (2022)Article Google Scholar
+
+- Yin, Z., Li, Y., Xu, J., Qian, Z.F., Xiong, K.: Recent advances of perovskite materials for surface enhanced raman scattering and their applications. Mater. Today Phys. 27, 100815 (2022)
+
+- Article Google Scholar
+
+- Huang, L., et al.: Research progresses on the application of perovskite in adsorption and photocatalytic removal of water pollutants. J. Hazard. Mater. 442, 130024 (2023)Article Google Scholar
+
+- Huang, L., et al.: Research progresses on the application of perovskite in adsorption and photocatalytic removal of water pollutants. J. Hazard. Mater. 442, 130024 (2023)
+
+- Article Google Scholar
+
+- Liu, X., Li, J., Wang, X., Yang, D.: Inorganic lead-based halide perovskites: from fundamental properties to photovoltaic applications. Mater. Today 61, 191–217 (2022)Article Google Scholar
+
+- Liu, X., Li, J., Wang, X., Yang, D.: Inorganic lead-based halide perovskites: from fundamental properties to photovoltaic applications. Mater. Today 61, 191–217 (2022)
+
+- Article Google Scholar
+
+- Pascoe-Sussoni, J.E., et al.: Understanding electron transport on hybrid perovskite/carbon allotropes for energy conversion and storage applications: a first principles study. Sol. Energy 255, 180–190 (2023)Article Google Scholar
+
+- Pascoe-Sussoni, J.E., et al.: Understanding electron transport on hybrid perovskite/carbon allotropes for energy conversion and storage applications: a first principles study. Sol. Energy 255, 180–190 (2023)
+
+- Article Google Scholar
+
+- Wang, A., et al.: Recent promise of lead-free halide perovskites in optoelectronic applications. Chem. Eng. J. 451, 138926 (2023)Article Google Scholar
+
+- Wang, A., et al.: Recent promise of lead-free halide perovskites in optoelectronic applications. Chem. Eng. J. 451, 138926 (2023)
+
+- Article Google Scholar
+
+- Chou, H.-Y., et al.: Synthesis of SiO2-coated perovskite quantum dots for micro-LED display applications. Surf. Interface Anal. 38, 102802 (2023)Article Google Scholar
+
+- Chou, H.-Y., et al.: Synthesis of SiO2-coated perovskite quantum dots for micro-LED display applications. Surf. Interface Anal. 38, 102802 (2023)
+
+- Article Google Scholar
+
+- This work is supported by National Natural Science Foundation of China (No. 52227813).
+
+- The funding has been received from Innovative Research Group Project of the National Natural Science Foundation of China with Grant no. 52227813.
+
+- Authors and Affiliations
+
+- Key Laboratory of Aerospace Thermophysics of MIIT, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, ChinaChime Chinedu Enoch Mmaduabuchi, Hong Qi & Bachirou Guene Lougou
+
+- Key Laboratory of Aerospace Thermophysics of MIIT, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China
+
+- Chime Chinedu Enoch Mmaduabuchi, Hong Qi & Bachirou Guene Lougou
+
+- School of Energy Science and Engineering, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, ChinaBachirou Guene Lougou
+
+- School of Energy Science and Engineering, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China
+
+- Bachirou Guene Lougou
+
+- MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, ChinaBachirou Guene Lougou
+
+- MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China
+
+- Bachirou Guene Lougou
+
+- Chime Chinedu Enoch MmaduabuchiView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Hong QiView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Bachirou Guene LougouView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Corresponding authors
+
+- Correspondence to Hong Qi or Bachirou Guene Lougou.
+
+- The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+- Additional information
+
+- Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+- Rights and permissions
+
+- Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+- Reprints and permissions
+
+- Mmaduabuchi, C.C.E., Qi, H. & Lougou, B.G. Current technologies development for renewable energy storage: a review. Energy Syst (2025). https://doi.org/10.1007/s12667-025-00766-z
+
+- Received: 13 October 2024
+
+- Received: 13 October 2024
+
+- Accepted: 12 August 2025
+
+- Accepted: 12 August 2025
+
+- Published: 11 September 2025
+
+- Published: 11 September 2025
+
+- Version of record: 11 September 2025
+
+- Version of record: 11 September 2025
+
+- DOI: https://doi.org/10.1007/s12667-025-00766-z
+
+- DOI: https://doi.org/10.1007/s12667-025-00766-z
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Hong Qi View author profile
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Price includes VAT (New Zealand)
+
+- Instant access to the full article PDF.
+
+- Institutional subscriptions
+
+- Publish your research
+
+- Open access publishing
+
+- Products and services
+
+- Partners and advertisers
+
+- Your privacy choices/Manage cookies
+
+- Your US state privacy rights
+
+- Accessibility statement
+
+- Cancel contracts here
