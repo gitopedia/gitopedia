@@ -1,4 +1,27 @@
 [
+  {
+    "id": "person:conrad-hal-waddington",
+    "label": "Conrad Hal Waddington",
+    "aliases": []
+  },
+  {
+    "id": "person:g.-felsenfeld",
+    "label": "G. Felsenfeld",
+    "aliases": []
+  },
+  {
+    "id": "person:arthur-riggs",
+    "label": "Arthur Riggs",
+    "aliases": []
+  },
+  {
+    "id": "person:rudolf-jaenisch",
+    "label": "Rudolf Jaenisch",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-feinberg",
+    "label": "Andrew Feinberg",
+    "aliases": []
+  }
 ]
-
-

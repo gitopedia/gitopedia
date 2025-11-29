@@ -1,4 +1,92 @@
 [
+  {
+    "id": "topic:epigenetics",
+    "label": "Epigenetics",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetics",
+    "label": "Genetics",
+    "aliases": []
+  },
+  {
+    "id": "topic:biology",
+    "label": "Biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-research",
+    "label": "Medical Research",
+    "aliases": []
+  },
+  {
+    "id": "topic:precision-medicine",
+    "label": "Precision Medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:dna-methylation",
+    "label": "DNA methylation",
+    "aliases": []
+  },
+  {
+    "id": "topic:histone-modification",
+    "label": "histone modification",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-coding-rna-interactions",
+    "label": "non-coding RNA interactions",
+    "aliases": []
+  },
+  {
+    "id": "topic:epigenome",
+    "label": "epigenome",
+    "aliases": []
+  },
+  {
+    "id": "topic:pharmacoepigenetics",
+    "label": "pharmacoepigenetics",
+    "aliases": []
+  },
+  {
+    "id": "topic:nanotechnology",
+    "label": "nanotechnology",
+    "aliases": []
+  },
+  {
+    "id": "topic:adverse-childhood-experiences",
+    "label": "adverse childhood experiences",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-throughput-sequencing",
+    "label": "high-throughput sequencing",
+    "aliases": []
+  },
+  {
+    "id": "topic:single-cell-epigenomics",
+    "label": "single-cell epigenomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:chip-seq",
+    "label": "ChIP-seq",
+    "aliases": []
+  },
+  {
+    "id": "topic:whole-genome-bisulfite-sequencing",
+    "label": "whole-genome bisulfite sequencing",
+    "aliases": []
+  },
+  {
+    "id": "topic:transgenerational-epigenetic-inheritance",
+    "label": "transgenerational epigenetic inheritance",
+    "aliases": []
+  },
+  {
+    "id": "topic:dutch-hunger-winter",
+    "label": "Dutch Hunger Winter",
+    "aliases": []
+  }
 ]
-
-
