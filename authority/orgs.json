@@ -1,4 +1,42 @@
 [
+  {
+    "id": "org:irena",
+    "label": "IRENA",
+    "aliases": []
+  },
+  {
+    "id": "org:international-renewable-energy-agency-(irena)",
+    "label": "International Renewable Energy Agency (IRENA)",
+    "aliases": []
+  },
+  {
+    "id": "org:sony",
+    "label": "Sony",
+    "aliases": []
+  },
+  {
+    "id": "org:tesla,-inc.",
+    "label": "Tesla, Inc.",
+    "aliases": []
+  },
+  {
+    "id": "org:quantumscape",
+    "label": "QuantumScape",
+    "aliases": []
+  },
+  {
+    "id": "org:toyota",
+    "label": "Toyota",
+    "aliases": []
+  },
+  {
+    "id": "org:byd",
+    "label": "BYD",
+    "aliases": []
+  },
+  {
+    "id": "org:rivian",
+    "label": "Rivian",
+    "aliases": []
+  }
 ]
-
-
