@@ -1,0 +1,154 @@
+# Epigenetics
+
+- 0Shopping Cart No products in the basket.
+
+- No products in the basket.
+
+- Education View all Bitesize genomics Clinical resources Core concepts Image library Online courses Podcasts Taught courses Teaching resources Videos Genomics glossary
+
+- Genomics in healthcare Genomics in my practice Genomic Medicine Service Clinical Pathway Initiative Competency frameworks Taking a family history Genetic conditions Rare disease education hub Cancer genomics Careers in genomics Document library
+
+- Genomics in my practice
+
+- Genomic Medicine Service
+
+- Clinical Pathway Initiative
+
+- Competency frameworks
+
+- Taking a family history
+
+- Rare disease education hub
+
+- News & Events News Events #GenomicsConversation
+
+- #GenomicsConversation
+
+- About us Our remit Our work Newsletter Contact us
+
+- 1. Same genome, different cell
+
+- 3. Tagging the genome
+
+- 4. The impact on health
+
+- 5. Epigenetics in practice
+
+- 1Same genome, different cell
+
+- If we want to understand epigenetics, we first need to consider our genome – our DNA.
+- Nearly all the cells in our body contain an identical copy of our genome, which contains the instructions to build and repair us.
+- Yet, despite having the same set of instructions, cells from different tissues and organs can be very diverse.
+- They may look completely different and have very different functions.
+
+- Take a look at the image to see how just different four types of cells can be, despite having an identical genome.
+
+- So, if the genome is the same in all these cells, then why are they different? The answer is in the way the genome is regulated (how it is used in different cells). This process differs between cells and is partly controlled by something called epigenetics.
+
+- Put simply, epigenetics is a way of influencing how our genome is regulated without the DNA code itself being changed.
+- Epigenetics can determine when genes are turned on and off (also referred to as gene expression), and which proteins are produced as a result.
+- It can even control the structure of the genome, relaxing the tightly packed chromosomes to allow the factors which control gene expression access to the genes within.
+
+- Click through the gallery below to explore some of the ways our genome can be changed by epigenetics.
+
+- Without epigenetics, you wouldn’t have developed from a fertilised egg to the multicellular organism you are today – and epigenetics will continue to impact on you, regulating specific genes in specific cells, in specific places and at specific times during your growth and development.
+
+- So, let’s dive in and find out more about how it works.
+
+- There are many different types of epigenetic modification (collectively known as the ‘epigenome’) that take place in, or ‘tag’, an organism’s genome.
+
+- One example of an epigenetic modification is methylation, which is associated with switching genes off. Here, a chemical called a methyl group attaches to a region near the start of a gene and prevents it from being switched on.
+
+- Another type of epigenetic modification degrades (breaks down) the messenger RNA (mRNA) that is created when DNA is copied by the cell – a process called transcription. Here, non-coding RNA (a type of RNA that does not code for proteins) attaches to the mRNA and marks it for degradation.
+
+- Most epigenetic modifications are transient and reversible, allowing our cells to respond and adapt to changes in environment and behaviour.
+- Although they happen on a molecular level, they can have a considerable impact on us, and can also be influenced by external factors, such as diet and lifestyle.
+
+- Take a look at the diagram and explore some of the many factors that can influence the epigenome.
+
+- 4The impact on health
+
+- As with all essential cellular processes, epigenetic modifications can also impact on health if they are not controlled in the way that they should be.
+
+- Most cancers display different epigenetic patterns than those of healthy cells, and these patterns can be important for the development of the disease.
+- For example, some genes produce proteins that stop cell growth and division.
+- If these genes are turned off when they shouldn’t be, this could cause cells to divide uncontrollably, leading to cancer development.
+
+- Although uncommon, some epigenetic markers can be passed on from parent to offspring through a process called imprinting.
+- Imprinting can lead to the silencing of either the maternal or paternal copy of a gene, which can lead to complications if the other copy of the gene is either missing or not functioning correctly.
+
+- For example, Prader-Willi syndrome occurs when a group of paternal genes on one chromosome are missing and the silenced copies on the material chromosome cannot compensate for the loss. Look at the comparison between two chromosomes to help you visualise how imprinting causes this condition.
+
+- Epigenomics is also a factor during pregnancy. The epigenome of a developing baby can be influenced by the expectant parent’s lifestyle while still in the womb, although exactly how this happens is still being researched.
+
+- 5Epigenetics in practice
+
+- So, how does our understanding of epigenetics translate to a practical application in healthcare?
+
+- As we have mentioned, nearly all cancers display different epigenetic patterns to typical, healthy cells.
+- These differences can help us to understand, manage and treat cancers more effectively.
+- For example, the methylation profile of tumours can help to grade the current stage of a cancer or to track the disease as it progresses over time.
+
+- Check out the graphic to see how epigenetic patterns can change between healthy cells and cancer cells.
+
+- Additionally, many drugs have been discovered that target specific epigenetic modifications, either by removing them or preventing their removal – depending on the desired effect.
+- These drugs are mostly used to treat different types of cancer, but there is ongoing work to establish their effectiveness for other conditions.
+
+- To learn more about the latest advances in epigenetics and its real-world impact on healthcare, visit the dedicated epigenomics topic on our blog.
+
+- It's time to revisit what you've learned - use the arrows to scroll through the key points
+
+- Nearly all our cells have an identical copy of our genome, but they can look and behave very differently. This is because of how the genome is regulated in these cells.
+
+- Nearly all our cells have an identical copy of our genome, but they can look and behave very differently. This is because of how the genome is regulated in these cells.
+
+- Epigenetics controls how the genome is regulated without changing the DNA code. It can turn specific genes on or off, and even control the structure of the genome.
+
+- Epigenetics controls how the genome is regulated without changing the DNA code. It can turn specific genes on or off, and even control the structure of the genome.
+
+- There are many types of epigenetic modification and most of them are transient and reversible, allowing us to adapt to our environment.
+
+- There are many types of epigenetic modification and most of them are transient and reversible, allowing us to adapt to our environment.
+
+- The epigenome can also have a considerable impact on health, and is linked to diseases such as cancer, and rare conditions such as Prader-Willi syndrome.
+
+- The epigenome can also have a considerable impact on health, and is linked to diseases such as cancer, and rare conditions such as Prader-Willi syndrome.
+
+- Modern drugs can target specific epigenetic modifications to manage and treat some disease more effectively.
+
+- Modern drugs can target specific epigenetic modifications to manage and treat some disease more effectively.
+
+- Do you want to learn more about how epigenetics and the role it plays in healthcare? Why not try one of our resources:
+
+- Online courseGenomics 101: From Gene to Protein 30 minutes Certificate of completion Part Time Online Find out more
+
+- Online courseGenomics 101: From Genes to Genome 30 minutes Certificate of completion Part Time Online Find out more
+
+- Bitesize genomicsWhat is bioinformatics? 10 minutes Multimedia Find out more
+
+- Bitesize genomicsWhat is genomics? 10 minutes Multimedia Find out more
+
+- Developing people for health and healthcare
+
+- This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+
+- Cookie and Privacy Settings
+
+- Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+
+- These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+
+- Because these cookies are strictly necessary to deliver the website, you cannot refuse them without impacting how our site functions. You can block or delete them by changing your browser settings and force blocking all cookies on this website.
+
+- These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+
+- If you do not want that we track your visist to our site you can disable tracking in your browser here:
+
+- We also use different external services like Google Webfonts, Google Maps and external Video providers.
+- Since these providers may collect personal data like your IP address we allow you to block them here.
+- Please be aware that this might heavily reduce the functionality and appearance of our site.
+- Changes will take effect once you reload the page.
+
+- Google Webfont Settings:
+
+- Vimeo and Youtube video embeds:
