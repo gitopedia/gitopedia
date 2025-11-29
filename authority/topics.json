@@ -88,5 +88,180 @@
     "id": "topic:dutch-hunger-winter",
     "label": "Dutch Hunger Winter",
     "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai-and-algorithmic-bias",
+    "label": "Ethical AI and Algorithmic Bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-ethics",
+    "label": "AI ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-bias",
+    "label": "algorithmic bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-in-ai",
+    "label": "fairness in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:accountability-in-ai",
+    "label": "accountability in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-governance",
+    "label": "AI governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-human-rights",
+    "label": "AI and human rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai-design",
+    "label": "ethical AI design",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-environmental-ethics",
+    "label": "AI and environmental ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-cultural-ethics",
+    "label": "AI and cultural ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-moral-philosophy",
+    "label": "AI and moral philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-deception",
+    "label": "AI and deception",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-in-warfare",
+    "label": "AI in warfare",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-autonomous-decision-making",
+    "label": "AI and autonomous decision-making",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-in-education",
+    "label": "AI in education",
+    "aliases": []
+  },
+  {
+    "id": "topic:utilitarianism",
+    "label": "Utilitarianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:deontology",
+    "label": "Deontology",
+    "aliases": []
+  },
+  {
+    "id": "topic:virtue-ethics",
+    "label": "Virtue Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-winters",
+    "label": "AI winters",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulation-of-ai",
+    "label": "Regulation of AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:bias-mitigation-techniques",
+    "label": "bias mitigation techniques",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy-in-ai",
+    "label": "privacy in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-theory",
+    "label": "ethical theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-societal-impact",
+    "label": "AI and societal impact",
+    "aliases": []
+  },
+  {
+    "id": "topic:biases-in-artificial-intelligence",
+    "label": "Biases in artificial intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-fairness",
+    "label": "Algorithmic fairness",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-bias",
+    "label": "Data bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:interaction-bias",
+    "label": "Interaction bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-aware-machine-learning",
+    "label": "Fairness-aware machine learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai",
+    "label": "Ethical AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-for-social-good",
+    "label": "AI for Social Good",
+    "aliases": []
+  },
+  {
+    "id": "topic:deontological-ethics",
+    "label": "Deontological ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:eu-ai-act",
+    "label": "EU AI Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-accountability-act",
+    "label": "Algorithmic Accountability Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence",
+    "label": "Artificial Intelligence",
+    "aliases": []
   }
 ]
