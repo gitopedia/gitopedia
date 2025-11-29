@@ -23,4 +23,6 @@ jobs:
       - name: Markdown Lint
         uses: DavidAnson/markdownlint-cli2-action@v16
         with:
-          globs: "Compendium/**/*.md"
+          globs: |
+            Compendium/**/*.md
+            !Compendium/_incoming/**
