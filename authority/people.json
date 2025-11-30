@@ -238,5 +238,135 @@
     "id": "person:bryan-ward-perkins",
     "label": "Bryan Ward-Perkins",
     "aliases": []
+  },
+  {
+    "id": "person:socrates",
+    "label": "Socrates",
+    "aliases": []
+  },
+  {
+    "id": "person:plato",
+    "label": "Plato",
+    "aliases": []
+  },
+  {
+    "id": "person:aristotle",
+    "label": "Aristotle",
+    "aliases": []
+  },
+  {
+    "id": "person:confucius",
+    "label": "Confucius",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-aquinas",
+    "label": "Thomas Aquinas",
+    "aliases": []
+  },
+  {
+    "id": "person:al-farabi",
+    "label": "Al-Farabi",
+    "aliases": []
+  },
+  {
+    "id": "person:averroes",
+    "label": "Averroes",
+    "aliases": []
+  },
+  {
+    "id": "person:niccolò-machiavelli",
+    "label": "Niccolò Machiavelli",
+    "aliases": []
+  },
+  {
+    "id": "person:rené-descartes",
+    "label": "René Descartes",
+    "aliases": []
+  },
+  {
+    "id": "person:john-locke",
+    "label": "John Locke",
+    "aliases": []
+  },
+  {
+    "id": "person:immanuel-kant",
+    "label": "Immanuel Kant",
+    "aliases": []
+  },
+  {
+    "id": "person:voltaire",
+    "label": "Voltaire",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-marx",
+    "label": "Karl Marx",
+    "aliases": []
+  },
+  {
+    "id": "person:friedrich-nietzsche",
+    "label": "Friedrich Nietzsche",
+    "aliases": []
+  },
+  {
+    "id": "person:søren-kierkegaard",
+    "label": "Søren Kierkegaard",
+    "aliases": []
+  },
+  {
+    "id": "person:jean-paul-sartre",
+    "label": "Jean-Paul Sartre",
+    "aliases": []
+  },
+  {
+    "id": "person:ludwig-wittgenstein",
+    "label": "Ludwig Wittgenstein",
+    "aliases": []
+  },
+  {
+    "id": "person:bertrand-russell",
+    "label": "Bertrand Russell",
+    "aliases": []
+  },
+  {
+    "id": "person:david-hume",
+    "label": "David Hume",
+    "aliases": []
+  },
+  {
+    "id": "person:jeremy-bentham",
+    "label": "Jeremy Bentham",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stuart-mill",
+    "label": "John Stuart Mill",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-kuhn",
+    "label": "Thomas Kuhn",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-popper",
+    "label": "Karl Popper",
+    "aliases": []
+  },
+  {
+    "id": "person:joshua-greene",
+    "label": "Joshua Greene",
+    "aliases": []
+  },
+  {
+    "id": "person:kwame-gyekye",
+    "label": "Kwame Gyekye",
+    "aliases": []
+  },
+  {
+    "id": "person:martha-nussbaum",
+    "label": "Martha Nussbaum",
+    "aliases": []
   }
 ]
