@@ -38,5 +38,10 @@
     "id": "org:large-hadron-collider",
     "label": "Large Hadron Collider",
     "aliases": []
+  },
+  {
+    "id": "org:figma-inc.",
+    "label": "Figma Inc.",
+    "aliases": []
   }
 ]
