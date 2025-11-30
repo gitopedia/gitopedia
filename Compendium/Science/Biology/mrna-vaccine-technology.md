@@ -8,11 +8,10 @@ orgs: ["org:", "org:", "org:", "org:", "org:", "org:", "org:", "org:", "org:"]
 summary: ""
 ---
 
-```yaml
 title: mRNA Vaccines for Infectious Diseases — Advances, Challenges and Opportunities
 summary: This article explores the development and impact of mRNA vaccines in combating infectious diseases, highlighting their scientific foundations, real-world applications, and ongoing challenges. It discusses the technological breakthroughs that enabled their rapid deployment during the COVID-19 pandemic, as well as the opportunities and obstacles in expanding their use to other diseases.
 tags: ["Biotechnology", "Vaccines", "Infectious Diseases", "Medical Research", "mRNA Technology"]
-```
+
 
 # mRNA Vaccines for Infectious Diseases — Advances, Challenges and Opportunities
 
@@ -118,7 +117,6 @@ mRNA vaccines have proven to be a game-changer in the fight against infectious d
 [^24]: Research context: Comparison of storage requirements between Pfizer-BioNTech and Moderna vaccines.  
 [^25]: Research context: Addressing public trust and misinformation through education and engagement.  
 [^26]: Research context: Ethical and regulatory considerations in the rapid deployment of mRNA vaccines.
-```
 
 ## References
 
