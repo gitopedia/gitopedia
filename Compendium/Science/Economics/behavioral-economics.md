@@ -9,11 +9,10 @@ places: ["place:united-kingdom"]
 summary: ""
 ---
 
-```yaml
 title: Behavioral Economics: Bridging Psychology and Economic Decision-Making
 summary: Behavioral economics challenges classical economic theories by incorporating psychological insights to explain how cognitive biases, emotions, and social influences shape decision-making. This field has revolutionized our understanding of human behavior in economic contexts, from consumer choices to public policy design. Key concepts like bounded rationality and loss aversion highlight the limitations of purely rational decision-making.
 tags: ["Economics", "Psychology", "Decision-Making", "Behavioral Science"]
-```
+
 
 # Behavioral Economics: Bridging Psychology and Economic Decision-Making
 
