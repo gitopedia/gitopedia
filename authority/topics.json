@@ -348,5 +348,70 @@
     "id": "topic:world-history",
     "label": "World History",
     "aliases": []
+  },
+  {
+    "id": "topic:mrna-vaccine-technology",
+    "label": "mRNA Vaccine Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:mrna-vaccine",
+    "label": "mRNA vaccine",
+    "aliases": []
+  },
+  {
+    "id": "topic:mrna-technology",
+    "label": "mRNA technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-technology",
+    "label": "CRISPR technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:cancer",
+    "label": "Cancer",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-disorders",
+    "label": "Genetic disorders",
+    "aliases": []
+  },
+  {
+    "id": "topic:personalized-medicine",
+    "label": "Personalized medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:influenza",
+    "label": "Influenza",
+    "aliases": []
+  },
+  {
+    "id": "topic:zika",
+    "label": "Zika",
+    "aliases": []
+  },
+  {
+    "id": "topic:autoimmune-diseases",
+    "label": "Autoimmune diseases",
+    "aliases": []
+  },
+  {
+    "id": "topic:gene-editing",
+    "label": "Gene editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:",
+    "label": "",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-science",
+    "label": "Medical Science",
+    "aliases": []
   }
 ]
