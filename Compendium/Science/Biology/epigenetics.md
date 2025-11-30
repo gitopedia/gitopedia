@@ -8,11 +8,10 @@ people: ["person:conrad-hal-waddington", "person:g.-felsenfeld", "person:arthur-
 summary: ""
 ---
 
-```yaml
 title: Epigenetics: The Dynamic Layer of Genetic Regulation
 summary: Epigenetics explores how gene expression is modulated by chemical and molecular changes without altering DNA sequences. This article delves into its history, core principles, applications in medicine, and future directions, highlighting its role in understanding complex biological processes and disease mechanisms.
 tags: ["Epigenetics", "Genetics", "Biology", "Medical Research", "Precision Medicine"]
-```
+
 
 # Epigenetics: The Dynamic Layer of Genetic Regulation
 
@@ -105,7 +104,6 @@ Epigenetics has emerged as a cornerstone of modern biology, offering a dynamic f
 [^19]: Aryee, M. J., et al. (2014). *Minimizing Sequencing Artifacts in DNA Methylation Analysis*. Nature Methods.
 [^20]: Xiao, S., et al. (2017). *Single-Cell Epigenomics: A New Era in Chromatin Biology*. Cell.
 [^21]: Skinner, M. K., et al. (2015). *Transgenerational Epigenetic Inheritance of Disease*. Molecular and Cellular Biology.
-```
 
 ## References
 
