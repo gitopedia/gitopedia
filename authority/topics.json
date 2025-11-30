@@ -645,6 +645,226 @@
     "aliases": []
   },
   {
+    "id": "topic:development-economics",
+    "label": "Development Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:import-substitution-industrialization",
+    "label": "Import-Substitution Industrialization",
+    "aliases": []
+  },
+  {
+    "id": "topic:export-promotion",
+    "label": "Export Promotion",
+    "aliases": []
+  },
+  {
+    "id": "topic:harris-todaro-model",
+    "label": "Harris-Todaro Model",
+    "aliases": []
+  },
+  {
+    "id": "topic:prebisch-singer-hypothesis",
+    "label": "Prebisch-Singer Hypothesis",
+    "aliases": []
+  },
+  {
+    "id": "topic:dependency-theory",
+    "label": "Dependency Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:structural-transformation",
+    "label": "Structural Transformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:center-periphery-models",
+    "label": "Center-Periphery Models",
+    "aliases": []
+  },
+  {
+    "id": "topic:unequal-exchange",
+    "label": "Unequal Exchange",
+    "aliases": []
+  },
+  {
+    "id": "topic:neocolonial-economic-domination",
+    "label": "Neocolonial Economic Domination",
+    "aliases": []
+  },
+  {
+    "id": "topic:urban-bias-in-development",
+    "label": "Urban Bias in Development",
+    "aliases": []
+  },
+  {
+    "id": "topic:demographic-transition",
+    "label": "Demographic Transition",
+    "aliases": []
+  },
+  {
+    "id": "topic:kuznets-hypothesis",
+    "label": "Kuznets Hypothesis",
+    "aliases": []
+  },
+  {
+    "id": "topic:corrupt-practices-in-development",
+    "label": "Corrupt Practices in Development",
+    "aliases": []
+  },
+  {
+    "id": "topic:enlightenment-(historical-period)",
+    "label": "Enlightenment (historical period)",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrialization",
+    "label": "Industrialization",
+    "aliases": []
+  },
+  {
+    "id": "topic:capitalism",
+    "label": "Capitalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:colonialism",
+    "label": "Colonialism",
+    "aliases": []
+  },
+  {
+    "id": "topic:modernization-theory",
+    "label": "Modernization Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-development",
+    "label": "Sustainable Development",
+    "aliases": []
+  },
+  {
+    "id": "topic:structural-adjustment-programs",
+    "label": "Structural Adjustment Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-colonial-studies",
+    "label": "Post-colonial studies",
+    "aliases": []
+  },
+  {
+    "id": "topic:feminist-economics",
+    "label": "Feminist economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:harrod-domar-growth-model",
+    "label": "Harrod-Domar growth model",
+    "aliases": []
+  },
+  {
+    "id": "topic:lewis's-two-sector-model",
+    "label": "Lewis's two-sector model",
+    "aliases": []
+  },
+  {
+    "id": "topic:solow-swan-growth-model",
+    "label": "Solow-Swan growth model",
+    "aliases": []
+  },
+  {
+    "id": "topic:gdp-(gross-domestic-product)",
+    "label": "GDP (Gross Domestic Product)",
+    "aliases": []
+  },
+  {
+    "id": "topic:gnp-(gross-national-product)",
+    "label": "GNP (Gross National Product)",
+    "aliases": []
+  },
+  {
+    "id": "topic:comparative-advantage",
+    "label": "Comparative advantage",
+    "aliases": []
+  },
+  {
+    "id": "topic:gini-coefficient",
+    "label": "Gini coefficient",
+    "aliases": []
+  },
+  {
+    "id": "topic:lorenz-curve",
+    "label": "Lorenz curve",
+    "aliases": []
+  },
+  {
+    "id": "topic:poverty-measurement",
+    "label": "Poverty measurement",
+    "aliases": []
+  },
+  {
+    "id": "topic:corruption",
+    "label": "Corruption",
+    "aliases": []
+  },
+  {
+    "id": "topic:rule-of-law",
+    "label": "Rule of law",
+    "aliases": []
+  },
+  {
+    "id": "topic:globalization",
+    "label": "Globalization",
+    "aliases": []
+  },
+  {
+    "id": "topic:green-economy",
+    "label": "Green economy",
+    "aliases": []
+  },
+  {
+    "id": "topic:inclusive-growth",
+    "label": "Inclusive growth",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-change",
+    "label": "Climate change",
+    "aliases": []
+  },
+  {
+    "id": "topic:automation",
+    "label": "Automation",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence-(ai)",
+    "label": "Artificial Intelligence (AI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:marshall-plan",
+    "label": "Marshall Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:structuralist-approach",
+    "label": "Structuralist approach",
+    "aliases": []
+  },
+  {
+    "id": "topic:institutional-economics",
+    "label": "Institutional Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:middle-income-trap",
+    "label": "Middle-Income Trap",
+    "aliases": []
+  },
+  {
     "id": "topic:existentialism",
     "label": "Existentialism",
     "aliases": []
