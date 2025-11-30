@@ -33,5 +33,10 @@
     "id": "org:",
     "label": "",
     "aliases": []
+  },
+  {
+    "id": "org:large-hadron-collider",
+    "label": "Large Hadron Collider",
+    "aliases": []
   }
 ]
