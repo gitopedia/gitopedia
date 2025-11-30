@@ -48,5 +48,50 @@
     "id": "org:nasa",
     "label": "NASA",
     "aliases": []
+  },
+  {
+    "id": "org:bretton-woods-institutions-(imf-and-world-bank)",
+    "label": "Bretton Woods Institutions (IMF and World Bank)",
+    "aliases": []
+  },
+  {
+    "id": "org:brundtland-commission-(our-common-future-report)",
+    "label": "Brundtland Commission (Our Common Future report)",
+    "aliases": []
+  },
+  {
+    "id": "org:world-bank",
+    "label": "World Bank",
+    "aliases": []
+  },
+  {
+    "id": "org:international-monetary-fund-(imf)",
+    "label": "International Monetary Fund (IMF)",
+    "aliases": []
+  },
+  {
+    "id": "org:brics-(intergovernmental-organization)",
+    "label": "BRICS (intergovernmental organization)",
+    "aliases": []
+  },
+  {
+    "id": "org:marshall-plan",
+    "label": "Marshall Plan",
+    "aliases": []
+  },
+  {
+    "id": "org:international-monetary-fund",
+    "label": "International Monetary Fund",
+    "aliases": []
+  },
+  {
+    "id": "org:green-climate-fund",
+    "label": "Green Climate Fund",
+    "aliases": []
+  },
+  {
+    "id": "org:brics-nations",
+    "label": "BRICS nations",
+    "aliases": []
   }
 ]
