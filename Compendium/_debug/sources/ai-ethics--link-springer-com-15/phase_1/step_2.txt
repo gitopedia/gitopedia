@@ -1,0 +1,729 @@
+# AI Ethics
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- History, AI and utilitarianism
+
+- Published: 30 October 2024
+
+- Volume 5, pages 2903–2917, (2025)
+
+- Contemporary scholars have separated artificial intelligence (AI) from utilitarianism, which represents instrumental rationality, and have shifted toward the Responsibility and Virtue Ethics of practical rationality.
+- The Strong and Weak Accountability AI embodies abstract freedom and presupposes human nature; however, the collective policies formed by it often conflict with individuality, being either unchangeable or ineffective in shaping individuality.
+- Without addressing inherited structural drawbacks or challenging oppressive social norms, it is difficult to expect a Virtue AI to promote an established good life.
+- This article proposes AI, through the instrumental rationality embodied in utilitarianism, broadens the conditions for understanding moral purposes.
+- AI should be viewed as a tool, rather than the ultimate solution.
+- Prioritizing history does not lie in contemplating the potential crisis posed by machines manipulating agents, but rather in highlighting the reality of whether AI’s specific feedback to humans is open, transparent, and consonant with human rights.
+- Utilitarianism AI presents morally open structures that are manifested through social adjustments, the physical realm of emotional conflicts, and the physiological foundations underpinning self-motivation.
+
+- This is a preview of subscription content, log in via an institution to check access.
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Price includes VAT (New Zealand)
+
+- Instant access to the full article PDF.
+
+- Institutional subscriptions
+
+- Similar content being viewed by others
+
+- Artificial Intelligence and Ethical Principles
+
+- Navigating in the moral landscape: analysing bias and discrimination in AI through philosophical inquiry
+
+- Does AI Share Same Ethic with Human Being?
+
+- Explore related subjects
+
+- Philosophy of Artificial Intelligence
+
+- Philosophy of History
+
+- Artificial Intelligence
+
+- The authors confirm that the data supporting the findings of this study are available within the article.
+
+- The former is the sensory level, while the latter is the behavioral level. According to the former, the importance of machines lies in influencing human feelings, and according to the latter, humans have to decide to give feedback to machines.
+
+- The former is the sensory level, while the latter is the behavioral level. According to the former, the importance of machines lies in influencing human feelings, and according to the latter, humans have to decide to give feedback to machines.
+
+- Anscombe believed that Mill’s utilitarianism and later the consequentialism of British philosophers were not direct theories about what makes behavior right, but rather about what a person should be responsible for.
+- Moral philosophers should abandon concepts such as moral obligation, moral responsibility, and moral ‘should’.
+- These concepts only make sense in legal ethics: if a moral legislator (such as God) orders you to do something, then you have a moral obligation or moral obligation to do it.
+- However, in the ethical form of non-moral legislators, discussing moral or moral obligations is similar to debating what constitutes a crime in a society lacking criminal law or courts, or to being abandoned discussing whether their clothing complies with new corporate policies—there is no necessary social framework to make this conversation meaningful.
+- Anscombe’s thoughts are similar to those of her contemporaries, Philippa Foot and Iris Murdoch, and she is skeptical of her emphasis on ‘thin’ evaluation terms.
+- The thin moral concept is opposed to the thick moral concept.
+- Dworkin believes that utilitarianism is unfair, and that the self-orientation and external factors in anyone's preferences are sometimes ‘inseparable’.
+
+- Anscombe believed that Mill’s utilitarianism and later the consequentialism of British philosophers were not direct theories about what makes behavior right, but rather about what a person should be responsible for.
+- Moral philosophers should abandon concepts such as moral obligation, moral responsibility, and moral ‘should’.
+- These concepts only make sense in legal ethics: if a moral legislator (such as God) orders you to do something, then you have a moral obligation or moral obligation to do it.
+- However, in the ethical form of non-moral legislators, discussing moral or moral obligations is similar to debating what constitutes a crime in a society lacking criminal law or courts, or to being abandoned discussing whether their clothing complies with new corporate policies—there is no necessary social framework to make this conversation meaningful.
+- Anscombe’s thoughts are similar to those of her contemporaries, Philippa Foot and Iris Murdoch, and she is skeptical of her emphasis on ‘thin’ evaluation terms.
+- The thin moral concept is opposed to the thick moral concept.
+- Dworkin believes that utilitarianism is unfair, and that the self-orientation and external factors in anyone's preferences are sometimes ‘inseparable’.
+
+- Notably, this article is not a fundamental defense of utilitarianism as it applies to all applied ethics; instead, it argues that in specific applications, the three normative theories can serve as different ethical foundations, while other theories can serve as supplements.
+
+- Notably, this article is not a fundamental defense of utilitarianism as it applies to all applied ethics; instead, it argues that in specific applications, the three normative theories can serve as different ethical foundations, while other theories can serve as supplements.
+
+- This principle represents normative rationality: if I need a hammer and see one, I ought to pick it up, serving as a practical means to an end.
+- Within this context, Deontology and virtue ethics continually emphasize the moral content of practical rationality within their respective frameworks, while the role of instrumental rationality in moral purposes has been gradually diminished.
+
+- This principle represents normative rationality: if I need a hammer and see one, I ought to pick it up, serving as a practical means to an end.
+- Within this context, Deontology and virtue ethics continually emphasize the moral content of practical rationality within their respective frameworks, while the role of instrumental rationality in moral purposes has been gradually diminished.
+
+- For example, if I am willing health, and recognize that exercise (with this recognition being enriched through AI) is the means to achieve health, then I am willing to exercise.
+
+- For example, if I am willing health, and recognize that exercise (with this recognition being enriched through AI) is the means to achieve health, then I am willing to exercise.
+
+- This paper argues that utilitarianism does not fundamentally conflict with the principles of human nature. In the current global context, the integration of utilitarianism and AI holds significant potential for improving adverse conditions.
+
+- This paper argues that utilitarianism does not fundamentally conflict with the principles of human nature. In the current global context, the integration of utilitarianism and AI holds significant potential for improving adverse conditions.
+
+- According to Sellars, if we overly focus on a specific sub philosophical issue, such as the essence of direct experience, while neglecting the importance of normativity, it may obscure other aspects of our overall understanding of knowledge.
+- Rorty advocates overthrowing traditional concepts and authority in philosophy, believing that truth is constructed by social history and culture.
+- He emphasized that reality is a constantly changing, diverse, and ambiguous concept, and that attention should be given to the actual conditions and context of human life.
+- From this perspective, excessive focus on a specific philosophical issue may lead us to overlook the social, historical, and cultural constructiveness of truth, thereby limiting the possibility of a comprehensive understanding of truth.
+- Kuhn’s theory of scientific revolution suggests that different stages of scientific development are guided by different paradigms.
+- The transformation of paradigms marks the occurrence of the scientific revolution and the fundamental shift in worldview.
+
+- According to Sellars, if we overly focus on a specific sub philosophical issue, such as the essence of direct experience, while neglecting the importance of normativity, it may obscure other aspects of our overall understanding of knowledge.
+- Rorty advocates overthrowing traditional concepts and authority in philosophy, believing that truth is constructed by social history and culture.
+- He emphasized that reality is a constantly changing, diverse, and ambiguous concept, and that attention should be given to the actual conditions and context of human life.
+- From this perspective, excessive focus on a specific philosophical issue may lead us to overlook the social, historical, and cultural constructiveness of truth, thereby limiting the possibility of a comprehensive understanding of truth.
+- Kuhn’s theory of scientific revolution suggests that different stages of scientific development are guided by different paradigms.
+- The transformation of paradigms marks the occurrence of the scientific revolution and the fundamental shift in worldview.
+
+- The laws are as follows: “(1) a robot may not injure a human being or, through inaction, allow a human being to come to harm; (2) a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; and (3) a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.”.
+
+- The laws are as follows: “(1) a robot may not injure a human being or, through inaction, allow a human being to come to harm; (2) a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; and (3) a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.”.
+
+- Pluralists may argue that utilitarian principles, criticized alongside other pragmatic approaches, face challenges in addressing issues of social injustice and global poverty.
+- This is attributed to utilitarianism's focus on overall utility, often neglecting the plight of the most impoverished and individual obligations.
+- It is conceivable that pluralists might assert that AI based on utilitarianism similarly falls short in addressing social injustice.
+- The proposed response is that, for comprehensive challenges, a diverse approach is imperative.
+- AI grounded in utilitarianism is not a cure-all; rather, it reflects an incorporation of existentialism and phenomenological methods, prompting a reassessment of the current tendency to overemphasize theories of responsibility and virtue.
+
+- Pluralists may argue that utilitarian principles, criticized alongside other pragmatic approaches, face challenges in addressing issues of social injustice and global poverty.
+- This is attributed to utilitarianism's focus on overall utility, often neglecting the plight of the most impoverished and individual obligations.
+- It is conceivable that pluralists might assert that AI based on utilitarianism similarly falls short in addressing social injustice.
+- The proposed response is that, for comprehensive challenges, a diverse approach is imperative.
+- AI grounded in utilitarianism is not a cure-all; rather, it reflects an incorporation of existentialism and phenomenological methods, prompting a reassessment of the current tendency to overemphasize theories of responsibility and virtue.
+
+- Postmodernist philosophers typically emphasize criticism of traditional moral concepts and tend to adopt more open and innovative ethical perspectives, especially when confronted with emerging technologies such as AI.
+- Richard Rorty underscores the relativity of language and culture and advocates for a pragmatic mindset.
+- While Rorty might not have directly addressed the ethics of AI, his viewpoints likely align with this trend of thought.
+
+- Postmodernist philosophers typically emphasize criticism of traditional moral concepts and tend to adopt more open and innovative ethical perspectives, especially when confronted with emerging technologies such as AI.
+- Richard Rorty underscores the relativity of language and culture and advocates for a pragmatic mindset.
+- While Rorty might not have directly addressed the ethics of AI, his viewpoints likely align with this trend of thought.
+
+- John Zerzan and Fernando Savater criticize excessive structural thinking in contemporary society, arguing that it undermines the connection between humans and nature.
+
+- John Zerzan and Fernando Savater criticize excessive structural thinking in contemporary society, arguing that it undermines the connection between humans and nature.
+
+- This approach seems to evoke criticisms of Rawls’ politicization of morality.
+- In “A Theory of Justice”, Rawls attempts to provide a moral theory to replace utilitarianism, presenting a prioritization of principles of justice: the principle of basic liberties, the principle of equal opportunity, and the difference principle.
+- Rawls acknowledges that the principles of justice as fairness cannot truly be separated from their contextual considerations.
+- In his later work, “Political Liberalism”, he introduces a political conception of justice based on overlapping consensus.
+- The ‘background’ Rawls refers to is the idealized ‘veil of ignorance’, while this paper focuses on the ‘current history’, indicating that disadvantaged individuals struggle to utilize artificial intelligence and low-income countries find it difficult to rely on AI to improve their conditions.
+- If Singer's practical utilitarianism illustrates the varying effectiveness of one dollar in the context of rewards or charity, the practical costs of penalties or mistakes should also be considered.
+
+- This approach seems to evoke criticisms of Rawls’ politicization of morality.
+- In “A Theory of Justice”, Rawls attempts to provide a moral theory to replace utilitarianism, presenting a prioritization of principles of justice: the principle of basic liberties, the principle of equal opportunity, and the difference principle.
+- Rawls acknowledges that the principles of justice as fairness cannot truly be separated from their contextual considerations.
+- In his later work, “Political Liberalism”, he introduces a political conception of justice based on overlapping consensus.
+- The ‘background’ Rawls refers to is the idealized ‘veil of ignorance’, while this paper focuses on the ‘current history’, indicating that disadvantaged individuals struggle to utilize artificial intelligence and low-income countries find it difficult to rely on AI to improve their conditions.
+- If Singer's practical utilitarianism illustrates the varying effectiveness of one dollar in the context of rewards or charity, the practical costs of penalties or mistakes should also be considered.
+
+- Isabella Seeber(2020). Machines as teammates: A research agenda on AI in team collaboration, Information & Management, Volume 57, Issue 2, 103,174, https://doi.org/10.1016/j.im.2019.103174.
+
+- Isabella Seeber(2020). Machines as teammates: A research agenda on AI in team collaboration, Information & Management, Volume 57, Issue 2, 103,174, https://doi.org/10.1016/j.im.2019.103174.
+
+- Larson L, DeChurch L(2020). Leading Teams in the Digital Age: Four Perspectives on Technology and What They Mean for Leading Teams. Leadersh Q. https://doi.org/10.1016/j.leaqua.2019.101377. Epub 2020 Jan 13. PMID: 32,863,679; PMCID: PMC7453931.
+
+- Larson L, DeChurch L(2020). Leading Teams in the Digital Age: Four Perspectives on Technology and What They Mean for Leading Teams. Leadersh Q. https://doi.org/10.1016/j.leaqua.2019.101377. Epub 2020 Jan 13. PMID: 32,863,679; PMCID: PMC7453931.
+
+- Liu’s work on Tang Dynasty literature, for instance, emphasizes the intricate balance between poetic form and thematic expression, highlighting how cultural context and historical periods shape literary styles and interpretations​.
+- Similarly, Stuart Sargent's study on He Zhu's poetry delves into the importance of prosody and form, exploring how these elements reflect broader cultural and political influences in Song Dynasty poetry​.
+
+- Liu’s work on Tang Dynasty literature, for instance, emphasizes the intricate balance between poetic form and thematic expression, highlighting how cultural context and historical periods shape literary styles and interpretations​.
+- Similarly, Stuart Sargent's study on He Zhu's poetry delves into the importance of prosody and form, exploring how these elements reflect broader cultural and political influences in Song Dynasty poetry​.
+
+- Anscombe, G.E.M.: Modern moral philosophy. Philosophy 33(124), 1–19 (1958)Article Google Scholar
+
+- Anscombe, G.E.M.: Modern moral philosophy. Philosophy 33(124), 1–19 (1958)
+
+- Article Google Scholar
+
+- Foot, P.: The problem of abortion and the doctrine of the double effect. Oxford Rev. 5, 5–15 (1967) Google Scholar
+
+- Foot, P.: The problem of abortion and the doctrine of the double effect. Oxford Rev. 5, 5–15 (1967)
+
+- Dworkin, R.: Taking Rights Seriously, p. 234. Duckworth, London (1977) Google Scholar
+
+- Dworkin, R.: Taking Rights Seriously, p. 234. Duckworth, London (1977)
+
+- Murdoch, I.: Metaphysics as a Guide to Morals. Allen Lane, Penguin Press, New York, N.Y., U.S.A. (1993)
+
+- Murdoch, I.: Metaphysics as a Guide to Morals. Allen Lane, Penguin Press, New York, N.Y., U.S.A. (1993)
+
+- Nussbaum, M.C.: Sex & Social Justice, pp. 29–47. Oxford University Press, New York (1999)
+
+- Nussbaum, M.C.: Sex & Social Justice, pp. 29–47. Oxford University Press, New York (1999)
+
+- Bynum, T. W.: Norbert Wiener and the rise of information ethics. In: van den Hoven, J., Weckert, J., (eds) Information Technology and Moral Philosophy. 1. pp. 8–25. Cambridge University Press, Cambridge (2008)
+
+- Bynum, T. W.: Norbert Wiener and the rise of information ethics. In: van den Hoven, J., Weckert, J., (eds) Information Technology and Moral Philosophy. 1. pp. 8–25. Cambridge University Press, Cambridge (2008)
+
+- Stahl, B.C.: Concepts of ethics and their application to AI. Artif. Intell. Better Future (2021). https://doi.org/10.1007/978-3-030-69978-9_3.PMCID:PMC7968613Article Google Scholar
+
+- Stahl, B.C.: Concepts of ethics and their application to AI. Artif. Intell. Better Future (2021). https://doi.org/10.1007/978-3-030-69978-9_3.PMCID:PMC7968613
+
+- Article Google Scholar
+
+- Vallor, S.: Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting. Oxford University Press, New York (2016)Book Google Scholar
+
+- Vallor, S.: Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting. Oxford University Press, New York (2016)
+
+- Génova, G., Moreno, V., Rosario González, M.: Machine ethics: Do Androids dream of being good people? Sci. Eng. Ethics 29(2), 10 (2023). https://doi.org/10.1007/s11948-023-00433-5Article Google Scholar
+
+- Génova, G., Moreno, V., Rosario González, M.: Machine ethics: Do Androids dream of being good people? Sci. Eng. Ethics 29(2), 10 (2023). https://doi.org/10.1007/s11948-023-00433-5
+
+- Article Google Scholar
+
+- Nida-Rümelin, J., Weidenfeld, N.: Digital optimization, utilitarianism, and AI. In: Digital Humanism. Springer, Cham (2022). https://doi.org/10.1007/978-3-031-12482-2_6
+
+- Nida-Rümelin, J., Weidenfeld, N.: Digital optimization, utilitarianism, and AI. In: Digital Humanism. Springer, Cham (2022). https://doi.org/10.1007/978-3-031-12482-2_6
+
+- Brożek, B., Janik, B.: Can artificial intelligences be moral agents? New Ideas Psychol. 54, 101–106 (2019). https://doi.org/10.1016/j.newideapsych.12.002Article Google Scholar
+
+- Brożek, B., Janik, B.: Can artificial intelligences be moral agents? New Ideas Psychol. 54, 101–106 (2019). https://doi.org/10.1016/j.newideapsych.12.002
+
+- Article Google Scholar
+
+- Segun, S.T.: From machine ethics to computational ethics. AI Soc. 36(1), 263–276 (2021). https://doi.org/10.1007/s00146-020-01010-1Article Google Scholar
+
+- Segun, S.T.: From machine ethics to computational ethics. AI Soc. 36(1), 263–276 (2021). https://doi.org/10.1007/s00146-020-01010-1
+
+- Article Google Scholar
+
+- Beck, L.W.: A Commentary on Kant’s Critique of Practical Reason. The University of Chicago Press (1960)
+
+- Beck, L.W.: A Commentary on Kant’s Critique of Practical Reason. The University of Chicago Press (1960)
+
+- Hill, T.E.: Kant’s theory of practical reason. Monist 72(3), 363–383 (1989). https://doi.org/10.5840/monist198972320Article Google Scholar
+
+- Hill, T.E.: Kant’s theory of practical reason. Monist 72(3), 363–383 (1989). https://doi.org/10.5840/monist198972320
+
+- Article Google Scholar
+
+- Hampton, J.: The Authority of Reason. Cambridge University Press, New York (1998). https://doi.org/10.1017/CBO9780511625213Book Google Scholar
+
+- Hampton, J.: The Authority of Reason. Cambridge University Press, New York (1998). https://doi.org/10.1017/CBO9780511625213
+
+- Korsgaard, C.M.: Self-constitution: Action, Identity and Integrity. Oxford University Press (2009). https://doi.org/10.1093/acprof:oso/9780199552795.001.0001Book Google Scholar
+
+- Korsgaard, C.M.: Self-constitution: Action, Identity and Integrity. Oxford University Press (2009). https://doi.org/10.1093/acprof:oso/9780199552795.001.0001
+
+- Schwartz, J.: Do hypothetical imperatives require categorical imperatives? Eur. J. Philos. 18(1), 84–107 (2008). https://doi.org/10.1111/j.1468-0378.2008.00331.xArticle Google Scholar
+
+- Schwartz, J.: Do hypothetical imperatives require categorical imperatives? Eur. J. Philos. 18(1), 84–107 (2008). https://doi.org/10.1111/j.1468-0378.2008.00331.x
+
+- Article Google Scholar
+
+- Lee, W.: Willing the end means willing the means: an overlooked reading of kant. Ergo Open Access J. Philos. 5 (2018)
+
+- Lee, W.: Willing the end means willing the means: an overlooked reading of kant. Ergo Open Access J. Philos. 5 (2018)
+
+- Feldstein, S.: The Rise of Digital Repression. Oxford University Press, Oxford University Press (2021). https://doi.org/10.1093/oso/9780190057497.003.0003Book Google Scholar
+
+- Feldstein, S.: The Rise of Digital Repression. Oxford University Press, Oxford University Press (2021). https://doi.org/10.1093/oso/9780190057497.003.0003
+
+- Sellars, W.: Empiricism and the philosophy of mind. Minn. Stud. Philos. Sci. 1, 253–329 (1956) Google Scholar
+
+- Sellars, W.: Empiricism and the philosophy of mind. Minn. Stud. Philos. Sci. 1, 253–329 (1956)
+
+- Rorty, R.: Philosophy and the Mirror of Nature. Princeton University Press (1979) Google Scholar
+
+- Rorty, R.: Philosophy and the Mirror of Nature. Princeton University Press (1979)
+
+- Kuhn, T.S.: The Structure of Scientific Revolutions. University of Chicago Press, Chicago (1962)
+
+- Kuhn, T.S.: The Structure of Scientific Revolutions. University of Chicago Press, Chicago (1962)
+
+- Kant, I.: Grounding for the Metaphysics of Morals (J. W. Ellington, Trans.), 4, pp. 421. Hackett Publishing. (1993)
+
+- Kant, I.: Grounding for the Metaphysics of Morals (J. W. Ellington, Trans.), 4, pp. 421. Hackett Publishing. (1993)
+
+- Schönecker, D.: Kant’s argument from moral feelings: why practical reason cannot be artificial. In: Kim, H., Schönecker, D. (eds.) Kant and Artificial Intelligence, pp. 169–188. De Gruyter (2022)Chapter Google Scholar
+
+- Schönecker, D.: Kant’s argument from moral feelings: why practical reason cannot be artificial. In: Kim, H., Schönecker, D. (eds.) Kant and Artificial Intelligence, pp. 169–188. De Gruyter (2022)
+
+- Chapter Google Scholar
+
+- Coeckelbergh, M.: AI Ethics. MIT Press (2020)Book Google Scholar
+
+- Coeckelbergh, M.: AI Ethics. MIT Press (2020)
+
+- Laitinen, A., Sahlgren, O.: AI systems and respect for human autonomy. Front. Artif. Intell. (2021). https://doi.org/10.3389/Frai.2021.705164Article Google Scholar
+
+- Laitinen, A., Sahlgren, O.: AI systems and respect for human autonomy. Front. Artif. Intell. (2021). https://doi.org/10.3389/Frai.2021.705164
+
+- Article Google Scholar
+
+- Moor, J.: Four kinds of ethical robots. Philos. Now 72, 12–14 (2009) Google Scholar
+
+- Moor, J.: Four kinds of ethical robots. Philos. Now 72, 12–14 (2009)
+
+- Anthony, K.B.: Aristotle and the Importance of Virtue in The Context of The Politics and The Nicomachean Ethics and Its Relation to Today. Honors Theses. 21 (2010). https://Digitalcommons.Bucknell.EdU/Honors_Theses/21
+
+- Anthony, K.B.: Aristotle and the Importance of Virtue in The Context of The Politics and The Nicomachean Ethics and Its Relation to Today. Honors Theses. 21 (2010). https://Digitalcommons.Bucknell.EdU/Honors_Theses/21
+
+- MacIntyre, A.: After Virtue: A Study in Moral Theory, Third Edition. University of Notre Dame Press (2007)
+
+- MacIntyre, A.: After Virtue: A Study in Moral Theory, Third Edition. University of Notre Dame Press (2007)
+
+- Nussbaum, M.C.: Capabilities as fundamental entitlements: Sen and social justice. Fem. Econ. 9(2–3), 33–59 (2003)Article Google Scholar
+
+- Nussbaum, M.C.: Capabilities as fundamental entitlements: Sen and social justice. Fem. Econ. 9(2–3), 33–59 (2003)
+
+- Article Google Scholar
+
+- Mcdowell, J.: Virtue and reason. Monist 62(3), 331–350 (1979)Article Google Scholar
+
+- Mcdowell, J.: Virtue and reason. Monist 62(3), 331–350 (1979)
+
+- Article Google Scholar
+
+- Vogler, C.: Reasonably Vicious. Harvard University Press (2002)
+
+- Vogler, C.: Reasonably Vicious. Harvard University Press (2002)
+
+- Constantinescu, M., Crisp, R.: Can robotic AI systems be virtuous and why does this matter? Int. J. Soc. Robot. 14(6), 1547–1557 (2022). https://doi.org/10.1007/S12369-022-00887-WArticle Google Scholar
+
+- Constantinescu, M., Crisp, R.: Can robotic AI systems be virtuous and why does this matter? Int. J. Soc. Robot. 14(6), 1547–1557 (2022). https://doi.org/10.1007/S12369-022-00887-W
+
+- Article Google Scholar
+
+- Rawls, J.: A Theory of Justice: Original Edition. Harvard University Press (1971). https://doi.org/10.2307/j.ctvjf9z6v
+
+- Rawls, J.: A Theory of Justice: Original Edition. Harvard University Press (1971). https://doi.org/10.2307/j.ctvjf9z6v
+
+- Stubbs, A.: The pros and cons of consequentialism. Philosophy 56(218), 497–516 (1981)Article Google Scholar
+
+- Stubbs, A.: The pros and cons of consequentialism. Philosophy 56(218), 497–516 (1981)
+
+- Article Google Scholar
+
+- Thoma, J.: Instrumental rationality without separability. Erkenn 85, 1219–1240 (2020). https://doi.org/10.1007/S10670-018-0074-9Article MathSciNet Google Scholar
+
+- Thoma, J.: Instrumental rationality without separability. Erkenn 85, 1219–1240 (2020). https://doi.org/10.1007/S10670-018-0074-9
+
+- Article MathSciNet Google Scholar
+
+- Flathman, R.: Forms and limits of utilitarianism. Ethics 76(4), 309–317 (1966)Article Google Scholar
+
+- Flathman, R.: Forms and limits of utilitarianism. Ethics 76(4), 309–317 (1966)
+
+- Article Google Scholar
+
+- Singer, P.: Famine, affluence, and morality. Philos Public Aff 1(3), 229–243 (1972) Google Scholar
+
+- Singer, P.: Famine, affluence, and morality. Philos Public Aff 1(3), 229–243 (1972)
+
+- Yongjun, Xu., Liu, X., Cao, X.: Artificial intelligence: a powerful paradigm for scientific research. Innovation 2(4), 100179 (2021). https://doi.org/10.1016/J.Xinn.2021.100179Article Google Scholar
+
+- Yongjun, Xu., Liu, X., Cao, X.: Artificial intelligence: a powerful paradigm for scientific research. Innovation 2(4), 100179 (2021). https://doi.org/10.1016/J.Xinn.2021.100179
+
+- Article Google Scholar
+
+- Mitov, A.: Ethical Use of Artificial Intelligence Through the Utilitarianism Perspective (2021)
+
+- Mitov, A.: Ethical Use of Artificial Intelligence Through the Utilitarianism Perspective (2021)
+
+- Singer, P.: Practical Ethics. Cambridge University Press, Cambridge (2011) first chapter
+
+- Singer, P.: Practical Ethics. Cambridge University Press, Cambridge (2011) first chapter
+
+- Bormida, M.D.: The big data world: benefits, threats and ethical challenges.
+- See also O'mathúna, D. (Ed.) Ethical Issues in Covert, Security and Surveillance Research (Advances in Research Ethics and Integrity, Vol. 8), pp. 71–91.
+- Emerald Publishing Limited, Bingley, (2021). https://doi.org/10.1108/S2398-601820210000008007
+
+- Bormida, M.D.: The big data world: benefits, threats and ethical challenges.
+- See also O'mathúna, D. (Ed.) Ethical Issues in Covert, Security and Surveillance Research (Advances in Research Ethics and Integrity, Vol. 8), pp. 71–91.
+- Emerald Publishing Limited, Bingley, (2021). https://doi.org/10.1108/S2398-601820210000008007
+
+- Felzmann, H., Villaronga, E.F., Lutz, C., Tamò-Larrieux, A.: Transparency you can trust: transparency requirements for artificial intelligence between legal norms and contextual concerns. Big Data Soc., 6(1) (2019). https://doi.org/10.1177/2053951719860542
+
+- Felzmann, H., Villaronga, E.F., Lutz, C., Tamò-Larrieux, A.: Transparency you can trust: transparency requirements for artificial intelligence between legal norms and contextual concerns. Big Data Soc., 6(1) (2019). https://doi.org/10.1177/2053951719860542
+
+- Nadkarni, S., Prügl, R.: Digital transformation: a review, synthesis and opportunities for future research. Manag. Rev. Q 71, 233–341 (2021). https://doi.org/10.1007/S11301-020-00185-7Article Google Scholar
+
+- Nadkarni, S., Prügl, R.: Digital transformation: a review, synthesis and opportunities for future research. Manag. Rev. Q 71, 233–341 (2021). https://doi.org/10.1007/S11301-020-00185-7
+
+- Article Google Scholar
+
+- Gluchman, V.: Kant and consequentialism (reflections on Cummiskey’S Kantian Consequentialism). Studia Philosophica Kantiana 7(1), 18–29 (2018) Google Scholar
+
+- Gluchman, V.: Kant and consequentialism (reflections on Cummiskey’S Kantian Consequentialism). Studia Philosophica Kantiana 7(1), 18–29 (2018)
+
+- Kitcher, P.: Kant’s argument for the categorical imperative. Noûs 38(4), 555–584 (2004)Article MathSciNet Google Scholar
+
+- Kitcher, P.: Kant’s argument for the categorical imperative. Noûs 38(4), 555–584 (2004)
+
+- Article MathSciNet Google Scholar
+
+- Lloyd, S.A.: See also Susanne Sreedhar (2022). "Hobbes’S Moral and Political Philosophy", The Stanford Encyclopedia of Philosophy Url = https://plato.stanford.edu/Archives/Fall2022/Entries/Hobbes-Moral/
+
+- Lloyd, S.A.: See also Susanne Sreedhar (2022). "Hobbes’S Moral and Political Philosophy", The Stanford Encyclopedia of Philosophy Url = https://plato.stanford.edu/Archives/Fall2022/Entries/Hobbes-Moral/
+
+- Burrell, J.: How the machine ‘thinks’: understanding opacity in machine learning algorithms. Big Data Soc. 3(1), 205395171562251 (2016)Article Google Scholar
+
+- Burrell, J.: How the machine ‘thinks’: understanding opacity in machine learning algorithms. Big Data Soc. 3(1), 205395171562251 (2016)
+
+- Article Google Scholar
+
+- Zbrzezny, A.M., Grzybowski, A.E.: Deceptive tricks in artificial intelligence: adversarial attacks in ophthalmology. J. Clin. Med.Clin. Med. (2023). https://doi.org/10.3390/jcm12093266Article Google Scholar
+
+- Zbrzezny, A.M., Grzybowski, A.E.: Deceptive tricks in artificial intelligence: adversarial attacks in ophthalmology. J. Clin. Med.Clin. Med. (2023). https://doi.org/10.3390/jcm12093266
+
+- Article Google Scholar
+
+- Schmid, T., Hildesheim, W., Holoyad, T., et al.: The AI methods, capabilities and criticality grid. Künstl. Intell. Intell. 35, 425–440 (2021). https://doi.org/10.1007/S13218-021-00736-4Article Google Scholar
+
+- Schmid, T., Hildesheim, W., Holoyad, T., et al.: The AI methods, capabilities and criticality grid. Künstl. Intell. Intell. 35, 425–440 (2021). https://doi.org/10.1007/S13218-021-00736-4
+
+- Article Google Scholar
+
+- Ryan, M.: In AI we trust: ethics, artificial intelligence, and reliability. Sci. Eng. Ethics 26, 2749–2767 (2020). https://doi.org/10.1007/S11948-020-00228-YArticle Google Scholar
+
+- Ryan, M.: In AI we trust: ethics, artificial intelligence, and reliability. Sci. Eng. Ethics 26, 2749–2767 (2020). https://doi.org/10.1007/S11948-020-00228-Y
+
+- Article Google Scholar
+
+- Rogers, T.J.: A virtue politics for liberal democracy. J. Value Inq. 55(3), 417–435 (2020)Article Google Scholar
+
+- Rogers, T.J.: A virtue politics for liberal democracy. J. Value Inq. 55(3), 417–435 (2020)
+
+- Article Google Scholar
+
+- Bostrom, N.: Superintelligence: Paths, Dangers, Strategies. Oxford University Press, Oxford (2014) Google Scholar
+
+- Bostrom, N.: Superintelligence: Paths, Dangers, Strategies. Oxford University Press, Oxford (2014)
+
+- Kurzweil, R.: The Singularity is Near: When Humans Transcend Biology. Viking, New York (2005) Google Scholar
+
+- Kurzweil, R.: The Singularity is Near: When Humans Transcend Biology. Viking, New York (2005)
+
+- Searle, J.R.: Speech Acts: An Essay in the Philosophy of Language. Cambridge University Press, Cambridge, England (1969)Book Google Scholar
+
+- Searle, J.R.: Speech Acts: An Essay in the Philosophy of Language. Cambridge University Press, Cambridge, England (1969)
+
+- Heidegger, M.: Being and Time. Translated by John Macquarrie and Edward Robinson. Harper & Row, New York (1962)
+
+- Heidegger, M.: Being and Time. Translated by John Macquarrie and Edward Robinson. Harper & Row, New York (1962)
+
+- Nietzsche, F.: Thus Spoke Zarathustra: A Book for All and None. Translated by Walter Kaufmann. Modern Library, New York (1995)
+
+- Nietzsche, F.: Thus Spoke Zarathustra: A Book for All and None. Translated by Walter Kaufmann. Modern Library, New York (1995)
+
+- Stinson, C.: Algorithms are not neutral. AI Ethics 2, 763–770 (2022). https://doi.org/10.1007/S43681-022-00136-WArticle Google Scholar
+
+- Stinson, C.: Algorithms are not neutral. AI Ethics 2, 763–770 (2022). https://doi.org/10.1007/S43681-022-00136-W
+
+- Article Google Scholar
+
+- Marcuse, H.: One-dimensional Man: Studies in the Ideology of Advanced Industrial Society. Beacon Press, Boston (1964) Google Scholar
+
+- Marcuse, H.: One-dimensional Man: Studies in the Ideology of Advanced Industrial Society. Beacon Press, Boston (1964)
+
+- Althusser, L.: For Marx. Translated by Ben Brewster. Verso, London (1969)
+
+- Althusser, L.: For Marx. Translated by Ben Brewster. Verso, London (1969)
+
+- Gramsci, A.: Selections from the Prison Notebooks. Edited and translated by Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers (1971)
+
+- Gramsci, A.: Selections from the Prison Notebooks. Edited and translated by Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers (1971)
+
+- Marcuse, H. 1898–1979. One Dimensional Man; Studies in the Ideology of Advanced Industrial Society. Beacon Press, Boston (1964)
+
+- Marcuse, H. 1898–1979. One Dimensional Man; Studies in the Ideology of Advanced Industrial Society. Beacon Press, Boston (1964)
+
+- Said, E.: Culture and Imperialism. Knopf, New York (1993) Google Scholar
+
+- Said, E.: Culture and Imperialism. Knopf, New York (1993)
+
+- Judith, B.: Excitable Speech: A Politics of the Performative. Routledge, (1997)
+
+- Judith, B.: Excitable Speech: A Politics of the Performative. Routledge, (1997)
+
+- Zerzan, J.: Elements of Refusal. C.A.L. Press, Columbia, MO (1988) Google Scholar
+
+- Zerzan, J.: Elements of Refusal. C.A.L. Press, Columbia, MO (1988)
+
+- Savater, F.: El contenido de la felicidad. Aguilar, Madrid (1996) Google Scholar
+
+- Savater, F.: El contenido de la felicidad. Aguilar, Madrid (1996)
+
+- Floridi, L.: The Ethics of Information. Oxford University Press, Oxford (2013)Book Google Scholar
+
+- Floridi, L.: The Ethics of Information. Oxford University Press, Oxford (2013)
+
+- Leonelli, S.: Data-Centric Biology: A Philosophical Study. University of Chicago Press, Chicago (2016)Book Google Scholar
+
+- Leonelli, S.: Data-Centric Biology: A Philosophical Study. University of Chicago Press, Chicago (2016)
+
+- Pennisi, S.: The Integrated Circuit Industry at A Crossroads: Threats and Opportunities. Chips, pp. 150–171 (2022). https://doi.org/10.3390/Chips1030010
+
+- Pennisi, S.: The Integrated Circuit Industry at A Crossroads: Threats and Opportunities. Chips, pp. 150–171 (2022). https://doi.org/10.3390/Chips1030010
+
+- Namara, M., Wilkinson, D., Lowens, B., Knijnenburg, B., Orji, R., Remy, S. Cross-Cultural Perspectives on Ehealth Privacy in Africa. pp. 1–11 (2018). https://doi.org/10.1145/3283458.3283472
+
+- Namara, M., Wilkinson, D., Lowens, B., Knijnenburg, B., Orji, R., Remy, S. Cross-Cultural Perspectives on Ehealth Privacy in Africa. pp. 1–11 (2018). https://doi.org/10.1145/3283458.3283472
+
+- Nietzsche, F.: On the genealogy of morals. Translated by Walter Kaufmann and R.J. Hollingdale. Vintage, New York (1989)
+
+- Nietzsche, F.: On the genealogy of morals. Translated by Walter Kaufmann and R.J. Hollingdale. Vintage, New York (1989)
+
+- Lyotard, J.F.: The Postmodern Condition: A Report on Knowledge. Translated by Geoff Bennington and Brian Massumi. University of Minnesota Press, Minneapolis (1984)
+
+- Lyotard, J.F.: The Postmodern Condition: A Report on Knowledge. Translated by Geoff Bennington and Brian Massumi. University of Minnesota Press, Minneapolis (1984)
+
+- Foucault, M.: Discipline and Punish: The Birth of the Prison. Translated by Alan Sheridan. Pantheon Books New York (1977)
+
+- Foucault, M.: Discipline and Punish: The Birth of the Prison. Translated by Alan Sheridan. Pantheon Books New York (1977)
+
+- Asghar, I., Oa, E., Griffiths, M.: An overview of the digital solutions for helping people with Aphasia through bibliometric analysis. Eneurologicalsci (2021). https://doi.org/10.1016/J.Ensci.2021.100311Article Google Scholar
+
+- Asghar, I., Oa, E., Griffiths, M.: An overview of the digital solutions for helping people with Aphasia through bibliometric analysis. Eneurologicalsci (2021). https://doi.org/10.1016/J.Ensci.2021.100311
+
+- Article Google Scholar
+
+- Richardson, J.T., Introvigne, M.: ‘Brainwashing’ theories in european parliamentary and administrative reports on ‘cults’ and ‘sects.’ J. Sci. Study Relig.Relig. 40(2), 143–168 (2001)Article Google Scholar
+
+- Richardson, J.T., Introvigne, M.: ‘Brainwashing’ theories in european parliamentary and administrative reports on ‘cults’ and ‘sects.’ J. Sci. Study Relig.Relig. 40(2), 143–168 (2001)
+
+- Article Google Scholar
+
+- Shtulman, A., Tong, L.: Cognitive parallels between moral judgment and modal judgment. Psychon. Bull. Rev.. Bull. Rev. 20, 1327–1335 (2013). https://doi.org/10.3758/S13423-013-0429-9Article Google Scholar
+
+- Shtulman, A., Tong, L.: Cognitive parallels between moral judgment and modal judgment. Psychon. Bull. Rev.. Bull. Rev. 20, 1327–1335 (2013). https://doi.org/10.3758/S13423-013-0429-9
+
+- Article Google Scholar
+
+- Church, J.: The political cultivation of moral character: kant on public moral feeling as a precondition for right. Polity 45(1), 56–81 (2013)Article Google Scholar
+
+- Church, J.: The political cultivation of moral character: kant on public moral feeling as a precondition for right. Polity 45(1), 56–81 (2013)
+
+- Article Google Scholar
+
+- Otten, K.: Human competition is not lower if competing is socially wasteful instead, of socially beneficial. Sci. Rep. 12, 10740 (2022). https://doi.org/10.1038/S41598-022-14891-7Article Google Scholar
+
+- Otten, K.: Human competition is not lower if competing is socially wasteful instead, of socially beneficial. Sci. Rep. 12, 10740 (2022). https://doi.org/10.1038/S41598-022-14891-7
+
+- Article Google Scholar
+
+- Lewis, Rd.: When Cultures Collide: Leading Across Cultures, 3rd edn. Nicholas Brealey, Boston (2006) Google Scholar
+
+- Lewis, Rd.: When Cultures Collide: Leading Across Cultures, 3rd edn. Nicholas Brealey, Boston (2006)
+
+- Mills, C.J., Tracey, D., Kiddle, R., et al.: Evaluating a virtual reality sensory room for adults with disabilities. Sci. Rep. 13, 495 (2023). https://doi.org/10.1038/S41598-022-26100-6Article Google Scholar
+
+- Mills, C.J., Tracey, D., Kiddle, R., et al.: Evaluating a virtual reality sensory room for adults with disabilities. Sci. Rep. 13, 495 (2023). https://doi.org/10.1038/S41598-022-26100-6
+
+- Article Google Scholar
+
+- Baudrillard, J.: Requiem for the Media. For a Critique of the Political Economy of the Sign. pp. 164–184. Telos Press Publishing, New York (1981)
+
+- Baudrillard, J.: Requiem for the Media. For a Critique of the Political Economy of the Sign. pp. 164–184. Telos Press Publishing, New York (1981)
+
+- Selinger, E.: Big Data in Small Hands (September 3, 2013). 66 Stanford Law Review Online 81, (2013). https://ssrn.com/abstract=2320739
+
+- Selinger, E.: Big Data in Small Hands (September 3, 2013). 66 Stanford Law Review Online 81, (2013). https://ssrn.com/abstract=2320739
+
+- Philip, D.: “Vulnerability and Poverty: What are the Causes and How Are They Related?” (2006)
+
+- Philip, D.: “Vulnerability and Poverty: What are the Causes and How Are They Related?” (2006)
+
+- Grisez, G., Principles, P., Truth, M.: And ultimate ends. Am. J. Jurisprud.Jurisprud. 32(1), 99–151 (1987). https://doi.org/10.1093/Ajj/32.1.99Article Google Scholar
+
+- Grisez, G., Principles, P., Truth, M.: And ultimate ends. Am. J. Jurisprud.Jurisprud. 32(1), 99–151 (1987). https://doi.org/10.1093/Ajj/32.1.99
+
+- Article Google Scholar
+
+- Krügel, S., Ostermaier, A.: Chatgpt’s Inconsistent Moral Advice Influences Users’ Judgment (2023). https://doi.org/10.1038/S41598-023-31341-0
+
+- Krügel, S., Ostermaier, A.: Chatgpt’s Inconsistent Moral Advice Influences Users’ Judgment (2023). https://doi.org/10.1038/S41598-023-31341-0
+
+- Dreyfus, H.L., Dreyfus, S.E., Athanasiou, T.: Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer. Free Press (1986) Google Scholar
+
+- Dreyfus, H.L., Dreyfus, S.E., Athanasiou, T.: Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer. Free Press (1986)
+
+- Obata, S.: Utility and religion. Revue D’Études Benthamiennes 16 (2019)
+
+- Obata, S.: Utility and religion. Revue D’Études Benthamiennes 16 (2019)
+
+- Reitemeier, F.: Strangers, Migrants, Exiles: Negotiating Identity in Literature. Göttingen University Press (2012). https://doi.org/10.17875/gup2012-433
+
+- Reitemeier, F.: Strangers, Migrants, Exiles: Negotiating Identity in Literature. Göttingen University Press (2012). https://doi.org/10.17875/gup2012-433
+
+- Rawls, J.: Political Liberalism. Columbia University Press (1993) Google Scholar
+
+- Rawls, J.: Political Liberalism. Columbia University Press (1993)
+
+- Bostrom, N.: Superintelligence: Paths, Dangers, Strategies (2014)
+
+- Bostrom, N.: Superintelligence: Paths, Dangers, Strategies (2014)
+
+- Cioffi, R., Travaglioni, M.: Artificial intelligence and machine learning applications in smart production: progress, trends, and directions. Sustainability 12, 492 (2020). https://doi.org/10.3390/Su12020492Article Google Scholar
+
+- Cioffi, R., Travaglioni, M.: Artificial intelligence and machine learning applications in smart production: progress, trends, and directions. Sustainability 12, 492 (2020). https://doi.org/10.3390/Su12020492
+
+- Article Google Scholar
+
+- Liu, X.: Emphasizing the balance between poetic form and thematic expression in tang dynasty literature. In Zhang Wei (ed.) Studies on Chinese Literature, pp. 45–68. Beijing University Press (2010)
+
+- Liu, X.: Emphasizing the balance between poetic form and thematic expression in tang dynasty literature. In Zhang Wei (ed.) Studies on Chinese Literature, pp. 45–68. Beijing University Press (2010)
+
+- Sargent, S.: The importance of prosody and form in He Zhu's poetry. In: Li, M. (ed.) Modern Studies on Song Dynasty Poetry, pp. 112–135. Shanghai Academic Press (2015)
+
+- Sargent, S.: The importance of prosody and form in He Zhu's poetry. In: Li, M. (ed.) Modern Studies on Song Dynasty Poetry, pp. 112–135. Shanghai Academic Press (2015)
+
+- Karwowski, M., Kaufman, J.: The Creative Self: Effect Of Beliefs, Self-Efficacy, Mindset, and Identity (2017). https://doi.org/10.1016/C2015-0-07011-3
+
+- Karwowski, M., Kaufman, J.: The Creative Self: Effect Of Beliefs, Self-Efficacy, Mindset, and Identity (2017). https://doi.org/10.1016/C2015-0-07011-3
+
+- Ihde, D.: Technics and Praxis. D. Reidel Publishing Company, Dordrecht, Holland (1979) Google Scholar
+
+- Ihde, D.: Technics and Praxis. D. Reidel Publishing Company, Dordrecht, Holland (1979)
+
+- Calhoun, C.: Morality, identity, and historical explanation: Charles Taylor on the sources of the self. Soc. Theory 9(2), 232–263 (1991). https://doi.org/10.2307/202087Article Google Scholar
+
+- Calhoun, C.: Morality, identity, and historical explanation: Charles Taylor on the sources of the self. Soc. Theory 9(2), 232–263 (1991). https://doi.org/10.2307/202087
+
+- Article Google Scholar
+
+- Adorno, T.: Dialectic of enlightenment. Verso Books. Chicago. Adorno, Theodor Dialectic of Enlightenment. Verso Books, London, England (2016)
+
+- Adorno, T.: Dialectic of enlightenment. Verso Books. Chicago. Adorno, Theodor Dialectic of Enlightenment. Verso Books, London, England (2016)
+
+- Bodén, L., Lenz Taguchi, H., Moberg, E., Taylor, C.: Relational Materialism. Oxford Research Encyclopedia of Education (2019)
+
+- Bodén, L., Lenz Taguchi, H., Moberg, E., Taylor, C.: Relational Materialism. Oxford Research Encyclopedia of Education (2019)
+
+- Batson, C.D., Shaw, L.L.: Evidence for altruism: Toward a pluralism of prosocial motives. Psychol. Inq. 2(2), 107–122 (1991)Article Google Scholar
+
+- Batson, C.D., Shaw, L.L.: Evidence for altruism: Toward a pluralism of prosocial motives. Psychol. Inq. 2(2), 107–122 (1991)
+
+- Article Google Scholar
+
+- Nguyen, B., Crossan, M.: Character-infused ethical decision making. J. Bus. Ethics 178, 171–191 (2022). https://doi.org/10.1007/S10551-021-04790-8Article Google Scholar
+
+- Nguyen, B., Crossan, M.: Character-infused ethical decision making. J. Bus. Ethics 178, 171–191 (2022). https://doi.org/10.1007/S10551-021-04790-8
+
+- Article Google Scholar
+
+- Esmaeilzadeh, P., Mirzaei, T., Dharanikota, S.: Patients’ perceptions toward human-artificial intelligence interaction in health care: experimental study. J. Med. Internet Res. 23(11), E25856 (2021). https://doi.org/10.2196/25856Article Google Scholar
+
+- Esmaeilzadeh, P., Mirzaei, T., Dharanikota, S.: Patients’ perceptions toward human-artificial intelligence interaction in health care: experimental study. J. Med. Internet Res. 23(11), E25856 (2021). https://doi.org/10.2196/25856
+
+- Article Google Scholar
+
+- Authors and Affiliations
+
+- School of Marxism, Henan Polytechnic University, Jiaozuo, ChinaYuhang Guo
+
+- School of Marxism, Henan Polytechnic University, Jiaozuo, China
+
+- Department of Applied Social Sciences, Dortmund University of Applied Sciences and Arts, Dortmund, GermanyMichael Kühler
+
+- Department of Applied Social Sciences, Dortmund University of Applied Sciences and Arts, Dortmund, Germany
+
+- Yuhang GuoView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Michael KühlerView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Correspondence to Yuhang Guo.
+
+- Additional information
+
+- Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+- Rights and permissions
+
+- Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+- Reprints and permissions
+
+- Guo, Y., Kühler, M. History, AI and utilitarianism. AI Ethics 5, 2903–2917 (2025). https://doi.org/10.1007/s43681-024-00581-9
+
+- Received: 13 March 2024
+
+- Received: 13 March 2024
+
+- Accepted: 13 September 2024
+
+- Accepted: 13 September 2024
+
+- Published: 30 October 2024
+
+- Published: 30 October 2024
+
+- Version of record: 30 October 2024
+
+- Version of record: 30 October 2024
+
+- Issue date: June 2025
+
+- Issue date: June 2025
+
+- DOI: https://doi.org/10.1007/s43681-024-00581-9
+
+- DOI: https://doi.org/10.1007/s43681-024-00581-9
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Responsibility theory
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Price includes VAT (New Zealand)
+
+- Instant access to the full article PDF.
+
+- Institutional subscriptions
+
+- Publish your research
+
+- Open access publishing
+
+- Products and services
+
+- Partners and advertisers
+
+- Your privacy choices/Manage cookies
+
+- Your US state privacy rights
+
+- Accessibility statement
+
+- Cancel contracts here
