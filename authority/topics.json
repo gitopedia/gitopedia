@@ -348,5 +348,90 @@
     "id": "topic:world-history",
     "label": "World History",
     "aliases": []
+  },
+  {
+    "id": "topic:existentialism",
+    "label": "Existentialism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethics",
+    "label": "Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemology",
+    "label": "Epistemology",
+    "aliases": []
+  },
+  {
+    "id": "topic:metaphysics",
+    "label": "Metaphysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:aesthetics",
+    "label": "Aesthetics",
+    "aliases": []
+  },
+  {
+    "id": "topic:philosophical-theories",
+    "label": "Philosophical Theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:historical-context",
+    "label": "Historical Context",
+    "aliases": []
+  },
+  {
+    "id": "topic:modern-applications",
+    "label": "Modern Applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:utilitarianism",
+    "label": "Utilitarianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:deontology",
+    "label": "Deontology",
+    "aliases": []
+  },
+  {
+    "id": "topic:virtue-ethics",
+    "label": "Virtue Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:analytic-philosophy",
+    "label": "Analytic Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-ethics",
+    "label": "Environmental Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-ethics",
+    "label": "AI Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:moral-relativism",
+    "label": "Moral Relativism",
+    "aliases": []
+  },
+  {
+    "id": "topic:free-will-vs.-determinism",
+    "label": "Free Will vs. Determinism",
+    "aliases": []
+  },
+  {
+    "id": "topic:philosophy",
+    "label": "Philosophy",
+    "aliases": []
   }
 ]
