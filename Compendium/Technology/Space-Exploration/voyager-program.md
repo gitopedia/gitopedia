@@ -8,11 +8,10 @@ model: "qwen3:14b"
 summary: ""
 ---
 
-```yaml
 title: "The Voyager Mission: Pioneering 'Big Science' through Technological Innovation"
 summary: "The Voyager spacecraft represent a landmark achievement in 'Big Science,' combining unprecedented technological innovation with international collaboration to explore the outer solar system and beyond. Launched in 1977, the twin probes have provided invaluable insights into planetary science, interstellar space, and humanity's place in the cosmos."
 tags: ["Space Exploration", "Technology", "Big Science"]
-```
+
 
 # The Voyager Mission: Pioneering 'Big Science' through Technological Innovation
 
