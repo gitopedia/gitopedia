@@ -93,5 +93,25 @@
     "id": "place:m87-(galaxy)",
     "label": "M87 (galaxy)",
     "aliases": []
+  },
+  {
+    "id": "place:jupiter",
+    "label": "Jupiter",
+    "aliases": []
+  },
+  {
+    "id": "place:saturn",
+    "label": "Saturn",
+    "aliases": []
+  },
+  {
+    "id": "place:uranus",
+    "label": "Uranus",
+    "aliases": []
+  },
+  {
+    "id": "place:neptune",
+    "label": "Neptune",
+    "aliases": []
   }
 ]
