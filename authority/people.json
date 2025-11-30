@@ -343,5 +343,70 @@
     "id": "person:lee-smolin",
     "label": "Lee Smolin",
     "aliases": []
+  },
+  {
+    "id": "person:sharl-solorzano",
+    "label": "Sharl Solorzano",
+    "aliases": []
+  },
+  {
+    "id": "person:giustino,-f.",
+    "label": "Giustino, F.",
+    "aliases": []
+  },
+  {
+    "id": "person:snaith,-h.-j.",
+    "label": "Snaith, H. J.",
+    "aliases": []
+  },
+  {
+    "id": "person:liu,-y.",
+    "label": "Liu, Y.",
+    "aliases": []
+  },
+  {
+    "id": "person:ning,-y.",
+    "label": "Ning, Y.",
+    "aliases": []
+  },
+  {
+    "id": "person:wang,-f.",
+    "label": "Wang, F.",
+    "aliases": []
+  },
+  {
+    "id": "person:kim,-h.-s.",
+    "label": "Kim, H. S.",
+    "aliases": []
+  },
+  {
+    "id": "person:green,-m.-a.",
+    "label": "Green, M. A.",
+    "aliases": []
+  },
+  {
+    "id": "person:kim,-j.-y.",
+    "label": "Kim, J. Y.",
+    "aliases": []
+  },
+  {
+    "id": "person:stranks,-s.-d.",
+    "label": "Stranks, S. D.",
+    "aliases": []
+  },
+  {
+    "id": "person:niu,-g.",
+    "label": "Niu, G.",
+    "aliases": []
+  },
+  {
+    "id": "person:saliba,-m.",
+    "label": "Saliba, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:kim,-j.-h.",
+    "label": "Kim, J. H.",
+    "aliases": []
   }
 ]
