@@ -148,9 +148,9 @@ The Researcher uses the authenticated `gh` session to:
 echo "$GH_TOKEN" | gh auth login --with-token
 ```
 
-### Encyclopaedist Integration
+### Article Organization
 
-The Researcher uses a non-blocking workflow:
+After creating a Draft PR, the Researcher automatically organizes articles:
 
 1. **Before starting research:**
    - Check all open PRs for any that are ready to merge
@@ -162,20 +162,17 @@ The Researcher uses a non-blocking workflow:
    
 3. **After completing research:**
    - Create Draft PR with articles in `_incoming/`
-   - **Invoke the Encyclopaedist** by posting a `@copilot` comment
+   - **Organize articles using LLM-based categorization:**
+     - Read each article from `_incoming/`
+     - Use LLM to determine appropriate `Compendium/<Category>/` path based on tags and content
+     - Move files to their proper locations
+     - Validate front matter (ULID, title, slug, tags)
+     - Delete any `_debug/` directories
+     - Mark PR as ready for review
    - Check again for ready PRs and merge them
-   - **Continue immediately** - does not wait for the new PR
+   - Continue to next task
 
-The Encyclopaedist agent (triggered asynchronously) handles:
-- Moving articles from `_incoming/` to proper `Compendium/<Category>/` paths
-- Validating front matter (ULID, title, slug, tags)
-- Flagging authority reference issues
-- Removing debug artifacts
-- Marking the PR ready for review
-
-On the next Researcher run, the now-ready PR will be merged automatically.
-
-See [../agents/README.md](../agents/README.md) for full agent documentation.
+The organization happens inline during the research run - no external agent or manual intervention required.
 
 ## Future Improvements
 

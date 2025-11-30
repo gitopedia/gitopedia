@@ -230,16 +230,16 @@ This enables querying relationships like "organizations founded by X" or "people
 
 All new articles in Gitopedia are created exclusively by the Researcher agent. Humans do not submit articles directly; content is generated automatically by the AI agent.
 
-### Staging via `_incoming/` and Copilot Organizer
+### Staging via `_incoming/` and Automated Organization
 
-New or updated articles are first staged by the Researcher agent into a branch-local `_incoming/` directory at the root of the branch. The Researcher also stages summarized source materials under `_incoming/sources/`. The Researcher then opens a Draft Pull Request and triggers a Custom Copilot Agent ([Encyclopaedist](../agents/README.md)) that:
+New or updated articles are first staged by the Researcher agent into a branch-local `_incoming/` directory at the root of the branch. The Researcher also stages summarized source materials under `_incoming/sources/`. After creating a Draft Pull Request, the Researcher automatically organizes the articles:
 
-- Analyzes the `_incoming/` contents (articles only, not sources)
-- Refactors and moves articles into the appropriate `Compendium/` category paths
-- Flags any authority entries that need review (does not create them automatically)
-- Ensures front matter (ULID, title, slug, tags) is valid and consistent
+- Uses LLM-based categorization to determine appropriate `Compendium/<Category>/` paths
+- Moves articles from `_incoming/` into the appropriate `Compendium/` category paths
+- Validates front matter (ULID, title, slug, tags) is complete and consistent
+- Deletes any `_debug/` directories
 - **Leaves `_incoming/sources/` untouched** – these are temporary staging for the Knowledgebase
-- Pushes commits back to the PR branch and transitions the PR from Draft when complete
+- Marks the PR as ready for review when organization is complete
 
 **Source materials flow:** After the PR merges, the Knowledgebase indexer ingests sources from `_incoming/sources/` into its SQLite database, then deletes them from gitopedia. This keeps the repository focused on articles while making sources searchable via the Knowledgebase.
 
@@ -249,7 +249,7 @@ This ensures all organization and compliance is fully automated before merge.
 
 The Researcher agent adds or updates articles through pull requests. The agent submits a Draft PR that contains new or updated Markdown files staged under `_incoming/`. Each PR should ideally contain one article addition/update at a time, including:
 
-- The article Markdown file(s) staged under `_incoming/` (the Copilot Organizer will relocate them into the appropriate `Compendium/` subdirectories).
+- The article Markdown file(s) staged under `_incoming/` (automatically relocated to appropriate `Compendium/` subdirectories).
 - Updates to authority lists if new entities are introduced.
 - (Optional) an update to `index.md` (the table of contents) – if not, an automated process will update it.
 
