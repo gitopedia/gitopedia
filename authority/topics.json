@@ -415,6 +415,91 @@
     "aliases": []
   },
   {
+    "id": "topic:general-relativity",
+    "label": "General Relativity",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-holes",
+    "label": "Black holes",
+    "aliases": []
+  },
+  {
+    "id": "topic:gravitational-waves",
+    "label": "Gravitational waves",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacetime-curvature",
+    "label": "Spacetime curvature",
+    "aliases": []
+  },
+  {
+    "id": "topic:gps-systems",
+    "label": "GPS systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:gravitational-lensing",
+    "label": "Gravitational lensing",
+    "aliases": []
+  },
+  {
+    "id": "topic:time-dilation",
+    "label": "Time dilation",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-formation",
+    "label": "Galaxy formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmology",
+    "label": "Cosmology",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrophysics",
+    "label": "Astrophysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:special-relativity",
+    "label": "Special Relativity",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-gravity",
+    "label": "quantum gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:dark-energy",
+    "label": "dark energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:dark-matter",
+    "label": "dark matter",
+    "aliases": []
+  },
+  {
+    "id": "topic:big-bang",
+    "label": "Big Bang",
+    "aliases": []
+  },
+  {
+    "id": "topic:event-horizon",
+    "label": "event horizon",
+    "aliases": []
+  },
+  {
+    "id": "topic:physics",
+    "label": "Physics",
+    "aliases": []
+  },
+  {
     "id": "topic:existentialism",
     "label": "Existentialism",
     "aliases": []
