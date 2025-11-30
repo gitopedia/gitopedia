@@ -245,6 +245,76 @@
     "aliases": []
   },
   {
+    "id": "person:albert-einstein",
+    "label": "Albert Einstein",
+    "aliases": []
+  },
+  {
+    "id": "person:tamqrah-hom-(author)",
+    "label": "Tamqrah Hom (author)",
+    "aliases": []
+  },
+  {
+    "id": "person:jessica-corbett-(reviewer)",
+    "label": "Jessica Corbett (reviewer)",
+    "aliases": []
+  },
+  {
+    "id": "person:arthur-eddington-(astronomer)",
+    "label": "Arthur Eddington (astronomer)",
+    "aliases": []
+  },
+  {
+    "id": "person:joseph-taylor-(physicist)",
+    "label": "Joseph Taylor (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:russell-hulse-(physicist)",
+    "label": "Russell Hulse (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:marcel-grossmann-(mathematician)",
+    "label": "Marcel Grossmann (mathematician)",
+    "aliases": []
+  },
+  {
+    "id": "person:david-hilbert",
+    "label": "David Hilbert",
+    "aliases": []
+  },
+  {
+    "id": "person:emmy-noether",
+    "label": "Emmy Noether",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-friedmann",
+    "label": "Alexander Friedmann",
+    "aliases": []
+  },
+  {
+    "id": "person:georges-lemaître",
+    "label": "Georges Lemaître",
+    "aliases": []
+  },
+  {
+    "id": "person:edwin-hubble",
+    "label": "Edwin Hubble",
+    "aliases": []
+  },
+  {
+    "id": "person:subrahmanyan-chandrasekhar",
+    "label": "Subrahmanyan Chandrasekhar",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-schwarzschild",
+    "label": "Karl Schwarzschild",
+    "aliases": []
+  },
+  {
     "id": "person:rené-descartes",
     "label": "René Descartes",
     "aliases": []
