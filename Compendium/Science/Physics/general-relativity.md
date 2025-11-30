@@ -9,11 +9,10 @@ places: ["place:m87-(galaxy)"]
 summary: ""
 ---
 
-```yaml
 title: General Relativity: The Theory That Shaped Modern Physics
 summary: General Relativity, Albert Einstein's revolutionary theory of gravitation, redefined our understanding of space, time, and the universe. This article explores its origins, core principles, applications, and ongoing impact on physics and cosmology.
 tags: ["Physics", "Astronomy", "Theoretical Physics", "Albert Einstein"]
-```
+
 
 # General Relativity: The Theory That Shaped Modern Physics
 
