@@ -11,7 +11,6 @@ model: "qwen3:32b"
 summary: ""
 ---
 
-```yaml
 ---
 title: "Development Economics: Principles, Evolution, and Modern Challenges"
 summary: "Development Economics examines the mechanisms of economic growth and poverty reduction, shaping policies for developing nations. From classical theories to modern challenges like climate change and automation, this field has evolved to address complex global dynamics. This article explores its historical roots, core concepts, real-world applications, and future directions."
@@ -79,7 +78,7 @@ Development Economics remains a dynamic field, evolving to address the complexit
 
 [^1]: Contextual material from the detailed article on Development Economics.  
 [^2]: Data and examples from the Worldatlas article.  
-```
+
 
 ## References
 
