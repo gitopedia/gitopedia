@@ -88,5 +88,10 @@
     "id": "place:rhine-river",
     "label": "Rhine River",
     "aliases": []
+  },
+  {
+    "id": "place:m87-(galaxy)",
+    "label": "M87 (galaxy)",
+    "aliases": []
   }
 ]
