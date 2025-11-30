@@ -218,5 +218,135 @@
     "id": "topic:economics",
     "label": "Economics",
     "aliases": []
+  },
+  {
+    "id": "topic:fall-of-the-roman-empire",
+    "label": "Fall of the Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:migration-period",
+    "label": "Migration Period",
+    "aliases": []
+  },
+  {
+    "id": "topic:battle-of-adrianople",
+    "label": "Battle of Adrianople",
+    "aliases": []
+  },
+  {
+    "id": "topic:sack-of-rome",
+    "label": "Sack of Rome",
+    "aliases": []
+  },
+  {
+    "id": "topic:crossing-of-the-rhine-(405/6-ad)",
+    "label": "Crossing of the Rhine (405/6 AD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:439-ad-vandal-capture-of-carthage",
+    "label": "439 AD Vandal Capture of Carthage",
+    "aliases": []
+  },
+  {
+    "id": "topic:year-of-the-four-emperors",
+    "label": "Year of the Four Emperors",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-fall-of-the-roman-empire",
+    "label": "The Fall of the Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:punic-wars",
+    "label": "Punic Wars",
+    "aliases": []
+  },
+  {
+    "id": "topic:crisis-of-the-third-century",
+    "label": "Crisis of the Third Century",
+    "aliases": []
+  },
+  {
+    "id": "topic:division-of-the-empire-into-eastern-and-western",
+    "label": "Division of the Empire into Eastern and Western",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-strain",
+    "label": "Economic Strain",
+    "aliases": []
+  },
+  {
+    "id": "topic:cultural-integration",
+    "label": "Cultural Integration",
+    "aliases": []
+  },
+  {
+    "id": "topic:role-of-christianity",
+    "label": "Role of Christianity",
+    "aliases": []
+  },
+  {
+    "id": "topic:legacy-of-the-roman-empire",
+    "label": "Legacy of the Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:pax-romana",
+    "label": "Pax Romana",
+    "aliases": []
+  },
+  {
+    "id": "topic:corpus-juris-civilis",
+    "label": "Corpus Juris Civilis",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-decline-and-fall-of-the-roman-empire",
+    "label": "The Decline and Fall of the Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:roman-empire",
+    "label": "Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:goths",
+    "label": "Goths",
+    "aliases": []
+  },
+  {
+    "id": "topic:decline-of-the-roman-empire",
+    "label": "Decline of the Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:third-century-crisis",
+    "label": "Third-Century Crisis",
+    "aliases": []
+  },
+  {
+    "id": "topic:tetrarchy",
+    "label": "Tetrarchy",
+    "aliases": []
+  },
+  {
+    "id": "topic:historiography-of-the-roman-empire",
+    "label": "Historiography of the Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:fall-of-the-western-roman-empire",
+    "label": "Fall of the Western Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:world-history",
+    "label": "World History",
+    "aliases": []
   }
 ]

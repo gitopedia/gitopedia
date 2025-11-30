@@ -73,5 +73,170 @@
     "id": "person:amos-tversky",
     "label": "Amos Tversky",
     "aliases": []
+  },
+  {
+    "id": "person:romulus-augustulus-(western-roman-emperor)",
+    "label": "Romulus Augustulus (Western Roman Emperor)",
+    "aliases": []
+  },
+  {
+    "id": "person:odoacer-(first-king-of-italy)",
+    "label": "Odoacer (first King of Italy)",
+    "aliases": []
+  },
+  {
+    "id": "person:emperor-valens",
+    "label": "Emperor Valens",
+    "aliases": []
+  },
+  {
+    "id": "person:alaric-(visigothic-leader)",
+    "label": "Alaric (Visigothic leader)",
+    "aliases": []
+  },
+  {
+    "id": "person:libius-severus",
+    "label": "Libius Severus",
+    "aliases": []
+  },
+  {
+    "id": "person:julius-nepos-(western-roman-emperor)",
+    "label": "Julius Nepos (Western Roman Emperor)",
+    "aliases": []
+  },
+  {
+    "id": "person:charlemagne-(holy-roman-emperor)",
+    "label": "Charlemagne (Holy Roman Emperor)",
+    "aliases": []
+  },
+  {
+    "id": "person:st-augustine-(african-roman)",
+    "label": "St Augustine (African Roman)",
+    "aliases": []
+  },
+  {
+    "id": "person:leo-i-(eastern-roman-emperor)",
+    "label": "Leo I (Eastern Roman Emperor)",
+    "aliases": []
+  },
+  {
+    "id": "person:pope-leo-iii",
+    "label": "Pope Leo III",
+    "aliases": []
+  },
+  {
+    "id": "person:julius-caesar",
+    "label": "Julius Caesar",
+    "aliases": []
+  },
+  {
+    "id": "person:pompey",
+    "label": "Pompey",
+    "aliases": []
+  },
+  {
+    "id": "person:scipio-africanus",
+    "label": "Scipio Africanus",
+    "aliases": []
+  },
+  {
+    "id": "person:augustus",
+    "label": "Augustus",
+    "aliases": []
+  },
+  {
+    "id": "person:marcus-aurelius",
+    "label": "Marcus Aurelius",
+    "aliases": []
+  },
+  {
+    "id": "person:constantine-the-great",
+    "label": "Constantine the Great",
+    "aliases": []
+  },
+  {
+    "id": "person:justinian-i",
+    "label": "Justinian I",
+    "aliases": []
+  },
+  {
+    "id": "person:romulus-augustulus",
+    "label": "Romulus Augustulus",
+    "aliases": []
+  },
+  {
+    "id": "person:odoacer",
+    "label": "Odoacer",
+    "aliases": []
+  },
+  {
+    "id": "person:edward-gibbon",
+    "label": "Edward Gibbon",
+    "aliases": []
+  },
+  {
+    "id": "person:nerva",
+    "label": "Nerva",
+    "aliases": []
+  },
+  {
+    "id": "person:trajan",
+    "label": "Trajan",
+    "aliases": []
+  },
+  {
+    "id": "person:hadrian",
+    "label": "Hadrian",
+    "aliases": []
+  },
+  {
+    "id": "person:antoninus-pius",
+    "label": "Antoninus Pius",
+    "aliases": []
+  },
+  {
+    "id": "person:commodus",
+    "label": "Commodus",
+    "aliases": []
+  },
+  {
+    "id": "person:septimius-severus",
+    "label": "Septimius Severus",
+    "aliases": []
+  },
+  {
+    "id": "person:diocletian",
+    "label": "Diocletian",
+    "aliases": []
+  },
+  {
+    "id": "person:constantine",
+    "label": "Constantine",
+    "aliases": []
+  },
+  {
+    "id": "person:attila-(hun-leader)",
+    "label": "Attila (Hun leader)",
+    "aliases": []
+  },
+  {
+    "id": "person:arnold-toynbee",
+    "label": "Arnold Toynbee",
+    "aliases": []
+  },
+  {
+    "id": "person:fernand-braudel",
+    "label": "Fernand Braudel",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-heather",
+    "label": "Peter Heather",
+    "aliases": []
+  },
+  {
+    "id": "person:bryan-ward-perkins",
+    "label": "Bryan Ward-Perkins",
+    "aliases": []
   }
 ]
