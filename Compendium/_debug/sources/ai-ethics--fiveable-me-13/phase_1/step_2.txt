@@ -1,0 +1,264 @@
+# AI Ethics
+
+- 40% off annual plans this week only → use code LETMECOOK40
+
+- 🤖AI Ethics Unit 1 Review
+
+- 1.3 Historical context and evolution of AI ethics
+
+- Unit 1 – AI and Ethics: An Introduction
+
+- 🤖AI Ethics Unit 1 Review
+
+- 1.3 Historical context and evolution of AI ethics
+
+- AI ethics has evolved alongside technological advancements, from ancient myths to modern AI research. Early concerns focused on machine decision-making and human autonomy, while recent developments in machine learning have reignited debates on privacy, bias, and societal impact.
+
+- Contemporary AI ethics discussions now cover a wide range of issues, including transparency, accountability, fairness, and long-term implications of artificial general intelligence.
+- As AI capabilities continue to expand, ethical considerations remain crucial in shaping responsible development and deployment.
+
+- AI's Historical Development and Ethics
+
+- Ancient Origins to Modern Beginnings
+
+- Technological singularity - Wikipedia View original Is this image relevant?
+
+- Technological singularity - Wikipedia View original
+
+- Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original
+
+- Is this image relevant?
+
+- Artificial intelligence - a short introduction — Introduction to AI View original Is this image relevant?
+
+- Artificial intelligence - a short introduction — Introduction to AI View original
+
+- Is this image relevant?
+
+- Technological singularity - Wikipedia View original Is this image relevant?
+
+- Technological singularity - Wikipedia View original
+
+- Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original
+
+- Is this image relevant?
+
+- Technological singularity - Wikipedia View original Is this image relevant?
+
+- Technological singularity - Wikipedia View original
+
+- Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original
+
+- Is this image relevant?
+
+- Artificial intelligence - a short introduction — Introduction to AI View original Is this image relevant?
+
+- Artificial intelligence - a short introduction — Introduction to AI View original
+
+- Is this image relevant?
+
+- Technological singularity - Wikipedia View original Is this image relevant?
+
+- Technological singularity - Wikipedia View original
+
+- Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original Is this image relevant?
+
+- Helge Scherlund's eLearning News: Artificial Intelligence First Predicted in Ancient Greece. Or ... View original
+
+- Is this image relevant?
+
+- Concept of artificial intelligence rooted in ancient myths and legends (Talos, Golem)
+
+- Modern AI research initiated in 1950s with Dartmouth Conference coined term "artificial intelligence"
+
+- Early AI research focused on symbolic reasoning and expert systems Raised initial ethical concerns about machine decision-making Questioned potential impact on human autonomy
+
+- Raised initial ethical concerns about machine decision-making
+
+- Questioned potential impact on human autonomy
+
+- AI winter of 1970s and 1980s Led to reduced funding and interest in AI Temporarily slowed ethical discussions surrounding the technology
+
+- Led to reduced funding and interest in AI
+
+- Temporarily slowed ethical discussions surrounding the technology
+
+- AI Resurgence and Ethical Challenges
+
+- 1990s and 2000s saw AI resurgence driven by advances in machine learning and neural networks Reignited ethical debates about privacy, bias, and societal impact of AI systems
+
+- Reignited ethical debates about privacy, bias, and societal impact of AI systems
+
+- Development of deep learning and big data analytics in 2010s Brought forth new ethical challenges related to data privacy Raised concerns about algorithmic bias Sparked discussions on potential for AI to surpass human capabilities in certain domains (image recognition, natural language processing)
+
+- Brought forth new ethical challenges related to data privacy
+
+- Raised concerns about algorithmic bias
+
+- Sparked discussions on potential for AI to surpass human capabilities in certain domains (image recognition, natural language processing)
+
+- Contemporary AI ethics discussions encompass wide range of issues Transparency in AI decision-making processes Accountability for AI-driven outcomes Fairness in AI applications across diverse populations Long-term implications of artificial general intelligence (AGI) and artificial superintelligence (ASI)
+
+- Transparency in AI decision-making processes
+
+- Accountability for AI-driven outcomes
+
+- Fairness in AI applications across diverse populations
+
+- Long-term implications of artificial general intelligence (AGI) and artificial superintelligence (ASI)
+
+- Milestones in AI Ethics
+
+- Early Frameworks and Popular Culture
+
+- Isaac Asimov's "Three Laws of Robotics" (1942) provided early framework for ethical constraints on artificial beings
+
+- 1956 Dartmouth Conference raised questions about potential societal impact of intelligent machines
+
+- Stanley Kubrick's film "2001: A Space Odyssey" (1968) popularized concerns about AI safety and control Influenced public perception of AI risks Impacted academic discourse on potential dangers of advanced AI systems
+
+- Influenced public perception of AI risks
+
+- Impacted academic discourse on potential dangers of advanced AI systems
+
+- Technological Advancements and Ethical Implications
+
+- Development of expert systems in 1970s and 1980s led to discussions about ethical implications of AI-assisted decision-making Medical diagnosis (MYCIN system) Legal reasoning (TAXMAN project)
+
+- Medical diagnosis (MYCIN system)
+
+- Legal reasoning (TAXMAN project)
+
+- Chess match between IBM's Deep Blue and Garry Kasparov (1997) sparked debates about AI surpassing human intelligence in specific domains
+
+- Establishment of organizations formalizing study of AI ethics and existential risk Future of Humanity Institute (2005) Machine Intelligence Research Institute (2000)
+
+- Future of Humanity Institute (2005)
+
+- Machine Intelligence Research Institute (2000)
+
+- Google's AlphaGo defeat of world champion Go player Lee Sedol (2016) Highlighted rapid advancement of AI capabilities Intensified discussions about ethical implications of AI surpassing human performance in complex tasks
+
+- Highlighted rapid advancement of AI capabilities
+
+- Intensified discussions about ethical implications of AI surpassing human performance in complex tasks
+
+- Evolving Ethical Concerns in AI
+
+- Shifting Focus of Ethical Discussions
+
+- Early ethical concerns in AI centered on philosophical implications Creating intelligent machines Potential impact on human uniqueness and value
+
+- Creating intelligent machines
+
+- Potential impact on human uniqueness and value
+
+- Ethical discussions shifted as AI systems became more prevalent in decision-making processes Transparency of AI algorithms Accountability for AI-driven outcomes Potential for algorithmic bias (facial recognition, criminal justice)
+
+- Transparency of AI algorithms
+
+- Accountability for AI-driven outcomes
+
+- Potential for algorithmic bias (facial recognition, criminal justice)
+
+- Rise of big data and machine learning algorithms intensified concerns Privacy protection in data collection and usage Ethical use of personal information in AI training and deployment
+
+- Privacy protection in data collection and usage
+
+- Ethical use of personal information in AI training and deployment
+
+- Emerging Ethical Challenges
+
+- Advancements in natural language processing and generative AI raised new ethical questions Misinformation spread through AI-generated content Creation and detection of deep fakes Potential manipulation of human behavior through AI-driven personalization
+
+- Misinformation spread through AI-generated content
+
+- Creation and detection of deep fakes
+
+- Potential manipulation of human behavior through AI-driven personalization
+
+- Development of autonomous systems brought forth ethical debates Self-driving cars (trolley problem scenarios) Military applications (autonomous weapons systems) Responsibility and liability in AI decision-making Valuing human life in AI-driven choices
+
+- Self-driving cars (trolley problem scenarios)
+
+- Military applications (autonomous weapons systems)
+
+- Responsibility and liability in AI decision-making
+
+- Valuing human life in AI-driven choices
+
+- Expanding AI capabilities shifted focus to long-term considerations Potential development of artificial general intelligence (AGI) Implications of AGI for human society and existence
+
+- Potential development of artificial general intelligence (AGI)
+
+- Implications of AGI for human society and existence
+
+- Recent AI advances led to growing concerns about societal impact Job displacement due to automation Economic inequality resulting from AI-driven productivity gains
+
+- Job displacement due to automation
+
+- Economic inequality resulting from AI-driven productivity gains
+
+- Historical Events and AI Ethics Discourse
+
+- Influential Historical Precedents
+
+- Nuremberg Code of 1947 established in response to unethical human experimentation Influences current discussions on ethical development and testing of AI systems Emphasizes informed consent and minimizing harm
+
+- Influences current discussions on ethical development and testing of AI systems
+
+- Emphasizes informed consent and minimizing harm
+
+- ARPANET development (1969) informs current debates on AI's role in communication Global connectivity implications Information dissemination concerns
+
+- Global connectivity implications
+
+- Information dissemination concerns
+
+- Challenger disaster (1986) highlighted importance of transparent decision-making processes Influences current discussions on AI transparency Shapes debates on explainability of AI systems (DARPA's Explainable AI program)
+
+- Influences current discussions on AI transparency
+
+- Shapes debates on explainability of AI systems (DARPA's Explainable AI program)
+
+- Recent Events Shaping AI Ethics
+
+- 2008 financial crisis demonstrated potential consequences of complex, opaque algorithms Shapes current debates on AI accountability in financial systems Influences discussions on algorithmic trading and market stability
+
+- Shapes current debates on AI accountability in financial systems
+
+- Influences discussions on algorithmic trading and market stability
+
+- High-profile data breaches and privacy scandals significantly influenced AI ethics discourse Cambridge Analytica incident (2018) Heightened focus on data protection and user privacy in AI applications
+
+- Cambridge Analytica incident (2018)
+
+- Heightened focus on data protection and user privacy in AI applications
+
+- 2016 U.S. presidential election and investigations into social media manipulation Shaped ongoing discussions about AI's role in information dissemination Raised concerns about AI's potential impact on democratic processes (targeted political advertising, bot-driven disinformation campaigns)
+
+- Shaped ongoing discussions about AI's role in information dissemination
+
+- Raised concerns about AI's potential impact on democratic processes (targeted political advertising, bot-driven disinformation campaigns)
+
+- Recent advancements in AI-generated content reignited historical debates GPT-3 and DALL-E capabilities Discussions on creativity, authorship, and nature of intelligence Influences current ethical considerations in AI development and deployment (copyright issues, potential for academic dishonesty)
+
+- GPT-3 and DALL-E capabilities
+
+- Discussions on creativity, authorship, and nature of intelligence
+
+- Influences current ethical considerations in AI development and deployment (copyright issues, potential for academic dishonesty)
