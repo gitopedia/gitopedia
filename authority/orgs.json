@@ -3,5 +3,30 @@
     "id": "org:university-of-helsinki",
     "label": "University of Helsinki",
     "aliases": []
+  },
+  {
+    "id": "org:western-roman-empire",
+    "label": "Western Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:eastern-roman-empire-(byzantine-empire)",
+    "label": "Eastern Roman Empire (Byzantine Empire)",
+    "aliases": []
+  },
+  {
+    "id": "org:holy-roman-empire",
+    "label": "Holy Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:praetorian-guard",
+    "label": "Praetorian Guard",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-college-library",
+    "label": "Cambridge College Library",
+    "aliases": []
   }
 ]
