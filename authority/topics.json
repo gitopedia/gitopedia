@@ -498,5 +498,95 @@
     "id": "topic:physics",
     "label": "Physics",
     "aliases": []
+  },
+  {
+    "id": "topic:string-theory",
+    "label": "String Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-physics",
+    "label": "quantum physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:supersymmetry",
+    "label": "supersymmetry",
+    "aliases": []
+  },
+  {
+    "id": "topic:branes-(in-string-theory)",
+    "label": "branes (in string theory)",
+    "aliases": []
+  },
+  {
+    "id": "topic:four-fundamental-forces",
+    "label": "four fundamental forces",
+    "aliases": []
+  },
+  {
+    "id": "topic:electromagnetic-force",
+    "label": "electromagnetic force",
+    "aliases": []
+  },
+  {
+    "id": "topic:strong-nuclear-force",
+    "label": "strong nuclear force",
+    "aliases": []
+  },
+  {
+    "id": "topic:weak-nuclear-force",
+    "label": "weak nuclear force",
+    "aliases": []
+  },
+  {
+    "id": "topic:gravity",
+    "label": "gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:theory-of-everything",
+    "label": "Theory of Everything",
+    "aliases": []
+  },
+  {
+    "id": "topic:extra-dimensions",
+    "label": "extra dimensions",
+    "aliases": []
+  },
+  {
+    "id": "topic:calabi–yau-manifolds",
+    "label": "Calabi–Yau manifolds",
+    "aliases": []
+  },
+  {
+    "id": "topic:landscape-problem",
+    "label": "Landscape problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:ads/cft-correspondence",
+    "label": "AdS/CFT correspondence",
+    "aliases": []
+  },
+  {
+    "id": "topic:brane-cosmology",
+    "label": "Brane cosmology",
+    "aliases": []
+  },
+  {
+    "id": "topic:multiverse-theories",
+    "label": "Multiverse theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:loop-quantum-gravity",
+    "label": "Loop quantum gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:mirror-symmetry",
+    "label": "Mirror symmetry",
+    "aliases": []
   }
 ]
