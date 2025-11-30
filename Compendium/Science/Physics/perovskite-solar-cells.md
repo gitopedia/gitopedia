@@ -8,13 +8,12 @@ people: ["person:giustino,-f.", "person:snaith,-h.-j.", "person:liu,-y.", "perso
 summary: ""
 ---
 
-```yaml
 ---
 title: Lead-Free Perovskite Solar Cells: Innovations, Applications, and Future Prospects
 summary: Lead-free perovskite solar cells represent a transformative approach to renewable energy, addressing the environmental and health risks associated with traditional lead-based materials. This article explores their development, scientific principles, current applications, and the challenges that remain in achieving commercial viability.
 tags: ["Renewable Energy", "Solar Technology", "Materials Science", "Sustainability", "Innovation"]
 ---
-```
+
 
 # Lead-Free Perovskite Solar Cells: Innovations, Applications, and Future Prospects
 
