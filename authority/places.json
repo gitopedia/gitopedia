@@ -113,5 +113,60 @@
     "id": "place:neptune",
     "label": "Neptune",
     "aliases": []
+  },
+  {
+    "id": "place:asia",
+    "label": "Asia",
+    "aliases": []
+  },
+  {
+    "id": "place:africa",
+    "label": "Africa",
+    "aliases": []
+  },
+  {
+    "id": "place:latin-america",
+    "label": "Latin America",
+    "aliases": []
+  },
+  {
+    "id": "place:east-asia",
+    "label": "East Asia",
+    "aliases": []
+  },
+  {
+    "id": "place:global-north",
+    "label": "Global North",
+    "aliases": []
+  },
+  {
+    "id": "place:global-south",
+    "label": "Global South",
+    "aliases": []
+  },
+  {
+    "id": "place:south-korea",
+    "label": "South Korea",
+    "aliases": []
+  },
+  {
+    "id": "place:taiwan-(china/taipei)",
+    "label": "Taiwan (China/Taipei)",
+    "aliases": []
+  },
+  {
+    "id": "place:singapore",
+    "label": "Singapore",
+    "aliases": []
+  },
+  {
+    "id": "place:hong-kong",
+    "label": "Hong Kong",
+    "aliases": []
+  },
+  {
+    "id": "place:taiwan",
+    "label": "Taiwan",
+    "aliases": []
   }
 ]
