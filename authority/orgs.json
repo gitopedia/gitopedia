@@ -28,5 +28,10 @@
     "id": "org:cambridge-college-library",
     "label": "Cambridge College Library",
     "aliases": []
+  },
+  {
+    "id": "org:",
+    "label": "",
+    "aliases": []
   }
 ]
