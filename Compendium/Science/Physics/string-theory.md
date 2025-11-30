@@ -8,11 +8,10 @@ people: ["person:gabriele-veneziano", "person:john-schwarz", "person:michael-gre
 summary: ""
 ---
 
-```yaml
 title: String Theory: Exploring the Universe's Fundamental Fabric
 summary: String theory is a revolutionary framework in theoretical physics that proposes all fundamental particles are tiny vibrating strings. It aims to unify quantum mechanics and general relativity, offering a potential "theory of everything," though it remains unproven due to challenges in experimental verification. This article explores its origins, key concepts, and ongoing impact on science.
 tags: ["Physics", "Theoretical Physics", "Quantum Mechanics", "Cosmology", "Mathematics"]
-```
+
 
 # String Theory: Exploring the Universe's Fundamental Fabric
 
@@ -135,7 +134,6 @@ String theory represents one of the most ambitious and profound attempts to unde
 17. Randall, L., & Sundrum, R. (1999). "A Large Mass Hierarchy from a Small Extra Dimension." *Physical Review Letters*, 83(23), 4690-4693.  
 18. Smolin, L. (2006). *The Trouble with Physics*. Houghton Mifflin Harcourt.  
 19. Rovelli, C. (2004). *Quantum Gravity*. Cambridge University Press.  
-```
 
 ## References
 
