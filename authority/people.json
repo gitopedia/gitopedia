@@ -408,5 +408,90 @@
     "id": "person:kim,-j.-h.",
     "label": "Kim, J. H.",
     "aliases": []
+  },
+  {
+    "id": "person:sir-w.-arthur-lewis",
+    "label": "Sir W. Arthur Lewis",
+    "aliases": []
+  },
+  {
+    "id": "person:john-harris",
+    "label": "John Harris",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-todaro",
+    "label": "Michael Todaro",
+    "aliases": []
+  },
+  {
+    "id": "person:raúl-prebisch",
+    "label": "Raúl Prebisch",
+    "aliases": []
+  },
+  {
+    "id": "person:hans-singer",
+    "label": "Hans Singer",
+    "aliases": []
+  },
+  {
+    "id": "person:andré-gunder-frank",
+    "label": "André Gunder Frank",
+    "aliases": []
+  },
+  {
+    "id": "person:gunnar-myrdal",
+    "label": "Gunnar Myrdal",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-krugman",
+    "label": "Paul Krugman",
+    "aliases": []
+  },
+  {
+    "id": "person:adam-smith-(economist)",
+    "label": "Adam Smith (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-malthus-(economist)",
+    "label": "Thomas Malthus (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-marx-(economist)",
+    "label": "Karl Marx (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:friedrich-engels-(political-philosopher)",
+    "label": "Friedrich Engels (political philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:roy-f.-harrod-(economist)",
+    "label": "Roy F. Harrod (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:evsey-d.-domar-(economist)",
+    "label": "Evsey D. Domar (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:arthur-lewis-(economist)",
+    "label": "Arthur Lewis (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-m.-solow-(economist)",
+    "label": "Robert M. Solow (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-rosenstein-rodan",
+    "label": "Paul Rosenstein-Rodan",
+    "aliases": []
   }
 ]
