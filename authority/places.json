@@ -1,4 +1,12 @@
 [
+  {
+    "id": "place:helsinki-(finland)",
+    "label": "Helsinki (Finland)",
+    "aliases": []
+  },
+  {
+    "id": "place:united-kingdom",
+    "label": "United Kingdom",
+    "aliases": []
+  }
 ]
-
-

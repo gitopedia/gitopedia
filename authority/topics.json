@@ -173,5 +173,50 @@
     "id": "topic:computer-science",
     "label": "Computer Science",
     "aliases": []
+  },
+  {
+    "id": "topic:behavioral-economics",
+    "label": "Behavioral Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:prospect-theory",
+    "label": "prospect theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:expected-utility-theory",
+    "label": "expected utility theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:bounded-rationality",
+    "label": "bounded rationality",
+    "aliases": []
+  },
+  {
+    "id": "topic:loss-aversion",
+    "label": "loss aversion",
+    "aliases": []
+  },
+  {
+    "id": "topic:nudging",
+    "label": "nudging",
+    "aliases": []
+  },
+  {
+    "id": "topic:neuroeconomics",
+    "label": "neuroeconomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:machine-learning",
+    "label": "machine learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:economics",
+    "label": "Economics",
+    "aliases": []
   }
 ]

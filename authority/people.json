@@ -53,5 +53,25 @@
     "id": "person:john-preskill",
     "label": "John Preskill",
     "aliases": []
+  },
+  {
+    "id": "person:michiru-nagatsu",
+    "label": "Michiru Nagatsu",
+    "aliases": []
+  },
+  {
+    "id": "person:herbert-simon",
+    "label": "Herbert Simon",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-kahneman",
+    "label": "Daniel Kahneman",
+    "aliases": []
+  },
+  {
+    "id": "person:amos-tversky",
+    "label": "Amos Tversky",
+    "aliases": []
   }
 ]
