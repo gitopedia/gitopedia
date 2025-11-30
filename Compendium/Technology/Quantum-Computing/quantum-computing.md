@@ -8,13 +8,12 @@ people: ["person:max-planck", "person:niels-bohr", "person:werner-heisenberg", "
 summary: ""
 ---
 
-```yaml
 ---
 title: Quantum Computing: Principles, Applications, and Future Prospects
 summary: Quantum computing is an emerging field that leverages quantum mechanics to solve complex problems beyond the reach of classical computers. This article explores its foundational concepts, historical development, real-world applications, and the challenges that remain in its path to mainstream adoption.
 tags: ["Technology", "Quantum Computing", "AI", "Cybersecurity", "Future Tech"]
 ---
-```
+
 
 # Quantum Computing: Principles, Applications, and Future Prospects
 
@@ -135,9 +134,7 @@ The quantum revolution will require a new generation of scientists and engineers
 
 Quantum computing represents one of the most transformative technologies of the 21st century, with the potential to solve problems that are currently beyond the reach of classical computers. However, its path to mainstream adoption is fraught with technical, ethical, and societal challenges. As research continues to advance, the collaboration between academia, industry, and governments will be critical in realizing the full potential of this groundbreaking field. The future of quantum computing is not just a question of "if" but "when" and "how" we will harness its power responsibly.
 
-```yaml
 ---
-```
 
 ## References
 
