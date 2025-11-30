@@ -9,11 +9,10 @@ places: ["place:rome", "place:constantinople", "place:danube-river", "place:rhin
 summary: ""
 ---
 
-```yaml
 title: The Decline and Fall of the Roman Empire: A Comprehensive Study
 summary: This article explores the multifaceted decline of the Roman Empire, examining internal decay, external pressures, and the historical interpretations that have shaped our understanding of this pivotal era. From the corruption of the imperial court to the rise of barbarian invasions, the narrative spans centuries of transformation and collapse.
 tags: ["History", "Ancient Rome", "Political History", "Empire Collapse", "Edward Gibbon"]
-```
+
 
 # The Decline and Fall of the Roman Empire: A Comprehensive Study
 
