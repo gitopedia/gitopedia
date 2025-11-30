@@ -218,5 +218,165 @@
     "id": "topic:economics",
     "label": "Economics",
     "aliases": []
+  },
+  {
+    "id": "topic:ai-ethics",
+    "label": "AI Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-accountability-gap",
+    "label": "AI accountability gap",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-ripple-effects",
+    "label": "Economic ripple effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-skills-gap",
+    "label": "AI skills gap",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-inclusion",
+    "label": "AI and inclusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:expert-systems",
+    "label": "Expert systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-origin-story",
+    "label": "AI origin story",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-automation-to-ai",
+    "label": "Industrial automation to AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-springs",
+    "label": "AI springs",
+    "aliases": []
+  },
+  {
+    "id": "topic:government-policy-in-ai",
+    "label": "Government policy in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-bias-detection-and-mitigation",
+    "label": "algorithmic bias detection and mitigation",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-metrics-and-evaluation-methods",
+    "label": "fairness metrics and evaluation methods",
+    "aliases": []
+  },
+  {
+    "id": "topic:explainable-ai-techniques",
+    "label": "explainable AI techniques",
+    "aliases": []
+  },
+  {
+    "id": "topic:transparency-in-ai-decision-making",
+    "label": "transparency in AI decision-making",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy-preserving-machine-learning",
+    "label": "privacy-preserving machine learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-ethics",
+    "label": "data ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-governance-frameworks",
+    "label": "AI governance frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-compliance",
+    "label": "regulatory compliance",
+    "aliases": []
+  },
+  {
+    "id": "topic:differential-privacy",
+    "label": "differential privacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:gdpr",
+    "label": "GDPR",
+    "aliases": []
+  },
+  {
+    "id": "topic:eu-ai-act",
+    "label": "EU AI Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-bias",
+    "label": "algorithmic bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:transparency",
+    "label": "transparency",
+    "aliases": []
+  },
+  {
+    "id": "topic:explainability",
+    "label": "explainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy",
+    "label": "privacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:governance",
+    "label": "governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulation",
+    "label": "regulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:european-union-ai-act",
+    "label": "European Union AI Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:deepfakes",
+    "label": "deepfakes",
+    "aliases": []
+  },
+  {
+    "id": "topic:neural-interfaces",
+    "label": "neural interfaces",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-literacy",
+    "label": "AI literacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence",
+    "label": "Artificial Intelligence",
+    "aliases": []
   }
 ]
