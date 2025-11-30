@@ -313,5 +313,35 @@
     "id": "person:karl-schwarzschild",
     "label": "Karl Schwarzschild",
     "aliases": []
+  },
+  {
+    "id": "person:gabriele-veneziano",
+    "label": "Gabriele Veneziano",
+    "aliases": []
+  },
+  {
+    "id": "person:john-schwarz",
+    "label": "John Schwarz",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-green",
+    "label": "Michael Green",
+    "aliases": []
+  },
+  {
+    "id": "person:edward-witten",
+    "label": "Edward Witten",
+    "aliases": []
+  },
+  {
+    "id": "person:juan-maldacena",
+    "label": "Juan Maldacena",
+    "aliases": []
+  },
+  {
+    "id": "person:lee-smolin",
+    "label": "Lee Smolin",
+    "aliases": []
   }
 ]
