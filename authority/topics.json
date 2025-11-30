@@ -88,5 +88,90 @@
     "id": "topic:dutch-hunger-winter",
     "label": "Dutch Hunger Winter",
     "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing",
+    "label": "Quantum Computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics",
+    "label": "Quantum Mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:superposition",
+    "label": "Superposition",
+    "aliases": []
+  },
+  {
+    "id": "topic:entanglement",
+    "label": "Entanglement",
+    "aliases": []
+  },
+  {
+    "id": "topic:shor's-algorithm",
+    "label": "Shor's Algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:grover's-algorithm",
+    "label": "Grover's Algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-supremacy",
+    "label": "Quantum Supremacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-quantum-cryptography",
+    "label": "Post-Quantum Cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-key-distribution-(qkd)",
+    "label": "Quantum Key Distribution (QKD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-simulation",
+    "label": "Quantum Simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:surface-code-error-correction",
+    "label": "Surface Code Error Correction",
+    "aliases": []
+  },
+  {
+    "id": "topic:nisq-(noisy-intermediate-scale-quantum)",
+    "label": "NISQ (Noisy Intermediate-Scale Quantum)",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-qubits",
+    "label": "Topological Qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:majorana-fermions",
+    "label": "Majorana Fermions",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-modeling",
+    "label": "Climate Modeling",
+    "aliases": []
+  },
+  {
+    "id": "topic:healthcare",
+    "label": "Healthcare",
+    "aliases": []
+  },
+  {
+    "id": "topic:computer-science",
+    "label": "Computer Science",
+    "aliases": []
   }
 ]

@@ -23,5 +23,35 @@
     "id": "person:andrew-feinberg",
     "label": "Andrew Feinberg",
     "aliases": []
+  },
+  {
+    "id": "person:max-planck",
+    "label": "Max Planck",
+    "aliases": []
+  },
+  {
+    "id": "person:niels-bohr",
+    "label": "Niels Bohr",
+    "aliases": []
+  },
+  {
+    "id": "person:werner-heisenberg",
+    "label": "Werner Heisenberg",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-feynman",
+    "label": "Richard Feynman",
+    "aliases": []
+  },
+  {
+    "id": "person:david-deutsch",
+    "label": "David Deutsch",
+    "aliases": []
+  },
+  {
+    "id": "person:john-preskill",
+    "label": "John Preskill",
+    "aliases": []
   }
 ]
