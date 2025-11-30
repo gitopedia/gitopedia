@@ -8,5 +8,85 @@
     "id": "place:united-kingdom",
     "label": "United Kingdom",
     "aliases": []
+  },
+  {
+    "id": "place:carthage-(ancient-city)",
+    "label": "Carthage (ancient city)",
+    "aliases": []
+  },
+  {
+    "id": "place:constantinople-(now-istanbul)",
+    "label": "Constantinople (now Istanbul)",
+    "aliases": []
+  },
+  {
+    "id": "place:rome",
+    "label": "Rome",
+    "aliases": []
+  },
+  {
+    "id": "place:dalmatia",
+    "label": "Dalmatia",
+    "aliases": []
+  },
+  {
+    "id": "place:cyrenaica-(region,-libya)",
+    "label": "Cyrenaica (region, Libya)",
+    "aliases": []
+  },
+  {
+    "id": "place:iceland",
+    "label": "Iceland",
+    "aliases": []
+  },
+  {
+    "id": "place:constantinople",
+    "label": "Constantinople",
+    "aliases": []
+  },
+  {
+    "id": "place:antioch",
+    "label": "Antioch",
+    "aliases": []
+  },
+  {
+    "id": "place:alexandria",
+    "label": "Alexandria",
+    "aliases": []
+  },
+  {
+    "id": "place:britain",
+    "label": "Britain",
+    "aliases": []
+  },
+  {
+    "id": "place:mesopotamia",
+    "label": "Mesopotamia",
+    "aliases": []
+  },
+  {
+    "id": "place:italy",
+    "label": "Italy",
+    "aliases": []
+  },
+  {
+    "id": "place:tiber-river",
+    "label": "Tiber River",
+    "aliases": []
+  },
+  {
+    "id": "place:hadrian's-wall",
+    "label": "Hadrian's Wall",
+    "aliases": []
+  },
+  {
+    "id": "place:danube-river",
+    "label": "Danube River",
+    "aliases": []
+  },
+  {
+    "id": "place:rhine-river",
+    "label": "Rhine River",
+    "aliases": []
   }
 ]
