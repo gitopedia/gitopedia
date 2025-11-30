@@ -588,5 +588,20 @@
     "id": "topic:mirror-symmetry",
     "label": "Mirror symmetry",
     "aliases": []
+  },
+  {
+    "id": "topic:perovskite-solar-cells",
+    "label": "Perovskite Solar Cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy",
+    "label": "renewable energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-energy",
+    "label": "Sustainable Energy",
+    "aliases": []
   }
 ]
