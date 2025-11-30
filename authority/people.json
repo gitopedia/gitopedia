@@ -73,5 +73,50 @@
     "id": "person:amos-tversky",
     "label": "Amos Tversky",
     "aliases": []
+  },
+  {
+    "id": "person:rené-descartes",
+    "label": "René Descartes",
+    "aliases": []
+  },
+  {
+    "id": "person:gottfried-leibniz",
+    "label": "Gottfried Leibniz",
+    "aliases": []
+  },
+  {
+    "id": "person:alan-turing",
+    "label": "Alan Turing",
+    "aliases": []
+  },
+  {
+    "id": "person:john-mccarthy",
+    "label": "John McCarthy",
+    "aliases": []
+  },
+  {
+    "id": "person:jeremy-bentham",
+    "label": "Jeremy Bentham",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stuart-mill",
+    "label": "John Stuart Mill",
+    "aliases": []
+  },
+  {
+    "id": "person:immanuel-kant",
+    "label": "Immanuel Kant",
+    "aliases": []
+  },
+  {
+    "id": "person:aristotle",
+    "label": "Aristotle",
+    "aliases": []
+  },
+  {
+    "id": "person:marvin-minsky",
+    "label": "Marvin Minsky",
+    "aliases": []
   }
 ]
