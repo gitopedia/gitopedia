@@ -1118,5 +1118,70 @@
     "id": "person:vitalik-buterin-(co-founder-of-ethereum)",
     "label": "Vitalik Buterin (co-founder of Ethereum)",
     "aliases": []
+  },
+  {
+    "id": "person:robert-whaples",
+    "label": "Robert Whaples",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-haupert",
+    "label": "Michael Haupert",
+    "aliases": []
+  },
+  {
+    "id": "person:jeremy-land",
+    "label": "Jeremy Land",
+    "aliases": []
+  },
+  {
+    "id": "person:taylor-land",
+    "label": "Taylor Land",
+    "aliases": []
+  },
+  {
+    "id": "person:deng-xiaoping",
+    "label": "Deng Xiaoping",
+    "aliases": []
+  },
+  {
+    "id": "person:augusto-pinochet",
+    "label": "Augusto Pinochet",
+    "aliases": []
+  },
+  {
+    "id": "person:thucydides",
+    "label": "Thucydides",
+    "aliases": []
+  },
+  {
+    "id": "person:adorno-(philosopher)",
+    "label": "Adorno (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:sophocles",
+    "label": "Sophocles",
+    "aliases": []
+  },
+  {
+    "id": "person:adam-smith",
+    "label": "Adam Smith",
+    "aliases": []
+  },
+  {
+    "id": "person:david-ricardo",
+    "label": "David Ricardo",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-marx",
+    "label": "Karl Marx",
+    "aliases": []
+  },
+  {
+    "id": "person:friedrich-engels",
+    "label": "Friedrich Engels",
+    "aliases": []
   }
 ]
