@@ -2018,5 +2018,160 @@
     "id": "topic:cryptocurrency",
     "label": "Cryptocurrency",
     "aliases": []
+  },
+  {
+    "id": "topic:economic-history",
+    "label": "economic history",
+    "aliases": []
+  },
+  {
+    "id": "topic:chinese-economic-reforms",
+    "label": "Chinese Economic Reforms",
+    "aliases": []
+  },
+  {
+    "id": "topic:gold-standard",
+    "label": "Gold Standard",
+    "aliases": []
+  },
+  {
+    "id": "topic:great-depression",
+    "label": "Great Depression",
+    "aliases": []
+  },
+  {
+    "id": "topic:british-industrial-revolution",
+    "label": "British Industrial Revolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:dutch-tulip-mania",
+    "label": "Dutch Tulip Mania",
+    "aliases": []
+  },
+  {
+    "id": "topic:export-led-industrialization",
+    "label": "Export-Led Industrialization",
+    "aliases": []
+  },
+  {
+    "id": "topic:oil-boom-and-bust",
+    "label": "Oil Boom and Bust",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-transformation",
+    "label": "Economic Transformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-context",
+    "label": "economic context",
+    "aliases": []
+  },
+  {
+    "id": "topic:cliometrics",
+    "label": "cliometrics",
+    "aliases": []
+  },
+  {
+    "id": "topic:historical-statistical-analysis",
+    "label": "historical statistical analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:world-war-i",
+    "label": "World War I",
+    "aliases": []
+  },
+  {
+    "id": "topic:world-war-ii",
+    "label": "World War II",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-sanctions",
+    "label": "economic sanctions",
+    "aliases": []
+  },
+  {
+    "id": "topic:gulf-war",
+    "label": "Gulf War",
+    "aliases": []
+  },
+  {
+    "id": "topic:socialism",
+    "label": "Socialism",
+    "aliases": []
+  },
+  {
+    "id": "topic:marxism",
+    "label": "Marxism",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-systems",
+    "label": "Economic Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-economics",
+    "label": "Regulatory Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-revolution",
+    "label": "Industrial Revolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:new-deal",
+    "label": "New Deal",
+    "aliases": []
+  },
+  {
+    "id": "topic:2008-financial-crisis",
+    "label": "2008 financial crisis",
+    "aliases": []
+  },
+  {
+    "id": "topic:green-new-deal",
+    "label": "Green New Deal",
+    "aliases": []
+  },
+  {
+    "id": "topic:universal-basic-income",
+    "label": "Universal Basic Income",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-pricing",
+    "label": "carbon pricing",
+    "aliases": []
+  },
+  {
+    "id": "topic:mixed-economies",
+    "label": "mixed economies",
+    "aliases": []
+  },
+  {
+    "id": "topic:neoliberalism",
+    "label": "neoliberalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:gig-economies",
+    "label": "gig economies",
+    "aliases": []
+  },
+  {
+    "id": "topic:tech-monopolies",
+    "label": "tech monopolies",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai",
+    "label": "AI",
+    "aliases": []
   }
 ]

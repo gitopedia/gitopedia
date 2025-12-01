@@ -328,5 +328,60 @@
     "id": "place:burj-khalifa",
     "label": "Burj Khalifa",
     "aliases": []
+  },
+  {
+    "id": "place:united-states",
+    "label": "United States",
+    "aliases": []
+  },
+  {
+    "id": "place:china",
+    "label": "China",
+    "aliases": []
+  },
+  {
+    "id": "place:netherlands",
+    "label": "Netherlands",
+    "aliases": []
+  },
+  {
+    "id": "place:venezuela",
+    "label": "Venezuela",
+    "aliases": []
+  },
+  {
+    "id": "place:chile",
+    "label": "Chile",
+    "aliases": []
+  },
+  {
+    "id": "place:western-europe",
+    "label": "Western Europe",
+    "aliases": []
+  },
+  {
+    "id": "place:germany",
+    "label": "Germany",
+    "aliases": []
+  },
+  {
+    "id": "place:cuba",
+    "label": "Cuba",
+    "aliases": []
+  },
+  {
+    "id": "place:sweden",
+    "label": "Sweden",
+    "aliases": []
+  },
+  {
+    "id": "place:vietnam",
+    "label": "Vietnam",
+    "aliases": []
+  },
+  {
+    "id": "place:soviet-union",
+    "label": "Soviet Union",
+    "aliases": []
   }
 ]
