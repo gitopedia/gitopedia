@@ -1448,5 +1448,15 @@
     "id": "person:john-mcafee",
     "label": "John McAfee",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
