@@ -193,5 +193,10 @@
     "id": "place:turkey",
     "label": "Turkey",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]
