@@ -513,5 +513,55 @@
     "id": "place:united-states-(country)",
     "label": "United States (country)",
     "aliases": []
+  },
+  {
+    "id": "place:roman-empire",
+    "label": "Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "place:western-roman-empire",
+    "label": "Western Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "place:eastern-roman-empire",
+    "label": "Eastern Roman Empire",
+    "aliases": []
+  },
+  {
+    "id": "place:england",
+    "label": "England",
+    "aliases": []
+  },
+  {
+    "id": "place:manchester",
+    "label": "Manchester",
+    "aliases": []
+  },
+  {
+    "id": "place:birmingham",
+    "label": "Birmingham",
+    "aliases": []
+  },
+  {
+    "id": "place:liverpool",
+    "label": "Liverpool",
+    "aliases": []
+  },
+  {
+    "id": "place:russia",
+    "label": "Russia",
+    "aliases": []
+  },
+  {
+    "id": "place:eastern-europe",
+    "label": "Eastern Europe",
+    "aliases": []
+  },
+  {
+    "id": "place:france",
+    "label": "France",
+    "aliases": []
   }
 ]
