@@ -2488,5 +2488,90 @@
     "id": "topic:ethical-considerations",
     "label": "Ethical considerations",
     "aliases": []
+  },
+  {
+    "id": "topic:mars-colonization",
+    "label": "Mars Colonization",
+    "aliases": []
+  },
+  {
+    "id": "topic:mars-direct-plan",
+    "label": "Mars Direct plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:outer-space-treaty",
+    "label": "Outer Space Treaty",
+    "aliases": []
+  },
+  {
+    "id": "topic:isru",
+    "label": "ISRU",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-currencies",
+    "label": "Digital Currencies",
+    "aliases": []
+  },
+  {
+    "id": "topic:binance-clone-script",
+    "label": "Binance Clone Script",
+    "aliases": []
+  },
+  {
+    "id": "topic:decentralized-prediction-markets",
+    "label": "Decentralized Prediction Markets",
+    "aliases": []
+  },
+  {
+    "id": "topic:gold-backed-stablecoin",
+    "label": "Gold-Backed Stablecoin",
+    "aliases": []
+  },
+  {
+    "id": "topic:crypto-wallets",
+    "label": "Crypto Wallets",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-data-core",
+    "label": "Space Data Core",
+    "aliases": []
+  },
+  {
+    "id": "topic:trust-protocol",
+    "label": "Trust Protocol",
+    "aliases": []
+  },
+  {
+    "id": "topic:true-decentralization",
+    "label": "True Decentralization",
+    "aliases": []
+  },
+  {
+    "id": "topic:tron-token-development",
+    "label": "Tron Token Development",
+    "aliases": []
+  },
+  {
+    "id": "topic:private-messaging",
+    "label": "Private Messaging",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-dna",
+    "label": "Digital DNA",
+    "aliases": []
+  },
+  {
+    "id": "topic:discount-radio",
+    "label": "Discount Radio",
+    "aliases": []
+  },
+  {
+    "id": "topic:sdr",
+    "label": "SDR",
+    "aliases": []
   }
 ]
