@@ -1823,5 +1823,105 @@
     "id": "person:lewis-urry",
     "label": "Lewis Urry",
     "aliases": []
+  },
+  {
+    "id": "person:",
+    "label": "",
+    "aliases": []
+  },
+  {
+    "id": "person:rebecca-copenhaver",
+    "label": "Rebecca Copenhaver",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-shields",
+    "label": "Christopher Shields",
+    "aliases": []
+  },
+  {
+    "id": "person:john-sisko",
+    "label": "John Sisko",
+    "aliases": []
+  },
+  {
+    "id": "person:margaret-cameron",
+    "label": "Margaret Cameron",
+    "aliases": []
+  },
+  {
+    "id": "person:stephan-schmid",
+    "label": "Stephan Schmid",
+    "aliases": []
+  },
+  {
+    "id": "person:sandra-lapointe",
+    "label": "Sandra Lapointe",
+    "aliases": []
+  },
+  {
+    "id": "person:amy-kind",
+    "label": "Amy Kind",
+    "aliases": []
+  },
+  {
+    "id": "person:alan-turing",
+    "label": "Alan Turing",
+    "aliases": []
+  },
+  {
+    "id": "person:jerry-fodor",
+    "label": "Jerry Fodor",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-churchland",
+    "label": "Paul Churchland",
+    "aliases": []
+  },
+  {
+    "id": "person:david-chalmers",
+    "label": "David Chalmers",
+    "aliases": []
+  },
+  {
+    "id": "person:john-searle",
+    "label": "John Searle",
+    "aliases": []
+  },
+  {
+    "id": "person:antonio-damasio",
+    "label": "Antonio Damasio",
+    "aliases": []
+  },
+  {
+    "id": "person:andy-clark",
+    "label": "Andy Clark",
+    "aliases": []
+  },
+  {
+    "id": "person:galen-strawson",
+    "label": "Galen Strawson",
+    "aliases": []
+  },
+  {
+    "id": "person:henry-stapp",
+    "label": "Henry Stapp",
+    "aliases": []
+  },
+  {
+    "id": "person:jaak-panksepp",
+    "label": "Jaak Panksepp",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-dennett",
+    "label": "Daniel Dennett",
+    "aliases": []
+  },
+  {
+    "id": "person:christof-koch",
+    "label": "Christof Koch",
+    "aliases": []
   }
 ]
