@@ -423,5 +423,10 @@
     "id": "place:córdoba-(umayyad-caliphate)",
     "label": "Córdoba (Umayyad Caliphate)",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]

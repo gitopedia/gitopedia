@@ -1273,5 +1273,15 @@
     "id": "person:jabir-ibn-hayyan",
     "label": "Jabir ibn Hayyan",
     "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-bush",
+    "label": "George W. Bush",
+    "aliases": []
   }
 ]
