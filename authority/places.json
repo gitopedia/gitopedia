@@ -303,5 +303,10 @@
     "id": "place:ice-river-(wisconsin)",
     "label": "Ice River (Wisconsin)",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]

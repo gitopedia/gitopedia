@@ -848,5 +848,15 @@
     "id": "person:michael-moorcock-(science-fiction-writer)",
     "label": "Michael Moorcock (science fiction writer)",
     "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-bush",
+    "label": "George W. Bush",
+    "aliases": []
   }
 ]
