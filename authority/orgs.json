@@ -298,5 +298,35 @@
     "id": "org:commonwealth",
     "label": "Commonwealth",
     "aliases": []
+  },
+  {
+    "id": "org:encyclopedia-of-cybersecurity",
+    "label": "Encyclopedia of Cybersecurity",
+    "aliases": []
+  },
+  {
+    "id": "org:mcafee-inc.",
+    "label": "McAfee Inc.",
+    "aliases": []
+  },
+  {
+    "id": "org:statista",
+    "label": "Statista",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm",
+    "label": "IBM",
+    "aliases": []
+  },
+  {
+    "id": "org:colonial-pipeline",
+    "label": "Colonial Pipeline",
+    "aliases": []
+  },
+  {
+    "id": "org:solarwinds",
+    "label": "SolarWinds",
+    "aliases": []
   }
 ]
