@@ -1263,5 +1263,75 @@
     "id": "topic:philosophy",
     "label": "Philosophy",
     "aliases": []
+  },
+  {
+    "id": "topic:crispr-cas9-gene-editing",
+    "label": "CRISPR-Cas9 Gene Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr",
+    "label": "CRISPR",
+    "aliases": []
+  },
+  {
+    "id": "topic:genome-editing",
+    "label": "Genome Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:biotechnology",
+    "label": "Biotechnology",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethics",
+    "label": "Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:gene-therapy",
+    "label": "Gene Therapy",
+    "aliases": []
+  },
+  {
+    "id": "topic:base-editing",
+    "label": "Base Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:prime-editing",
+    "label": "Prime Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:epigenetic-editing",
+    "label": "Epigenetic Editing",
+    "aliases": []
+  },
+  {
+    "id": "topic:germline-modification",
+    "label": "Germline Modification",
+    "aliases": []
+  },
+  {
+    "id": "topic:p53-activation",
+    "label": "p53 Activation",
+    "aliases": []
+  },
+  {
+    "id": "topic:aav-crispr-systems",
+    "label": "AAV-CRISPR Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:car-t-cells",
+    "label": "CAR-T Cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:casgevy",
+    "label": "Casgevy",
+    "aliases": []
   }
 ]
