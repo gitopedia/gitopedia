@@ -1,4 +1,4 @@
 # Philosophy Articles
 
-- [Epistemology](epistemology.md)
+- [Epistemology: The Philosophy of Knowledge](epistemology.md)
 
