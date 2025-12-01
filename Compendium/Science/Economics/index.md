@@ -2,5 +2,5 @@
 
 - [Behavioral Economics](behavioral-economics.md)
 - [Development Economics](development-economics.md)
-- [Economic History](economic-history.md)
+- [Economic Systems: From Capitalism to Socialism](economic-history.md)
 
