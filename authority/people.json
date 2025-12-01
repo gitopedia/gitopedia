@@ -493,5 +493,30 @@
     "id": "person:paul-rosenstein-rodan",
     "label": "Paul Rosenstein-Rodan",
     "aliases": []
+  },
+  {
+    "id": "person:justinian-i-(byzantine-emperor)",
+    "label": "Justinian I (Byzantine Emperor)",
+    "aliases": []
+  },
+  {
+    "id": "person:justinian",
+    "label": "Justinian",
+    "aliases": []
+  },
+  {
+    "id": "person:mehmed-the-conqueror",
+    "label": "Mehmed the Conqueror",
+    "aliases": []
+  },
+  {
+    "id": "person:anna-komnene",
+    "label": "Anna Komnene",
+    "aliases": []
+  },
+  {
+    "id": "person:leo-the-mathematician",
+    "label": "Leo the Mathematician",
+    "aliases": []
   }
 ]
