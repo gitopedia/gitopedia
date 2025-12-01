@@ -4618,5 +4618,60 @@
     "id": "topic:reinforcement-learning",
     "label": "Reinforcement Learning",
     "aliases": []
+  },
+  {
+    "id": "topic:environmental-economics",
+    "label": "Environmental Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-economics",
+    "label": "ecological economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:cost-benefit-analysis",
+    "label": "cost-benefit analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:externalities",
+    "label": "externalities",
+    "aliases": []
+  },
+  {
+    "id": "topic:market-failure",
+    "label": "Market Failure",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental,-social,-and-governance-(esg)",
+    "label": "Environmental, Social, and Governance (ESG)",
+    "aliases": []
+  },
+  {
+    "id": "topic:corporate-social-responsibility-(csr)",
+    "label": "Corporate Social Responsibility (CSR)",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-renewable-resource",
+    "label": "Non-Renewable Resource",
+    "aliases": []
+  },
+  {
+    "id": "topic:kyoto-protocol",
+    "label": "Kyoto Protocol",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-development-goals-(sdgs)",
+    "label": "Sustainable Development Goals (SDGs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:paris-agreement",
+    "label": "Paris Agreement",
+    "aliases": []
   }
 ]
