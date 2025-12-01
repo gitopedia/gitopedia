@@ -573,5 +573,15 @@
     "id": "person:öz-beg-khan-(d.-1341)",
     "label": "Öz Beg Khan (d. 1341)",
     "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-bush",
+    "label": "George W. Bush",
+    "aliases": []
   }
 ]

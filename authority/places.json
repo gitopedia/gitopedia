@@ -248,5 +248,10 @@
     "id": "place:karakorum-(mongolia)",
     "label": "Karakorum (Mongolia)",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]
