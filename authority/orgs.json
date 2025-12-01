@@ -103,5 +103,45 @@
     "id": "org:penguin-books",
     "label": "Penguin Books",
     "aliases": []
+  },
+  {
+    "id": "org:national-human-genome-research-institute-(nhgri)",
+    "label": "National Human Genome Research Institute (NHGRI)",
+    "aliases": []
+  },
+  {
+    "id": "org:roslin-institute-(university-of-edinburgh)",
+    "label": "Roslin Institute (University of Edinburgh)",
+    "aliases": []
+  },
+  {
+    "id": "org:sanger-centre-(cambridge)",
+    "label": "Sanger Centre (Cambridge)",
+    "aliases": []
+  },
+  {
+    "id": "org:sanger-institute",
+    "label": "Sanger Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:international-mouse-genome-sequencing-consortium",
+    "label": "International Mouse Genome Sequencing Consortium",
+    "aliases": []
+  },
+  {
+    "id": "org:wellcome-trust",
+    "label": "Wellcome Trust",
+    "aliases": []
+  },
+  {
+    "id": "org:ipcc-(intergovernmental-panel-on-climate-change)",
+    "label": "IPCC (Intergovernmental Panel on Climate Change)",
+    "aliases": []
+  },
+  {
+    "id": "org:spacex",
+    "label": "SpaceX",
+    "aliases": []
   }
 ]
