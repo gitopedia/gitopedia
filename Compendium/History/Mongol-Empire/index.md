@@ -1,4 +1,4 @@
 # Mongol-Empire Articles
 
-- [The Mongol Empire](the-mongol-empire.md)
+- [The Mongol Empire: Rise, Conquests, and Legacy](the-mongol-empire.md)
 
