@@ -448,5 +448,65 @@
     "id": "place:mars",
     "label": "Mars",
     "aliases": []
+  },
+  {
+    "id": "place:india",
+    "label": "India",
+    "aliases": []
+  },
+  {
+    "id": "place:nigeria",
+    "label": "Nigeria",
+    "aliases": []
+  },
+  {
+    "id": "place:wilmington,-delaware",
+    "label": "Wilmington, Delaware",
+    "aliases": []
+  },
+  {
+    "id": "place:pakistan",
+    "label": "Pakistan",
+    "aliases": []
+  },
+  {
+    "id": "place:ghana",
+    "label": "Ghana",
+    "aliases": []
+  },
+  {
+    "id": "place:kenya",
+    "label": "Kenya",
+    "aliases": []
+  },
+  {
+    "id": "place:algeria",
+    "label": "Algeria",
+    "aliases": []
+  },
+  {
+    "id": "place:jamaica",
+    "label": "Jamaica",
+    "aliases": []
+  },
+  {
+    "id": "place:trinidad-and-tobago",
+    "label": "Trinidad and Tobago",
+    "aliases": []
+  },
+  {
+    "id": "place:barbados",
+    "label": "Barbados",
+    "aliases": []
+  },
+  {
+    "id": "place:new-zealand",
+    "label": "New Zealand",
+    "aliases": []
+  },
+  {
+    "id": "place:australia",
+    "label": "Australia",
+    "aliases": []
   }
 ]
