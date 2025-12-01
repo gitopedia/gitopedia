@@ -663,5 +663,10 @@
     "id": "place:",
     "label": "",
     "aliases": []
+  },
+  {
+    "id": "place:rio-de-janeiro-(brazil)",
+    "label": "Rio de Janeiro (Brazil)",
+    "aliases": []
   }
 ]

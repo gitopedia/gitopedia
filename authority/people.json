@@ -2188,5 +2188,10 @@
     "id": "person:thomas-schelling",
     "label": "Thomas Schelling",
     "aliases": []
+  },
+  {
+    "id": "person:a.c.-pigou-(economist)",
+    "label": "A.C. Pigou (economist)",
+    "aliases": []
   }
 ]

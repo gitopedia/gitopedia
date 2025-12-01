@@ -1,0 +1,183 @@
+Common Resources A blog offering timely analysis and commentary
+
+Resources Radio A weekly podcast of interviews with experts
+
+In Focus Videos of expert insights on major news
+
+Magazine Issues Our Resources magazine digital archive
+
+Magazine Articles Articles from the print magazine
+
+On the Issues A biweekly newsletter that links research to news
+
+Special Series from the Blog Special Series from the Blog
+
+Resources Radio - A weekly podcast that features interviews with researchers and leading experts about climate change, energy, ecosystems, and more.
+
+The History of Environmental Economics, with Spencer Banzhaf
+
+Munimara / Shutterstock
+
+In this week’s episode, host Kristin Hayes talks with Spencer Banzhaf, a professor at North Carolina State University, about the history of the field of environmental economics. Banzhaf discusses the development of the economic definition of value, the early influence of agricultural economists in government, the origins of Resources for the Future and its contributions to the field, and how the field of environmental economics may evolve moving forward.
+
+Listen to the Podcast
+
+Scope of economic research broadened in the twentieth century: “Even until the 1960s, most economists understood their field as being about material welfare. When economists were asked to think about the immaterial aspects of environmental values, like the value of enjoying a recreation trip, or the value of the existence of the scenic landscape, a lot of economists just said, ‘It can’t be done, because we’re a science about material values, and that’s immaterial. So, that’s outside the scope of economics.’ That changed over time.” (9:25)
+
+Resources for the Future and environmental economics: “Resources for the Future arguably invented environmental economics in the 1950s and ’60s. If you had to find one place where it happened, that would be it … [the organization] really represents well the transition that happened at midcentury.” (17:29)
+
+Future trends: “Economists, over time, have measured more and more things, more and more abstract things, or intangible things, with constructs that are more and more theoretically abstract. And I think that’s going to continue. There are signs that economists are getting more involved in measuring the impacts on equity or inequality from policies, and not just the overall net benefit or cost of a policy.” (22:57)
+
+Pricing the Priceless: A History of Environmental Economics by H. Spencer Banzhaf
+
+Scarcity by Fredrik Albritton Jonsson and Carl Wennerlind
+
+Beethoven’s Seventh Symphony
+
+Kristin Hayes: Hello, and welcome to Resources Radio, a weekly podcast from Resources for the Future. I'm your host, Kristin Hayes.
+
+My guest today is Dr. Spencer Banzhaf, a professor in the Department of Agricultural and Resource Economics and director of the Center for Environmental and Resource Economics Policy at North Carolina State University. His primary field of study is the economics of environmental policy, especially related to land use.
+
+We're not going to be talking too much about land use today, however—or, at least, not exclusively. We're going to be talking much more holistically about the field of environmental economics, as I chat with Spencer about his new book, entitled Pricing the Priceless: A History of Environmental Economics. The book came out late in 2023, and its themes will be familiar to many of our Resources Radio listeners. But Spencer pulls in some really wonderful additional historical context and sheds new light on how the discipline came to evolve into what it is today. Stay with us.
+
+Hi, Spencer. Thank you so much for joining me here on Resources Radio.
+
+Spencer Banzhaf: Hi, Kristin. It's my pleasure.
+
+Kristin Hayes: Great. So, I'm just going to say that I'm going to start today's recording with one of my more creative, potentially wackier introductory questions. It's something I've actually wanted to ask you for quite some time, so here we go. Spencer, are you a fan of orchestral music? And I promise I will explain why I'm asking, but let me just start with asking that.
+
+Spencer Banzhaf: I am a fan of orchestral music.
+
+Kristin Hayes: Okay. I had a feeling you might be, because I think I inherited your old phone number from the several years that I believe you spent at Resources for the Future (RFF), because I'd say, twice, I got phone calls from the Atlanta Symphony Orchestra asking me on your behalf if I would like to support them. And you know what? I would, because I, too, am a huge fan of orchestral music. But this was my tiny lens into you from a distance, as someone who had moved to Atlanta and liked orchestral music. But I'd love to hear a little bit more about you too, besides those random bits of information.
+
+Spencer Banzhaf: That's funny. I have to interject with a story, because one of my first jobs after high school was working as a telemarketer for the Milwaukee Symphony Orchestra.
+
+Kristin Hayes: No way.
+
+Spencer Banzhaf: So, these things come around, I guess. I made a lot of those phone calls.
+
+Kristin Hayes: There we go. Yep.
+
+Well, so you are an environmental economist by training. Can you say just a little bit about why the discipline appealed to you in the first place and how you got on this path? And then, we'll talk a little bit more about the book itself.
+
+Spencer Banzhaf: Yes. I think I always liked economics. When I went to college, it was one of the shortlist of majors I had in mind. I didn't know of environmental economics necessarily, but I was intrigued by the idea in my economics 101 class of market failures, as they're sometimes called—reasons why markets might not deliver an ideal outcome. That seemed to be something to think about, something more interesting than just to sit back and let markets work.
+
+And then, it just happened that my first job after college was at Research Triangle Institute, working as a junior economist with Bill Desvousges, Reed Johnson, Rick Dunford—all environmental economists who were wonderful mentors for me and got me on the path that I'm on now.
+
+Kristin Hayes: Okay. Yeah. I don't think the effect of good mentorship and good initial contexts can be understated, so I'm not surprised to hear that you had some great people showing you the path and encouraging you to join them on it. That's great.
+
+As I mentioned at the outset, your new book is entitled Pricing the Priceless: A History of Environmental Economics. Obviously, it’s a topic near and dear to your heart, given your own field and your own areas of research interest. But what took you from a field of study for yourself into, really, a desire to dig into the history of the field and write this book?
+
+Spencer Banzhaf: Yeah. Well, I've always been interested in history, as well, and I had another wonderful mentor as an undergraduate at Duke University, Neil de Marchi, to whom the book is dedicated. He was a historian of economics and helped me on what was arguably my first research project, my undergraduate thesis in history. Those twin sets of mentors have been really important over time for me, and so the opportunity to combine history and environmental economics was very appealing.
+
+Just stepping back from that specific experience, I think in terms of narratives; I imagine most people do. Narratives and stories and a broader story of the history of environmental economics are very interesting, because they can avoid the presentism of just thinking that what's happening in the present is the most important and only truth out there. It gives one a chance to explore the more enduring themes.
+
+Kristin Hayes: That's a wonderful answer, and, frankly, it makes me want to write a book myself. Great answer.
+
+Well, with that very compelling background for why you chose to write this book, let's talk a little bit more about the substance of it. I want to pull out the title as a starting place here—Pricing the Priceless.
+
+The title of the book really speaks to a tension that you note is at the heart of the writing that you did. That tension is, How do you place a value on something, which, at times, has been deemed to be incalculably valuable, and, at other times, has really been something to be monetized and used? I'm going to start there and just ask you to talk about that tension or that dilemma a bit more fully, before we get into any more details.
+
+Spencer Banzhaf: Yes. As you said, the title is Pricing the Priceless, and then you used the word “value.” What is the value of some landscape or ecosystem or some aspect of the natural environment? I think part of that tension is, What do we mean by that word, “value”? There are different meanings that different people have brought to that word or have in mind when they use that word—different meanings over time and in different places from different groups.
+
+One meaning is that it's a very intrinsic, inherent value of something. What is the value of something that exists in the world, something maybe that God created? When you think about it in those terms, it is very hard to put a price on something. And then, we also use the word “value” in more narrow ways, more maybe economic ways. One example of that is that we have in mind a very materialistic, instrumental value for something. What is a resource's value in a production process, or to be used in some very particular way? There, the word “resource” that I just used is quite apposite, because it's something that is, just to repeat, being used for something else.
+
+But then, another economic way that we think about value is that it's related to the trade-offs involved in using it or in preserving it. Those different kinds of economic meanings of the word “value,” the materialistic or instrumental input sense of the word, and the sense in which there are trade-offs involved—those different meanings have evolved, along with the evolution of how the field of economics has understood itself.
+
+Kristin Hayes: I know that you also mentioned that for a long time—I think I'm actually quoting here, "For so long, it seemed impossible to account for the environment economically." So, it was a tension that was acknowledged. But it was a tension that, for a long time, felt impossible to resolve.
+
+It sounds like that's also part of the history of environmental economics—actually looking for opportunities and ways to not just say, "Whoops, we can't do anything about that," but to actually move the discipline forward in incremental ways and make progress. Is that a fair way of characterizing your thesis?
+
+Spencer Banzhaf: Absolutely. Most economics textbooks today would define the field around trade-offs. It would say something like, “Economics is the study of how people have given objectives, and they have scarce means of obtaining those objectives.” Whenever they use those means, those resources—whether it's time or anything else—there are trade-offs, we might say “opportunity costs,” involved.
+
+But before World War II, or even until the 1960s, most economists understood their field as being about material welfare. When economists were asked to think about the immaterial aspects of environmental values, like the value of enjoying a recreation trip or the value of the existence of the scenic landscape, a lot of economists just said, "It can't be done, because we're a science about material values, and that's immaterial. So, that's outside the scope of economics." That changed over time.
+
+Kristin Hayes: You highlighted that, too, as really a key theme of the book—that transformation from this field that was focused on material welfare to this field that was really about the study of trade-offs, and how that gave room for a whole new field of economics.
+
+Let me ask you about another key theme of the book, as well—and I'm going toquote again: You wrote that "A central theme of this book is that the humble applied work of agricultural economists played a particularly important role in the formation of environmental economics, both because of the content of their work and their outlook." I know that was a long quote, but I loved it.
+
+First of all, I love the word “humble,” because it illustrates the foundationality of this work in such a nice way. But I wanted to get into that a little bit more and ask you: You mentioned the content of their work and their outlook. What content and what outlook really drew you to reach the conclusion that you reached?
+
+Spencer Banzhaf: Yes. Agricultural economists, of course, are looking at farms and farmland, and they were thinking a lot about land as a resource. They were asking, When we say land is a resource, what do we mean by that? What is land? What is a resource? Their analysis of farmland and land generally, as a resource, brought them into questions, first of all, about how the quality of a resource can be improved through investments, such as manuring the land, say, or how it can depreciate. How can it be drawn down if you don't make those investments, if you don't take care of the soil, if you deplete it through certain crops, if you let it erode, and so on? They were thinking about the quality of a resource very carefully, as well as the dynamic aspects of it. That's one aspect about the content of their work.
+
+Along with that, they were thinking very carefully about property rights and what institutional arrangements lead to the better conservation of the quality of farmland or not-so-good conservation. They were thinking here, in particular, about whether or not a farm is owned outright by the farmer, or whether there's some other kind of tenure system. If someone's renting their farm, maybe their incentives to take care of the soil quality aren't as good. Those considerations about property rights come very close to the kinds of concerns environmental economists have today about common property and externalities.
+
+Then, a third area of content was that, because agricultural economists were very interested in commodities prices, they were doing a lot of early work in the 1920s on forecasting prices and estimating demands for agricultural commodities. That focus on the demand side by a number of economists—Holbrook and Elmer Working; George Kuznets, he's a little later; Mordecai Ezekiel—would be on the early side. Their work in that area was foundational for a lot of early environmental economists thinking about the demand for environmental quality.
+
+Then, last of all, in terms of their outlook in the first half of the twentieth century, agricultural economists were in government much more than any other field of economics. They were just dominating. That's in part because the US Department of Agriculture was early in hiring a lot of economists. They hired very many, so they were there first. Then, when other departments of the US government were hiring more economists, they were spreading out from the Department of Agriculture. But that work in government, as well as the work as advisors to farmers through agricultural extension and other programs, gave them a very applied outlook, and they were willing to get their hands dirty, metaphorically, just like the farmer does, literally.
+
+Kristin Hayes: That's really interesting. I find myself wondering if this is juxtaposed with something. I'll see if I can explain what I'm thinking here. Agricultural economics is one subfield, I guess I'd say. Presumably, there were many others that were also influencing environmental economics, but you note that this is a particularly important one. How does it compare or magnify itself compared to some of those other subdisciplines that were also in the economics atmosphere at the time—if that makes any sense?
+
+Spencer Banzhaf: Absolutely. I don't want to say agricultural economics was totally unique in all those things. Economists everywhere want to be relevant to public policy and to make a difference. But there are differences in outlook. You have some economists who might be categorized as taking a position of being a high theorist, doing very theoretical work. Then, others apply their theory to more practical problems. They're staying away from the messiness of those problems themselves. I think you sometimes see that, and, certainly, there are plenty of economic theorists that have had an important mark on environmental economics, but maybe not as hands-on an impact.
+
+Then, you have others who maybe feel that the role of the scientist is to not get involved in practical problems as much—public finance economists like A. C. Pigou. Pigou is very connected to environmental economists for his theories about externalities and how we can use taxes to correct for them. But he was someone who felt that the role of the economist was to explain the economy and let policymakers make the decisions about what to do with that, and to not get too closely involved in the policymaking himself.
+
+Kristin Hayes: Interesting. I'm going to take this opportunity, since you're talking about this intersection of environmental economics and policy. That just really makes me want to ask you a question specifically about RFF. I can't resist, because that's the intersection at which Resources for the Future sits.
+
+RFF is definitely in this book, I'm very happy to say. It's first mentioned on page 25 of the book. Its researchers show up in many pages throughout, which warmed my heart. But I wanted to ask about one particular phrase where you wrote that, "RFF serves as a microcosm of the history of environmental economics." I loved that sentence, and I wanted to ask you if you could tell us, How so?
+
+Spencer Banzhaf: Absolutely. Well, Resources for the Future arguably invented environmental economics in the 1950s and '60s. If you had to find one place where it happened, that would be it, so RFF is definitely very important to the book. It's another place that's very important to my heart, as well. I was there from 2001 to 2006 as a fellow, when it was celebrating its 50th anniversary at the time. That was a great opportunity for me. I made many good friends there and learned so much. But why is it a microcosm?
+
+I think it's a microcosm, because it really represents well the transition that happened at midcentury—say, the '50s and '60s—from this thinking about natural resources in materialistic ways, as inputs into production. It represents the transition from that way of thinking to thinking about the environment much more broadly, and as something that supports all of life and also supports many services that we just enjoy aside from the materialistic aspects.
+
+You can see that transition, because the immediate prehistory of RFF was something called the Paley Commission, named for William Paley, who led it. That was a midcentury commission that was looking at natural resource scarcity. Following World War II, as the United States was moving into the Cold War, there was a concern about whether or not the resources were there to maintain our quality of life, our way of life, and frankly, to outlast the Soviet Union in the Cold War.
+
+The concerns raised by that commission very much led right into RFF. The Ford Foundation started RFF based on those concerns. RFF's first output was a midcentury conference on natural resources in that theme. Then, its first, most important books continued that theme and then transitioned away from it. A book by Neal Potter and Francis Christy came out in 1962, called Trends in Natural Resource Commodities, is just basically documenting lots of facts about natural resource scarcity.
+
+Then, more importantly, right after that, Harold Barnett and Chandler Morse wrote a book called Scarcity and Growth in 1963, where they looked at all that data from Potter and Christy and said, "We're really not seeing signs of natural resource scarcity here—at least not writ large. Maybe very particular resources are going scarce, but the big picture is, No, prices are not going up. Labor productivity in the extraction industries is not going down. There's really no sign that we're running out of resources, or that it's harder to obtain them.”
+
+Then, they close their book by saying, "But maybe there's another issue that we should be thinking more about, and that is the public-good nature of environmental quality, and whether environmental quality is declining, because markets are not there to take care of that." That was 1963, and, within five years of that, you have Allen Kneese doing his work on pricing water pollution to maintain water quality.
+
+You see John Krutilla writing a very important essay in 1967 called “Conservation Reconsidered,” where he introduces the idea of existence values, the values we have just for the existence of a beautiful landscape or ecosystem. Over that time period, the research agenda really changed, and that happened at RFF.
+
+Kristin Hayes: Yeah, and it continues to do so. I've been at RFF for about … It'll be almost 15 years, and it is a place where that sense of history is palpable, for sure—the sense of legacy. So many of the names that you just mentioned are names that are spoken in hushed tones, if you will. They’re people who clearly did lay the foundation for a lot of the field. We were privileged to have them work at RFF for quite some time.
+
+As we get toward the end of our conversation here, I want to look a little bit towards the future of environmental economics, particularly because you yourself, in the epilogue to the book, look in that direction. But you build on the history that you've described in the previous chapters. In that epilogue, you describe eight themes that have emerged from that historical perspective, but are likely to be equally relevant moving forward. Let me ask you about those. Can you highlight a few of those themes for us?
+
+Spencer Banzhaf: Yes. We already talked about the changing definition of economics. I think it'll be interesting to see how that definition continues to change, whether it becomes more about measurement, as opposed to a particular way of thinking. But measurement itself, I think, is a very important theme in the past and will be going forward. Economists, over time, have measured more and more things, more and more abstract things or intangible things, with constructs that are more and more theoretically abstract. And I think that's going to continue.
+
+There are signs that economists are getting more involved in measuring the impacts on equity or inequality from policies and not just the overall net benefit or cost of a policy. We're getting involved in measuring very complex things, like the social cost of carbon, which I know you've talked about on this podcast. That's a kind of price, but it's just a very complicated one. We're getting involved with moving GDP and other kinds of measures of income and assets in an economy to account for natural assets, as well. I think measurement is an important theme.
+
+I think economists' role in political controversy is another important theme. One of the issues we talked about earlier, how when economists were first asked to think about the immaterial values of nature, they said it couldn't be done. They had to do it anyway, because they were dragged into it by political controversy. Their bosses and government made them do it. I think that kind of thing can continue to happen. As economists work on applied problems, they don't always get to pick what the applications are.
+
+Kristin Hayes: Spencer, this has been really interesting, and I do want to just recommend this book again to our listeners. It's got some wonderful personalities highlighted in it. It's got some wonderful, obviously historical context—but anecdotes that bring the field to life. It's got some good theory and some good economic terminology and figures who many of our listeners will recognize. But it really just pulls it together, and it's very well-written, so I just want to compliment you on it. Thanks for coming on the podcast to share a little bit more about the book with us.
+
+Spencer Banzhaf: Thank you, Kristin. I enjoyed it very much.
+
+Kristin Hayes: Great. Well, let me close with our regular feature, Top of the Stack. We've already been talking here about a book, of course, but I would welcome your recommendations on other good content of any type that you might want to suggest to our listeners. So, Spencer, what's on the top of your stack?
+
+Spencer Banzhaf: I think people who are interested in these topics might be interested in a book called Scarcity by Fredrik Albritton Jonsson and Carl Wennerlind that came out last year by Harvard University Press. It looks at different ways economists have thought about what scarcity means and the ability of humanity to overcome it or not. And I think anytime is a good time to listen to Beethoven's Seventh Symphony, so I recommend that.
+
+Kristin Hayes: Such a good, full circle orchestral recommendation to pull it all the way back to the top of the podcast recording. That was great. I will second that. I love Beethoven's Seventh, so I might even subscribe. I might even look for an Atlanta Symphony Orchestra recording in your honor on Spotify.
+
+Spencer Banzhaf: Right.
+
+Kristin Hayes: Thank you, again. It's been a pleasure. I’m looking forward to staying in touch.
+
+Spencer Banzhaf: Thank you, Kristin. Me, too.
+
+Kristin Hayes: You've been listening to Resources Radio, a podcast from Resources for the Future, or RFF. If you have a minute, we'd really appreciate you leaving us a rating or a comment on your podcast platform of choice. Also, feel free to send us your suggestions for future episodes.
+
+This podcast is made possible with the generous financial support of our listeners. You can help us continue producing these kinds of discussions on the topics that you care about by making a donation to Resources for the Future online at rff.org/donate.
+
+RFF is an independent, nonprofit research institution in Washington, DC. Our mission is to improve environmental, energy, and natural resource decisions through impartial economic research and policy engagement. The views expressed on this podcast are solely those of the podcast guests and may differ from those of RFF experts, its officers, or its directors. RFF does not take positions on specific legislative proposals.
+
+Resources Radio is produced by Elizabeth Wason, with music by Daniel Raimi. Join us next week for another episode.
+
+Professor, North Carolina State University
+
+Senior Director for Research and Policy Engagement
+
+70 Years of RFF: The Legacy of Resources for the Future, with Ray Kopp and Kerry Smith
+
+Integrating Nature into US Economic Statistics, with Eli Fenichel
+
+RFF at 70: From Resource Economics to a Net-Zero Economy
+
+Resource Revenue-Sharing Agreements
+
+Sign up to receive our Resources Radio podcast and On the Issues newsletter every week.
+
+Become an RFF donor and receive our print magazine three times a year.
+
+We use cookies to provide you with a better service. Carry on browsing if you're happy with this, or find out more.
