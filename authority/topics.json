@@ -2723,5 +2723,210 @@
     "id": "topic:imperialism",
     "label": "Imperialism",
     "aliases": []
+  },
+  {
+    "id": "topic:cybersecurity-best-practices",
+    "label": "Cybersecurity Best Practices",
+    "aliases": []
+  },
+  {
+    "id": "topic:information-security-(infosec)",
+    "label": "Information Security (INFOSEC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:information-assurance-(ia)",
+    "label": "Information Assurance (IA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:malware",
+    "label": "malware",
+    "aliases": []
+  },
+  {
+    "id": "topic:antivirus-software",
+    "label": "antivirus software",
+    "aliases": []
+  },
+  {
+    "id": "topic:ransomware",
+    "label": "ransomware",
+    "aliases": []
+  },
+  {
+    "id": "topic:machine-learning-(ml)",
+    "label": "Machine Learning (ML)",
+    "aliases": []
+  },
+  {
+    "id": "topic:network-security",
+    "label": "network security",
+    "aliases": []
+  },
+  {
+    "id": "topic:firewall",
+    "label": "firewall",
+    "aliases": []
+  },
+  {
+    "id": "topic:encryption",
+    "label": "encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-security",
+    "label": "data security",
+    "aliases": []
+  },
+  {
+    "id": "topic:cybercrime",
+    "label": "cybercrime",
+    "aliases": []
+  },
+  {
+    "id": "topic:system-security",
+    "label": "system security",
+    "aliases": []
+  },
+  {
+    "id": "topic:cyber-attacks",
+    "label": "cyber attacks",
+    "aliases": []
+  },
+  {
+    "id": "topic:network-vulnerabilities",
+    "label": "network vulnerabilities",
+    "aliases": []
+  },
+  {
+    "id": "topic:two-factor-authentication",
+    "label": "two-factor authentication",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-factor-authentication",
+    "label": "multi-factor authentication",
+    "aliases": []
+  },
+  {
+    "id": "topic:threat-intelligence",
+    "label": "threat intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:network-behavioral-analysis-(nba)",
+    "label": "Network Behavioral Analysis (NBA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:real-time-protection",
+    "label": "real-time protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:backup-and-mirroring",
+    "label": "backup and mirroring",
+    "aliases": []
+  },
+  {
+    "id": "topic:website-application-firewalls",
+    "label": "website application firewalls",
+    "aliases": []
+  },
+  {
+    "id": "topic:5g-network",
+    "label": "5G network",
+    "aliases": []
+  },
+  {
+    "id": "topic:osi-model",
+    "label": "OSI model",
+    "aliases": []
+  },
+  {
+    "id": "topic:tcp/ip-model",
+    "label": "TCP/IP model",
+    "aliases": []
+  },
+  {
+    "id": "topic:network-topology",
+    "label": "network topology",
+    "aliases": []
+  },
+  {
+    "id": "topic:ip-addressing",
+    "label": "IP addressing",
+    "aliases": []
+  },
+  {
+    "id": "topic:subnetting",
+    "label": "subnetting",
+    "aliases": []
+  },
+  {
+    "id": "topic:authentication",
+    "label": "authentication",
+    "aliases": []
+  },
+  {
+    "id": "topic:encryption-algorithms",
+    "label": "encryption algorithms",
+    "aliases": []
+  },
+  {
+    "id": "topic:content-distribution-network-(cdn)",
+    "label": "Content Distribution Network (CDN)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quality-of-service-(qos)",
+    "label": "Quality of Service (QoS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:wireless-communication",
+    "label": "wireless communication",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-breach",
+    "label": "data breach",
+    "aliases": []
+  },
+  {
+    "id": "topic:phishing",
+    "label": "phishing",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-in-cybersecurity",
+    "label": "AI in cybersecurity",
+    "aliases": []
+  },
+  {
+    "id": "topic:zero-trust-architecture",
+    "label": "zero trust architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:cyber-threats",
+    "label": "cyber threats",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-protection",
+    "label": "data protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-security",
+    "label": "digital security",
+    "aliases": []
+  },
+  {
+    "id": "topic:cia-triad",
+    "label": "CIA Triad",
+    "aliases": []
   }
 ]
