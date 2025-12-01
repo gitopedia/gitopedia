@@ -1663,5 +1663,70 @@
     "id": "topic:social-justice-theory",
     "label": "Social Justice Theory",
     "aliases": []
+  },
+  {
+    "id": "topic:virtue-ethics",
+    "label": "Virtue Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:deontology",
+    "label": "Deontology",
+    "aliases": []
+  },
+  {
+    "id": "topic:utilitarianism",
+    "label": "Utilitarianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:business-ethics",
+    "label": "Business Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:professional-codes-of-ethics",
+    "label": "Professional Codes of Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:normative-ethics",
+    "label": "Normative Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:applied-ethics",
+    "label": "Applied Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:moral-philosophy",
+    "label": "Moral Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:deontological-ethics",
+    "label": "Deontological Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:professional-ethics",
+    "label": "Professional Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-ethics",
+    "label": "Climate Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:code-of-medical-ethics",
+    "label": "Code of Medical Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:hippocratic-oath",
+    "label": "Hippocratic Oath",
+    "aliases": []
   }
 ]
