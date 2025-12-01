@@ -1153,5 +1153,115 @@
     "id": "topic:stents",
     "label": "Stents",
     "aliases": []
+  },
+  {
+    "id": "topic:metaphysics",
+    "label": "Metaphysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:brahmodya",
+    "label": "Brahmodya",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmavidya",
+    "label": "atmavidya",
+    "aliases": []
+  },
+  {
+    "id": "topic:vedic-period",
+    "label": "Vedic period",
+    "aliases": []
+  },
+  {
+    "id": "topic:upanishadic-period",
+    "label": "Upanishadic period",
+    "aliases": []
+  },
+  {
+    "id": "topic:upanishads",
+    "label": "Upanishads",
+    "aliases": []
+  },
+  {
+    "id": "topic:first-philosophy",
+    "label": "First Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:potentiality-and-actuality",
+    "label": "Potentiality and Actuality",
+    "aliases": []
+  },
+  {
+    "id": "topic:prime-mover",
+    "label": "Prime Mover",
+    "aliases": []
+  },
+  {
+    "id": "topic:principle-of-contradiction",
+    "label": "Principle of Contradiction",
+    "aliases": []
+  },
+  {
+    "id": "topic:structure-of-logic-as-integral-to-philosophy",
+    "label": "Structure of Logic as Integral to Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-nature-of-existence-and-reality",
+    "label": "The Nature of Existence and Reality",
+    "aliases": []
+  },
+  {
+    "id": "topic:causation",
+    "label": "Causation",
+    "aliases": []
+  },
+  {
+    "id": "topic:form-and-matter",
+    "label": "Form and Matter",
+    "aliases": []
+  },
+  {
+    "id": "topic:mathematical-objects",
+    "label": "Mathematical Objects",
+    "aliases": []
+  },
+  {
+    "id": "topic:ancient-philosophy",
+    "label": "Ancient Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:western-thought",
+    "label": "Western Thought",
+    "aliases": []
+  },
+  {
+    "id": "topic:substance",
+    "label": "Substance",
+    "aliases": []
+  },
+  {
+    "id": "topic:potentiality/actuality",
+    "label": "Potentiality/Actuality",
+    "aliases": []
+  },
+  {
+    "id": "topic:big-bang-theory",
+    "label": "Big Bang theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:analytic-metaphysics",
+    "label": "Analytic metaphysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:philosophy",
+    "label": "Philosophy",
+    "aliases": []
   }
 ]
