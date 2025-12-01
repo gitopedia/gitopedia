@@ -863,5 +863,35 @@
     "id": "topic:middle-income-trap",
     "label": "Middle-Income Trap",
     "aliases": []
+  },
+  {
+    "id": "topic:the-rise-and-fall-of-the-byzantine-empire",
+    "label": "The Rise and Fall of the Byzantine Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:byzantine-empire",
+    "label": "Byzantine Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:ottoman-empire",
+    "label": "Ottoman Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:medieval-history",
+    "label": "Medieval History",
+    "aliases": []
+  },
+  {
+    "id": "topic:cultural-legacy",
+    "label": "Cultural Legacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:historical-terminology",
+    "label": "Historical Terminology",
+    "aliases": []
   }
 ]
