@@ -1728,5 +1728,90 @@
     "id": "topic:hippocratic-oath",
     "label": "Hippocratic Oath",
     "aliases": []
+  },
+  {
+    "id": "topic:smart-grid-technologies",
+    "label": "Smart Grid Technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:advanced-metering-infrastructure-(ami)",
+    "label": "Advanced Metering Infrastructure (AMI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-automation",
+    "label": "Grid Automation",
+    "aliases": []
+  },
+  {
+    "id": "topic:cybersecurity",
+    "label": "Cybersecurity",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage",
+    "label": "Energy Storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:blockchain",
+    "label": "Blockchain",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-change-mitigation",
+    "label": "Climate Change Mitigation",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainability",
+    "label": "Sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:natural-gas-engineering",
+    "label": "Natural Gas Engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:telecommunications-engineering",
+    "label": "Telecommunications Engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:transmission-and-distribution",
+    "label": "Transmission and Distribution",
+    "aliases": []
+  },
+  {
+    "id": "topic:utility-engineering",
+    "label": "Utility Engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-grid",
+    "label": "smart grid",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-grids",
+    "label": "Smart Grids",
+    "aliases": []
+  },
+  {
+    "id": "topic:iot",
+    "label": "IoT",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai",
+    "label": "AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-cooperation",
+    "label": "International Cooperation",
+    "aliases": []
   }
 ]
