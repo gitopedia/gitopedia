@@ -1858,5 +1858,15 @@
     "id": "person:john-smith-(economist,-nobel-laureate)",
     "label": "John Smith (economist, Nobel laureate)",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
