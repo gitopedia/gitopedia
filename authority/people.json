@@ -723,5 +723,35 @@
     "id": "person:he-jiankui",
     "label": "He Jiankui",
     "aliases": []
+  },
+  {
+    "id": "person:nick-szabo",
+    "label": "Nick Szabo",
+    "aliases": []
+  },
+  {
+    "id": "person:simon-schwerin",
+    "label": "Simon Schwerin",
+    "aliases": []
+  },
+  {
+    "id": "person:patrick-hansen",
+    "label": "Patrick Hansen",
+    "aliases": []
+  },
+  {
+    "id": "person:taylor-monahan",
+    "label": "Taylor Monahan",
+    "aliases": []
+  },
+  {
+    "id": "person:sam-bankman-fried",
+    "label": "Sam Bankman-Fried",
+    "aliases": []
+  },
+  {
+    "id": "person:vitalik-buterin-(co-founder-of-ethereum)",
+    "label": "Vitalik Buterin (co-founder of Ethereum)",
+    "aliases": []
   }
 ]
