@@ -593,5 +593,50 @@
     "id": "place:china-(country)",
     "label": "China (country)",
     "aliases": []
+  },
+  {
+    "id": "place:suzhou-(china)",
+    "label": "Suzhou (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:sichuan-(province,-china)",
+    "label": "Sichuan (province, China)",
+    "aliases": []
+  },
+  {
+    "id": "place:shanghai-(china)",
+    "label": "Shanghai (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:texas",
+    "label": "Texas",
+    "aliases": []
+  },
+  {
+    "id": "place:california",
+    "label": "California",
+    "aliases": []
+  },
+  {
+    "id": "place:switzerland",
+    "label": "Switzerland",
+    "aliases": []
+  },
+  {
+    "id": "place:spain",
+    "label": "Spain",
+    "aliases": []
+  },
+  {
+    "id": "place:puerto-rico",
+    "label": "Puerto Rico",
+    "aliases": []
+  },
+  {
+    "id": "place:ontario",
+    "label": "Ontario",
+    "aliases": []
   }
 ]
