@@ -638,5 +638,20 @@
     "id": "place:ontario",
     "label": "Ontario",
     "aliases": []
+  },
+  {
+    "id": "place:chennai-(tamil-nadu)",
+    "label": "Chennai (Tamil Nadu)",
+    "aliases": []
+  },
+  {
+    "id": "place:tirupati-(andhra-pradesh)",
+    "label": "Tirupati (Andhra Pradesh)",
+    "aliases": []
+  },
+  {
+    "id": "place:scotland-(country)",
+    "label": "Scotland (country)",
+    "aliases": []
   }
 ]
