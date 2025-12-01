@@ -1433,5 +1433,20 @@
     "id": "person:queen-elizabeth-ii",
     "label": "Queen Elizabeth II",
     "aliases": []
+  },
+  {
+    "id": "person:bob-thomas",
+    "label": "Bob Thomas",
+    "aliases": []
+  },
+  {
+    "id": "person:ray-tomlinson",
+    "label": "Ray Tomlinson",
+    "aliases": []
+  },
+  {
+    "id": "person:john-mcafee",
+    "label": "John McAfee",
+    "aliases": []
   }
 ]

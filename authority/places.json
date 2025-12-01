@@ -508,5 +508,10 @@
     "id": "place:australia",
     "label": "Australia",
     "aliases": []
+  },
+  {
+    "id": "place:united-states-(country)",
+    "label": "United States (country)",
+    "aliases": []
   }
 ]
