@@ -233,5 +233,40 @@
     "id": "org:house-of-wisdom",
     "label": "House of Wisdom",
     "aliases": []
+  },
+  {
+    "id": "org:arusi-engineering",
+    "label": "ARUSI Engineering",
+    "aliases": []
+  },
+  {
+    "id": "org:bahria-university,-islamabad",
+    "label": "Bahria University, Islamabad",
+    "aliases": []
+  },
+  {
+    "id": "org:shaheed-zulfiqar-ali-bhutto-institute-of-sciences-and-technology-(szabist),-islamabad",
+    "label": "Shaheed Zulfiqar Ali Bhutto Institute of Sciences and Technology (SZABIST), Islamabad",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-engineering-and-computational-intelligence-review",
+    "label": "Journal of Engineering and Computational Intelligence Review",
+    "aliases": []
+  },
+  {
+    "id": "org:international-electrotechnical-commission-(iec)",
+    "label": "International Electrotechnical Commission (IEC)",
+    "aliases": []
+  },
+  {
+    "id": "org:world-economic-forum",
+    "label": "World Economic Forum",
+    "aliases": []
+  },
+  {
+    "id": "org:national-smart-grid-mission-(india)",
+    "label": "National Smart Grid Mission (India)",
+    "aliases": []
   }
 ]
