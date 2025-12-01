@@ -268,5 +268,20 @@
     "id": "org:national-smart-grid-mission-(india)",
     "label": "National Smart Grid Mission (India)",
     "aliases": []
+  },
+  {
+    "id": "org:international-energy-agency",
+    "label": "International Energy Agency",
+    "aliases": []
+  },
+  {
+    "id": "org:world-bank’s-energy-storage-partnership",
+    "label": "World Bank’s Energy Storage Partnership",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm",
+    "label": "IBM",
+    "aliases": []
   }
 ]
