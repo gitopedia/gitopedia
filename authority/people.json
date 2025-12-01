@@ -518,5 +518,20 @@
     "id": "person:leo-the-mathematician",
     "label": "Leo the Mathematician",
     "aliases": []
+  },
+  {
+    "id": "person:erwin-schrödinger",
+    "label": "Erwin Schrödinger",
+    "aliases": []
+  },
+  {
+    "id": "person:julian-schwinger",
+    "label": "Julian Schwinger",
+    "aliases": []
+  },
+  {
+    "id": "person:sin-itiro-tomonaga",
+    "label": "Sin-Itiro Tomonaga",
+    "aliases": []
   }
 ]
