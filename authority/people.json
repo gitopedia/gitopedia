@@ -1823,5 +1823,25 @@
     "id": "person:lewis-urry",
     "label": "Lewis Urry",
     "aliases": []
+  },
+  {
+    "id": "person:karim-arabi",
+    "label": "Karim Arabi",
+    "aliases": []
+  },
+  {
+    "id": "person:alex-reznik",
+    "label": "Alex Reznik",
+    "aliases": []
+  },
+  {
+    "id": "person:antonia-basca",
+    "label": "Antonia Basca",
+    "aliases": []
+  },
+  {
+    "id": "person:fragkiskos-sardis",
+    "label": "Fragkiskos Sardis",
+    "aliases": []
   }
 ]

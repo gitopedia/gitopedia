@@ -4078,5 +4078,165 @@
     "id": "topic:ai-driven-grid-management",
     "label": "AI-Driven Grid Management",
     "aliases": []
+  },
+  {
+    "id": "topic:edge-computing",
+    "label": "Edge computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:fog-computing",
+    "label": "Fog computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:cloud-computing",
+    "label": "Cloud computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:internet-of-things-(iot)",
+    "label": "Internet of Things (IoT)",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-cities",
+    "label": "Smart cities",
+    "aliases": []
+  },
+  {
+    "id": "topic:serverless-architecture",
+    "label": "Serverless architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:content-delivery-network",
+    "label": "Content delivery network",
+    "aliases": []
+  },
+  {
+    "id": "topic:mobile-edge-computing",
+    "label": "Mobile edge computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:distributed-computing-architecture",
+    "label": "Distributed computing architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:load-balancing-(computing)",
+    "label": "Load balancing (computing)",
+    "aliases": []
+  },
+  {
+    "id": "topic:autonomous-driving",
+    "label": "Autonomous driving",
+    "aliases": []
+  },
+  {
+    "id": "topic:facial-recognition",
+    "label": "Facial recognition",
+    "aliases": []
+  },
+  {
+    "id": "topic:augmented-reality",
+    "label": "Augmented reality",
+    "aliases": []
+  },
+  {
+    "id": "topic:industry-4.0",
+    "label": "Industry 4.0",
+    "aliases": []
+  },
+  {
+    "id": "topic:home-automation",
+    "label": "Home automation",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-systems",
+    "label": "Satellite systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:edge-ai",
+    "label": "Edge AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:edge-intelligence",
+    "label": "Edge intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:on-device-ai",
+    "label": "On-device AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:heterogeneous-computing",
+    "label": "Heterogeneous computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:wireless-sensor-networks",
+    "label": "Wireless sensor networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:radio-frequency-identification",
+    "label": "Radio-frequency identification",
+    "aliases": []
+  },
+  {
+    "id": "topic:internet-refrigerator",
+    "label": "Internet refrigerator",
+    "aliases": []
+  },
+  {
+    "id": "topic:natural-language-processing",
+    "label": "Natural Language Processing",
+    "aliases": []
+  },
+  {
+    "id": "topic:5g",
+    "label": "5G",
+    "aliases": []
+  },
+  {
+    "id": "topic:6g",
+    "label": "6G",
+    "aliases": []
+  },
+  {
+    "id": "topic:metaverse",
+    "label": "Metaverse",
+    "aliases": []
+  },
+  {
+    "id": "topic:security-/-data-/-privacy",
+    "label": "Security / data / privacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:telemedicine",
+    "label": "Telemedicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:haptic-feedback",
+    "label": "Haptic Feedback",
+    "aliases": []
+  },
+  {
+    "id": "topic:on-device-learning",
+    "label": "On-device Learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:tactile-internet",
+    "label": "Tactile Internet",
+    "aliases": []
   }
 ]
