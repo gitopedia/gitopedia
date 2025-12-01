@@ -638,5 +638,15 @@
     "id": "place:ontario",
     "label": "Ontario",
     "aliases": []
+  },
+  {
+    "id": "place:marseille-(france)",
+    "label": "Marseille (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:berlin-(germany)",
+    "label": "Berlin (Germany)",
+    "aliases": []
   }
 ]

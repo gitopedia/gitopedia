@@ -1,0 +1,226 @@
+# Quantum Gravity
+
+- FAUTo the central FAU website
+
+- ResearchResearchWhat is Quantum Gravity?General RelativityQuantum Field TheoryGauge TheoryCosmologyHigh Energy and Astroparticle PhysicsMathematical PhysicsLoop Quantum GravityPortal Research
+
+- What is Quantum Gravity?
+
+- High Energy and Astroparticle Physics
+
+- PublicationsPublicationsPast bachelor, master and phd thesesPortal Publications
+
+- Past bachelor, master and phd theses
+
+- TeachingTeachingWinter Term 22/23Summer Term 2022Winter Term 21/22Summer Term 2021Winter Term 20/21Previous TermsPortal Teaching
+
+- SeminarsSeminarsGroup SeminarInternational Loop Quantum Gravity SeminarStudents Quantum Gravity SeminarPhysics ColloquiumPortal Seminars
+
+- International Loop Quantum Gravity Seminar
+
+- Students Quantum Gravity Seminar
+
+- ContactContactHow to find usJoin the InstituteTheses ProjectsLoginPortal Contact
+
+- What is Quantum Gravity?
+
+- What is Quantum Gravity?
+
+- What is Quantum Gravity?
+
+- High Energy and Astroparticle Physics
+
+- Publications Past bachelor, master and phd theses
+
+- Past bachelor, master and phd theses
+
+- What is Quantum Gravity?
+
+- What is Quantum Gravity?
+
+- According to our current knowledge, the foundations of physics rest on two guiding principles: General Relativity (GR) and Quantum Theory (QT).
+- GR is Einstein’s theory of the gravitational force while QT is the cornerstone of Quantum Field Theory (QFT), the framework underlying elementary particle physics.
+- QFT describes all known interactions of matter, that is, the electromagnetic, weak and strong force together with all elementary particles, that is, fermions (the charged leptons such as the electron, the neutral leptons such as the electron neutrino, and the quarks, such as up and down quarks which are the building blocks for neutron and proton) and bosons (photon, W-and Z bosons and gluon).
+- Together these particles are embedded into the standard model of all matter.
+- The only interaction that is not described by QT today is the gravitational interaction.
+- To understand why this is an important problem of foundational physics, why a combined theory of GR and QT, called Quantum Gravity (QG), is necessary, why such a synthesis is a challenge for theoretical and mathematical physics and how QG connects with the most interesting questions and puzzles of contemporary high precision experimental cosmology and astrophysics, we start out by describing GR and QT in some detail.
+
+- What is General Relativity?
+
+- GR is Einstein’s geometric interpretation of gravity, according to which the gravitational force is replaced by the curvature of spacetime.
+- Imagine a tablecloth spanned in a frame which is held fixed in a plane parallel to the surface of Earth.
+- Position a heavy steel ball in the middle of the tablecloth and let a marble roll on the tablecloth.
+- The tablecloth will be curved in the vicinity of the steel ball and the marble’s path will deviate from a straight line when it comes close to it.
+- This is a model of the solar system with the sun replaced by the steel ball, any planet replaced by the marble and 3-dimensional space replaced by the 2-dimensional tablecloth.
+- The marble’s path is attracted towards the steel ball not because there is a force between marble and steel ball within the plane of the tablecloth but rather because the geometry of the tablecloth is curved in the neighbourhood of the steel ball.
+- GR is today widely accepted as our best description of the physics of the gravitational field, improving Newton’s theory of gravity.
+- It has been successfully tested in countless experiments among which the perihelion rotation of Mercury, the light deflection at the sun and gravitational lensing, gravitational radiation, black holes, the big bang, the cosmological constant, the expansion of the universe, the cosmological microwave background radiation (CMBR) and gravitational redshift are just the most spectacular predictions of the theory.
+- Without taking GR redshift effects into account, the global positioning system (GPS) that is used for instance in automobile navigation systems would have no chance to work properly and to achieve a resolution of 10m or better.
+- The CMBR is what is left of the electromagnetic radiation in the universe that was created some 300.000 years after the big bang and whose frequency is redshifted to an equivalent temperature of about 2.7K today due to the expansion of the universe.
+- It is our best tool today to perform high precision cosmology and to understand and test our ideas about structure formation in the universe and beyond.
+- There is growing evidence that there is supermassive black hole of about 4 million solar masses in the centre of our own galaxy, the milky way.
+- Concerning gravitational waves, the detection provides a technical challenge: Even if the mirrors of the interferometer are separated by 1km, the stretching of spacetime caused by a realistic source will move the mirrors only by a distance of about the diameter of a proton!
+- However, almost precisely 100 years after the predication of gravitational waves by Einstein himself the LIGO collaboration was able to directly detect the first gravitational wave signal GW150914 stemming from the merging of two black holes of some 29 and 36 solar masses respectively at a distance of about one billion light years.
+- Gravitational wave detectors will open a new chapter in astronomy because in contrast to detectors based on electromagnetic waves, gravitational wave detectors can, in principle, measure radiation created in the very early universe close to the big bang while electromagnetic radiation was caught in the plasma of the early universe until about 300.000 years after the big bang.
+- One may hope that they could even open an experimental window into Quantum Gravity as we will explain below.
+
+- What is Quantum Theory?
+
+- Quantum Theory is the opposite of a classical theory.
+- A classical theory is predictive to, in principle, infinite precision.
+- Roughly speaking this means that if we know for instance position and velocity of a classical point particle at a given instant of time we can compute in principle its trajectory exactly.
+- In Quantum Theory this is not possible, there is principally no way to compute the trajectory of a quantum point particle exactly due to the famous Heisenberg uncertainty obstruction: It is excluded to know both position and velocity of the particle at any moment of time to infinite precision.
+- Quantum Theory is an indeterministic, that is, probabilistic theory that only allows to compute probabilities for what happens next to the particle once its initial data have been measured within the error bounds allowed by the Heisenberg uncertainty obstruction.
+- The reason for why we do not notice this effect in everyday life is because macroscopic bodies such as a ball that we throw is not made of point particles (say protons, neutrons and electrons) but in fact of an order of 1023 such particles and their individual nondeterministic properties balance out (decohere).
+- However, QT is our best current theory that very accurately describes the microphysics of elementary particles as already mentioned.
+- It is a bizarre theory that attributes to particles also the properties of waves, an apparent contradiction that is only satisfactorily resolved when passing to Quantum Field Theory (QFT): The quantum theoretical description of a classical theory of waves such as the electromagnetic waves of Maxwell’s Theory leads automatically to the concept of photons which have the properties of particles as is nicely demonstrated in the double slit experiment or the photo effect.
+- A photon is a particle of definite 4-momentum but indefinite spacetime location which corresponds to a plane wave with that 4-momentum.
+- Thus, a particle is attributed to both wave phenomena as well as particle phenomena (such as energy and momentum).
+- The founders of the theory comprise theoretical physicist giants such as Planck, Einstein, Born, Heisenberg, Schrödinger, de Broglie, Pauli and many others.
+- QT has been verified in countless experiments and still gets verified to higher and higher precision at the high energy accelerators such as the LHC at CERN which is a microscope with an energy resolution in the range of the TeV scale.
+- The standard model of matter as described above with its three families of fermions and the bosons has been verified to extremely high precision.
+- Currently, high energy physicists impatiently await the discovery of a fourth kind of boson, the so called Higgs boson which is supposed to be responsible for the mass of all massive particles, and possibly a substructure of the currently known elementary particles and beyond, for instance their supersymmetric partners if supersymmetry (equal amounts of bosons and fermions of any given mass) is realized in nature.
+- The discovery of physics beyond the standard model also has an impact on the large scale structure of the universe in the form of so called dark matter as will be described below.
+- As our short sketch reveals, the two building blocks of foundational physics are theories that are very different from each other: GR describes the macrocosm (stars, galaxies, clusters, superclusters, the universe) while QT reigns the microcosm of elementary particle physics.
+- GR is a classical, deterministic theory while elementary particles are described by QFT.
+- GR is about gravity while QFT describes the other three known forces.
+- GR is a geometric theory while the other interactions are based on the concept of forces.
+- In fact, the photon, the W-and Z bosons and the gluon are referred to as exchange or mediator particles while there is no such particle for gravity.
+- One often calls such a hypothetical particle ” graviton ” but there is no foundation for its existence unless we have a QT of the gravitational interaction.
+- The obvious task is to combine the principles of GR and QT and to construct a Quantum Field Theory of gravity, called a theory of Quantum Gravity, because there is no a priori justification for this asymmetry between the gravitational and non-gravitational interaction as far as the marriage with QT is concerned: Why should gravity be classical while the other forces are described by quantum theory?
+
+- Before approaching this task, however, it is legitimate to ask whether we cannot have both theories coexist in their present form. As we will demonstrate now, the answer to this question is negative.
+
+- Matter and Geometry couple to each other
+
+- The first reason for why Gravity cannot be fundamentally a classical theory is that geometry and matter couple to each other.
+- This is the content of Einstein’s equations which enforce that space-time is curved where and when there is any amount of matter energy density.
+- On the left hand side of the corresponding equation there is an expression which is purely geometrical (the Einstein tensor derived from the Riemann tensor), on the right hand side there is an expression which is a mixed expression built from matter and geometry fields (the Energy Momentum Tensor).
+- All experiments confirm that the right hand side must be quantized, it becomes an operator (valued distribution) on a suitable Hilbert space.
+- If geometry would stay classical then we would get a contradiction: the right hand side is an operator, the left hand side a real number (at every space-time point).
+- The only way to make sense of this with a classical theory of geometry is to take an expectation value of the right hand side.
+- The first question is with respect to which vector in the Hilbert space this expectation value should be taken.
+- The only distinguished vector in the Hilbert space is the vacuum, so one postulates to take the vacuum expectation value of the corresponding matter model (the vector state of lows energy in some sense).
+- However, there is a catch: The choice of vacuum requires to assume some classical geometry g0 (a metric).
+- Therefore the expectation value depends on g0.
+- Taking some g0 at random, one can now compute the left hand side.
+- The solution will be a geometry g1 consistent with that expectation value, however g0 and g1 will differ in general.
+- Accordingly the choice of g0 was not consistent.
+- One now computes a new vacuum using g1 instead of g0 and, by going through the same steps, computes g2 in general different from g1.
+- This can be iterated ad infinitum.
+- One knows that in general one cannot expect to arrive at a fixed point but generically one sees a run away effect.
+
+- General Relativity predicts its own failure
+
+- Classical General Relativity is a beautiful theory with celebrated successes as sketched above.
+- However, it predicts its own failure.
+- Gravity is an attractive force and any amount of matter even over large distances tends to clump.
+- Interstellar gas contracts and ignites a sun by nuclear fusion of hydrogen to helium once the core temperature due to gravitational pressure from the outer shell exceeds some ten million Kelvin.
+- When the hydrogen has been burnt up, helium fusion starts but that process runs at a lower temperature which makes the sun expand up to a red giant.
+- When the helium has been used up, the kinetic energy of the stellar plasma can no longer counter balance the gravitational pressure.
+- The star would have to expand further to find a new equilibrium but there is not sufficient energy to work against its own gravitational pull and the star implodes.
+- This implosion does not happen uniformly throughout the plasma but leads to regions with very high pressure and corresponding temperatures which makes parts of the star explode into a supernova.
+- The further fate of the star depends on whether the rest of its mass is above or below the Chandrasekhar limit of about 1.4 solar masses.
+- If it is below that limit, then it ends up as a white dwarf or a neutron star.
+- These stars withstand the gravitational pressure not due to kinetic (temperature) pressure but because of the Pauli pressure: One can imagine a white dwarf as a metal because gas under these extreme conditions has freely moving electrons.
+- Electrons are fermions and thus obey the Pauli exclusion principle.
+- They cannot be squeezed arbitrarily since they must not have the same position and momentum, they must be in different quantum states.
+- This strange quantum effect may withstand the gravitational pressure up to typical size of approximately one solar mass in a radius of 1000km.
+- At higher pressures inverse beta decay occurs and the electrons combine with the protons to neutrons.
+- Also neutrons are fermions and create a Pauli pressure which counter balances the gravitational pressure up to a typical pressure of about one solar mass in a radius of 1km.
+- This is simultaneously the Schwarzschild radius of a solar mass star.
+- If so much matter is squeezed into such a small volume, no undiscovered force whatsoever can prevent its total gravitational collapse into a single point!
+- The reason is causality: The curvature of spacetime becomes so extreme that within the Schwarzschild radius any beam of light runs into the centre.
+- Since any interaction obeying causality underlies the rule that signals cannot travel faster than light, any force no matter how strong cannot push the surface of the star out of the Schwarzschild radius any more.
+- Everything collapses into a single point, the so called singularity.
+- The curvature of space-time and the matter energy density become infinite here.
+- Divergent quantities in a physical theory indicate that its domain of validity has been left.
+- It must be replaced by a more fundamental theory.
+- Since the seminal works of Penrose and Hawking it is known that total gravitational collapse of a sufficient amount of matter is a generic prediction of GR.
+- Literally the same applies to the initial singularity, the big bang, at which space-time itself is supposed to have been created.
+- Again the mathematical equations become meaningless and suggest that the theory predicts its own failure.
+
+- Quantum Field Theory is not a fundamental (complete) description of matter
+
+- While the methods of QFT have made fantastic high precision predictions for accelerator experiments, ironically enough, we do not know why.
+- The reason for this is twofold.
+- There is an exact and mathematically rigorous theory of so called free fields on Minkowski space, that is, non interacting fields moving in flat spacetime.
+- In order to incorporate interactions (such as between electrons and photons in Quantum Electro Dynamics (QED)) one treats the interaction term as a small perturbation of the free theory and develops perturbation theory.
+- This leads to the celebrated scattering (or S-matrix) of Gell-Mann and Low which is used throughout in perturbative QFT.
+- The problem is that there is no chance that this can make mathematical sense.
+- As can be shown using rigorous mathematical methods, if the QFT obeys the rather natural Wightman axioms (which enforce among other things causality, relativistic invariance and that there is a unique invariant ground state) which are in particular obeyed by free fields, then the free QFT and the interacting QFT simply cannot be implemented on the same Hilbert space contradicting the assumptions that went into the construction of the S-matrix.
+- One may view this result, known as one of the many versions of Haag’s theorem, as the reason for why the S-matrix leads to divergent expressions.
+- Very clever methods have been invented, known as renormalisation procedures, to remove these infinities and to extract the physically relevant information.
+- However, it is known that the resulting perturbation series in general does not converge while the S-matrix by construction should be a unitary (in particular bounded) operator, whence the current state of affairs also has limited domain of validity.
+- Nobody knows up to which order in perturbation theory we should trust the results.
+- Even worse, some interactions such as Quantum Chromo Dynamics (QCD) at low energies cannot be treated by perturbative methods because of the effect of running couplings: At low energies, the coupling constant of QCD becomes large and the perturbations are no longer small (confinement).
+- Yet worse, not all theories are renormalisable, hence the perturbative approach breaks down altogether.
+- It transpires that QFT has to be improved by inventing non perturbative methods.
+- Despite the enormous effort of many physicists and mathematicians, not a single interacting Wightman QFT in 4 spacetime dimensions has been rigorously constructed to date, not even on Minkowski space.
+- Another possible interpretation is that the Wightman framework fundamentally does not apply to interacting QFT in 4D.
+
+- QFT in its current form violates the principles of GR
+
+- An apparently straightforward idea for how to employ the perturbative methods developed for QFT on Minkowski space when trying to quantise GR is to expand the metric underlying the field theoretical description of GR around the Minkowski metric.
+- The perturbation field is called the graviton field.
+- There are several problems with that idea.
+- The first is that GR is so non linear that this expansion about flat space involves an infinite amount of terms in the corresponding Taylor series.
+- In other words, there is an infinite tower of different interaction terms that one has to consider which is of course a hopeless task in practice.
+- Next, since the gravitational coupling constant (the Planck area) has negative mass dimension, there is no way that the perturbation theory is predictive, i.e. that the theory is renormalisable (i.e. that only a finite number of terms in the Taylor series are relevant).
+- It transpires that only a non perturbative approach to Quantum Gravity can be meaningful.
+- Finally, the very logic of QFT, even when preceding non-perturbatively, is actually inconsistent with the basic principles of GR: The most advanced version of QFT is its algebraic formulation which allows for a natural extension from Minkowski space to all globally hyperbolic spacetimes (those that admit a well defined initial value formulation, in other words, those which are classically predictive and obey causality).
+- In this framework one must prescribe a space-time (i.e. a differential manifold together with a metric thereon) and then formulates an algebra of matter quantum fields which is causal with respect to the given metric (i.e. which obeys causal propagation of signals with respect to the prescribed metric).
+- After that one looks for a representation of that algebra (i.e. a realisation of the abstract algebra as operators on a Hilbert space).
+- We immediately see that modern QFT relies in a pivotal way on a prescribed classical, so called background metric.
+- Without it, the very formulation of QFT breaks down.
+- On the other hand, classical GR insists that one cannot prescribe a metric but rather must determine it dynamically in tandem with the matter content of the universe.
+- When quantizing gravity, the notion of a classical metric breaks down totally at the fundamental level and can only have a semiclassical meaning (quantum fluctuations are small and back reaction of matter on geometry is negligible).
+- We conclude that the principles of GR and QFT as formulated today are incompatible in its very basics.
+- Certainly, the framework of QFT based on such a classical background metric should be an excellent approximation in a semiclassical regime but in the centre of a black hole or close to the big bang this will no longer be the case where we expect the quantum fluctuations of the metric operator to be so chaotic that the notion of a classical (background) metric simply vanishes.
+- This poses both a challenge and an opportunity: The challenge is to generalize the principles of QFT to cope with the demand of background independence as dictated by GR.
+- The opportunity is that quantum affects might resolve the classical singularities of GR and expand its domain of validity.
+- A crude analogy would be the hydrogen atom which by classical Maxwell theory should have a rather short lifetime because the energy loss due to Bremsstrahlung should let the classical electron spiral in and hit the proton.
+- That this does not happen is only explained by quantum theory which prohibits the electron to collide with the electron because of the lowest possible ground energy.
+- Quantum Gravity could similarly remove the classical singularities of GR and predict new physics, in particular inside the event horizon of a black hole or before the big bang.
+
+- Quantum Gravity in Erlangen
+
+- There are several approaches to Quantum Gravity.
+- None of them can be called successful to date although the research problem has been identified already more than 70 years ago and despite the tremendous efforts of many physicists, among them giants such as Dirac, Heisenberg and Pauli.
+- This indicates both the non triviality of the problem and its importance.
+- As was argued above, non perturbative and, almost synonymously, background independent approaches seem to be the most promising ones.
+- Among those the Loop Quantum Gravity (LQG) Ansatz has received growing attention in the recent past and it is this approach which is also emphasised in Erlangen.
+- Initiated in the late 80’s and early 90’s of the previous century it is based on the canonical and path integral quantisation of the Palatini formulation of GR.
+- This leads to a gauge theory formulation of GR just like in Yang-Mills theory but with constraints in addition to the Gauss constraint which are inevitable due to the space-time diffeomorphism invariance of the theory and which also encode the quantum version of the Einstein equations.
+
+- A graphical interpretation of the Quantum Einstein Equations within LQG and its evolution is shown in a movie that you can download from the following Einstein online page of the Max-Planck-Institute for Gravitational Physics (Albert Einstein Institute).
+- The picture on the top of this page is thus an instant of time image of the quantum evolution of space-time seen at the Planck scale.
+- Arguably, one of the more interesting results of LQG is that geometrical operators such as lengths, areas and volumes of curves, surfaces and regions respectively have discrete spectrum in units of the Planck length, area and volume respectively.
+- These results, which indicate a discrete structure of space(time) at the Planck scale were obtained by employing modern mathematical methods from functional analysis, operator theory, topology, differential geometry, the theory of fibre bundles, abstract algebra, representation theory and others.
+- Practitioners in the field are aware of the fact that when experimental input is not to be expected in the very close future, mathematical consistency is the only reliable guiding principle when constructing the theory.
+- Moreover, it is conceivable that new mathematical methods have to be developed in order to extend the framework of QFT on background spacetimes to QFT on differential manifolds only and beyond.
+- We therefore foster strong ties with the department of mathematics in Erlangen, in particular the Emmy Noether Centre and the Institute for Algebra and Representation Theory.
+- This cross interaction between mathematics and physics is also the principal idea on which the Emerging Field Project (EFP) ” Quantum Geometry “, one of 9 projects supported by the Emerging Field Initiative of the FAU, is based.
+
+- On the other hand, ultimately mathematical physics is only interesting for physics if it is realized in nature and thus at some point the theory must to be compared with experiment if it is to be of any value for physics.
+- The most promising areas of physics where quantum gravity effects are not entirely hopeless to be measurable in the not too distant future, despite the weakness of the gravitational interaction as compared to the others, are high energy astro(particle)physics, cosmology and gravitational wave physics.
+- At the moment, these are only Gedankenexperiments, however, it is for instance conceivable that a discrete space(time) structure equips space-time with properties close to that of a crystal rather than that of the vacuum, at least close to the Planck energy.
+- As there are UHE (ultra high energetic) particles in the universe not too many orders of magnitude away from the Planck energy, a clever experiment might actually be designed and reach the required resolution to detect QG effects.
+- Next, modern cosmology becomes an increasingly precise experimental discipline due to satellites such as WMAP and PLANCK which measure the CMBR (cosmological microwave background radiation) which reveal evidence for both dark matter and dark energy.
+- Dark matter is an invisible form of matter that clumps around galaxies, interacts mainly gravitationally and is responsible for 25% of the energy budget of the universe while dark energy is an unknown form of energy which occupies 70% of the energy budget of the universe.
+- Only 5% of the matter in the universe seems to be of the known baryonic type.
+- The first observation challenges our understanding of the matter content of the standard model which leaves its imprints on GR due to the geometry matter interaction.
+- The second observation is challenging our understanding of the nature of the cosmological constant which measures the quantum fluctuations of all matter and geometry.
+- Finally, as already mentioned, gravitational waves can penetrate the recombination barrier of some 300.000y after the big bang and after which the universe stopped to be opaque for photons.
+- Accordingly, it is not principally excluded that primordial gravitational waves can tell us something about the conditions in the very early universe close to the Planck time and before or just at the inset of cosmological inflation.
+- Here inflation is a hypothetical exponential expansion of the universe before radiation domination due to a hypothetical inflation particle that has long decayed (into radiation) which has been invented in order explain, among other things, the isotropy of the CMBR.
+- However, close to the Planck time QG effects should have been prominent and thus could either still be visible in the gravitational wave data (if inflation has not thinned them out too much) or replace inflation by another mechanism (namely the existence of time before the big bang which solves the corresponding horizon problem as well).
+- Accordingly, we are in close contact to the Erlangen Centre for Astroparticle Physics (ECAP) which has a strong expertise in UHE Gamma and Neutrino Observation.
+- There are also links to the Excellence Cluster Universe in Munich with a broad spectrum of expertise such as cosmology.
+
+- Summarising, Quantum Gravity is a very difficult research problem, but when solved, has the potential to release a new revolution in foundational physics.
+- It will fundamentally change our understanding of high energy physics, the structure of space and time, the astrophysical processes and the origin of the universe, to name a few.
+- The research team in Erlangen uses a concrete research approach towards Quantum Gravity which, however, needs to be developed much further before it can compared with experiment.
+- We have strong interest in both mathematics and observational physics.
+
+- Image Copyright: MPI für Gravitationsphysik (Albert-Einstein-Institut), MildeMarketing, Exozet
