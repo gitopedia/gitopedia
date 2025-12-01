@@ -258,5 +258,10 @@
     "id": "place:lyceum-(athens)",
     "label": "Lyceum (Athens)",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]
