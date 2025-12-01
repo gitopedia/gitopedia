@@ -848,5 +848,135 @@
     "id": "person:michael-moorcock-(science-fiction-writer)",
     "label": "Michael Moorcock (science fiction writer)",
     "aliases": []
+  },
+  {
+    "id": "person:voltaire",
+    "label": "Voltaire",
+    "aliases": []
+  },
+  {
+    "id": "person:johann-gottfried-herder",
+    "label": "Johann Gottfried Herder",
+    "aliases": []
+  },
+  {
+    "id": "person:georg-wilhelm-friedrich-hegel",
+    "label": "Georg Wilhelm Friedrich Hegel",
+    "aliases": []
+  },
+  {
+    "id": "person:leopold-von-ranke",
+    "label": "Leopold von Ranke",
+    "aliases": []
+  },
+  {
+    "id": "person:auguste-comte",
+    "label": "Auguste Comte",
+    "aliases": []
+  },
+  {
+    "id": "person:henry-thomas-buckle",
+    "label": "Henry Thomas Buckle",
+    "aliases": []
+  },
+  {
+    "id": "person:michel-foucault",
+    "label": "Michel Foucault",
+    "aliases": []
+  },
+  {
+    "id": "person:jacques-derrida",
+    "label": "Jacques Derrida",
+    "aliases": []
+  },
+  {
+    "id": "person:jean-françois-lyotard",
+    "label": "Jean-François Lyotard",
+    "aliases": []
+  },
+  {
+    "id": "person:hayden-white",
+    "label": "Hayden White",
+    "aliases": []
+  },
+  {
+    "id": "person:dominick-lacapra",
+    "label": "Dominick LaCapra",
+    "aliases": []
+  },
+  {
+    "id": "person:carlo-ginzburg",
+    "label": "Carlo Ginzburg",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-greenblatt",
+    "label": "Stephen Greenblatt",
+    "aliases": []
+  },
+  {
+    "id": "person:natalie-zemon-davis",
+    "label": "Natalie Zemon Davis",
+    "aliases": []
+  },
+  {
+    "id": "person:sanjay-subrahmanyam",
+    "label": "Sanjay Subrahmanyam",
+    "aliases": []
+  },
+  {
+    "id": "person:lynn-hunt",
+    "label": "Lynn Hunt",
+    "aliases": []
+  },
+  {
+    "id": "person:rene-descartes",
+    "label": "Rene Descartes",
+    "aliases": []
+  },
+  {
+    "id": "person:john-locke",
+    "label": "John Locke",
+    "aliases": []
+  },
+  {
+    "id": "person:gottfried-leibniz",
+    "label": "Gottfried Leibniz",
+    "aliases": []
+  },
+  {
+    "id": "person:david-hume",
+    "label": "David Hume",
+    "aliases": []
+  },
+  {
+    "id": "person:rené-descartes",
+    "label": "René Descartes",
+    "aliases": []
+  },
+  {
+    "id": "person:ludwig-wittgenstein",
+    "label": "Ludwig Wittgenstein",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-popper",
+    "label": "Karl Popper",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-huemer",
+    "label": "Michael Huemer",
+    "aliases": []
+  },
+  {
+    "id": "person:miranda-fricker",
+    "label": "Miranda Fricker",
+    "aliases": []
+  },
+  {
+    "id": "person:edmund-gettier",
+    "label": "Edmund Gettier",
+    "aliases": []
   }
 ]

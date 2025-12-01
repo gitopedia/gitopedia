@@ -1443,5 +1443,225 @@
     "id": "topic:quantum-suicide/immortality",
     "label": "Quantum Suicide/Immortality",
     "aliases": []
+  },
+  {
+    "id": "topic:epistemology",
+    "label": "Epistemology",
+    "aliases": []
+  },
+  {
+    "id": "topic:enlightenment",
+    "label": "Enlightenment",
+    "aliases": []
+  },
+  {
+    "id": "topic:romanticism",
+    "label": "Romanticism",
+    "aliases": []
+  },
+  {
+    "id": "topic:historicism",
+    "label": "Historicism",
+    "aliases": []
+  },
+  {
+    "id": "topic:positivism",
+    "label": "Positivism",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientism",
+    "label": "Scientism",
+    "aliases": []
+  },
+  {
+    "id": "topic:postmodernism",
+    "label": "Postmodernism",
+    "aliases": []
+  },
+  {
+    "id": "topic:poststructuralism",
+    "label": "Poststructuralism",
+    "aliases": []
+  },
+  {
+    "id": "topic:new-historicism",
+    "label": "New Historicism",
+    "aliases": []
+  },
+  {
+    "id": "topic:cultural-history",
+    "label": "Cultural History",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-turn",
+    "label": "Digital Turn",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-and-transnational-perspectives",
+    "label": "Global and Transnational Perspectives",
+    "aliases": []
+  },
+  {
+    "id": "topic:historical-epistemology",
+    "label": "Historical Epistemology",
+    "aliases": []
+  },
+  {
+    "id": "topic:objectivity",
+    "label": "Objectivity",
+    "aliases": []
+  },
+  {
+    "id": "topic:relativism",
+    "label": "Relativism",
+    "aliases": []
+  },
+  {
+    "id": "topic:representation",
+    "label": "Representation",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-archives",
+    "label": "Digital Archives",
+    "aliases": []
+  },
+  {
+    "id": "topic:transnational-narratives",
+    "label": "Transnational Narratives",
+    "aliases": []
+  },
+  {
+    "id": "topic:comparative-analysis",
+    "label": "Comparative Analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:rationalism",
+    "label": "Rationalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:empiricism",
+    "label": "Empiricism",
+    "aliases": []
+  },
+  {
+    "id": "topic:intuitionism",
+    "label": "Intuitionism",
+    "aliases": []
+  },
+  {
+    "id": "topic:skepticism",
+    "label": "Skepticism",
+    "aliases": []
+  },
+  {
+    "id": "topic:a-priori-knowledge",
+    "label": "a priori knowledge",
+    "aliases": []
+  },
+  {
+    "id": "topic:a-posteriori-knowledge",
+    "label": "a posteriori knowledge",
+    "aliases": []
+  },
+  {
+    "id": "topic:analytic-claims",
+    "label": "Analytic claims",
+    "aliases": []
+  },
+  {
+    "id": "topic:synthetic-claims",
+    "label": "Synthetic claims",
+    "aliases": []
+  },
+  {
+    "id": "topic:transcendental-idealism",
+    "label": "Transcendental idealism",
+    "aliases": []
+  },
+  {
+    "id": "topic:tabula-rasa",
+    "label": "tabula rasa",
+    "aliases": []
+  },
+  {
+    "id": "topic:knowledge-theory",
+    "label": "Knowledge Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:analytic-propositions",
+    "label": "Analytic Propositions",
+    "aliases": []
+  },
+  {
+    "id": "topic:synthetic-propositions",
+    "label": "Synthetic Propositions",
+    "aliases": []
+  },
+  {
+    "id": "topic:contextualism",
+    "label": "Contextualism",
+    "aliases": []
+  },
+  {
+    "id": "topic:bayesian-epistemology",
+    "label": "Bayesian Epistemology",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic-injustice",
+    "label": "Epistemic Injustice",
+    "aliases": []
+  },
+  {
+    "id": "topic:gettier-problem",
+    "label": "Gettier Problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:falsifiability",
+    "label": "Falsifiability",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-method",
+    "label": "Scientific Method",
+    "aliases": []
+  },
+  {
+    "id": "topic:legal-reasoning",
+    "label": "Legal Reasoning",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-theories",
+    "label": "Ethical Theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:constructivism",
+    "label": "Constructivism",
+    "aliases": []
+  },
+  {
+    "id": "topic:critical-thinking",
+    "label": "Critical Thinking",
+    "aliases": []
+  },
+  {
+    "id": "topic:cognitive-science",
+    "label": "Cognitive Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-justice-theory",
+    "label": "Social Justice Theory",
+    "aliases": []
   }
 ]
