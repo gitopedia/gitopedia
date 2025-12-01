@@ -998,5 +998,15 @@
     "id": "person:richard-degeorge-(business-ethics)",
     "label": "Richard DeGeorge (business ethics)",
     "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-bush",
+    "label": "George W. Bush",
+    "aliases": []
   }
 ]
