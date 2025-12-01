@@ -1,4 +1,4 @@
 # Smart-Grids Articles
 
-- [Smart Grid Technologies](smart-grid-technologies.md)
+- [Smart Grids: A Comprehensive Review of Technologies, Challenges, and Future Directions](smart-grid-technologies.md)
 
