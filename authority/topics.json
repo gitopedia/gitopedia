@@ -4238,5 +4238,140 @@
     "id": "topic:tactile-internet",
     "label": "Tactile Internet",
     "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-energy",
+    "label": "Hydrogen Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen",
+    "label": "hydrogen",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-fuel-cells",
+    "label": "hydrogen fuel cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:green-hydrogen",
+    "label": "green hydrogen",
+    "aliases": []
+  },
+  {
+    "id": "topic:haber-bosch-process",
+    "label": "Haber-Bosch process",
+    "aliases": []
+  },
+  {
+    "id": "topic:clean-energy",
+    "label": "clean energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:fuel-cells",
+    "label": "Fuel Cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:blue-hydrogen",
+    "label": "Blue Hydrogen",
+    "aliases": []
+  },
+  {
+    "id": "topic:electrolysis",
+    "label": "Electrolysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:proton-exchange-membrane-electrolyzers",
+    "label": "Proton-exchange membrane electrolyzers",
+    "aliases": []
+  },
+  {
+    "id": "topic:solid-oxide-electrolyzers",
+    "label": "Solid Oxide Electrolyzers",
+    "aliases": []
+  },
+  {
+    "id": "topic:gaseous-storage",
+    "label": "Gaseous Storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:liquid-storage",
+    "label": "Liquid Storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:solid-state-storage",
+    "label": "Solid-State Storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:chemical-carriers",
+    "label": "Chemical Carriers",
+    "aliases": []
+  },
+  {
+    "id": "topic:proton-exchange-membrane-fuel-cells",
+    "label": "Proton-exchange membrane fuel cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:solid-oxide-fuel-cells",
+    "label": "Solid oxide fuel cells",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-fuel-cell-electric-vehicles",
+    "label": "Hydrogen Fuel Cell Electric Vehicles",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-processes",
+    "label": "Industrial Processes",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage-and-grid-balancing",
+    "label": "Energy Storage and Grid Balancing",
+    "aliases": []
+  },
+  {
+    "id": "topic:ammonia-to-hydrogen-systems",
+    "label": "Ammonia-to-Hydrogen Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-refueling-stations",
+    "label": "Hydrogen Refueling Stations",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainability-concerns",
+    "label": "Sustainability Concerns",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-intensity",
+    "label": "Energy Intensity",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-systems",
+    "label": "Hybrid Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-collaboration",
+    "label": "Global Collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-zero-energy-transition",
+    "label": "Net-zero energy transition",
+    "aliases": []
   }
 ]
