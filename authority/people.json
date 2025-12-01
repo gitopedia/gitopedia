@@ -1958,5 +1958,175 @@
     "id": "person:christof-koch",
     "label": "Christof Koch",
     "aliases": []
+  },
+  {
+    "id": "person:aristotle-(philosopher)",
+    "label": "Aristotle (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:confucius-(philosopher)",
+    "label": "Confucius (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:plato-(philosopher)",
+    "label": "Plato (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:niccolo-machiavelli-(philosopher)",
+    "label": "Niccolo Machiavelli (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:laozi-(philosopher)",
+    "label": "Laozi (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:jean-jacques-rousseau-(philosopher)",
+    "label": "Jean-Jacques Rousseau (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-locke-(philosopher)",
+    "label": "John Locke (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-hobbes-(philosopher)",
+    "label": "Thomas Hobbes (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:alexis-de-tocqueville-(philosopher)",
+    "label": "Alexis de Tocqueville (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stuart-mill-(philosopher)",
+    "label": "John Stuart Mill (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-rawls-(philosopher)",
+    "label": "John Rawls (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-nozick-(philosopher)",
+    "label": "Robert Nozick (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-marx-(philosopher)",
+    "label": "Karl Marx (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:max-horkheimer-(philosopher)",
+    "label": "Max Horkheimer (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:theodor-adorno-(philosopher)",
+    "label": "Theodor Adorno (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:herbert-marcuse-(philosopher)",
+    "label": "Herbert Marcuse (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:jürgen-habermas-(philosopher)",
+    "label": "Jürgen Habermas (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:noam-chomsky-(philosopher)",
+    "label": "Noam Chomsky (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-rorty-(philosopher)",
+    "label": "Richard Rorty (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-kojève-(philosopher)",
+    "label": "Alexander Kojève (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:martin-buber-(philosopher)",
+    "label": "Martin Buber (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:leo-tolstoy-(author)",
+    "label": "Leo Tolstoy (author)",
+    "aliases": []
+  },
+  {
+    "id": "person:mary-wollstonecraft-(philosopher)",
+    "label": "Mary Wollstonecraft (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:francis-fukuyama-(political-scientist)",
+    "label": "Francis Fukuyama (political scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:confucius",
+    "label": "Confucius",
+    "aliases": []
+  },
+  {
+    "id": "person:niccolò-machiavelli",
+    "label": "Niccolò Machiavelli",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-hobbes",
+    "label": "Thomas Hobbes",
+    "aliases": []
+  },
+  {
+    "id": "person:jean-jacques-rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "aliases": []
+  },
+  {
+    "id": "person:john-rawls",
+    "label": "John Rawls",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-nozick",
+    "label": "Robert Nozick",
+    "aliases": []
+  },
+  {
+    "id": "person:noam-chomsky",
+    "label": "Noam Chomsky",
+    "aliases": []
+  },
+  {
+    "id": "person:jürgen-habermas",
+    "label": "Jürgen Habermas",
+    "aliases": []
+  },
+  {
+    "id": "person:amartya-sen",
+    "label": "Amartya Sen",
+    "aliases": []
+  },
+  {
+    "id": "person:dale-jamieson",
+    "label": "Dale Jamieson",
+    "aliases": []
   }
 ]
