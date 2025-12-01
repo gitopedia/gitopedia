@@ -2128,5 +2128,65 @@
     "id": "person:dale-jamieson",
     "label": "Dale Jamieson",
     "aliases": []
+  },
+  {
+    "id": "person:tamer-başar",
+    "label": "Tamer Başar",
+    "aliases": []
+  },
+  {
+    "id": "person:john-f.-nash",
+    "label": "John F. Nash",
+    "aliases": []
+  },
+  {
+    "id": "person:john-von-neumann",
+    "label": "John von Neumann",
+    "aliases": []
+  },
+  {
+    "id": "person:oskar-morgenstern",
+    "label": "Oskar Morgenstern",
+    "aliases": []
+  },
+  {
+    "id": "person:john-maynard-smith",
+    "label": "John Maynard Smith",
+    "aliases": []
+  },
+  {
+    "id": "person:john-baillieul",
+    "label": "John Baillieul",
+    "aliases": []
+  },
+  {
+    "id": "person:tariq-samad",
+    "label": "Tariq Samad",
+    "aliases": []
+  },
+  {
+    "id": "person:john-nash",
+    "label": "John Nash",
+    "aliases": []
+  },
+  {
+    "id": "person:avinash-k.-dixit",
+    "label": "Avinash K. Dixit",
+    "aliases": []
+  },
+  {
+    "id": "person:barry-j.-nalebuff",
+    "label": "Barry J. Nalebuff",
+    "aliases": []
+  },
+  {
+    "id": "person:steven-tadelis",
+    "label": "Steven Tadelis",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-schelling",
+    "label": "Thomas Schelling",
+    "aliases": []
   }
 ]
