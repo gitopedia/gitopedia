@@ -328,5 +328,10 @@
     "id": "place:burj-khalifa",
     "label": "Burj Khalifa",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]
