@@ -1,0 +1,6 @@
+# Quantum Cryptography
+
+- Discussion of quantum cryptography, focusing on Quantum Key Distribution (QKD) as a method to achieve information-theoretically secure communication.
+- The first source provides a technical overview of QKD, including the BB84 protocol and the concepts of qubits and measurement.
+- The second source offers a more general explanation of quantum cryptography's principles, advantages over classical cryptography, current challenges, and future possibilities, including its relationship to post-quantum cryptography.
+- Both highlight the use of quantum phenomena like superposition and entanglement to achieve secure key exchange and the limitations imposed by noisy quantum channels and the need for further technological advancements.
