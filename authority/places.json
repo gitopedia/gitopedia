@@ -653,5 +653,10 @@
     "id": "place:scotland-(country)",
     "label": "Scotland (country)",
     "aliases": []
+  },
+  {
+    "id": "place:cambridge-(massachusetts)",
+    "label": "Cambridge (Massachusetts)",
+    "aliases": []
   }
 ]
