@@ -1,5 +1,5 @@
 # Cybersecurity Articles
 
-- [Cybersecurity](cybersecurity.md)
-- [Quantum Cryptography](quantum-cryptography.md)
+- [The Evolution and Essentials of Cybersecurity in the Modern Digital Era](cybersecurity.md)
+- [The Evolution and Impact of Quantum Cryptography in Modern Security](quantum-cryptography.md)
 
