@@ -103,5 +103,15 @@
     "id": "org:penguin-books",
     "label": "Penguin Books",
     "aliases": []
+  },
+  {
+    "id": "org:british-medical-journal",
+    "label": "British Medical Journal",
+    "aliases": []
+  },
+  {
+    "id": "org:prentice-hall",
+    "label": "Prentice Hall",
+    "aliases": []
   }
 ]
