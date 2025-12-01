@@ -438,5 +438,10 @@
     "id": "place:south-australia",
     "label": "South Australia",
     "aliases": []
+  },
+  {
+    "id": "place:london-(sw1p-1wg)",
+    "label": "London (SW1P 1WG)",
+    "aliases": []
   }
 ]
