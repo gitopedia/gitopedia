@@ -953,5 +953,60 @@
     "id": "topic:quantum-machine-learning",
     "label": "Quantum Machine Learning",
     "aliases": []
+  },
+  {
+    "id": "topic:the-mongol-empire",
+    "label": "The Mongol Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:mongol-empire",
+    "label": "Mongol Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:yuan-dynasty",
+    "label": "Yuan Dynasty",
+    "aliases": []
+  },
+  {
+    "id": "topic:mughal-empire",
+    "label": "Mughal Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:timurid-dynasty",
+    "label": "Timurid Dynasty",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-yassa",
+    "label": "The Yassa",
+    "aliases": []
+  },
+  {
+    "id": "topic:pax-mongolica",
+    "label": "Pax Mongolica",
+    "aliases": []
+  },
+  {
+    "id": "topic:golden-horde",
+    "label": "Golden Horde",
+    "aliases": []
+  },
+  {
+    "id": "topic:yassa",
+    "label": "Yassa",
+    "aliases": []
+  },
+  {
+    "id": "topic:silk-road",
+    "label": "Silk Road",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-death",
+    "label": "Black Death",
+    "aliases": []
   }
 ]
