@@ -193,5 +193,60 @@
     "id": "place:turkey",
     "label": "Turkey",
     "aliases": []
+  },
+  {
+    "id": "place:japan",
+    "label": "Japan",
+    "aliases": []
+  },
+  {
+    "id": "place:hungary",
+    "label": "Hungary",
+    "aliases": []
+  },
+  {
+    "id": "place:onon-river-(mongolia)",
+    "label": "Onon River (Mongolia)",
+    "aliases": []
+  },
+  {
+    "id": "place:kievan-rus'",
+    "label": "Kievan Rus'",
+    "aliases": []
+  },
+  {
+    "id": "place:baghdad",
+    "label": "Baghdad",
+    "aliases": []
+  },
+  {
+    "id": "place:delhi,-india",
+    "label": "Delhi, India",
+    "aliases": []
+  },
+  {
+    "id": "place:ankara,-turkey",
+    "label": "Ankara, Turkey",
+    "aliases": []
+  },
+  {
+    "id": "place:mongolia",
+    "label": "Mongolia",
+    "aliases": []
+  },
+  {
+    "id": "place:kyiv-(ukraine)",
+    "label": "Kyiv (Ukraine)",
+    "aliases": []
+  },
+  {
+    "id": "place:samarkand-(uzbekistan)",
+    "label": "Samarkand (Uzbekistan)",
+    "aliases": []
+  },
+  {
+    "id": "place:karakorum-(mongolia)",
+    "label": "Karakorum (Mongolia)",
+    "aliases": []
   }
 ]
