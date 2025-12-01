@@ -328,5 +328,15 @@
     "id": "org:solarwinds",
     "label": "SolarWinds",
     "aliases": []
+  },
+  {
+    "id": "org:royal-society",
+    "label": "Royal Society",
+    "aliases": []
+  },
+  {
+    "id": "org:british-empire",
+    "label": "British Empire",
+    "aliases": []
   }
 ]
