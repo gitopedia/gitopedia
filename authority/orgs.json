@@ -393,5 +393,20 @@
     "id": "org:u.s.-securities-and-exchange-commission-(sec)",
     "label": "U.S. Securities and Exchange Commission (SEC)",
     "aliases": []
+  },
+  {
+    "id": "org:byzantine-empire",
+    "label": "Byzantine Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:seljuk-empire",
+    "label": "Seljuk Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:kingdom-of-jerusalem",
+    "label": "Kingdom of Jerusalem",
+    "aliases": []
   }
 ]
