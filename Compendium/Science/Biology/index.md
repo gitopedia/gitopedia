@@ -1,5 +1,5 @@
 # Biology Articles
 
 - [Epigenetics](epigenetics.md)
-- [Mrna Vaccine Technology](mrna-vaccine-technology.md)
+- [mRNA Vaccine Technology](mrna-vaccine-technology.md)
 
