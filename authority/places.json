@@ -423,5 +423,20 @@
     "id": "place:córdoba-(umayyad-caliphate)",
     "label": "Córdoba (Umayyad Caliphate)",
     "aliases": []
+  },
+  {
+    "id": "place:phoenix,-az-85040",
+    "label": "Phoenix, AZ 85040",
+    "aliases": []
+  },
+  {
+    "id": "place:islamabad",
+    "label": "Islamabad",
+    "aliases": []
+  },
+  {
+    "id": "place:south-australia",
+    "label": "South Australia",
+    "aliases": []
   }
 ]
