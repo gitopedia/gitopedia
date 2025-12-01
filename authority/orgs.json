@@ -498,5 +498,10 @@
     "id": "org:gartner",
     "label": "Gartner",
     "aliases": []
+  },
+  {
+    "id": "org:h2gp-foundation",
+    "label": "H2GP Foundation",
+    "aliases": []
   }
 ]
