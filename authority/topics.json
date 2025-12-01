@@ -4403,5 +4403,115 @@
     "id": "topic:extended-cognition",
     "label": "Extended Cognition",
     "aliases": []
+  },
+  {
+    "id": "topic:political-philosophy",
+    "label": "Political Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:state-of-nature",
+    "label": "state of nature",
+    "aliases": []
+  },
+  {
+    "id": "topic:democracy",
+    "label": "democracy",
+    "aliases": []
+  },
+  {
+    "id": "topic:liberalism",
+    "label": "liberalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:communitarianism",
+    "label": "communitarianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:egalitarianism",
+    "label": "egalitarianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:libertarianism",
+    "label": "libertarianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-justice",
+    "label": "social justice",
+    "aliases": []
+  },
+  {
+    "id": "topic:critical-theory",
+    "label": "critical theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:spiritual-anarchism",
+    "label": "spiritual anarchism",
+    "aliases": []
+  },
+  {
+    "id": "topic:hospitality",
+    "label": "hospitality",
+    "aliases": []
+  },
+  {
+    "id": "topic:patriotism",
+    "label": "patriotism",
+    "aliases": []
+  },
+  {
+    "id": "topic:authority",
+    "label": "authority",
+    "aliases": []
+  },
+  {
+    "id": "topic:justice",
+    "label": "justice",
+    "aliases": []
+  },
+  {
+    "id": "topic:minimal-state",
+    "label": "minimal state",
+    "aliases": []
+  },
+  {
+    "id": "topic:redistribution-of-wealth",
+    "label": "redistribution of wealth",
+    "aliases": []
+  },
+  {
+    "id": "topic:self-ownership",
+    "label": "self-ownership",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-contract",
+    "label": "Social Contract",
+    "aliases": []
+  },
+  {
+    "id": "topic:distributive-justice",
+    "label": "Distributive Justice",
+    "aliases": []
+  },
+  {
+    "id": "topic:democratic-theory",
+    "label": "Democratic Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-governance",
+    "label": "Global Governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-justice",
+    "label": "Climate Justice",
+    "aliases": []
   }
 ]
