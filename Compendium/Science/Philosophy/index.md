@@ -1,5 +1,5 @@
 # Philosophy Articles
 
-- [Epistemology](epistemology.md)
-- [Ethics](ethics.md)
+- [Epistemology: The Philosophy of Knowledge](epistemology.md)
+- [Ethics: An Overview](ethics.md)
 
