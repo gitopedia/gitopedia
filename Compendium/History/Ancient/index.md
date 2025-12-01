@@ -1,5 +1,5 @@
 # Ancient Articles
 
-- [The Fall of the Roman Empire](the-fall-of-the-roman-empire.md)
-- [The Rise and Fall of the Byzantine Empire](the-rise-and-fall-of-the-byzantine-empire.md)
+- [The Fall Of The Roman Empire](the-fall-of-the-roman-empire.md)
+- [The Rise And Fall Of The Byzantine Empire](the-rise-and-fall-of-the-byzantine-empire.md)
 
