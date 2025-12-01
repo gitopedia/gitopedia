@@ -1183,5 +1183,95 @@
     "id": "person:friedrich-engels",
     "label": "Friedrich Engels",
     "aliases": []
+  },
+  {
+    "id": "person:abbas-ibn-abd-al-muttalib",
+    "label": "Abbas ibn Abd al-Muttalib",
+    "aliases": []
+  },
+  {
+    "id": "person:muhammad-ibn-'ali",
+    "label": "Muhammad ibn 'Ali",
+    "aliases": []
+  },
+  {
+    "id": "person:al-mansur",
+    "label": "Al-Mansur",
+    "aliases": []
+  },
+  {
+    "id": "person:abu-al-'abbas",
+    "label": "Abu al-'Abbas",
+    "aliases": []
+  },
+  {
+    "id": "person:mahmud-of-ghazni",
+    "label": "Mahmud of Ghazni",
+    "aliases": []
+  },
+  {
+    "id": "person:al-khwarizmi",
+    "label": "Al-Khwarizmi",
+    "aliases": []
+  },
+  {
+    "id": "person:al-harun-al-rashid",
+    "label": "Al-Harun al-Rashid",
+    "aliases": []
+  },
+  {
+    "id": "person:abu-nuwas",
+    "label": "Abu Nuwas",
+    "aliases": []
+  },
+  {
+    "id": "person:al-jahiz",
+    "label": "Al-Jahiz",
+    "aliases": []
+  },
+  {
+    "id": "person:hulagu-khan",
+    "label": "Hulagu Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:al-mansur-(abbasid-caliph)",
+    "label": "Al-Mansur (Abbasid caliph)",
+    "aliases": []
+  },
+  {
+    "id": "person:harun-al-rashid-(abbasid-caliph)",
+    "label": "Harun al-Rashid (Abbasid caliph)",
+    "aliases": []
+  },
+  {
+    "id": "person:al-musta’sim-(last-abbasid-caliph)",
+    "label": "Al-Musta’sim (last Abbasid caliph)",
+    "aliases": []
+  },
+  {
+    "id": "person:muhammad-al-khwarizmi",
+    "label": "Muhammad al-Khwarizmi",
+    "aliases": []
+  },
+  {
+    "id": "person:al-razi-(physician)",
+    "label": "Al-Razi (physician)",
+    "aliases": []
+  },
+  {
+    "id": "person:ibn-sina-(avicenna)",
+    "label": "Ibn Sina (Avicenna)",
+    "aliases": []
+  },
+  {
+    "id": "person:ibn-al-haytham-(alhazen)",
+    "label": "Ibn al-Haytham (Alhazen)",
+    "aliases": []
+  },
+  {
+    "id": "person:jabir-ibn-hayyan",
+    "label": "Jabir ibn Hayyan",
+    "aliases": []
   }
 ]
