@@ -1,6 +1,6 @@
 # Biology Articles
 
 - [Epigenetics](epigenetics.md)
-- [Mrna Vaccine Technology](mrna-vaccine-technology.md)
-- [Personalized Medicine](personalized-medicine.md)
+- [mRNA Vaccine Technology](mrna-vaccine-technology.md)
+- [Personalized Medicine: A Comprehensive Review](personalized-medicine.md)
 
