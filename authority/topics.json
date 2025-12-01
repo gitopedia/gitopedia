@@ -4673,5 +4673,170 @@
     "id": "topic:paris-agreement",
     "label": "Paris Agreement",
     "aliases": []
+  },
+  {
+    "id": "topic:quantum-information-science",
+    "label": "Quantum information science",
+    "aliases": []
+  },
+  {
+    "id": "topic:blind-quantum-computing",
+    "label": "Blind quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-position-verification-(qpv)",
+    "label": "Quantum position verification (QPV)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-repeaters",
+    "label": "Quantum repeaters",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-randomness",
+    "label": "Quantum randomness",
+    "aliases": []
+  },
+  {
+    "id": "topic:bb84-protocol",
+    "label": "BB84 protocol",
+    "aliases": []
+  },
+  {
+    "id": "topic:ekert91-protocol",
+    "label": "Ekert91 protocol",
+    "aliases": []
+  },
+  {
+    "id": "topic:number-theory",
+    "label": "number theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:probability-theory",
+    "label": "probability theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:rsa-algorithm",
+    "label": "RSA algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-key-cryptography",
+    "label": "public-key cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:no-cloning-theorem",
+    "label": "no-cloning theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:e91-protocol",
+    "label": "E91 Protocol",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-secure-direct-communication-(qsdc)",
+    "label": "Quantum Secure Direct Communication (QSDC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-random-number-generation-(qrng)",
+    "label": "Quantum Random Number Generation (QRNG)",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-quantum-cryptography-(pqc)",
+    "label": "Post-Quantum Cryptography (PQC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-models-(quantum-+-classical-cryptography)",
+    "label": "Hybrid Models (Quantum + Classical Cryptography)",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-based-qkd",
+    "label": "Satellite-Based QKD",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-homomorphic-encryption-(qhe)",
+    "label": "Quantum Homomorphic Encryption (QHE)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryptographic-hardware-(single-photon-sources/detectors)",
+    "label": "Cryptographic Hardware (Single-Photon Sources/Detectors)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-repeater-technology",
+    "label": "Quantum Repeater Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-quantum-cryptography-standardization",
+    "label": "Post-Quantum Cryptography Standardization",
+    "aliases": []
+  },
+  {
+    "id": "topic:crystals-kyber",
+    "label": "CRYSTALS-KYBER",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-infrastructure-challenges",
+    "label": "Quantum Infrastructure Challenges",
+    "aliases": []
+  },
+  {
+    "id": "topic:financial-sector-applications",
+    "label": "Financial Sector Applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:government-\u0026-defense-applications",
+    "label": "Government \u0026 Defense Applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:healthcare-data-security",
+    "label": "Healthcare Data Security",
+    "aliases": []
+  },
+  {
+    "id": "topic:critical-infrastructure-protection",
+    "label": "Critical Infrastructure Protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-threats",
+    "label": "Quantum Computing Threats",
+    "aliases": []
+  },
+  {
+    "id": "topic:q-day-(quantum-computing-breakthrough-timeline)",
+    "label": "Q-Day (Quantum Computing Breakthrough Timeline)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-random-number-generators-(qrngs)",
+    "label": "Quantum Random Number Generators (QRNGs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:q-day",
+    "label": "Q-Day",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-repeater",
+    "label": "Quantum Repeater",
+    "aliases": []
   }
 ]
