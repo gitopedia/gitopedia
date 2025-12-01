@@ -1393,5 +1393,45 @@
     "id": "person:george-w.-bush",
     "label": "George W. Bush",
     "aliases": []
+  },
+  {
+    "id": "person:john-cabot",
+    "label": "John Cabot",
+    "aliases": []
+  },
+  {
+    "id": "person:sir-francis-drake",
+    "label": "Sir Francis Drake",
+    "aliases": []
+  },
+  {
+    "id": "person:henry-vii",
+    "label": "Henry VII",
+    "aliases": []
+  },
+  {
+    "id": "person:queen-elizabeth-i",
+    "label": "Queen Elizabeth I",
+    "aliases": []
+  },
+  {
+    "id": "person:queen-victoria",
+    "label": "Queen Victoria",
+    "aliases": []
+  },
+  {
+    "id": "person:mahatma-gandhi",
+    "label": "Mahatma Gandhi",
+    "aliases": []
+  },
+  {
+    "id": "person:jawaharlal-nehru",
+    "label": "Jawaharlal Nehru",
+    "aliases": []
+  },
+  {
+    "id": "person:queen-elizabeth-ii",
+    "label": "Queen Elizabeth II",
+    "aliases": []
   }
 ]

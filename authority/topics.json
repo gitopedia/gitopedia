@@ -2573,5 +2573,155 @@
     "id": "topic:sdr",
     "label": "SDR",
     "aliases": []
+  },
+  {
+    "id": "topic:the-british-empire's-global-influence",
+    "label": "The British Empire's Global Influence",
+    "aliases": []
+  },
+  {
+    "id": "topic:british-empire",
+    "label": "British Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:english-language",
+    "label": "English language",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-lingua-franca",
+    "label": "global lingua franca",
+    "aliases": []
+  },
+  {
+    "id": "topic:colonization",
+    "label": "colonization",
+    "aliases": []
+  },
+  {
+    "id": "topic:trade",
+    "label": "trade",
+    "aliases": []
+  },
+  {
+    "id": "topic:education",
+    "label": "education",
+    "aliases": []
+  },
+  {
+    "id": "topic:missionary-work",
+    "label": "missionary work",
+    "aliases": []
+  },
+  {
+    "id": "topic:linguistic-diversity",
+    "label": "linguistic diversity",
+    "aliases": []
+  },
+  {
+    "id": "topic:language-preservation",
+    "label": "language preservation",
+    "aliases": []
+  },
+  {
+    "id": "topic:decolonization",
+    "label": "decolonization",
+    "aliases": []
+  },
+  {
+    "id": "topic:boer-war",
+    "label": "Boer War",
+    "aliases": []
+  },
+  {
+    "id": "topic:mau-mau-uprising",
+    "label": "Mau Mau Uprising",
+    "aliases": []
+  },
+  {
+    "id": "topic:cricket",
+    "label": "cricket",
+    "aliases": []
+  },
+  {
+    "id": "topic:rugby",
+    "label": "rugby",
+    "aliases": []
+  },
+  {
+    "id": "topic:common-law",
+    "label": "Common Law",
+    "aliases": []
+  },
+  {
+    "id": "topic:parliamentary-system",
+    "label": "parliamentary system",
+    "aliases": []
+  },
+  {
+    "id": "topic:balfour-declaration",
+    "label": "Balfour Declaration",
+    "aliases": []
+  },
+  {
+    "id": "topic:morley-minto-reforms",
+    "label": "Morley-Minto Reforms",
+    "aliases": []
+  },
+  {
+    "id": "topic:government-of-ireland-act",
+    "label": "Government of Ireland Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:linguistic-legacy",
+    "label": "linguistic legacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-influence",
+    "label": "economic influence",
+    "aliases": []
+  },
+  {
+    "id": "topic:lingua-franca",
+    "label": "lingua franca",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-rights-abuses",
+    "label": "human rights abuses",
+    "aliases": []
+  },
+  {
+    "id": "topic:pax-britannica",
+    "label": "Pax Britannica",
+    "aliases": []
+  },
+  {
+    "id": "topic:decolonisation-movement",
+    "label": "Decolonisation movement",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-great-game",
+    "label": "The Great Game",
+    "aliases": []
+  },
+  {
+    "id": "topic:colonial-history",
+    "label": "Colonial History",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-history",
+    "label": "Global History",
+    "aliases": []
+  },
+  {
+    "id": "topic:imperialism",
+    "label": "Imperialism",
+    "aliases": []
   }
 ]
