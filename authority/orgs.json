@@ -403,5 +403,100 @@
     "id": "org:world-bank’s-energy-storage-partnership",
     "label": "World Bank’s Energy Storage Partnership",
     "aliases": []
+  },
+  {
+    "id": "org:kubernetes",
+    "label": "Kubernetes",
+    "aliases": []
+  },
+  {
+    "id": "org:docker",
+    "label": "Docker",
+    "aliases": []
+  },
+  {
+    "id": "org:prometheus",
+    "label": "Prometheus",
+    "aliases": []
+  },
+  {
+    "id": "org:grafana",
+    "label": "Grafana",
+    "aliases": []
+  },
+  {
+    "id": "org:elasticsearch",
+    "label": "Elasticsearch",
+    "aliases": []
+  },
+  {
+    "id": "org:logstash",
+    "label": "Logstash",
+    "aliases": []
+  },
+  {
+    "id": "org:kibana",
+    "label": "Kibana",
+    "aliases": []
+  },
+  {
+    "id": "org:aws-greengrass",
+    "label": "AWS Greengrass",
+    "aliases": []
+  },
+  {
+    "id": "org:azure-iot-edge",
+    "label": "Azure IoT Edge",
+    "aliases": []
+  },
+  {
+    "id": "org:google-cloud-iot-edge",
+    "label": "Google Cloud IoT Edge",
+    "aliases": []
+  },
+  {
+    "id": "org:cisco",
+    "label": "Cisco",
+    "aliases": []
+  },
+  {
+    "id": "org:aws-(amazon-web-services)",
+    "label": "AWS (Amazon Web Services)",
+    "aliases": []
+  },
+  {
+    "id": "org:microsoft",
+    "label": "Microsoft",
+    "aliases": []
+  },
+  {
+    "id": "org:indmall-automation-(chennai,-tamil-nadu)",
+    "label": "IndMALL Automation (Chennai, Tamil Nadu)",
+    "aliases": []
+  },
+  {
+    "id": "org:kpmg",
+    "label": "KPMG",
+    "aliases": []
+  },
+  {
+    "id": "org:bcs-(the-chartered-institute-for-it)",
+    "label": "BCS (The Chartered Institute for IT)",
+    "aliases": []
+  },
+  {
+    "id": "org:cisco-systems",
+    "label": "Cisco Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:british-computer-society-(bcs)",
+    "label": "British Computer Society (BCS)",
+    "aliases": []
+  },
+  {
+    "id": "org:gartner",
+    "label": "Gartner",
+    "aliases": []
   }
 ]
