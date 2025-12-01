@@ -723,5 +723,95 @@
     "id": "person:he-jiankui",
     "label": "He Jiankui",
     "aliases": []
+  },
+  {
+    "id": "person:james-watson",
+    "label": "James Watson",
+    "aliases": []
+  },
+  {
+    "id": "person:francis-crick",
+    "label": "Francis Crick",
+    "aliases": []
+  },
+  {
+    "id": "person:rosalind-franklin",
+    "label": "Rosalind Franklin",
+    "aliases": []
+  },
+  {
+    "id": "person:maurice-wilkins",
+    "label": "Maurice Wilkins",
+    "aliases": []
+  },
+  {
+    "id": "person:albrecht-kossel",
+    "label": "Albrecht Kossel",
+    "aliases": []
+  },
+  {
+    "id": "person:marshall-nirenberg",
+    "label": "Marshall Nirenberg",
+    "aliases": []
+  },
+  {
+    "id": "person:har-gobind-khorana",
+    "label": "Har Gobind Khorana",
+    "aliases": []
+  },
+  {
+    "id": "person:alfred-hershey",
+    "label": "Alfred Hershey",
+    "aliases": []
+  },
+  {
+    "id": "person:martha-chase",
+    "label": "Martha Chase",
+    "aliases": []
+  },
+  {
+    "id": "person:alec-jeffreys",
+    "label": "Alec Jeffreys",
+    "aliases": []
+  },
+  {
+    "id": "person:boris-becker",
+    "label": "Boris Becker",
+    "aliases": []
+  },
+  {
+    "id": "person:nelson-mandela",
+    "label": "Nelson Mandela",
+    "aliases": []
+  },
+  {
+    "id": "person:theodore-roosevelt",
+    "label": "Theodore Roosevelt",
+    "aliases": []
+  },
+  {
+    "id": "person:nettie-stevens",
+    "label": "Nettie Stevens",
+    "aliases": []
+  },
+  {
+    "id": "person:walter-sutton",
+    "label": "Walter Sutton",
+    "aliases": []
+  },
+  {
+    "id": "person:theodor-boveri",
+    "label": "Theodor Boveri",
+    "aliases": []
+  },
+  {
+    "id": "person:janaki-ammal",
+    "label": "Janaki Ammal",
+    "aliases": []
+  },
+  {
+    "id": "person:cd-darlington",
+    "label": "CD Darlington",
+    "aliases": []
   }
 ]
