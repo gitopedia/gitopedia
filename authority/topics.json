@@ -3698,5 +3698,35 @@
     "id": "topic:environmental-degradation",
     "label": "environmental degradation",
     "aliases": []
+  },
+  {
+    "id": "topic:cryptocurrency-and-blockchain-economics",
+    "label": "Cryptocurrency and Blockchain Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:blockchain-economy",
+    "label": "blockchain economy",
+    "aliases": []
+  },
+  {
+    "id": "topic:fintech",
+    "label": "FinTech",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-finance",
+    "label": "digital finance",
+    "aliases": []
+  },
+  {
+    "id": "topic:mica-(markets-in-crypto-assets)",
+    "label": "MiCA (Markets in Crypto-Assets)",
+    "aliases": []
+  },
+  {
+    "id": "topic:zcash",
+    "label": "Zcash",
+    "aliases": []
   }
 ]
