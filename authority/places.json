@@ -513,5 +513,10 @@
     "id": "place:united-states-(country)",
     "label": "United States (country)",
     "aliases": []
+  },
+  {
+    "id": "place:china-(country)",
+    "label": "China (country)",
+    "aliases": []
   }
 ]
