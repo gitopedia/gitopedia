@@ -3698,5 +3698,20 @@
     "id": "topic:environmental-degradation",
     "label": "environmental degradation",
     "aliases": []
+  },
+  {
+    "id": "topic:stem-cell-therapies",
+    "label": "Stem Cell Therapies",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomaterials",
+    "label": "Biomaterials",
+    "aliases": []
+  },
+  {
+    "id": "topic:clinical-applications",
+    "label": "Clinical Applications",
+    "aliases": []
   }
 ]
