@@ -1523,5 +1523,270 @@
     "id": "person:sergei-witte",
     "label": "Sergei Witte",
     "aliases": []
+  },
+  {
+    "id": "person:deutsch,-d.",
+    "label": "Deutsch, D.",
+    "aliases": []
+  },
+  {
+    "id": "person:dieks,-d.",
+    "label": "Dieks, D.",
+    "aliases": []
+  },
+  {
+    "id": "person:einstein,-a.",
+    "label": "Einstein, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:podolsky,-b.",
+    "label": "Podolsky, B.",
+    "aliases": []
+  },
+  {
+    "id": "person:rosen,-n.",
+    "label": "Rosen, N.",
+    "aliases": []
+  },
+  {
+    "id": "person:ekert,-a.",
+    "label": "Ekert, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:everett,-h.",
+    "label": "Everett, H.",
+    "aliases": []
+  },
+  {
+    "id": "person:feynman,-r.",
+    "label": "Feynman, R.",
+    "aliases": []
+  },
+  {
+    "id": "person:herbst,-t.",
+    "label": "Herbst, T.",
+    "aliases": []
+  },
+  {
+    "id": "person:scheidl,-t.",
+    "label": "Scheidl, T.",
+    "aliases": []
+  },
+  {
+    "id": "person:fink,-m.",
+    "label": "Fink, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:handsteiner,-j.",
+    "label": "Handsteiner, J.",
+    "aliases": []
+  },
+  {
+    "id": "person:wittmann,-b.",
+    "label": "Wittmann, B.",
+    "aliases": []
+  },
+  {
+    "id": "person:ursin,-r.",
+    "label": "Ursin, R.",
+    "aliases": []
+  },
+  {
+    "id": "person:zeilinger,-a.",
+    "label": "Zeilinger, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:holevo,-a.s.",
+    "label": "Holevo, A.S.",
+    "aliases": []
+  },
+  {
+    "id": "person:lo,-h.-k.",
+    "label": "Lo, H.-K.",
+    "aliases": []
+  },
+  {
+    "id": "person:chau,-h.f.",
+    "label": "Chau, H.F.",
+    "aliases": []
+  },
+  {
+    "id": "person:mayers,-d.",
+    "label": "Mayers, D.",
+    "aliases": []
+  },
+  {
+    "id": "person:nielsen,-m.a.",
+    "label": "Nielsen, M.A.",
+    "aliases": []
+  },
+  {
+    "id": "person:chuang,-i.l.",
+    "label": "Chuang, I.L.",
+    "aliases": []
+  },
+  {
+    "id": "person:shannon,-c.e.",
+    "label": "Shannon, C.E.",
+    "aliases": []
+  },
+  {
+    "id": "person:weaver,-w.",
+    "label": "Weaver, W.",
+    "aliases": []
+  },
+  {
+    "id": "person:schrödinger,-e.",
+    "label": "Schrödinger, E.",
+    "aliases": []
+  },
+  {
+    "id": "person:steane,-a.m.",
+    "label": "Steane, A.M.",
+    "aliases": []
+  },
+  {
+    "id": "person:wootters,-w.k.",
+    "label": "Wootters, W.K.",
+    "aliases": []
+  },
+  {
+    "id": "person:zurek,-w.h.",
+    "label": "Zurek, W.H.",
+    "aliases": []
+  },
+  {
+    "id": "person:yin,-j.",
+    "label": "Yin, J.",
+    "aliases": []
+  },
+  {
+    "id": "person:kent,-a.",
+    "label": "Kent, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:navascues,-m.",
+    "label": "Navascues, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:wunderlich,-h.",
+    "label": "Wunderlich, H.",
+    "aliases": []
+  },
+  {
+    "id": "person:pawłowski,-m.",
+    "label": "Pawłowski, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:paterek,-t.",
+    "label": "Paterek, T.",
+    "aliases": []
+  },
+  {
+    "id": "person:kaszlikowski,-d.",
+    "label": "Kaszlikowski, D.",
+    "aliases": []
+  },
+  {
+    "id": "person:scarani,-v.",
+    "label": "Scarani, V.",
+    "aliases": []
+  },
+  {
+    "id": "person:winter,-a.",
+    "label": "Winter, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:żukowski,-m.",
+    "label": "Żukowski, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:rohde,-p.p.",
+    "label": "Rohde, P.P.",
+    "aliases": []
+  },
+  {
+    "id": "person:ralph,-t.c.",
+    "label": "Ralph, T.C.",
+    "aliases": []
+  },
+  {
+    "id": "person:shor,-p.w.",
+    "label": "Shor, P.W.",
+    "aliases": []
+  },
+  {
+    "id": "person:zukowski,-m.",
+    "label": "Zukowski, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:chen,-j.-l.",
+    "label": "Chen, J.-L.",
+    "aliases": []
+  },
+  {
+    "id": "person:lee,-c.-f.",
+    "label": "Lee, C.-F.",
+    "aliases": []
+  },
+  {
+    "id": "person:jin,-g.-c.",
+    "label": "Jin, G.-C.",
+    "aliases": []
+  },
+  {
+    "id": "person:einstein",
+    "label": "Einstein",
+    "aliases": []
+  },
+  {
+    "id": "person:leonard-susskind",
+    "label": "Leonard Susskind",
+    "aliases": []
+  },
+  {
+    "id": "person:boris-podolsky",
+    "label": "Boris Podolsky",
+    "aliases": []
+  },
+  {
+    "id": "person:nathan-rosen",
+    "label": "Nathan Rosen",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stewart-bell-(physicist)",
+    "label": "John Stewart Bell (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:alain-aspect-(physicist)",
+    "label": "Alain Aspect (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-shor-(computer-scientist)",
+    "label": "Peter Shor (computer scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-bennett-(physicist)",
+    "label": "Charles Bennett (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:gilles-brassard-(physicist)",
+    "label": "Gilles Brassard (physicist)",
+    "aliases": []
   }
 ]

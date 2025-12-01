@@ -563,5 +563,10 @@
     "id": "place:france",
     "label": "France",
     "aliases": []
+  },
+  {
+    "id": "place:china-(country)",
+    "label": "China (country)",
+    "aliases": []
   }
 ]
