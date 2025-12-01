@@ -538,5 +538,70 @@
     "id": "org:european-union-emissions-trading-system-(eu-ets)",
     "label": "European Union Emissions Trading System (EU ETS)",
     "aliases": []
+  },
+  {
+    "id": "org:nibib",
+    "label": "NIBIB",
+    "aliases": []
+  },
+  {
+    "id": "org:nih",
+    "label": "NIH",
+    "aliases": []
+  },
+  {
+    "id": "org:nih-synthetic-biology-consortium",
+    "label": "NIH Synthetic Biology Consortium",
+    "aliases": []
+  },
+  {
+    "id": "org:bcc-research",
+    "label": "BCC Research",
+    "aliases": []
+  },
+  {
+    "id": "org:thermo-fisher-scientific",
+    "label": "Thermo Fisher Scientific",
+    "aliases": []
+  },
+  {
+    "id": "org:blue-heron-biotech",
+    "label": "Blue Heron Biotech",
+    "aliases": []
+  },
+  {
+    "id": "org:biobricks-foundation",
+    "label": "BioBricks Foundation",
+    "aliases": []
+  },
+  {
+    "id": "org:human-genome-project-write-(hgp-write)",
+    "label": "Human Genome Project-Write (HGP-Write)",
+    "aliases": []
+  },
+  {
+    "id": "org:csiro",
+    "label": "CSIRO",
+    "aliases": []
+  },
+  {
+    "id": "org:acola",
+    "label": "ACOLA",
+    "aliases": []
+  },
+  {
+    "id": "org:office-of-the-chief-scientist",
+    "label": "Office of the Chief Scientist",
+    "aliases": []
+  },
+  {
+    "id": "org:global-biofoundry-alliance",
+    "label": "Global Biofoundry Alliance",
+    "aliases": []
+  },
+  {
+    "id": "org:ginkgo-bioworks",
+    "label": "Ginkgo Bioworks",
+    "aliases": []
   }
 ]

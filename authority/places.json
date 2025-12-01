@@ -668,5 +668,10 @@
     "id": "place:rio-de-janeiro-(brazil)",
     "label": "Rio de Janeiro (Brazil)",
     "aliases": []
+  },
+  {
+    "id": "place:medical-council-laboratory-of-molecular-biology-(uk)",
+    "label": "Medical Council Laboratory of Molecular Biology (UK)",
+    "aliases": []
   }
 ]

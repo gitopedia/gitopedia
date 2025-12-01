@@ -1,0 +1,862 @@
+# Synthetic Biology
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- Thank you for visiting nature.com.
+- You are using a browser version with limited support for CSS.
+- To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer).
+- In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+
+- Search Search Search articles by subject, keyword or author Show results from All journals This journal Search Advanced search Quick links Explore articles by subject Find a job Guide to authors Editorial policies
+
+- Explore articles by subject
+
+- About the journal About the journal Aims & Scope Journal Information Editorial policies About the Editors Reviews Cross-Journal Editorial Team Journal Credits Editorial input and checks Editorial Values Statement Journal Metrics Publishing model Calendars Conferences Posters Web Feeds Contact
+
+- Reviews Cross-Journal Editorial Team
+
+- Editorial input and checks
+
+- Editorial Values Statement
+
+- Publish with us Publish with us For Authors For Referees Submit manuscript
+
+- nature reviews microbiology
+
+- Published: 01 April 2014
+
+- A brief history of synthetic biology
+
+- D. Ewen Cameron1,2 na1,
+
+- Caleb J. Bashor1,2 na1 &
+
+- Nature Reviews Microbiology volume 12, pages 381–390 (2014)Cite this article
+
+- The ability to rationally engineer microorganisms has been a long-envisioned goal dating back more than a half-century.
+- With the genomics revolution and rise of systems biology in the 1990s came the development of a rigorous engineering discipline to create, control and programme cellular behaviour.
+- The resulting field, known as synthetic biology, has undergone dramatic growth throughout the past decade and is poised to transform biotechnology and medicine.
+- This Timeline article charts the technological and cultural lifetime of synthetic biology, with an emphasis on key breakthroughs and future challenges.
+
+- This is a preview of subscription content, access via your institution
+
+- Subscribe to this journal
+
+- Receive 12 print issues and online access
+
+- only 20,95 € per issue
+
+- Purchase on SpringerLink
+
+- Instant access to the full article PDF.
+
+- Prices may be subject to local taxes which are calculated during checkout
+
+- Additional access options:
+
+- Learn about institutional subscriptions
+
+- Contact customer support
+
+- Alberts, B. A grand challenge in biology. Science 333, 1200 (2011).CAS PubMed Google Scholar
+
+- Alberts, B. A grand challenge in biology. Science 333, 1200 (2011).
+
+- CAS PubMed Google Scholar
+
+- Auslander, S. & Fussenegger, M. From gene switches to mammalian designer cells: present and future prospects. Trends Biotechnol. 31, 155–168 (2013).CAS PubMed Google Scholar
+
+- Auslander, S. & Fussenegger, M. From gene switches to mammalian designer cells: present and future prospects. Trends Biotechnol. 31, 155–168 (2013).
+
+- CAS PubMed Google Scholar
+
+- Karlsson, M. & Weber, W. Therapeutic synthetic gene networks. Curr. Opin. Biotechnol. 23, 703–711 (2012).CAS PubMed Google Scholar
+
+- Karlsson, M. & Weber, W. Therapeutic synthetic gene networks. Curr. Opin. Biotechnol. 23, 703–711 (2012).
+
+- CAS PubMed Google Scholar
+
+- Monod, J. & Jacob, F. Teleonomic mechanisms in cellular metabolism, growth, and differentiation. Cold Spring Harb. Symp. Quant. Biol. 26, 389–401 (1961).CAS PubMed Google Scholar
+
+- Monod, J. & Jacob, F. Teleonomic mechanisms in cellular metabolism, growth, and differentiation. Cold Spring Harb. Symp. Quant. Biol. 26, 389–401 (1961).
+
+- CAS PubMed Google Scholar
+
+- Jacob, F.ß. & Monod, J. On the regulation of gene activity. Cold Spring Harb. Symp. Quant. Biol. 26, 193–211 (1961).CAS Google Scholar
+
+- Jacob, F.ß. & Monod, J. On the regulation of gene activity. Cold Spring Harb. Symp. Quant. Biol. 26, 193–211 (1961).
+
+- Ptashne, M., Johnson, A. D. & Pabo, C. O. A genetic switch in a bacterial virus. Sci. Am. 247, 128–130 (1982).CAS PubMed Google Scholar
+
+- Ptashne, M., Johnson, A. D. & Pabo, C. O. A genetic switch in a bacterial virus. Sci. Am. 247, 128–130 (1982).
+
+- CAS PubMed Google Scholar
+
+- Ideker, T. et al. Integrated genomic and proteomic analyses of a systematically perturbed metabolic network. Science 292, 929–934 (2001).CAS PubMed Google Scholar
+
+- Ideker, T. et al. Integrated genomic and proteomic analyses of a systematically perturbed metabolic network. Science 292, 929–934 (2001).
+
+- CAS PubMed Google Scholar
+
+- Westerhoff, H. V. & Palsson, B. O. The evolution of molecular biology into systems biology. Nature Biotech. 22, 1249–1252 (2004).CAS Google Scholar
+
+- Westerhoff, H. V. & Palsson, B. O. The evolution of molecular biology into systems biology. Nature Biotech. 22, 1249–1252 (2004).
+
+- Jeong, H., Tombor, B., Albert, R., Oltvai, Z. N. & Barabasi, A. L. The large-scale organization of metabolic networks. Nature 407, 651–654 (2000).CAS PubMed Google Scholar
+
+- Jeong, H., Tombor, B., Albert, R., Oltvai, Z. N. & Barabasi, A. L. The large-scale organization of metabolic networks. Nature 407, 651–654 (2000).
+
+- CAS PubMed Google Scholar
+
+- Hartwell, L. H., Hopfield, J. J., Leibler, S. & Murray, A. W. From molecular to modular cell biology. Nature 402, C47–C52 (1999).CAS PubMed Google Scholar
+
+- Hartwell, L. H., Hopfield, J. J., Leibler, S. & Murray, A. W. From molecular to modular cell biology. Nature 402, C47–C52 (1999).
+
+- CAS PubMed Google Scholar
+
+- Bray, D. Protein molecules as computational elements in living cells. Nature 376, 307–312 (1995).CAS PubMed Google Scholar
+
+- Bray, D. Protein molecules as computational elements in living cells. Nature 376, 307–312 (1995).
+
+- CAS PubMed Google Scholar
+
+- Benner, S. A. Synthetic biology: act natural. Nature 421, 118 (2003).CAS PubMed Google Scholar
+
+- Benner, S. A. Synthetic biology: act natural. Nature 421, 118 (2003).
+
+- CAS PubMed Google Scholar
+
+- McAdams, H. H. & Shapiro, L. Circuit simulation of genetic networks. Science 269, 650–656 (1995).CAS PubMed Google Scholar
+
+- McAdams, H. H. & Shapiro, L. Circuit simulation of genetic networks. Science 269, 650–656 (1995).
+
+- CAS PubMed Google Scholar
+
+- McAdams, H. H. & Arkin, A. Towards a circuit engineering discipline. Curr. Biol. 10, R318–R320 (2000).CAS PubMed Google Scholar
+
+- McAdams, H. H. & Arkin, A. Towards a circuit engineering discipline. Curr. Biol. 10, R318–R320 (2000).
+
+- CAS PubMed Google Scholar
+
+- Gardner, T. S., Cantor, C. R. & Collins, J. J. Construction of a genetic toggle switch in Escherichia coli. Nature 403, 339–342 (2000).CAS PubMed Google Scholar
+
+- Gardner, T. S., Cantor, C. R. & Collins, J. J. Construction of a genetic toggle switch in Escherichia coli. Nature 403, 339–342 (2000).
+
+- CAS PubMed Google Scholar
+
+- Elowitz, M. B. & Leibler, S. A synthetic oscillatory network of transcriptional regulators. Nature 403, 335–338 (2000).CAS PubMed Google Scholar
+
+- Elowitz, M. B. & Leibler, S. A synthetic oscillatory network of transcriptional regulators. Nature 403, 335–338 (2000).
+
+- CAS PubMed Google Scholar
+
+- Hasty, J., McMillen, D., Isaacs, F. & Collins, J. J. Computational studies of gene regulatory networks: in numero molecular biology. Nature Rev. Genet. 2, 268–279 (2001).CAS PubMed Google Scholar
+
+- Hasty, J., McMillen, D., Isaacs, F. & Collins, J. J. Computational studies of gene regulatory networks: in numero molecular biology. Nature Rev. Genet. 2, 268–279 (2001).
+
+- CAS PubMed Google Scholar
+
+- Kaern, M., Blake, W. J. & Collins, J. J. The engineering of gene regulatory networks. Annu. Rev. Biomed. Engineer. 5, 179–206 (2003).CAS Google Scholar
+
+- Kaern, M., Blake, W. J. & Collins, J. J. The engineering of gene regulatory networks. Annu. Rev. Biomed. Engineer. 5, 179–206 (2003).
+
+- Slusarczyk, A. L., Lin, A. & Weiss, R. Foundations for the design and implementation of synthetic genetic circuits. Nature Rev. Genet. 13, 406–420 (2012).CAS PubMed Google Scholar
+
+- Slusarczyk, A. L., Lin, A. & Weiss, R. Foundations for the design and implementation of synthetic genetic circuits. Nature Rev. Genet. 13, 406–420 (2012).
+
+- CAS PubMed Google Scholar
+
+- Hasty, J., McMillen, D. & Collins, J. J. Engineered gene circuits. Nature 420, 224–230 (2002).CAS PubMed Google Scholar
+
+- Hasty, J., McMillen, D. & Collins, J. J. Engineered gene circuits. Nature 420, 224–230 (2002).
+
+- CAS PubMed Google Scholar
+
+- Becskei, A. & Serrano, L. Engineering stability in gene networks by autoregulation. Nature 405, 590–593 (2000).CAS PubMed Google Scholar
+
+- Becskei, A. & Serrano, L. Engineering stability in gene networks by autoregulation. Nature 405, 590–593 (2000).
+
+- CAS PubMed Google Scholar
+
+- Becskei, A., Seraphin, B. & Serrano, L. Positive feedback in eukaryotic gene networks: cell differentiation by graded to binary response conversion. EMBO J. 20, 2528–2535 (2001).CAS PubMed PubMed Central Google Scholar
+
+- Becskei, A., Seraphin, B. & Serrano, L. Positive feedback in eukaryotic gene networks: cell differentiation by graded to binary response conversion. EMBO J. 20, 2528–2535 (2001).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Isaacs, F. J., Hasty, J., Cantor, C. R. & Collins, J. J. Prediction and measurement of an autoregulatory genetic module. Proc. Natl Acad. Sci. USA 100, 7714–7719 (2003).CAS PubMed Google Scholar
+
+- Isaacs, F. J., Hasty, J., Cantor, C. R. & Collins, J. J. Prediction and measurement of an autoregulatory genetic module. Proc. Natl Acad. Sci. USA 100, 7714–7719 (2003).
+
+- CAS PubMed Google Scholar
+
+- Atkinson, M. R., Savageau, M. A., Myers, J. T. & Ninfa, A. J. Development of genetic circuitry exhibiting toggle switch or oscillatory behavior in Escherichia coli. Cell 113, 597–607 (2003).CAS PubMed Google Scholar
+
+- Atkinson, M. R., Savageau, M. A., Myers, J. T. & Ninfa, A. J. Development of genetic circuitry exhibiting toggle switch or oscillatory behavior in Escherichia coli. Cell 113, 597–607 (2003).
+
+- CAS PubMed Google Scholar
+
+- Guet, C. C., Elowitz, M. B., Hsing, W. & Leibler, S. Combinatorial synthesis of genetic networks. Science 296, 1466–1470 (2002).CAS PubMed Google Scholar
+
+- Guet, C. C., Elowitz, M. B., Hsing, W. & Leibler, S. Combinatorial synthesis of genetic networks. Science 296, 1466–1470 (2002).
+
+- CAS PubMed Google Scholar
+
+- Weiss, R. & Basu, S. The device physics of cellular logic gates. First Workshop on Non-Silicon Computation [online], (2002). Google Scholar
+
+- Weiss, R. & Basu, S. The device physics of cellular logic gates. First Workshop on Non-Silicon Computation [online], (2002).
+
+- Ozbudak, E. M., Thattai, M., Kurtser, I., Grossman, A. D. & van Oudenaarden, A. Regulation of noise in the expression of a single gene. Nature Genet. 31, 69–73 (2002).CAS PubMed Google Scholar
+
+- Ozbudak, E. M., Thattai, M., Kurtser, I., Grossman, A. D. & van Oudenaarden, A. Regulation of noise in the expression of a single gene. Nature Genet. 31, 69–73 (2002).
+
+- CAS PubMed Google Scholar
+
+- Elowitz, M. B., Levine, A. J., Siggia, E. D. & Swain, P. S. Stochastic gene expression in a single cell. Science 297, 1183–1186 (2002).CAS PubMed Google Scholar
+
+- Elowitz, M. B., Levine, A. J., Siggia, E. D. & Swain, P. S. Stochastic gene expression in a single cell. Science 297, 1183–1186 (2002).
+
+- CAS PubMed Google Scholar
+
+- Blake, W. J., Kaern, M., Cantor, C. R. & Collins, J. J. Noise in eukaryotic gene expression. Nature 422, 633–637 (2003).CAS PubMed Google Scholar
+
+- Blake, W. J., Kaern, M., Cantor, C. R. & Collins, J. J. Noise in eukaryotic gene expression. Nature 422, 633–637 (2003).
+
+- CAS PubMed Google Scholar
+
+- Weiss, R. & Knight, T. F. Jr. in DNA Computing (eds Condon, A. & Rozenberg, G.) 1–16 (Springer, 2001). Google Scholar
+
+- Weiss, R. & Knight, T. F. Jr. in DNA Computing (eds Condon, A. & Rozenberg, G.) 1–16 (Springer, 2001).
+
+- Park, S. H., Zarrinpar, A. & Lim, W. A. Rewiring MAP kinase pathways using alternative scaffold assembly mechanisms. Science 299, 1061–1064 (2003).CAS PubMed Google Scholar
+
+- Park, S. H., Zarrinpar, A. & Lim, W. A. Rewiring MAP kinase pathways using alternative scaffold assembly mechanisms. Science 299, 1061–1064 (2003).
+
+- CAS PubMed Google Scholar
+
+- Ball, P. Synthetic biology: starting from scratch. Nature 431, 624–626 (2004).CAS PubMed Google Scholar
+
+- Ball, P. Synthetic biology: starting from scratch. Nature 431, 624–626 (2004).
+
+- CAS PubMed Google Scholar
+
+- Ferber, D. Synthetic biology. Microbes made to order. Science 303, 158–161 (2004).CAS PubMed Google Scholar
+
+- Ferber, D. Synthetic biology. Microbes made to order. Science 303, 158–161 (2004).
+
+- CAS PubMed Google Scholar
+
+- Endy, D. Foundations for engineering biology. Nature 438, 449–453 (2005).CAS PubMed Google Scholar
+
+- Endy, D. Foundations for engineering biology. Nature 438, 449–453 (2005).
+
+- CAS PubMed Google Scholar
+
+- Isaacs, F. J. et al. Engineered riboregulators enable post-transcriptional control of gene expression. Nature Biotech. 22, 841–847 (2004).CAS Google Scholar
+
+- Isaacs, F. J. et al. Engineered riboregulators enable post-transcriptional control of gene expression. Nature Biotech. 22, 841–847 (2004).
+
+- Bayer, T. S. & Smolke, C. D. Programmable ligand-controlled riboregulators of eukaryotic gene expression. Nature Biotech. 23, 337–343 (2005).CAS Google Scholar
+
+- Bayer, T. S. & Smolke, C. D. Programmable ligand-controlled riboregulators of eukaryotic gene expression. Nature Biotech. 23, 337–343 (2005).
+
+- Anderson, J. C., Voigt, C. A. & Arkin, A. P. Environmental signal integration by a modular AND gate. Mol. Systems Biol. 3, 133 (2007). Google Scholar
+
+- Anderson, J. C., Voigt, C. A. & Arkin, A. P. Environmental signal integration by a modular AND gate. Mol. Systems Biol. 3, 133 (2007).
+
+- Basu, S., Gerchman, Y., Collins, C. H., Arnold, F. H. & Weiss, R. A synthetic multicellular system for programmed pattern formation. Nature 434, 1130–1134 (2005).CAS PubMed Google Scholar
+
+- Basu, S., Gerchman, Y., Collins, C. H., Arnold, F. H. & Weiss, R. A synthetic multicellular system for programmed pattern formation. Nature 434, 1130–1134 (2005).
+
+- CAS PubMed Google Scholar
+
+- You, L., Cox, R. S., 3rd, Weiss, R. & Arnold, F. H. Programmed population control by cell–cell communication and regulated killing. Nature 428, 868–871 (2004).CAS PubMed Google Scholar
+
+- You, L., Cox, R. S., 3rd, Weiss, R. & Arnold, F. H. Programmed population control by cell–cell communication and regulated killing. Nature 428, 868–871 (2004).
+
+- CAS PubMed Google Scholar
+
+- Levskaya, A. et al. Synthetic biology: engineering Escherichia coli to see light. Nature 438, 441–442 (2005).CAS PubMed Google Scholar
+
+- Levskaya, A. et al. Synthetic biology: engineering Escherichia coli to see light. Nature 438, 441–442 (2005).
+
+- CAS PubMed Google Scholar
+
+- Martin, V. J., Pitera, D. J., Withers, S. T., Newman, J. D. & Keasling, J. D. Engineering a mevalonate pathway in Escherichia coli for production of terpenoids. Nature Biotech. 21, 796–802 (2003).CAS Google Scholar
+
+- Martin, V. J., Pitera, D. J., Withers, S. T., Newman, J. D. & Keasling, J. D. Engineering a mevalonate pathway in Escherichia coli for production of terpenoids. Nature Biotech. 21, 796–802 (2003).
+
+- Ro, D. K. et al. Production of the antimalarial drug precursor artemisinic acid in engineered yeast. Nature 440, 940–943 (2006).CAS PubMed Google Scholar
+
+- Ro, D. K. et al. Production of the antimalarial drug precursor artemisinic acid in engineered yeast. Nature 440, 940–943 (2006).
+
+- CAS PubMed Google Scholar
+
+- Menzella, H. G. et al. Combinatorial polyketide biosynthesis by de novo design and rearrangement of modular polyketide synthase genes. Nature Biotech. 23, 1171–1176 (2005).CAS Google Scholar
+
+- Menzella, H. G. et al. Combinatorial polyketide biosynthesis by de novo design and rearrangement of modular polyketide synthase genes. Nature Biotech. 23, 1171–1176 (2005).
+
+- Menzella, H. G. & Reeves, C. D. Combinatorial biosynthesis for drug development. Curr. Opin. Microbiol. 10, 238–245 (2007).CAS PubMed Google Scholar
+
+- Menzella, H. G. & Reeves, C. D. Combinatorial biosynthesis for drug development. Curr. Opin. Microbiol. 10, 238–245 (2007).
+
+- CAS PubMed Google Scholar
+
+- Anderson, J. C., Clarke, E. J., Arkin, A. P. & Voigt, C. A. Environmentally controlled invasion of cancer cells by engineered bacteria. J. Mol. Biol. 355, 619–627 (2006).CAS PubMed Google Scholar
+
+- Anderson, J. C., Clarke, E. J., Arkin, A. P. & Voigt, C. A. Environmentally controlled invasion of cancer cells by engineered bacteria. J. Mol. Biol. 355, 619–627 (2006).
+
+- CAS PubMed Google Scholar
+
+- Kwok, R. Five hard truths for synthetic biology. Nature 463, 288–290 (2010).CAS PubMed Google Scholar
+
+- Kwok, R. Five hard truths for synthetic biology. Nature 463, 288–290 (2010).
+
+- CAS PubMed Google Scholar
+
+- Knight, T. F. Jr Idempotent vector design for standard assembly of BioBricks. MIT Synthethic Biology Working Group Technical Reports [online], (2003). Google Scholar
+
+- Knight, T. F. Jr Idempotent vector design for standard assembly of BioBricks. MIT Synthethic Biology Working Group Technical Reports [online], (2003).
+
+- Engler, C., Kandzia, R. & Marillonnet, S. A one pot, one step, precision cloning method with high throughput capability. PLoS ONE 3, e3647 (2008).PubMed PubMed Central Google Scholar
+
+- Engler, C., Kandzia, R. & Marillonnet, S. A one pot, one step, precision cloning method with high throughput capability. PLoS ONE 3, e3647 (2008).
+
+- PubMed PubMed Central Google Scholar
+
+- Gibson, D. G. et al. Enzymatic assembly of DNA molecules up to several hundred kilobases. Nature Methods 6, 343–345 (2009).CAS PubMed Google Scholar
+
+- Gibson, D. G. et al. Enzymatic assembly of DNA molecules up to several hundred kilobases. Nature Methods 6, 343–345 (2009).
+
+- CAS PubMed Google Scholar
+
+- Galdzicki, M., Rodriguez, C., Chandran, D., Sauro, H. M. & Gennari, J. H. Standard biological parts knowledgebase. PLoS ONE 6, e17005 (2011).CAS PubMed PubMed Central Google Scholar
+
+- Galdzicki, M., Rodriguez, C., Chandran, D., Sauro, H. M. & Gennari, J. H. Standard biological parts knowledgebase. PLoS ONE 6, e17005 (2011).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Cardinale, S. & Arkin, A. P. Contextualizing context for synthetic biology — identifying causes of failure of synthetic biological systems. Biotechnol. J. 7, 856–866 (2012).CAS PubMed PubMed Central Google Scholar
+
+- Cardinale, S. & Arkin, A. P. Contextualizing context for synthetic biology — identifying causes of failure of synthetic biological systems. Biotechnol. J. 7, 856–866 (2012).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Purnick, P. E. & Weiss, R. The second wave of synthetic biology: from modules to systems. Nature Rev. Mol. Cell Biol. 10, 410–422 (2009).CAS Google Scholar
+
+- Purnick, P. E. & Weiss, R. The second wave of synthetic biology: from modules to systems. Nature Rev. Mol. Cell Biol. 10, 410–422 (2009).
+
+- Pauwels, E. & Ifrim, I. in Synthetic Biology Project [online], (Woodrow Wilson International Center for Scholars, 2008). Google Scholar
+
+- Pauwels, E. & Ifrim, I. in Synthetic Biology Project [online], (Woodrow Wilson International Center for Scholars, 2008).
+
+- Smolke, C. D. Building outside of the box: iGEM and the BioBricks Foundation. Nature Biotech. 27, 1099–1102 (2009).CAS Google Scholar
+
+- Smolke, C. D. Building outside of the box: iGEM and the BioBricks Foundation. Nature Biotech. 27, 1099–1102 (2009).
+
+- Voigt, C. A. Life from information. Nature Methods 5, 27–28 (2008).CAS PubMed Google Scholar
+
+- Voigt, C. A. Life from information. Nature Methods 5, 27–28 (2008).
+
+- CAS PubMed Google Scholar
+
+- Stricker, J. et al. A fast, robust and tunable synthetic gene oscillator. Nature 456, 516–519 (2008).CAS PubMed Google Scholar
+
+- Stricker, J. et al. A fast, robust and tunable synthetic gene oscillator. Nature 456, 516–519 (2008).
+
+- CAS PubMed Google Scholar
+
+- Danino, T., Mondragon-Palomino, O., Tsimring, L. & Hasty, J. A synchronized quorum of genetic clocks. Nature 463, 326–330 (2010).CAS PubMed PubMed Central Google Scholar
+
+- Danino, T., Mondragon-Palomino, O., Tsimring, L. & Hasty, J. A synchronized quorum of genetic clocks. Nature 463, 326–330 (2010).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Prindle, A. et al. A sensing array of radically coupled genetic 'biopixels'. Nature 481, 39–44 (2012).CAS Google Scholar
+
+- Prindle, A. et al. A sensing array of radically coupled genetic 'biopixels'. Nature 481, 39–44 (2012).
+
+- Friedland, A. E. et al. Synthetic gene networks that count. Science 324, 1199–1202 (2009).CAS PubMed PubMed Central Google Scholar
+
+- Friedland, A. E. et al. Synthetic gene networks that count. Science 324, 1199–1202 (2009).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Siuti, P., Yazbek, J. & Lu, T. K. Synthetic circuits integrating logic and memory in living cells. Nature Biotech. 31, 448–452 (2013).CAS Google Scholar
+
+- Siuti, P., Yazbek, J. & Lu, T. K. Synthetic circuits integrating logic and memory in living cells. Nature Biotech. 31, 448–452 (2013).
+
+- Bonnet, J., Yin, P., Ortiz, M. E., Subsoontorn, P. & Endy, D. Amplifying genetic logic gates. Science 340, 599–603 (2013).CAS PubMed Google Scholar
+
+- Bonnet, J., Yin, P., Ortiz, M. E., Subsoontorn, P. & Endy, D. Amplifying genetic logic gates. Science 340, 599–603 (2013).
+
+- CAS PubMed Google Scholar
+
+- Tamsir, A., Tabor, J. J. & Voigt, C. A. Robust multicellular computing using genetically encoded NOR gates and chemical 'wires'. Nature 469, 212–215 (2011).CAS PubMed Google Scholar
+
+- Tamsir, A., Tabor, J. J. & Voigt, C. A. Robust multicellular computing using genetically encoded NOR gates and chemical 'wires'. Nature 469, 212–215 (2011).
+
+- CAS PubMed Google Scholar
+
+- Moon, T. S., Lou, C., Tamsir, A., Stanton, B. C. & Voigt, C. A. Genetic programs constructed from layered logic gates in single cells. Nature 491, 249–253 (2012).CAS PubMed PubMed Central Google Scholar
+
+- Moon, T. S., Lou, C., Tamsir, A., Stanton, B. C. & Voigt, C. A. Genetic programs constructed from layered logic gates in single cells. Nature 491, 249–253 (2012).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Tabor, J. J. et al. A synthetic genetic edge detection program. Cell 137, 1272–1281 (2009).PubMed PubMed Central Google Scholar
+
+- Tabor, J. J. et al. A synthetic genetic edge detection program. Cell 137, 1272–1281 (2009).
+
+- PubMed PubMed Central Google Scholar
+
+- Liu, C. et al. Sequential establishment of stripe patterns in an expanding cell population. Science 334, 238–241 (2011).CAS PubMed Google Scholar
+
+- Liu, C. et al. Sequential establishment of stripe patterns in an expanding cell population. Science 334, 238–241 (2011).
+
+- CAS PubMed Google Scholar
+
+- Win, M. N. & Smolke, C. D. Higher-order cellular information processing with synthetic RNA devices. Science 322, 456–460 (2008).CAS PubMed PubMed Central Google Scholar
+
+- Win, M. N. & Smolke, C. D. Higher-order cellular information processing with synthetic RNA devices. Science 322, 456–460 (2008).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Carothers, J. M., Goler, J. A., Juminaga, D. & Keasling, J. D. Model-driven engineering of RNA devices to quantitatively program gene expression. Science 334, 1716–1719 (2011).CAS PubMed Google Scholar
+
+- Carothers, J. M., Goler, J. A., Juminaga, D. & Keasling, J. D. Model-driven engineering of RNA devices to quantitatively program gene expression. Science 334, 1716–1719 (2011).
+
+- CAS PubMed Google Scholar
+
+- Na, D. et al. Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs. Nature Biotech. 31, 170–174 (2013).CAS Google Scholar
+
+- Na, D. et al. Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs. Nature Biotech. 31, 170–174 (2013).
+
+- Wiedenheft, B., Sternberg, S. H. & Doudna, J. A. RNA-guided genetic silencing systems in bacteria and archaea. Nature 482, 331–338 (2012).CAS PubMed Google Scholar
+
+- Wiedenheft, B., Sternberg, S. H. & Doudna, J. A. RNA-guided genetic silencing systems in bacteria and archaea. Nature 482, 331–338 (2012).
+
+- CAS PubMed Google Scholar
+
+- Qi, L. S. et al. Repurposing CRISPR as an RNA-guided platform for sequence-specific control of gene expression. Cell 152, 1173–1183 (2013).CAS PubMed PubMed Central Google Scholar
+
+- Qi, L. S. et al. Repurposing CRISPR as an RNA-guided platform for sequence-specific control of gene expression. Cell 152, 1173–1183 (2013).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Larson, M. H. et al. CRISPR interference (CRISPRi) for sequence-specific control of gene expression. Nature Protoc. 8, 2180–2196 (2013).CAS Google Scholar
+
+- Larson, M. H. et al. CRISPR interference (CRISPRi) for sequence-specific control of gene expression. Nature Protoc. 8, 2180–2196 (2013).
+
+- Bikard, D. et al. Programmable repression and activation of bacterial gene expression using an engineered CRISPR–Cas system. Nucleic Acids Res. 41, 7429–7437 (2013).CAS PubMed PubMed Central Google Scholar
+
+- Bikard, D. et al. Programmable repression and activation of bacterial gene expression using an engineered CRISPR–Cas system. Nucleic Acids Res. 41, 7429–7437 (2013).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Bashor, C. J., Helman, N. C., Yan, S. & Lim, W. A. Using engineered scaffold interactions to reshape MAP kinase pathway signaling dynamics. Science 319, 1539–1543 (2008).CAS PubMed Google Scholar
+
+- Bashor, C. J., Helman, N. C., Yan, S. & Lim, W. A. Using engineered scaffold interactions to reshape MAP kinase pathway signaling dynamics. Science 319, 1539–1543 (2008).
+
+- CAS PubMed Google Scholar
+
+- Whitaker, W. R., Davis, S. A., Arkin, A. P. & Dueber, J. E. Engineering robust control of two-component system phosphotransfer using modular scaffolds. Proc. Natl Acad. Sci. USA 109, 18090–18095 (2012).CAS PubMed Google Scholar
+
+- Whitaker, W. R., Davis, S. A., Arkin, A. P. & Dueber, J. E. Engineering robust control of two-component system phosphotransfer using modular scaffolds. Proc. Natl Acad. Sci. USA 109, 18090–18095 (2012).
+
+- CAS PubMed Google Scholar
+
+- Dueber, J. E. et al. Synthetic protein scaffolds provide modular control over metabolic flux. Nature Biotech. 27, 753–759 (2009).CAS Google Scholar
+
+- Dueber, J. E. et al. Synthetic protein scaffolds provide modular control over metabolic flux. Nature Biotech. 27, 753–759 (2009).
+
+- Chau, A. H., Walter, J. M., Gerardin, J., Tang, C. & Lim, W. A. Designing synthetic regulatory networks capable of self-organizing cell polarization. Cell 151, 320–332 (2012).CAS PubMed PubMed Central Google Scholar
+
+- Chau, A. H., Walter, J. M., Gerardin, J., Tang, C. & Lim, W. A. Designing synthetic regulatory networks capable of self-organizing cell polarization. Cell 151, 320–332 (2012).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Cagatay, T., Turcotte, M., Elowitz, M. B., Garcia-Ojalvo, J. & Suel, G. M. Architecture-dependent noise discriminates functionally analogous differentiation circuits. Cell 139, 512–522 (2009).CAS PubMed Google Scholar
+
+- Cagatay, T., Turcotte, M., Elowitz, M. B., Garcia-Ojalvo, J. & Suel, G. M. Architecture-dependent noise discriminates functionally analogous differentiation circuits. Cell 139, 512–522 (2009).
+
+- CAS PubMed Google Scholar
+
+- Isalan, M. et al. Evolvability and hierarchy in rewired bacterial gene networks. Nature 452, 840–845 (2008).CAS PubMed PubMed Central Google Scholar
+
+- Isalan, M. et al. Evolvability and hierarchy in rewired bacterial gene networks. Nature 452, 840–845 (2008).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Lee, J. W. et al. Systems metabolic engineering of microorganisms for natural and non-natural chemicals. Nature Chem. Biol. 8, 536–546 (2012).CAS Google Scholar
+
+- Lee, J. W. et al. Systems metabolic engineering of microorganisms for natural and non-natural chemicals. Nature Chem. Biol. 8, 536–546 (2012).
+
+- Atsumi, S., Hanai, T. & Liao, J. C. Non-fermentative pathways for synthesis of branched-chain higher alcohols as biofuels. Nature 451, 86–89 (2008).CAS PubMed Google Scholar
+
+- Atsumi, S., Hanai, T. & Liao, J. C. Non-fermentative pathways for synthesis of branched-chain higher alcohols as biofuels. Nature 451, 86–89 (2008).
+
+- CAS PubMed Google Scholar
+
+- Huo, Y. X. et al. Conversion of proteins into biofuels by engineering nitrogen flux. Nature Biotech. 29, 346–351 (2011).CAS Google Scholar
+
+- Huo, Y. X. et al. Conversion of proteins into biofuels by engineering nitrogen flux. Nature Biotech. 29, 346–351 (2011).
+
+- Steen, E. J. et al. Microbial production of fatty-acid-derived fuels and chemicals from plant biomass. Nature 463, 559–562 (2010).CAS PubMed Google Scholar
+
+- Steen, E. J. et al. Microbial production of fatty-acid-derived fuels and chemicals from plant biomass. Nature 463, 559–562 (2010).
+
+- CAS PubMed Google Scholar
+
+- Choi, Y. J. & Lee, S. Y. Microbial production of short-chain alkanes. Nature 502, 571–574 (2013).CAS PubMed Google Scholar
+
+- Choi, Y. J. & Lee, S. Y. Microbial production of short-chain alkanes. Nature 502, 571–574 (2013).
+
+- CAS PubMed Google Scholar
+
+- Yim, H. et al. Metabolic engineering of Escherichia coli for direct production of 1,4-butanediol. Nature Chem. Biol. 7, 445–452 (2011).CAS Google Scholar
+
+- Yim, H. et al. Metabolic engineering of Escherichia coli for direct production of 1,4-butanediol. Nature Chem. Biol. 7, 445–452 (2011).
+
+- Holtz, W. J. & Keasling, J. D. Engineering static and dynamic control of synthetic pathways. Cell 140, 19–23 (2010).CAS PubMed Google Scholar
+
+- Holtz, W. J. & Keasling, J. D. Engineering static and dynamic control of synthetic pathways. Cell 140, 19–23 (2010).
+
+- CAS PubMed Google Scholar
+
+- Anesiadis, N., Cluett, W. R. & Mahadevan, R. Dynamic metabolic engineering for increasing bioprocess productivity. Metab. Eng. 10, 255–266 (2008).CAS PubMed Google Scholar
+
+- Anesiadis, N., Cluett, W. R. & Mahadevan, R. Dynamic metabolic engineering for increasing bioprocess productivity. Metab. Eng. 10, 255–266 (2008).
+
+- CAS PubMed Google Scholar
+
+- Zhang, F., Carothers, J. M. & Keasling, J. D. Design of a dynamic sensor–regulator system for production of chemicals and fuels derived from fatty acids. Nature Biotech. 30, 354–359 (2012).CAS Google Scholar
+
+- Zhang, F., Carothers, J. M. & Keasling, J. D. Design of a dynamic sensor–regulator system for production of chemicals and fuels derived from fatty acids. Nature Biotech. 30, 354–359 (2012).
+
+- Paddon, C. J. et al. High-level semi-synthetic production of the potent antimalarial artemisinin. Nature 496, 528–532 (2013).CAS PubMed Google Scholar
+
+- Paddon, C. J. et al. High-level semi-synthetic production of the potent antimalarial artemisinin. Nature 496, 528–532 (2013).
+
+- CAS PubMed Google Scholar
+
+- Ruder, W. C., Lu, T. & Collins, J. J. Synthetic biology moving into the clinic. Science 333, 1248–1252 (2011).CAS PubMed Google Scholar
+
+- Ruder, W. C., Lu, T. & Collins, J. J. Synthetic biology moving into the clinic. Science 333, 1248–1252 (2011).
+
+- CAS PubMed Google Scholar
+
+- Lu, T. K. & Collins, J. J. Dispersing biofilms with engineered enzymatic bacteriophage. Proc. Natl Acad. Sci. USA 104, 11197–11202 (2007).CAS PubMed Google Scholar
+
+- Lu, T. K. & Collins, J. J. Dispersing biofilms with engineered enzymatic bacteriophage. Proc. Natl Acad. Sci. USA 104, 11197–11202 (2007).
+
+- CAS PubMed Google Scholar
+
+- Lu, T. K., Khalil, A. S. & Collins, J. J. Next-generation synthetic gene networks. Nature Biotech. 27, 1139–1150 (2009).CAS Google Scholar
+
+- Lu, T. K., Khalil, A. S. & Collins, J. J. Next-generation synthetic gene networks. Nature Biotech. 27, 1139–1150 (2009).
+
+- Lu, T. K., Bowers, J. & Koeris, M. S. Advancing bacteriophage-based microbial diagnostics with synthetic biology. Trends Biotechnol. 31, 325–327 (2013).CAS PubMed Google Scholar
+
+- Lu, T. K., Bowers, J. & Koeris, M. S. Advancing bacteriophage-based microbial diagnostics with synthetic biology. Trends Biotechnol. 31, 325–327 (2013).
+
+- CAS PubMed Google Scholar
+
+- Gupta, S., Bram, E. E. & Weiss, R. Genetically programmable pathogen sense and destroy. ACS Synthet. Biol. 2, 715–723 (2013).CAS Google Scholar
+
+- Gupta, S., Bram, E. E. & Weiss, R. Genetically programmable pathogen sense and destroy. ACS Synthet. Biol. 2, 715–723 (2013).
+
+- Duan, F. & March, J. C. Engineered bacterial communication prevents Vibrio cholerae virulence in an infant mouse model. Proc. Natl Acad. Sci. USA 107, 11260–11264 (2010).CAS PubMed Google Scholar
+
+- Duan, F. & March, J. C. Engineered bacterial communication prevents Vibrio cholerae virulence in an infant mouse model. Proc. Natl Acad. Sci. USA 107, 11260–11264 (2010).
+
+- CAS PubMed Google Scholar
+
+- Callura, J. M., Dwyer, D. J., Isaacs, F. J., Cantor, C. R. & Collins, J. J. Tracking, tuning, and terminating microbial physiology using synthetic riboregulators. Proc. Natl Acad. Sci. USA 107, 15898–15903 (2010).CAS PubMed Google Scholar
+
+- Callura, J. M., Dwyer, D. J., Isaacs, F. J., Cantor, C. R. & Collins, J. J. Tracking, tuning, and terminating microbial physiology using synthetic riboregulators. Proc. Natl Acad. Sci. USA 107, 15898–15903 (2010).
+
+- CAS PubMed Google Scholar
+
+- Gibson, D. G. et al. Creation of a bacterial cell controlled by a chemically synthesized genome. Science 329, 52–56 (2010).CAS PubMed Google Scholar
+
+- Gibson, D. G. et al. Creation of a bacterial cell controlled by a chemically synthesized genome. Science 329, 52–56 (2010).
+
+- CAS PubMed Google Scholar
+
+- Dymond, J. S. et al. Synthetic chromosome arms function in yeast and generate phenotypic diversity by design. Nature 477, 471–476 (2011).CAS PubMed PubMed Central Google Scholar
+
+- Dymond, J. S. et al. Synthetic chromosome arms function in yeast and generate phenotypic diversity by design. Nature 477, 471–476 (2011).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Wang, H. H. et al. Programming cells by multiplex genome engineering and accelerated evolution. Nature 460, 894–898 (2009).CAS PubMed PubMed Central Google Scholar
+
+- Wang, H. H. et al. Programming cells by multiplex genome engineering and accelerated evolution. Nature 460, 894–898 (2009).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Isaacs, F. J. et al. Precise manipulation of chromosomes in vivo enables genome-wide codon replacement. Science 333, 348–353 (2011).CAS PubMed PubMed Central Google Scholar
+
+- Isaacs, F. J. et al. Precise manipulation of chromosomes in vivo enables genome-wide codon replacement. Science 333, 348–353 (2011).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Jiang, W., Bikard, D., Cox, D., Zhang, F. & Marraffini, L. A. RNA-guided editing of bacterial genomes using CRISPR–Cas systems. Nature Biotech. 31, 233–239 (2013).CAS Google Scholar
+
+- Jiang, W., Bikard, D., Cox, D., Zhang, F. & Marraffini, L. A. RNA-guided editing of bacterial genomes using CRISPR–Cas systems. Nature Biotech. 31, 233–239 (2013).
+
+- DiCarlo, J. E. et al. Genome engineering in Saccharomyces cerevisiae using CRISPR–Cas systems. Nucleic Acids Res. 41, 4336–4343 (2013).CAS PubMed PubMed Central Google Scholar
+
+- DiCarlo, J. E. et al. Genome engineering in Saccharomyces cerevisiae using CRISPR–Cas systems. Nucleic Acids Res. 41, 4336–4343 (2013).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Salis, H. M., Mirsky, E. A. & Voigt, C. A. Automated design of synthetic ribosome binding sites to control protein expression. Nature Biotech. 27, 946–950 (2009).CAS Google Scholar
+
+- Salis, H. M., Mirsky, E. A. & Voigt, C. A. Automated design of synthetic ribosome binding sites to control protein expression. Nature Biotech. 27, 946–950 (2009).
+
+- Ellis, T., Wang, X. & Collins, J. J. Diversity-based, model-guided construction of synthetic gene networks with predicted functions. Nature Biotech. 27, 465–471 (2009).CAS Google Scholar
+
+- Ellis, T., Wang, X. & Collins, J. J. Diversity-based, model-guided construction of synthetic gene networks with predicted functions. Nature Biotech. 27, 465–471 (2009).
+
+- Mutalik, V. K. et al. Precise and reliable gene expression via standard transcription and translation initiation elements. Nature Methods 10, 354–360 (2013).CAS PubMed Google Scholar
+
+- Mutalik, V. K. et al. Precise and reliable gene expression via standard transcription and translation initiation elements. Nature Methods 10, 354–360 (2013).
+
+- CAS PubMed Google Scholar
+
+- Cambray, G. et al. Measurement and modeling of intrinsic transcription terminators. Nucleic Acids Res. 41, 5139–5148 (2013).CAS PubMed PubMed Central Google Scholar
+
+- Cambray, G. et al. Measurement and modeling of intrinsic transcription terminators. Nucleic Acids Res. 41, 5139–5148 (2013).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Mutalik, V. K. et al. Quantitative estimation of activity and quality for collections of functional genetic elements. Nature Methods 10, 347–353 (2013).CAS PubMed Google Scholar
+
+- Mutalik, V. K. et al. Quantitative estimation of activity and quality for collections of functional genetic elements. Nature Methods 10, 347–353 (2013).
+
+- CAS PubMed Google Scholar
+
+- Chan, L. Y., Kosuri, S. & Endy, D. Refactoring bacteriophage T7. Mol. Systems Biol. 1, 2005.0018 (2005). Google Scholar
+
+- Chan, L. Y., Kosuri, S. & Endy, D. Refactoring bacteriophage T7. Mol. Systems Biol. 1, 2005.0018 (2005).
+
+- Temme, K., Zhao, D. & Voigt, C. A. Refactoring the nitrogen fixation gene cluster from Klebsiella oxytoca. Proc. Natl Acad. Sci. USA 109, 7085–7090 (2012).PubMed Google Scholar
+
+- Temme, K., Zhao, D. & Voigt, C. A. Refactoring the nitrogen fixation gene cluster from Klebsiella oxytoca. Proc. Natl Acad. Sci. USA 109, 7085–7090 (2012).
+
+- PubMed Google Scholar
+
+- Qi, L., Haurwitz, R. E., Shao, W., Doudna, J. A. & Arkin, A. P. RNA processing enables predictable programming of gene expression. Nature Biotech. 30, 1002–1006 (2012).CAS Google Scholar
+
+- Qi, L., Haurwitz, R. E., Shao, W., Doudna, J. A. & Arkin, A. P. RNA processing enables predictable programming of gene expression. Nature Biotech. 30, 1002–1006 (2012).
+
+- Lou, C., Stanton, B., Chen, Y. J., Munsky, B. & Voigt, C. A. Ribozyme-based insulator parts buffer synthetic circuits from genetic context. Nature Biotech. 30, 1137–1142 (2012).CAS Google Scholar
+
+- Lou, C., Stanton, B., Chen, Y. J., Munsky, B. & Voigt, C. A. Ribozyme-based insulator parts buffer synthetic circuits from genetic context. Nature Biotech. 30, 1137–1142 (2012).
+
+- Cookson, N. A. et al. Queueing up for enzymatic processing: correlated signaling through coupled degradation. Mol. Systems Biol. 7, 561 (2011). Google Scholar
+
+- Cookson, N. A. et al. Queueing up for enzymatic processing: correlated signaling through coupled degradation. Mol. Systems Biol. 7, 561 (2011).
+
+- Feist, A. M. & Palsson, B. O. The biomass objective function. Curr. Opin. Microbiol. 13, 344–349 (2010).CAS PubMed PubMed Central Google Scholar
+
+- Feist, A. M. & Palsson, B. O. The biomass objective function. Curr. Opin. Microbiol. 13, 344–349 (2010).
+
+- CAS PubMed PubMed Central Google Scholar
+
+- Callura, J. M., Cantor, C. R. & Collins, J. J. Genetic switchboard for synthetic biology applications. Proc. Natl Acad. Sci. USA 109, 5850–5855 (2012).CAS PubMed Google Scholar
+
+- Callura, J. M., Cantor, C. R. & Collins, J. J. Genetic switchboard for synthetic biology applications. Proc. Natl Acad. Sci. USA 109, 5850–5855 (2012).
+
+- CAS PubMed Google Scholar
+
+- Holmes, E. et al. Therapeutic modulation of microbiota–host metabolic interactions. Sci. Transl. Med. 4, 137rv6 (2012).PubMed Google Scholar
+
+- Holmes, E. et al. Therapeutic modulation of microbiota–host metabolic interactions. Sci. Transl. Med. 4, 137rv6 (2012).
+
+- PubMed Google Scholar
+
+- Sonnenburg, J. L. & Fischbach, M. A. Community health care: therapeutic opportunities in the human microbiome. Sci. Transl. Med. 3, 78ps12 (2011).PubMed PubMed Central Google Scholar
+
+- Sonnenburg, J. L. & Fischbach, M. A. Community health care: therapeutic opportunities in the human microbiome. Sci. Transl. Med. 3, 78ps12 (2011).
+
+- PubMed PubMed Central Google Scholar
+
+- Esvelt, K. M. & Wang, H. H. Genome-scale engineering for systems and synthetic biology. Mol. Systems Biol. 9, 641 (2013). Google Scholar
+
+- Esvelt, K. M. & Wang, H. H. Genome-scale engineering for systems and synthetic biology. Mol. Systems Biol. 9, 641 (2013).
+
+- Goffeau, A. et al. Life with 6000 genes. Science 274, 563–567 (1996). Google Scholar
+
+- Goffeau, A. et al. Life with 6000 genes. Science 274, 563–567 (1996).
+
+- Blattner, F. R. et al. The complete genome sequence of Escherichia coli K-12. Science 277, 1453–1462 (1997).CAS PubMed Google Scholar
+
+- Blattner, F. R. et al. The complete genome sequence of Escherichia coli K-12. Science 277, 1453–1462 (1997).
+
+- CAS PubMed Google Scholar
+
+- The authors thank T. Lu and J. Dueber for helpful discussions during the preparation of this Perspective article. This work is supported by the Howard Hughes Medical Institute.
+
+- D. Ewen Cameron and Caleb J. Bashor: These authors contributed equally to this work.
+
+- D. Ewen Cameron and Caleb J. Bashor: These authors contributed equally to this work.
+
+- Authors and Affiliations
+
+- the Center of Synthetic Biology and the Department of Biomedical Engineering, Howard Hughes Medical Institute, Boston University, Boston, Massachusetts, USAD. Ewen Cameron, Caleb J. Bashor & James J. Collins
+
+- the Center of Synthetic Biology and the Department of Biomedical Engineering, Howard Hughes Medical Institute, Boston University, Boston, Massachusetts, USA
+
+- D. Ewen Cameron, Caleb J. Bashor & James J. Collins
+
+- Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, Massachusetts, USAD. Ewen Cameron, Caleb J. Bashor & James J. Collins
+
+- Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, Massachusetts, USA
+
+- D. Ewen Cameron, Caleb J. Bashor & James J. Collins
+
+- D. Ewen CameronView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Caleb J. BashorView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- James J. CollinsView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Correspondence to James J. Collins.
+
+- The authors declare no competing financial interests.
+
+- 2010 Presidential Bioethics Commission report on synthetic biology
+
+- The BioBricks Foundation
+
+- Nature Reviews Microbiology Focus on Synthetic Biology
+
+- Registry of Standard Biological Parts
+
+- Synthetic Biology Open Language standard
+
+- PowerPoint slide for Fig. 1
+
+- PowerPoint slide for Fig. 2
+
+- PowerPoint slide for Fig. 3
+
+- PowerPoint slide for Fig. 4
+
+- Organizational schemes that simplify the engineering process by describing building blocks according to modular properties, thus enabling the construction of increasingly complex systems.
+- In synthetic biology, molecular elements that are categorized as 'parts' (which is the lowest level of the hierarchy) can be used to construct devices (which are parts assembled together to yield a desired function), which can, in turn, be further combined into systems.
+
+- A mathematical approach to simulate steady-state metabolism in a living system.
+
+- To move from an abstract description of a desired function to the physical implementation that produces that function. In the context of synthetic biology, it is the construction of genetic systems that produce a desired behaviour.
+
+- A device or system that carries out a Boolean logic operation by computing a set of digital inputs to generate a digital output; for example, a genetic circuit that activates gene expression only in the presence of a specified set of environmental signals would constitute an 'AND' gate.
+
+- For an engineering discipline, the adoption of a widely used set of building blocks that have well-defined properties and modes of connectivity.
+
+- To examine the constituent components of a system in order to understand their integrated function.
+- In systems biology, this may involve making perturbations to a cellular network and then constructing a model that describes the relationship between the behaviour of the molecular components and that of the entire system.
+
+- An interdisciplinary approach that attempts to develop and test holistic models of living systems.
+- A 'top-down' systems approach uses quantitative modelling to identify and describe the underlying biosynthetic and regulatory networks of a system, whereas a complementary 'bottom-up' approach attempts to model the systems-wide phenotypes that emerge from component interactions.
+
+- Rights and permissions
+
+- Reprints and permissions
+
+- Cameron, D., Bashor, C. & Collins, J. A brief history of synthetic biology. Nat Rev Microbiol 12, 381–390 (2014). https://doi.org/10.1038/nrmicro3239
+
+- Published: 01 April 2014
+
+- Published: 01 April 2014
+
+- DOI: https://doi.org/10.1038/nrmicro3239
+
+- DOI: https://doi.org/10.1038/nrmicro3239
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Bacterial synthetic biology
+
+- Metabolic engineering
+
+- Policy and public health in microbiology
+
+- This article is cited by
+
+- From beer to breadboards: yeast as a force for biological innovation Hamid Kian GaikaniMonika StolarGuri Giaever Genome Biology (2024)
+
+- From beer to breadboards: yeast as a force for biological innovation
+
+- Genome Biology (2024)
+
+- An orthogonalized PYR1-based CID module with reprogrammable ligand-binding specificity Sang-Youl ParkJingde QiuSean R. Cutler Nature Chemical Biology (2024)
+
+- An orthogonalized PYR1-based CID module with reprogrammable ligand-binding specificity
+
+- Nature Chemical Biology (2024)
+
+- Undergraduate Students’ Engineering Systems Thinking in Synthetic Biology Design: A Qualitative Descriptive Study Ruben D. Lopez-ParraTamara J. Moore Biomedical Engineering Education (2024)
+
+- Undergraduate Students’ Engineering Systems Thinking in Synthetic Biology Design: A Qualitative Descriptive Study
+
+- Biomedical Engineering Education (2024)
+
+- Intracellular common gardens reveal niche differentiation in transposable element community during bacterial adaptive evolution Hui GuoWen-Tao ShiChang-Fu Tian The ISME Journal (2023)
+
+- Intracellular common gardens reveal niche differentiation in transposable element community during bacterial adaptive evolution
+
+- The ISME Journal (2023)
+
+- DishBrain plays Pong and promises more Joshua GoldwagGe Wang Nature Machine Intelligence (2023)
+
+- DishBrain plays Pong and promises more
+
+- Nature Machine Intelligence (2023)
+
+- Nature Reviews Microbiology (Nat Rev Microbiol)
+
+- ISSN 1740-1534 (online)
+
+- ISSN 1740-1526 (print)
+
+- About Nature Portfolio
+
+- Nature portfolio policies
+
+- Author & Researcher services
+
+- Reprints & permissions
+
+- Libraries & institutions
+
+- Librarian service & tools
+
+- Advertising & partnerships
+
+- Partnerships & Services
+
+- Professional development
+
+- Your privacy choices/Manage cookies
+
+- Accessibility statement
+
+- Your US state privacy rights
