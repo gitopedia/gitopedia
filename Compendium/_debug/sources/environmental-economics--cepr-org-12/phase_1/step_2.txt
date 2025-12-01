@@ -1,0 +1,299 @@
+# Environmental Economics
+
+- VoxEU Columns Trump and Tariffs Blogs&Reviews VoxTalks VideoVox VoxEU Debates About VoxEU
+
+- Research Programme Areas Research Policy Networks (RPNs) Research Projects and Networks Research Policies Data Sets
+
+- Research Policy Networks (RPNs)
+
+- Research Projects and Networks
+
+- Publications Publication Series Books and Reports Discussion Papers Covid Economics Papers Policy Papers Economic Policy Journal Search All Publications Archive
+
+- Covid Economics Papers
+
+- Economic Policy Journal
+
+- Search All Publications
+
+- Events Calls for Papers Forthcoming Events Past Events Event Series
+
+- Audio and video Search all multimedia content VoxTalks VideoVox Vox Webcasts Webinar Videos
+
+- Search all multimedia content
+
+- About CEPR People News Press Governance Support CEPR Partners Jobs at CEPR Summer Reading 2025
+
+- Artificial Intelligence
+
+- EU Economic Architecture
+
+- Poverty and income inequality
+
+- International Finance
+
+- Productivity and Innovation
+
+- The Economic Consequences of the War
+
+- VoxEU Columns Trump and Tariffs Blogs&Reviews VoxTalks VideoVox VoxEU Debates About VoxEU
+
+- Publications Publication Series Books and Reports Discussion Papers About CEPR Discussion Papers Discussion Paper Subscriptions Covid Economics Papers Policy Papers Economic Policy Journal Search All Publications Archive CEPR Bulletin
+
+- Discussion Papers About CEPR Discussion Papers Discussion Paper Subscriptions
+
+- About CEPR Discussion Papers
+
+- Discussion Paper Subscriptions
+
+- Covid Economics Papers
+
+- Economic Policy Journal
+
+- Search All Publications
+
+- Archive CEPR Bulletin
+
+- Audio and video Search all multimedia content VoxTalks VideoVox Vox Webcasts Webinar Videos
+
+- Search all multimedia content
+
+- About CEPR People President and Vice Presidents Distinguished Fellows Programme Directors RPN Leaders CEPR Staff Advisory Board News Press Governance Support CEPR Partners Jobs at CEPR Summer Reading 2025
+
+- People President and Vice Presidents Distinguished Fellows Programme Directors RPN Leaders CEPR Staff Advisory Board
+
+- President and Vice Presidents
+
+- Distinguished Fellows
+
+- Artificial Intelligence
+
+- EU Economic Architecture
+
+- Poverty and income inequality
+
+- International Finance
+
+- Productivity and Innovation
+
+- The Economic Consequences of the War
+
+- Environmental economic history
+
+- A global literature has developed that illuminates the reciprocal and dynamic relationship between humans and their environment in other regions across the world This column, which first appeared as a chapter in a recent Vox eBook, surveys on two topics in the literature: the impact of geographic endowments and the impact of environmental shocks on historical and long-run development.
+
+- Associate Professor in Applied Economics Massachusetts Institute of Technology (MIT)
+
+- University Of Warwick
+
+- Editor's note: This column first appeared as a chapter in the Vox eBook, The Long Economic and Political Shadow of History, Volume 1, available to download here.
+
+- For over a decade, economists have been contributing to this literature, usually using different techniques than those used by environmental historians, and emphasising the different contributions made by their work.
+- A key contribution of this literature has been a focus on isolating specific causal relationships, within a broader and more complex environment that includes knowledge, capital and institutions (Hornbeck 2012a), usually involving the generation and assembly of new Geographic Information Systems (GIS) databases.
+- The list of environmental factors considered in this literature is broad, including, but certainly not limited to, pollution, wind patterns, natural disasters, soil quality, topography and the disease environment.
+- This brief overview of environmental economic history will focus on the effects of the environment on human outcomes, both concurrent and in the long-run, rather than on human transformations of the environment, though the latter is an important part of this literature (e.g.
+- Hansen and Libecap 2004, Hornbeck and Keskin 2014, Taylor 2011).
+- As we discuss in the following paragraphs, the environmental factors have far-reaching implications for development, beyond direct environmental impacts – for instance, agricultural endowments or changes can be mechanisms for the evolution of institutions, norms, and societal development.
+- Other environmental factors, such as the disease burden, have similar implications.
+- We focus on two topics in the literature in particular – the impact of geographic endowments and the impact of environmental shocks on historical and long-run development.
+- This aspect of environmental economic history is thus closely related to the broader economic history literature concerning the impact of historical events on long-term development (see Nunn 2014 for a comprehensive treatment).
+
+- Impacts of geographic endowments
+
+- One major strand of this literature has examined direct economic impacts of those characteristics of the environment that are either time-invariant or very slow to change.
+- This overlaps with studies of the role of geography in economic growth over the very long run (e.g.
+- Andersen et al. 2016 on ultraviolet radiation, and Galor and Özak 2016 on potential crop yields).
+- For instance, economists have written on the effects of the disease environment on development in the past and on how the environment has shaped historical institutions.
+- Bleakley (2007) draws causal inference on the impacts of hookworm disease on education by measuring the convergence of previously high- infection areas with previously low-infection areas of the US in the aftermath of a rapid eradication campaign in the early 20th century.
+- His empirical approach has also been used to evaluate the importance of other diseases in other contexts (e.g.
+- Lucas 2010, Cutler et al. 2010).
+
+- In estimating the impact of geographic endowments on institutions, Fenske (2014) and Depetris-Chauvin (2015) have both linked state centralisation in pre-colonial Africa to the gains from trade stemming from ecological diversity.
+- Fenske (2013), similarly, documents the geographical forcing variables that predict land rights, slavery and population density in a cross section of global societies.
+- These studies have merged GIS maps of the African environment with other spatial data on the continent’s institutional history, and based causal inference on evidence from instrumental variables and narrow within-country comparisons of observations.
+- Bubb (2013), on a microeconomic level, has found exogenous suitability for tree-crop cultivation to be a much stronger predictor of property-rights institutions governing land in the Ivory Coast and Ghana than the colonial institutions of either country.
+- Similar GIS databases on soil characteristics and their variations have been used to examine the historical origins of cultural patterns such as female labour force participation (Alesina et al. 2013), ethnic diversity (Michalopoulos 2012) and the spread of Islam (Michalopoulos et al. 2016).
+
+- Other work on the impact of geographic endowments has instead focused on the indirect legacies of geographic endowments that affect the present, because of how they have shaped history.
+- Alsan (2014), in a prominent example, argues that the tsetse fly reduces African prosperity in the present, principally because it inhibited pre-colonial political centralisation.
+- To do this, Alsan constructed a novel GIS tsetse suitability index and merged it with existing spatial data on African ethnic groups’ locations, precolonial institutions, and modern luminosity.
+- Her causal claims were supported by adjustment for a wide set of covariates, narrow within-country comparisons, and a placebo exercise showing no similar effects of tsetse suitability in parts of the world where the fly itself was absent.
+- Fiszbein (2016) uses exogenous variation in climatic conditions that affect the returns to agricultural diversity to study the impact of agricultural diversity on long- term industrial development in the US.
+
+- Nunn (2014), similarly, has highlighted the role of the environment in shaping particular historical events and processes, which themselves have long-term impacts.
+- Africa’s slave trades are an example: recent work has shown that terrain ruggedness (Nunn and Puga 2012) and geographic isolation from sources of slave supply (Nunn 2008) have influenced the dynamics of the slave trade and, through these factors, African development.
+- These studies have employed GIS resources on the continent’s geography and historic climate and added geocodes to existing databases of the slave trade; they draw causal inference from the results of instrumental variables and placebo analyses.
+- Studies of the long-run impacts of Africa’s slave trades have turned to these same geographic conditions in isolating plausibly exogenous variation in slave exports (e.g.
+- Nunn and Wantchekon 2011, Dalton and Leung 2014).
+
+- Impacts of environmental shocks
+
+- Given the importance of time-varying environmental events, such as weather fluctuations and natural disasters, and due to the possibilities for convincing causal inference stemming from exogenous change, several studies have evaluated the importance of environmental shocks in economic history.
+- Several papers have examined immediate economic effects of events such as droughts, floods, and the spread of new diseases.
+- Much of this literature has focused on the US.
+- Davis et al. (2009), for example, use the weather-driven variations in 19th century cotton crops to infer a causal effect on non-agricultural business cycles; greater cotton exports increased the supply of high-powered money in the economy.
+- Fishback et al. (2011), similarly, have investigated whether climate or weather affected mortality rates during the Great Depression.
+- Other papers have examined the effects of similar shocks in other parts of the world: Fenske and Kala (2015) and Rönnbäck (2014), for example, have both examined the role of temperature fluctuations in the transatlantic slave trade and found that these affected the extent of participation in the slave trade and prices in African markets.
+
+- The relative ease with which events such as conflict and political transitions in the historical context can be recorded, and their importance in impacting the course of history, have made these the focus of a considerable volume of work.
+- Hsiang et al. (2013) provide an extensive bibliography that includes several historical examples.
+- Christian and Fenske (2015) and Papaioannou and de Haas (2015) have linked episodes of adverse weather to unrest and crime, respectively, during the colonial period in Africa.
+- For China, both Jia (2014) and Bai and Kung (2011) have similarly used fluctuations in weather to explain historical episodes of violence.
+- Chaney (2013) has found that years of deviant Nile floods reduced the chances that the highest-ranking religious authority in Muslim Egypt was replaced.
+- These studies have taken data on historic weather from archival sources or historic reconstructions and merged these with both primary and secondary sources that document conflict and political transitions, in order to produce historic datasets covering environmental economic history.
+
+- Other work has traced out the longer-run effects of environmental catastrophes by contrasting the later trajectories of places or individuals affected by these events with reasonable comparison groups who were not similarly treated.
+- By geocoding soil erosion maps, writers such as Cutler et al. (2007) and Arthi (2014) have examined the long run health impacts of America’s dust bowl era on individuals, while Hornbeck (2012b) has traced its implications for land values, population, and agricultural development.
+- The long-run consequences of droughts on the eve of the Mexican revolution (Dell 2012), the spread of the boll weevil (Lange et al. 2009) and the Great Mississippi Flood (Hornbeck and Naidu 2014) have received similar treatment.
+- By demonstrating that these effects often persist up to the present, these works have shown the relevance of environmental history for understanding modern development.
+
+- Environmental history is now a mature field, and the environmental sub-field of economic history is well-developed, but the integration of these literatures is, as yet, less than ideal.
+- It is our hope that findings, data sources and methods from the environmental economic history literature will further enrich the writing of environmental history.
+- Furthermore, several important themes in the environmental history literature have received limited attention from economists, such as the dynamic relationship between successive Chinese states and their environment (Elvin 2008), the welfare implications of colonial forest reservation (Gadgil and Guha 1993), and the political economy of colonial land conservation (Mackenzie 1998).
+- The natural environment has played an important part in the development of societies, often mediated by its impact on their institutions, and we look forward to seeing the integration of new methods and questions in service of this important topic.
+
+- Alesina, A, P Giuliano and N Nunn (2013), “On the Origins of Gender Roles: Women and the Plough”, The Quarterly Journal of Economics, 128(2), 469-530
+
+- Alsan, M (2014), “The effect of the tsetse fly on African development”, The American Economic Review, 105(1), 382-410.
+
+- Andersen, T B, C J Dalgaard, and P Selaya (2016), “Climate and the Emergence of Global Income Differences”, The Review of Economic Studies, 83 (4): 1334-1363
+
+- Arthi, V (2014), “‘The Dust Was Long in Settling’: Human Capital and the Lasting Impact of the American Dust Bowl”, University of Oxford Discussion Papers in Economic and Social History #129
+
+- Bai, Y and J K S Kung (2011), “Climate shocks and Sino-nomadic conflict”, Review of Economics and Statistics, 93(3), 970-981
+
+- Beinart, W (1984), “Soil erosion, conservationism and ideas about development: a southern African exploration, 1900–1960”, Journal of Southern African Studies, 11(1), 52-83.
+
+- Bleakley, H (2007), “Disease and development: evidence from hookworm eradication in the American South”, The Quarterly Journal of Economics, 122(1), 73-117.
+
+- Bubb, R (2013), “The evolution of property rights: State law or informal norms?” Journal of Law and Economics, 56(3), 555-594.
+
+- Chaney, E (2013), “Revolt on the Nile: Economic shocks, religion, and political power”, Econometrica, 81(5), 2033-2053.
+
+- Christian, C and J Fenske (2015), Economic shocks and unrest in French West Africa. Centre for the Study of African Economies Working Paper 2015-01.
+
+- Crosby, A W (1972), The Columbian Exchange: Biological and Social Consequences of 1492, Greenwood Press
+
+- Cutler, D, W Fung, M Kremer, M Singhal, and T Vogl (2010), “Early-life malaria exposure and adult outcomes: Evidence from malaria eradication in India”, American Economic Journal: Applied Economics, 2(2), 72-94.
+
+- Cutler, D M, G Miller and D M Norton (2007), “Evidence on early-life income and late-life health from America’s Dust Bowl era”, Proceedings of the National Academy of Sciences, 104(33), 13244-13249.
+
+- Dalton, J T and T C Leung (2014), “Why is polygyny more prevalent in Western Africa? An African slave trade perspective”, Economic Development and Cultural Change, 62(4), 599-632.
+
+- Davis, J H, C Hanes, and P W Rhode (2009), “Harvests and Business Cycles in Nineteenth-Century America”, The Quarterly Journal of Economics, 1675-1727.
+
+- Depetris-Chauvin, E (2015), “State history and contemporary conflict: Evidence from Sub-Saharan Africa”, Working Paper, Pontificia Universidad Catolica de Chile.
+
+- Dell, M (2012), Path Dependence in Development: Evidence from the Mexican Revolution, Working Paper, Harvard University.
+
+- Elvin, M (2008), The retreat of the elephants: an environmental history of China, Yale University Press.
+
+- Fairhead, J, and M Leach (1996), Misreading the African landscape: society and ecology in a forest-savanna mosaic. Cambridge University Press.
+
+- Fenske, J (2013), “Does land abundance explain African institutions?”, The Economic Journal, 123(573), 1363-1390.
+
+- Fenske, J and N Kala (2015), “Climate and the slave trade”, Journal of Development Economics, 112, 19-32.
+
+- Fenske, J (2014), “Ecology, trade, and states in pre‐colonial Africa”, Journal of the European Economic Association, 12(3), 612-640.
+
+- Fishback, P V , W Troesken, T Kollmann, M Haines, P W Rhode, and M Thomasson (2011), “Information and the impact of climate and weather on mortality rates during the Great Depression”, In The Economics of Climate Change: Adaptations Past and Present (pp. 131-167), University of Chicago Press.
+
+- Fiszbein, M (2015), Agricultural Diversity, Structural Change and Long-run Development: Evidence from US Counties. https://goo.gl/aIEFI8
+
+- Gadgil, M and R Guha (1993), This fissured land: an ecological history of India, University of California Press.
+
+- Galor, O and O Özak (2016), “The Agricultural Origins of Time Preference”, American Economic Review, 106(10):3064–3103.
+
+- Hansen, Z K and G D Libecap (2004), “Small Farms, Externalities, and the Dust Bowl of the 1930s”, Journal of Political Economy, 112(3), 665-694.
+
+- Harms, R (1999), Games against nature: an eco-cultural history of the Nunu of equatorial Africa, Cambridge University Press.
+
+- Hays, S (1959), Conservation and the Gospel of Efficiency: The Progressive Conservation Movement 1890-1920, Harvard University Press
+
+- Hornbeck, R (2012a). “The Republic of Nature: An Environmental History of the United States. By Mark Fiege. Seattle: University of Washington Press, 2012. Pp. xii, 584. $34.95, hardcover.” (review) The Journal of Economic History, 72(04), 1120-1121.
+
+- Hornbeck, R (2012b) “The enduring impact of the American Dust Bowl: Short-and long-run adjustments to environmental catastrophe”, The American Economic Review, 102(4), 1477-1507.
+
+- Hornbeck, R and P Keskin (2014), “The historically evolving impact of the ogallala aquifer: Agricultural adaptation to groundwater and drought”, American Economic Journal: Applied Economics, 6(1), 190-219.
+
+- Hornbeck, R and S Naidu (2014), “When the levee breaks: black migration and economic development in the American South”, The American Economic Review, 104(3), 963-990.
+
+- Hsiang, S M, M Burke, and E Miguel (2013), “Quantifying the influence of climate on human conflict”, Science, 341(6151), 1235367.
+
+- Jia, R (2014), “Weather shocks, sweet potatoes and peasant revolts in historical China”, The Economic Journal, 124(575), 92-118.
+
+- Lange, F, A L Olmstead and P W Rhode (2009), “The Impact of the Boll Weevil, 1892– 1932”, The Journal of Economic History, 69(03), 685-718.
+
+- Lucas, A M (2010), “Malaria eradication and educational attainment: evidence from Paraguay and Sri Lanka”, American Economic Journal: Applied Economics, 2(2), 46-71.
+
+- Mackenzie, A F D (1998), Land, ecology and resistance in Kenya, 1880-1952, Edinburgh University Press.
+
+- Michalopoulos, S (2012), “The origins of ethnolinguistic diversity”, The American Economic Review, 102(4), 1508-1539.
+
+- Michalopoulos, S, A Naghavi, and G Prarolo (2016), “Islam, inequality and pre- industrial comparative development”, Journal of Development Economics, 120, 86-98.
+
+- Nash, R (1967), Wilderness and the American Mind, Yale University Press.
+
+- Nash, R (1972), “American Environmental History: A New Teaching Frontier”, Pacific Historical Review, 41 (3): 362–372.
+
+- Nunn, N (2014), “Historical development”, Handbook of Economic Growth, 2, 347-402.
+
+- Nunn, N and D Puga (2012), “Ruggedness: The blessing of bad geography in Africa”, Review of Economics and Statistics, 94(1), 20-36.
+
+- Nunn, N (2008), “The Long-term Effects of Africa’s Slave Trades”, The Quarterly Journal of Economics, 123(1), 139-176.
+
+- Nunn, N and L Wantchekon (2011), “The slave trade and the origins of mistrust in Africa”, The American Economic Review, 101(7), 3221-3252.
+
+- Papaioannou, K J and M de Haas (2015), Climate Shocks, Cash Crops and Resilience: Evidence from colonial tropical Africa, University of Wageningen Working Paper.
+
+- Rönnbäck, K (2014), “Climate, conflicts, and variations in prices on pre‐colonial West African markets for staple crops”, The Economic History Review, 67(4), 1065-1088.
+
+- Taylor, S M (2011), “Buffalo hunt: International trade and the virtual extinction of the North American bison”, The American Economic Review, 101(7), 3162-3195.
+
+- Turner, F J (1921), The Frontier in American History, Henry Holt and Company.
+
+- Webb, W P (1931), The Great Plains: a study in institutions and environment, Ginn and Co.
+
+- Worster, D (1988), The ends of the earth: perspectives on modern environmental history, Cambridge University Press.
+
+- Associate Professor in Applied Economics Massachusetts Institute of Technology (MIT)
+
+- University Of Warwick
+
+- environmental history
+
+- geographic endowments
+
+- The Rules of Peace and Prosperity: History, Economics and Politics (RPP)
+
+- The Rules of Peace and Prosperity: History, Economics and Politics (RPP) - Session 1
+
+- 17:00 in Online, France and online
+
+- Politics and economics
+
+- Preventing Conflict: Policies for Peace
+
+- The Rules of Peace and Prosperity: History, Economics and Politics (RPP)
+
+- Politics and economics
+
+- Preventing Conflict: Policies for Peace
+
+- The cost of lost biodiversity
+
+- Themes & Current Issues
+
+- Artificial Intelligence
+
+- EU Economic Architecture
+
+- Financial Regulation and Banking
+
+- International Finance
+
+- Poverty and Income Inequality
+
+- Productivity and Innovation
+
+- By clicking the Accept button, you agree to us doing so.
