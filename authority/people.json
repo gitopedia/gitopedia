@@ -1448,5 +1448,80 @@
     "id": "person:john-mcafee",
     "label": "John McAfee",
     "aliases": []
+  },
+  {
+    "id": "person:thomas-newcomen",
+    "label": "Thomas Newcomen",
+    "aliases": []
+  },
+  {
+    "id": "person:james-watt",
+    "label": "James Watt",
+    "aliases": []
+  },
+  {
+    "id": "person:james-hargreaves",
+    "label": "James Hargreaves",
+    "aliases": []
+  },
+  {
+    "id": "person:edmund-cartwright",
+    "label": "Edmund Cartwright",
+    "aliases": []
+  },
+  {
+    "id": "person:eli-whitney",
+    "label": "Eli Whitney",
+    "aliases": []
+  },
+  {
+    "id": "person:henry-bessemer",
+    "label": "Henry Bessemer",
+    "aliases": []
+  },
+  {
+    "id": "person:isaac-newton",
+    "label": "Isaac Newton",
+    "aliases": []
+  },
+  {
+    "id": "person:eric-hobsbawm-(historian)",
+    "label": "Eric Hobsbawm (historian)",
+    "aliases": []
+  },
+  {
+    "id": "person:henry-ford",
+    "label": "Henry Ford",
+    "aliases": []
+  },
+  {
+    "id": "person:sergei-witte-(russian-minister)",
+    "label": "Sergei Witte (Russian minister)",
+    "aliases": []
+  },
+  {
+    "id": "person:louis-xiv-(king-of-france)",
+    "label": "Louis XIV (King of France)",
+    "aliases": []
+  },
+  {
+    "id": "person:george-stephenson",
+    "label": "George Stephenson",
+    "aliases": []
+  },
+  {
+    "id": "person:nikolaus-otto",
+    "label": "Nikolaus Otto",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-edison",
+    "label": "Thomas Edison",
+    "aliases": []
+  },
+  {
+    "id": "person:sergei-witte",
+    "label": "Sergei Witte",
+    "aliases": []
   }
 ]
