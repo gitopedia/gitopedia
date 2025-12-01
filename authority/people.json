@@ -1118,5 +1118,15 @@
     "id": "person:vitalik-buterin-(co-founder-of-ethereum)",
     "label": "Vitalik Buterin (co-founder of Ethereum)",
     "aliases": []
+  },
+  {
+    "id": "person:rameez-amin",
+    "label": "Rameez Amin",
+    "aliases": []
+  },
+  {
+    "id": "person:abdullah-ali-kazmi",
+    "label": "Abdullah Ali Kazmi",
+    "aliases": []
   }
 ]
