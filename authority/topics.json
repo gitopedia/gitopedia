@@ -2353,5 +2353,140 @@
     "id": "topic:international-cooperation",
     "label": "International Cooperation",
     "aliases": []
+  },
+  {
+    "id": "topic:artificial-organs",
+    "label": "Artificial Organs",
+    "aliases": []
+  },
+  {
+    "id": "topic:jarvik-7",
+    "label": "Jarvik-7",
+    "aliases": []
+  },
+  {
+    "id": "topic:cochlear-implants",
+    "label": "cochlear implants",
+    "aliases": []
+  },
+  {
+    "id": "topic:dialysis-machines",
+    "label": "dialysis machines",
+    "aliases": []
+  },
+  {
+    "id": "topic:bioartificial-organs",
+    "label": "bioartificial organs",
+    "aliases": []
+  },
+  {
+    "id": "topic:bionic-eyes",
+    "label": "bionic eyes",
+    "aliases": []
+  },
+  {
+    "id": "topic:retinal-implants",
+    "label": "retinal implants",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-pancreases",
+    "label": "artificial pancreases",
+    "aliases": []
+  },
+  {
+    "id": "topic:prosthetic-limbs",
+    "label": "prosthetic limbs",
+    "aliases": []
+  },
+  {
+    "id": "topic:extracorporeal-membrane-oxygenation-(ecmo)-machines",
+    "label": "extracorporeal membrane oxygenation (ECMO) machines",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-skin",
+    "label": "artificial skin",
+    "aliases": []
+  },
+  {
+    "id": "topic:3d-printing",
+    "label": "3D printing",
+    "aliases": []
+  },
+  {
+    "id": "topic:stem-cell-research",
+    "label": "stem cell research",
+    "aliases": []
+  },
+  {
+    "id": "topic:regenerative-medicine",
+    "label": "regenerative medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:membrane-science",
+    "label": "Membrane science",
+    "aliases": []
+  },
+  {
+    "id": "topic:regenerative-engineering",
+    "label": "Regenerative engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomedical-engineering",
+    "label": "Biomedical engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:telehealth",
+    "label": "Telehealth",
+    "aliases": []
+  },
+  {
+    "id": "topic:bio-implant",
+    "label": "Bio-implant",
+    "aliases": []
+  },
+  {
+    "id": "topic:stem-cell-therapy",
+    "label": "Stem cell therapy",
+    "aliases": []
+  },
+  {
+    "id": "topic:organoid-model",
+    "label": "Organoid model",
+    "aliases": []
+  },
+  {
+    "id": "topic:tissue-engineering",
+    "label": "Tissue engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:3d-flexible-sensors",
+    "label": "3D flexible sensors",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-technology",
+    "label": "Medical Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:organoid-technology",
+    "label": "Organoid technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:3d-bioprinting",
+    "label": "3D bioprinting",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-considerations",
+    "label": "Ethical considerations",
+    "aliases": []
   }
 ]
