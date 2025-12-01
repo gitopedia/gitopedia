@@ -618,5 +618,80 @@
     "id": "person:barack-obama",
     "label": "Barack Obama",
     "aliases": []
+  },
+  {
+    "id": "person:aristotle",
+    "label": "Aristotle",
+    "aliases": []
+  },
+  {
+    "id": "person:andronicus-of-rhodes",
+    "label": "Andronicus of Rhodes",
+    "aliases": []
+  },
+  {
+    "id": "person:heraclitus",
+    "label": "Heraclitus",
+    "aliases": []
+  },
+  {
+    "id": "person:parmenides",
+    "label": "Parmenides",
+    "aliases": []
+  },
+  {
+    "id": "person:plato",
+    "label": "Plato",
+    "aliases": []
+  },
+  {
+    "id": "person:augustine",
+    "label": "Augustine",
+    "aliases": []
+  },
+  {
+    "id": "person:francis-bacon",
+    "label": "Francis Bacon",
+    "aliases": []
+  },
+  {
+    "id": "person:christian-wolff",
+    "label": "Christian Wolff",
+    "aliases": []
+  },
+  {
+    "id": "person:immanuel-kant",
+    "label": "Immanuel Kant",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-the-great",
+    "label": "Alexander the Great",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-aquinas",
+    "label": "Thomas Aquinas",
+    "aliases": []
+  },
+  {
+    "id": "person:avicenna",
+    "label": "Avicenna",
+    "aliases": []
+  },
+  {
+    "id": "person:w.v.o.-quine",
+    "label": "W.V.O. Quine",
+    "aliases": []
+  },
+  {
+    "id": "person:bertrand-russell",
+    "label": "Bertrand Russell",
+    "aliases": []
+  },
+  {
+    "id": "person:gottlob-frege",
+    "label": "Gottlob Frege",
+    "aliases": []
   }
 ]

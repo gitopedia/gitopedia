@@ -98,5 +98,10 @@
     "id": "org:galaxy.ai",
     "label": "Galaxy.ai",
     "aliases": []
+  },
+  {
+    "id": "org:penguin-books",
+    "label": "Penguin Books",
+    "aliases": []
   }
 ]
