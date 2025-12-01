@@ -1263,5 +1263,115 @@
     "id": "topic:philosophy",
     "label": "Philosophy",
     "aliases": []
+  },
+  {
+    "id": "topic:wimps-(weakly-interacting-massive-particles)",
+    "label": "WIMPs (Weakly Interacting Massive Particles)",
+    "aliases": []
+  },
+  {
+    "id": "topic:axions",
+    "label": "Axions",
+    "aliases": []
+  },
+  {
+    "id": "topic:primordial-black-holes",
+    "label": "Primordial Black Holes",
+    "aliases": []
+  },
+  {
+    "id": "topic:cold-dark-matter",
+    "label": "Cold Dark Matter",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-rotation-curves",
+    "label": "Galaxy Rotation Curves",
+    "aliases": []
+  },
+  {
+    "id": "topic:machos-(massive-astrophysical-compact-halo-objects)",
+    "label": "MACHOs (Massive Astrophysical Compact Halo Objects)",
+    "aliases": []
+  },
+  {
+    "id": "topic:sterile-neutrinos",
+    "label": "Sterile Neutrinos",
+    "aliases": []
+  },
+  {
+    "id": "topic:modified-newtonian-dynamics-(mond)",
+    "label": "Modified Newtonian Dynamics (MOND)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmological-parameters",
+    "label": "Cosmological parameters",
+    "aliases": []
+  },
+  {
+    "id": "topic:quintessence",
+    "label": "Quintessence",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmological-constant-problem",
+    "label": "Cosmological constant problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:baryon-density",
+    "label": "Baryon density",
+    "aliases": []
+  },
+  {
+    "id": "topic:structure-growth",
+    "label": "Structure growth",
+    "aliases": []
+  },
+  {
+    "id": "topic:supernova",
+    "label": "Supernova",
+    "aliases": []
+  },
+  {
+    "id": "topic:science-fiction-thriller",
+    "label": "science fiction thriller",
+    "aliases": []
+  },
+  {
+    "id": "topic:multiverse",
+    "label": "Multiverse",
+    "aliases": []
+  },
+  {
+    "id": "topic:science-fiction",
+    "label": "Science Fiction",
+    "aliases": []
+  },
+  {
+    "id": "topic:everything-everywhere-all-at-once",
+    "label": "Everything Everywhere All at Once",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-multiverse:-a-guide",
+    "label": "The Multiverse: A Guide",
+    "aliases": []
+  },
+  {
+    "id": "topic:many-worlds-interpretation-(mwi)",
+    "label": "Many-Worlds Interpretation (MWI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:bubble-universes",
+    "label": "Bubble Universes",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-suicide/immortality",
+    "label": "Quantum Suicide/Immortality",
+    "aliases": []
   }
 ]
