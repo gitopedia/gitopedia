@@ -518,5 +518,15 @@
     "id": "org:world-trade-organization",
     "label": "World Trade Organization",
     "aliases": []
+  },
+  {
+    "id": "org:princeton-university-press",
+    "label": "Princeton University Press",
+    "aliases": []
+  },
+  {
+    "id": "org:u.s.-federal-communications-commission-(fcc)",
+    "label": "U.S. Federal Communications Commission (FCC)",
+    "aliases": []
   }
 ]
