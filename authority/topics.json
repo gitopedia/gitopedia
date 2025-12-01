@@ -2928,5 +2928,775 @@
     "id": "topic:cia-triad",
     "label": "CIA Triad",
     "aliases": []
+  },
+  {
+    "id": "topic:crises",
+    "label": "Crises",
+    "aliases": []
+  },
+  {
+    "id": "topic:categories",
+    "label": "Categories",
+    "aliases": []
+  },
+  {
+    "id": "topic:history",
+    "label": "History",
+    "aliases": []
+  },
+  {
+    "id": "topic:religion",
+    "label": "Religion",
+    "aliases": []
+  },
+  {
+    "id": "topic:culture",
+    "label": "Culture",
+    "aliases": []
+  },
+  {
+    "id": "topic:demographics",
+    "label": "Demographics",
+    "aliases": []
+  },
+  {
+    "id": "topic:law",
+    "label": "Law",
+    "aliases": []
+  },
+  {
+    "id": "topic:languages",
+    "label": "Languages",
+    "aliases": []
+  },
+  {
+    "id": "topic:arts",
+    "label": "Arts",
+    "aliases": []
+  },
+  {
+    "id": "topic:science",
+    "label": "Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology",
+    "label": "Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:list-of-economic-crises",
+    "label": "List of economic crises",
+    "aliases": []
+  },
+  {
+    "id": "topic:list-of-banking-crises",
+    "label": "List of banking crises",
+    "aliases": []
+  },
+  {
+    "id": "topic:list-of-sovereign-debt-crises",
+    "label": "List of sovereign debt crises",
+    "aliases": []
+  },
+  {
+    "id": "topic:list-of-stock-market-crashes-and-bear-markets",
+    "label": "List of stock market crashes and bear markets",
+    "aliases": []
+  },
+  {
+    "id": "topic:cradle-of-civilization",
+    "label": "Cradle of civilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:greco-roman-world",
+    "label": "Greco-Roman world",
+    "aliases": []
+  },
+  {
+    "id": "topic:hellenistic-kingdoms",
+    "label": "Hellenistic Kingdoms",
+    "aliases": []
+  },
+  {
+    "id": "topic:romano-germanic-culture",
+    "label": "Romano-Germanic culture",
+    "aliases": []
+  },
+  {
+    "id": "topic:gallo-roman",
+    "label": "Gallo-Roman",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-antiquity",
+    "label": "Classical antiquity",
+    "aliases": []
+  },
+  {
+    "id": "topic:late-antiquity",
+    "label": "Late antiquity",
+    "aliases": []
+  },
+  {
+    "id": "topic:middle-ages",
+    "label": "Middle Ages",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-middle-ages",
+    "label": "early Middle Ages",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-middle-ages",
+    "label": "high Middle Ages",
+    "aliases": []
+  },
+  {
+    "id": "topic:late-middle-ages",
+    "label": "late Middle Ages",
+    "aliases": []
+  },
+  {
+    "id": "topic:modern-period",
+    "label": "Modern period",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-modern-period",
+    "label": "Early modern period",
+    "aliases": []
+  },
+  {
+    "id": "topic:age-of-discovery",
+    "label": "Age of Discovery",
+    "aliases": []
+  },
+  {
+    "id": "topic:reformation",
+    "label": "Reformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:age-of-enlightenment",
+    "label": "Age of Enlightenment",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-revolution",
+    "label": "Scientific Revolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:age-of-revolution",
+    "label": "Age of Revolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:abolitionism",
+    "label": "Abolitionism",
+    "aliases": []
+  },
+  {
+    "id": "topic:emancipation",
+    "label": "Emancipation",
+    "aliases": []
+  },
+  {
+    "id": "topic:great-divergence",
+    "label": "Great Divergence",
+    "aliases": []
+  },
+  {
+    "id": "topic:modernism",
+    "label": "Modernism",
+    "aliases": []
+  },
+  {
+    "id": "topic:interwar-period",
+    "label": "Interwar period",
+    "aliases": []
+  },
+  {
+    "id": "topic:universal-suffrage",
+    "label": "Universal suffrage",
+    "aliases": []
+  },
+  {
+    "id": "topic:cold-war",
+    "label": "Cold War",
+    "aliases": []
+  },
+  {
+    "id": "topic:post–cold-war-era",
+    "label": "Post–Cold War era",
+    "aliases": []
+  },
+  {
+    "id": "topic:information-age",
+    "label": "Information age",
+    "aliases": []
+  },
+  {
+    "id": "topic:war-on-drugs",
+    "label": "War on drugs",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-9/11",
+    "label": "Post-9/11",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-tradition",
+    "label": "Classical tradition",
+    "aliases": []
+  },
+  {
+    "id": "topic:studies",
+    "label": "Studies",
+    "aliases": []
+  },
+  {
+    "id": "topic:esotericism",
+    "label": "Esotericism",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrology",
+    "label": "Astrology",
+    "aliases": []
+  },
+  {
+    "id": "topic:eurolinguistics",
+    "label": "Eurolinguistics",
+    "aliases": []
+  },
+  {
+    "id": "topic:standard-average-european",
+    "label": "Standard Average European",
+    "aliases": []
+  },
+  {
+    "id": "topic:music",
+    "label": "Music",
+    "aliases": []
+  },
+  {
+    "id": "topic:chant",
+    "label": "Chant",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical",
+    "label": "Classical",
+    "aliases": []
+  },
+  {
+    "id": "topic:folk",
+    "label": "Folk",
+    "aliases": []
+  },
+  {
+    "id": "topic:instruments",
+    "label": "Instruments",
+    "aliases": []
+  },
+  {
+    "id": "topic:painting",
+    "label": "Painting",
+    "aliases": []
+  },
+  {
+    "id": "topic:contemporary",
+    "label": "contemporary",
+    "aliases": []
+  },
+  {
+    "id": "topic:values",
+    "label": "Values",
+    "aliases": []
+  },
+  {
+    "id": "topic:physical-culture",
+    "label": "Physical culture",
+    "aliases": []
+  },
+  {
+    "id": "topic:sport",
+    "label": "Sport",
+    "aliases": []
+  },
+  {
+    "id": "topic:east–west-schism",
+    "label": "East–West Schism",
+    "aliases": []
+  },
+  {
+    "id": "topic:western-christianity",
+    "label": "Western Christianity",
+    "aliases": []
+  },
+  {
+    "id": "topic:decline",
+    "label": "Decline",
+    "aliases": []
+  },
+  {
+    "id": "topic:secularism",
+    "label": "Secularism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ancient-greek-philosophy",
+    "label": "Ancient Greek philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:hellenistic-philosophy",
+    "label": "Hellenistic philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:ancient-roman-philosophy",
+    "label": "Ancient Roman philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:judeo-christian-ethics",
+    "label": "Judeo-Christian ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:existentialism",
+    "label": "Existentialism",
+    "aliases": []
+  },
+  {
+    "id": "topic:christian-existentialism",
+    "label": "Christian existentialism",
+    "aliases": []
+  },
+  {
+    "id": "topic:humanism",
+    "label": "Humanism",
+    "aliases": []
+  },
+  {
+    "id": "topic:christian-humanism",
+    "label": "Christian humanism",
+    "aliases": []
+  },
+  {
+    "id": "topic:secular-humanism",
+    "label": "Secular humanism",
+    "aliases": []
+  },
+  {
+    "id": "topic:continental-philosophy",
+    "label": "Continental philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:western/eastern",
+    "label": "Western/Eastern",
+    "aliases": []
+  },
+  {
+    "id": "topic:equality-before-the-law",
+    "label": "Equality before the law",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-rights",
+    "label": "Human rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:life",
+    "label": "Life",
+    "aliases": []
+  },
+  {
+    "id": "topic:thought",
+    "label": "Thought",
+    "aliases": []
+  },
+  {
+    "id": "topic:speech",
+    "label": "Speech",
+    "aliases": []
+  },
+  {
+    "id": "topic:press",
+    "label": "Press",
+    "aliases": []
+  },
+  {
+    "id": "topic:property",
+    "label": "Property",
+    "aliases": []
+  },
+  {
+    "id": "topic:liberal-international-order",
+    "label": "Liberal international order",
+    "aliases": []
+  },
+  {
+    "id": "topic:population",
+    "label": "Population",
+    "aliases": []
+  },
+  {
+    "id": "topic:migration",
+    "label": "Migration",
+    "aliases": []
+  },
+  {
+    "id": "topic:urbanization",
+    "label": "Urbanization",
+    "aliases": []
+  },
+  {
+    "id": "topic:ageing",
+    "label": "Ageing",
+    "aliases": []
+  },
+  {
+    "id": "topic:gender",
+    "label": "Gender",
+    "aliases": []
+  },
+  {
+    "id": "topic:race",
+    "label": "Race",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-inequality",
+    "label": "Social inequality",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-relations",
+    "label": "International relations",
+    "aliases": []
+  },
+  {
+    "id": "topic:security",
+    "label": "Security",
+    "aliases": []
+  },
+  {
+    "id": "topic:peace",
+    "label": "Peace",
+    "aliases": []
+  },
+  {
+    "id": "topic:conflict",
+    "label": "Conflict",
+    "aliases": []
+  },
+  {
+    "id": "topic:development",
+    "label": "Development",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-policy",
+    "label": "Environmental policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy",
+    "label": "Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:innovation",
+    "label": "Innovation",
+    "aliases": []
+  },
+  {
+    "id": "topic:finance",
+    "label": "Finance",
+    "aliases": []
+  },
+  {
+    "id": "topic:investment",
+    "label": "Investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:labour",
+    "label": "Labour",
+    "aliases": []
+  },
+  {
+    "id": "topic:health",
+    "label": "Health",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-welfare",
+    "label": "Social welfare",
+    "aliases": []
+  },
+  {
+    "id": "topic:transport",
+    "label": "Transport",
+    "aliases": []
+  },
+  {
+    "id": "topic:communication",
+    "label": "Communication",
+    "aliases": []
+  },
+  {
+    "id": "topic:media",
+    "label": "Media",
+    "aliases": []
+  },
+  {
+    "id": "topic:sports",
+    "label": "Sports",
+    "aliases": []
+  },
+  {
+    "id": "topic:tourism",
+    "label": "Tourism",
+    "aliases": []
+  },
+  {
+    "id": "topic:politics",
+    "label": "Politics",
+    "aliases": []
+  },
+  {
+    "id": "topic:environment",
+    "label": "Environment",
+    "aliases": []
+  },
+  {
+    "id": "topic:society",
+    "label": "Society",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-industrial-revolution",
+    "label": "The Industrial Revolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:agricultural-revolution",
+    "label": "Agricultural Revolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:factory-system",
+    "label": "factory system",
+    "aliases": []
+  },
+  {
+    "id": "topic:consumerism",
+    "label": "consumerism",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-impact",
+    "label": "environmental impact",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-capitalism",
+    "label": "global capitalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:technological-innovation",
+    "label": "technological innovation",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-trade",
+    "label": "global trade",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-society",
+    "label": "industrial society",
+    "aliases": []
+  },
+  {
+    "id": "topic:modern-capitalism",
+    "label": "modern capitalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-transformation",
+    "label": "social transformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitical-consequences",
+    "label": "geopolitical consequences",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-consequences",
+    "label": "economic consequences",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-revolution-(first)",
+    "label": "Industrial Revolution (First)",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-revolution-(second)",
+    "label": "Industrial Revolution (Second)",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-revolution-(third)",
+    "label": "Industrial Revolution (Third)",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-revolution-(fourth)",
+    "label": "Industrial Revolution (Fourth)",
+    "aliases": []
+  },
+  {
+    "id": "topic:steam-engine",
+    "label": "Steam engine",
+    "aliases": []
+  },
+  {
+    "id": "topic:railways",
+    "label": "Railways",
+    "aliases": []
+  },
+  {
+    "id": "topic:telegraph",
+    "label": "Telegraph",
+    "aliases": []
+  },
+  {
+    "id": "topic:steel",
+    "label": "Steel",
+    "aliases": []
+  },
+  {
+    "id": "topic:electricity",
+    "label": "Electricity",
+    "aliases": []
+  },
+  {
+    "id": "topic:petroleum",
+    "label": "Petroleum",
+    "aliases": []
+  },
+  {
+    "id": "topic:automobiles",
+    "label": "Automobiles",
+    "aliases": []
+  },
+  {
+    "id": "topic:wireless-telegraph",
+    "label": "Wireless telegraph",
+    "aliases": []
+  },
+  {
+    "id": "topic:radio",
+    "label": "Radio",
+    "aliases": []
+  },
+  {
+    "id": "topic:television",
+    "label": "Television",
+    "aliases": []
+  },
+  {
+    "id": "topic:labor-unions",
+    "label": "Labor unions",
+    "aliases": []
+  },
+  {
+    "id": "topic:chartism",
+    "label": "Chartism",
+    "aliases": []
+  },
+  {
+    "id": "topic:luddism",
+    "label": "Luddism",
+    "aliases": []
+  },
+  {
+    "id": "topic:enclosure-acts",
+    "label": "Enclosure Acts",
+    "aliases": []
+  },
+  {
+    "id": "topic:corn-laws",
+    "label": "Corn Laws",
+    "aliases": []
+  },
+  {
+    "id": "topic:speenhamland-system",
+    "label": "Speenhamland system",
+    "aliases": []
+  },
+  {
+    "id": "topic:frame-breaking-act-of-1812",
+    "label": "Frame Breaking Act of 1812",
+    "aliases": []
+  },
+  {
+    "id": "topic:mass-production",
+    "label": "Mass production",
+    "aliases": []
+  },
+  {
+    "id": "topic:trusts",
+    "label": "Trusts",
+    "aliases": []
+  },
+  {
+    "id": "topic:cartels",
+    "label": "Cartels",
+    "aliases": []
+  },
+  {
+    "id": "topic:ford-model-t",
+    "label": "Ford Model T",
+    "aliases": []
+  },
+  {
+    "id": "topic:metallurgy",
+    "label": "Metallurgy",
+    "aliases": []
+  },
+  {
+    "id": "topic:agriculture-(sugar-beet,-chemicals)",
+    "label": "Agriculture (sugar beet, chemicals)",
+    "aliases": []
+  },
+  {
+    "id": "topic:jacksonian-democracy",
+    "label": "Jacksonian Democracy",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-change",
+    "label": "social change",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-degradation",
+    "label": "environmental degradation",
+    "aliases": []
   }
 ]
