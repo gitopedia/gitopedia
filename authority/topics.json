@@ -4078,5 +4078,20 @@
     "id": "topic:ai-driven-grid-management",
     "label": "AI-Driven Grid Management",
     "aliases": []
+  },
+  {
+    "id": "topic:stem-cell-therapies",
+    "label": "Stem Cell Therapies",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomaterials",
+    "label": "Biomaterials",
+    "aliases": []
+  },
+  {
+    "id": "topic:clinical-applications",
+    "label": "Clinical Applications",
+    "aliases": []
   }
 ]
