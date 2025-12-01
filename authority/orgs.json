@@ -93,5 +93,10 @@
     "id": "org:brics-nations",
     "label": "BRICS nations",
     "aliases": []
+  },
+  {
+    "id": "org:galaxy.ai",
+    "label": "Galaxy.ai",
+    "aliases": []
   }
 ]

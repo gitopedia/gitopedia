@@ -168,5 +168,30 @@
     "id": "place:taiwan",
     "label": "Taiwan",
     "aliases": []
+  },
+  {
+    "id": "place:constantinople-(modern-day-istanbul)",
+    "label": "Constantinople (modern-day Istanbul)",
+    "aliases": []
+  },
+  {
+    "id": "place:hagia-sophia",
+    "label": "Hagia Sophia",
+    "aliases": []
+  },
+  {
+    "id": "place:hagia-sophia-(constantinople)",
+    "label": "Hagia Sophia (Constantinople)",
+    "aliases": []
+  },
+  {
+    "id": "place:greece",
+    "label": "Greece",
+    "aliases": []
+  },
+  {
+    "id": "place:turkey",
+    "label": "Turkey",
+    "aliases": []
   }
 ]
