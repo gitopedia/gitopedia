@@ -1393,5 +1393,15 @@
     "id": "person:george-w.-bush",
     "label": "George W. Bush",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
