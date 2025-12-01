@@ -183,5 +183,15 @@
     "id": "org:arbitrum",
     "label": "Arbitrum",
     "aliases": []
+  },
+  {
+    "id": "org:chicago-boys",
+    "label": "Chicago Boys",
+    "aliases": []
+  },
+  {
+    "id": "org:european-union",
+    "label": "European Union",
+    "aliases": []
   }
 ]
