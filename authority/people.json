@@ -1433,5 +1433,15 @@
     "id": "person:queen-elizabeth-ii",
     "label": "Queen Elizabeth II",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
