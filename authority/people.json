@@ -1843,5 +1843,20 @@
     "id": "person:fragkiskos-sardis",
     "label": "Fragkiskos Sardis",
     "aliases": []
+  },
+  {
+    "id": "person:henry-cavendish",
+    "label": "Henry Cavendish",
+    "aliases": []
+  },
+  {
+    "id": "person:antoine-lavoisier",
+    "label": "Antoine Lavoisier",
+    "aliases": []
+  },
+  {
+    "id": "person:john-smith-(economist,-nobel-laureate)",
+    "label": "John Smith (economist, Nobel laureate)",
+    "aliases": []
   }
 ]
