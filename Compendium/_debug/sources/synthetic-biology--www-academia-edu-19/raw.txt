@@ -1,0 +1,439 @@
+Sign up to get access to over 50 million papers
+
+By clicking Continue, you agree to our Terms of Use and Privacy Policy
+
+Sign up or log in to continue.
+
+By clicking Sign Up, you agree to our Terms of Use and Privacy Policy
+
+Check your email for your reset link.
+
+Your link was sent to
+
+Facebook login is no longer available
+
+Reset your password to access your account:
+
+Please hold while we log you in
+
+Academia.edu no longer supports Internet Explorer.
+
+To browse Academia.edu and the wider internet faster and more securely, please take a few seconds to upgrade your browser.
+
+AboutPressPapersTermsPrivacyCopyrightWe're Hiring!Help Centerless
+
+A brief history of synthetic biology
+
+2014, Nature Reviews Microbiology
+
+Vancouvercontent_copy
+
+The ability to rationally engineer microorganisms has been a long-envisioned goal dating back more than a half-century. With the genomics revolution and rise of systems biology in the 1990s came the development of a rigorous engineering discipline to create, control and programme cellular behaviour. The resulting field, known as synthetic biology, has undergone dramatic growth throughout the past decade and is poised to transform biotechnology and medicine. This Timeline article charts the technological and cultural lifetime of synthetic biology, with an emphasis on key breakthroughs and future challenges.
+
+Synthetic biology emerged as an engineering discipline around 2000, integrating molecular biology with engineering principles.
+
+The primary focus of synthetic biology is to engineer microbial systems for applications in biotechnology and medicine.
+
+Key advances include the development of genetic circuits, such as the toggle switch and repressilator, by 2000.
+
+The production of artemisinin in yeast marked a significant milestone for metabolic engineering in 2013.
+
+Ongoing challenges include parts interoperability and the need for scalable, predictable design methods.
+
+Asian Journal of Medical Sciences, 2022
+
+Synthetic biology is an emerging discipline of science, at the intersection of biology, engineering, and chemistry that involves redesigning organisms to have new phenotypes and customized abilities. While synthetic biology seems to have originated from genetic engineering, over the years, it has matured as well as diverged from it. It involves not just the transfer of genes from one or cell to another creating some variants, it also involves the assembly of an altogether novel organism or cell created part by part by the assembly of individual components of the desired function in a logical fashion. In this minireview, we will explore this new discipline and its possible applications and future promises to serve the humanity
+
+Frontiers in Bioengineering and Biotechnology, 2013
+
+Fu Grand challenges in synthetic biology This article was submitted to Frontiers in Synthetic Biology, a specialty of Frontiers in Bioengineering and Biotechnology.
+
+Synthetic biology is a recently emerging field that applies engineering formalisms to design and construct new biological parts, devices, and systems for novel functions or life forms that do not exist in nature. Synthetic biology relies on and shares tools from genetic engineering, bioengineering, systems biology and many other engineering disciplines. It is also different from these subjects, in both insights and approach. Applications of synthetic biology have great potential for novel contributions to established fields and for offering opportunities to answer fundamentally new biological questions. This article does not aim at a thorough survey of the literature and detailing progress in all different directions. Instead, it is intended to communicate a way of thinking for synthetic biology in which basic functional elements are defined and assembled into living systems or biomaterials with new properties and behaviors. Four major application areas with a common theme are discussed and a procedure (or “protocol”) for a standard synthetic biology work is suggested.
+
+WIREs Systems Biology and Medicine, 2010
+
+The ability to manipulate living organisms is at the heart of a range of emerging technologies that serve to address important and current problems in environment, energy, and health. However, with all its complexity and interconnectivity, biology has for many years been recalcitrant to engineering manipulations. The recent advances in synthesis, analysis, and modeling methods have finally provided the tools necessary to manipulate living systems in meaningful ways and have led to the coining of a field named synthetic biology. The scope of synthetic biology is as complicated as life itself-encompassing many branches of science and across many scales of application. New DNA synthesis and assembly techniques have made routine customization of very large DNA molecules. This in turn has allowed the incorporation of multiple genes and pathways. By coupling these with techniques that allow for the modeling and design of protein functions, scientists have now gained the tools to create completely novel biological machineries. Even the ultimate biological machinery-a self-replicating organism-is being pursued at this moment. The aim of this article is to dissect and organize these various components of synthetic biology into a coherent picture.
+
+NATURE REVIEWS GENETICS, 2010
+
+The circuit-like connectivity of biological parts and their ability to collectively process logical operations was first appreciated nearly 50 years ago 1 . This inspired attempts to describe biological regulation schemes with mathematical models 2-5 and to apply electrical circuit analogies to biological pathways 6,7 . Meanwhile, breakthroughs in genomic research and genetic engineering (for example, recombinant DNA technology) were supplying the inventory and methods necessary to physically construct and assemble biomolecular parts. As a result, synthetic biology was born with the broad goal of engineering or 'wiring' biological circuitry -be it genetic, protein, viral, pathway or genomic -for manifesting logical forms of cellular control. Synthetic biology, equipped with the engineering-driven approaches of modularization, rationalization and modelling, has progressed rapidly and generated an ever-increasing suite of genetic devices and biological modules.
+
+Building condition assessment has become more and more important in the last years because it is essential at any time of buildings life. An assessment is absolutely necessary, for instance, in building takeovers to know what one is going to buy or it can be used to measure global service contracts success; similarly, to be aware of the building actual condition is important when planning maintenance. Condition assessment process results, in this research, are given by an efficiency index, made of an index assessing anomalies and two assessing degradation, pertaining to the whole building. Although the building assessment is obtained through a global index, which is computed from indexes assessing each building component degradation and anomalies so a deep knowledge of building condition is assured. In order to compute the degradation index, building components service life is compared to a Reference Service Life database. The two possible cases, either the service life of the compo...
+
+Peer-reviewing holds significant importance in the process of scientific publishing. The process of peer-reviewing has been criticized for its defects, but research communities have faith in it, and hence, it is perceived as the backbone of scientific publishing. The process needs improvements in a number of ways, i.e, establishing trust in the process, preventing abuse, bringing transparency in the process and keeping the integrity of data intact. Moreover, the activity of peer-reviewing is carried out without any formal incentives. We present considerations in refreshing peer-review and our approach to experiment in this space.
+
+Journal of the Indonesian Tropical Animal Agriculture, 2019
+
+Penelitian ini dilakukan untuk menganalisis efek campuran multivitamin kompleks dan probiotik dalam air minum sebelum dan sesudah vaksinasi terhadap kinerja pertumbuhan, sifat karkas, parameter biokimia darah dan respon imun humoral pada ayam broiler. Seratus lima puluh anak ayam broiler jantan berumur satu hari (Ross 308) ditempatkan secara acak ke lima kelompok perlakuan, dengan tiga ulangan (10 ekor per ulangan) dalam rancangan acak lengkap. Perlakuan terdiri dari: 1) pakan dasar dan air minum tanpa aditif sebagai kontrol (C); 2) C + air minum + multivitamin kompleks dari 2 hari sebelum vaksinasi hingga 3 hari setelah vaksinasi; 3) C + air minum + multivitamin kompleks selama 3 hari setelah vaksinasi; 4) C + air minum + campuran probiotik dari 2 hari sebelum vaksinasi hingga 3 hari setelah vaksinasi; dan 5) C + air minum + campuran probiotik selama 3 hari setelah vaksinasi. Pada seluruh periode penelitian, asupan pakan, bobot badan dan paha serta lemak perut secara nyata dipengaruhi (P<0,05) oleh perlakuan. Sebaliknya, tidak ada pengaruh nyata yang diamati pada karakteristik karkas, rasio konversi pakan, parameter darah, produksi antibodi terhadap sheep red blood cells (SRBC) dan immunoglobulin G (IgG). Titer IgM lebih tinggi pada perlakuan (2) dibandingkan dengan perlakuan lain pada umur 28 hari (P<0,05). Sebagai kesimpulan, sebuah kompleks multivitamin dimasukkan dalam air minum selama 2 hari sebelum vaksinasi hingga 3 hari setelah vaksinasi memungkinkan untuk meningkatkan kinerja dan kekebalan ayam broiler.
+
+Alberts, B. A grand challenge in biology. Science 333, 1200 (2011).
+
+Auslander, S. & Fussenegger, M. From gene switches to mammalian designer cells: present and future prospects. Trends Biotechnol. 31, 155-168 (2013).
+
+Karlsson, M. & Weber, W. Therapeutic synthetic gene networks. Curr. Opin. Biotechnol. 23, 703-711 (2012).
+
+Monod, J. & Jacob, F. Teleonomic mechanisms in cellular metabolism, growth, and differentiation. Cold Spring Harb. Symp. Quant. Biol. 26, 389-401 (1961).
+
+Jacob, F.ß. & Monod, J. On the regulation of gene activity. Cold Spring Harb. Symp. Quant. Biol. 26, 193-211 (1961).
+
+Ptashne, M., Johnson, A. D. & Pabo, C. O. A genetic switch in a bacterial virus. Sci. Am. 247, 128-130 (1982).
+
+Ideker, T. et al. Integrated genomic and proteomic analyses of a systematically perturbed metabolic network. Science 292, 929-934 (2001).
+
+Westerhoff, H. V. & Palsson, B. O. The evolution of molecular biology into systems biology. Nature Biotech. 22, 1249-1252 (2004).
+
+Jeong, H., Tombor, B., Albert, R., Oltvai, Z. N. & Barabasi, A. L. The large-scale organization of metabolic networks. Nature 407, 651-654 (2000).
+
+Hartwell, L. H., Hopfield, J. J., Leibler, S. & Murray, A. W. From molecular to modular cell biology. Nature 402, C47-C52 (1999).
+
+Bray, D. Protein molecules as computational elements in living cells. Nature 376, 307-312 (1995).
+
+Benner, S. A. Synthetic biology: act natural. Nature 421, 118 (2003).
+
+McAdams, H. H. & Shapiro, L. Circuit simulation of genetic networks. Science 269, 650-656 (1995).
+
+McAdams, H. H. & Arkin, A. Towards a circuit engineering discipline. Curr. Biol. 10, R318-R320 (2000).
+
+Gardner, T. S., Cantor, C. R. & Collins, J. J. Construction of a genetic toggle switch in Escherichia coli. Nature 403, 339-342 (2000).
+
+Elowitz, M. B. & Leibler, S. A synthetic oscillatory network of transcriptional regulators. Nature 403, 335-338 (2000).
+
+Hasty, J., McMillen, D., Isaacs, F. & Collins, J. J. Computational studies of gene regulatory networks: in numero molecular biology. Nature Rev. Genet. 2, 268-279 (2001).
+
+Kaern, M., Blake, W. J. & Collins, J. J. The engineering of gene regulatory networks. Annu. Rev. Biomed. Engineer. 5, 179-206 (2003).
+
+Slusarczyk, A. L., Lin, A. & Weiss, R. Foundations for the design and implementation of synthetic genetic circuits. Nature Rev. Genet. 13, 406-420 (2012).
+
+Hasty, J., McMillen, D. & Collins, J. J. Engineered gene circuits. Nature 420, 224-230 (2002).
+
+Becskei, A. & Serrano, L. Engineering stability in gene networks by autoregulation. Nature 405, 590-593 (2000).
+
+Becskei, A., Seraphin, B. & Serrano, L. Positive feedback in eukaryotic gene networks: cell differentiation by graded to binary response conversion. EMBO J. 20, 2528-2535 (2001).
+
+Isaacs, F. J., Hasty, J., Cantor, C. R. & Collins, J. J. Prediction and measurement of an autoregulatory genetic module. Proc. Natl Acad. Sci. USA 100, 7714-7719 (2003).
+
+Atkinson, M. R., Savageau, M. A., Myers, J. T. & Ninfa, A. J. Development of genetic circuitry exhibiting toggle switch or oscillatory behavior in Escherichia coli. Cell 113, 597-607 (2003).
+
+Guet, C. C., Elowitz, M. B., Hsing, W. & Leibler, S. Combinatorial synthesis of genetic networks. Science 296, 1466-1470 (2002).
+
+Weiss, R. & Basu, S. The device physics of cellular logic gates. First Workshop on Non-Silicon Computing [online], http://www.hpcaconf.org/hpca8/nsc.pdf (2002).
+
+Ozbudak, E. M., Thattai, M., Kurtser, I., Grossman, A. D. & van Oudenaarden, A. Regulation of noise in the expression of a single gene. Nature Genet. 31, 69-73 (2002).
+
+Elowitz, M. B., Levine, A. J., Siggia, E. D. & Swain, P. S. Stochastic gene expression in a single cell. Science 297, 1183-1186 (2002).
+
+Blake, W. J., Kaern, M., Cantor, C. R. & Collins, J. J. Noise in eukaryotic gene expression. Nature 422, 633-637 (2003).
+
+Weiss, R. & Knight, T. F. Jr. in DNA Computing (eds Condon, A. & Rozenberg, G.) 1-16 (Springer, 2001).
+
+Park, S. H., Zarrinpar, A. & Lim, W. A. Rewiring MAP kinase pathways using alternative scaffold assembly mechanisms. Science 299, 1061-1064 (2003).
+
+Ball, P. Synthetic biology: starting from scratch. Nature 431, 624-626 (2004).
+
+Ferber, D. Synthetic biology. Microbes made to order. Science 303, 158-161 (2004).
+
+Endy, D. Foundations for engineering biology. Nature 438, 449-453 (2005).
+
+Isaacs, F. J. et al. Engineered riboregulators enable post-transcriptional control of gene expression. Nature Biotech. 22, 841-847 (2004).
+
+Bayer, T. S. & Smolke, C. D. Programmable ligand- controlled riboregulators of eukaryotic gene expression. Nature Biotech. 23, 337-343 (2005).
+
+Anderson, J. C., Voigt, C. A. & Arkin, A. P. Environmental signal integration by a modular AND gate. Mol. Systems Biol. 3, 133 (2007).
+
+Basu, S., Gerchman, Y., Collins, C. H., Arnold, F. H. & Weiss, R. A synthetic multicellular system for programmed pattern formation. Nature 434, 1130-1134 (2005).
+
+You, L., Cox, R. S., 3rd, Weiss, R. & Arnold, F. H. Programmed population control by cell-cell communication and regulated killing. Nature 428, 868-871 (2004).
+
+Levskaya, A. et al. Synthetic biology: engineering Escherichia coli to see light. Nature 438, 441-442 (2005).
+
+Martin, V. J., Pitera, D. J., Withers, S. T., Newman, J. D. & Keasling, J. D. Engineering a mevalonate pathway in Escherichia coli for production of terpenoids. Nature Biotech. 21, 796-802 (2003).
+
+Ro, D. K. et al. Production of the antimalarial drug precursor artemisinic acid in engineered yeast. Nature 440, 940-943 (2006).
+
+Menzella, H. G. et al. Combinatorial polyketide biosynthesis by de novo design and rearrangement of modular polyketide synthase genes. Nature Biotech. 23, 1171-1176 (2005).
+
+Menzella, H. G. & Reeves, C. D. Combinatorial biosynthesis for drug development. Curr. Opin. Microbiol. 10, 238-245 (2007).
+
+Anderson, J. C., Clarke, E. J., Arkin, A. P. & Voigt, C. A. Environmentally controlled invasion of cancer cells by engineered bacteria. J. Mol. Biol. 355, 619-627 (2006).
+
+Kwok, R. Five hard truths for synthetic biology. Nature 463, 288-290 (2010).
+
+Knight, T. F. Jr Idempotent vector design for standard assembly of BioBricks. MIT Synthethic Biology Working Group Technical Reports [online], http://web. mit.edu/synbio/release/docs/biobricks.pdf (2003).
+
+Engler, C., Kandzia, R. & Marillonnet, S. A one pot, one step, precision cloning method with high throughput capability. PLoS ONE 3, e3647 (2008).
+
+Gibson, D. G. et al. Enzymatic assembly of DNA molecules up to several hundred kilobases. Nature Methods 6, 343-345 (2009).
+
+Galdzicki, M., Rodriguez, C., Chandran, D., Sauro, H. M. & Gennari, J. H. Standard biological parts knowledgebase. PLoS ONE 6, e17005 (2011).
+
+Cardinale, S. & Arkin, A. P. Contextualizing context for synthetic biology -identifying causes of failure of synthetic biological systems. Biotechnol. J. 7, 856-866 (2012).
+
+Purnick, P. E. & Weiss, R. The second wave of synthetic biology: from modules to systems. Nature Rev. Mol. Cell Biol. 10, 410-422 (2009).
+
+Pauwels, E. & Ifrim, I. in Synthetic Biology Project [online], http://www.synbioproject.org (Woodrow Wilson International Center for Scholars, 2008).
+
+Smolke, C. D. Building outside of the box: iGEM and the BioBricks Foundation. Nature Biotech. 27, 1099-1102 (2009).
+
+Voigt, C. A. Life from information. Nature Methods 5, 27-28 (2008).
+
+Stricker, J. et al. A fast, robust and tunable synthetic gene oscillator. Nature 456, 516-519 (2008).
+
+Danino, T., Mondragon-Palomino, O., Tsimring, L. & Hasty, J. A synchronized quorum of genetic clocks. Nature 463, 326-330 (2010).
+
+Prindle, A. et al. A sensing array of radically coupled genetic 'biopixels' . Nature 481, 39-44 (2012).
+
+Friedland, A. E. et al. Synthetic gene networks that count. Science 324, 1199-1202 (2009).
+
+Siuti, P., Yazbek, J. & Lu, T. K. Synthetic circuits integrating logic and memory in living cells. Nature Biotech. 31, 448-452 (2013).
+
+Bonnet, J., Yin, P., Ortiz, M. E., Subsoontorn, P. & Endy, D. Amplifying genetic logic gates. Science 340, 599-603 (2013).
+
+Tamsir, A., Tabor, J. J. & Voigt, C. A. Robust multicellular computing using genetically encoded NOR gates and chemical 'wires' . Nature 469, 212-215 (2011).
+
+Moon, T. S., Lou, C., Tamsir, A., Stanton, B. C. & Voigt, C. A. Genetic programs constructed from layered logic gates in single cells. Nature 491, 249-253 (2012).
+
+Tabor, J. J. et al. A synthetic genetic edge detection program. Cell 137, 1272-1281 (2009).
+
+Liu, C. et al. Sequential establishment of stripe patterns in an expanding cell population. Science 334, 238-241 (2011).
+
+Win, M. N. & Smolke, C. D. Higher-order cellular information processing with synthetic RNA devices. Science 322, 456-460 (2008).
+
+Carothers, J. M., Goler, J. A., Juminaga, D. & Keasling, J. D. Model-driven engineering of RNA devices to quantitatively program gene expression. Science 334, 1716-1719 (2011).
+
+Na, D. et al. Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs. Nature Biotech. 31, 170-174 (2013).
+
+Wiedenheft, B., Sternberg, S. H. & Doudna, J. A. RNA- guided genetic silencing systems in bacteria and archaea. Nature 482, 331-338 (2012).
+
+Qi, L. S. et al. Repurposing CRISPR as an RNA-guided platform for sequence-specific control of gene expression. Cell 152, 1173-1183 (2013).
+
+Larson, M. H. et al. CRISPR interference (CRISPRi) for sequence-specific control of gene expression. Nature Protoc. 8, 2180-2196 (2013).
+
+Bikard, D. et al. Programmable repression and activation of bacterial gene expression using an engineered CRISPR-Cas system. Nucleic Acids Res. 41, 7429-7437 (2013).
+
+Bashor, C. J., Helman, N. C., Yan, S. & Lim, W. A. Using engineered scaffold interactions to reshape MAP kinase pathway signaling dynamics. Science 319, 1539-1543 (2008).
+
+Whitaker, W. R., Davis, S. A., Arkin, A. P. & Dueber, J. E. Engineering robust control of two- component system phosphotransfer using modular scaffolds. Proc. Natl Acad. Sci. USA 109, 18090-18095 (2012).
+
+Dueber, J. E. et al. Synthetic protein scaffolds provide modular control over metabolic flux. Nature Biotech. 27, 753-759 (2009).
+
+Chau, A. H., Walter, J. M., Gerardin, J., Tang, C. & Lim, W. A. Designing synthetic regulatory networks capable of self-organizing cell polarization. Cell 151, 320-332 (2012).
+
+Cagatay, T., Turcotte, M., Elowitz, M. B., Garcia- Ojalvo, J. & Suel, G. M. Architecture-dependent noise discriminates functionally analogous differentiation circuits. Cell 139, 512-522 (2009).
+
+Isalan, M. et al. Evolvability and hierarchy in rewired bacterial gene networks. Nature 452, 840-845 (2008).
+
+Lee, J. W. et al. Systems metabolic engineering of microorganisms for natural and non-natural chemicals. Nature Chem. Biol. 8, 536-546 (2012).
+
+Atsumi, S., Hanai, T. & Liao, J. C. Non-fermentative pathways for synthesis of branched-chain higher alcohols as biofuels. Nature 451, 86-89 (2008).
+
+Huo, Y. X. et al. Conversion of proteins into biofuels by engineering nitrogen flux. Nature Biotech. 29, 346-351 (2011).
+
+Steen, E. J. et al. Microbial production of fatty-acid- derived fuels and chemicals from plant biomass. Nature 463, 559-562 (2010).
+
+Choi, Y. J. & Lee, S. Y. Microbial production of short- chain alkanes. Nature 502, 571-574 (2013).
+
+Yim, H. et al. Metabolic engineering of Escherichia coli for direct production of 1,4-butanediol. Nature Chem. Biol. 7, 445-452 (2011).
+
+Holtz, W. J. & Keasling, J. D. Engineering static and dynamic control of synthetic pathways. Cell 140, 19-23 (2010).
+
+Anesiadis, N., Cluett, W. R. & Mahadevan, R. Dynamic metabolic engineering for increasing bioprocess productivity. Metab. Eng. 10, 255-266 (2008).
+
+Zhang, F., Carothers, J. M. & Keasling, J. D. Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty acids. Nature Biotech. 30, 354-359 (2012).
+
+Paddon, C. J. et al. High-level semi-synthetic production of the potent antimalarial artemisinin. Nature 496, 528-532 (2013).
+
+Ruder, W. C., Lu, T. & Collins, J. J. Synthetic biology moving into the clinic. Science 333, 1248-1252 (2011).
+
+Lu, T. K. & Collins, J. J. Dispersing biofilms with engineered enzymatic bacteriophage. Proc. Natl Acad. Sci. USA 104, 11197-11202 (2007).
+
+Lu, T. K., Khalil, A. S. & Collins, J. J. Next-generation synthetic gene networks. Nature Biotech. 27, 1139-1150 (2009).
+
+Lu, T. K., Bowers, J. & Koeris, M. S. Advancing bacteriophage-based microbial diagnostics with synthetic biology. Trends Biotechnol. 31, 325-327 (2013).
+
+Gupta, S., Bram, E. E. & Weiss, R. Genetically programmable pathogen sense and destroy. ACS Synthet. Biol. 2, 715-723 (2013).
+
+Duan, F. & March, J. C. Engineered bacterial communication prevents Vibrio cholerae virulence in an infant mouse model. Proc. Natl Acad. Sci. USA 107, 11260-11264 (2010).
+
+Callura, J. M., Dwyer, D. J., Isaacs, F. J., Cantor, C. R. & Collins, J. J. Tracking, tuning, and terminating microbial physiology using synthetic riboregulators. Proc. Natl Acad. Sci. USA 107, 15898-15903 (2010).
+
+Gibson, D. G. et al. Creation of a bacterial cell controlled by a chemically synthesized genome. Science 329, 52-56 (2010).
+
+Dymond, J. S. et al. Synthetic chromosome arms function in yeast and generate phenotypic diversity by design. Nature 477, 471-476 (2011).
+
+Wang, H. H. et al. Programming cells by multiplex genome engineering and accelerated evolution. Nature 460, 894-898 (2009).
+
+Isaacs, F. J. et al. Precise manipulation of chromosomes in vivo enables genome-wide codon replacement. Science 333, 348-353 (2011).
+
+Jiang, W., Bikard, D., Cox, D., Zhang, F. & Marraffini, L. A. RNA-guided editing of bacterial genomes using CRISPR-Cas systems. Nature Biotech. 31, 233-239 (2013).
+
+DiCarlo, J. E. et al. Genome engineering in Saccharomyces cerevisiae using CRISPR-Cas systems. Nucleic Acids Res. 41, 4336-4343 (2013).
+
+Salis, H. M., Mirsky, E. A. & Voigt, C. A. Automated design of synthetic ribosome binding sites to control protein expression. Nature Biotech. 27, 946-950 (2009).
+
+Ellis, T., Wang, X. & Collins, J. J. Diversity-based, model-guided construction of synthetic gene networks with predicted functions. Nature Biotech. 27, 465-471 (2009).
+
+Mutalik, V. K. et al. Precise and reliable gene expression via standard transcription and translation initiation elements. Nature Methods 10, 354-360 (2013).
+
+Cambray, G. et al. Measurement and modeling of intrinsic transcription terminators. Nucleic Acids Res. 41, 5139-5148 (2013).
+
+Mutalik, V. K. et al. Quantitative estimation of activity and quality for collections of functional genetic elements. Nature Methods 10, 347-353 (2013).
+
+Chan, L. Y., Kosuri, S. & Endy, D. Refactoring bacteriophage T7. Mol. Systems Biol. 1, 2005.0018 (2005).
+
+Temme, K., Zhao, D. & Voigt, C. A. Refactoring the nitrogen fixation gene cluster from Klebsiella oxytoca. Proc. Natl Acad. Sci. USA 109, 7085-7090 (2012).
+
+Qi, L., Haurwitz, R. E., Shao, W., Doudna, J. A. & Arkin, A. P. RNA processing enables predictable programming of gene expression. Nature Biotech. 30, 1002-1006 (2012).
+
+Lou, C., Stanton, B., Chen, Y. J., Munsky, B. & Voigt, C. A. Ribozyme-based insulator parts buffer synthetic circuits from genetic context. Nature Biotech. 30, 1137-1142 (2012).
+
+Cookson, N. A. et al. Queueing up for enzymatic processing: correlated signaling through coupled degradation. Mol. Systems Biol. 7, 561 (2011).
+
+Feist, A. M. & Palsson, B. O. The biomass objective function. Curr. Opin. Microbiol. 13, 344-349 (2010).
+
+Callura, J. M., Cantor, C. R. & Collins, J. J. Genetic switchboard for synthetic biology applications. Proc. Natl Acad. Sci. USA 109, 5850-5855 (2012).
+
+Holmes, E. et al. Therapeutic modulation of microbiota-host metabolic interactions. Sci. Transl. Med. 4, 137rv6 (2012).
+
+Sonnenburg, J. L. & Fischbach, M. A. Community health care: therapeutic opportunities in the human microbiome. Sci. Transl. Med. 3, 78ps12 (2011).
+
+Esvelt, K. M. & Wang, H. H. Genome-scale engineering for systems and synthetic biology. Mol. Systems Biol. 9, 641 (2013).
+
+Goffeau, A. et al. Life with 6000 genes. Science 274, 563-567 (1996).
+
+Blattner, F. R. et al. The complete genome sequence of Escherichia coli K-12. Science 277, 1453-1462 (1997).
+
+The field's origins stemmed from early genetic manipulation techniques, which were primarily restricted to cloning before 2000. Advances in molecular tools and systems biology were necessary before engineering principles could effectively apply.
+
+The foundational circuits developed in 2000, like the toggle switch and repressilator, utilized a model-based design approach, achieved through iterative tuning of parts. These circuits demonstrated the potential for engineered behaviors using well-characterized components from E. coli.
+
+During this period, numerous important milestones emerged, including the engineering of cell-cell communication circuits and metabolic pathways like artemisinin production in E. coli. The establishment of the Registry of Standard Biological Parts was also pivotal for the field.
+
+High-throughput DNA-assembly methods gained traction around 2008, improving circuit construction efficiency and output variability. This marked a shift towards more complex biological systems and enhanced characterization of genetic parts.
+
+Context-dependence and interoperability of genetic parts pose significant obstacles to circuit engineering, often leading to unpredictable performance. Despite advances, achieving standardized characterization across diverse contexts remains a critical issue.
+
+MOLECULAR SYSTEMS BIOLOGY, 2006
+
+Synthetic biologists engineer complex artificial biological systems to investigate natural biological phenomena and for a variety of applications. We outline the basic features of synthetic biology as a new engineering discipline, covering examples from the latest literature and reflecting on the features that make it unique among all other existing engineering fields. We discuss methods for designing and constructing engineered cells with novel functions in a framework of an abstract hierarchy of biological devices, modules, cells, and multicellular systems. The classical engineering strategies of standardization, decoupling, and abstraction will have to be extended to take into account the inherent characteristics of biological devices and modules. To achieve predictability and reliability, strategies for engineering biology must include the notion of cellular context in the functional definition of devices and modules, use rational redesign and directed evolution for system optimization, and focus on accomplishing tasks using cell populations rather than individual cells. The discussion brings to light issues at the heart of designing complex living systems and provides a trajectory for future development.
+
+Outlines the possibilities for and global need of funding and additional development of synthetic biology
+
+Synthetic biology, converging biology, engineering and computer science, allows the design of new biological systems, promising revolutions in healthcare, agriculture and environmental sustainability. Its core principles-modularity, abstraction hierarchies, orthogonality, predictability, and standardization-enable systematic biological engineering. Modularity breaks complex systems into manageable parts, while abstraction hierarchies organize these parts by complexity. Orthogonality ensures independent function of synthetic components and predictability is achieved through modeling and computation. Standardization promotes reproducibility and collaboration. Mechanistically, synthetic biology manipulates DNA, designs genetic circuits and metabolic pathways and applies physical and computational principles. Techniques like PCR and DNA sequencing construct recombinant DNA. Genetic circuits control gene expression and metabolic engineering optimizes pathways. Integrating Artificial Intelligence (AI) and Machine Learning (ML) accelerates innovation by analyzing data, predicting protein structures and automating experiments, improving drug and therapy development.Synthetic biology can address global challenges like infectious diseases, climate change and food security, in addition to the potential applications in the medical and pharmaceutical sectors. By understanding its principles and using advanced technologies, researchers can realize the field's potential for a better future.
+
+Applied Microbiology and Biotechnology, 2006
+
+DNA synthesis has become one of the technological bases of a new concept in biology: synthetic biology. The vision of synthetic biology is a systematic, hierarchical design of artificial, biology-inspired systems using robust, standardized, and well-characterized building blocks. The design concept and examples from four fields of application (genetic circuits, protein design, platform technologies, and pathway engineering) are discussed, which demonstrate the usefulness and the promises of synthetic biology. The vision of synthetic biology is to develop complex systems by simplified solutions using available material and knowledge. Synthetic biology also opens a door toward new biomaterials that do not occur in nature.
+
+Graduado em Licenciatura plena em Educação Física (UVA) e em Dança (UFC) Professor Efetivo da Rede Municipal de Fortaleza. **Doutora em Educação (UECE) Mestra em Educação Física (UFRN) Docente do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) Líder do grupo de pesquisa Corponexões: corpo, cultura e sociedade (IFCE). ***Docente do IFCE Mestre em Educação pela UECE Especialista em Treinamento Esportivo pela UECE Membro do grupo de pesquisa Corponexões: corpo, cultura e sociedade (IFCE) e do grupo de estudos e pesquisa em Educação Física Escolar (GEPEFE/UECE)
+
+Frontiers in Psychology, 2015
+
+Previous research has proposed that languages diverge with respect to how their speakers confirm and contradict negative questions. Taking into account the classification between truth-based and polarity-based languages, this paper is mainly concerned with the expression of REJECT (a semantic operation that signals a contradiction move with respect to the common ground, along Krifka's lines) in two languages belonging to two typologically distinct answering systems, namely Catalan (polarity-based) and Russian (a mixed system using polarity-based, truth-based, and echoic strategies). This investigation has two goals. First, to assess empirically the relevance of prosodic and gestural patterns in the interpretation of confirming and rejecting responses to negative polar questions. Second, to test the claim that in fact speakers resort to strikingly similar universal strategies at the time of expressing rejecting answers to discourse accessible negative assertions and negative polar questions, namely the use of linguistic units that encode REJECT in combination with ASSERT. The results of our investigation support the existence of a universal answering system for rejecting negative polar questions that integrates lexical and syntactic strategies with prosodic and gestural patterns, and instantiate the REJECT and ASSERT operators. We will also discuss the implications these results have for the truth-based vs. polarity-based taxonomy.
+
+HDC-CBC/R eXtensión Relativista de la Hipótesis del Desequilibrio Correlacional, 2025
+
+Abstract Técnico — Extensión Relativista de la Hipótesis HDC–CBC (HDC–CBC/R) La presente extensión desarrolla el formalismo relativista completo de la Hipótesis del Desequilibrio Correlacional (HDC–CBC), proporcionando la estructura geométrica y variacional que permite expresar de manera covariante el principio fundamental δ(ε_q − ε_g) = 0. Mientras que el documento principal establece la hipótesis correlacional y la extensión cuántica describe la naturaleza basal del campo de coherencia, esta Extensión R introduce la acción relativista, el lagrangiano total y la dinámica geométrica resultante del acoplamiento entre el campo correlacional y la métrica espaciotemporal. Partiendo de una acción S = ∫√−g ℒ d⁴x que incluye los términos gravitacionales, correlacional y de materia, se demuestra que la pérdida de equivalencia entre la energía cuántica basal y la energía geométrica de curvatura induce una deformación tensorial de las ecuaciones de Einstein. Esta deformación emerge como la manifestación geométrica del desequilibrio correlacional y actúa como fuente dinámica de la expansión y de la aceleración cósmica sin necesidad de introducir constantes ad hoc ni nuevos campos inflatones. Se obtiene asimismo la ecuación de movimiento del campo correlacional φ mediante la variación covariante de la acción, estableciendo un puente matemático entre la coherencia primordial, la curvatura inducida y la dinámica relativista observada. La Extensión R incluye además la formulación de las perturbaciones relativistas del CBC, la versión correlacional de la ecuación de Mukhanov–Sasaki, el análisis tensorial para modos gravitacionales y las condiciones de estabilidad asociadas a NEC, WEC, SEC y DEC. Estas herramientas permiten evaluar la consistencia interna de la teoría, identificar sus regiones de estabilidad dinámica y anticipar posibles firmas observacionales en modos escalares, vectoriales y tensoriales. Finalmente, se establece el límite HDC-CBC → ΛCDM como caso degenerado de equilibrio correlacional, mostrando que el modelo relativista recupera la Relatividad General estándar cuando el campo correlacional se estabiliza y que, en regímenes dinámicos, predice desviaciones suaves pero falsables en H(z), w(z), el ISW, el crecimiento estructural y la propagación de ondas gravitacionales. Esta extensión convierte el marco HDC–CBC en una hipótesis relativista formal completa, capaz de generar predicciones cuantitativas y de integrarse de manera natural en los marcos actuales de análisis cosmológico y gravedad modificada.
+
+IOP Conf. Series: Earth and Environmental Science, 2025
+
+Removing heavy metals from water is of great bene it because these elements pose great risks to human health. Over the past decades, many traditional methods have been used to remove these pollutants from water, such as: ultra iltration, reverse osmosis, ion exchange, solvent extraction and chemical precipitation. However, these methods have disadvantages such as high costs. In this study, aqueous and ethanolic extracts of rosemary (Salvia Rosmarinus) were introduced to remove heavy elements from polluted river water as new environmental sustainability. Five heavy metals were monitored and tested their concentrations in river water by Inductively Coupled Plasma Spectroscopy (ICP). The results showed that the alcoholic and aqueous extract of rosemary proved to be highly effective in removing the element (Fe) by 100%, and it was also able to remove the element (B) by 92%, while the removal rate of (As) and (Mn) was 100%, while it was able to reduce (Sr) by 29%. The best removal rates were recorded at a pH of 8, with a removal time of 30 minutes, and an extract concentration of 0.2 g/L of polluted water. Rosemary extract has proven its effectiveness in removing heavy elements and is considered a promising future alternative in the ield of water treatment.
+
+UFT-ID 2.0: Building Gravity from a Deeper Reality This work introduces UFT-ID 2.0, a unified field architecture in which information, geometry, and gravity emerge from a single microscopic system. Earlier versions of UFT-ID assumed gravity to be an entropic byproduct of information gradients but lacked a defined physical substrate beneath spacetime. As shown on pages 2–3 of the dataset , UFT-ID 2.0 resolves this foundational gap by grounding information in the spin-network microstructure of Loop Quantum Gravity (LQG). The framework is built on two coexisting layers: Layer 1: A quantized geometric substrate, modeled by SU(2) spin networks whose nodes and links encode discrete volumes and areas (page 4). Layer 2: An SU(3) information field Φ defined on the vertices of this network, where each vertex hosts a qutrit implementing a fundamental ternary logic (page 5). These layers combine into a unified Hilbert space, 𝐻 = 𝐻 L Q G ⊗ 𝐻 Φ , H=H LQG ​ ⊗H Φ ​ , depicted clearly on page 6, where geometry and meaning are co-quantized. Their evolution is governed by a single coupled action (page 7): 𝑆 = 𝑆 L Q G + 𝑆 Φ + 𝑆 i n t , S=S LQG ​ +S Φ ​ +S int ​ , with 𝑆 i n t S int ​ capturing the back-reaction of informational flows on the underlying geometry. This leads to the equation of conserved meaning currents (page 8), which mathematically encodes how informational dynamics reshape quantum geometry. By coarse-graining the microscopic states of this unified system, classical gravity emerges as a thermodynamic equation of state (pages 9–10). The dataset demonstrates how the architecture naturally unifies the quantum-gravitational, thermodynamic, and cognitive/AI regimes (page 11), establishing UFT-ID 2.0 as a flexible, multi-domain physical theory.
+
+MicrobiologyaddFollowdocument.addEventListener('DOMContentLoaded', () => { function getCookie(name) { const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) return parts.pop().split(';').shift(); } const csrfToken = document.querySelector("[name='csrf-token']")?.content ?? getCookie('masked_csrf_token'); if (!csrfToken) { throw 'click tracking disabled due to missing CSRF token (pill button)'; } const options = {"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}}; const button = document.querySelector('.js-tc-loswp--related-topics--follow'); button.addEventListener('click', () => { fetch('/v0/clicks?subdomain_param=api', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken, }, keepalive: true, mode: 'same-origin', body: JSON.stringify({ ...options, occurred_at: new Date(), hit_id: window.Aedu?.hit_data?.id, }), }); }); });document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--540a9284'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/Documents/in/Microbiology","clickTrackingContext":{"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}},"configuredText":{"buttonsPage":{"header":"Follow topics to stay up-to-date"},"emailEntryPage":{"subheader":"Sign up or log in to follow this topic."},"emailLoginPage":{"subheader":"Log in to follow this topic."},"emailRegistrationPage":{"subheader":"Sign up to follow this topic."}},"registrationParams":{"user_source":"download","doc_id":105579958}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });
+
+Synthetic BiologyaddFollowdocument.addEventListener('DOMContentLoaded', () => { function getCookie(name) { const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) return parts.pop().split(';').shift(); } const csrfToken = document.querySelector("[name='csrf-token']")?.content ?? getCookie('masked_csrf_token'); if (!csrfToken) { throw 'click tracking disabled due to missing CSRF token (pill button)'; } const options = {"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}}; const button = document.querySelector('.js-tc-loswp--related-topics--follow'); button.addEventListener('click', () => { fetch('/v0/clicks?subdomain_param=api', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken, }, keepalive: true, mode: 'same-origin', body: JSON.stringify({ ...options, occurred_at: new Date(), hit_id: window.Aedu?.hit_data?.id, }), }); }); });document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--736275d1'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/Documents/in/Synthetic_Biology","clickTrackingContext":{"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}},"configuredText":{"buttonsPage":{"header":"Follow topics to stay up-to-date"},"emailEntryPage":{"subheader":"Sign up or log in to follow this topic."},"emailLoginPage":{"subheader":"Log in to follow this topic."},"emailRegistrationPage":{"subheader":"Sign up to follow this topic."}},"registrationParams":{"user_source":"download","doc_id":105579958}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });
+
+BiotechnologyaddFollowdocument.addEventListener('DOMContentLoaded', () => { function getCookie(name) { const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) return parts.pop().split(';').shift(); } const csrfToken = document.querySelector("[name='csrf-token']")?.content ?? getCookie('masked_csrf_token'); if (!csrfToken) { throw 'click tracking disabled due to missing CSRF token (pill button)'; } const options = {"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}}; const button = document.querySelector('.js-tc-loswp--related-topics--follow'); button.addEventListener('click', () => { fetch('/v0/clicks?subdomain_param=api', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken, }, keepalive: true, mode: 'same-origin', body: JSON.stringify({ ...options, occurred_at: new Date(), hit_id: window.Aedu?.hit_data?.id, }), }); }); });document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--fa718e26'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/Documents/in/Biotechnology","clickTrackingContext":{"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}},"configuredText":{"buttonsPage":{"header":"Follow topics to stay up-to-date"},"emailEntryPage":{"subheader":"Sign up or log in to follow this topic."},"emailLoginPage":{"subheader":"Log in to follow this topic."},"emailRegistrationPage":{"subheader":"Sign up to follow this topic."}},"registrationParams":{"user_source":"download","doc_id":105579958}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });
+
+Systems BiologyaddFollowdocument.addEventListener('DOMContentLoaded', () => { function getCookie(name) { const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) return parts.pop().split(';').shift(); } const csrfToken = document.querySelector("[name='csrf-token']")?.content ?? getCookie('masked_csrf_token'); if (!csrfToken) { throw 'click tracking disabled due to missing CSRF token (pill button)'; } const options = {"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}}; const button = document.querySelector('.js-tc-loswp--related-topics--follow'); button.addEventListener('click', () => { fetch('/v0/clicks?subdomain_param=api', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken, }, keepalive: true, mode: 'same-origin', body: JSON.stringify({ ...options, occurred_at: new Date(), hit_id: window.Aedu?.hit_data?.id, }), }); }); });document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--bcbfd8cc'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/Documents/in/Systems_Biology","clickTrackingContext":{"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}},"configuredText":{"buttonsPage":{"header":"Follow topics to stay up-to-date"},"emailEntryPage":{"subheader":"Sign up or log in to follow this topic."},"emailLoginPage":{"subheader":"Log in to follow this topic."},"emailRegistrationPage":{"subheader":"Sign up to follow this topic."}},"registrationParams":{"user_source":"download","doc_id":105579958}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });
+
+BiologyaddFollowdocument.addEventListener('DOMContentLoaded', () => { function getCookie(name) { const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) return parts.pop().split(';').shift(); } const csrfToken = document.querySelector("[name='csrf-token']")?.content ?? getCookie('masked_csrf_token'); if (!csrfToken) { throw 'click tracking disabled due to missing CSRF token (pill button)'; } const options = {"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}}; const button = document.querySelector('.js-tc-loswp--related-topics--follow'); button.addEventListener('click', () => { fetch('/v0/clicks?subdomain_param=api', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken, }, keepalive: true, mode: 'same-origin', body: JSON.stringify({ ...options, occurred_at: new Date(), hit_id: window.Aedu?.hit_data?.id, }), }); }); });document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--c4f08438'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/Documents/in/Biology","clickTrackingContext":{"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}},"configuredText":{"buttonsPage":{"header":"Follow topics to stay up-to-date"},"emailEntryPage":{"subheader":"Sign up or log in to follow this topic."},"emailLoginPage":{"subheader":"Log in to follow this topic."},"emailRegistrationPage":{"subheader":"Sign up to follow this topic."}},"registrationParams":{"user_source":"download","doc_id":105579958}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });
+
+MedicineaddFollowdocument.addEventListener('DOMContentLoaded', () => { function getCookie(name) { const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) return parts.pop().split(';').shift(); } const csrfToken = document.querySelector("[name='csrf-token']")?.content ?? getCookie('masked_csrf_token'); if (!csrfToken) { throw 'click tracking disabled due to missing CSRF token (pill button)'; } const options = {"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}}; const button = document.querySelector('.js-tc-loswp--related-topics--follow'); button.addEventListener('click', () => { fetch('/v0/clicks?subdomain_param=api', { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken, }, keepalive: true, mode: 'same-origin', body: JSON.stringify({ ...options, occurred_at: new Date(), hit_id: window.Aedu?.hit_data?.id, }), }); }); });document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--21093b3e'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/Documents/in/Medicine","clickTrackingContext":{"source":"loswp--related-topics--follow","bucket":"outline","entity_id":106361634,"extra":{"source_work_id":106361634}},"configuredText":{"buttonsPage":{"header":"Follow topics to stay up-to-date"},"emailEntryPage":{"subheader":"Sign up or log in to follow this topic."},"emailLoginPage":{"subheader":"Log in to follow this topic."},"emailRegistrationPage":{"subheader":"Sign up to follow this topic."}},"registrationParams":{"user_source":"download","doc_id":105579958}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });
+
+Applied microbiology and biotechnology, 2015
+
+Metabolic engineering facilitates the rational development of recombinant bacterial strains for metabolite overproduction. Building on enormous advances in system biology and synthetic biology, novel strategies have been established for multivariate optimization of metabolic networks in ensemble, spatial, and dynamic manners such as modular pathway engineering, compartmentalization metabolic engineering, and metabolic engineering guided by genome-scale metabolic models, in vitro reconstitution, and systems and synthetic biology. Herein, we summarize recent advances in novel metabolic engineering strategies. Combined with advancing kinetic models and synthetic biology tools, more efficient new strategies for improving cellular properties can be established and applied for industrially important biochemical production.
+
+Mechanical signals exist throughout the biological landscape. Across all scales, these signals, in the form of force, stiffness, and deformations, are generated and processed, resulting in an active mechanobiological circuit that controls many fundamental aspects of life, from protein unfolding and cytoskeletal remodeling to collective cell motions. The multiple scales and complex feedback involved present a challenge for fully understanding the nature of this circuit, particularly in development and disease in which it has been implicated. Computational models that accurately predict and are based on experimental data enable a means to integrate basic principles and explore fine details of mechanosensing and mechanotransduction in and across all levels of biological systems. Here we review recent advances in these models along with supporting and emerging experimental findings.
+
+Life (Basel, Switzerland), 2014
+
+Artificial cells are simple cell-like entities that possess certain properties of natural cells. In general, artificial cells are constructed using three parts: (1) biological membranes that serve as protective barriers, while allowing communication between the cells and the environment; (2) transcription and translation machinery that synthesize proteins based on genetic sequences; and (3) genetic modules that control the dynamics of the whole cell. Artificial cells are minimal and well-defined systems that can be more easily engineered and controlled when compared to natural cells. Artificial cells can be used as biomimetic systems to study and understand natural dynamics of cells with minimal interference from cellular complexity. However, there remain significant gaps between artificial and natural cells. How much information can we encode into artificial cells? What is the minimal number of factors that are necessary to achieve robust functioning of artificial cells? Can artifi...
+
+Journal of Biological Engineering
+
+Background Gene regulatory networks with different topological and/or dynamical properties might exhibit similar behavior. System that is less perceptive for the perturbations of its internal and external factors should be preferred. Methods for sensitivity and robustness assessment have already been developed and can be roughly divided into local and global approaches. Local methods focus only on the local area around nominal parameter values. This can be problematic when parameters exhibits the desired behavior over a large range of parameter perturbations or when parameter values are unknown. Global methods, on the other hand, investigate the whole space of parameter values and mostly rely on different sampling techniques. This can be computationally inefficient. To address these shortcomings ’glocal’ approaches were developed that apply global and local approaches in an effective and rigorous manner. Results Herein, we present a computational approach for ’glocal’ analysis of vi...
+
+Basic synthetic information processing structures, such as logic gates, oscillators and flip-flops, have already been implemented in living organisms. Current implementations of these structures are, however, hardly scalable and are yet to be extended to more complex processing structures that would constitute a biological computer.Herein, we make a step forward towards the construction of a biological computer. We describe a model-based computational design of a biological processor, composed of an instruction memory containing a biological program, a program counter that is used to address this memory and a biological oscillator that triggers the execution of the next instruction in the memory. The described processor uses transcription and translation resources of the host cell to perform its operations and is able to sequentially execute a set of instructions written within the so-called instruction memory implemented with non-volatile DNA sequences. The addressing of the instru...
+
+International Journal of Molecular Sciences
+
+Some years inspire more hindsight reflection and future-gazing than others. This is even more so in 2020 with its evocation of perfect vision and the landmark ring to it. However, no futurist can reliably predict what the world will look like the next time that a year’s first two digits will match the second two digits—a numerical pattern that only occurs once in a century. As we leap into a new decade, amid uncertainties triggered by unforeseen global events—such as the outbreak of a worldwide pandemic, the accompanying economic hardship, and intensifying geopolitical tensions—it is important to note the blistering pace of 21st century technological developments indicate that while hindsight might be 20/20, foresight is 50/50. The history of science shows us that imaginative ideas, research excellence, and collaborative innovation can, for example, significantly contribute to the economic, cultural, social, and environmental recovery of a post-COVID-19 world. This article reflects ...
+
+Nature Communications
+
+Traditionally engineered genetic circuits have almost exclusively used naturally occurring transcriptional repressors. Recently, non-natural transcription factors (repressors) have been engineered and employed in synthetic biology with great success. However, transcriptional anti-repressors have largely been absent with regard to the regulation of genes in engineered genetic circuits. Here, we present a workflow for engineering systems of non-natural anti-repressors. In this study, we create 41 inducible anti-repressors. This collection of transcription factors respond to two distinct ligands, fructose (anti-FruR) or D-ribose (anti-RbsR); and were complemented by 14 additional engineered anti-repressors that respond to the ligand isopropyl β-d-1-thiogalactopyranoside (anti-LacI). In turn, we use this collection of anti-repressors and complementary genetic architectures to confer logical control over gene expression. Here, we achieved all NOT oriented logical controls (i.e., NOT, NOR...
+
+Frontiers in Cell and Developmental Biology
+
+Precision medicine in oncology needs to enhance its capabilities to match diagnostic and therapeutic technologies to individual patients. Synthetic biology streamlines the design and construction of functionalized devices through standardization and rational engineering of basic biological elements decoupled from their natural context. Remarkable improvements have opened the prospects for the availability of synthetic devices of enhanced mechanism clarity, robustness, sensitivity, as well as scalability and portability, which might bring new capabilities in precision cancer medicine implementations. In this review, we begin by presenting a brief overview of some of the major advances in the engineering of synthetic genetic circuits aimed to the control of gene expression and operating at the transcriptional, post-transcriptional/translational, and post-translational levels. We then focus on engineering synthetic circuits as an enabling methodology for the successful establishment of precision technologies in oncology. We describe significant advancements in our capabilities to tailor synthetic genetic circuits to specific applications in tumor diagnosis, tumor cell-and gene-based therapy, and drug delivery.
+
+Frontiers in Plant Science
+
+Fast-growing forest plantations are sustainable feedstocks of plant biomass that can serve as alternatives to fossil carbon resources for materials, chemicals, and energy. Their ability to efficiently harvest light energy and carbon from the atmosphere and sequester this into metabolic precursors for lignocellulosic biopolymers and a wide range of plant specialized metabolites make them excellent biochemical production platforms and living biorefineries. Their large sizes have facilitated multi-omics analyses and systems modeling of key biological processes such as lignin biosynthesis in trees. High-throughput 'omics' approaches have also been applied in segregating tree populations where genetic variation creates abundant genetic perturbations of system components allowing construction of systems genetics models linking genes and pathways to complex trait variation. With this information in hand, it is now possible to start using synthetic biology and genome editing techniques in a bioengineering approach based on a deeper understanding and rational design of biological parts, devices, and integrated systems. However, the complexity of the biology and interacting components will require investment in big data informatics, machine learning, and intuitive visualization to fully explore multi-dimensional patterns and identify emergent properties of biological systems. Predictive systems models could be tested rapidly through high-throughput synthetic biology approaches and multigene editing. Such a bioengineering paradigm, together with accelerated genomic breeding, will be crucial for the development of a new generation of woody biorefinery crops.
+
+Next-generation genome sequencing machines and Point-of-Care in vitro diagnostics devices are precursors of an emerging class of Cyber-Physical Systems, one that harnesses biomolecular-scale mechanisms to enable novel "wet-technology" applications in medicine, biotechnology and environmental science. Although many such applications exist, testifying the importance of innovative life-sciences instrumentation, recent events have highlighted the difficulties that designing organisations face in their attempt to guarantee safety, reliability and performance of this special class of Cyber-Physical Systems. New regulations and increasing competition pressure innovators to rethink their design and engineering practices, and to better address the above challenges. The pace of innovation will be determined by how organisations manage to ensure the satisfaction of aforementioned constraints while also streamlining product development, maintaining high cost-efficiency and shortening time-to-market. Model-Based Systems Engineering provides a valuable framework for addressing these challenges. In this paper, we demonstrate that existing and readily-available model-based development frameworks can be adopted early in the life-sciences instrumentation design process. Such frameworks are specifically helpful in describing and characterizing Cyber-Physical Systems including elements of a biological nature both at the architectural and performance level. We present the SysML model of a smartphone-based Point-Of-Care diagnostics system designed for detecting a particular molecular marker. By modelling components and behaviours spanning across the biological, physical-non-biological and computational domains, we were able to characterize the important systemic relations involved in the specification of our system's Limit-Of-Detection. Our results illustrate the suitability of such an approach and call for further work towards formalisms enabling the formal-verification of systems including biomolecular components.
+
+The traditional view of protein aggregation as being strictly disease-related has been challenged by many examples of cellular aggregates that regulate beneficial biological functions. When coupled with the emerging view that many regulatory proteins undergo phase separation to form dynamic cellular compartments, it has become clear that supramolecular assembly plays wide-ranging and critical roles in cellular regulation. This presents opportunities to develop new tools to probe and illuminate this biology, and to harness the unique properties of these self-assembling systems for synthetic biology for the purposeful manipulation of biological function.
+
+Frontiers in chemistry, 2014
+
+Although polysaccharides are ubiquitous and the most abundant renewable bio-components, their studies, covered by the glycochemistry and glycobiology fields, remain a challenge due to their high molecular diversity and complexity. Polysaccharides are industrially used in food products; human therapeutics fall into a more recent research field and pharmaceutical industry is looking for more and more molecules with enhanced activities. Glycosaminoglycans (GAGs) found in animal tissues play a critical role in cellular physiological and pathological processes as they bind many cellular components. Therefore, they present a great potential for the design and preparation of therapeutic drugs. On the other hand, microorganisms producing exopolysaccharides (EPS) are renewable resources meeting well the actual industrial demand. In particular, the diversity of marine microorganisms is still largely unexplored offering great opportunities to discover high value products such as new molecules ...
+
+Bioelectrocatalysis is an interdisciplinary research field combining biocatalysis and electrocatalysis via the utilization of materials derived from biological systems as catalysts to catalyze the redox reactions occurring at an electrode. Bioelectrocatalysis synergistically couples the merits of both biocatalysis and electrocatalysis. The advantages of biocatalysis include high activity, high selectivity, wide substrate scope, and mild reaction conditions. The advantages of electrocatalysis include the possible utilization of renewable electricity as an electron source and high energy conversion efficiency. These properties are integrated to achieve selective biosensing, efficient energy conversion, and the production of diverse products. This review seeks to systematically and comprehensively detail the fundamentals, analyze the existing problems, summarize the development status and applications, and look toward the future development directions of bioelectrocatalysis. First, the structure, function, and modification of bioelectrocatalysts are discussed. Second, the essentials of bioelectrocatalytic systems, including electron transfer mechanisms, electrode materials, and reaction medium, are described. Third, the application of bioelectrocatalysis in the fields of biosensors, fuel cells, solar cells, catalytic mechanism studies, and bioelectrosyntheses of high-value chemicals are systematically summarized. Finally, future developments and a perspective on bioelectrocatalysis are suggested.
+
+Nucleic Acids Research
+
+Synthetic genome recoding is a new means of generating designed organisms with altered phenotypes. Synonymous mutations introduced into the protein coding region tolerate modifications in DNA or mRNA without modifying the encoded proteins. Synonymous genome-wide recoding has allowed the synthetic generation of different small-genome viruses with modified phenotypes and biological properties. Recently, a decreased cost of chemically synthesizing DNA and improved methods for assembling DNA fragments (e.g. lambda red recombination and CRISPR-based editing) have enabled the construction of an Escherichia coli variant with a 4-Mb synthetic synonymously recoded genome with a reduced number of sense codons (n = 59) encoding the 20 canonical amino acids. Synonymous genome recoding is increasing our knowledge of microbial interactions with innate immune responses, identifying functional genome structures, and strategically ameliorating cis-inhibitory signaling sequences related to splicing, ...
+
+Canadian journal of microbiology, 2021
+
+The last two decades have seen vigorous activity in synthetic biology research and ever-increasing applications of its technologies. However, pedagogical research pertaining to teaching synthetic biology is scarce, especially when compared to other science and engineering disciplines. Within Canada there are only three universities that offer synthetic biology programs; two of which are at the undergraduate level. Rather than take place in formal academic settings, many Canadian undergraduate students are introduced to synthetic biology through participation in the annual International Genetically Engineered Machine (iGEM) competition. Although the iGEM competition has had a transformative impact on synthetic biology training in other nations, the impact in Canada has been relatively modest. Consequently, the iGEM competition is still a major setting for synthetic biology education in Canada. To promote further development of synthetic biology education, we surveyed undergraduate st...
+
+Extremophiles : life under extreme conditions, 2018
+
+Lignocellulosic biomass is a promising feedstock for the manufacture of biodegradable and renewable bioproducts. However, the complex lignocellulosic polymeric structure of woody tissue is difficult to access without extensive industrial pre-treatment. Enzyme processing of partly depolymerised biomass is an established technology, and there is evidence that high temperature (extremely thermophilic) lignocellulose degrading enzymes [carbohydrate active enzymes (CAZymes)] may enhance processing efficiency. However, wild-type thermophilic CAZymes will not necessarily be functionally optimal under industrial pre-treatment conditions. With recent advances in synthetic biology, it is now potentially possible to build CAZyme constructs from individual protein domains, tailored to the conditions of specific industrial processes. In this review, we identify a &#39;toolbox&#39; of thermostable CAZyme domains from extremely thermophilic organisms and highlight recent advances in CAZyme enginee...
+
+Polysaccharide materials are widely applied in different applications including food, food packaging, drug delivery, tissue engineering, wound dressing, wastewater treatment, and bioremediation sectors. They were used in these domains due to their efficient, cost-effective, non-toxicity, biocompatibility, and biodegradability. As is known, polysaccharides can be synthesized by different simple, facile, and effective methods. Of these polysaccharides are cellulose, Arabic gum, sodium alginate, chitosan, chitin, curdlan, dextran, pectin, xanthan, pullulan, and so on. In this current article review, we focused on discussing the synthesis and potential applications of microbial polysaccharides. The biosynthesis of polysaccharides from microbial sources has been considered. Moreover, the utilization of molecular biology tools to modify the structure of polysaccharides has been covered. Such polysaccharides provide potential characteristics to transfer toxic compounds and decrease their r...
+
+SUMMARYMorphogenesis is a precise and robust dynamic process during metazoan embryogenesis, consisting of both cell proliferation and cell migration. Despite the fact that much is known about specific regulations at the molecular level, how cell proliferation and migration together drive the morphogenesis at the cellular and organismic levels is not well understood. Here, using Caenorhabditis elegans as the model animal, we present a data-driven phase field model to compute the early embryonic morphogenesis within a confined eggshell. By using three-dimensional time-lapse cellular morphological information generated by imaging experiments to set the model parameters, we can not only reproduce the precise evolution of cell location, cell shape and cell-cell contact relationship in vivo, but also reveal the critical roles of cell division and cellcell attraction in governing the early development of C. elegans embryo. In brief, we provide a generic approach to compute the embryonic mo...
+
+International Journal of Molecular Sciences
+
+Despite the progress of modern medicine in the last decades, millions of people diagnosed with retinal dystrophies (RDs), such as retinitis pigmentosa, or age-related diseases, such as age-related macular degeneration, are suffering from severe visual impairment or even legal blindness. On the one hand, the reprogramming of somatic cells into induced pluripotent stem cells (iPSCs) and the progress of three-dimensional (3D) retinal organoids (ROs) technology provide a great opportunity to study, understand, and even treat retinal diseases. On the other hand, research advances in the field of electronic retinal prosthesis using inorganic photovoltaic polymers and the emergence of organic semiconductors represent an encouraging therapeutical strategy to restore vision to patients at the late onset of the disease. This review will provide an overview of the latest advancement in both fields. We first describe the retina and the photoreceptors, briefly mention the most used RD animal mod...
+
+Microbial Biotechnology, 2018
+
+Bacterial cellulose is a strong and flexible biomaterial produced at high yields by Acetobacter species and has applications in health care, biotechnology and electronics. Naturally, bacterial cellulose grows as a large unstructured polymer network around the bacteria that produce it, and tools to enable these bacteria to respond to different locations are required to grow more complex structured materials. Here, we introduce engineered cell-to-cell communication into a bacterial cellulose-producing strain of Komagataeibacter rhaeticus to enable different cells to detect their proximity within growing material and trigger differential gene expression in response. Using synthetic biology tools, we engineer Sender and Receiver strains of K. rhaeticus to produce and respond to the diffusible signalling molecule, acylhomoserine lactone. We demonstrate that communication can occur both within and between growing pellicles and use this in a boundary detection experiment, where spliced and joined pellicles sense and reveal their original boundary. This work sets the basis for synthetic cell-to-cell communication within bacterial cellulose and is an important step forward for pattern formation within engineered living materials.
+
+Sign up to get access to over 50 million papers
+
+By clicking Continue, you agree to our Terms of Use and Privacy Policy
+
+Sign up or log in to continue.
+
+By clicking Sign Up, you agree to our Terms of Use and Privacy Policy
+
+Check your email for your reset link.
+
+Your link was sent to
+
+Facebook login is no longer available
+
+Reset your password to access your account:
+
+Please hold while we log you in
+
+Academia.edu Journals
