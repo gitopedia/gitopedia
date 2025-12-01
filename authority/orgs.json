@@ -528,5 +528,15 @@
     "id": "org:u.s.-federal-communications-commission-(fcc)",
     "label": "U.S. Federal Communications Commission (FCC)",
     "aliases": []
+  },
+  {
+    "id": "org:united-nations-environment-programme-(unep)",
+    "label": "United Nations Environment Programme (UNEP)",
+    "aliases": []
+  },
+  {
+    "id": "org:european-union-emissions-trading-system-(eu-ets)",
+    "label": "European Union Emissions Trading System (EU ETS)",
+    "aliases": []
   }
 ]
