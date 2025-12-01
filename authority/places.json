@@ -258,5 +258,30 @@
     "id": "place:lyceum-(athens)",
     "label": "Lyceum (Athens)",
     "aliases": []
+  },
+  {
+    "id": "place:cambridge-(england)",
+    "label": "Cambridge (England)",
+    "aliases": []
+  },
+  {
+    "id": "place:westminster-abbey-(london)",
+    "label": "Westminster Abbey (London)",
+    "aliases": []
+  },
+  {
+    "id": "place:dubai-(united-arab-emirates)",
+    "label": "Dubai (United Arab Emirates)",
+    "aliases": []
+  },
+  {
+    "id": "place:london-(uk)",
+    "label": "London (UK)",
+    "aliases": []
+  },
+  {
+    "id": "place:burj-khalifa",
+    "label": "Burj Khalifa",
+    "aliases": []
   }
 ]
