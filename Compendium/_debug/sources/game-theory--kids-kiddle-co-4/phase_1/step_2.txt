@@ -1,0 +1,61 @@
+# Game Theory
+
+- Game theory facts for kids
+
+- Game theory is a way to study how and why people make decisions. It looks at situations where people's choices affect each other. Think of it like a puzzle where everyone tries to get the best outcome for themselves. This field helps us understand things in science, business, and even politics.
+
+- During the Cold War, leaders in the United States and the Soviet Union sometimes used ideas from game theory. They thought about how their decisions would affect the other country's actions. In this case, the "players" were the two big countries.
+
+- Game theory isn't just about board games.
+- It's about any situation where people or groups make choices based on what they think will happen.
+- For example, it can help explain why businesses make certain decisions.
+- Even when one person's choice only affects themselves, it can still be seen as a "game." This is because they are choosing based on what they value most.
+- Game theory is often used in economics and when people make financial choices.
+
+- The Prisoner's Dilemma Different Scenarios
+
+- The Prisoner's Dilemma
+
+- One famous example in game theory is called the prisoner's dilemma. It shows how cooperating might not always seem like the best choice for a single person.
+
+- Imagine two people are arrested for a crime. The police don't know for sure who did what. Each person is put in a separate room and given a choice:
+
+- If both stay silent, they both get out of jail soon.
+
+- If one person tells on the other (betrays), the one who told goes free. The other person goes to jail for a very long time.
+
+- If both people tell on each other, they both go to jail for a shorter time.
+
+- If you are one of the prisoners and only care about yourself, the best way to get the shortest sentence is to betray the other prisoner. No matter what the other person does, you get a better deal by betraying them.
+
+- If the other prisoner stays silent, betraying means you go free instead of getting a 6-month sentence.
+
+- If the other prisoner betrays, betraying means you get 2 years instead of 10 years.
+
+- So, "betrayal" seems like the smartest move for you alone. This is called the "dominant strategy" because it's the best choice no matter what the other player does.
+
+- The prisoner's dilemma can change if some details are different. For example, if the prisoners (or countries) can talk to each other, they might decide to cooperate. They might agree to stay silent, hoping it will help them in the future. In game theory, this is called a "repeated game."
+
+- Also, if the players care about each other (are altruistic), they might be okay with a longer jail sentence if it helps the other person. This shows that people's feelings can change the "best" choice in a game.
+
+- John von Neumann was a very important person in the early days of game theory.
+
+- John von Neumann was a very important person in the early days of game theory.
+
+- John Nash was a famous mathematician who won a Nobel Prize for his work in game theory.
+
+- John Nash was a famous mathematician who won a Nobel Prize for his work in game theory.
+
+- This graph shows an "equilibrium" in game theory, where no player wants to change their choice.
+
+- This graph shows an "equilibrium" in game theory, where no player wants to change their choice.
+
+- This diagram shows an example of a "Bayesian game," which deals with situations where players don't have full information.
+
+- This diagram shows an example of a "Bayesian game," which deals with situations where players don't have full information.
+
+- In Spanish: Teoría de juegos para niños
+
+- This page was last modified on 17 October 2025, at 10:18. Suggest an edit.
+
+- Enciclopedia Kiddle para niños

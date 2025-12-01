@@ -4513,5 +4513,110 @@
     "id": "topic:climate-justice",
     "label": "Climate Justice",
     "aliases": []
+  },
+  {
+    "id": "topic:game-theory",
+    "label": "Game Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:stackelberg-equilibrium",
+    "label": "Stackelberg equilibrium",
+    "aliases": []
+  },
+  {
+    "id": "topic:historical-evolution-of-game-theory",
+    "label": "Historical evolution of game theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:minimax-theorem",
+    "label": "Minimax Theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:prisoner's-dilemma",
+    "label": "Prisoner's Dilemma",
+    "aliases": []
+  },
+  {
+    "id": "topic:theory-of-games-and-economic-behavior",
+    "label": "Theory of Games and Economic Behavior",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-game-theory",
+    "label": "algorithmic game theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:evolutionary-game-theory",
+    "label": "evolutionary game theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:experimental-economics",
+    "label": "experimental economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:nash-equilibrium",
+    "label": "Nash Equilibrium",
+    "aliases": []
+  },
+  {
+    "id": "topic:zero-sum-games",
+    "label": "Zero-Sum Games",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-zero-sum-games",
+    "label": "Non-Zero-Sum Games",
+    "aliases": []
+  },
+  {
+    "id": "topic:cooperative-games",
+    "label": "Cooperative Games",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-cooperative-games",
+    "label": "Non-Cooperative Games",
+    "aliases": []
+  },
+  {
+    "id": "topic:cournot-model",
+    "label": "Cournot Model",
+    "aliases": []
+  },
+  {
+    "id": "topic:bertrand-model",
+    "label": "Bertrand Model",
+    "aliases": []
+  },
+  {
+    "id": "topic:chicken-game",
+    "label": "Chicken Game",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-agent-systems",
+    "label": "Multi-Agent Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-game-theory",
+    "label": "Quantum Game Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:ultimatum-game",
+    "label": "Ultimatum Game",
+    "aliases": []
+  },
+  {
+    "id": "topic:reinforcement-learning",
+    "label": "Reinforcement Learning",
+    "aliases": []
   }
 ]

@@ -1,0 +1,115 @@
+What Is The History Of Game Theory?
+
+Game Theory wasn’t spawned in a vacuum of ideas. While not formalized as a science until the 1940s, the idea of the theory of games has been implied in a variety of contexts and cultures for many years. In its early years, the emphasis was on games of pure conflict, or “zero-sum games”. Then, around 1950, John Nash developed his “Nash Equilibrium”, a breakthrough that allowed for the study of general games combining both conflict and cooperation. Since then, Game Theory has been applied to problems of biology, politics, sociology, war, and more, and has driven a revolution in economic theory.
+
+While some argue that the field of Game Theory hasn’t seen innovation over the last several decades, the rise of Bitcoin, cryptocurrencies, NFTs, and Web3 has certainly fueled an interest in the topic. Recently, in fact, well-known Bitcoiner Jameson Lopp stated that, “Bitcoin runs on economics and game theory, not emotions and morals.” Now, let’s dig into a bit of the history of the theory of games.
+
+A Game Theory Chronology
+
+– 400-500CE – The Talmud of Babylonia discussed what is now known as the “marriage contract problem” and “anticipated the modern theory of cooperative games”, according to Paul Walker.
+
+– 1713 – Francis Waldegrave wrote a letter to Pierre-Remond de Montmort in which he provided the first-known mini-max mixed strategy solution to a two-person game, which became known as the “Waldegrave Solution.”
+
+– 1838 – Antoine Augustin Cournot published his Researches into the Mathematical Principles of the Theory of Wealth, in the earliest example of a formal game-theoretic analysis of a duopoly.
+
+– 1871 – In his book The Descent of Man, and Selection in Relation to Sex, Charles Darwin gave the first (implicitly) game theoretic argument in evolutionary biology when he argued that natural selection would act to equalize a particular species’ sex ratio.
+
+– 1881 – In Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences, Francis Ysidro Edgeworth proposed the contract curve, which shrinks to the set of competitive equilibria as the number of consumers of each type becomes infinite, as a solution to the problem of determining the outcome of commodity trading between individuals.
+
+– 1913 – Ernst Zermelo published the paper Uber eine Anwendung der Mengenlehre auf die Theorie des Schachspiels in which he discussed winning in chess and proposed his “Zermelo’s Theorem,” as it later became known.
+
+– 1921 – The mathematician Emile Borel suggested a formal theory of games and correctly intuited that Game Theory could be used in economic and military applications.
+
+– 1929 – John von Neumann proved the minimax theorem in his article Zur Theorie der Gesellschaftsspiele, “Theory of Parlor Games.”
+
+– 1930 – F. Zeuthen published his Problems of Monopoly and Economic Warfare, in which he proposed a solution to the “bargaining problem”.
+
+– 1944 – John von Neumann and Oskar Morgenstern’s seminal work, Theory of Games and Economic Behavior, was published. This book provided terminology still in use today and established Game Theory as its own field of study.
+
+– 1950 – At the Rand Corporation, Melvin Dresher and Merrill Flood conduct an experiment that later became known in Game Theory as the “Prisoner’s Dilemma”.
+
+– 1950 – The first introduction to game theory for general readers was published by John McDonald in his Strategy in Poker, Business and War.
+
+– 1950 – The much referenced Contributions to the Theory of Games I was published by H. W. Kuhn and A. W. Tucker.
+
+– 1950 – Extensive Games was published by H.W. Kuhn, which included a formation of extensive form games.
+
+– 1950 – John Nash developed his “Nash Equilibrium”, a breakthrough that allowed for the study of general games combining both conflict and cooperation. “In two papers, Equilibrium Points in N- Person Games (1950) and Non-cooperative Games (1951), Nash proved the existence of a strategic equilibrium for non-cooperative games-the Nash equilibrium-and proposed the “Nash program”, in which he suggested approaching the study of cooperative games via their reduction to non-cooperative form. In his two papers on bargaining theory, The Bargaining Problem (1950) and Two-Person Cooperative Games (1953), he founded axiomatic bargaining theory, proved the existence of the Nash bargaining solution and provided the first execution of the Nash program.” – Paul Walker
+
+– 1953 – Lloyd Shapley published his papers Stochastic Games and A Value for N-Person Games, in which he developed a solution now known as the “Shapley Value”.
+
+– 1953 – H. W. Kuhn published his well-known Extensive Games and the Problem of Information.
+
+– 1959 – The notion of a “Strong Equilibrium” was introduced by R. J. Aumann in the paper Acceptable Points in General Cooperative N-Person Games.
+
+– 1960 – Thomas C. Schelling published The Strategy of Conflict, in which he introduced the idea of a focal-point effect, or “Schelling Point”.
+
+– 1961 – R. C. Lewontin produced Evolution and the Theory of Games in the first explicit application of Game Theory to evolutionary biology.
+
+– 1962 – Martin Shubik’s paper Incentives, Decentralized Control, the Assignment of Joint Costs and Internal Pricing used the “Shapley Value” in one of the first applications of Game Theory to cost allocation.
+
+– 1962 – In an early use of Game Theory in insurance, Karl Borch applied the “Shapley Value” to determine premiums for different classes of insurance in his paper Application of Game Theory to Some Problems in Automobile Insurance.
+
+– 1966 – “Infinitely repeated games with incomplete information” were born in a paper by R. J. Aumann and M. Maschler titled, Game-Theoretic Aspects of Gradual Disarmament.
+
+– 1969 – David Schmeidler introduced “the Nucleolus” in this paper The Nucleolus of a Characteristic Game.
+
+– 1972 – The concept of an “Evolutionarily Stable Strategy (ESS)”, was introduced to evolutionary game theory by John Maynard Smith in his essay Game Theory and The Evolution of Fighting.
+
+– 1975 – The introduction of “trembling hand perfect equilibria” occurred in the paper Reexamination of the Perfectness Concept for Equilibrium Points in Extensive Games by Reinhard Selten.
+
+– 1982 – A. Rubinstein considered a non-cooperative approach to bargaining in his paper Perfect Equilibrium in a Bargaining Model.
+
+– 1982 – John Maynard Smith published his famous Evolution and the Theory of Games.
+
+– 1991 – D. Fudenberg and J. Tirole produced the paper, Perfect Bayesian Equilibrium and Sequential Equilibrium, an early discussion of the idea of a “Perfect Bayesian Equilibrium”.
+
+– 1994 – Douglas G. Baird, Robert H. Gertner and Randal C. Picker produced one of the first book to take an explicitly game theoretic approach to law in, Game Theory and the Law.
+
+– 2008 – Bitcoin: A Peer-to-Peer Electronic Cash System was written by the anonymous Satoshi Nakamoto.
+
+– 2014 – The Miner’s Dilemma was produced by Ittay Eyal, in which he compared open Bitcoin mining pools to the “Prisoner’s Dilemma” of Game Theory.
+
+– 2014 – Bayesian regression and Bitcoin was produced by Shah and Zhang in which Bayesian regression was used to predict the price of Bitcoin.
+
+– 2018 – Bitcoin, the Regression Theorem, and the Emergence of a New Medium of Exchange was produced by Laura Davidson and Walter Block in which they discuss the “ controversy over whether or not the emergence of Bitcoin, as a new medium of exchange, is in accordance with Mises’s regression theorem.”
+
+– 2020 – Balaji S. Srinivasan produced Bitcoin becomes the Flag of Technology, in which he stated that Bitcoin was a Schelling point for entrepreneurs.
+
+Agriculture & Agricultural Materials (38)
+
+Artificial Intelligence (67)
+
+Bitcoin, Blockchain & Web3 Studies (53)
+
+Economics & Game Theory (25)
+
+Energy, Energy Metals & Nuclear Materials (37)
+
+Industrial Gases (57)
+
+Industrial Metals (76)
+
+Management & Marketing (29)
+
+Metalloids, Minerals & Non-Metals (39)
+
+Military Science & History (16)
+
+Nanomaterials, Nanoparticles & High-Entropy Alloys (HEAs) (81)
+
+Philosophy & Sociology (44)
+
+Political Science (103)
+
+Precious Metals: Gold & Silver (18)
+
+Quantum Technologies, Materials & Mechanics (19)
+
+Rare Earth Elements (REEs) (39)
+
+Robots & Robotics (21)
+
+Brian's knowledge of emerging technologies and reputation within the innovation community have been important resources in developing market strategy and expanding reach. - Previous Client
+
+Thanks for subscribing! Please check your email for further instructions.
