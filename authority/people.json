@@ -1958,5 +1958,15 @@
     "id": "person:christof-koch",
     "label": "Christof Koch",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
