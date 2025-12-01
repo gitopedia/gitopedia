@@ -893,5 +893,65 @@
     "id": "topic:historical-terminology",
     "label": "Historical Terminology",
     "aliases": []
+  },
+  {
+    "id": "topic:quantum-field-theory",
+    "label": "Quantum Field Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:theoretical-physics",
+    "label": "Theoretical Physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-technology",
+    "label": "Quantum Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:standard-model",
+    "label": "Standard Model",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-cryptography",
+    "label": "Quantum Cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-key-distribution",
+    "label": "Quantum Key Distribution",
+    "aliases": []
+  },
+  {
+    "id": "topic:bb84",
+    "label": "BB84",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-materials",
+    "label": "Quantum Materials",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-simulators",
+    "label": "Quantum Simulators",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-networks",
+    "label": "Quantum Networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-internet",
+    "label": "Quantum Internet",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-machine-learning",
+    "label": "Quantum Machine Learning",
+    "aliases": []
   }
 ]
