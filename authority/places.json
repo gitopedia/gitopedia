@@ -258,5 +258,50 @@
     "id": "place:lyceum-(athens)",
     "label": "Lyceum (Athens)",
     "aliases": []
+  },
+  {
+    "id": "place:coma-cluster",
+    "label": "Coma Cluster",
+    "aliases": []
+  },
+  {
+    "id": "place:bullet-cluster-(1e-0657-56)",
+    "label": "Bullet Cluster (1E 0657-56)",
+    "aliases": []
+  },
+  {
+    "id": "place:andromeda-galaxy",
+    "label": "Andromeda Galaxy",
+    "aliases": []
+  },
+  {
+    "id": "place:homestake-mine",
+    "label": "Homestake Mine",
+    "aliases": []
+  },
+  {
+    "id": "place:magellanic-clouds",
+    "label": "Magellanic Clouds",
+    "aliases": []
+  },
+  {
+    "id": "place:milky-way",
+    "label": "Milky Way",
+    "aliases": []
+  },
+  {
+    "id": "place:baltimore",
+    "label": "Baltimore",
+    "aliases": []
+  },
+  {
+    "id": "place:chicago-(illinois)",
+    "label": "Chicago (Illinois)",
+    "aliases": []
+  },
+  {
+    "id": "place:ice-river-(wisconsin)",
+    "label": "Ice River (Wisconsin)",
+    "aliases": []
   }
 ]
