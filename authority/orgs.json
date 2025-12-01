@@ -538,5 +538,20 @@
     "id": "org:european-union-emissions-trading-system-(eu-ets)",
     "label": "European Union Emissions Trading System (EU ETS)",
     "aliases": []
+  },
+  {
+    "id": "org:byzantine-empire",
+    "label": "Byzantine Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:seljuk-empire",
+    "label": "Seljuk Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:kingdom-of-jerusalem",
+    "label": "Kingdom of Jerusalem",
+    "aliases": []
   }
 ]
