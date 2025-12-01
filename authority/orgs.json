@@ -193,5 +193,45 @@
     "id": "org:european-union",
     "label": "European Union",
     "aliases": []
+  },
+  {
+    "id": "org:abbasid-caliphate",
+    "label": "Abbasid Caliphate",
+    "aliases": []
+  },
+  {
+    "id": "org:umayyad-dynasty",
+    "label": "Umayyad dynasty",
+    "aliases": []
+  },
+  {
+    "id": "org:fatimid-dynasty",
+    "label": "Fatimid dynasty",
+    "aliases": []
+  },
+  {
+    "id": "org:buyid-emirs",
+    "label": "Buyid Emirs",
+    "aliases": []
+  },
+  {
+    "id": "org:seljuq-turks",
+    "label": "Seljuq Turks",
+    "aliases": []
+  },
+  {
+    "id": "org:ottoman-empire",
+    "label": "Ottoman Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:mongol-empire",
+    "label": "Mongol Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:house-of-wisdom",
+    "label": "House of Wisdom",
+    "aliases": []
   }
 ]
