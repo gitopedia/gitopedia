@@ -1448,5 +1448,35 @@
     "id": "person:john-mcafee",
     "label": "John McAfee",
     "aliases": []
+  },
+  {
+    "id": "person:gaston-planté-(inventor-of-lead-acid-battery)",
+    "label": "Gaston Planté (inventor of lead-acid battery)",
+    "aliases": []
+  },
+  {
+    "id": "person:alessandro-volta",
+    "label": "Alessandro Volta",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-faraday",
+    "label": "Michael Faraday",
+    "aliases": []
+  },
+  {
+    "id": "person:gaston-planté",
+    "label": "Gaston Planté",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-edison",
+    "label": "Thomas Edison",
+    "aliases": []
+  },
+  {
+    "id": "person:lewis-urry",
+    "label": "Lewis Urry",
+    "aliases": []
   }
 ]
