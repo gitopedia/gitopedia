@@ -693,5 +693,35 @@
     "id": "person:gottlob-frege",
     "label": "Gottlob Frege",
     "aliases": []
+  },
+  {
+    "id": "person:jennifer-doudna",
+    "label": "Jennifer Doudna",
+    "aliases": []
+  },
+  {
+    "id": "person:emmanuelle-charpentier",
+    "label": "Emmanuelle Charpentier",
+    "aliases": []
+  },
+  {
+    "id": "person:feng-zhang",
+    "label": "Feng Zhang",
+    "aliases": []
+  },
+  {
+    "id": "person:george-church",
+    "label": "George Church",
+    "aliases": []
+  },
+  {
+    "id": "person:peng-liang",
+    "label": "Peng Liang",
+    "aliases": []
+  },
+  {
+    "id": "person:he-jiankui",
+    "label": "He Jiankui",
+    "aliases": []
   }
 ]
