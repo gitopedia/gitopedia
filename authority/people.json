@@ -1798,5 +1798,15 @@
     "id": "person:gilles-brassard-(physicist)",
     "label": "Gilles Brassard (physicist)",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
