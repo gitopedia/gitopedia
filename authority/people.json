@@ -1383,5 +1383,15 @@
     "id": "person:willem-kolff",
     "label": "Willem Kolff",
     "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-bush",
+    "label": "George W. Bush",
+    "aliases": []
   }
 ]
