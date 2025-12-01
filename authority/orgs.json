@@ -338,5 +338,60 @@
     "id": "org:british-empire",
     "label": "British Empire",
     "aliases": []
+  },
+  {
+    "id": "org:ft-partners",
+    "label": "FT Partners",
+    "aliases": []
+  },
+  {
+    "id": "org:ethereum",
+    "label": "Ethereum",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm's-food-trust",
+    "label": "IBM's Food Trust",
+    "aliases": []
+  },
+  {
+    "id": "org:ripple-(xrp)",
+    "label": "Ripple (XRP)",
+    "aliases": []
+  },
+  {
+    "id": "org:stellar-(xlm)",
+    "label": "Stellar (XLM)",
+    "aliases": []
+  },
+  {
+    "id": "org:medrec",
+    "label": "MedRec",
+    "aliases": []
+  },
+  {
+    "id": "org:microstrategy",
+    "label": "MicroStrategy",
+    "aliases": []
+  },
+  {
+    "id": "org:tesla",
+    "label": "Tesla",
+    "aliases": []
+  },
+  {
+    "id": "org:jpmorgan-chase",
+    "label": "JPMorgan Chase",
+    "aliases": []
+  },
+  {
+    "id": "org:goldman-sachs",
+    "label": "Goldman Sachs",
+    "aliases": []
+  },
+  {
+    "id": "org:u.s.-securities-and-exchange-commission-(sec)",
+    "label": "U.S. Securities and Exchange Commission (SEC)",
+    "aliases": []
   }
 ]
