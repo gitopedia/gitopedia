@@ -253,5 +253,10 @@
     "id": "place:university-of-vienna",
     "label": "University of Vienna",
     "aliases": []
+  },
+  {
+    "id": "place:mars",
+    "label": "Mars",
+    "aliases": []
   }
 ]
