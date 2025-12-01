@@ -1858,5 +1858,15 @@
     "id": "person:john-smith-(economist,-nobel-laureate)",
     "label": "John Smith (economist, Nobel laureate)",
     "aliases": []
+  },
+  {
+    "id": "person:clara-mouawad-(content-writer-at-bcc-research)",
+    "label": "Clara Mouawad (content writer at BCC Research)",
+    "aliases": []
+  },
+  {
+    "id": "person:waclaw-szybalski-(renowned-geneticist)",
+    "label": "Waclaw Szybalski (renowned geneticist)",
+    "aliases": []
   }
 ]

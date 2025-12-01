@@ -1,0 +1,1123 @@
+# Synthetic Biology
+
+- An official website of the United States government
+
+- Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+- Primary site navigation
+
+- View on publisher site
+
+- Permalink PERMALINK Copy
+
+- The Synthetic Nature of Biology
+
+- Carlos G Acevedo-Rocha
+
+- Copyright and License information
+
+- Corresponding author.
+
+- Collection date 2016.
+
+- This article is made available via the PMC Open Access Subset for unrestricted research re-use and secondary analysis in any form or by any means with acknowledgement of the original source.
+- These permissions are granted for the duration of the World Health Organization (WHO) declaration of COVID-19 as a global pandemic.
+
+- For centuries, biology was centred on the analysis of the microscopic and macroscopic worlds, but since the end of the 19th century it progressively adopted synthesis as a means to understand biological systems, strengthened recently by the dawn of synthetic biology.
+- Contemporary synthetic biology is essentially composed of various “research tribes” with different methods, languages, metaphors and agendas willing to understand biological systems and—in particular—to engineer them for solving health, food, energy and environmental problems.
+- Synthetic biology is not only an extension of traditional genetic engineering where Genetically Modified Organisms (GMOs) are produced, but it is also endowed of various elements that allow the emergence of new artificial life forms.
+- In this chapter, a brief history of synthetic biology is presented, followed by a description of its most prominent “tribes” and a proposition for categorising the various engineering approaches currently practiced in the field.
+- An overview of existing and nascent GMOs is also given, including some of their applications as well as biosafety and biosecurity risks.
+- Finally, some challenges, dilemmas and paradoxes in synthetic biology beyond the bench are very briefly examined, particularly with regard to global social justice, democratization of molecular biology, environmental concerns, policy regulation, the GMO debate, media hype, public acceptance, and the issue of resurrecting extinct life.
+
+- Keywords: Genetic Code, Synthetic Biology, Genome Editing, Severe Acute Respiratory Syndrome, Synthetic Biologist
+
+- Synthetic Life Preamble
+
+- The basic unit of life is the cell, with the capacities of genetic heredity and evolution as unique hallmarks.
+- For centuries, biology has been the science of life focused on the analysis of the microscopic (membranes, cells, tissues, etc.) and macroscopic (insects, animals, plants, etc.) worlds, but it has gradually adopted synthesis as a means to understand biological systems since the late 19th century.
+- In 1899, for instance, in a manner that is reminiscent of today’s media, the Boston Herald newspaper reported sensationally the work of the US-German biologist Jacques Loeb as the “creation of life” (Ball 2010).
+- Loeb (1899) is known for his invention of artificial parthenogenesis: embryonic development was induced by treating sea urchin eggs with inorganic salts.
+- Loeb conceived of living organisms as chemical machines, and he aimed for a synthetic science of life capable of forming new combinations from the elements of living nature, similar to the way in which an engineer sees his work, as practical, useful and controlled (Fangerau 2009).
+- If we also recall the “Synthetic method to understand life” by the French professor in medicine, Stéphane Leduc (1853–1939), the “Creation of new species by experimental evolution” by the Dutch botanist Hugo de Vries (1848–1935), or the “Synthetic new species by genetic engineering” by the American botanist Albert Blakeslee (1874–1954), we can see that ideas of “synthetic life” resounded as early as the 1930s (Campos 2009).
+
+- During the second half of the 20th century the field of genetic engineering consolidated, allowing for the emergence of a new era in biotechnology. This was made possible by major breakthroughs including:
+
+- The elucidation of the structure of the molecule responsible for heredity in all living organisms, the double antiparallel deoxyribonucleic acid (DNA) helix, by James Watson and Francis Crick in the 1950s (Nobel Prize in Physiology or Medicine 1962).
+
+- The elucidation of the structure of the molecule responsible for heredity in all living organisms, the double antiparallel deoxyribonucleic acid (DNA) helix, by James Watson and Francis Crick in the 1950s (Nobel Prize in Physiology or Medicine 1962).
+
+- The discovery of restriction enzymes by Werner Arber, Daniel Nathans and Hamilton Smith in the 1960s (Nobel Prize in Physiology or Medicine 1978).
+
+- The discovery of restriction enzymes by Werner Arber, Daniel Nathans and Hamilton Smith in the 1960s (Nobel Prize in Physiology or Medicine 1978).
+
+- The application of the restriction enzymes for DNA recombinant technology by Paul Berg and colleagues in the 1970s (Nobel Prize in Chemistry 1980).
+
+- The application of the restriction enzymes for DNA recombinant technology by Paul Berg and colleagues in the 1970s (Nobel Prize in Chemistry 1980).
+
+- The development of the technology for oligonucleotide synthesis in the 1980s (fundamental work for modern molecular biology not yet awarded a Nobel Prize).
+
+- The development of the technology for oligonucleotide synthesis in the 1980s (fundamental work for modern molecular biology not yet awarded a Nobel Prize).
+
+- The development of the Polymerase Chain Reaction (PCR) for the specific in vitro amplification of DNA by Kary Mullis in the 1980s (Nobel Prize in Chemistry 1993).
+
+- The development of the Polymerase Chain Reaction (PCR) for the specific in vitro amplification of DNA by Kary Mullis in the 1980s (Nobel Prize in Chemistry 1993).
+
+- During these decades two journal articles referred to the term “synthetic biology”: one to highlight the potential impact of recombinant DNA in biotechnological applications (Szybalski and Skalka 1978) and the other to bring up its relevance in the political debate (Roblin 1979).
+- By the 1980s, synthetic biology was defined as “the synthesis of artificial forms of life” (Hobom 1980), but it also was considered synonymous to “bioengineering” by some scientists (Benner and Sismour 2005).
+- During the 1990s, while “designing synthetic molecules” (Rawls 2000) became a common practice biological research especially in the US, the field of metabolic engineering was emerging (Bailey et al. 1990).
+- From a historical perspective, synthetic biology has been evolving from an old genetic (one gene) era towards a younger metabolic (two or more genes) phase, followed by a current genome (dozens of genes) engineering era that will drive us to a “biosystems engineering” (more than one organism) future (Carr and Church 2009).
+
+- In fact, with the increasing sequencing of genomes from different species at the end of the 1990s, the genetic program of complex living systems increasingly came to be regarded as ‘digital’, a view that had been common for some researchers working in the information technology (IT) sector much earlier (Danchin 2009).
+- Since then biology increasingly depends on computers and mathematics for analysing huge amounts of DNA sequencing data (Shendure and Ji 2008).
+- But it was not until the new millennium that the contemporary field of synthetic biology re-emerged from a community of engineers interested in biology.
+- Their migration into biology (Brent 2004) has enabled the application of “engineering principles” like design, modelling, abstraction and modularity of “circuits” in living systems for useful purposes (Endy 2005).
+- The culmination of synthetic biology as an “engineering” discipline has been considered by some bioengineers to be in 2004 during the first international meeting of the BioBricks Foundation at the Massachusetts Institute of Technology (MIT) in Cambridge, USA (Heinemann and Panke 2009).
+
+- Contemporary Synthetic Biology
+
+- In 2014, a scientific committee on behalf of the European Union (EU) suggested defining contemporary synthetic biology as “the application of science, technology and engineering to facilitate and accelerate the design, manufacture and/or modification of genetic materials in living organisms” (Breitling et al. 2015).1 In theory, synthetic biology is about engineering and not about science (de Lorenzo and Danchin 2008), but in practice it is composed of different “research tribes” (Nature Editorials 2014) of scientists belonging to large interdisciplinary groups of biologists, chemists, engineers, computer scientists, physicists, mathematicians, scholars from the social sciences, humanities, artists (Reardon 2011) and Do-It-Yourself (DIY) biologists.2 Figure 1 illustrates the main disciplinary synthetic biology “tribes”, but the reader is referred to previous work where the first research networks in synthetic biology were investigated (Oldham et al. 2012).
+- Importantly, an open dialogue among natural scientists, social scientists and scholars from the humanities and other stakeholders has recently played an important role in shaping a more inclusive development of synthetic biology (Agapakis 2014).
+
+- The different research “tribes” of synthetic biology are, arranged according to the shape of the “penacho” (crest made out of bird feathers) from Moctezuma, the antepenultimate tribe ruler of the Aztec Empire of prehispanic Mexico
+
+- Some practitioners of these fields use their own jargon and metaphors according to their agenda (de Lorenzo 2011).
+- For instance, while the assembly of “parts” (e.g. promoters), into “circuits” (e.g. plasmids) and their implementation in a “chassis” (e.g. bacteria) suggests a predictable engineering view of biology, it is evident that biology is not predictable but rather context-dependent.
+- That is, what make a living cell are not the parts, but the interactions and relationships among them:
+
+- The oracle at Delphi posed a question concerning a boat: If, in time, every plank has rotted and been replaced, is the boat the same boat? Yes, the owner will say, the vessel is not its planks but the relationship between them. (Danchin 2003, backcover page).
+
+- Another example is the metaphor of “genome writing” (Bedau et al. 2010), referring to the full synthesis of a bacterial genome and its use for cellular reprogramming of a related bacterium (Gibson et al. 2010).
+- It is clear that we are able to copy (DNA sequencing) and print (DNA synthesis) genomes, but we are far away from writing and designing genomes de novo because most of them are not completely understood or the function of many protein-coding genes is still unknown, among other limitations (Porcar and Pereto 2012).
+
+- Absolutely, the diversity of the synthetic biology practitioners is vast, and each research “tribe” has an agenda, but instead of promoting particular agendas that could hamper the development of others (i.e. tribalism), it is important to critically assess the various approaches that will evolve into interdependent methodologies in the coming years of research.
+- To this end, synthetic biology can be broadly divided in four main engineering approaches (Fig. 2).
+
+- Proposition of four engineering approaches encompassing all synthetic biology research
+
+- This approach aims to reduce the complexity of extant cells by comparing universal genes and deleting non-essential ones for constructing a minimal genome (Juhas et al. 2011, 2012).
+- These efforts rest on the idea about the existence of a universal minimal genome that gave rise to all living beings based on the assumption of a unique origin of cellular life, the so-called Last Universal Common Ancestor (LUCA) (Ouzounis and Kyrpides 1996).
+- However, recent research points to the possibility that the tree of life composed of eukaryotic and prokaryotic cells (Eubacteria and Archaea) emerged from a community of primordial cells rather than from a single cell (Kim and Caetano-Anolles 2012).
+- Therefore, while the Holy Grail-like quest for the “minimal genome” has become elusive, eliminating many non-essential functions compromises the fitness of an organism and results in “fragile” genomes (Acevedo-Rocha et al. 2013a).
+
+- Another approach in this area involves genome streamlining whereby dispensable DNA elements (mistakenly dubbed “junk DNA” in the past) are deleted to stabilize genomes for optimal performance in many biotechnological applications involving microbes (Leprince et al. 2012; Pal et al. 2014).
+- These efforts coexist with the engineering of genomes (Carr and Church 2009) and epigenomes (Keung et al. 2015) in multiplex or combinatorial manner (Gallagher et al. 2014; Wang et al. 2009; Woodruff and Gill 2011).
+- Importantly, top-down synthetic biology relies on comparative genomics (Abby and Daubin 2007) and proteomics (Nasir and Caetano-Anolles 2013) as well as systems (Lanza et al. 2012) and quantitative (Ouyang et al. 2012) biology.
+- For an example of top-down engineering for the production of hydrogen as clean energy carrier see the chapter by R.
+
+- The “bottom-up” synthetic biology approach primarily aims to create “protocells” and find the transition between the non-living and living matter by assembling three components: first, a metabolism for extracting energy from the environment and to construct, salvage and discard aged building blocks; second, an informational program like nucleic acids to control the system; and third, a container bringing these components together for allowing their coordination (Rasmussen et al. 2009).
+- To achieve this, three important principles of self-organization are taken into consideration: reproduction, replication, and assembly.
+- Reproduction (Sole et al. 2007) refers to the ability of a system to reproduce a similar copy of itself: cells (composed of container and metabolism) or “hardwares” reproduce; whereas replication (Paul and Joyce 2004) happens when a system replicates an exact copy of itself: the genetic program (such as DNA) or “software” is copied.
+- Assembly occurs upon aggregation of vesicles or containers (e.g., Oparin’s coacervates) made of small droplets of organic molecules like lipids (Vasas et al. 2012) or liposomes, membrane-like structures containing phospholipids (Oberholzer and Luisi 2002).
+
+- Protocell research coexists with other in vitro synthetic biology projects aiming at synthesizing minimal cells (Jewett and Forster 2010), metabolic pathways (Billerbeck et al. 2013) or “never-born proteins” (Chiarabelli et al. 2012), as well as at imitating cellular processes (Forlin et al. 2012) such as cellular division (Schwille 2011) and growth (Blain and Szostak 2014).
+- Although no longer considered synthetic biology research by the current EU definition given above (Breitling et al. 2015), this research, mostly fundamental, deserves proper recognition as synthetic biology research because it has potential impact on other synthetic biology areas such as metabolic engineering by the in vitro optimization of synthetic pathways.
+
+- Parallel engineering research is based on the canonical genetic code that employs standard biomolecules including nucleic acids and the twenty amino acids for engineering biological systems.
+- It includes the standardization of DNA parts (Endy 2005), engineering of switches (Benenson 2012), biosensors (Salis et al. 2009; Zhang and Keasling 2011), genetic circuits (Brophy and Voigt 2014), logic gates (Win and Smolke 2008), and cellular communication operators (Bacchus and Fussenegger 2013) for a wide range of applications in biocomputing (Wang and Buck 2012), bioenergy (Malvankar et al. 2011), biofuels (Kung et al. 2012; Peralta-Yahya et al. 2012), bioremediation (de Lorenzo 2010; Schmidt and de Lorenzo 2012), optogenetics (Bacchus et al. 2013) and medicine (Ruder et al. 2011; Weber and Fussenegger 2012).
+- Most of these applications conventionally rely on the use of one or more vectors (or plasmids) for controlling the expression of two or more genes and/or proteins.
+- Plasmids are small, circular, double-strand DNA molecules that can replicate independently from chromosomal DNA, mostly found in prokaryotic but also sometimes in eukaryotic cells.
+
+- A large number of practitioners in this field are engineers aiming to abstract the complexity of biological systems into “parts”, “devices” and “systems” whose interactions could be predicted according to the dictum “what I cannot create, I do not understand” by Richard Feynman (Keller 2009).
+- The migration of engineers into biology resulted in the first model-based design of genetic circuits (i.e., “circuit engineering”) based on simple mathematical models such as the toggle switch and the “repressilator” (Cameron et al. 2014).
+- In some of these collaborations biologists and engineers work together with computer scientists to develop the next generation computer aided design (CAD) software for engineering-based synthetic biology (MacDonald et al. 2011).
+- In summary, the main goal of bioengineers is to predict the behaviour of living systems for the sake of safety applications, as Drew Endy says:
+
+- Engineers hate complexity. I hate emergent properties. I like simplicity. I don’t want the plane I take tomorrow to have some emergent property while it’s flying.3
+
+- Also known as “chemical synthetic biology” (Chiarabelli et al. 2012), this approach primarily aims to modify or expand the genetic codes of living systems with unnatural DNA bases (Benner and Sismour 2005; Pinheiro and Holliger 2012) and/or amino acids (Budisa 2004; Liu and Schultz 2010).
+- This subarea also relates to xenobiology, an emergent area at the interface of synthetic biology, exobiology, systems chemistry and origin of life research (Schmidt 2010).
+- In the last decades, scientists have synthesized molecules structurally related to the canonical bases of DNA to test whether those “alien” or xeno (XNA) molecules could be used as carriers of genetic information (Kwok 2012).
+- Similarly, the DNA sugar (desoxyribose) has also been replaced by noncanonical moieties.
+
+- The genetic code can also be modified or expanded to express information beyond the 20 canonical amino acids of proteins.
+- One strategy uses orthogonal enzymes and a transfer RNA adaptor from an unrelated organism to incorporate a given unnatural, noncanonical or xeno amino acid (XAA) into one or more proteins at one or more specific sites (Budisa 2014).
+- The orthogonal enzymes are generated by “directed evolution”, a method that consists of repeated cycles of gene mutagenesis (genotypic diversity generation), screening or selection (of a particular phenotypic trait), and amplification of an improved variant for the next iterative round (Reetz 2013).
+- Dozens of XAAs have been successfully incorporated into proteins in bacteria, yeast and human cell lines (Liu and Schultz 2010), but also in more complex organisms like worms and flies (Chin 2014).
+- Directed evolution also enables the development of orthogonal ribosomes (based on canonical DNA sequence changes) to facilitate the incorporation of XAAs into proteins (Wang et al. 2007) or of “mirror life”, i.e., biological systems endowed with biomolecules composed of enantiomers of opposite chirality (Renders and Pinheiro 2015; Zhao and Lu 2014).
+
+- Another method dubbed “experimental evolution” (Kawecki et al. 2012) pushes microorganisms to incorporate XNAs into their genomes (Marlière et al. 2011) or XAAs into their proteomes by serial culturing (Yu et al. 2014).
+- Orthogonal engineering based on experimental evolution also aims for engineering cells that can survive in asteroids, on the moon and even on Mars (Menezes et al. 2015).
+- Although the changes at the DNA level are likely to be canonical, cells suitable for non-terrestrial habitats could be considered as orthogonal life.
+- For more details regarding the colonization of Mars with the aid of synthetic microbes, see chapter by C.
+
+- Thanks to the technological advances in molecular biology, organic chemistry, and engineering in the last decades, the ease and speed of genetic modification has enabled the development of emergent Genetically Modified Organisms (GMOs).
+- For example, the engineering-inspired design of GMOs has resulted in the crowdsourcing of Genetically Engineered Machines (GEMs), while the decreasing costs of synthetic DNA has enabled the reprogramming of Genomically Designed Organisms (GDOs).
+- More recently, cutting-edge molecular tools have allowed for the arrival of Genomically Edited Organisms (GEOs).
+- Finally, evolutionary approaches have accelerated the development of not only Genomically Recoded Organisms (GROs) harbouring expanded genetic codes, but also Chemically Modified Organisms (CMOs) endowed with unnatural DNA bases or amino acids.
+- In this work, the three first definitions are introduced, whereas the two latter ones have already been proposed by others (Table 1).
+
+- The various types of emergent GMOs
+
+- a http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0018. Accessed 19th June 2015
+
+- In the following sections, the various types of GMOs (mostly microbial4) are introduced together with methods for their development and potential applications in biotechnology.
+- Since GMEs, GEOs, GROs are modified using synthetic DNA, all these fall under the GMO definition (see next subsection).
+- CMOs can be considered GMOs or not GMOs depending on whether their genetic changes are only induced by genetic modification or serial cultivation, respectively.
+- The main purpose of showing existing and emergent types of GMOs and non-GMOs (e.g.
+- CMOs) is to illustrate the most recent efforts undertaken by particular research “tribes” and to categorize them according to their engineering approach(es) (for an overview, see Fig. 3).
+- The biosafety and biosecurity issues that these synthetic life forms may represent are subsequently highlighted.
+- In this manner, it is easier to explore the context of a particular GMO/CMO regarding its history, origin, methodology, possible applications and risks in order to enable a better understanding of the organism and possibly an accurate technological assessment.
+
+- The synthetic nature of biology.
+- Genetically modified organisms (GMOs) are produced using old and modern genetic engineering tools based on standard nucleic and amino acids as building blocks via top-down (up), bottom-up (down), parallel (left) and orthogonal (right) engineering.
+- Engineering-based GMO design and construction has resulted in the crowdsourcing of Genetically Engineered Machines (GEMs) through the famous international GEMs competition (see below).
+- In the bottom-up approach, Genomically Designed Viruses (GDVs) and Organisms (GDOs) can be reprogrammed by assembling commercial synthetic DNA, which can be subsequently transplanted into living cells.
+- The first GDO reported was Mycoplasma, whose genetic code—do not confound with genetic program—was not altered, in contrast to yeast, whose genetic code (and program) is being modified in order to accommodate unnatural amino acids (see below).
+- Genomically Edited Organisms (GEOs) are GMOs whose genetic material has been modified employing cutting-edge molecular tools.
+- Genomically Recoded Organisms (GROs) are GEOs whose genetic code has been modified to accommodate unnatural amino acids (and perhaps unnatural DNA bases in the future).
+- Finally, Chemically Modified Organisms (CMOs) are composed of unnatural nucleic acids and/or amino acids.
+- Note that overlap between top-down (up) and bottom-up (down) is not shown because no truly synthetic cell, in which all components are synthesized in the lab and assembled into a living organism, thus far exists.
+- There is also no overlap between engineering—(left) and evolutionary—(right) based approaches because the first aims to predict function from structure, whereas the latter does not predict function because this is extremely challenging if non-additive effects are taken into account (for a discussion on this topic, see Silver et al. 2014)
+
+- Genetically Modified Organisms
+
+- The EU law defines Genetically Modified Organisms (GMOs) as living entities whose “genetic material has been changed in a way that does not occur under natural conditions through cross-breeding or natural recombination”.5 Internationally, the “Cartagena Protocol on Biosafety to the Convention on Biological Diversity”, which includes 170 countries, legally considers GMOs as Living Modified Organisms (LMOs), that is, “any living organism that possesses a novel combination of genetic material obtained through the use of modern biotechnology”.6 The forerunners of genetic engineering, Paul Berg, Stanley Norman Cohen and Herbert Boyer, developed molecular tools to introduce foreign genes into bacteria, providing the basis for the development of GMOs.
+- In 1972, Berg combined DNA from the gram-negative model bacterium Escherichia coli and the Simian Virus 40 in an exogenous plasmid or vector (Jackson et al. 1972).
+- The following year Cohen demonstrated that DNA from the gram-positive bacterium Staphylococcus could be introduced and stably propagated into E. coli (Chang and Cohen 1974).
+- This experiment gave rise to the first GMO.
+- The next year, Cohen and Boyer reported the creation of the first E. coli endowed with a transgene originally from the South African clawed frog Xenopus (Cohen 2013), resulting in the first transgenic organism.
+- By using plasmids as gene vectors, these proof-of-principle studies showed that genetic material could be transferred not only between closely related species but also across unrelated ones.
+
+- These experiments prompted Paul Berg to call for a moratorium on recombinant DNA technology to assess its risks (see below), while Cohen and Boyer urged to file a patent for exploiting recombinant DNA technology.
+- At the same time, many biotechnology companies were founded, in 1976, for instance, Boyer co-founded Genentech, one of the first biotech companies that was able to “engineer” GMOs to produce human insulin (Goeddel et al. 1979b) and growth hormone (Goeddel et al. 1979a), among other blockbuster substances including alpha interferon, erythropoietin, and tissue plasminogen activator (Rasmussen 2014).
+- Nowadays, many patients around the globe with diabetes type 1, growth problems and immunological disorders benefit from taking these hormones, sometimes on a daily basis. “For his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA”, Paul Berg was awarded the Nobel Prize in Chemistry 1980, half of which was shared with Walter Gilbert and Frederick Sanger “for their contributions concerning the determination of base sequences in nucleic acids”.7
+
+- This brief introduction to the history of genetic engineering shows not only that scientists have been tinkering with the genomes of microorganisms for almost half a century, but also that this would not have been possible without the development of molecular biology, which was essentially the result of the interdisciplinary collaboration between biologists, physicists, and mathematicians during the second half of the 19th century (Morange 2009).
+
+- During the 1990s, the field of metabolic engineering (two or more genes) emerged as an extension of genetic engineering (one gene) when the chemical engineer James Bailey realized that the microbial production of chemicals and antibiotics could be optimised if the metabolic resources of a cell could be adjusted, concluding that
+
+- The following year, Bailey analysed useful molecules that could be successfully produced in microorganisms (Bailey 1991), while others proposed that the modifications of the carbon metabolic flux should occur only at the principal node of the primary metabolic networks to overproduce desired metabolites (Stephanopoulos and Vallino 1991).
+- These remarkable reviews clearly identified metabolic engineering as an extension of genetic engineering, laying a foundation for the successful field that now allows the production of biofuels (Alper and Stephanopoulos 2009), pharmaceuticals, fine- and bulk-chemicals (Keasling 2010).
+
+- Jay Keasling’s most recent breakthrough has been the production of a precursor of artemisinin in engineered yeast.
+- Artemisinin is chemically known as a sesquiterpene lactone endoperoxide, the drug of choice to treat malaria, preferentially in combination with other derivatives.
+- Every year, 500 million people become infected with this disease, and 1 million persons die of it in the developing world, mostly in sub-Saharan Africa, Southeast Asia and Latin America.
+- Every 30 s, on average, a child dies from malaria worldwide.
+- Artemisinin is obtained from the leaves of the plant Artemisia annua, also known as sweet wormwood.
+- Using its leaves, a simple tea used to be prepared to treat fever, including malaria, in the traditional Chinese medicine but it was not until the 1970s that it was rediscovered for modern medical science.
+- Chinese scientists extracted the active compound artemisinin (known as arteannuin in the past or qinghaosu in Chinese).
+- However, this drug remained largely unknown to the Western scientific community until 1979 when a review of its application was published in English language (Group 1979).
+- In fact, it took a while for the rest of the world—and especially the World Health Organization (WHO)—to discover the potential of the antimalarial drug (Tu 2011).
+- Unfortunately, it has been argued that there is a global supply shortage of artemisinin owing to an increasing demand and to the environmental factors affecting the harvest of the 14-week-growing-plant, primarily in Chinese and Vietnamese but more recently in Indian and East African farms (Enserink 2005), yet this is a matter of controversy.8 Artemisinin can also be chemically synthesized, but it is very expensive and non-affordable to most of the patients.
+
+- To come up with another source of artemisinin, Keasling and colleagues ingeniously inserted several genes from different species into the baker’s yeast Saccharomyces cerevisiae, which, fed solely by sugar and basic nutrients, is pushed to start a 3-day-culture production of artemisic acid, a precursor that can be chemically oxidized by standard procedures to artemisinin (Ro et al. 2006).
+- The process of producing artemisinin has been shortened to only 14 days, but this took Keasling and colleagues many years of research with both successes and failures (Keasling 2008).
+- For example, suboptimal expression of exogenous genes (having different genetic code usage) or volatility of molecules were encountered, but these problems were solved by optimizing synthetic genes (Martin et al. 2003) and reaction conditions (Newman et al. 2006).
+- In the end, Keasling’s group was able to produce significant levels (>100 mg/L) of artemisic acid by engineering the mevalonate metabolic pathway with a total of 11 enzymes from E. coli, the yeast S. cerevisiae and the plant A. annua in E. coli (Fig. 4) (Chang et al. 2007).
+
+- Keasling’s metabolic pathway for semi-synthetic artemisinin.
+- Upon glucose take-up, E. coli transforms it into acetyl-CoA via the glycolysis pathway.
+- The introduction of 11 enzymes from E. coli (brown; 1, 7, 8), S. cerevisiae (orange; 2–6) and A. annua (green; 9–11) allows the conversion of acetyl-CoA via the mevalonate pathway into artemisic acid, which can be thereafter chemically converted to artemisinin.
+- Enzymes: 1 AtoB, acetoacetyl-CoA thiolase; 2 HMGS, hydroxymethylglutaryl-CoA (HMG-CoA) synthase; 3 tHMGR, truncated HMG-CoA reductase; 4 MK, mevalonate kinase; 5 PMK, phosphomevalonate kinase; 6 MPD, mevalonate diphosphate decarboxylase; 7 idi, isopentenyl diphosphate isomerase; 8 ispA, Farnesyl pyrophosphate synthase; 9 ADS, amorpha-4,11-diene synthase; 10 CPR, cytochrome p450 redox partner; and 11 P450, monooxygenase (CYP71AV1) (Color figure online)
+
+- The metabolic pathway engineered in E. coli was later transferred to a genetically stable yeast strain that can efficiently transport out of the cells up to 115 mg of artemisic acid per litre of culture, allowing therefore a simple and inexpensive purification process (Ro et al. 2006).
+- Recently, German scientists reported the development of an optimized system where the three-step chemical synthesis from artemisic acid to artemisinin can be reduced to a more economical and efficient single-step based solely on oxygen and light (Levesque and Seeberger 2012).
+- This achievement should contribute to increasing the yields (hormones are produced in the gram range) while reducing artemisinin costs.
+- A dose cost $2.40 United States (US) dollars several years ago, but the alliance of the first non-profit pharmaceutical company “Institute for OneWorld Health” and the company co-founded by Keasling “Amyris Biotechnologies” planed to decrease the dose costs ten-fold (ca. $0.25) with aid of $42.6 million from the Bill and Melinda Gates Foundation (Towie 2006), and the cooperation with the French international company Sanofi-Aventis for scaling-up the industrial process.
+- Thus far, more than 1.7 million of semi-synthetic artemisinin doses have been shipped to malaria-endemic countries in Africa including Burkina Faso, Burundi, Democratic Republic of the Congo, Liberia, Niger, and Nigeria.9
+
+- Genetically Engineered Machines
+
+- Genetically Engineered Machines (GEMs) are herein defined as GMOs that emerge yearly thanks to a crowd-sourcing approach: The international Genetically Engineered Machines (iGEM) competition.
+- Undergraduate students pay a large registration fee for getting standardized DNA parts or “BioBricks” (BioBricks can be thought of as a type of DNA lego; for a discussion about the “playing” component in synthetic biology, see chapter by L.
+- Litterst in this book), mostly originated from the bacterium E. coli, at the Registry of Standard Biological Parts (http://parts.igem.org) in MIT to construct at home, in less than a year, biological systems composed of “parts”, “devices” and “systems” (Smolke 2009).
+- For example, the bacterium E. coli has been converted into “Eau D’e coli”, bacteria that smell like wintergreen or bananas depending on the growth state (MIT iGEM team in 2006); E. chromi, bacteria that glow in different colours (Cambridge iGEM team in 2009); or E. cryptor, a “hard-drive” device to store information (CU-Hong Kong iGEM team in 2010).
+- The main difference between GEMs and GMOs is that the former ones are built with BioBricks and following engineering principles, whereas the latter ones are constructed without these two requirements.
+- The idea behind this distinction is to emphasize the development of potential applications based on GEMs that can be predictable, in contrast to “standard” GMOs where this endeavour is not per se attempted from the onset.
+
+- Besides promoting creativity and innovation, iGEM serves as an international platform for fostering in young students self-confidence and awareness of the ethical, legal, and social implications of their synthetic biology project beyond the bench, i.e., “human practices” or more recently “policy and practices”.
+- The first real iGEM competition took place in 2004, when 5 teams (Boston University, Caltech, MIT, Princeton University, and The University of Texas at Austin) participated, depositing a total of 50 parts.
+- The University of Texas team designed the first biological photographic film with a bacterial lawn displaying the phrase “Hello World”10 (Levskaya et al. 2005).
+- Since its first meeting, the iGEM competition has grown steadily in the number of countries, teams and delivered parts (Table 2).
+
+- Evolution of the iGEM competition
+
+- http://igem.org. Accessed 4th June 2015
+
+- n.a.y Not available yet
+
+- Interestingly, most of the successful iGEM teams tend to avoid using the registry parts and prefer to deposit new parts, perhaps because a major portion of the parts have not been tested or do not work as expected (Vilanova and Porcar 2014).
+- These facts illustrate not only the context-dependency of biology and the importance of molecular relationships beyond synthetic DNA, but also the challenges that the iGEM competition will meet in the coming years: There is a need to better characterize the existing parts and to increase their quality, and there are additional issues regarding industrial applicability, team judgement and research funding transparency (Vilanova and Porcar 2014).
+- From all the winners at each competition, only a few projects have been published, and even less have a potential industrial application (Vilanova and Porcar 2014).
+- This is why the application of engineering principles in biology based on standardized DNA parts is a challenging endeavour that requires understanding the complexity of gene networks and variability of each cell within heterogeneous cellular populations (Kwok 2010).
+
+- Genomically Designed Viruses and Organisms
+
+- Genomically Designed Viruses (GDVs) and Genomically Designed Organisms (GDOs) are viruses or living entities, respectively, that have been reprogrammed using a genome that was copied from nature into a computer and later on designed to be bottom-up synthetized by chemical means.
+- In this work, these two new definitions are introduced to differentiate from other GMOs in which the genome is borrowed from existing organisms or viruses and is not entirely synthetic (i.e., top-down engineering).
+- The first genome that was chemically synthesized was that of the poliovirus (Cello et al. 2002) that infects humans, followed by that of the bacteriophage Phi X174 (Smith et al. 2003) that normally infects E. coli.
+- The genome of the 1918 Spanish’ influenza pandemic virus was then synthesized (Tumpey et al. 2005), followed by other human retroviruses (Wimmer et al. 2009).
+- All these GDVs were capable of infecting cells, suggesting that chemically synthesized genomes of higher organisms would be functional if these could be inserted into living cells.
+
+- In 2008, the Venter lab reported the synthesis of the complete genome of 582,970 base pairs (bps) of the bacterium Mycoplasma genitalium (Gibson et al. 2008), giving rise to the first GDO.
+- In parallel trials, Venter’s team transplanted the natural genome of M. mycoides into M. capricolum, conferring the latter cell the identity of the former upon cell division and genetic selection (Lartigue et al. 2007).
+- Mycoplasmas are parasitic bacteria that cause respiratory and inflammatory diseases in humans.
+- They lack a cell wall but the reason why these bacteria were chosen as model organisms is because they bear the smallest genomes among all bacteria that can support cellular growth in the laboratory.
+- After the two aforementioned breakthroughs, the next logical step was to combine them: In 2010, Gibson et al. reported the genome synthesis of M. mycoides genome (1,080,000 bps) and its transplantation into M. capricolum, reprogramming again the latter cell into the former, but the difference being that in the genome of the reprogrammed cells there were four encrypted watermark sequences (Fig. 5), indicating the names of 46 persons involved in the project, an email address, a website and three famous quotations: (1) James Joyce: “To live to err, to fall, to triumph, to recreate life out of life”; (2) Robert Oppenheimer: “See things not as they are, but as they might be”; and (3) Richard Feynman: “What I cannot build, I cannot understand” (Gibson et al. 2010).11
+
+- The genome of M. mycoides JCVI-syn1.0 built in vitro by assembling purchased DNA fragments, following by in vivo assembly using yeast.
+- The designed genome was then transplanted into the parent bacterium M. capricolum, which upon replication in selective media acquired the phenotype of M. mycoides.
+- The genome JCVI-syn1.0 contained four encrypted watermarks sequences indicated by numbers
+
+- Venter (2013) himself called these the first synthetic cells whose parents are a computer.
+- However, the computer did not create the genome sequence; it served to store the sequence retrieved from nature upon DNA sequencing.
+- Nor are the cells synthetic: only their DNA, which forms about 1 % of the cell dry weight, is synthetic.
+- Nevertheless, this experiment has been regarded as “a defining moment in the history of biology and biotechnology”12 because DNA controls the hereditary information and this raises the possibility of controlling and understanding life by using synthetic DNA (Bedau et al. 2010).
+
+- The synthesis of genomes is possible via “synthetic genomics” (Montague et al. 2012), an established field that emerged with the technological synergies between synthetic organic chemistry and engineering for high-throughput DNA synthesis (Carlson 2009).
+- Synthetic genomics, in turn, has enabled the emergence of not only other GDOs including the baker’s yeast (Annaluru et al. 2014) and the bacterium Vibrio cholera (Messerschmidt et al. 2015), but also tools in basic research for assembling efficiently synthetic DNA (Gibson 2011).
+- Last but not least, synthetic genomics promises to revolutionize the medical sector by reducing the time needed for the production of synthetic flu vaccines in case of pandemics from months to days (Okie 2011).
+- Another health care application may be the development of synthetic bacteriophages (bacteria-killing viruses) given the recent emergence of antibiotic resistance, a huge global public health concern.
+- Phage therapy is an old treatment that dates back to more than one century, but with the discovery of antibiotics during the first half of the 20th century; its application remained limited in the Western world (Reardon 2014).
+- Thus, there is a potential in synthetic genomics for developing innovative phage therapies, but limited host range and side effects of bacterial lysis remain, among other non-technical issues (Citorik et al. 2014).
+
+- Genomically Edited Organisms
+
+- Genomically Edited Organisms (GEOs) are herein defined as those GMOs whose genomes have been modified with advanced molecular engineering tools.
+- Genome editing can be performed in small or large scale as when respectively mutating a single-nucleotide polymorphism to correct a disease genotype (e.g. sickle-cell anemia) like in human cells (Charpentier and Doudna 2013; Doudna and Charpentier 2014; Gaj et al. 2013), or genome regions in multiplex for the combinatorial optimization of metabolic pathways in microbes (Gallagher et al. 2014; Wang et al. 2009; Woodruff and Gill 2011).
+- GEOs are also GMOs but the reason behind this differentiation is to indicate the methodological differences: GMOs are usually modified using natural or synthetic DNA sequences encoded in plasmids, but modifying the chromosomal DNA (using or not plasmids) in GEOs usually involves the employment of synthetic DNA that is bought online from biotech companies.13
+
+- Chromosomal modifications typically include DNA deletions (knock-out), additions (knock-in), or replacements that are crucial in fundamental research for understanding the function of a given gene, protein and/or genetic element in a physiological context.
+- The foundations of genome editing can be traced down to the discovery of the cellular systems in yeast and mammalian cells that repair double-strand DNA breaks (DSBs) that otherwise would be lethal due to cellular death or oncogenic mutations (Doudna and Charpentier 2014).
+- The repair of DSBs is possible by the activation of homologous recombination (HR), which is a “copy and paste” mechanism that requires an undamaged copy of the homologous DNA segment as a template for copying the DNA sequence along the break (Porteus and Carroll 2005).
+
+- In the past, UV radiation, chemicals and restriction enzymes were used to induce DSBs, but these were random and could not be directed to predetermined sites (Jasin 1996).
+- Nevertheless, the pioneering work of Mario Capecchi, Martin Evans and Oliver Smithies lead to a basic understanding of the HR mechanism for repairing DSBs.
+- In 2007, they shared The Nobel Prize in Physiology or Medicine “for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells”.14 Since the 1990s, new genetic tools have been developed for modifying genomes more precisely, including rare-cutting homing endonucleases (Jasin 1996), Zinc-Finger Nucleases (ZFNs) (Porteus and Carroll 2005) and Transcription Activator-Like Effector Nucleases (TALENs) (Sun and Zhao 2013).
+- By specifically inducing DSBs, these tools enable high HR that can be used in basic biology and to correct various disease-causing mutations associated with haemophilia, sickle-cell disease, and other deficiencies (Gaj et al. 2013).
+
+- Although ZFNs and TALENs nucleases provide access to most of the recent health care applications (Gaj et al. 2013), both depend on custom-made proteins for modifying each DNA target, which limits their use due to large costs when multiple genes are mutated simultaneously, as is necessary in more complex diseases involving multiple genes (Cox et al. 2015).
+- Nonetheless, a new tool dubbed CRISPR-Cas9 has recently emerged for editing genes in multiplex with excellent HR efficiencies comparable to ZFNs and TALENs, but lower costs thanks to the programmability at the RNA level (Mali et al. 2013).
+- Composed of clustered regularly interspaced short palindromic repeats (CRISPRs) of DNA and CRISPR-associated genes (Cas) along the genome, the CRISPR-Cas is an immune system that evolved in bacteria and archaea to combat hostile viruses and foreign plasmids by inducing site-specifically DSBs (Doudna and Charpentier 2014).
+- The type-II CRISPR-Cas9 system has been used for deleting, adding, activating and suppressing target genes with great efficiency in many organisms (Fig. 6) (Charpentier and Doudna 2013; Doudna and Charpentier 2014).
+- The technology has allowed the correction of genetic mutations of diseases such as cataracts and cystic fibrosis as well as the development of cancer models in animal tissues (Doudna and Charpentier 2014), and more recently the generation of human cells resistant to infection by HIV, the Human Immunodeficiency Virus (Liao et al. 2015).
+
+- The CRISPR-Cas9 technology has been used to modify the genomes of bacteria, yeast, fungi, nematodes, salamanders, frogs, fruit flies, zebrafish, mice, rats, plants, crops (rice, wheat, sorghum, tobacco), pigs, animal and human cell lines as well as embryonic stem cells.
+- The Streptococcus pyogenes Cas9 nuclease (dark blue) in complex with single-guided RNA (green) and its target DNA (red) was made using the 3D crystal structure PDB (Protein Data Bank) file 4OO8 (Nishimasu et al. 2014) and the PyMOL Molecular Graphics System, version 1.5.0.4 Schrödinger, LLC (Color figure online)
+
+- In just two years, (since the beginning of 2013 until the end of 2014) examples of the application of the CRISPR-Cas9 technology in both basic and applied research have been reported and reviewed in more than 1000 publications (Doudna and Charpentier 2014).
+- The revolutionary Cas9 technology has already been compared to the restriction enzymes and the PCR, essential tools in modern molecular biology research, because it promises to accelerate the editing of genomes across the medical, agricultural, environmental, pharmaceutical, chemical, and biotechnological sectors.
+
+- Genomically Recoded Organisms
+
+- Genomically Recoded Organisms (GROs) were introduced by the Church lab at Harvard (see below) referring to microbes whose genetic codes have been recoded using advanced genomic tools like those used for GEOs.
+- The genetic code describes a set of rules relating the order of three DNA bases (codon) and a corresponding amino acid to synthesize proteins across all life forms; thus, establishing a universal link between information storage and execution (Fig. 7).
+- For example, a small peptide composed of the amino acids MASTER can be coded at the RNA level by the codons AUG/GCC/AGC/ACC/GAA/AGA, but this order can be modified to synonymous codons (AUG/GCA/UCU/ACG/GAG/CGG) with the same amino acid meaning: MASTER.
+- In addition, non-synonymous ones can also be introduced when another codon (e.g., the amber stop codon UAG) is used to incorporate a non-standard amino acid X as follows: MAXTER (ATG/GCA/UAG/ACG/GAG/CGG).
+
+- The universal genetic code in RNA format (bases: AUGC) [RNA uses adenine (A), guanine (G) cytosine (C) and uracil (U) as bases, whereas DNA uses AGC and thymine (T)].
+- The 20 canonical amino acids are encoded by 61 sense codons.
+- Translation starts (Black right-pointing pointer) at AUG codon and terminates (Black square) at stop codons UAA (ochre), UGA (opal), or UAG (amber).
+- Amino acids are arranged according to physicochemical properties: polar (green; T, N, S, G, Q, Y, C), nonpolar (red; M, I, A, V, P, L, F, W), basic (blue; K, R, H) and acidic (pink; D, E): M methionine (AUG); I isoleucine (AUA/G/C); T threonine (ACG/A/C/U); K lysine (AAA/G); N asparagine (AAC/U); S serine (AGU/C and UCG/A/C/U); R arginine (AGA/G and CGG/A/C/U); G glycine (GGU/C/A/G); D aspartate (GAU/C); E glutamate (GAA/G); A alanine (GCU/C/A/G); V valine (GUU/C/A/G); H histidine (CAU/C); Q glutamine (CAA/G); P proline (CCG/A/C/U); L leucine (CUG/A/C/U and UUA/G); F phenylalanine (UUU/C); Y tyrosine (UAU/C); C cysteine (UGU/C); and W tryptophan (UGG).
+- Numbers indicate posttranslational modifications, for more details see Acevedo-Rocha (2010) (Color figure online)
+
+- In 1968, Holley, Khorana and Nirenberg shared the Nobel Prize in Physiology or Medicine “for their interpretation of the genetic code and its function in protein synthesis”.15 In the same year, Crick called the genetic code a “frozen accident”, implying that “no new amino acid could be introduced without disrupting too many proteins” (Crick 1968, p. 375).
+- Since the 1990s, however, the incorporation of XAAs into proteins has been thawing the “universal” genetic code.
+- There are two basic ways to engineer the genetic code (Bacher et al. 2004): The components involved in the synthesis of proteins are engineered by directed evolution to allow the recognition of specific XAAs (Liu and Schultz 2010).
+- But in these cases the genetic code changes are usually non-heritable, in contrast to the second approach, in which organisms (so far bacteria) are pushed to incorporate XAAs into their proteomes via experimental evolution, resulting in progeny with heritable changes (see CMOs below).
+- Both approaches, nonetheless, could be combined to render offspring dependent on XAAs for survival.
+
+- GROs are relatively new organisms that were introduced by George Church and colleagues at Harvard by exploiting the mechanism of HR in microbes.
+- His team built up a device that automates the process of gene delivery, targeting and replacement as well as microbial recovery and growth called “Multiplex Automated Genomic Engineering” (MAGE) (Wang et al. 2009).
+
+- Although this machine could accelerate the fields of metabolic and genome engineering for the microbe-based production of biofuels, pharmaceuticals and other chemicals, it is very expensive, and it is still very challenging to know with accuracy what gene(s) and/or protein(s) to target for mutagenesis.
+
+- Since 2011, nonetheless, Church and colleagues have reported five “tour-de-force” studies using MAGE with another application in mind: First, they exchanged 314 out of 321 UAG stop codons to synonymous UAA stop ones in several E. coli strains, but with some technical hurdles (Isaacs et al. 2011).
+- Second, after overcoming the technical difficulties, they were able to recombine all strains and delete completely the 321 UAG codons as well as the protein that terminates protein synthesis at this signal for yielding the first GRO: E. coli C321.ΔA.
+- This bacterium exhibited improved efficiencies for incorporating XAAs into various proteins and increased resistant against infection by the bacteriophage T7 compared to the parental E. coli strain MG1655 (Lajoie et al. 2013b).
+- Third, they probed the limits of MAGE by eliminating the most rare codons present in 42 essential genes involved in E. coli translation as a means to “emancipate” codons for incorporating further XAAs (Lajoie et al. 2013a).
+- In this work, it was realized that all non-essential genes could be modified with synonymous codons without compromising cellular fitness.
+- Finally, based on the previous work and the E. coli C321.ΔA strain, on one hand, Church and colleagues, and, on the other, Isaacs et al. engineered essential genes to be functional by the rational dependence of XAAs, thus imposing the cells to be metabolically dependent on the external supply of XAAs (Rovner et al. 2015; Mandell et al. 2015).
+- Both studies were able to show that E. coli can be contained in physical isolation without undetectable growth in liquid media for up to 14 or 20 days, as long as the XAAs was not added to the culture.
+- The authors argue that their strategy “is a significant improvement over existing biocontainment approaches” (Rovner et al. 2015) and that it “provides a foundation for safer GMOs that are isolated from natural ecosystems by a reliance on synthetic metabolites” (Mandell et al. 2015).
+- Beyond biocontainment, other applications of GROs would be the production of proteins endowed with XAAs for basic research and perhaps biocatalysis (Budisa 2014).
+
+- Chemically Modified Organisms
+
+- Chemically Modified Organisms (CMOs) are livings systems endowed with unnatural, noncanonical or xeno building blocks.
+- The CMO term was introduced by Marlière et al. (2011), whose work was highlighted by Acevedo-Rocha and Budisa (2011) referring to “E. chlori” (see below).
+- There are two basic approaches for creating CMOs.
+- One strategy tackles proteins, the main executors of information, whereas the other one deals with the information carriers or nucleic acids (NA).
+- As indicated in the previous section, together with some genetic tricks, the cultivation of microbes in the presence of unnatural building blocks allows their introduction in lieu of canonical amino acids or DNA.
+- In 1983, Bacillus subtilis strain QB928 was able to grow on 4-fluorotryptophan, a synthetic analogue of tryptophan (Trp), one of the 20 canonical amino acids (Wong 1983).
+- Thirty years later, the same microbe does not require Trp anymore for propagation, but only 4-fluorotryptophan thanks to its adaption that was accompanied by a relatively small degree of genomic changes (Yu et al. 2014).
+- This is the first CMO whose proteome has been chemically modified by experimental evolution.
+- E. coli has also been shown to grow on similar fluorinated Trp analogues (Bacher et al. 2004), but it also has the potential for accommodating other XAAs into its proteome (Bohlke and Budisa 2014).
+
+- CMOs with unnatural building blocks as genetic polymers have been also reported.
+- DNA is composed of the bases adenine (A), guanine (G) cytosine (C) and thymine (T), each linked to a sugar (deoxyribose), which in turn is connected to two phosphate groups.
+- But scientists have synthesized molecules structurally related to the components of A, T, C and G to test whether these “alien” molecules could be also used as carriers of genetic information, including iso-C, iso-G, K, X, Q, F, P, Z, NaM and 5SICS (Fig. 8) (Benner and Sismour 2005; Kwok 2012).
+- Likewise, the sugar deoxyribose has been replaced by threose (TNA), arabinose (ANA), glycerol (GNA), hexitol (HNA), cyclohexene (CeNA), fluoro arabinose (FANA), etc. (Pinheiro and Holliger 2012).
+
+- On the top, the canonical DNA bases thymine (T) and adenine (A) forming two hydrogen bonds as well as cytosine (C) and guanine (G) forming three hydrogen bonds are shown.
+- In the middle and bottom layers, unnatural DNA bases that are achieved by classical synthetic chemistry are depicted including Z and P, V and J, K and X, as well as isoC and isoG, all interacting via thee hydrogen bonds
+
+- Although most xeno-nucleic acids (XNAs) are incompatible with living systems, very recently Holliger and colleagues described the directed evolution-based engineering of polymerases (enzymes that copy nucleic acids) that were capable of synthesizing XNA from a DNA template and from DNA back to XNA (Pinheiro et al. 2012).
+- This work is very important because it showed that genetic information could be stored in diverse unnatural polymers capable of heredity and evolution.
+- Along the same vein, but using experimental evolution, Marlière and colleagues practically replaced all T bases by 5-chlorouracil in E. coli with concomitant dependence on this alien substance for survival (Marlière et al. 2011).
+- These modifications resulted in morphological alterations; yet the E. coli cells were able to survive, giving rise to “E. chlori”, the first CMO bearing a chlorinated genome and potentially endowed with a “genetic firewall” (Acevedo-Rocha and Budisa 2011).
+
+- More recently, Romesberg and colleagues reported the addition of the XNA pair NaM and 5SICS to E. coli by introducing an algae membrane-protein that allowed the transportation of the XNA pair into the cells, followed by its replication in a plasmid (Malyshev et al. 2014).
+- Although this CMO has been regarded the first living being bearing six bases as genetic code with many potential applications in basic and applied research (Thyer and Ellefson 2014), it should be mentioned that only one base pair per plasmid was present, corresponding to less than 0.0001 % of the total genetic content of that bacterium, which is about 1 % of the total cell dry weight.
+- Thus, the in vivo replication and propagation of a truly six-membered genetic code controlling some biological process remains to be shown.
+
+- Several applications of orthogonal engineering have been envisaged.
+- Basic research on “artificial genetic information systems” has already resulted in a more accurate diagnosis of viruses in patients: the inclusion of the bases isoC and isoG (Fig. 8) into “Branched DNA Assays”, which detect pathogenic NAs, significantly improves the signal-to-noise detection ratio.
+- These assays are important because the viral load is critical to determine the amount and type of drug necessary in patients with HIV and Hepatitis C, two major health problems with 35 and 180 million cases worldwide, respectively.
+- Using these assays, about 400,000 patients per year can be assigned to a more appropriate treatment and personalized medical care (Benner and Sismour 2005).
+- Similar types of research on other XNAs are being pursued for diagnosing cystic fibrosis, severe acute respiratory syndrome (SARS) triggered by corona-virus, and other pathogens.
+
+- Synthetic amino acids have also found applications in human health: clinical trials using a human growth hormone containing a modified XAA recently demonstrated the required safety and efficacy as well as increased therapeutic potency and reduced injection frequency in adults (Cho et al. 2011).
+- In scientific research, while proteins endowed with XAAs have become invaluable tools for unraveling complex cellular processes within living cells (Davis and Chin 2012), unnatural enzymes have potential applications in biocatalysis (Acevedo-Rocha et al. 2013b; Hoesl et al. 2011).
+- That is, the use of enzymes and/or microbes to synthesize useful compounds like food additives, flavors, fragrances, fine chemicals, biofuels, bioplastics, biomaterials (e.g., silk) and many other molecules (Reetz 2013).
+
+- Biosafety and Biosecurity
+
+- Biosafety: Asilomar Meeting
+
+- In February 1975, scientists called for a worldwide moratorium on genetic engineering given the concern of the potential accidental release of GMOs into the environment.
+- Upon the moratorium, some institutions stopped any kind of genetic engineering research, while others took the lead (Danchin 2010), deterring basic science and the development of innovative products in certain regions of the world (ter Meulen 2014).
+- Nevertheless, the moratorium was critical because it allowed the planning of an international meeting in the Asilomar Conference Ground in Pacific Grove, California, USA, where scientists agreed that genetic engineering should continue under stringent guidelines (Berg et al. 1975).
+- This important meeting allowed setting down international guidelines on research involving recombinant DNA (Berg 2008), giving rise to physical containment cautions for biological agents in four “Bio-Safety Levels”: 1, 2, 3 and 4.
+
+- In the Asilomar meeting, scientists themselves took the initiative to come together.
+- Given the exposure of synthetic biology to the media, and concerns about harmful intentional or accidental misuses of synthetic microorganisms (Ferber 2004), several groups of bioethicists and members of non-governmental organizations have suggested having another Asilomar meeting to discuss the responsibility of synthetic biology research to society.
+- Likewise, debates on synthetic biology under the Convention on Biological Diversity have considered a potential moratorium on the release of synthetic organisms, cells and genomes into the environment (Oldham et al. 2012).
+- Although these debates were triggered after the publication of the first GDO by Venter and colleagues in 2010, biosafety concerns can be justified by the earlier synthesis of pathogenic viruses, such as the deadly 1918 H1N1 “Spanish Flu” (which killed an estimate of up to 50 million people) that was “resurrected” from archaeological samples (Tumpey et al. 2005), or the poliovirus, which was synthesized even without a template (Cello et al. 2002).
+- Even though it has been argued that GDVs offer an opportunity to better understand infectious diseases (Wimmer et al. 2009), these pathogenic viruses also pose potential biosafety risks to the health of the laboratory workers and the public.
+- Two incidents in 2014 at the Centers for Disease Control and Prevention (CDC) in Atlanta, USA (where the Spanish flu virus was synthesized) illustrate this: Samples from a low-virulence flu virus were contaminated with the lethal H5N1 avian flu strain, and bacteria causing deadly anthrax were not properly inactivated before their transportation into a lower biosafety level laboratory (Butler 2014), potentially exposing staff to the dangerous pathogens (Owens 2014).
+
+- Biosecurity: Beyond Asilomar
+
+- Whereas biosafety deals with the inherent capability of organisms or viruses to cause disease, biosecurity is mainly concerned with their misuse as biological weapons for bioterrorism.
+- Bioterrorism is nothing new: the intentional release of pathogenic toxins, viruses, bacteria, fungi, and insects is a mode of biological warfare against humans and animals that many countries have used in the past.
+- For example, during World War I, a German secret agent travelled to the USA to infect horses with glanders, a severe infectious disease caused by the bacterium Burkholderia mallei, which provokes respiratory ulcers, septicemia and death in horses, donkeys and mules.
+- For this reason, the Geneva Protocol was introduced in 1925 to prohibit the use of chemical and biological weapons in international armed conflicts.
+- Later on, the 1972 Biological Weapons Convention (BWC) and the 1993 Chemical Weapons Convention (CWC) were introduced to regulate the production, storage and transportation of biological and chemical arms.
+
+- Concerns over mishandling of harmful biological agents are nothing new to synthetic biology: The CDC in Atlanta, USA, besides harbouring the synthesized “Spanish Flu” virus, also possess dangerous human pathogens such as Francisella tularensis, Yersinia pestis and Bacillus anthracis, and have had to consider their potential misuse.
+- Indeed, international regulations for gene synthesis were lacking for several years.
+- It was only after 2007, when a journalist ordered online from a biotech company synthetic DNA of the smallpox virus to his home (Grushkin 2010), that the synthetic biology community proposed a set of policies related to the processes involving nucleic acids synthesis (Bugl et al. 2007).
+- Among the new proposed policies is a first set that applies to firms supplying synthetic DNA.
+- Using a database of pathogenic genomes and sequences of toxin genes, the firms should use special software to screen orders for potentially harmful DNA.
+- A second set of proposed rules is aimed at regulating the purchase of DNA synthesizers and the reagent used in synthesis by enforcing the registration of the machines or the distribution of licenses to purchase specific chemicals needed for DNA synthesis.
+
+- New Synthetic Life Forms: Beyond Existing Regulations
+
+- Beyond contributing to the development of rules and regulations, the research community has also played a role in shaping biosafety and biosecurity policies, with the usual conjecture that what is natural is potentially much more dangerous and incontrollable than what is artificial (Marlière 2009).
+- Because organisms close to their progenitors are pre-adapted to their native environments, it is logical to assume that GMOs, GEMs, GEOs would pose a mayor threat than GDOs, GROs and CMOs if all of these were accidentally released in the environment.
+- However, since the latter organisms use or potentially can use synthetic building blocks as constituents that could only be synthesized in the lab; they would be quickly outcompeted by other organisms if the chemicals are correctly disposed.
+- Therefore, orthogonal and bottom-up engineering should also follow the guidelines that chemistry labs have established for chemical disposal, together with those for biosafety labs involving GMOs, which is the norm for top-down and parallel engineering approaches.
+- Given that synthetic biology is an extension of genetic engineering, current legislation on GMOs also applies to GEMs, GDOs, GEOs, GROs and those CMOs that have been previously modified to incorporate unnatural DNA bases and/or amino acids, at both the EU17 and international18 level.
+- But there have been doubts about whether the current risk assessment procedures will be overburdened by the increasing pace of genetic modification, which is the case for GDOs, GEOs and GROs.
+- In consequence, the latest EU recommendations “call for research to improve the ability to predict the behavior of complex engineered organisms”, and for the “development of additional approaches, including genetic firewalls based on noncanonical genetic material” (Breitling et al. 2015).
+
+- Genetic Firewall: Data Are Missing
+
+- It has been advocated that unnatural DNA would prevent information exchange between natural and synthetic organisms by acting as a genetic firewall (Schmidt 2010).
+- Indeed, Church and colleagues showed that the first E. coli GRO was capable of resisting to some extent infections by the T7 bacteriophage because their genetic codes are not compatible (Lajoie et al. 2013b).
+- However, the GRO infection by the virus was only slightly attenuated compared to the parental strain, implying that there are other factors that account for the lack of complete immunity.
+
+- So how many changes are needed in the genetic code to render a GRO completely immune to viruses without affecting its fitness?
+- Given the high mutability of viruses, would it be possible that these could hijack the new genetic code if sufficient time is given in a non-controlled environment?
+- If GROs and CMOs are not able to survive outside the lab, what would be the response of a natural organism to their unnatural building blocks?
+- On the other hand, if a GRO or CMO dependent on XAAs manages to survive in the environment by any means, would it pose threats to other natural organisms, and if so, what kind of threats?
+- Would GROs be more robust than CMOs in case of an accidental release in the environment?
+- Are there other means of cellular communication beyond horizontal gene exchange that GROs or CMOs could use to persist or even proliferate?
+- Clearly, many questions remain to be solved to show that a “genetic firewall” could be used as an efficient means to separate the natural from the synthetic world, especially when it is believed that XAA-based biocontainment would be a means to eliminate the fears of the public when it turns to apply GMOs in agriculture, medicine and environmental clean-up (Dolgin 2015).
+
+- Genetically Modified Humans: Napa Meeting
+
+- In March 2015, two groups of scientists called for a moratorium (Lanphier et al. 2015) and for a framework for open discourse (Baltimore et al. 2015) on any experiments that involve genome editing in human embryos or cells that could give rise to sperm or eggs.
+- The articles were responses to some rumours by referees who reviewed work by Chinese scientists describing the use of the CRISPR-Cas9 system in human embryos and who fear, it “could trigger a public backlash that would block legitimate uses of the technology” (Vogel 2015).
+- The main problem of the technology are the secondary effects (off-target and on-target mutational events with unintended consequences) that are not yet completely understood, for example: “Monkeys have been born from CRISPR-edited embryos, but at least half of the 10 pregnancies in the monkey experiments ended in miscarriage.
+- In the monkeys that were born, not all cells carried the desired changes, so attempts to eliminate a disease gene might not work” (Vogel 2015).
+- Despite this, the rumors of the referees became truth after some months: Work concerning the genomic edition of human embryos was recently published, but the authors argue that this was necessary to illustrate that the CRISPR-Cas9 technology is still far from clinical applications (Liang et al. 2015).19
+
+- During a meeting in Napa in early 2015, Berg, Church and other scientists called urgently for a framework to discuss openly the safe and ethical use of the CRISPR-Cas9 technology to manipulate the human genome (Baltimore et al. 2015).
+- The proposals for regulating “germline engineering” broadly include:
+
+- The discouragement of any attempts at genome modification for clinical application in humans in those countries where it is allowed (some countries don’t allow this kind of research or regulate it tightly).
+
+- The discouragement of any attempts at genome modification for clinical application in humans in those countries where it is allowed (some countries don’t allow this kind of research or regulate it tightly).
+
+- The encouragement of transparent research to evaluate the efficacy and specificity of genome editing in human and non-human models relevant for gene therapy, as well as the implementation of standardized methods to determinate frequency of off-target effects and physiology of cells and issues upon genome editing.
+
+- The encouragement of transparent research to evaluate the efficacy and specificity of genome editing in human and non-human models relevant for gene therapy, as well as the implementation of standardized methods to determinate frequency of off-target effects and physiology of cells and issues upon genome editing.
+
+- The creation of forums for the exchange between scientists, bioethicists, government, interest groups and the general public to shape policy while discussing not only the risks and benefits, but also the ethical, legal, and social implications (ELSI) for curing human genetic disease by genome editing (Baltimore et al. 2015).
+
+- The creation of forums for the exchange between scientists, bioethicists, government, interest groups and the general public to shape policy while discussing not only the risks and benefits, but also the ethical, legal, and social implications (ELSI) for curing human genetic disease by genome editing (Baltimore et al. 2015).
+
+- The fundamental issue with human-germline engineering is that beyond treating genetic disorders such as Huntington disease to eliminate human suffering, designer or “genetically modified babies” could be likewise engineered, facilitating the arrival of a new eugenics era (Pollack 2015).
+- Although human-germline engineering is banned in several countries (not including the United States), a few labs and a company (primarily based in the United States) are working in this research line (Regalado 2015).
+- One of the plans is to edit the DNA of a man’s sperm or woman’s egg and use the cells in an in vitro fertilization (IVF) clinic to produce the embryo, followed by its implantation in woman uterus to establish a pregnancy of the foetus.20 Another strategy that promises to be more efficient aims to edit stem cells, which can divide rapidly in the lab, and then turn them into a sperm or egg.
+- Although the CRISPR-Cas9 technology is still too immature to offer babies “à la carte”, 15 % of the adults in a recent survey indicated that it would be appropriate to genetically modify a baby to be more intelligent (Regalado 2015).
+- Besides the engineering of more healthy and intelligent babies, some transhumanists think that the human genome is not perfect and that it could be engineered not only to protect against Alzheimer’s disease, but also to create “super-enhanced” individuals to solve complex issues like “climate change” (Regalado 2015).
+
+- Gene-Drive Engineering: Will There Be a Meeting?
+
+- The willingness of many scientists to engage in a public discussion with other scholars shows that there is an awareness of the potential negative effects of an emerging technology that has not been shown to be mature for clinical applications, especially when dealing with a delicate topic such as human embryonic stem cells.
+- However, other less-concerned scientists not working with human stem cells have already devised a plan to create an “auto-catalytic” genetic system based on the CRISPR-Cas9 to spread mutated genes across populations of GEOs with high efficiency.
+- For example, mosquitos could be engineered to impair the transmission of genes involved in malaria and dengue fever (Bohannon 2015).
+- Beyond the potential benefits, the problem with this “mutagenic chain reaction” technology is that unintended off-target mutations at essential (or non-essential) genes could be triggered, thus spreading irreparable genetic defects (or traits) across natural populations of organisms and potentially driving populations with limited genetic diversity into extinction.
+
+- The potential devastating effects of this technology in the wild have been recently warned by Lunshof (2015).
+- Church commented that this technology “is a step too far” (Bohannon 2015), yet he filled a patent for a more secure gene-drive technology that, he argues, “would offer substantial benefits to humanity and the environment” (Esvelt et al. 2014) by eradicating vectors that spread diseases, insect pests and invasive species not without calling for “thoughtful, inclusive, and well-informed public discussions to explore the responsible use of this currently theoretical technology” (Esvelt et al. 2014).
+- In response to an ethical analysis on its regulation (Oye et al. 2014), it has been debated that the dual-use potential of this technology raises strong concerns because gene-drives carrying lethal toxins could be designed to eliminate particular human populations and attack their crops (Gurwitz 2014).
+- In fact, Gurwitz (2014, p. 1010) concluded:
+
+- “just as the exact technical instructions for making nuclear weapons remain classified 70 years after the Manhattan Project—as they rightfully should—the gene drive methodological details do not belong in the scientific literature.”
+
+- However, Oye and Esvelt (2014, p. 1011) disagree with that response arguing that
+
+- “classifying information required to build gene drives cannot target potential misuses without also impeding development of defenses, as well as environmental, health, agricultural, and safety applications of CRISPR technology”.
+
+- These debates show the need of an international meeting involving all stakeholders to regulate the development and deployment of GEOs endowed with gene-drives that cannot be confined physically to a single country.
+
+- Assessing Synthetic Biology Beyond the Bench
+
+- In various surveys, synthetic biology has been perceived by society as an extension of genetic engineering, particularly in the production of GMOs.
+- However, synthetic biology aims to avoid the same criticism that genetically modified plants and animals have triggered in various societies.
+- Beyond the technology itself, in what follows, seven topics are discussed in which the challenges, dilemmas and paradoxes surrounding synthetic biology become obvious.
+
+- Global Social Justice
+
+- Keasling’s artemisinin technological breakthrough is perhaps the most widely used example to show that synthetic biology (in this case, the metabolic engineering “tribe”) can provide solutions to global health issues.
+- However, social justice challenges have emerged because economies and employment in the South can be destabilized by synthetic biology carried out in the North (Engelhard 2009).
+- In other words, although Keasling’s breakthrough has been welcomed by almost everyone in the synthetic biology community and other advocates fighting against malaria, there is a rising concern that the farmers who traditionally harvest A. annua could be losing their jobs, which would affect the families of more than 100,000 farmers worldwide.21 Furthermore, the introduction of semi-synthetic artemisinin could further destabilise the already variable prices of botanical artemisinin due to market fluctuations (Peplow 2013).
+- This example illustrates the dilemmas and paradoxes that surround the development of synthetic biology in a globalized world.22
+
+- Synthetic Biology Democratization
+
+- It has been argued that DIY-biology will help in the worldwide democratization of synthetic biology in the same way that IT was democratized in the garages of computer hobbyists during the last century prior to the emergence of Silicon Valley as innovation hub (Wolinsky 2009).
+- DIY biologists or “biohackers” have equipped their garages, closets, and kitchens with inexpensive laboratory equipment (Ledford 2010).
+- Although DIY biologists performed simple experiments in the past, such as the insertion of a fluorescent protein into bacteria for producing glow-in-the-dark yogurt, it is expected that applications in health, energy and environmental monitoring will emerge (Seyfried et al. 2014).
+- In some instances, however, there has been a rising concern that home-brew drugs could be also produced by DIY-biologists using synthetic microbes.
+- This fear has been recently strengthened when metabolic engineers made yeast strains capable of synthesizing one of the various precursors of the opiate morphine, a precursor of heroin that has a high demand in the illegal drug market (Ehrenberg 2015).23 Although this research is intended to enable the long-term centralized and legal production of opiates for pain relief, engineered yeasts for opiate biosynthesis could transform into illegal systems for criminal networks in USA and Europe where drug demand is the highest, because yeast is extremely easy to be sent (a few dried cells per post would suffice to start a culture), grown (water and basic nutrients are only required) and processed (basic lab equipment such as centrifuges) to extract any drugs (using basic columns and resins for chromatography).
+- Thus, the democratization of molecular biology might be more difficult to regulate than initially thought.24
+
+- Environmental Concern and Policy Regulation
+
+- Medicines, pharmaceuticals, fertilizers, pesticides, additives, cosmetics, plastics, cleaners, clothing, pigments, detergents, electronics parts and many other essential products for human needs are conventionally produced by synthetic chemistry.
+- In fact, chemical companies produce yearly billions of tons of chemicals from about 90,000 different substances.
+- One goal of synthetic biology is to produce enzymes and microbes that could replace the production of many of those compounds because their precursors are usually obtained from fossil fuels and thus unsustainable (Nielsen and Moon 2013).
+- A recent sampling of European rivers, however, illustrates the environmental damage that has been produced with toxic cocktails of hormones, pesticides and hazardous chemicals (Malaj et al. 2014), let alone population declines of bees, birds and other insects that are essential in the global food supply chain (Chagnon et al. 2015).
+- In fact, irreversible damages of many toxic, non-degradable and persistent chemicals on the immune, reproductive, endocrine and nervous systems of many animals (and likely humans) have been found.25 To avoid similar environmental catastrophes using synthetic biology, proper legislation and regulation on the industrial production and waste of engineered microbes have to be implemented from the onset.
+- A challenge for synthetic biology will be to regulate and assess the long-term effects of GMOs in the environment.
+- To enhance biosafety biocontainment strategies, various genetic safeguard mechanisms could be implemented in each engineered microbe together with a “risk analysis and biosafety data” sheet (Moe-Behrens et al. 2013).
+
+- The GMO debate has existed since the Asilomar conference when biotechnology started to be regulated in general, but in the last two decades it shifted towards risks posed by genetically modified food and crops owing to the food crisis in Europe during the late 1990s.
+- Nowadays, GMOs are commonly used in industrial (white) and medical (red) biotechnology for the respective production of chemicals and pharmaceuticals (in physically containments), but the genetic modification of plants and animals in agricultural (green) biotechnology has met more resistance in society owing to the potential risks of GMOs for humans, animals and the environment.
+- There are different kinds of risks: real versus perceived, which depending on the stakeholder, can vary significantly (Torgersen 2004).
+- Regardless of the risks and semantics (Holme et al. 2013; Hunter 2014; Nagamangala Kanchiswamy et al. 2015), it is clear that the GMO debate is mostly associated to multicellular organisms such as plants (Boyle et al. 2012) and animals (Markson and Elowitz 2014).
+- Given that synthetic biology is increasingly targeting these multicellular organisms for genomic modifications, its acceptance by the public could be more difficult to gain.
+- The main reason is that plants and animals directly affect human life, in contrast to microbes, which affect human life more indirectly: “As long as synthetic biology creates only new microbial life and does not directly affect human life, it will in all likelihood be considered acceptable” (van den Belt 2009, p. 257).
+- Beyond the potential of synthetic biology for solving global issues, society may only accept any kind of GMOs, GEMs, GEOs, GDOs, GROs and CMOs if their products are labelled for the consumer in a transparent way where the freedom of choice is given to the consumers.
+
+- Media Hype, Metaphors and Promises
+
+- One of the most common mistakes that scientists often make is to claim that they think they have created something, and that this creation, they believe, will be a panacea to humankind.
+- First of all, scientists do not “create”, because this word can be used in different contexts: Creation or “Creatio ex nihilo” means to bring someone or something into existence out of nothing, and it is usually reserved for a divine force in religious terms that scholars in social sciences and humanities might use more often.
+- In reality, scientists invent or design something that has not existed before by using something that already existed; they are closer to “manipulatio” (manipulating) and “creatio ex existendo” (creating something out of existent parts) than to “creation ex nihilo” (Boldt and Muller 2008).
+- This is a subtle, yet important difference: Scientists claiming the creation of synthetic life have been accused of “Playing God in Frankenstein’s Footsteps” (van den Belt 2009), with unfortunate consequences for the reputation of the field and its social acceptance (Schummer 2011).
+- Perhaps the natural scientists do this on purpose to challenge the ethical (Link 2012) and religious (Dabrock 2009) views of other scholars working on synthetic biology.
+- On the other hand, overstating that GMOs, GEMs, GEOs, GDOs, GROs and CMOs will solve all human problems is not beneficial because exaggerating exactly into this direction generates mistrust in the public, as many emergent technologies have done in history (Torgersen 2009).
+- Hence, a lesson to synthetic biologists would be to be more cautious with their metaphors and promises, if they want to gain public acceptance of their technologies.
+- For a more insightful discussion of the impact of metaphors in synthetic biology, see the chapter by D.
+
+- Semantics and the Public
+
+- Synthetic biology is a term that is not well known to the public (for further information, see the chapters by Ancillotti and Eriksson; Rerimassie; Seitz; Steurer).
+- In fact, a recent survey in Germany confirmed this, but also revealed that people spontaneously perceived this field as an abstract and contradictory expression that they associated with interference against Nature.26 How can nature be synthetic?
+- Synthesis means to put together two parts to form a new one.
+- This definition suggests that any minor modification of an extant organism would render it ‘synthetic’, which would be the case for all GMOs, CMEs, GEOs, GDOs, GROs and possibly CMOs.
+- However, a bacterium with a synthetic plasmid is not the same as a bacterium with a synthetic genome, so we should make a distinction.
+- For example, the synthetic genome of GDO M. mycoides jcvi-syn1.0 represents about 1 % of the whole dry cell mass.
+- The cell reprogramming was performed using a genome borrowed from a related species, in which about 0.1 % genetic changes (watermarks) were done.
+- So, why should this bacterium be called synthetic when the other 98.9 % components are natural?
+- In reality, this bacterium is more natural than synthetic: Although genomes control gene expression, the truth is that genomes can only be useful if there are proteins that can process their information, as it was the case for M. mycoides jcvi-syn1.0.
+- In a contrasting example, when the genome of the cyanobacterium Synechocystis was cloned into the bacterium B. subtilis, genes from the former could not be expressed in the latter organism because of “incompatibility” or context-dependency issues (Itaya et al. 2005).
+- Thus, synthetic genomes only represent a minor part of cells, in contrast to lipids (which are not encoded in the genome) and proteins, of which there are millions of molecules in a single E. coli bacterium, let alone other important components (Fig. 9).
+
+- Pie chart displaying the composition (cell dry mass) of a typical E. coli bacterium growing with a doubling time of 40 min.
+- Metabolites include building blocks and vitamins.
+- Note that there are about 2,400,000 protein, 257,500 RNA, 22,000,000 lipid, 1,200,000 lipopolysaccharide, 4400 glycogen, 2 DNA and 1 peptidoglycan molecule(s) per cell (http://book.bionumbers.org/what-is-the-macromolecular-composition-of-the-cell/)
+
+- A truly synthetic organism would be that in which all the components shown in Fig. 9 would be synthesized and assembled to generate a living organism.
+- Indeed, synthesizing all the molecules of life was the dream of the famous German chemist Emil Fischer at the beginning of the 20th century, when synthetic chemistry experienced a major revolution almost a century after the breakthrough by Friedrich Wohler in 1828: Urea synthesis, the first synthesis of an organic molecule in the lab (Yeh and Lim 2007).
+- Thus a real challenge for bottom-up synthetic biologists will be to synthetize completely from scratch a living microbe (Porcar et al. 2011).
+
+- Given that top-down, parallel and perpendicular synthetic biology researchers mostly borrow microbes for tinkering (i.e. improving something by making small changes), the challenge will be to make the public aware that most of their research is not based on entirely synthetic organisms, but rather that synthetic DNA enables researchers to reprogram certain organisms for useful purposes.
+- This endeavour could be facilitated by clearly distinguishing that DNA is not equal to life (de Lorenzo 2010), but just another minor component of life, as important as the other ones (Fig. 9).
+- Another manner to engage the public with synthetic biology is by fostering cultural activities around the technology (see the chapter by B.
+
+- The resurrection of an extinct species has so far been reported for “Celia”, the last bucardo (Pyrenenan ibex), which passed away on January 6th 2000.
+- It was resurrected for 7 min on July 30th 2003 by nuclear transfer cloning (the germ cells had been frozen).
+- Nuclear transfer involves the injection of the genetic material to be cloned into an unfertilized DNA-free egg, resulting in cells that have the potential to divide when placed in the uterus of an adult female mammal.
+- This is how Dolly the sheep (5 July 1996—14 February 2003) was cloned from an adult somatic cell (Wilmut et al. 1997), but dozens of other species27 have also been cloned despite the low efficiency of the technique.
+- Besides nuclear cloning, it has been suggested that synthetic biology could cooperate with the biodiversity conservation community to protect or even resurrect extinct organisms (Redford et al. 2013).
+- However, there are several technical and nontechnical issues that first have to be resolved, and this is clearly reflected in even Venter being cautious:
+
+- I have read too many articles that breezily discuss the reconstruction of a Neanderthal or a woolly mammoth with the help of cloning, even though the DNA sequences that have been obtained for each are highly fragmented, do not cover the entire genome and – as a result of being so degraded – are substantially less accurate than what is routinely obtained from fresh DNA. (Venter 2013, p. 87)
+
+- Further, even if fresh intact DNA or “software” of the woolly mammoth or Neanderthals were available, it would be necessary to have the appropriate cells or “hardware” that could interpret the genetic information (Danchin 2009).
+- For example, when the components (nucleus, cytoplasm, and cell membrane) of amoebas of different species were combinatorially reassembled, the only viable organisms were those whose components originated from the same strain (Jeon et al. 1970).
+- This old yet ingenious study shows that reprogramming of life goes beyond pure (synthetic) DNA.
+
+- Although it is difficult to define life among scholars from different fields because no consensus has been reached from the up to 123 current definitions (Trifonov 2011), it seems that life requires at least three components: A genetic program, a metabolism and a container (Acevedo-Rocha et al. 2013a).
+- For a discussion about the concept of life, see the chapter by J.
+- Regardless of the definitions, any attempt to reprogram or resurrect life, or construct life-like systems from the bottom-up should consider establishing the connection among these three components (Fig. 10).
+
+- Living systems as we know them have a genetic program (DNA), a metabolism fuelled by enzymatic reactions and proteins that execute this program using RNA as intermediate in protein translation (mRNA, tRNA, rRNA), and a container or membrane formed of lipids.
+- Viruses are proteins (sometimes with lipids) encoding DNA or RNA, but since they have no metabolism, they are not alive, a fact that has puzzled scientists over decades (Villarreal 2004).
+- Organelles such as mitochondria and chloroplasts contain metabolites and usually a minimal genetic program, but they are contained within a larger organism so these alone cannot be alive.
+- Finally, the cytoplasm containing proteins, metabolites and lipids would not be alive without genetic material
+
+- Regarding non-technical issues, it is useful to illustrate the pros and cons to better understand the dilemma of resurrecting extinct species with synthetic biology by quoting an expert: “The ‘de-extinction’ movement—a prominent group of scientists, futurists and their allies—argues that we no longer have to accept the finality of extinction.” (Minteer 2014).
+- The most persuasive argument is to “appeal to our sense of justice: de-extinction is our opportunity to right past wrongs and to atone for our moral failings” (Minteer 2014).
+- De-extinctionists also argue that by resurrecting species, ecological functions could be recovered, increasing the diversity of ecosystems.
+- However, the introduction of revived species could pose disease threats to native species, in a manner reminiscent to the introduction of invasive species into new environments.28 In addition, some conservationists also worry that “de-extinguished” species would have a limited genetic diversity.
+
+- In summary, one should ponder whether it is worthwhile investing huge amounts of human and financial resources in ambitious projects for resurrecting life given not only the technical and nontechnical difficulties, but also the paradoxes of our world: Devastating epidemics, hunting, habitat loss and degradation caused by both human industrial activities and climate change are triggering an unprecedented loss of biodiversity, with estimates of 500 up to 36,000 species of amphibians, birds and mammals disappearing every year (Monastersky 2014).
+- Thus, instead of resurrecting life, synthetic biologists should help conservation biologists to develop innovative ideas for protecting the already thousands of endangered species: “Attempting to revive lost species is in many ways a refusal to accept our moral and technological limits in nature.” (Minteer 2014).
+
+- I have attempted to outline the most important areas of current research in synthetic biology in a general inclusive framework according to different engineering approaches.
+- Almost all engineering efforts produce protocells, CMOs and GMOs, some of which are developed by well-known genetic engineering methods, and others by using more sophisticated tools.
+- For example, the production of Genetically Engineered Machines (GEMs) is outsourced to undergraduate students every year across the world with the advantage of developing creativity and innovation in younger generations for solving complex problems.
+- Similarly, researchers working in synthetic genomics have produced genomically designed organisms (GDOs) as a result of basic research, spinning-off revolutionary applications for the rapid assembly of synthetic DNA.
+- More recently, the ground-breaking CRISPR-Cas9 tool, product of basic research, has allowed for the emergence of an impressive number of genomically edited organisms (GEOs), and in less than two years to better understand disease models and cellular biology as well as engineering multiple traits in microorganism for the optimal production of drugs, biofuels, and chemicals.
+- However, the use of the CRISPR-Cas9 system should be cautious especially when engineering human embryonic stem cells as well as wild populations of organisms in the open environment (Ledford 2015).
+- Finally, evolutionary approaches have accelerated the construction of microbial GROs and CMOs that promise to shed light on the meaning and evolution of life by endowing living systems with unnatural building blocks.
+
+- Importantly, any sort of genetic modification such as a single DNA base mutation, metabolic pathway optimization or whole genome recoding in any of these synthetic life forms will create a novel combination of genes and their products at the level of (pre- and post)-transcription (RNA) and -translation (protein), thus triggering a new network of gene interactions (at the transcriptome and proteome level) in the host organism and across organisms, which are difficult to understand and predict even using the most advanced mathematical algorithms and technological tools.
+- These phenomena, which fall under the scope of epistasis (Phillips 2008), emphasise the evolutionary complexity of gene interactions inherent to biology.
+- For this reason, synthetic biologists should be aware of the limitations that must be overcome to predict the behaviour of living systems.
+- The purpose of illustrating the benefits, but also potential risks of these emergent life forms is to provide scholars from the social sciences and humanities as well as non-scientists with a glimpse of what synthetic biologists are actually doing.
+- The challenges, dilemmas and paradoxes surrounding the field also show that there are already big challenges in a globalized world that cannot be solved exclusively by technological means.
+- Whether synthetic biology will deliver health, food, and energy to societies with very different needs in the South and North without affecting an already polluted environment where biodiversity lost is an everyday phenomenon will be seen in the coming century.
+
+- I am very thankful to Kristin Hagen, Margret Engelhard and Georg Toepfer for feedback on this chapter and for organizing the International Summer School “Analyzing the Societal Dimensions of Synthetic Biology” that was supported by the German Federal Ministry of Education and Research.
+- I also thank Antoine Danchin, Markus Schmidt, Sheref Mansy, and Victor de Lorenzo for the critical reading of this manuscript and insightful discussions.
+- I also thank Paul Berg and Nediljko Budisa for feedback on parts from a previous version of this work.
+- Funding from the SYNMIKRO postdoctoral program is greatly acknowledged.
+
+- http://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_048.pdf. Accessed 18th May 2015.
+
+- A global community of amateur citizens interested in biology, whose garages, closets, and kitchens have been equipped with inexpensive laboratory equipment.
+
+- http://www.softmachines.org/wordpress/?p=389. Accessed 20th May 2015.
+
+- The definition of Genetically Modified Microorganism (GMM) is established: http://www.efsa.europa.eu/en/scdocs/doc/374.pdf.
+
+- Article 2 of the EU Directive on the Deliberate Release into the Environment of Genetically Modified Organisms (2001/18/EG).
+
+- http://bch.cbd.int/protocol/cpb_faq.shtml. Accessed: 4th June 2015.
+
+- http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1980/. Accessed 20th May 2015.
+
+- http://www.etcgroup.org/content/why-synthetic-artemisinin-still-bad-idea-response-rob-carlson. Accessed 20th May 2015.
+
+- http://www.path.org/news/press-room/685/. Accessed 3rd June 2015.
+
+- This phrase has been a tradition for software developers since it was first introduced in the Bell Laboratories in 1974.
+
+- Feynman actually wrote: “What I cannot create, I do not understand”.
+
+- http://www.theguardian.com/science/2010/may/20/craig-venter-synthetic-life-form. Accessed: June 4th 2015.
+
+- Currently there is legal uncertainty, depending on the country, as to whether GEOs can be categorized as GMOs or as organisms originated from breeding. See, for example, Araki and Ishii (2015) as well as the Cibus case in Germany: http://www.nature.com/news/seeds-of-change-1.17267.
+
+- http://www.nobelprize.org/nobel_prizes/medicine/laureates/2007/. Accessed 20th May 2015.
+
+- http://www.nobelprize.org/nobel_prizes/medicine/laureates/1968/. Accessed 20th May 2015.
+
+- http://wyss.harvard.edu/viewpage/330/. Accessed 20th May 2015.
+
+- http://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_048.pdf. Accessed 20th May 2015.
+
+- http://bch.cbd.int/protocol/cpb_faq.shtml. Accessed: 4th June 2015.
+
+- In fact, the journals Science and Nature rejected the paper owing to ethical concerns.
+
+- In 2010, Robert G. Edwards was awarded the Nobel Prize in Physiology or Medicine for the development of IVF, which allows the treatment of infertility. Currently, there are 5 millions of IVF-humans, all below 37 years old: The first “test tube baby” was born in 1978.
+
+- http://www.etcgroup.org/content/why-synthetic-artemisinin-still-bad-idea-response-rob-carlson. Accessed 20th May 2015.
+
+- Note that this comment is valid for all technologies beyond synthetic biology replacing work performed in developing countries: see the cases of saffron, vanilla, vetiver, cocoa butter, rubber, squalene, coconut oil, palm kernel oil, babasuu and shikimic acid at: http://www.etcgroup.org/tags/synbio-case-studies.
+
+- All the pieces of the puzzle are in place: The components of a metabolic synthetic pathway for producing morphine have been reported in different stains, so it is a matter of time to combine them in a single strain.
+- Still, the efforts will require strain engineering for increasing the drug titers to be economically competitive.
+
+- The researchers behind the work called other scholars for an ethical assessment on their research (Oye et al. 2015), ending with four recommendations: (1) The strains should be not appealing to criminals by focusing on alternative opiates with less “street” demand such as the brain, or they should be difficult to cultivate by relying, for instance, on difficult-to-synthetize XAAs for survival. (2) Synthetic DNA companies should implement algorithms to avoid users buying gene-specific sequences of opiate biosynthetic pathways in the same way that toxins and other harmful biohazards are currently screened. (3) The strains should be kept under controlled environments such as locks, alarms and monitoring systems to prevent theft of samples.
+- The laboratory personnel should be also subject to security screening. (4) Current laws, at least in the US, do not include opiate-producing yeast, so these should be extended.
+
+- http://undesigning.org/cmos.html. Accessed: June 4th 2015.
+
+- http://www.biotechnologie.de/BIO/Navigation/DE/root,did=178894.html. Accessed: June 4th 2015.
+
+- http://en.wikipedia.org/wiki/List_of_animals_that_have_been_cloned. Accessed: 20th May 2015.
+
+- See for instance: http://www.invasive.org/. Accessed 20th May 2015.
+
+- Contributor Information
+
+- Kristin Hagen, Email: kristin.hagen@ea-aw.de.
+
+- Carlos G. Acevedo-Rocha, Email: acevedor@mpi-marburg.mpg.de
+
+- Abby S, Daubin V. Comparative genomics and the evolution of prokaryotes. Trends Microbiol. 2007;15(3):135–141. doi: 10.1016/j.tim.2007.01.007. [DOI] [PubMed] [Google Scholar]
+
+- Acevedo-Rocha CG (2010) Genetic code engineering with methionine analogs for synthetic biotechnology. PhD thesis, Technical University Munich
+
+- Acevedo-Rocha CG, Budisa N. On the road towards chemically modified organisms endowed with a genetic firewall. Angew Chem Int Ed Engl. 2011;50(31):6960–6962. doi: 10.1002/anie.201103010. [DOI] [PubMed] [Google Scholar]
+
+- Acevedo-Rocha CG, Fang G, Schmidt M, et al. From essential to persistent genes: a functional approach to constructing synthetic life. Trends Genet. 2013;29(5):273–279. doi: 10.1016/j.tig.2012.11.001. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Acevedo-Rocha CG, Hoesl MG, Nehring S, et al. Non-canonical amino acids as a useful synthetic biological tool for lipase-catalysed reactions in hostile environments. Catal Sci Technol. 2013;3(5):1198. doi: 10.1039/c3cy20712a. [DOI] [Google Scholar]
+
+- Agapakis CM. Designing synthetic biology. ACS Synt Biol. 2014;3(3):121–128. doi: 10.1021/sb4001068. [DOI] [PubMed] [Google Scholar]
+
+- Alper H, Stephanopoulos G. Engineering for biofuels: exploiting innate microbial capacity or importing biosynthetic potential? Nat Rev Microbiol. 2009;7(10):715–723. doi: 10.1038/nrmicro2186. [DOI] [PubMed] [Google Scholar]
+
+- Annaluru N, Muller H, Mitchell LA, et al. Total synthesis of a functional designer eukaryotic chromosome. Science. 2014;344(6179):55–58. doi: 10.1126/science.1249252. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Araki M, Ishii T. Towards social acceptance of plant breeding by genome editing. Trends Plant Sci. 2015;20(3):145–149. doi: 10.1016/j.tplants.2015.01.010. [DOI] [PubMed] [Google Scholar]
+
+- Bacchus W, Aubel D, Fussenegger M. Biomedically relevant circuit-design strategies in mammalian synthetic biology. Mol Syst Biol. 2013;9:691. doi: 10.1038/msb.2013.48. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Bacchus W, Fussenegger M. Engineering of synthetic intercellular communication systems. Metab Eng. 2013;16:33–41. doi: 10.1016/j.ymben.2012.12.001. [DOI] [PubMed] [Google Scholar]
+
+- Bacher JM, Hughes RA, Tze-Fei Wong J, et al. Evolving new genetic codes. Trends Ecol Evol. 2004;19(2):69–75. doi: 10.1016/j.tree.2003.11.007. [DOI] [PubMed] [Google Scholar]
+
+- Bailey JE. Toward a science of metabolic engineering. Science. 1991;252(5013):1668–1675. doi: 10.1126/science.2047876. [DOI] [PubMed] [Google Scholar]
+
+- Bailey JE, Birnbaum S, Galazzo JL, et al. Strategies and challenges in metabolic engineering. Ann NY Acad Sci. 1990;589:1–15. doi: 10.1111/j.1749-6632.1990.tb24230.x. [DOI] [PubMed] [Google Scholar]
+
+- Ball P (2010) A synthetic creation story. Nature. doi:10.1038/news.2010.261
+
+- Baltimore BD, Berg P, Botchan M, et al. A prudent path forward for genomic engineering and germline gene modification. Science. 2015;348(6230):36–38. doi: 10.1126/science.aab1028. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Bedau M, Church G, Rasmussen S, et al. Life after the synthetic cell. Nature. 2010;465(7297):422–424. doi: 10.1038/465422a. [DOI] [PubMed] [Google Scholar]
+
+- Benenson Y. Synthetic biology with RNA: progress report. Curr Opin Chem Biol. 2012;16(3–4):278–284. doi: 10.1016/j.cbpa.2012.05.192. [DOI] [PubMed] [Google Scholar]
+
+- Benner SA, Sismour AM. Synthetic biology. Nat Rev Genet. 2005;6(7):533–543. doi: 10.1038/nrg1637. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Berg P. Meetings that changed the world: Asilomar 1975: DNA modification secured. Nature. 2008;455(7211):290–291. doi: 10.1038/455290a. [DOI] [PubMed] [Google Scholar]
+
+- Berg P, Baltimore D, Brenner S, et al. Asilomar conference on recombinant DNA molecules. Science. 1975;188(4192):991–994. doi: 10.1126/science.1056638. [DOI] [PubMed] [Google Scholar]
+
+- Billerbeck S, Harle J, Panke S. The good of two worlds: increasing complexity in cell-free systems. Curr Opin Biotechnol. 2013;24(6):1037–1043. doi: 10.1016/j.copbio.2013.03.007. [DOI] [PubMed] [Google Scholar]
+
+- Blain JC, Szostak JW. Progress toward synthetic cells. Annu Rev Biochem. 2014;83(1):615–640. doi: 10.1146/annurev-biochem-080411-124036. [DOI] [PubMed] [Google Scholar]
+
+- Bohannon J. Biologists devise invasion plan for mutations. Science. 2015;347(6228):833–836. doi: 10.1126/science.347.6228.1300. [DOI] [PubMed] [Google Scholar]
+
+- Bohlke N, Budisa N. Sense codon emancipation for proteome-wide incorporation of noncanonical amino acids: rare isoleucine codon AUA as a target for genetic code expansion. FEMS Microbiol Lett. 2014;351(2):133–144. doi: 10.1111/1574-6968.12371. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Boldt J, Muller O. Newtons of the leaves of grass. Nat Biotechnol. 2008;26(4):387–389. doi: 10.1038/nbt0408-387. [DOI] [PubMed] [Google Scholar]
+
+- Boyle PM, Burrill DR, Inniss MC, et al. A BioBrick compatible strategy for genetic modification of plants. J Biol Eng. 2012;6(1):8. doi: 10.1186/1754-1611-6-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Breitling R, Takano E, Gardner TS. Judging synthetic biology risks. Science. 2015;347(6218):107. doi: 10.1126/science.aaa5253. [DOI] [PubMed] [Google Scholar]
+
+- Brent R. A partnership between biology and engineering. Nat Biotechnol. 2004;22(10):1211–1214. doi: 10.1038/nbt1004-1211. [DOI] [PubMed] [Google Scholar]
+
+- Brophy JA, Voigt CA. Principles of genetic circuit design. Nat Methods. 2014;11(5):508–520. doi: 10.1038/nmeth.2926. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Budisa N. Prolegomena to future experimental efforts on genetic code engineering by expanding its amino acid repertoire. Angew Chem Int Ed Engl. 2004;43(47):6426–6463. doi: 10.1002/anie.200300646. [DOI] [PubMed] [Google Scholar]
+
+- Budisa N. Xenobiology, new-to-nature synthetic cells and genetic firewall. Curr Org Chem. 2014;18(8):936–943. doi: 10.2174/138527281808140616154301. [DOI] [Google Scholar]
+
+- Bugl H, Danner JP, Molinari RJ, et al. DNA synthesis and biological security. Nat Biotechnol. 2007;25(6):627–629. doi: 10.1038/nbt0607-627. [DOI] [PubMed] [Google Scholar]
+
+- Butler D. Biosafety controls come under fire. Nature. 2014;511(7511):515–516. doi: 10.1038/511515a. [DOI] [PubMed] [Google Scholar]
+
+- Cameron DE, Bashor CJ, Collins JJ. A brief history of synthetic biology. Nat Rev Microbiol. 2014;12(5):381–390. doi: 10.1038/nrmicro3239. [DOI] [PubMed] [Google Scholar]
+
+- Campos L. That was the synthetic biology that was. In: Schmidt M, Kelle A, Ganguli-Mitra A, editors. Synthetic biology: the technoscience and its societal consequences. Netherlands, Dordrecht, Heidelberg, London, New York: Springer; 2009. pp. 5–22. [Google Scholar]
+
+- Carlson R. The changing economics of DNA synthesis. Nat Biotechnol. 2009;27(12):1091–1094. doi: 10.1038/nbt1209-1091. [DOI] [PubMed] [Google Scholar]
+
+- Carr PA, Church GM. Genome engineering. Nat Biotechnol. 2009;27(12):1151–1162. doi: 10.1038/nbt.1590. [DOI] [PubMed] [Google Scholar]
+
+- Cello J, Paul AV, Wimmer E. Chemical synthesis of poliovirus cDNA: generation of infectious virus in the absence of natural template. Science. 2002;297(5583):1016–1018. doi: 10.1126/science.1072266. [DOI] [PubMed] [Google Scholar]
+
+- Chagnon M, Kreutzweiser D, Mitchell EA, et al. Risks of large-scale use of systemic insecticides to ecosystem functioning and services. Environ Sci Pollut Res Int. 2015;22(1):119–134. doi: 10.1007/s11356-014-3277-x. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Chang AC, Cohen SN. Genome construction between bacterial species in vitro: replication and expression of Staphylococcus plasmid genes in Escherichia coli. Proc Natl Acad Sci U S A. 1974;71(4):1030–1034. doi: 10.1073/pnas.71.4.1030. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Chang MC, Eachus RA, Trieu W, et al. Engineering Escherichia coli for production of functionalized terpenoids using plant P450s. Nat Chem Biol. 2007;3(5):274–277. doi: 10.1038/nchembio875. [DOI] [PubMed] [Google Scholar]
+
+- Charpentier E, Doudna JA. Biotechnology: rewriting a genome. Nature. 2013;495(7439):50–51. doi: 10.1038/495050a. [DOI] [PubMed] [Google Scholar]
+
+- Chiarabelli C, Stano P, Anella F, Carrara P, Luisi PL. Approaches to chemical synthetic biology. FEBS Lett. 2012;586(15):2138–2145. doi: 10.1016/j.febslet.2012.01.014. [DOI] [PubMed] [Google Scholar]
+
+- Chin JW. Expanding and reprogramming the genetic code of cells and animals. Annu Rev Biochem. 2014;83:379–408. doi: 10.1146/annurev-biochem-060713-035737. [DOI] [PubMed] [Google Scholar]
+
+- Cho H, Daniel T, Buechler YJ, et al. Optimized clinical performance of growth hormone with an expanded genetic code. Proc Natl Acad Sci USA. 2011;108(22):9060–9065. doi: 10.1073/pnas.1100387108. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Citorik RJ, Mimee M, Lu TK. Bacteriophage-based synthetic biology for the study of infectious diseases. Curr Opi Microbiol. 2014;19:59–69. doi: 10.1016/j.mib.2014.05.022. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Cohen SN. DNA cloning: a personal view after 40 years. Proc Natl Acad Sci USA. 2013;110(39):15521–15529. doi: 10.1073/pnas.1313397110. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Cox DB, Platt RJ, Zhang F. Therapeutic genome editing: prospects and challenges. Nat Med. 2015;21(2):121–131. doi: 10.1038/nm.3793. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Crick FH. The origin of the genetic code. J Mol Biol. 1968;38(3):367–379. doi: 10.1016/0022-2836(68)90392-6. [DOI] [PubMed] [Google Scholar]
+
+- Dabrock P. Playing god? Synthetic biology as a theological and ethical challenge. Syst Synth Biol. 2009;3(1–4):47–54. doi: 10.1007/s11693-009-9028-5. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Danchin A. La Barque de Delphes: what genomes tell us. Boston: Harvard University Press; 2003. [Google Scholar]
+
+- Danchin A. Bacteria as computers making computers. FEMS Microbiol Rev. 2009;33(1):3–26. doi: 10.1111/j.1574-6976.2008.00137.x. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Danchin A. Perfect time or perfect crime? EMBO Rep. 2010;11(2):74. doi: 10.1038/embor.2009.275. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Davis L, Chin JW. Designer proteins: applications of genetic code expansion in cell biology. Nat Rev Mol Cell Biol. 2012;13(3):168–182. doi: 10.1038/nrm3286. [DOI] [PubMed] [Google Scholar]
+
+- Environmental biosafety in the age of synthetic biology: do we really need a radical new approach?
+- Environmental fates of microorganisms bearing synthetic genomes could be predicted from previous data on traditionally engineered bacteria for in situ bioremediation.
+- BioEssays. 2010;32(11):926–931. doi: 10.1002/bies.201000099. [DOI] [PubMed] [Google Scholar]
+
+- de Lorenzo V. Beware of metaphors: chasses and orthogonality in synthetic biology. Bioeng Bugs. 2011;2(1):3–7. doi: 10.4161/bbug.2.1.13388. [DOI] [PubMed] [Google Scholar]
+
+- de Lorenzo V, Danchin A. Synthetic biology: discovering new worlds and new words. EMBO Rep. 2008;9(9):822–827. doi: 10.1038/embor.2008.159. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Dolgin E. Synthetic biology: safety boost for GM organisms. Nature. 2015;517(7535):423. doi: 10.1038/517423a. [DOI] [PubMed] [Google Scholar]
+
+- Doudna JA, Charpentier E. The new frontier of genome engineering with CRISPR-Cas9. Science. 2014;346(6213):1258096. doi: 10.1126/science.1258096. [DOI] [PubMed] [Google Scholar]
+
+- Ehrenberg R. Engineered yeast paves way for home-brew heroin. Nature. 2015;521(7552):267–268. doi: 10.1038/251267a. [DOI] [PubMed] [Google Scholar]
+
+- Endy D. Foundations for engineering biology. Nature. 2005;438(7067):449–453. doi: 10.1038/nature04342. [DOI] [PubMed] [Google Scholar]
+
+- Engelhard M (2009) Synthetic biology gets ethical. Europäische Akademie Bad Neuenahr-Ahrweiler Newsletter 94:1–3. http://www.ea-aw.de/fileadmin/downloads/Newsletter/NL_0094_112009.pdf. Accessed 19 May 2015
+
+- Enserink M. Infectious diseases. Source of new hope against malaria is in short supply. Science. 2005;307(5706):33. doi: 10.1126/science.307.5706.33. [DOI] [PubMed] [Google Scholar]
+
+- Esvelt KM, Smidler AL, Catteruccia F et al (2014) Concerning RNA-guided gene drives for the alteration of wild populations. Elife 3:e03401 [DOI] [PMC free article] [PubMed]
+
+- Fangerau H. From Mephistopheles to Isaiah: Jacques Loeb, technical biology and war. Soc Stud Sci. 2009;39(2):229–256. doi: 10.1177/0306312708101045. [DOI] [PubMed] [Google Scholar]
+
+- Ferber D. Synthetic biology. Time for a synthetic biology Asilomar? Science. 2004;303(5655):159. doi: 10.1126/science.303.5655.159. [DOI] [PubMed] [Google Scholar]
+
+- Forlin M, Lentini R, Mansy SS. Cellular imitations. Curr Opin Chem Biol. 2012;16(5–6):586–592. doi: 10.1016/j.cbpa.2012.10.020. [DOI] [PubMed] [Google Scholar]
+
+- Gaj T, Gersbach CA, Barbas CF., 3rd ZFN, TALEN, and CRISPR/Cas-based methods for genome engineering. Trends Biotechnol. 2013;31(7):397–405. doi: 10.1016/j.tibtech.2013.04.004. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Gallagher RR, Li Z, Lewis AO, Isaacs FJ. Rapid editing and evolution of bacterial genomes using libraries of synthetic DNA. Nat Protoc. 2014;9(10):2301–2316. doi: 10.1038/nprot.2014.082. [DOI] [PubMed] [Google Scholar]
+
+- Gibson DG. Enzymatic assembly of overlapping DNA fragments. Methods Enzymol. 2011;498:349–361. doi: 10.1016/B978-0-12-385120-8.00015-2. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Gibson DG, Benders GA, Andrews-Pfannkoch C, et al. Complete chemical synthesis, assembly, and cloning of a Mycoplasma genitalium genome. Science. 2008;319(5867):1215–1220. doi: 10.1126/science.1151721. [DOI] [PubMed] [Google Scholar]
+
+- Gibson DG, Glass JI, Lartigue C, et al. Creation of a bacterial cell controlled by a chemically synthesized genome. Science. 2010;329(5987):52–56. doi: 10.1126/science.1190719. [DOI] [PubMed] [Google Scholar]
+
+- Goeddel DV, Heyneker HL, Hozumi T, et al. Direct expression in Escherichia coli of a DNA sequence coding for human growth hormone. Nature. 1979;281(5732):544–548. doi: 10.1038/281544a0. [DOI] [PubMed] [Google Scholar]
+
+- Goeddel DV, Kleid DG, Bolivar F, et al. Expression in Escherichia coli of chemically synthesized genes for human insulin. Proc Natl Acad Sci USA. 1979;76(1):106–110. doi: 10.1073/pnas.76.1.106. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Group CR Antimalaria studies on Qinghaosu. Chinese Med J. 1979;92(12):811–816. [PubMed] [Google Scholar]
+
+- Grushkin D. Synthetic Bio, Meet “FBIo”. The Scientist. 2010;24(5):44. [Google Scholar]
+
+- Gurwitz D. Gene drives raise dual-use concerns. Science. 2014;345(6200):1010. doi: 10.1126/science.345.6200.1010-b. [DOI] [PubMed] [Google Scholar]
+
+- Heinemann M, Panke S. Synthetic biology: putting engineering into bioengineering. In: FU P, Panke S, editors. Systems biology and synthetic biology. New York: Wiley; 2009. pp. 387–409. [Google Scholar]
+
+- Hobom B. Gene surgery: on the threshold of synthetic biology. Med Klin. 1980;75(24):834–841. [PubMed] [Google Scholar]
+
+- Hoesl MG, Acevedo-Rocha CG, Nehring S, et al. Lipase congeners designed by genetic code engineering. ChemCatChem. 2011;3(1):213–221. doi: 10.1002/cctc.201000253. [DOI] [Google Scholar]
+
+- Holme IB, Wendt T, Holm PB. Intragenesis and cisgenesis as alternatives to transgenic crop development. Plant Biotechnol J. 2013;11(4):395–407. doi: 10.1111/pbi.12055. [DOI] [PubMed] [Google Scholar]
+
+- Hunter P. ”Genetically Modified Lite” placates public but not activists: new technologies to manipulate plant genomes could help to overcome public concerns about GM crops. EMBO Rep. 2014;15(2):138–141. doi: 10.1002/embr.201338365. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Isaacs FJ, Carr PA, Wang HH, et al. Precise manipulation of chromosomes in vivo enables genome-wide codon replacement. Science. 2011;333(6040):348–353. doi: 10.1126/science.1205822. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Itaya M, Tsuge K, Koizumi M, et al. Combining two genomes in one cell: stable cloning of the Synechocystis PCC6803 genome in the Bacillus subtilis 168 genome. Proc Natl Acad Sci USA. 2005;102(44):15971–15976. doi: 10.1073/pnas.0503868102. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Biochemical method for inserting new genetic information into DNA of Simian Virus 40: circular SV40 DNA molecules containing lambda phage genes and the galactose operon of Escherichia coli.
+- Proc Natl Acad Sci USA. 1972;69(10):2904–2909. doi: 10.1073/pnas.69.10.2904. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Jasin M. Genetic manipulation of genomes with rare-cutting endonucleases. Trends Genet. 1996;12(6):224–228. doi: 10.1016/0168-9525(96)10019-6. [DOI] [PubMed] [Google Scholar]
+
+- Jeon KW, Lorch IJ, Danielli JF. Reassembly of living cells from dissociated components. Science. 1970;167(925):1626–1627. doi: 10.1126/science.167.3925.1626. [DOI] [PubMed] [Google Scholar]
+
+- Jewett MC, Forster AC. Update on designing and building minimal cells. Curr Opin Biotechnol. 2010;21(5):697–703. doi: 10.1016/j.copbio.2010.06.008. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Juhas M, Eberl L, Church GM. Essential genes as antimicrobial targets and cornerstones of synthetic biology. Trends Biotechnol. 2012;30(11):601–607. doi: 10.1016/j.tibtech.2012.08.002. [DOI] [PubMed] [Google Scholar]
+
+- Juhas M, Eberl L, Glass JI. Essence of life: essential genes of minimal genomes. Trends Cell Biol. 2011;21(10):562–568. doi: 10.1016/j.tcb.2011.07.005. [DOI] [PubMed] [Google Scholar]
+
+- Kawecki TJ, Lenski RE, Ebert D, et al. Experimental evolution. Trends Ecol Evol. 2012;27(10):547–560. doi: 10.1016/j.tree.2012.06.001. [DOI] [PubMed] [Google Scholar]
+
+- Keasling JD. Synthetic biology for synthetic chemistry. ACS Chem Biol. 2008;3(1):64–76. doi: 10.1021/cb7002434. [DOI] [PubMed] [Google Scholar]
+
+- Keasling JD. Manufacturing molecules through metabolic engineering. Science. 2010;330(6009):1355–1358. doi: 10.1126/science.1193990. [DOI] [PubMed] [Google Scholar]
+
+- Keller EF. What does synthetic biology have to do with biology? Biosocieties. 2009;4(2–3):291–302. doi: 10.1017/S1745855209990123. [DOI] [Google Scholar]
+
+- Keung AJ, Joung JK, Khalil AS, et al. Chromatin regulation at the frontier of synthetic biology. Nat Rev Genet. 2015;16(3):159–171. doi: 10.1038/nrg3900. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Kim KM, Caetano-Anolles G. The evolutionary history of protein fold families and proteomes confirms that the archaeal ancestor is more ancient than the ancestors of other superkingdoms. BMC Evol Biol. 2012;12:13. doi: 10.1186/1471-2148-12-13. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Kung Y, Runguphan W, Keasling JD. From fields to fuels: recent advances in the microbial production of biofuels. ACS Synth Biol. 2012;1(11):498–513. doi: 10.1021/sb300074k. [DOI] [PubMed] [Google Scholar]
+
+- Kwok R. Five hard truths for synthetic biology. Nature. 2010;463(7279):288–290. doi: 10.1038/463288a. [DOI] [PubMed] [Google Scholar]
+
+- Kwok R. Chemical biology: DNA’s new alphabet. Nature. 2012;491(7425):516–518. doi: 10.1038/491516a. [DOI] [PubMed] [Google Scholar]
+
+- Lajoie MJ, Kosuri S, Mosberg JA, et al. Probing the limits of genetic recoding in essential genes. Science. 2013;342(6156):361–363. doi: 10.1126/science.1241460. [DOI] [PubMed] [Google Scholar]
+
+- Lajoie MJ, Rovner AJ, Goodman DB, et al. Genomically recoded organisms expand biological functions. Science. 2013;342(6156):357–360. doi: 10.1126/science.1241459. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Lanphier E, Urnov F, Haecker SE, et al. Don’t edit the human germ line. Nature. 2015;519(7544):410–411. doi: 10.1038/519410a. [DOI] [PubMed] [Google Scholar]
+
+- Lanza AM, Crook NC, Alper HS. Innovation at the intersection of synthetic and systems biology. Curr Opin Biotechnol. 2012;23(5):712–717. doi: 10.1016/j.copbio.2011.12.026. [DOI] [PubMed] [Google Scholar]
+
+- Lartigue C, Glass JI, Alperovich N, et al. Genome transplantation in bacteria: changing one species to another. Science. 2007;317(5838):632–638. doi: 10.1126/science.1144622. [DOI] [PubMed] [Google Scholar]
+
+- Ledford H. CRISPR, the disruptor. Nature. 2015;522(7554):20–24. doi: 10.1038/522020a. [DOI] [PubMed] [Google Scholar]
+
+- Ledford H. Garage biotech: life hackers. Nature. 2010;467(7316):650–652. doi: 10.1038/467650a. [DOI] [PubMed] [Google Scholar]
+
+- Leprince A, van Passel MW, dos Santos VA. Streamlining genomes: toward the generation of simplified and stabilized microbial systems. Curr Opin Biotechnol. 2012;23(5):651–658. doi: 10.1016/j.copbio.2012.05.001. [DOI] [PubMed] [Google Scholar]
+
+- Levesque F, Seeberger PH. Continuous-flow synthesis of the anti-malaria drug artemisinin. Angew Chem Int Ed Engl. 2012;51(7):1706–1709. doi: 10.1002/anie.201107446. [DOI] [PubMed] [Google Scholar]
+
+- Levskaya A, Chevalier AA, Tabor JJ, et al. Synthetic biology: engineering Escherichia coli to see light. Nature. 2005;438(7067):441–442. doi: 10.1038/nature04405. [DOI] [PubMed] [Google Scholar]
+
+- Liao H-K, Gu Y, Diaz A, et al. Use of the CRISPR/Cas9 system as an intracellular defense against HIV-1 infection in human cells. Nat Commun. 2015;6:6413. doi: 10.1038/ncomms7413. [DOI] [PubMed] [Google Scholar]
+
+- Liang P, Xu Y, Zhang X, et al. CRISPR/Cas9-mediated gene editing in human tripronuclear zygotes. Protein Cell. 2015;6(5):363–372. doi: 10.1007/s13238-015-0153-5. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Link HJ. Playing god and the intrinsic value of life: moral problems for synthetic biology? Sci Eng Ethics. 2012;19(2):435–448. doi: 10.1007/s11948-012-9353-z. [DOI] [PubMed] [Google Scholar]
+
+- Liu CC, Schultz PG. Adding new chemistries to the genetic code. Annu Rev Biochem. 2010;79:413–444. doi: 10.1146/annurev.biochem.052308.105824. [DOI] [PubMed] [Google Scholar]
+
+- Loeb J. On the nature of the process of fertilization and the artificial production of normal larvae (plutei) from the unfertilized eggs of the sea urchin. Am J Physiol. 1899;3(3):135–138. [Google Scholar]
+
+- Lunshof J. Regulate gene editing in wild animals. Nature. 2015;521(7551):127. doi: 10.1038/521127a. [DOI] [PubMed] [Google Scholar]
+
+- MacDonald JT, Barnes C, Kitney RI, et al. Computational design approaches and tools for synthetic biology. Integr Biol (Camb) 2011;3(2):97–108. doi: 10.1039/c0ib00077a. [DOI] [PubMed] [Google Scholar]
+
+- Malaj E, von der Ohe PC, Grote M, et al. Organic chemicals jeopardize the health of freshwater ecosystems on the continental scale. Proc Natl Acad Sci USA. 2014;111(26):9549–9554. doi: 10.1073/pnas.1321082111. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Mali P, Esvelt KM, Church GM. Cas9 as a versatile tool for engineering biology. Nat Methods. 2013;10(10):957–963. doi: 10.1038/nmeth.2649. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Malvankar NS, Vargas M, Nevin KP, et al. Tunable metallic-like conductivity in microbial nanowire networks. Nat Nanotechnol. 2011;6(9):573–579. doi: 10.1038/nnano.2011.119. [DOI] [PubMed] [Google Scholar]
+
+- Malyshev DA, Dhami K, Lavergne T, et al. A semi-synthetic organism with an expanded genetic alphabet. Nature. 2014;509(7500):385–388. doi: 10.1038/nature13314. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Mandell DJ, Lajoie MJ, Mee MT, et al. Biocontainment of genetically modified organisms by synthetic protein design. Nature. 2015;518(7537):55–60. doi: 10.1038/nature14121. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Markson JS, Elowitz MB. Synthetic biology of multicellular systems: new platforms and applications for animal cells and organisms. ACS Synth Biol. 2014;3(12):875–876. doi: 10.1021/sb500358y. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Marliere P. The farther, the safer: a manifesto for securely navigating synthetic species away from the old living world. Syst Synth Biol. 2009;3(1–4):77–84. doi: 10.1007/s11693-009-9040-9. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Marliere P, Patrouix J, Doring V, et al. Chemical evolution of a bacterium’s genome. Angew Chem Int Ed Engl. 2011;50(31):7109–7114. doi: 10.1002/anie.201100535. [DOI] [PubMed] [Google Scholar]
+
+- Martin VJ, Pitera DJ, Withers ST, et al. Engineering a mevalonate pathway in Escherichia coli for production of terpenoids. Nat Biotechnol. 2003;21(7):796–802. doi: 10.1038/nbt833. [DOI] [PubMed] [Google Scholar]
+
+- Menezes AA, Cumbers J, Hogan JA, et al. Towards synthetic biological approaches to resource utilization on space missions. J R Soc Interface. 2015;12(102):1–20. doi: 10.1098/rsif.2014.0715. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Messerschmidt SJ, Kemter FS, Schindler D, et al. Synthetic secondary chromosomes in Escherichia coli based on the replication origin of chromosome II in Vibrio cholerae. Biotechnol J. 2015;10(2):302–314. doi: 10.1002/biot.201400031. [DOI] [PubMed] [Google Scholar]
+
+- Minteer B. Is it right to reverse extinction? Nature. 2014;509(7500):261. doi: 10.1038/509261a. [DOI] [PubMed] [Google Scholar]
+
+- Moe-Behrens GH, Davis R, Haynes KA. Preparing synthetic biology for the world. Front Microbiol. 2013;4:5. doi: 10.3389/fmicb.2013.00005. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Monastersky R. Biodiversity: life—a status report. Nature. 2014;516(7530):158–161. doi: 10.1038/516158a. [DOI] [PubMed] [Google Scholar]
+
+- Montague MG, Lartigue C, Vashee S. Synthetic genomics: potential and limitations. Curr Opin Biotechnol. 2012;23(5):659–665. doi: 10.1016/j.copbio.2012.01.014. [DOI] [PubMed] [Google Scholar]
+
+- Morange M. A new revolution? The place of systems biology and synthetic biology in the history of biology. EMBO Rep. 2009;10(Suppl 1):S50–S53. doi: 10.1038/embor.2009.156. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Nagamangala Kanchiswamy C, Sargent DJ, Velasco R, et al. Looking forward to genetically edited fruit crops. Trends Biotechnol. 2015;33(2):62–64. doi: 10.1016/j.tibtech.2014.07.003. [DOI] [PubMed] [Google Scholar]
+
+- Nasir A, Caetano-Anolles G. Comparative analysis of proteomes and functionomes provides insights into origins of cellular diversification. Archaea. 2013;2013:648746. doi: 10.1155/2013/648746. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Nature Editorials Tribal gathering. Nature. 2014;509(7499):133. doi: 10.1038/509133a. [DOI] [PubMed] [Google Scholar]
+
+- Newman JD, Marshall J, Chang M, et al. High-level production of amorpha-4, 11-diene in a two-phase partitioning bioreactor of metabolically engineered Escherichia coli. Biotechnol Bioeng. 2006;95(4):684–691. doi: 10.1002/bit.21017. [DOI] [PubMed] [Google Scholar]
+
+- Nielsen DR, Moon TS. From promise to practice. The role of synthetic biology in green chemistry. EMBO Rep. 2013;14(12):1034–1038. doi: 10.1038/embor.2013.178. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Nishimasu H, Ran FA, Hsu PD, et al. Crystal structure of Cas9 in complex with guide RNA and target DNA. Cell. 2014;156(5):935–949. doi: 10.1016/j.cell.2014.02.001. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Oberholzer T, Luisi PL. The use of liposomes for constructing cell models. J Biol Phys. 2002;28(4):733–744. doi: 10.1023/A:1021267512805. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Okie S (2011) Is Craig Venter going to save the planet? Or is this more hype from one of America’s most controversial scientists? The Washington Post
+
+- Oldham P, Hall S, Burton G. Synthetic biology: mapping the scientific landscape. PLoS ONE. 2012;7(4):e34368. doi: 10.1371/journal.pone.0034368. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Ouyang Q, Lai L, Tang C. Designing the scientific cradle for quantitative biologists. ACS Synth Biol. 2012;1(7):254–255. doi: 10.1021/sb3000386. [DOI] [PubMed] [Google Scholar]
+
+- Ouzounis C, Kyrpides N. The emergence of major cellular processes in evolution. FEBS Lett. 1996;390(2):119–123. doi: 10.1016/0014-5793(96)00631-X. [DOI] [PubMed] [Google Scholar]
+
+- Owens B. Anthrax and smallpox errors highlight gaps in US biosafety. Lancet. 2014;384(9940):294. doi: 10.1016/S0140-6736(14)61246-0. [DOI] [PubMed] [Google Scholar]
+
+- Oye KA, Esvelt KM. Gene drives raise dual-use concerns–response. Science. 2014;345(6200):1010–1011. doi: 10.1126/science.345.6200.1010-c. [DOI] [PubMed] [Google Scholar]
+
+- Oye KA, Esvelt K, Appleton E, et al. Biotechnology. Regulating gene drives. Science. 2014;345(6197):626–628. doi: 10.1126/science.1254287. [DOI] [PubMed] [Google Scholar]
+
+- Oye KA, Lawson JC, Bubela T. Drugs: regulate ‘home-brew’ opiates. Nature. 2015;521(7552):281–283. doi: 10.1038/521281a. [DOI] [PubMed] [Google Scholar]
+
+- Pal C, Papp B, Posfai G. The dawn of evolutionary genome engineering. Nat Rev Genet. 2014;15(7):504–512. doi: 10.1038/nrg3746. [DOI] [PubMed] [Google Scholar]
+
+- Paul N, Joyce GF. Minimal self-replicating systems. Curr Opin Chem Biol. 2004;8(6):634–639. doi: 10.1016/j.cbpa.2004.09.005. [DOI] [PubMed] [Google Scholar]
+
+- Peplow M. Malaria drug made in yeast causes market ferment. Nature. 2013;494(7436):160–161. doi: 10.1038/494160a. [DOI] [PubMed] [Google Scholar]
+
+- Peralta-Yahya PP, Zhang FZ, del Cardayre SB, et al. Microbial engineering for the production of advanced biofuels. Nature. 2012;488(7411):320–328. doi: 10.1038/nature11478. [DOI] [PubMed] [Google Scholar]
+
+- Phillips PC. Epistasis–the essential role of gene interactions in the structure and evolution of genetic systems. Nat Rev Genet. 2008;9(11):855–867. doi: 10.1038/nrg2452. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Pinheiro VB, Holliger P. The XNA world: progress towards replication and evolution of synthetic genetic polymers. Curr Opin Chem Biol. 2012;16(3–4):245–252. doi: 10.1016/j.cbpa.2012.05.198. [DOI] [PubMed] [Google Scholar]
+
+- Pinheiro VB, Taylor AI, Cozens C, et al. Synthetic genetic polymers capable of heredity and evolution. Science. 2012;336(6079):341–344. doi: 10.1126/science.1217622. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Pollack R. Eugenics lurk in the shadow of CRISPR. Science. 2015;348(6237):871. doi: 10.1126/science.348.6237.871-a. [DOI] [PubMed] [Google Scholar]
+
+- Porcar M, Danchin A, de Lorenzo V, et al. The ten grand challenges of synthetic life. Syst Synth Biol. 2011;5(1–2):1–9. doi: 10.1007/s11693-011-9084-5. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Porcar M, Pereto J. Are we doing synthetic biology? Syst Synth Biol. 2012;6(3–4):79–83. doi: 10.1007/s11693-012-9101-3. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Porteus MH, Carroll D. Gene targeting using zinc finger nucleases. Nat Biotech. 2005;23(8):967–973. doi: 10.1038/nbt1125. [DOI] [PubMed] [Google Scholar]
+
+- Rasmussen N. Gene jockeys: life science and the rise of biotech enterprise. Baltimore: Johns Hopkins University Press; 2014. [Google Scholar]
+
+- Rasmussen S, Bedau MA, Chen L et al (2009) Protocells: bridging nonliving and living matter. MIT Press, Cambridge
+
+- Rawls R (2000) Synthetic biology makes its debut. Chem Eng News 78(17):49–53
+
+- Reardon S. Visions of synthetic biology. Science. 2011;333(6047):1242–1243. doi: 10.1126/science.333.6047.1242. [DOI] [PubMed] [Google Scholar]
+
+- Reardon S. Phage therapy gets revitalized. Nature. 2014;510(7503):15–16. doi: 10.1038/510015a. [DOI] [PubMed] [Google Scholar]
+
+- Redford KH, Adams W, Mace GM. Synthetic biology and conservation of nature: wicked problems and wicked solutions. PLoS Biol. 2013;11(4):e1001530. doi: 10.1371/journal.pbio.1001530. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Reetz MT. Biocatalysis in organic chemistry and biotechnology: past, present, and future. J Am Chem Soc. 2013;135(34):12480–12496. doi: 10.1021/ja405051f. [DOI] [PubMed] [Google Scholar]
+
+- Regalado A. Engineering the perfect baby. MITS Technol Rev. 2015;118(3):27–33. [Google Scholar]
+
+- Renders M, Pinheiro VB. Catalysing mirror life. ChemBioChem. 2015;16(6):899–901. doi: 10.1002/cbic.201500010. [DOI] [PubMed] [Google Scholar]
+
+- Ro DK, Paradise EM, Ouellet M, et al. Production of the antimalarial drug precursor artemisinic acid in engineered yeast. Nature. 2006;440(7086):940–943. doi: 10.1038/nature04640. [DOI] [PubMed] [Google Scholar]
+
+- Roblin R. Synthetic biology. Nature. 1979;282:171–172. doi: 10.1038/282171a0. [DOI] [Google Scholar]
+
+- Rovner AJ, Haimovich AD, Katz SR, et al. Recoded organisms engineered to depend on synthetic amino acids. Nature. 2015;518(7537):89–93. doi: 10.1038/nature14095. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Ruder WC, Lu T, Collins JJ. Synthetic biology moving into the clinic. Science. 2011;333(6047):1248–1252. doi: 10.1126/science.1206843. [DOI] [PubMed] [Google Scholar]
+
+- Salis H, Tamsir A, Voigt C. Engineering bacterial signals and sensors. Contrib Microb. 2009;16:194–225. doi: 10.1159/000219381. [DOI] [PubMed] [Google Scholar]
+
+- Schmidt M. Xenobiology: a new form of life as the ultimate biosafety tool. BioEssays. 2010;32(4):322–331. doi: 10.1002/bies.200900147. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Schmidt M, de Lorenzo V. Synthetic constructs in/for the environment: managing the interplay between natural and engineered biology. FEBS Lett. 2012;586(15):2199–2206. doi: 10.1016/j.febslet.2012.02.022. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Schummer J. Das Gotteshandwerk: Die künstliche Herstellung von Leben im Labor. Berlin: Suhrkamp; 2011. [Google Scholar]
+
+- Schwille P. Bottom-up synthetic biology: engineering in a tinkerer’s world. Science. 2011;333(6047):1252–1254. doi: 10.1126/science.1211701. [DOI] [PubMed] [Google Scholar]
+
+- Seyfried G, Pei L, Schmidt M. European do-it-yourself (DIY) biology: beyond the hope, hype and horror. BioEssays. 2014;36(6):548–551. doi: 10.1002/bies.201300149. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Shendure J, Ji H. Next-generation DNA sequencing. Nat Biotechnol. 2008;26(10):1135–1145. doi: 10.1038/nbt1486. [DOI] [PubMed] [Google Scholar]
+
+- Silver PA, Way JC, Arnold FH, et al. Synthetic biology: engineering explored. Nature. 2014;509(7499):166–167. doi: 10.1038/509166a. [DOI] [PubMed] [Google Scholar]
+
+- Smith HO, Hutchison CA, 3rd, Pfannkoch C, et al. Generating a synthetic genome by whole genome assembly: phiX174 bacteriophage from synthetic oligonucleotides. Proc Natl Acad Sci USA. 2003;100(26):15440–15445. doi: 10.1073/pnas.2237126100. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Smolke CD. Building outside of the box: iGEM and the BioBricks Foundation. Nat Biotechnol. 2009;27(12):1099–1102. doi: 10.1038/nbt1209-1099. [DOI] [PubMed] [Google Scholar]
+
+- Sole RV, Munteanu A, Rodriguez-Caso C, et al. Synthetic protocell biology: from reproduction to computation. Philos Trans R Soc Lond B Biol Sci. 2007;362(1486):1727–1739. doi: 10.1098/rstb.2007.2065. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Stephanopoulos G, Vallino JJ. Network rigidity and metabolic engineering in metabolite overproduction. Science. 1991;252(5013):1675–1681. doi: 10.1126/science.1904627. [DOI] [PubMed] [Google Scholar]
+
+- Sun N, Zhao H. Transcription activator-like effector nucleases (TALENs): a highly efficient and versatile tool for genome editing. Biotechnol Bioeng. 2013;110(7):1811–1821. doi: 10.1002/bit.24890. [DOI] [PubMed] [Google Scholar]
+
+- Szybalski W, Skalka A. Nobel prizes and restriction enzymes. Gene. 1978;4(3):181–182. doi: 10.1016/0378-1119(78)90016-1. [DOI] [PubMed] [Google Scholar]
+
+- ter Meulen V. Time to settle the synthetic controversy. Nature. 2014;509(7499):135. doi: 10.1038/509135a. [DOI] [PubMed] [Google Scholar]
+
+- Thyer R, Ellefson J. Synthetic biology: new letters for life’s alphabet. Nature. 2014;509(7500):291–292. doi: 10.1038/nature13335. [DOI] [PubMed] [Google Scholar]
+
+- Torgersen H. Synthetic biology in society: learning from past experience? Syst Synth Biol. 2009;3(1–4):9–17. doi: 10.1007/s11693-009-9030-y. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Torgersen Helge. The real and perceived risks of genetically modified organisms. EMBO reports. 2004;5:S17–S21. doi: 10.1038/sj.embor.7400231. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Towie N. Malaria breakthrough raises spectre of drug resistance. Nature. 2006;440(7086):852–853. doi: 10.1038/440852b. [DOI] [PubMed] [Google Scholar]
+
+- Trifonov EN. Vocabulary of definitions of life suggests a definition. J Biomol Struct Dyn. 2011;29(2):259–266. doi: 10.1080/073911011010524992. [DOI] [PubMed] [Google Scholar]
+
+- Tu Y. The discovery of artemisinin (qinghaosu) and gifts from Chinese medicine. Nat Med. 2011;17(10):1217–1220. doi: 10.1038/nm.2471. [DOI] [PubMed] [Google Scholar]
+
+- Tumpey TM, Basler CF, Aguilar PV, et al. Characterization of the reconstructed 1918 Spanish influenza pandemic virus. Science. 2005;310(5745):77–80. doi: 10.1126/science.1119392. [DOI] [PubMed] [Google Scholar]
+
+- van den Belt H. Playing God in Frankenstein’s footsteps: synthetic biology and the meaning of life. Nanoethics. 2009;3(3):257–268. doi: 10.1007/s11569-009-0079-6. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Vasas V, Fernando C, Santos M, et al. Evolution before genes. Biol Direct. 2012;7:1. doi: 10.1186/1745-6150-7-1. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Venter JC. Life at the speed of light. London: Little Brown; 2013. [Google Scholar]
+
+- Vilanova C, Porcar M. iGEM 2.0–refoundations for engineering biology. Nat Biotechnol. 2014;32(5):420–424. doi: 10.1038/nbt.2899. [DOI] [PubMed] [Google Scholar]
+
+- Villarreal LP. Are viruses alive? Sci Am. 2004;291(6):100–105. doi: 10.1038/scientificamerican1204-100. [DOI] [PubMed] [Google Scholar]
+
+- Vogel G. Bioethics. Embryo engineering alarm. Science. 2015;347(6228):1301. doi: 10.1126/science.347.6228.1301. [DOI] [PubMed] [Google Scholar]
+
+- Wang BJ, Buck M. Customizing cell signaling using engineered genetic logic circuits. Trends Microbiol. 2012;20(8):376–384. doi: 10.1016/j.tim.2012.05.001. [DOI] [PubMed] [Google Scholar]
+
+- Wang HH, Isaacs FJ, Carr PA, et al. Programming cells by multiplex genome engineering and accelerated evolution. Nature. 2009;460(7257):894–898. doi: 10.1038/nature08187. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Wang K, Neumann H, Peak-Chew SY, et al. Evolved orthogonal ribosomes enhance the efficiency of synthetic genetic code expansion. Nat Biotechnol. 2007;25(7):770–777. doi: 10.1038/nbt1314. [DOI] [PubMed] [Google Scholar]
+
+- Weber W, Fussenegger M. Emerging biomedical applications of synthetic biology. Nat Rev Genet. 2012;13(1):21–35. doi: 10.1038/nrg3094. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Wilmut I, Schnieke AE, McWhir J, et al. Viable offspring derived from fetal and adult mammalian cells. Nature. 1997;385(6619):810–813. doi: 10.1038/385810a0. [DOI] [PubMed] [Google Scholar]
+
+- Wimmer E, Mueller S, Tumpey TM, et al. Synthetic viruses: a new opportunity to understand and prevent viral disease. Nat Biotechnol. 2009;27(12):1163–1172. doi: 10.1038/nbt.1593. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Win MN, Smolke CD. Higher-order cellular information processing with synthetic RNA devices. Science. 2008;322(5900):456–460. doi: 10.1126/science.1160311. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Wolinsky H. Kitchen biology. The rise of do-it-yourself biology democratizes science, but is it dangerous to public health and the environment? EMBO Rep. 2009;10(7):683–685. doi: 10.1038/embor.2009.145. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Wong JT. Membership mutation of the genetic code: loss of fitness by tryptophan. Proc Natl Acad Sci USA. 1983;80(20):6303–6306. doi: 10.1073/pnas.80.20.6303. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Woodruff LB, Gill RT. Engineering genomes in multiplex. Curr Opin Biotechnol. 2011;22(4):576–583. doi: 10.1016/j.copbio.2011.04.019. [DOI] [PubMed] [Google Scholar]
+
+- Yeh BJ, Lim WA. Synthetic biology: lessons from the history of synthetic organic chemistry. Nat Chem Biol. 2007;3(9):521–525. doi: 10.1038/nchembio0907-521. [DOI] [PubMed] [Google Scholar]
+
+- Yu AC, Yim AK, Mat WK, et al. Mutations enabling displacement of tryptophan by 4-fluorotryptophan as a canonical amino acid of the genetic code. Genome Biol Evol. 2014;6(3):629–641. doi: 10.1093/gbe/evu044. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Zhang F, Keasling J. Biosensors and their applications in microbial metabolic engineering. Trends Microbiol. 2011;19(7):323–329. doi: 10.1016/j.tim.2011.05.003. [DOI] [PubMed] [Google Scholar]
+
+- Zhao L, Lu W. Mirror image proteins. Curr Opin Chem Biol. 2014;22:56–61. doi: 10.1016/j.cbpa.2014.09.019. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+- Articles from Ambivalences of Creating Life are provided here courtesy of Nature Publishing Group
+
+- View on publisher site
+
+- Permalink PERMALINK Copy
+
+- Cited by other articles
+
+- Links to NCBI Databases
+
+- Biosafety and Biosecurity
+
+- Assessing Synthetic Biology Beyond the Bench
+
+- Contributor Information
+
+- Format: AMA APA MLA NLM
+
+- National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+- HHS Vulnerability Disclosure

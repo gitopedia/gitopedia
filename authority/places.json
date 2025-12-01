@@ -658,5 +658,10 @@
     "id": "place:cambridge-(massachusetts)",
     "label": "Cambridge (Massachusetts)",
     "aliases": []
+  },
+  {
+    "id": "place:medical-council-laboratory-of-molecular-biology-(uk)",
+    "label": "Medical Council Laboratory of Molecular Biology (UK)",
+    "aliases": []
   }
 ]

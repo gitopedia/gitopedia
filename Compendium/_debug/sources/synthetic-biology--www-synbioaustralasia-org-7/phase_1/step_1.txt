@@ -1,0 +1,43 @@
+Synthetic Biology 101: Understanding its Role and Importance
+
+What exactly is synthetic biology? How does a field rooted in the natural world align with the term 'synthetic'?
+
+If you're reading this article, you may be wondering: what exactly is synthetic biology? How does a field rooted in the natural world align with the term 'synthetic'? While it may seem paradoxical, synthetic biology is actually a fascinating fusion of multiple scientific and social disciplines. Synthetic biology's unique interdisciplinary nature combines fundamental biological science with an engineering mindset and a design approach.
+
+Synthetic biologists can engineer biological parts, devices, systems, and microorganisms with new and innovative capabilities. These advancements have the potential to transform numerous industries and the environment. For example, in agriculture, synthetic biology can enhance the nutritional value of crops, boost disease resistance, and reduce reliance on harmful chemical fertilizers. In healthcare, it offers improved diagnostic tools and more effective treatments. In the energy sector, synthetic biology is playing an important role in the transition from fossil fuels to a bio-based fuel economy. Synthetic biology can also be used to aid environmental remediation, removing toxins and microplastics from our ecosystems.
+
+Synthetic biology holds the promise of a more sustainable future across multiple industries, driven by the innovative use of biological systems. But how can you engineer biology?
+
+How do you design a microorganism?
+
+Synthetic biologists use the building blocks of life, DNA, to create genetic parts similar to how a computer is made up of chips and cables. Like a computer, changing and playing around with the mechanical parts allows the computer to do different things. So think about microorganisms as the computer and the genetic parts as the mechanical features that keep the microorganism functioning. These genetic parts can be DNA sequences, genes, enzymes or biological pathways from different microorganisms. Synthetic biologists use these different parts by engineering them to work together in a certain microorganism, such as a yeast, so that it can produce a new function or produce a new product. One example of this is how yeast was engineered to produce the antimalarial compound artemisinin. Another example is the synbio company Number 8 Bio who are working to engineer microorganisms that reduce methane production in cows. These are just some of the exciting innovations developed by synthetic biology. The applications of synthetic biology are limitless and there is still much research ahead to unlock the full potential and capabilities of synthetic biology, both for Australia and the world.
+
+Key Organisations in Australia supporting Synthetic Biology research
+
+Four key organisations drive synthetic biology research and collaboration in Australia: Synthetic Biology Australasia (SBA), ARC Centre of Excellence in Synthetic Biology (ARCCoESB), CSIRO Synthetic Biology Future Sciences Platform and the CSIRO Advanced Engineering Biology Future Science Platform. These organisations promote the vision of synthetic biology to transform our world by transitioning towards a sustainable bioeconomy that addresses 21st-century demands such as climate change, food security and human health.
+
+SBA is a collaborative community of synthetic biologists and scientists from various research institutions across Australia and New Zealand. They strive to support the growing synthetic biology community within the Australasian region by connecting members through events, conferences and networking opportunities. Additionally the SBA aims to interconnect the field of synthetic biology across other disciplines extending a warm welcome to social scientists, artists, ethicists and students to contribute to this vibrant community.
+
+The ARC CoESB is the leading synthetic biology research centre in Australia.The CoESB pioneers new designs for synthetic microbes, creating custom-designed microbial communities and organelles, and entirely new-to-nature biological pathways and enzymes.The centre connects nine Australian universities with industries, research facilities and international universities, providing a wide-reaching network for collaboration. They also engage with educational and creative outreach inthe wider community to bring synthetic biology to students, science enthusiasts and the general public alike.
+
+CSIRO SynBio FSP strives to develop and promote the synthetic biology capabilities of Australia through innovative and collaborative research nationally across academia, government and industry. Their focus is to ensure that synthetic biology remains competitive and active in its capacity for future development. They also maintain a dialogue with the public of the rewards and risks related to synthetic biology as the field develops.
+
+CSIRO AEB FSP focuses on Australian biotechnological developments and promotes the positive impacts of engineering biology research. The platform showcases innovative projects that offer accessible and sustainable solutions to global problems. Projects include: microalgae as bioplastic factories and engineering yeast to enhance protein production.
+
+‍Why it Matters and How You Can Get Involved
+
+Synthetic biology is leading the way in innovation, aiming for a future where sustainable bio-manufacturing thrives. In this future, microbes will produce essential resources like biofuels and medicine, driving scientific breakthroughs and enhancing human well-being.
+
+Achieving this future requires support from people across various fields. While synthetic biologists work in labs, enthusiastic educators and communicators are needed to share their research. Ethicists help understand the broader impacts, artists connect emotionally with the public, and curious students ask important questions.Together, we can harness the power of microbes to create a better world.
+
+#Event Join us for An Evening of SynBio and Human Health: Talks on Ancestral Antibiotics and Nanoparticles
+
+Join SBA-Sydney on our first event of 2023! The event will be held in person at the UNSW Founders Event Space just a short hop from the centre of Sydney.
+
+SBA volunteered for Science Week and our booth had an interactive zooxanthellae genetic engineering poster/game, which was created by volunteers from the SBA, JAMS and CoESB.
+
+Synbio Panel Talk Sydney 2022
+
+The topic for synbio panel discussion was "From Lab Bench to Industry," with speakers from a variety of companies working in the synthetic biology field in Australia.
+
+Synthetic Biology Australasia is run by a team of volunteers from across Australia and New Zealand. We acknowledge the First Nations owners of the lands where our members work and live. We pay our respect to their Elders, lores, customs, and creation spirits. We recognise their great knowledge and care of the lands and waterways. Sovereignty has never been ceded. It always was and always will be Aboriginal land.
