@@ -1,0 +1,37 @@
+A way to share secrets backed by a quantum stamp of approval.
+
+Digital communication is something we do every day—or, perhaps for some of us, every minute. We text and email our friends and family, we send banking information to online stores, and we traverse the internet to reach web pages just like this. Much of the time, the information we send is private, and it’s essential for it to stay that way.
+
+Cryptography is the science of securing messages from the prying eyes of uninvited eavesdroppers, thus thwarting their attempts to read through our secrets. Over the years, cryptographers have invented ways to cloak information in a kind of protective casing made from math. To steal your information directly, intruders need a supercomputer to break through the math.
+
+But some of these safeguards are under threat: The advent of large-scale quantum computers that can solve certain math problems quickly will render popular methods of protection (like RSA) obsolete. At the moment, this is a ways off, and people are currently working on new tools to prevent hacking by any powerful computer, quantum or not. For some issues, quantum cryptography is poised to lend a hand in ensuring privacy.
+
+One way to defend data is a twist on conventional cryptography, known as quantum key distribution. This tool creates a secret key, shared by two parties, that can be used to protect digital messages. The new part is that it uses features of quantum measurement and superposition to share secrets in a way that promises absolute security backed by a quantum stamp of approval.
+
+Creating the key involves sharing and measuring photons (bits of light energy) that live in a quantum superposition. If a fraudster wants to learn the secret key, they face a Catch-22. The only thing they can do is measure a passing photon. But as soon as they do that, the photon’s quantum superposition is destroyed. This snooping leaves a trace that the two parties can detect, tipping them off to the presence of an interloper. And if they don’t detect a disturbance, they can be certain that the secret key they share is known only to them.
+
+Modern Cryptography and Secret Keys
+
+When communicating over long distances, messages usually have to travel through public channels, like cellular networks or WiFi. Secret keys provide a way to scramble messages so that, to a snooping outsider, a passing packet of information looks like complete gibberish. Only someone who knows how a message was scrambled can unscramble it and get the information back out. The science of cryptography lies in making sure the two people communicating have the right scrambler and unscrambler and in ensuring that they are not available to any eavesdroppers listening in.
+
+Cryptographers love to talk about their two imaginary friends, Alice and Bob. Alice wants to send a message to Bob. If they start by sharing two copies of a key, Alice can use her copy to lock the message in a safe, which she then sends to Bob. Since Bob has a copy of the key, he can get the message out of the safe with ease. An eavesdropper without the key would have no way of getting at the message.
+
+In reality, the internet doesn’t work by moving heavy safes around. Instead, we transmit information in the form of the 0s and 1s of the binary alphabet. A key is a sequence of 0s and 1s known only to Alice and Bob. Alice scrambles her message by adding the key to it, and Bob unscrambles it by subtracting the key from what he receives. Once again, without the key, the eavesdropper has no way of understanding
+
+This encryption method, called secret-key cryptography, is perfectly secure as long as the key remains secret. There’s one big problem though: How do Alice and Bob secretly share the key in the first place? If they send it over the same public channel beforehand, the eavesdropper could read it, clear as day.
+
+An alternative approach, called public key cryptography, doesn’t require Alice and Bob to share any secrets. Instead, they each have their own pair of keys—one public and one private. The public keys are shared freely, with anyone—even an evil eavesdropper. That’s because all the public key does is scramble up the message, and, once scrambled, only the corresponding private key can unlock it.
+
+These protocols are more complicated (two parties need four keys to communicate instead of just one), but they don’t require any secrets to be shared ahead of time. The problem with this is that we now know that many of the public key cryptography protocols in use today are vulnerable to an attack from a powerful enough quantum computer.
+
+Quantum Key Distribution
+
+Thankfully, quantum physics offers a solution to the same problem that it introduces. Instead of exchanging the 0’s and 1’s of the key online or by carrier pigeon, Alice and Bob can send individual packets of light (photons) to each other. This quantum method allows them to produce a shared secret key with a security guarantee, which they can then use as a one-time pad to safely exchange messages over any public channel.
+
+We can encode 0s and 1s into different properties of single photons, like their polarization, as well as into superpositions of those properties. When Alice and Bob exchange photons, they can each configure their quantum devices to either send and measure the photons normally, or in superposition. If Alice and Bob configure their devices the same way, they should get the same information. By choosing how they
+
+Each time the eavesdropper guesses incorrectly, they introduce errors into the system. After exchanging many quantum bits, the eavesdropper is pretty much
+
+This process is a type of quantum cryptography called quantum key distribution (QKD), and directly takes quantum features like superposition, measurement, and uncertainty and uses them to build a brand new technology. Some methods for QKD even bring entanglement into play. The technology to generate, manipulate, transmit, and measure single photons exists and is improving rapidly, and scientists have built QKD networks in major cities like Vienna and Tokyo. It might not be long before the rest of us secure some of the information we communicate using the laws of quantum physics!
+
+Have some ideas? Want to contibute? Contact us!
