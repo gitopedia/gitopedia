@@ -1,4 +1,5 @@
 # Smart-Grids Articles
 
-- [Smart Grids: A Comprehensive Review of Technologies, Challenges, and Future Directions](smart-grid-technologies.md)
+- [Energy Storage Solutions](energy-storage-solutions.md)
+- [Smart Grid Technologies](smart-grid-technologies.md)
 
