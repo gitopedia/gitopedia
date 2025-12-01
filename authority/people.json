@@ -533,5 +533,45 @@
     "id": "person:sin-itiro-tomonaga",
     "label": "Sin-Itiro Tomonaga",
     "aliases": []
+  },
+  {
+    "id": "person:genghis-khan",
+    "label": "Genghis Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:ögödei-khan",
+    "label": "Ögödei Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:batu-khan",
+    "label": "Batu Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:orda-khan",
+    "label": "Orda Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:kublai-khan",
+    "label": "Kublai Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:hülegü-khan",
+    "label": "Hülegü Khan",
+    "aliases": []
+  },
+  {
+    "id": "person:timur-(1336–1405)",
+    "label": "Timur (1336–1405)",
+    "aliases": []
+  },
+  {
+    "id": "person:öz-beg-khan-(d.-1341)",
+    "label": "Öz Beg Khan (d. 1341)",
+    "aliases": []
   }
 ]
