@@ -2,6 +2,7 @@
 
 - [CRISPR-Cas Systems: Mechanisms, Applications, and Ethical Challenges](crispr-cas9-gene-editing.md)
 - [Epigenetics](epigenetics.md)
+- [Genomic and Personalized Medicine: An Overview of Advancements, Applications, and Challenges](genomic-medicine.md)
 - [mRNA Vaccine Technology](mrna-vaccine-technology.md)
 - [Personalized Medicine: A Comprehensive Review](personalized-medicine.md)
 
