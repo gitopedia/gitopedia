@@ -113,5 +113,35 @@
     "id": "org:prentice-hall",
     "label": "Prentice Hall",
     "aliases": []
+  },
+  {
+    "id": "org:uniswap",
+    "label": "Uniswap",
+    "aliases": []
+  },
+  {
+    "id": "org:aave",
+    "label": "Aave",
+    "aliases": []
+  },
+  {
+    "id": "org:chainlink",
+    "label": "Chainlink",
+    "aliases": []
+  },
+  {
+    "id": "org:vechain",
+    "label": "VeChain",
+    "aliases": []
+  },
+  {
+    "id": "org:polygon",
+    "label": "Polygon",
+    "aliases": []
+  },
+  {
+    "id": "org:arbitrum",
+    "label": "Arbitrum",
+    "aliases": []
   }
 ]
