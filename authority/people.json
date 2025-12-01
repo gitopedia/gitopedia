@@ -1283,5 +1283,15 @@
     "id": "person:abdullah-ali-kazmi",
     "label": "Abdullah Ali Kazmi",
     "aliases": []
+  },
+  {
+    "id": "person:wernher-von-braun",
+    "label": "Wernher von Braun",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-bush",
+    "label": "George W. Bush",
+    "aliases": []
   }
 ]
