@@ -268,5 +268,35 @@
     "id": "org:national-smart-grid-mission-(india)",
     "label": "National Smart Grid Mission (India)",
     "aliases": []
+  },
+  {
+    "id": "org:united-nations",
+    "label": "United Nations",
+    "aliases": []
+  },
+  {
+    "id": "org:talkpal,-inc.",
+    "label": "Talkpal, Inc.",
+    "aliases": []
+  },
+  {
+    "id": "org:commonwealth-of-nations",
+    "label": "Commonwealth of Nations",
+    "aliases": []
+  },
+  {
+    "id": "org:east-india-company",
+    "label": "East India Company",
+    "aliases": []
+  },
+  {
+    "id": "org:royal-african-company",
+    "label": "Royal African Company",
+    "aliases": []
+  },
+  {
+    "id": "org:commonwealth",
+    "label": "Commonwealth",
+    "aliases": []
   }
 ]
