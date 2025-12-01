@@ -1728,5 +1728,135 @@
     "id": "topic:hippocratic-oath",
     "label": "Hippocratic Oath",
     "aliases": []
+  },
+  {
+    "id": "topic:genomic-variation",
+    "label": "Genomic variation",
+    "aliases": []
+  },
+  {
+    "id": "topic:informed-consent",
+    "label": "Informed consent",
+    "aliases": []
+  },
+  {
+    "id": "topic:eugenics",
+    "label": "Eugenics",
+    "aliases": []
+  },
+  {
+    "id": "topic:mrna-vaccines",
+    "label": "mRNA vaccines",
+    "aliases": []
+  },
+  {
+    "id": "topic:sars-cov-2-(covid-19)",
+    "label": "SARS-CoV-2 (COVID-19)",
+    "aliases": []
+  },
+  {
+    "id": "topic:dna",
+    "label": "DNA",
+    "aliases": []
+  },
+  {
+    "id": "topic:dna-microarray",
+    "label": "DNA microarray",
+    "aliases": []
+  },
+  {
+    "id": "topic:epigenomics",
+    "label": "Epigenomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:fluorescence-in-situ-hybridization-(fish)",
+    "label": "Fluorescence in situ hybridization (FISH)",
+    "aliases": []
+  },
+  {
+    "id": "topic:genomic-data-science",
+    "label": "Genomic data science",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-mapping",
+    "label": "Genetic mapping",
+    "aliases": []
+  },
+  {
+    "id": "topic:genome-wide-association-studies",
+    "label": "Genome-wide association studies",
+    "aliases": []
+  },
+  {
+    "id": "topic:knockout-mouse",
+    "label": "Knockout mouse",
+    "aliases": []
+  },
+  {
+    "id": "topic:newborn-screening",
+    "label": "Newborn screening",
+    "aliases": []
+  },
+  {
+    "id": "topic:polygenic-risk-score",
+    "label": "Polygenic risk score",
+    "aliases": []
+  },
+  {
+    "id": "topic:polymerase-chain-reaction-(pcr)",
+    "label": "Polymerase chain reaction (PCR)",
+    "aliases": []
+  },
+  {
+    "id": "topic:chromosomes",
+    "label": "Chromosomes",
+    "aliases": []
+  },
+  {
+    "id": "topic:comparative-genomics",
+    "label": "Comparative genomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-human-genome-project",
+    "label": "The Human Genome Project",
+    "aliases": []
+  },
+  {
+    "id": "topic:genomic-medicine",
+    "label": "Genomic Medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-cas9",
+    "label": "CRISPR-Cas9",
+    "aliases": []
+  },
+  {
+    "id": "topic:dna-sequencing",
+    "label": "DNA sequencing",
+    "aliases": []
+  },
+  {
+    "id": "topic:encode-study",
+    "label": "ENCODE study",
+    "aliases": []
+  },
+  {
+    "id": "topic:100k-genomes-project",
+    "label": "100K Genomes Project",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-edited-food",
+    "label": "CRISPR-edited food",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-space-telescope",
+    "label": "James Webb Space Telescope",
+    "aliases": []
   }
 ]
