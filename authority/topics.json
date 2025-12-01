@@ -4078,5 +4078,35 @@
     "id": "topic:ai-driven-grid-management",
     "label": "AI-Driven Grid Management",
     "aliases": []
+  },
+  {
+    "id": "topic:philosophy-of-mind",
+    "label": "Philosophy of Mind",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-history-of-the-philosophy-of-mind",
+    "label": "The History of the Philosophy of Mind",
+    "aliases": []
+  },
+  {
+    "id": "topic:reductionism",
+    "label": "Reductionism",
+    "aliases": []
+  },
+  {
+    "id": "topic:consciousness",
+    "label": "Consciousness",
+    "aliases": []
+  },
+  {
+    "id": "topic:panpsychism",
+    "label": "Panpsychism",
+    "aliases": []
+  },
+  {
+    "id": "topic:extended-cognition",
+    "label": "Extended Cognition",
+    "aliases": []
   }
 ]
