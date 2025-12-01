@@ -573,5 +573,50 @@
     "id": "person:öz-beg-khan-(d.-1341)",
     "label": "Öz Beg Khan (d. 1341)",
     "aliases": []
+  },
+  {
+    "id": "person:steve-jobs",
+    "label": "Steve Jobs",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-landsteiner",
+    "label": "Karl Landsteiner",
+    "aliases": []
+  },
+  {
+    "id": "person:sir-archibald-garrod",
+    "label": "Sir Archibald Garrod",
+    "aliases": []
+  },
+  {
+    "id": "person:friedrich-miescher",
+    "label": "Friedrich Miescher",
+    "aliases": []
+  },
+  {
+    "id": "person:phoebus-levene",
+    "label": "Phoebus Levene",
+    "aliases": []
+  },
+  {
+    "id": "person:erwin-chargaff",
+    "label": "Erwin Chargaff",
+    "aliases": []
+  },
+  {
+    "id": "person:james-d.-crick",
+    "label": "James D. Crick",
+    "aliases": []
+  },
+  {
+    "id": "person:frederick-sanger",
+    "label": "Frederick Sanger",
+    "aliases": []
+  },
+  {
+    "id": "person:barack-obama",
+    "label": "Barack Obama",
+    "aliases": []
   }
 ]
