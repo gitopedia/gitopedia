@@ -978,5 +978,25 @@
     "id": "person:edmund-gettier",
     "label": "Edmund Gettier",
     "aliases": []
+  },
+  {
+    "id": "person:socrates",
+    "label": "Socrates",
+    "aliases": []
+  },
+  {
+    "id": "person:jeremy-bentham",
+    "label": "Jeremy Bentham",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stuart-mill",
+    "label": "John Stuart Mill",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-degeorge-(business-ethics)",
+    "label": "Richard DeGeorge (business ethics)",
+    "aliases": []
   }
 ]
