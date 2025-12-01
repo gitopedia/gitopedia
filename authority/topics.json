@@ -2573,5 +2573,205 @@
     "id": "topic:sdr",
     "label": "SDR",
     "aliases": []
+  },
+  {
+    "id": "topic:energy-storage-solutions",
+    "label": "Energy Storage Solutions",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-sources",
+    "label": "renewable energy sources",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-management",
+    "label": "grid management",
+    "aliases": []
+  },
+  {
+    "id": "topic:lithium-ion-battery",
+    "label": "lithium-ion battery",
+    "aliases": []
+  },
+  {
+    "id": "topic:solid-state-battery",
+    "label": "solid-state battery",
+    "aliases": []
+  },
+  {
+    "id": "topic:flow-battery",
+    "label": "flow battery",
+    "aliases": []
+  },
+  {
+    "id": "topic:frequency-regulation",
+    "label": "frequency regulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-insulation",
+    "label": "thermal insulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:abec-2025-certification",
+    "label": "ABEC 2025 Certification",
+    "aliases": []
+  },
+  {
+    "id": "topic:cwp-2025-conference",
+    "label": "CWP 2025 Conference",
+    "aliases": []
+  },
+  {
+    "id": "topic:2025-international-energy-frontiers-forum",
+    "label": "2025 International Energy Frontiers Forum",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-energy-storage",
+    "label": "grid energy storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-reduction",
+    "label": "carbon reduction",
+    "aliases": []
+  },
+  {
+    "id": "topic:lithium-ion-batteries",
+    "label": "lithium-ion batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:solid-state-batteries",
+    "label": "solid-state batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:flow-batteries",
+    "label": "flow batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:green-and-low-carbon-energy-transformation",
+    "label": "green and low-carbon energy transformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:wind-power",
+    "label": "wind power",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-power",
+    "label": "solar power",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-zero-goals",
+    "label": "net-zero goals",
+    "aliases": []
+  },
+  {
+    "id": "topic:battery-energy-storage-systems-(bess)",
+    "label": "battery energy storage systems (BESS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:pumped-hydro-storage",
+    "label": "pumped hydro storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-energy-storage-(tes)",
+    "label": "thermal energy storage (TES)",
+    "aliases": []
+  },
+  {
+    "id": "topic:compressed-air-energy-storage-(caes)",
+    "label": "compressed-air energy storage (CAES)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-storage",
+    "label": "hydrogen storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:flywheel-energy-storage",
+    "label": "flywheel energy storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:supercapacitors",
+    "label": "supercapacitors",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-vehicles-(evs)",
+    "label": "electric vehicles (EVs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:long-duration-energy-storage-(ldes)",
+    "label": "long-duration energy storage (LDES)",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-storage-systems",
+    "label": "Energy Storage Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-integration",
+    "label": "Renewable Energy Integration",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-stability",
+    "label": "Grid Stability",
+    "aliases": []
+  },
+  {
+    "id": "topic:long-duration-energy-storage",
+    "label": "Long-Duration Energy Storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-based-solutions",
+    "label": "Hydrogen-Based Solutions",
+    "aliases": []
+  },
+  {
+    "id": "topic:decarbonization",
+    "label": "Decarbonization",
+    "aliases": []
+  },
+  {
+    "id": "topic:microgrids",
+    "label": "Microgrids",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-plus-storage",
+    "label": "Solar-plus-Storage",
+    "aliases": []
+  },
+  {
+    "id": "topic:second-life-ev-batteries",
+    "label": "Second-Life EV Batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:material-recycling",
+    "label": "Material Recycling",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-driven-grid-management",
+    "label": "AI-Driven Grid Management",
+    "aliases": []
   }
 ]
