@@ -1,4 +1,4 @@
 # Blockchain Articles
 
-- [Decentralized Applications (dapps)](decentralized-applications-(dapps).md)
+- [Decentralized Applications (dApps): A Comprehensive Guide to Principles, Uses, and Risks](decentralized-applications-(dapps).md)
 
