@@ -1858,5 +1858,165 @@
     "id": "topic:james-webb-space-telescope",
     "label": "James Webb Space Telescope",
     "aliases": []
+  },
+  {
+    "id": "topic:decentralized-applications-(dapps)",
+    "label": "Decentralized Applications (dApps)",
+    "aliases": []
+  },
+  {
+    "id": "topic:blockchain-technology",
+    "label": "blockchain technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-contracts",
+    "label": "smart contracts",
+    "aliases": []
+  },
+  {
+    "id": "topic:decentralized-finance-(defi)",
+    "label": "decentralized finance (DeFi)",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-fungible-tokens-(nfts)",
+    "label": "non-fungible tokens (NFTs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:web3",
+    "label": "Web3",
+    "aliases": []
+  },
+  {
+    "id": "topic:proof-of-stake",
+    "label": "proof of stake",
+    "aliases": []
+  },
+  {
+    "id": "topic:layer-2-scaling-solutions",
+    "label": "layer 2 scaling solutions",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence-research",
+    "label": "Artificial Intelligence Research",
+    "aliases": []
+  },
+  {
+    "id": "topic:decentralized-application",
+    "label": "Decentralized Application",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-contract",
+    "label": "Smart Contract",
+    "aliases": []
+  },
+  {
+    "id": "topic:blockchain",
+    "label": "Blockchain",
+    "aliases": []
+  },
+  {
+    "id": "topic:proof-of-work-(pow)",
+    "label": "Proof-of-Work (POW)",
+    "aliases": []
+  },
+  {
+    "id": "topic:proof-of-stake-(pos)",
+    "label": "Proof-of-Stake (POS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:gas-fee",
+    "label": "Gas Fee",
+    "aliases": []
+  },
+  {
+    "id": "topic:initial-coin-offering-(ico)",
+    "label": "Initial Coin Offering (ICO)",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-fungible-token-(nft)",
+    "label": "Non-Fungible Token (NFT)",
+    "aliases": []
+  },
+  {
+    "id": "topic:decentralized-autonomous-organization-(dao)",
+    "label": "Decentralized Autonomous Organization (DAO)",
+    "aliases": []
+  },
+  {
+    "id": "topic:distributed-ledger-technology-(dlt)",
+    "label": "Distributed Ledger Technology (DLT)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryptokitties",
+    "label": "CryptoKitties",
+    "aliases": []
+  },
+  {
+    "id": "topic:2023-united-states-banking-crisis",
+    "label": "2023 United States Banking Crisis",
+    "aliases": []
+  },
+  {
+    "id": "topic:trial-of-sam-bankman-fried",
+    "label": "Trial of Sam Bankman-Fried",
+    "aliases": []
+  },
+  {
+    "id": "topic:bitcoin",
+    "label": "Bitcoin",
+    "aliases": []
+  },
+  {
+    "id": "topic:libra-(cryptocurrency)",
+    "label": "Libra (Cryptocurrency)",
+    "aliases": []
+  },
+  {
+    "id": "topic:basic-attention-token",
+    "label": "Basic Attention Token",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryptocurrency-bubble",
+    "label": "Cryptocurrency Bubble",
+    "aliases": []
+  },
+  {
+    "id": "topic:initial-exchange-offering-(ieo)",
+    "label": "Initial Exchange Offering (IEO)",
+    "aliases": []
+  },
+  {
+    "id": "topic:voiceverse-nft-plagiarism-scandal",
+    "label": "Voiceverse NFT Plagiarism Scandal",
+    "aliases": []
+  },
+  {
+    "id": "topic:distributed-computing",
+    "label": "Distributed Computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:defi",
+    "label": "DeFi",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethereum",
+    "label": "Ethereum",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryptocurrency",
+    "label": "Cryptocurrency",
+    "aliases": []
   }
 ]
