@@ -503,5 +503,20 @@
     "id": "org:h2gp-foundation",
     "label": "H2GP Foundation",
     "aliases": []
+  },
+  {
+    "id": "org:philosophy-and-public-affairs-(journal)",
+    "label": "Philosophy and Public Affairs (journal)",
+    "aliases": []
+  },
+  {
+    "id": "org:frankfurt-school-(academic-group)",
+    "label": "Frankfurt School (academic group)",
+    "aliases": []
+  },
+  {
+    "id": "org:world-trade-organization",
+    "label": "World Trade Organization",
+    "aliases": []
   }
 ]
