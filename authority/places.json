@@ -658,5 +658,10 @@
     "id": "place:cambridge-(massachusetts)",
     "label": "Cambridge (Massachusetts)",
     "aliases": []
+  },
+  {
+    "id": "place:",
+    "label": "",
+    "aliases": []
   }
 ]
