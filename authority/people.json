@@ -693,5 +693,130 @@
     "id": "person:gottlob-frege",
     "label": "Gottlob Frege",
     "aliases": []
+  },
+  {
+    "id": "person:fritz-zwicky",
+    "label": "Fritz Zwicky",
+    "aliases": []
+  },
+  {
+    "id": "person:vera-rubin",
+    "label": "Vera Rubin",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-hawking",
+    "label": "Stephen Hawking",
+    "aliases": []
+  },
+  {
+    "id": "person:chelsea-gohd",
+    "label": "Chelsea Gohd",
+    "aliases": []
+  },
+  {
+    "id": "person:diana-logreira",
+    "label": "Diana Logreira",
+    "aliases": []
+  },
+  {
+    "id": "person:jeanette-kazmierczak",
+    "label": "Jeanette Kazmierczak",
+    "aliases": []
+  },
+  {
+    "id": "person:carl-sagan",
+    "label": "Carl Sagan",
+    "aliases": []
+  },
+  {
+    "id": "person:andrzej-drukier",
+    "label": "Andrzej Drukier",
+    "aliases": []
+  },
+  {
+    "id": "person:leo-stodolsky",
+    "label": "Leo Stodolsky",
+    "aliases": []
+  },
+  {
+    "id": "person:vera-c.-rubin",
+    "label": "Vera C. Rubin",
+    "aliases": []
+  },
+  {
+    "id": "person:mario-livio",
+    "label": "Mario Livio",
+    "aliases": []
+  },
+  {
+    "id": "person:sidney-van-den-bergh",
+    "label": "Sidney van den Bergh",
+    "aliases": []
+  },
+  {
+    "id": "person:blake-crouch",
+    "label": "Blake Crouch",
+    "aliases": []
+  },
+  {
+    "id": "person:jason-dessen-(college-professor-and-physicist)",
+    "label": "Jason Dessen (college professor and physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:daniela-vargas-(artist)",
+    "label": "Daniela Vargas (artist)",
+    "aliases": []
+  },
+  {
+    "id": "person:ryan-holder-(scientist)",
+    "label": "Ryan Holder (scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:leighton-vance-(doctor)",
+    "label": "Leighton Vance (doctor)",
+    "aliases": []
+  },
+  {
+    "id": "person:amanda-lucas-(therapist)",
+    "label": "Amanda Lucas (therapist)",
+    "aliases": []
+  },
+  {
+    "id": "person:joel-edgerton-(actor)",
+    "label": "Joel Edgerton (actor)",
+    "aliases": []
+  },
+  {
+    "id": "person:jennifer-connelly-(actress)",
+    "label": "Jennifer Connelly (actress)",
+    "aliases": []
+  },
+  {
+    "id": "person:m.-night-shyamalan-(film-director)",
+    "label": "M. Night Shyamalan (film director)",
+    "aliases": []
+  },
+  {
+    "id": "person:hugh-everett-iii-(physicist)",
+    "label": "Hugh Everett III (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:andrei-linde-(physicist)",
+    "label": "Andrei Linde (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-sarah-lin-(author-of-*the-multiverse:-a-guide*)",
+    "label": "Dr. Sarah Lin (author of *The Multiverse: A Guide*)",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-moorcock-(science-fiction-writer)",
+    "label": "Michael Moorcock (science fiction writer)",
+    "aliases": []
   }
 ]
