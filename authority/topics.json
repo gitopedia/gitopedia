@@ -1008,5 +1008,150 @@
     "id": "topic:black-death",
     "label": "Black Death",
     "aliases": []
+  },
+  {
+    "id": "topic:genomics",
+    "label": "Genomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:pharmacogenomics",
+    "label": "Pharmacogenomics",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-genome-project",
+    "label": "Human Genome Project",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-medicine",
+    "label": "Molecular medicine",
+    "aliases": []
+  },
+  {
+    "id": "topic:crispr-(clustered-regularly-interspaced-short-palindromic-repeats)",
+    "label": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cardiovascular-disease",
+    "label": "Cardiovascular disease",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-mutations",
+    "label": "Genetic mutations",
+    "aliases": []
+  },
+  {
+    "id": "topic:abo-blood-group-system",
+    "label": "ABO blood group system",
+    "aliases": []
+  },
+  {
+    "id": "topic:alkaptonuria",
+    "label": "Alkaptonuria",
+    "aliases": []
+  },
+  {
+    "id": "topic:metabolome",
+    "label": "Metabolome",
+    "aliases": []
+  },
+  {
+    "id": "topic:transcriptome",
+    "label": "Transcriptome",
+    "aliases": []
+  },
+  {
+    "id": "topic:proteome",
+    "label": "Proteome",
+    "aliases": []
+  },
+  {
+    "id": "topic:genome-wide-association-study-(gwas)",
+    "label": "Genome-wide association study (GWAS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence",
+    "label": "Artificial intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:wearables",
+    "label": "Wearables",
+    "aliases": []
+  },
+  {
+    "id": "topic:patient-participation",
+    "label": "Patient participation",
+    "aliases": []
+  },
+  {
+    "id": "topic:drug-discovery",
+    "label": "Drug discovery",
+    "aliases": []
+  },
+  {
+    "id": "topic:neoplasms",
+    "label": "Neoplasms",
+    "aliases": []
+  },
+  {
+    "id": "topic:microbiota",
+    "label": "Microbiota",
+    "aliases": []
+  },
+  {
+    "id": "topic:lifestyle",
+    "label": "Lifestyle",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-imaging",
+    "label": "Molecular imaging",
+    "aliases": []
+  },
+  {
+    "id": "topic:blood-transfusion",
+    "label": "Blood transfusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:hyperlipidemias",
+    "label": "Hyperlipidemias",
+    "aliases": []
+  },
+  {
+    "id": "topic:cardiomyopathies",
+    "label": "Cardiomyopathies",
+    "aliases": []
+  },
+  {
+    "id": "topic:thrombosis",
+    "label": "Thrombosis",
+    "aliases": []
+  },
+  {
+    "id": "topic:diabetes-mellitus",
+    "label": "Diabetes mellitus",
+    "aliases": []
+  },
+  {
+    "id": "topic:heart-diseases",
+    "label": "Heart diseases",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomarkers",
+    "label": "Biomarkers",
+    "aliases": []
+  },
+  {
+    "id": "topic:stents",
+    "label": "Stents",
+    "aliases": []
   }
 ]
