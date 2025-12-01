@@ -563,5 +563,30 @@
     "id": "place:france",
     "label": "France",
     "aliases": []
+  },
+  {
+    "id": "place:san-francisco",
+    "label": "San Francisco",
+    "aliases": []
+  },
+  {
+    "id": "place:new-york",
+    "label": "New York",
+    "aliases": []
+  },
+  {
+    "id": "place:miami",
+    "label": "Miami",
+    "aliases": []
+  },
+  {
+    "id": "place:london",
+    "label": "London",
+    "aliases": []
+  },
+  {
+    "id": "place:argentina",
+    "label": "Argentina",
+    "aliases": []
   }
 ]
