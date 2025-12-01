@@ -383,5 +383,45 @@
     "id": "place:soviet-union",
     "label": "Soviet Union",
     "aliases": []
+  },
+  {
+    "id": "place:baghdad-(iraq)",
+    "label": "Baghdad (Iraq)",
+    "aliases": []
+  },
+  {
+    "id": "place:damascus-(syria)",
+    "label": "Damascus (Syria)",
+    "aliases": []
+  },
+  {
+    "id": "place:cairo-(egypt)",
+    "label": "Cairo (Egypt)",
+    "aliases": []
+  },
+  {
+    "id": "place:house-of-wisdom",
+    "label": "House of Wisdom",
+    "aliases": []
+  },
+  {
+    "id": "place:madrasah",
+    "label": "Madrasah",
+    "aliases": []
+  },
+  {
+    "id": "place:great-mosque-of-baghdad",
+    "label": "Great Mosque of Baghdad",
+    "aliases": []
+  },
+  {
+    "id": "place:house-of-wisdom-(baghdad)",
+    "label": "House of Wisdom (Baghdad)",
+    "aliases": []
+  },
+  {
+    "id": "place:córdoba-(umayyad-caliphate)",
+    "label": "Córdoba (Umayyad Caliphate)",
+    "aliases": []
   }
 ]

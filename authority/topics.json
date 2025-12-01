@@ -2173,5 +2173,110 @@
     "id": "topic:ai",
     "label": "AI",
     "aliases": []
+  },
+  {
+    "id": "topic:nobel-prize-in-physics",
+    "label": "Nobel Prize in Physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:einstein's-theory-of-relativity",
+    "label": "Einstein's theory of relativity",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-abbasid-caliphate",
+    "label": "the-abbasid-caliphate",
+    "aliases": []
+  },
+  {
+    "id": "topic:golden-age-of-islam",
+    "label": "Golden Age of Islam",
+    "aliases": []
+  },
+  {
+    "id": "topic:mawali-(non-arab-muslims)",
+    "label": "Mawali (non-Arab Muslims)",
+    "aliases": []
+  },
+  {
+    "id": "topic:vizier",
+    "label": "vizier",
+    "aliases": []
+  },
+  {
+    "id": "topic:emir",
+    "label": "emir",
+    "aliases": []
+  },
+  {
+    "id": "topic:shi'a-islam",
+    "label": "Shi'a Islam",
+    "aliases": []
+  },
+  {
+    "id": "topic:sunni-islam",
+    "label": "Sunni Islam",
+    "aliases": []
+  },
+  {
+    "id": "topic:decline-of-the-abbasid-empire",
+    "label": "decline of the Abbasid Empire",
+    "aliases": []
+  },
+  {
+    "id": "topic:abbasid-caliphate",
+    "label": "Abbasid Caliphate",
+    "aliases": []
+  },
+  {
+    "id": "topic:arabic-language",
+    "label": "Arabic language",
+    "aliases": []
+  },
+  {
+    "id": "topic:golden-age",
+    "label": "Golden Age",
+    "aliases": []
+  },
+  {
+    "id": "topic:islamic-golden-age",
+    "label": "Islamic Golden Age",
+    "aliases": []
+  },
+  {
+    "id": "topic:battle-of-talas",
+    "label": "Battle of Talas",
+    "aliases": []
+  },
+  {
+    "id": "topic:ghaznavids",
+    "label": "Ghaznavids",
+    "aliases": []
+  },
+  {
+    "id": "topic:seljuks",
+    "label": "Seljuks",
+    "aliases": []
+  },
+  {
+    "id": "topic:arab-byzantine-wars",
+    "label": "Arab-Byzantine Wars",
+    "aliases": []
+  },
+  {
+    "id": "topic:abbasid-dynasty",
+    "label": "Abbasid Dynasty",
+    "aliases": []
+  },
+  {
+    "id": "topic:mongol-invasion",
+    "label": "Mongol Invasion",
+    "aliases": []
+  },
+  {
+    "id": "topic:jizya-(tax)",
+    "label": "jizya (tax)",
+    "aliases": []
   }
 ]
