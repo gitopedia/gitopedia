@@ -5533,5 +5533,165 @@
     "id": "topic:electroweak-symmetry",
     "label": "electroweak symmetry",
     "aliases": []
+  },
+  {
+    "id": "topic:biomechanics",
+    "label": "biomechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:de-motu-animalium",
+    "label": "De Motu Animalium (work by Aristotle and Giovanni Borelli)",
+    "aliases": []
+  },
+  {
+    "id": "topic:sports-performance",
+    "label": "sports performance",
+    "aliases": []
+  },
+  {
+    "id": "topic:injury-prevention",
+    "label": "injury prevention",
+    "aliases": []
+  },
+  {
+    "id": "topic:rehabilitation",
+    "label": "rehabilitation",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-devices",
+    "label": "medical devices",
+    "aliases": []
+  },
+  {
+    "id": "topic:soft-tissue-biomechanics",
+    "label": "soft tissue biomechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomechanics-and-robotics",
+    "label": "biomechanics and robotics",
+    "aliases": []
+  },
+  {
+    "id": "topic:motion-capture-systems",
+    "label": "motion capture systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-modeling",
+    "label": "computational modeling",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomechanical-sensors",
+    "label": "biomechanical sensors",
+    "aliases": []
+  },
+  {
+    "id": "topic:orthopaedic-biomechanics",
+    "label": "orthopaedic biomechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:musculoskeletal-biomechanics",
+    "label": "musculoskeletal biomechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:wolffs-law",
+    "label": "Wolff’s law",
+    "aliases": []
+  },
+  {
+    "id": "topic:kinesiology",
+    "label": "Kinesiology",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-movement",
+    "label": "Human movement",
+    "aliases": []
+  },
+  {
+    "id": "topic:mechanics",
+    "label": "Mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:exercise-physiology",
+    "label": "Exercise physiology",
+    "aliases": []
+  },
+  {
+    "id": "topic:anatomy",
+    "label": "Anatomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:psychology-of-physical-activity",
+    "label": "Psychology of physical activity",
+    "aliases": []
+  },
+  {
+    "id": "topic:motor-control",
+    "label": "Motor control",
+    "aliases": []
+  },
+  {
+    "id": "topic:gait",
+    "label": "Gait",
+    "aliases": []
+  },
+  {
+    "id": "topic:resistance-training",
+    "label": "Resistance training",
+    "aliases": []
+  },
+  {
+    "id": "topic:lifting-technique",
+    "label": "Lifting technique",
+    "aliases": []
+  },
+  {
+    "id": "topic:back-injury",
+    "label": "Back injury",
+    "aliases": []
+  },
+  {
+    "id": "topic:static-equilibrium",
+    "label": "Static equilibrium",
+    "aliases": []
+  },
+  {
+    "id": "topic:torque",
+    "label": "Torque",
+    "aliases": []
+  },
+  {
+    "id": "topic:stability",
+    "label": "Stability",
+    "aliases": []
+  },
+  {
+    "id": "topic:simple-machines",
+    "label": "Simple machines",
+    "aliases": []
+  },
+  {
+    "id": "topic:muscles-and-joints",
+    "label": "Muscles and joints",
+    "aliases": []
+  },
+  {
+    "id": "topic:sports-science",
+    "label": "Sports Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:ergonomics",
+    "label": "Ergonomics",
+    "aliases": []
   }
 ]
