@@ -738,5 +738,25 @@
     "id": "org:stanford-encyclopedia-of-philosophy-(ethics-of-ai-and-robotics-entry)",
     "label": "Stanford Encyclopedia of Philosophy (Ethics of AI and Robotics entry)",
     "aliases": []
+  },
+  {
+    "id": "org:nature-neuroscience",
+    "label": "Nature Neuroscience",
+    "aliases": []
+  },
+  {
+    "id": "org:neuron",
+    "label": "Neuron",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-neuroscience",
+    "label": "Journal of Neuroscience",
+    "aliases": []
+  },
+  {
+    "id": "org:the-hastings-center",
+    "label": "The Hastings Center",
+    "aliases": []
   }
 ]

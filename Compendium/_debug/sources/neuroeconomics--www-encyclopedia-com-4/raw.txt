@@ -1,0 +1,71 @@
+Earth and Environment
+
+Literature and the Arts
+
+Philosophy and Religion
+
+Science and Technology
+
+Social Sciences and the Law
+
+Sports and Everyday Life
+
+Additional References
+
+Applied and social sciences magazines
+
+Neuroeconomics is a new and emerging approach in the social sciences that integrates theories, methodologies, and ideas from neuroscience, economics, and psychology to study how individuals make economic decisions. Typically, research in this field involves observing neurological activity in experimental tasks and situations, through brain imaging in humans (which monitors electrical activity or blood flow in clusters of neurons) and single neuron measurements in animals (which monitors individual neurons firing via tiny electrodes inserted into an animal’s brain). By linking observed behaviors with the neurons and brain regions that activate during such actions, neuroeconomic researchers seek to discover not only the functionality of various brain regions, but also the underlying processes that occur in decision-making as different neural systems interact. While the full benefits of this new interdisciplinary approach are still unclear, neuroeconomics has generated excitement due to its potential to advance the existing behavioral theories of its contributing disciplines. Particularly, as neuroscience and psychology are closely related fields, neuroeconomics strongly supplements behavioral economics, a subfield that seeks to integrate psychology into the rational-choice framework of neoclassical economics. Indeed, by providing a window into what was previously regarded as the “black box” of the brain, neuroeconomics can improve the accuracy of our existing decision-making models and generate new insights into the basis of economic behavior.
+
+One illustration of the potential insights derived from neuroeconomics can be found in the neuroscientific version of the classic two-player “ultimatum game” from game theory. In the traditional game, the first player is asked to decide how much of a sum of money he wishes to keep for himself and how much he wishes to offer to a second player. The second player can either accept this offer, in which both players receive the amount allocated to him by the offer, or reject it, in which neither party receives any money. While economic theory suggests that the second partner will rationally accept any nonzero offer, in behavioral economic experiments the second player typically rejects low offers (e.g., two dollars, when the other player receives eight dollars). When the experiment is conducted using functional magnetic resonance imaging (fMRI), brain scans of participants who face unfair offers indicate heightened neural activity in two competing brain regions: the bilateral anterior insula, a region associated with the emotions of anger, distress, and disgust, and the dorsolateral prefrontal cortex (dlPFC), a region associated with reasoning and deliberation. Interestingly, when insular activation exceeded dlPFC activation, participants typically rejected low offers, whereas when dlPFC activation exceeded insular activation, participants typically accepted these same offers. This finding expands our knowledge of decision-making in the traditional game theory experiment by revealing the presence of multiple, competing processes in the brain (in this case, representing affect versus cognition) that directly determine the subject’s final choice.
+
+Neuroeconomics currently faces some criticism from skeptics in its parent disciplines who are uncertain about the utility that can be gained from combining such dissimilar approaches to decision-making and behavioral analyses. Some neuroscientists question the usefulness of research involving fMRI—the most common neuroscientific technology employed in the field—because such techniques only capture images of the brain every few seconds (while neural activity occurs in milliseconds) and cannot detect activity that is less than 3 millimeters long (while neural activity can occur at 0.1 millimeters). Even among supporters of this new field, there are general inconsistencies in the perceived goals and purpose of neuroeconomics. Within this field, some neuroscientists apply the most basic elements of rational choice theory to explain neural activity—emphasizing findings such as the existence of neurons in monkeys that calculate physiological or expected utility—while some economists use neuroscience to expand upon rational choice theory and incorporate non-orthodox perspectives of economic behavior (e.g., from psychology and sociology). Overall, neuroeconomics is a new interdisciplinary field with many questions still left to answer. With likely advances in neuroscience technologies in the future, we may soon know much more about how useful the neuroeconomic approach is to decision-making research, and how individuals truly arrive at the economic decisions that they make.
+
+SEE ALSO Decision-making; Economics; Economics, Behavioral; Game Theory; Neuroscience; Psychology; Rationality
+
+Camerer, Colin, George Loewenstein, and Drazen Prelec. 2005. Neuroeconomics: How Neuroscience Can Inform Economics. Journal of Economic Literature 43: 9–64.
+
+Cassidy, John. 2006. Mind Games: What Neuroeconomics Tells Us about Money and the Brain. The New Yorker (18 September): 30–37.
+
+Glimcher, Paul W., Michael Dorris, and Hannah M. Bayer. 2005. Physiological Utility Theory and the Neuroeconomics of Choice. Games and Economic Behavior 52: 213–256.
+
+Sanfey, Alan G., George Loewenstein, Samuel M. McClure, and Jonathan D. Cohen. 2006. Neuroeconomics: Cross-currents in Research on Decision Making. TRENDS in Cognitive Science 10 (3): 108–116.
+
+Cite this article Pick a style below, and copy the text for your bibliography.
+
+"Neuroeconomics ." International Encyclopedia of the Social Sciences. . Encyclopedia.com. 1 Dec. 2025 <https://www.encyclopedia.com>.
+
+"Neuroeconomics ." International Encyclopedia of the Social Sciences. . Encyclopedia.com. (December 1, 2025). https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/neuroeconomics
+
+"Neuroeconomics ." International Encyclopedia of the Social Sciences. . Retrieved December 01, 2025 from Encyclopedia.com: https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/neuroeconomics
+
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+http://www.mla.org/style
+
+http://www.chicagomanualofstyle.org/tools_citationguide.html
+
+http://apastyle.apa.org/
+
+Most online reference entries and articles do not have page numbers. Therefore, that information is unavailable for most Encyclopedia.com content. However, the date of retrieval is often important. Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+
+In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations. Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list.
+
+Subscribe to our newsletter
+
+Sign up with your email address to receive news and updates.
+
+We respect your privacy.
+
+Privacy & Cookie Policy
+
+© 2019 Encyclopedia.com | All rights reserved.
+
+Your Use of Our Content
+
+The content we make available on this website [and through our other channels] (the “Service”) was created, developed, compiled, prepared, revised, selected, and/or arranged by us, using our own methods and judgment, and through the expenditure of substantial time and effort. This Service and the content we make available are proprietary, and are protected by these Terms of Service (which is a contract between us and you), copyright laws, and other intellectual property laws and treaties. This Service is also protected as a collective work or compilation under U.S. copyright and other laws and treaties. We provide it for your personal, non-commercial use only.
+
+You may not use, and may not authorize any third party to use, this Service or any content we make available on this Service in any manner that (i) is a source of or substitute for the Service or the content; (ii) affects our ability to earn money in connection with the Service or the content; or (iii) competes with the Service we provide. These restrictions apply to any robot, spider, scraper, web crawler, or other automated means or any similar manual process, or any software used to access the Service. You further agree not to violate the restrictions in any robot exclusion headers of this Service, if any, or bypass or circumvent other measures employed to prevent or limit access to the Service by automated means.

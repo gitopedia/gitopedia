@@ -2528,5 +2528,65 @@
     "id": "person:zellinger-(author,-adversarial-debiasing-techniques)",
     "label": "Zellinger (author, adversarial debiasing techniques)",
     "aliases": []
+  },
+  {
+    "id": "person:daniel-kahneman-1",
+    "label": "Daniel Kahneman (Nobel laureate in economics)",
+    "aliases": []
+  },
+  {
+    "id": "person:amos-tversky-1",
+    "label": "Amos Tversky (Nobel laureate in economics)",
+    "aliases": []
+  },
+  {
+    "id": "person:tiziano-costanzo",
+    "label": "Tiziano Costanzo",
+    "aliases": []
+  },
+  {
+    "id": "person:junichi-chikazoe",
+    "label": "Junichi Chikazoe",
+    "aliases": []
+  },
+  {
+    "id": "person:kohei-kawaguchi",
+    "label": "Kohei Kawaguchi",
+    "aliases": []
+  },
+  {
+    "id": "person:kanji-suzuki",
+    "label": "Kanji Suzuki",
+    "aliases": []
+  },
+  {
+    "id": "person:kosuke-uetake",
+    "label": "Kosuke Uetake",
+    "aliases": []
+  },
+  {
+    "id": "person:yasutora-watanabe",
+    "label": "Yasutora Watanabe",
+    "aliases": []
+  },
+  {
+    "id": "person:katsunori-yamada",
+    "label": "Katsunori Yamada",
+    "aliases": []
+  },
+  {
+    "id": "person:jaba-tkemaladze",
+    "label": "Jaba Tkemaladze",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-kahneman-2",
+    "label": "Daniel Kahneman (economist, Nobel laureate)",
+    "aliases": []
+  },
+  {
+    "id": "person:amos-tversky-2",
+    "label": "Amos Tversky (psychologist, Nobel laureate)",
+    "aliases": []
   }
 ]
