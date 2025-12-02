@@ -1,5 +1,5 @@
 # Space-Exploration Articles
 
-- [Mars Colonization](mars-colonization.md)
+- [Mars Exploration: History, Technology, and the Quest for Life](mars-colonization.md)
 - [Voyager Program](voyager-program.md)
 
