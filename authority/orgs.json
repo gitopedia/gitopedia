@@ -823,5 +823,30 @@
     "id": "org:pressbooks",
     "label": "Pressbooks",
     "aliases": []
+  },
+  {
+    "id": "org:european-space-agency-1",
+    "label": "European Space Agency (ESA)",
+    "aliases": []
+  },
+  {
+    "id": "org:canadian-space-agency",
+    "label": "Canadian Space Agency (CSA)",
+    "aliases": []
+  },
+  {
+    "id": "org:japan-aerospace-exploration-agency",
+    "label": "Japan Aerospace Exploration Agency (JAXA)",
+    "aliases": []
+  },
+  {
+    "id": "org:international-space-exploration-coordination-group",
+    "label": "International Space Exploration Coordination Group (ISECG)",
+    "aliases": []
+  },
+  {
+    "id": "org:northrop-grumman",
+    "label": "Northrop Grumman",
+    "aliases": []
   }
 ]
