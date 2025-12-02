@@ -1,0 +1,339 @@
+About Message From The Director » 30 Years of Impact » Mission, Vision, & Values » Our Sponsors »
+
+Message From The Director »
+
+30 Years of Impact »
+
+Mission, Vision, & Values »
+
+People Faculty » Core Staff » Post-Docs & Associates » Student Researchers » Visiting Scholars » University Affiliates » External Advisory Board »
+
+Post-Docs & Associates »
+
+Student Researchers »
+
+University Affiliates »
+
+External Advisory Board »
+
+Research MI Hydrogen » Research Areas » Methods & Tools » Projects » Labs » Data Downloads »
+
+Publications Research Publications » Factsheets » Policy Briefs »
+
+Research Publications »
+
+Education Graduate Programs » Fellowships » Student Internships » Higher Ed Teaching Resources » K-12 STEM Resources »
+
+Student Internships »
+
+Higher Ed Teaching Resources »
+
+K-12 STEM Resources »
+
+News & Events In The News » Events » Wege Lecture Series » Newsletter Archive »
+
+Wege Lecture Series »
+
+Newsletter Archive »
+
+Research Publications » Factsheets » Introduction » Built Environment » Climate Change » Energy » Biofuels Factsheet » Geothermal Energy Factsheet » Hydrogen Factsheet » Nuclear Energy Factsheet » Solar PV Energy Factsheet » U.S. Energy System Factsheet » U.S. Grid Energy Storage Factsheet » U.S. Renewable Energy Factsheet » Unconventional Fossil Fuels Factsheet » Wind Energy Factsheet » Food » Material Resources » Mobility » Sustainability Indicators » Water » Policy Briefs »
+
+Research Publications »
+
+Factsheets » Introduction » Built Environment » Climate Change » Energy » Biofuels Factsheet » Geothermal Energy Factsheet » Hydrogen Factsheet » Nuclear Energy Factsheet » Solar PV Energy Factsheet » U.S. Energy System Factsheet » U.S. Grid Energy Storage Factsheet » U.S. Renewable Energy Factsheet » Unconventional Fossil Fuels Factsheet » Wind Energy Factsheet » Food » Material Resources » Mobility » Sustainability Indicators » Water »
+
+Energy » Biofuels Factsheet » Geothermal Energy Factsheet » Hydrogen Factsheet » Nuclear Energy Factsheet » Solar PV Energy Factsheet » U.S. Energy System Factsheet » U.S. Grid Energy Storage Factsheet » U.S. Renewable Energy Factsheet » Unconventional Fossil Fuels Factsheet » Wind Energy Factsheet »
+
+Biofuels Factsheet »
+
+Geothermal Energy Factsheet »
+
+Hydrogen Factsheet »
+
+Nuclear Energy Factsheet »
+
+Solar PV Energy Factsheet »
+
+U.S. Energy System Factsheet »
+
+U.S. Grid Energy Storage Factsheet »
+
+U.S. Renewable Energy Factsheet »
+
+Unconventional Fossil Fuels Factsheet »
+
+Wind Energy Factsheet »
+
+Material Resources »
+
+Sustainability Indicators »
+
+Publications Research Publications » Factsheets » Introduction » Built Environment » Climate Change » Energy » Biofuels Factsheet » Geothermal Energy Factsheet » Hydrogen Factsheet » Nuclear Energy Factsheet » Solar PV Energy Factsheet » U.S. Energy System Factsheet » U.S. Grid Energy Storage Factsheet » U.S. Renewable Energy Factsheet » Unconventional Fossil Fuels Factsheet » Wind Energy Factsheet » Food » Material Resources » Mobility » Sustainability Indicators » Water » Policy Briefs »
+
+Research Publications »
+
+Factsheets » Introduction » Built Environment » Climate Change » Energy » Biofuels Factsheet » Geothermal Energy Factsheet » Hydrogen Factsheet » Nuclear Energy Factsheet » Solar PV Energy Factsheet » U.S. Energy System Factsheet » U.S. Grid Energy Storage Factsheet » U.S. Renewable Energy Factsheet » Unconventional Fossil Fuels Factsheet » Wind Energy Factsheet » Food » Material Resources » Mobility » Sustainability Indicators » Water »
+
+Energy » Biofuels Factsheet » Geothermal Energy Factsheet » Hydrogen Factsheet » Nuclear Energy Factsheet » Solar PV Energy Factsheet » U.S. Energy System Factsheet » U.S. Grid Energy Storage Factsheet » U.S. Renewable Energy Factsheet » Unconventional Fossil Fuels Factsheet » Wind Energy Factsheet »
+
+Biofuels Factsheet »
+
+Geothermal Energy Factsheet »
+
+Hydrogen Factsheet »
+
+Nuclear Energy Factsheet »
+
+Solar PV Energy Factsheet »
+
+U.S. Energy System Factsheet »
+
+U.S. Grid Energy Storage Factsheet »
+
+U.S. Renewable Energy Factsheet »
+
+Unconventional Fossil Fuels Factsheet »
+
+Wind Energy Factsheet »
+
+Material Resources »
+
+Sustainability Indicators »
+
+In the U.S., 5.9M commercial buildings contained 96B ft2 of floor space in 2018—an increase of 56% in number of buildings and 89% in floor space since 1979.
+
+Geothermal Energy Factsheet
+
+Geothermal Resource and Potential
+
+Geothermal energy derives from Earth’s natural heat.1 It exists in high enthalpy (volcanoes, geysers) and low enthalpy forms (heat stored in rocks in the Earth’s crust). Most heating and cooling applications utilize low enthalpy heat.2
+
+Geothermal energy has two primary applications: heating/cooling and electricity generation.1 Ground source heat pumps (GSHPs) use 75% less energy than traditional heating and cooling systems.3
+
+The U.S. has tapped less than 1% of its geothermal electricity resources; the majority is accessible through Enhanced Geothermal System technology.4,5
+
+Improving exploration and management technology could reduce development costs and risks, potentially increasing geothermal power generation 26-fold to 90 GW of always-on, flexible electricity generation capacity by 2050.18,37
+
+The U.S., Indonesia, Turkey, Philippines, and New Zealand accounted for over 67% of global installed geothermal capacity in 2023.6 The U.S. leads with 4 GW of capacity installed in 2022 and generation growing at 3% annually.7 95% of U.S. capacity is in California and Nevada.7
+
+Geothermal electricity generation is projected to increase from 15.7B kWh in 2024 to 55.9B kWh by 2050.8,9
+
+Geothermal Technology and Impacts
+
+GSHPs are the primary method for direct geothermal use, utilizing shallow ground as an energy reservoir that maintains nearly constant temperature.10
+
+GSHPs transfer heat from buildings to the ground during cooling season and from the ground to buildings during heating season.10
+
+The U.S. installed capacity of geothermal heating and cooling represents less than 10% of market potential.18
+
+Direct-use applications include space and district heating, greenhouses, aquaculture, and commercial and industrial processes.12
+
+In 2024, the U.S. had the most installed geothermal capacity in the world at 19,499 GWh, representing 0.4% of U.S. electricity generation.8,6
+
+Hydrothermal energy from underground water reservoirs is the main thermal source for electricity generation. Water is pumped as steam to the surface to spin electricity-generating turbines.14
+
+Dry steam plants route steam directly from geothermal reservoirs through turbines to drive generators.14
+
+Flash steam plants pump high-pressure hot water into low-pressure surface tanks, causing rapid “flashing” to steam that spins turbine generators. These are the most common type of geothermal plants.14
+
+Binary cycle plants use separate closed-loop systems for geothermal water and working fluid. Heat exchangers transfer heat to the working fluid, causing it to flash to steam to power turbine generators.14
+
+Enhanced Geothermal Systems (EGS) technology under development could expand geothermal use to new geographic areas. EGS creates subsurface fracture systems to increase rock permeability, allowing injection of heat transfer fluid (typically water) that is heated by the rock and returned to the surface for electricity generation.15
+
+The technical potential of new geothermal systems is second only to solar PV among renewable technologies and sufficient to meet global electricity demand 140 times over.34
+
+The U.S. DOE estimates over 100 GW of potential geothermal electric capacity in the continental U.S.—nearly 10% of current electricity capacity and 40 times current installed geothermal capacity.15
+
+The main stages of geothermal power development are resource exploration, drilling, reservoir/plant development, and power generation.16
+
+Geothermal power projects have higher capital costs ($3,000-$6,000/kW) compared to onshore wind or utility-scale solar ($1,700-$2,100/kW).18 However, geothermal offers low operating costs and high capacity factors of >90% (ratio of actual power production to production potential).16,18
+
+In 2025, geothermal electricity cost $88/MWh, nearly half the price of coal or gas but about $10-$20 more than onshore wind and solar.39
+
+Geothermal plants qualified for the federal Production Tax Credit (PTC) as of May 2020. The 2023 Inflation Reduction Act renewed and expanded the PTC, providing up to 2.75¢/kWh for geothermal electricity generation.19
+
+If deep cost reductions for next-generation geothermal can be achieved, total investment could reach $1T cumulatively by 2035 and $2.5T by 2050.34
+
+Geothermal power plants do not burn fuel but may release small amounts of SO2 and CO2. They emit 97% less acid rain-causing sulfur compounds and 99% less CO2 than similarly sized fossil fuel plants.35
+
+Most geothermal plants inject used geothermal steam and water back into the earth, helping renew the resource and reduce emissions.35
+
+Binary cycle plants consume 0.24-4.21 gal of water/kWh while flash plants use 1.59-2.84 gal/kWh, compared to 15 gal/kWh for thermoelectric plants in 2015.22,23
+
+Each year, U.S. geothermal electricity offsets emissions of 22 Mt of CO₂, 200,000 Mt of nitrogen oxides, and 110 kt of particulate matter from coal plants.18
+
+The U.S. DOE is actively funding research into combining carbon capture and storage with geothermal energy production, although the risks of long-term and high-volume geologic carbon sequestration are uncertain.24,25
+
+Some geothermal facilities produce solid waste that must be disposed of in approved sites, though some by-products can be recovered and recycled.26
+
+Solutions and Sustainable Actions
+
+With a capacity factor over 90%, geothermal electricity generation could offset coal, natural gas, or nuclear power as baseload supply in the electricity market.17
+
+The IRA provides federal tax credits covering up to 30% of qualifying residential GSHP system costs (depending on construction date) from 2006 through 2034.30,36
+
+Renewable Portfolio Standards (RPS) require electricity providers to obtain a minimum fraction of energy from renewable resources.28
+
+Renewable Energy Certificates (RECs) are sold by renewable energy producers in addition to the electricity they produce; for a few cents per kWh, consumers can purchase RECs to “offset” their usage and help renewable energy become more competitive.29
+
+Around 850 utilities in the U.S. offer customers the option to purchase renewable energy, or “green power.”31
+
+Many companies purchase renewable energy as part of their environmental programs. Microsoft, Google, T-Mobile, Walmart, and AT&T were the top five users of renewable energy as of July 2024.32
+
+Center for Sustainable Systems, University of Michigan. 2025. "Geothermal Energy Factsheet." Pub. No. CSS10-10.
+
+1. U.S. Department of Energy (DOE), National Renewable Energy Laboratory (NREL) (2021) “Geothermal Energy Basics.”
+
+https://www.nrel.gov/research/re-geothermal.html
+
+2. Banks, D. (2008) An Introduction to Thermogeology: Ground Source Heating and Cooling.
+
+http://onlinelibrary.wiley.com/book/10.1002/9781444302677
+
+3. Geothermal Exchange Organization. (2019) Geothermal Benefits.
+
+https://www.geoexchange.org/geothermal-benefits/
+
+4. U.S. Geological Survey (2008) Assessment of Moderate- and High-Temperature Geothermal Resources of the United States.
+
+http://pubs.usgs.gov/fs/2008/3082/
+
+5. U.S. Department of Energy, IEA Geothermal (2024) 2022 United States Country Report.
+
+https://www.iea-gia.org/our-members/united-states
+
+6. International Renewable Energy Agency (2025) Country Rankings Capacity and Generation
+
+https://www.irena.org/Data/View-data-by-topic/Capacity-and-Generation/Country-Rankings
+
+7. IEA Geothermal (2025) Annual Report 2023
+
+https://drive.google.com/file/d/1r9nfsBdSNSgdzxpPtIpX2sn7YYWz1emF/view
+
+8. U.S. Energy Information Administration (EIA) (2025) Monthly Energy Review June 2025
+
+https://www.eia.gov/totalenergy/data/monthly/pdf/mer.pdf
+
+9. U.S. EIA (2025) Annual Energy Outlook 2025
+
+https://www.eia.gov/outlooks/aeo/
+
+10. U.S. DOE, NREL (2019) “Geothermal Heat Pump Basics.”
+
+https://www.nrel.gov/research/re-geo-heat-pumps.html
+
+11. Adapted from Geothermal Exchange Organization, Inc. (2010) Home Heating with GeoExchange.
+
+12. U.S. EPA (2019) Geothermal Heating and Cooling Technologies
+
+https://19january2017snapshot.epa.gov/rhc/geothermal-heating-and-cooling-technologies_.html
+
+13. Massachusetts Institute of Technology (2006) The Future of Geothermal Energy: Impact of Enhanced Geothermal Systems (EGS) on the United States in the 21st Century.
+
+14. U.S. DOE, EERE, Geothermal Technologies Office (GTO) (2023) "Electricity Generation.”
+
+http://energy.gov/eere/geothermal/electricity-generation
+
+15. U.S. DOE, EERE, GTO (2016) “How an Enhanced Geothermal System Works.”
+
+http://energy.gov/eere/geothermal/maps/how-enhanced-geothermal-system-works-animation-map-embed
+
+16. U.S. DOE, NREL (2009) 2008 Geothermal Technologies Market Report.
+
+https://energy.gov/eere/wipo/downloads/2008-geothermal-technologies-market-report
+
+17. U.S. DOE, EERE, GTO (2021) “Geothermal FAQs.”
+
+http://energy.gov/eere/geothermal/geothermal-faqs
+
+18. U.S. DOE, Energy Efficiency and Renewable Energy (EERE) (2019) GeoVision: Harnessing the Heat Beneath Our Feet.
+
+https://www.energy.gov/eere/geothermal/downloads/geovision-harnessing-heat-beneath-our-feet
+
+19. U.S. EPA (2023) “Renewable Electricity Production Tax Credit Information.”
+
+https://www.epa.gov/lmop/renewable-electricity-production-tax-credit-information
+
+20. U.S. DOE, Idaho National Laboratory (2010) “What is Geothermal Energy?”
+
+21. Green Match (2025) Ground Source Heat Pumps in the UK_ A Complete Guide
+
+https://www.greenmatch.co.uk/ground-source-heat-pump
+
+22. U.S. DOE, EERE (2015) Water Efficient Energy Production for Geothermal Resources.
+
+https://www.energy.gov/sites/prod/files/2015/12/f27/Water%20Efficient%20Energy%20Production%20for%20Geothermal%20Resources.PDF
+
+23. Dieter, C., et al. (2018) "Estimated use of water in the United States in 2015." U.S. Geological Survey Circular 1441.
+
+https://pubs.usgs.gov/circ/1441/circ1441.pdf
+
+24. U.S. DOE (2016) "DOE Investing $11.5 Million to Advance Geologic Carbon Storage and Geothermal Exploration."
+
+https://www.energy.gov/articles/doe-investing-115-million-advance-geologic-carbon-storage-and-geothermal-exploration
+
+25. Hitzman, M., et al. (2012) Induced Seismicity Potential in Energy Technologies. National Academies Press.
+
+http://www.nap.edu/catalog.php?record_id=13355
+
+26. U.S. DOE, EERE (2020) Geothermal Power Plants — Minimizing Solid Waste and Recovering Minerals.
+
+https://www.energy.gov/eere/geothermal/geothermal-power-plants-minimizing-solid-waste-and-recovering-minerals
+
+27. NREL (2021) Life Cycle Greenhouse Gas Emissions
+
+https://docs.nrel.gov/docs/fy21osti/80580.pdf
+
+28. U.S. EPA (2021) “State Renewable Energy Resources.”
+
+https://www.epa.gov/statelocalenergy/state-renewable-energy-resources
+
+29. U.S. DOE, NREL (2015) “Renewable Electricity: How do you know you are using it?”
+
+https://www.nrel.gov/docs/fy15osti/64558.pdf
+
+30. DSIRE (2022) “Federal Tax Credits for Residential Renewable Energy.”
+
+https://programs.dsireusa.org/system/program/detail/1235
+
+31. U.S. EPA (2018) "Utility Green Power Products."
+
+https://www.epa.gov/green-power-markets/utility-green-power-products
+
+32. U.S. EPA (2024) “Green Power Partnership: National Top 100.”
+
+https://www.epa.gov/greenpower/green-power-partnership-national-top-100
+
+33. Photo courtesy of National Renewable Energy Laboratory.
+
+34. IEA (2025) The Future of Geothermal
+
+https://iea.blob.core.windows.net/assets/cbe6ad3a-eb3e-463f-8b2a-5d1fa4ce39bf/TheFutureofGeothermal.pdf
+
+35. U.S. EIA (2025) Geothermal energy and the environment
+
+https://www.eia.gov/energyexplained/geothermal/geothermal-energy-and-the-environment.php
+
+36. Columbia University SIPA (2025) Assessing the Energy Impacts of the One Big Beautiful Bill Act
+
+https://www.energypolicy.columbia.edu/assessing-the-energy-impacts-of-the-one-big-beautiful-bill-act
+
+37. U.S. DOE (2025) GeoVision
+
+https://www.energy.gov/eere/geothermal/geovision
+
+39. Lazard (2025) Lazard’s 2025 LCOE Plus Report
+
+https://www.lazard.com/research-insights/levelized-cost-of-energyplus-lcoeplus
+
+Where to go from here
+
+U.S. Renewable Energy Factsheet »
+
+Thank you for responding to our survey!
+
+Center for Sustainable Systems
+
+© 2025 Regents of the University of Michigan
+
+Produced by Michigan Creative, a unit of the Office of the Vice President for Communications
