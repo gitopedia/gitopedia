@@ -5133,5 +5133,270 @@
     "id": "topic:clinical-applications",
     "label": "Clinical Applications",
     "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai-and-bias",
+    "label": "Ethical AI and Bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai",
+    "label": "Ethical AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:bias-in-ai-systems",
+    "label": "Bias in AI Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-in-ai",
+    "label": "Fairness in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy-and-ai",
+    "label": "Privacy and AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:accountability-in-ai",
+    "label": "Accountability in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-society",
+    "label": "AI and Society",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulation-of-ai",
+    "label": "Regulation of AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-human-rights",
+    "label": "AI and Human Rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-governance",
+    "label": "AI Governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-environmental-ethics",
+    "label": "AI and Environmental Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai-in-business",
+    "label": "Ethical AI in Business",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-cultural-ethics",
+    "label": "AI and Cultural Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-moral-philosophy",
+    "label": "AI and Moral Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-deception",
+    "label": "AI and Deception",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-in-warfare",
+    "label": "AI in Warfare",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-autonomous-decision-making",
+    "label": "AI and Autonomous Decision-Making",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-in-education",
+    "label": "AI in Education",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-analytics",
+    "label": "Data Analytics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-winters",
+    "label": "AI Winters",
+    "aliases": []
+  },
+  {
+    "id": "topic:cybernetics",
+    "label": "Cybernetics",
+    "aliases": []
+  },
+  {
+    "id": "topic:bias-mitigation-techniques",
+    "label": "Bias Mitigation Techniques",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-bias",
+    "label": "AI bias",
+    "aliases": []
+  },
+  {
+    "id": "topic:demographic-parity",
+    "label": "demographic parity",
+    "aliases": []
+  },
+  {
+    "id": "topic:equalized-odds",
+    "label": "equalized odds",
+    "aliases": []
+  },
+  {
+    "id": "topic:calibration",
+    "label": "calibration",
+    "aliases": []
+  },
+  {
+    "id": "topic:individual-fairness",
+    "label": "individual fairness",
+    "aliases": []
+  },
+  {
+    "id": "topic:bias-testing",
+    "label": "bias testing",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-metrics",
+    "label": "fairness metrics",
+    "aliases": []
+  },
+  {
+    "id": "topic:fair-ai-development",
+    "label": "fair AI development",
+    "aliases": []
+  },
+  {
+    "id": "topic:legal-and-ethical-considerations-in-ai",
+    "label": "legal and ethical considerations in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:anti-discrimination-laws",
+    "label": "anti-discrimination laws",
+    "aliases": []
+  },
+  {
+    "id": "topic:transparency-in-ai",
+    "label": "transparency in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy-in-ai",
+    "label": "privacy in AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:weapons-of-math-destruction-(book-by-cathy-o’neil)",
+    "label": "Weapons of Math Destruction (book by Cathy O’Neil)",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-in-machine-learning-(book-by-solon-barocas,-moritz-hardt,-and-arvind-narayanan)",
+    "label": "Fairness in Machine Learning (book by Solon Barocas, Moritz Hardt, and Arvind Narayanan)",
+    "aliases": []
+  },
+  {
+    "id": "topic:generative-ai",
+    "label": "generative AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:machine-learning-fundamentals",
+    "label": "machine learning fundamentals",
+    "aliases": []
+  },
+  {
+    "id": "topic:overfitting-and-underfitting",
+    "label": "overfitting and underfitting",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-for-beginners",
+    "label": "AI for Beginners",
+    "aliases": []
+  },
+  {
+    "id": "topic:generative-ai-for-beginners",
+    "label": "generative AI for beginners",
+    "aliases": []
+  },
+  {
+    "id": "topic:ibm’s-ai-fairness-360-toolkit",
+    "label": "IBM’s AI Fairness 360 Toolkit",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-for-good-learning-hub",
+    "label": "AI for Good Learning Hub",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithmic-fairness",
+    "label": "Algorithmic Fairness",
+    "aliases": []
+  },
+  {
+    "id": "topic:machine-learning-ethics",
+    "label": "Machine Learning Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:explainable-ai-(xai)",
+    "label": "Explainable AI (XAI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:fairness-aware-data-augmentation",
+    "label": "Fairness-Aware Data Augmentation",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-in-the-loop-systems",
+    "label": "Human-in-the-Loop Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:adversarial-debiasing",
+    "label": "Adversarial Debiasing",
+    "aliases": []
+  },
+  {
+    "id": "topic:dynamic-fairness-metrics",
+    "label": "Dynamic Fairness Metrics",
+    "aliases": []
+  },
+  {
+    "id": "topic:intersectional-fairness",
+    "label": "Intersectional Fairness",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-ai-governance-models",
+    "label": "Ethical AI Governance Models",
+    "aliases": []
+  },
+  {
+    "id": "topic:gender-shades-study-(facial-recognition-bias-research)",
+    "label": "Gender Shades study (facial recognition bias research)",
+    "aliases": []
   }
 ]
