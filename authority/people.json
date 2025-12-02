@@ -2628,5 +2628,120 @@
     "id": "person:robert-brout-1",
     "label": "Robert Brout (physicist)",
     "aliases": []
+  },
+  {
+    "id": "person:hr-giger",
+    "label": "HR Giger",
+    "aliases": []
+  },
+  {
+    "id": "person:aristotle-1",
+    "label": "Aristotle (384-322 BCE)",
+    "aliases": []
+  },
+  {
+    "id": "person:galen",
+    "label": "Galen (129-216 CE)",
+    "aliases": []
+  },
+  {
+    "id": "person:leonardo-da-vinci",
+    "label": "Leonardo da Vinci (1452-1519)",
+    "aliases": []
+  },
+  {
+    "id": "person:giovanni-borelli",
+    "label": "Giovanni Borelli (1608-1679)",
+    "aliases": []
+  },
+  {
+    "id": "person:bernardo-innocenti",
+    "label": "Bernardo Innocenti",
+    "aliases": []
+  },
+  {
+    "id": "person:archimedes",
+    "label": "Archimedes",
+    "aliases": []
+  },
+  {
+    "id": "person:leonardo-da-vinci-1",
+    "label": "Leonardo da Vinci",
+    "aliases": []
+  },
+  {
+    "id": "person:galileo",
+    "label": "Galileo",
+    "aliases": []
+  },
+  {
+    "id": "person:newton",
+    "label": "Newton",
+    "aliases": []
+  },
+  {
+    "id": "person:borelli",
+    "label": "Borelli",
+    "aliases": []
+  },
+  {
+    "id": "person:eadweard-muybridge",
+    "label": "Eadweard Muybridge",
+    "aliases": []
+  },
+  {
+    "id": "person:julies-wolff",
+    "label": "Julies Wolff",
+    "aliases": []
+  },
+  {
+    "id": "person:ai-burstein",
+    "label": "AI Burstein",
+    "aliases": []
+  },
+  {
+    "id": "person:rob-pryce",
+    "label": "Rob Pryce",
+    "aliases": []
+  },
+  {
+    "id": "person:alix-bellemare",
+    "label": "Alix Bellemare",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-peter-urone",
+    "label": "Paul Peter Urone",
+    "aliases": []
+  },
+  {
+    "id": "person:roger-hinrichs",
+    "label": "Roger Hinrichs",
+    "aliases": []
+  },
+  {
+    "id": "person:william-moebs",
+    "label": "William Moebs",
+    "aliases": []
+  },
+  {
+    "id": "person:samuel-j.-ling",
+    "label": "Samuel J. Ling",
+    "aliases": []
+  },
+  {
+    "id": "person:jeff-sanny",
+    "label": "Jeff Sanny",
+    "aliases": []
+  },
+  {
+    "id": "person:galen-1",
+    "label": "Galen",
+    "aliases": []
+  },
+  {
+    "id": "person:tienne-jules-marey",
+    "label": "Étienne-Jules Marey",
+    "aliases": []
   }
 ]

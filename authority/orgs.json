@@ -793,5 +793,35 @@
     "id": "org:future-circular-collider",
     "label": "Future Circular Collider (FCC)",
     "aliases": []
+  },
+  {
+    "id": "org:beams-department",
+    "label": "BEAMS Department (Bio Electro and Mechanical Systems)",
+    "aliases": []
+  },
+  {
+    "id": "org:universit-libre-de-bruxelles",
+    "label": "Université Libre de Bruxelles",
+    "aliases": []
+  },
+  {
+    "id": "org:national-library-of-medicine",
+    "label": "National Library of Medicine",
+    "aliases": []
+  },
+  {
+    "id": "org:cic-edizioni-internazionali",
+    "label": "CIC Edizioni Internazionali",
+    "aliases": []
+  },
+  {
+    "id": "org:muscles-ligaments-and-tendons-journal",
+    "label": "Muscles, Ligaments and Tendons Journal",
+    "aliases": []
+  },
+  {
+    "id": "org:pressbooks",
+    "label": "Pressbooks",
+    "aliases": []
   }
 ]
