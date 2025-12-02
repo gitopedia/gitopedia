@@ -5478,5 +5478,100 @@
     "id": "topic:behavioral-finance",
     "label": "Behavioral Finance",
     "aliases": []
+  },
+  {
+    "id": "topic:geothermal-energy-technologies",
+    "label": "Geothermal Energy Technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:geothermal-energy",
+    "label": "Geothermal energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:wind-energy",
+    "label": "Wind energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-energy",
+    "label": "Solar energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydroelectricity",
+    "label": "Hydroelectricity",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomass-energy",
+    "label": "Biomass energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:baseload-generation",
+    "label": "Baseload generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:emissions-intensity",
+    "label": "Emissions intensity",
+    "aliases": []
+  },
+  {
+    "id": "topic:decarbonisation",
+    "label": "Decarbonisation",
+    "aliases": []
+  },
+  {
+    "id": "topic:enhanced-geothermal-systems",
+    "label": "Enhanced Geothermal Systems (EGS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:binary-cycle-power-plants",
+    "label": "binary cycle power plants",
+    "aliases": []
+  },
+  {
+    "id": "topic:geothermal-heat-pumps",
+    "label": "geothermal heat pumps (GHPs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:closed-loop-geothermal-systems",
+    "label": "closed-loop geothermal systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:drilling-technology",
+    "label": "drilling technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydraulic-fracturing",
+    "label": "hydraulic fracturing (fracking)",
+    "aliases": []
+  },
+  {
+    "id": "topic:emissions-trading",
+    "label": "emissions trading",
+    "aliases": []
+  },
+  {
+    "id": "topic:taranaki-basin-geothermal-project",
+    "label": "Taranaki Basin Geothermal Project",
+    "aliases": []
+  },
+  {
+    "id": "topic:new-zealand-emissions-trading-scheme",
+    "label": "New Zealand Emissions Trading Scheme (NZ ETS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:resource-management-act",
+    "label": "Resource Management Act (1991)",
+    "aliases": []
   }
 ]
