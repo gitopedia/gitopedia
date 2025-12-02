@@ -1,0 +1,21 @@
+# Thinking Trace for: neuroeconomics
+# Model: qwen3:32b
+# Generated: 2025-12-02T22:14:54Z
+
+Okay, I need to create a detailed article based on the provided research context. Let me start by understanding the user's query and the structure they want. The user provided a lengthy research context with various sources and specific formatting instructions. The goal is to generate a Markdown article following those guidelines.
+
+First, I'll parse the research context. It includes a lot of information about loss aversion, the role of the amygdala, neural basis, and applications in disorders and finance. The sources are numbered from [1] to [20], with some additional entries at the end, but those might be less relevant. The user wants the article structured with specific sections like Introduction, History, Key Concepts, Applications, etc., and to use inline citations with the [^number] notation.
+
+I need to start by creating the YAML front matter. The title should be something like "The Psychological and Neural Basis of Loss Aversion" as that's a key theme in the sources. The summary should mention the significance of loss aversion, its psychological roots, and the role of the amygdala. Tags could include "Neuroeconomics", "Cognitive Psychology", "Decision Making", "Amygdala", and "Behavioral Finance".
+
+Next, the Introduction section needs to define loss aversion, its importance in decision-making, and mention the neural aspects. I'll reference Kahneman and Tversky's prospect theory [^10] here since that's foundational. The History/Background section should trace the development from prospect theory in 1979 to recent studies, maybe mentioning the 2010 study by Martino et al. on amygdala damage [^11].
+
+Key Concepts will cover the psychological aspects (prospect theory, risk perception) and the neural anatomy (amygdala, basal ganglia). Applications/Uses could discuss disorders like gambling and alcohol dependence [^18], and financial decision-making [^19]. Current Status might talk about ongoing research into neural mechanisms and potential therapies. Challenges/Controversies could mention the need for larger studies and ethical issues in neuroeconomic interventions.
+
+I need to ensure each section is well-substantiated with citations. For example, when discussing the amygdala's role, cite [^11] and [^12]. When talking about the neural basis, include [^12] and [^13]. Applications in disorders should reference [^18], and financial aspects [^19] and [^20].
+
+I also need to check for consistency in the structure and make sure the flow from introduction to current status is logical. Each subsection under the main sections should be detailed enough, perhaps using Level 3 headings for subtopics like "Psychological Foundations" under Key Concepts. 
+
+I need to avoid adding any information not present in the research context. For example, the later entries in the context like "Your Brain on Aromatherapy" don't seem relevant and should be ignored. Also, ensure that all citations are correctly numbered based on the sources provided. 
+
+Let me start drafting each section, making sure to integrate the citations properly and maintain the required tone and structure. I'll check that the word count is within the 1500-2500 range, and that each section is substantial. Finally, I'll verify that all citations are correctly attributed to the right sources from the research context.
