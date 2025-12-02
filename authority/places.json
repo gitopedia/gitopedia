@@ -673,5 +673,15 @@
     "id": "place:medical-council-laboratory-of-molecular-biology-(uk)",
     "label": "Medical Council Laboratory of Molecular Biology (UK)",
     "aliases": []
+  },
+  {
+    "id": "place:marseille-(france)",
+    "label": "Marseille (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:berlin-(germany)",
+    "label": "Berlin (Germany)",
+    "aliases": []
   }
 ]
