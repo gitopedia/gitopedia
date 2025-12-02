@@ -673,5 +673,35 @@
     "id": "place:medical-council-laboratory-of-molecular-biology-(uk)",
     "label": "Medical Council Laboratory of Molecular Biology (UK)",
     "aliases": []
+  },
+  {
+    "id": "place:holy-land",
+    "label": "Holy Land",
+    "aliases": []
+  },
+  {
+    "id": "place:jerusalem",
+    "label": "Jerusalem",
+    "aliases": []
+  },
+  {
+    "id": "place:county-of-edessa",
+    "label": "County of Edessa",
+    "aliases": []
+  },
+  {
+    "id": "place:kingdom-of-jerusalem",
+    "label": "Kingdom of Jerusalem",
+    "aliases": []
+  },
+  {
+    "id": "place:clermont",
+    "label": "Clermont",
+    "aliases": []
+  },
+  {
+    "id": "place:al-aqsa-mosque",
+    "label": "Al-Aqsa Mosque",
+    "aliases": []
   }
 ]

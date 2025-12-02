@@ -2203,5 +2203,75 @@
     "id": "person:waclaw-szybalski-(renowned-geneticist)",
     "label": "Waclaw Szybalski (renowned geneticist)",
     "aliases": []
+  },
+  {
+    "id": "person:richard-the-lionheart",
+    "label": "Richard the Lionheart",
+    "aliases": []
+  },
+  {
+    "id": "person:saladin",
+    "label": "Saladin",
+    "aliases": []
+  },
+  {
+    "id": "person:king-louis-vii-of-france",
+    "label": "King Louis VII of France",
+    "aliases": []
+  },
+  {
+    "id": "person:emperor-conrad-iii",
+    "label": "Emperor Conrad III",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-tyerman",
+    "label": "Christopher Tyerman",
+    "aliases": []
+  },
+  {
+    "id": "person:jonathan-riley-smith",
+    "label": "Jonathan Riley-Smith",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-asbridge",
+    "label": "Thomas Asbridge",
+    "aliases": []
+  },
+  {
+    "id": "person:pope-urban-ii",
+    "label": "Pope Urban II",
+    "aliases": []
+  },
+  {
+    "id": "person:godfrey-of-bouillon",
+    "label": "Godfrey of Bouillon",
+    "aliases": []
+  },
+  {
+    "id": "person:alexios-i-comnenos",
+    "label": "Alexios I Comnenos",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-the-hermit",
+    "label": "Peter the Hermit",
+    "aliases": []
+  },
+  {
+    "id": "person:bohemond-of-taranto",
+    "label": "Bohemond of Taranto",
+    "aliases": []
+  },
+  {
+    "id": "person:raymond-of-toulouse",
+    "label": "Raymond of Toulouse",
+    "aliases": []
+  },
+  {
+    "id": "person:adhemar,-bishop-of-le-puy",
+    "label": "Adhemar, bishop of Le-Puy",
+    "aliases": []
   }
 ]
