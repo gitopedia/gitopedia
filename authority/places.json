@@ -673,5 +673,20 @@
     "id": "place:medical-council-laboratory-of-molecular-biology-(uk)",
     "label": "Medical Council Laboratory of Molecular Biology (UK)",
     "aliases": []
+  },
+  {
+    "id": "place:china-(micius-satellite)",
+    "label": "China (Micius satellite)",
+    "aliases": []
+  },
+  {
+    "id": "place:micius-satellite-(china)",
+    "label": "Micius satellite (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:quantum-trunk-(china)",
+    "label": "Quantum Trunk (China)",
+    "aliases": []
   }
 ]
