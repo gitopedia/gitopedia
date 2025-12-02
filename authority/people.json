@@ -2273,5 +2273,15 @@
     "id": "person:adhemar,-bishop-of-le-puy",
     "label": "Adhemar, bishop of Le-Puy",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
