@@ -4918,5 +4918,20 @@
     "id": "topic:planetary-science",
     "label": "Planetary Science",
     "aliases": []
+  },
+  {
+    "id": "topic:stem-cell-therapies",
+    "label": "Stem Cell Therapies",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomaterials",
+    "label": "Biomaterials",
+    "aliases": []
+  },
+  {
+    "id": "topic:clinical-applications",
+    "label": "Clinical Applications",
+    "aliases": []
   }
 ]
