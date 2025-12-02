@@ -798,5 +798,15 @@
     "id": "place:tevatron",
     "label": "Tevatron",
     "aliases": []
+  },
+  {
+    "id": "place:bruxelles",
+    "label": "Bruxelles (Belgium)",
+    "aliases": []
+  },
+  {
+    "id": "place:bethesda-md",
+    "label": "Bethesda, MD",
+    "aliases": []
   }
 ]
