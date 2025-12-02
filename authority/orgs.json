@@ -628,5 +628,15 @@
     "id": "org:powering-change",
     "label": "Powering Change",
     "aliases": []
+  },
+  {
+    "id": "org:globe",
+    "label": "GLOBE",
+    "aliases": []
+  },
+  {
+    "id": "org:european-space-agency",
+    "label": "European Space Agency",
+    "aliases": []
   }
 ]
