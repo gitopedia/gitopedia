@@ -603,5 +603,15 @@
     "id": "org:ginkgo-bioworks",
     "label": "Ginkgo Bioworks",
     "aliases": []
+  },
+  {
+    "id": "org:globe",
+    "label": "GLOBE",
+    "aliases": []
+  },
+  {
+    "id": "org:european-space-agency",
+    "label": "European Space Agency",
+    "aliases": []
   }
 ]
