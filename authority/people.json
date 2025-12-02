@@ -2273,5 +2273,85 @@
     "id": "person:adhemar,-bishop-of-le-puy",
     "label": "Adhemar, bishop of Le-Puy",
     "aliases": []
+  },
+  {
+    "id": "person:bennett-(quantum-cryptography)",
+    "label": "Bennett (quantum cryptography)",
+    "aliases": []
+  },
+  {
+    "id": "person:brassard-(quantum-cryptography)",
+    "label": "Brassard (quantum cryptography)",
+    "aliases": []
+  },
+  {
+    "id": "person:ekert-(quantum-cryptography)",
+    "label": "Ekert (quantum cryptography)",
+    "aliases": []
+  },
+  {
+    "id": "person:shannon-(information-theorist)",
+    "label": "Shannon (information theorist)",
+    "aliases": []
+  },
+  {
+    "id": "person:diffie-(cryptographer)",
+    "label": "Diffie (cryptographer)",
+    "aliases": []
+  },
+  {
+    "id": "person:hellman-(cryptographer)",
+    "label": "Hellman (cryptographer)",
+    "aliases": []
+  },
+  {
+    "id": "person:merkle-(cryptographer)",
+    "label": "Merkle (cryptographer)",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-wiesner-(physicist)",
+    "label": "Stephen Wiesner (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-h.-bennett-(physicist)",
+    "label": "Charles H. Bennett (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:artur-ekert-(physicist)",
+    "label": "Artur Ekert (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-bennett",
+    "label": "Charles Bennett",
+    "aliases": []
+  },
+  {
+    "id": "person:gilles-brassard",
+    "label": "Gilles Brassard",
+    "aliases": []
+  },
+  {
+    "id": "person:artur-ekert",
+    "label": "Artur Ekert",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-bennett-(quantum-cryptography)",
+    "label": "Charles Bennett (quantum cryptography)",
+    "aliases": []
+  },
+  {
+    "id": "person:gilles-brassard-(quantum-cryptography)",
+    "label": "Gilles Brassard (quantum cryptography)",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-wiesner-(quantum-cryptography)",
+    "label": "Stephen Wiesner (quantum cryptography)",
+    "aliases": []
   }
 ]

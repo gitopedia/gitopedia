@@ -703,5 +703,20 @@
     "id": "place:al-aqsa-mosque",
     "label": "Al-Aqsa Mosque",
     "aliases": []
+  },
+  {
+    "id": "place:china-(micius-satellite)",
+    "label": "China (Micius satellite)",
+    "aliases": []
+  },
+  {
+    "id": "place:micius-satellite-(china)",
+    "label": "Micius satellite (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:quantum-trunk-(china)",
+    "label": "Quantum Trunk (China)",
+    "aliases": []
   }
 ]
