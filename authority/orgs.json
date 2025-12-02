@@ -618,5 +618,15 @@
     "id": "org:kingdom-of-jerusalem",
     "label": "Kingdom of Jerusalem",
     "aliases": []
+  },
+  {
+    "id": "org:globe",
+    "label": "GLOBE",
+    "aliases": []
+  },
+  {
+    "id": "org:european-space-agency",
+    "label": "European Space Agency",
+    "aliases": []
   }
 ]

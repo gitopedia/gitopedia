@@ -1,0 +1,1015 @@
+Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+Space Science Reviews
+
+Europa Clipper Mission Design, Mission Plan, and Navigation
+
+Published: 14 February 2025
+
+Volume 221, article number 22, (2025)
+
+You have full access to this open access article
+
+L. Alberto Cangahuala1,
+
+Brent B. Buffington1,
+
+Christopher J. Scott2
+
+The Europa Clipper mission will explore Europa and investigate its habitability utilizing a set of five remote-sensing instruments that cover the electromagnetic spectrum from thermal infrared to ultraviolet wavelength, four in-situ fields and particles instruments, a dual-frequency radar, and a gravity and radio science investigation. Key mission objectives include to produce high-resolution images of Europa’s surface, determine its composition, look for signs of recent or ongoing activity, measure the thickness of the icy shell, search for subsurface lakes, and determine the depth and salinity of Europa’s ocean. The Europa Clipper Mission Plan integrates the above investigations in a way that allows for the simultaneous acquisition of complimentary datasets (i.e., datasets at the regional scale, distributed globally across Europa) utilizing a complex network of flybys while in Jupiter orbit. About 50 flybys of Europa—with closest-approach altitudes varying from several thousand kilometers to as low as 25 kilometers—will be executed over an approximately 4.3-year prime mission. We present an overview of the mission design, which is driven by the complex scientific goals of the mission but also influenced by launch vehicle capabilities, the intense Jovian radiation environment, varying thermal environment, and dependency on precise planet and moon flybys to manage the orbit. We describe the interplanetary and Jovian orbit design, Mission Plan, and Navigation Plan, and forecast performance against mission requirements to date.
+
+Similar content being viewed by others
+
+Science Overview of the Europa Clipper Mission
+
+Europa Clipper Flight System Overview
+
+The Power of High-Fidelity, Mission-Level Modeling and Simulation to Influence Spacecraft Design and Operability for Europa Clipper
+
+Avoid common mistakes on your manuscript.
+
+1 Introduction: Mission System
+
+Europa Clipper will be the third outer planet satellite tour prime mission, following the reconnaissance of the Jupiter and Saturn systems by the Galileo and Cassini missions, respectively. It is the first mission of this type to (a) focus exploration onto a single body, the ocean world Europa, and (b) assess a specific hypothesis—the habitability of this Jovian moon. Europa Clipper science requirements enable both hypothesis testing as well as exploration and discovery. The trajectory design and Mission Plan emphasize routine and repeatable observations for systematic global-regional coverage. Of course, exploration and discovery will motivate new science questions and observing strategies to which mission operations will need to respond. Given that, the Mission System (described below) actively engages the science leadership and the Project Science Group in discussions of how responsive to discoveries we can and should be during the nominal mission.
+
+1.1 Mission System Elements
+
+The Europa Clipper Mission System comprises Mission Design & Navigation, the Mission Operations System (MOS), the Ground Data System (GDS), and the mission Science Data System (mSDS):
+
+Mission Design & Navigation encompasses the work from pre-project stages to launch to (a) optimize the trajectory to meet science, project, and planetary protection constraints and requirements (Mission Design), (b) design and predict trajectory control and knowledge performance (Navigation Plan), and (c) develop the set of science and engineering operating strategies and time-ordered series of activities consistent with project resources and constraints (Mission Engineering). The work covered by (a), (b), and (c) in mission operations will be executed by the Navigation and Mission Planning & Sequencing Teams of the MOS.
+
+Mission Design & Navigation encompasses the work from pre-project stages to launch to (a) optimize the trajectory to meet science, project, and planetary protection constraints and requirements (Mission Design), (b) design and predict trajectory control and knowledge performance (Navigation Plan), and (c) develop the set of science and engineering operating strategies and time-ordered series of activities consistent with project resources and constraints (Mission Engineering). The work covered by (a), (b), and (c) in mission operations will be executed by the Navigation and Mission Planning & Sequencing Teams of the MOS.
+
+The MOS is composed of the flight operations teams, operations processes, services, hardware, software, facilities, and network infrastructure responsible for maintaining successful operations of the Flight System (FS) throughout the mission. This includes primary functions, such as planning spacecraft and instrument activities; developing and transmitting commands to the spacecraft; monitoring and assessing spacecraft and instrument health and performance; identifying, investigating, and responding to spacecraft anomalies or discoveries; and storing and disseminating collected science and engineering data. The MOS is composed of a core set of discipline-oriented subsystems (including Navigation Operations) that are designed to work together as a closed-loop system to operate the FS.
+
+The MOS is composed of the flight operations teams, operations processes, services, hardware, software, facilities, and network infrastructure responsible for maintaining successful operations of the Flight System (FS) throughout the mission. This includes primary functions, such as planning spacecraft and instrument activities; developing and transmitting commands to the spacecraft; monitoring and assessing spacecraft and instrument health and performance; identifying, investigating, and responding to spacecraft anomalies or discoveries; and storing and disseminating collected science and engineering data. The MOS is composed of a core set of discipline-oriented subsystems (including Navigation Operations) that are designed to work together as a closed-loop system to operate the FS.
+
+The GDS is part of the MOS and is composed of the underlying hardware, software, networks, facilities, and infrastructure responsible for collecting, processing, archiving, and disseminating command products, telemetry, radiometric data, and science and engineering data transmitted to/from the FS, as well as for deploying and sustaining these components and systems throughout the mission.
+
+The GDS is part of the MOS and is composed of the underlying hardware, software, networks, facilities, and infrastructure responsible for collecting, processing, archiving, and disseminating command products, telemetry, radiometric data, and science and engineering data transmitted to/from the FS, as well as for deploying and sustaining these components and systems throughout the mission.
+
+The mSDS processes payload data into raw science data products for project use and distribution.
+
+The mSDS processes payload data into raw science data products for project use and distribution.
+
+The key drivers on the Europa Clipper Mission System include project constraints, the Jovian environment, spacecraft capabilities, mission science objectives, and ongoing external requirements:
+
+Launch capabilities and mass: Throughout development, a high number of candidate launch vehicles had to be assessed against changing designs for the baseline mission, before the mission received direction in 2020 to launch on a SpaceX Falcon Heavy on the Mars-Earth-Gravity-Assist (MEGA) opportunity in 2024. Similarly, there had been high pressure to find ways to increase FS dry mass and/or minimize propellant mass throughout development.
+
+Launch capabilities and mass: Throughout development, a high number of candidate launch vehicles had to be assessed against changing designs for the baseline mission, before the mission received direction in 2020 to launch on a SpaceX Falcon Heavy on the Mars-Earth-Gravity-Assist (MEGA) opportunity in 2024. Similarly, there had been high pressure to find ways to increase FS dry mass and/or minimize propellant mass throughout development.
+
+Radiation: Mission design, planning, and operations in an intense radiation environment.
+
+Radiation: Mission design, planning, and operations in an intense radiation environment.
+
+Low-rate communications and safing responses.
+
+Low-rate communications and safing responses.
+
+Science data return: Prioritization and accountability with “data storage units” rather than a file-based system.
+
+Science data return: Prioritization and accountability with “data storage units” rather than a file-based system.
+
+Impact avoidance: In the presence of inadvertent \(\Delta \)V due to safing.
+
+Impact avoidance: In the presence of inadvertent \(\Delta \)V due to safing.
+
+Complex science goals: High number of science measurement and calibration requirements, science coordination, including responsiveness to findings.
+
+Complex science goals: High number of science measurement and calibration requirements, science coordination, including responsiveness to findings.
+
+Security: Evolving IT security requirements.
+
+Security: Evolving IT security requirements.
+
+This paper summarizes the Europa Clipper Mission Design, Mission Engineering, and Navigation development work to date in preparation for launch in 2024.Footnote 1 Section 2 summarizes the evolution and current state of the Mission Design, including the \(\Delta \)V budget. Section 3 describes the Mission Plan phases and forecast performance against requirements. Section 4 describes the corresponding forecast Navigation Plan performance. Section 5 will touch on special topics and the outlook for the mission.
+
+1.2 Flight System Overview
+
+The Europa Clipper FS comprises the spacecraft and the payload required to carry out the science investigations. Figure 1 depicts the FS components and dimensions in its launch and cruise configurations; as will be described in Sect. 3, the plan is to generally keep the –Y-axis pointed toward the Sun. Figure 2 describes the telecom antenna layouts, characteristics, and activities for planned usage. Figure 3 depicts the FS in the standard Closest Approach (C/A) configuration.
+
+Europa Clipper FS configuration depictions for launch (upper left), cruise (lower left), and partial separation view (right)
+
+Europa Clipper FS telecom antenna depictions
+
+Europa Clipper FS, with the solar arrays (and REASON antennas) in the standard C/A configuration
+
+The ten investigation/instruments are as follows: Europa Ultraviolet Spectrograph (Europa-UVS), an imaging ultraviolet spectrograph; Europa Imaging System (EIS), comprising a wide-angle and narrow-angle camera; Mapping Imaging Spectrometer for Europa (MISE), a shortwave infrared spectrometer; Europa Thermal Emission Imaging System (E-THEMIS), a thermal imager; Radar for Europa Assessment and Sounding: Ocean to Near-surface (REASON), an HF and VHF ice-penetrating radar; Mass Spectrometer for Planetary Exploration – Europa (MASPEX), a multibounce time-of-flight mass spectrometer; Surface Dust Analyzer (SUDA), a dual polarity, time-of-flight mass spectrometer; Europa Clipper Magnetometer (ECM), a set of fluxgate magnetometers mounted on a boom, Plasma Instrument for Magnetic Sounding (PIMS), a Faraday-cup based plasma instrument; Gravity and Radio Science (G/RS), achieved through use of the FS telecom subsystem. More details about the Europa Clipper spacecraft and instrument suite are available at Pappalardo et al. (2024, this collection) and Srinivasan et al. (2025, this collection), as well as the related investigation papers.
+
+2 Mission Design—Trajectory
+
+2.1 Mission Architecture
+
+Since the mid-1990s, when data returned by NASA’s Galileo spacecraft indicated the strong likelihood of a global liquid water ocean beneath Europa’s relatively thin ice shell (Anderson et al. 1998; Khurana et al. 1998; Pappalardo et al. 1999; McKinnon et al. 2009; Schubert et al. 2009), a Europa-focused mission has ranked highly among the priorities of the Planetary Science Decadal Survey (National Research Council 2011). Mission concepts have focused primarily on Europa orbiters and/or landers under the premise that these platforms would be the most conducive to performing the key Europa observations and measurements necessary to significantly advance our knowledge of Europa. However, the cost of these mission architectures, including Jupiter Europa Orbiter (JEO;Footnote 2 Clark et al. 2009), was deemed prohibitively high. As such, in early 2011, NASA asked a joint team from the Jet Propulsion Laboratory (JPL) and the Johns Hopkins Applied Physics Laboratory (APL) to study lower-cost options for exploring Europa (Europa Study Team 2012). This study ultimately gave rise to the Europa Clipper mission. The mission concept is predicated on obtaining global-regional coverage of Europa (i.e., regional scale datasets, distributed globally across Europa) via a complex network of flybys (Buffington et al. 2012a,b; Buffington 2014; Lam et al. 2015, 2018) spanning approximately 4.3 years while the FS remains in highly elliptical orbit around Jupiter. This approach enables the FS to quickly dip into the harsh radiation environment in which Europa resides to collect a large volume of Europa science data and, just as quickly, escape that environment such that the majority of the transfer time to the next Europa flyby would be available to downlink data, execute Orbital Trim Maneuvers (OTMs), recharge the batteries, and perform any other spacecraft housekeeping activities largely free of radiation dose accumulation (Fig. 4).
+
+Left: Galileo Interim Radiation Environment (GIRE); Right: Representative Europa Clipper orbit with a 14.2-day period, approximately 85% of which (12 days) is spent outside the harsh radiation environment
+
+The operational timeline of the Europa Clipper mission is divided into five phases: Launch, Interplanetary Cruise (IC), Arrival, Tour, and Disposal. Mission phases are an important part of defining the conceptual framework for a mission, as they provide a common language for engineers and scientists when discussing specific periods of the mission. Figure 5 exhibits the Mission Phase diagram for the 21F31 baseline mission trajectory.Footnote 3,Footnote 4
+
+The five major mission phases of the Europa Clipper mission (Interplanetary Cruise, Arrival, and Tour) are further divided into subphases. The durations shown are for the 21F31_V6 trajectory (includes 2024 MEGA) and dates for Launch, Mars flyby, and Earth flyby correspond to the opening launch period case on 10 October 2024. Encounters that bound each Tour subphase and trajectory phase (labeled in red) are explicitly identified
+
+2.2 Requirements on the Trajectory
+
+On 26 May 2015, NASA officially selected ten scientific instruments from six different U.S. research facilities and universities for the Europa Clipper payload (Showstack 2015). Over the subsequent years, a rich set of science measurement requirements has been developed to meet the Level 1 (L1) science requirementsFootnote 5 as well as a multitude of requirements stemming from project policies, planetary protection, launch vehicle capability, and the evolved capability and characteristics of the FS and MOS. A large subset of these requirements has been levied on Mission Design including trajectory design, navigation, and mission planning.
+
+The principal objective of the Europa Clipper mission is to investigate the habitability of Europa. Per NASA’s Astrobiological Roadmap, a habitable environment “must provide extended regions of liquid water, conditions favorable for the assembly of complex organic molecules, and energy sources to sustain metabolism” (Marais et al. 2008). From 2011 to 2014, a NASA-appointed Europa Science Definition Team (SDT) derived a set of scientific objectives that include confirming the existence of an ocean, characterizing any water within and beneath Europa’s ice shell, investigating the chemistry of the surface and ocean, and evaluating geological processes that might permit Europa’s ocean to possess the chemical energy necessary for life.
+
+The Europa SDT emphasized the need to obtain simultaneous complementary datasets at Europa to best address these driving goals and objectives as well as to acquire global-regional datasets. Both requests drive the mission design, with the latter resulting in the requirement to accomplish regional-scale, remote-sensing measurements (with sufficient coverage and resolution) in at least eleven of the 14 roughly equal-area “panels” distributed across Europa’s surface (see Fig. 10). A total of 349 science measurement requirements have been derived by the ten scientific investigations. Of those, 188 (54%) have been allocated to Mission Design.Footnote 6
+
+A set of instrument-specific visualizations was created to better understand and organize the high number of science measurement requirements levied on Mission Design for trajectory design. These visualizations succinctly capture all measurement requirements levied on Mission Design and clearly convey which datasets share common conditions describing the configuration of the spacecraft and planetary bodies for desired observation collection (Buffington et al. 2017); this facilitates the development of new or modification of existing trajectory design strategies. An example of such a visualization—in this case for E-THEMIS—is shown in Fig. 6.
+
+Visualization of Europa Clipper science themes mapped to E-THEMIS science measurement requirements; in addition to measurement requirements, planning guidelines are shown in dashed boxes
+
+The overarching goal when designing trajectories for any mission funded by the NASA Science Mission Directorate (SMD) is to maximize the number of high-quality scientific observations and measurements to meet the L1 science requirements. However, to mitigate mission cost and risk, the cost function of trajectory design optimization must balance science opportunities with propellant expenditure while also adhering to requirements stemming from the spacecraft, payload, and MOS. These requirements (59 in total) effectively constrain how Mission Design can maximize the number of scientific observations and measurements. Examples of these types of requirements include limiting the total mission duration, how close the FS can get to the sun, and eclipse durations. Other driving requirements are levied to the MD to comply with planetary protection, as discussed in detail in Campagnola et al. (2025a, 2025b). A complete list of these requirements as well as the assessment of how well the baseline trajectory meets them can be found in Sect. 2.7.
+
+2.3 Launch and Interplanetary Trajectory
+
+On 23 July 2021, NASA selected the SpaceX fully expendable Falcon Heavy launch vehicle for the Europa Clipper Project. On 14 October 2024, this launch vehicle injected the spacecraft into the MEGA interplanetary trajectory.
+
+The Falcon Heavy uses a low-altitude circular parking orbit, which typically would allow the choice between two launch opportunities per day. Because of the higher launch declination of the MEGA, however, there was only one launch window per day made available;Footnote 7 the trajectory for the opening day of the 2024 MEGA design is illustrated in Figs. 7 and 8. The trajectory was optimized to minimize post-launch \(\Delta \)V under the constraints that both the Earth and Mars flyby altitudes be greater than or equal to 300 km and 450 km, respectively, and that the Jupiter Orbit Insertion (JOI) maneuver be less than or equal to 950 m/s.
+
+2024 MEGA interplanetary trajectory for the opening day of the launch period, with units for \(\Delta \)V in m/s, C3 in km2/s2, and declination and right ascension of the launch asymptote in degrees
+
+Launch trajectory for the opening of the launch period
+
+Under these assumptions, a 21-day launch period was computed extending from 10 to 30 October 2024, with a constant Jupiter arrival date of 11 April 2030. Key mission dates for the 2024 MEGA trajectory are summarized in Table 1.
+
+To satisfy planetary protection requirements, a fixed biasing strategy was used for all dates of the launch period. This strategy represented a trade-off between applicability to all dates, probability of impact, and incurred cost in \(\Delta \)V. The strategy is described in detail in Senent et al. (2025).
+
+Small updates to the interplanetary trajectory were implemented following iterations with SpaceX that provided specific launch trajectories. The interplanetary trajectory mission analysis is discussed in more detail in a dedicated paper (Goodson et al. 2025).
+
+2.4 Jupiter Arrival and Capture
+
+Upon arrival to the Jupiter system, a 200 km altitude Ganymede gravity assist will significantly reduce the \(\Delta \)V magnitude of the JOI maneuver that will begin approximately twelve hours later. The combination of these two events will place the Europa Clipper FS in a 203-day capture orbit.
+
+JOI is modeled as a finite burn of 6.1 hours (corresponding to a deterministic 900 m/s JOI maneuver) centered on Jupiter periapsis at a range of 11.27 RJ (i.e., in the less intense outer regions of the radiation belts). The burn will be executed by the onboard thrusters, which are turned on in pairs, from two to eight, to provide up to 200 N thrust (note that past missions to Jupiter such as Galileo and Juno carried one powerful main engine and executed the JOI with shorter burns). The spacecraft will later perform a large periapsis raise maneuver (PRM) between 46 and 53 m/s near apoapsis of the capture orbit to counter solar gravity perturbations, which depress periapsis due to the orbit’s orientation relative to the Sun, and target an outbound Ganymede flyby (Ganymede-1, G01Footnote 8) with a relative velocity of 8.3 km/s. More details about the Europa Clipper Jupiter orbit capture are given in Scott et al. (2025, 2017).
+
+2.5 Jupiter Tour: The 21F31_V6 Trajectory
+
+The reference Jupiter tour as of late 2023 is referred to as 21F31_V6. 21F31_V6 is a high-fidelity, numerically integrated end-to-end trajectory. 21F31_V6 stems from a 2024 MEGA interplanetary trajectory launching in October 2024 and a Jupiter system arrival in April 2030. Once in the Jupiter system, 21F31_V6 will obtain global-regional coverage of Europa via a complex network of 53 flybys over the course of 4.3 years. In addition, seven Ganymede and nine Callisto flybys are used to shape the trajectory relative to Europa during the prime mission. The tour will reach a maximum Jupiter-centered inclination of 7.5° and has a total ionizing dose (TID)Footnote 9 of 2.97 Mrad up to the last Europa flyby. The entire tour can be broken into five distinct mission phases (Fig. 5), with some mission phases further broken down into trajectory subphases (Fig. 9). Each mission phase and trajectory subphase of 21F31_V6 will be detailed in subsequent sections. Table 2 details the 21F31_V6 targeted flybys, and Fig. 9 shows the groundtracks of the Europa flybys.
+
+Europa global-regional coverage buildup for the 21F31_V6 trajectory
+
+Before launch, minor updates to the reference trajectory will be introduced to account for updated Jupiter ephemerides (following Juno flybys of Europa, Ganymede, and Io), and to meet tweak requests by the science team. The final pre-launch reference tour is discussed in more detail in Campagnola et al. (2025a, 2025b).
+
+Beginning with Ganymede-1 (G01), five Ganymede and two Europa flybys are used to reduce the spacecraft energy relative to Jupiter and orientate the FS’s orbit to reach the correct Europa flyby conditions to begin the first full Europa flyby sequence. This sequence of Ganymede and Europa flybys (G01–G03, E01–E02, G04–G05) is referred to as the pump-down sequence. The pump-down sequence has been intentionally underutilized from a gravity assist \(\Delta \)V energy perspective, such that in the event of a JOI underburn (or overburn) of up to 20 m/s and a delay of two hours, the mission can still achieve the same Europa flyby E04 across all scenarios. Hence, the nominal subsequent Europa science tour can be executed without redesign (Scott et al. 2017).
+
+Europa, the smallest of Jupiter’s four Galilean moons, has an orbit period of 3.55 days and is in a Laplace resonance with Io and Ganymede. Like most moons in our solar system, Europa is tidally locked. This synchronous rotation results in Europa always having nearly the same orientation relative to Jupiter, and, hence, illuminated terrain is a function of where Europa is in its orbit. For flybys with spacecraft-relative velocities commensurate with the instrument payload velocity requirements near Europa and the implemented trajectory design strategies, C/A tends to be very near Europa’s prime and 180° (sub- and anti-Jovian, respectively) meridians. As a result, to obtain sunlit observations at and around C/A, Europa needs to be located near the Jupiter-Sun line (both the near and far sides of Jupiter with respect to the Sun).
+
+The mission design technique used to systematically cover a specific hemisphere of Europa to attain global-regional coverage is referred to as a crank-over-the-top (COT) sequence. A COT sequence begins with an equatorial orbit and uses several resonantFootnote 10 Europa-to-Europa transfers to increase the spacecraft’s Jupiter-relative inclination (referred to as cranking) up to the maximum inclination imax. Continuing to crank in the same direction would then decrease the spacecraft’s inclination, eventually returning to an equatorial orbit (which denotes the end of the COT sequence). Over a single COT, the spacecraft’s V-infinity vector rotates 180° around the gravity-assist body velocity vector, resulting in a set of Europa flyby groundtracks with ample regional coverage over a specific hemisphere of this gravity-assist body.
+
+Trajectory design for any Europa mission is a delicate balance of instrument coverage and time spent near Europa. In the case of the Europa Clipper mission, the time near Europa equates to Europa flybys. While scientists would clearly prefer a very high number of flybys (absent other constraints), these flybys come at the cost of additional traversals through the harsh radiation environment near Europa. Each periapsis passage incrementally increases the mission TID, and beyond a certain point, significantly drives up the FS mass and complexity, mission cost, and mission risk. On the other hand, if there were too few flybys, the scientific objectives would not be met.
+
+The first part of the 21F31_V6 Europa science tour will focus on Europa’s anti-Jovian hemisphere. Given the interplanetary trajectory arrival conditions at Jupiter, it is most efficient (in time, TID, and \(\Delta \)V) to reach Europa’s anti-Jovian hemisphere with the lighting conditions required by much of the instrument payload. Furthermore, the Radar for Europa Assessment and Sounding: Ocean to Near-surface (REASON) instrument operates in a portion of the electromagnetic spectrum near Jupiter’s radio emission frequency. For this investigation, it is preferred to cover Europa’s anti-Jovian hemisphere first because measurements performed over this hemisphere yield a much higher signal-to-noise ratio due to Europa shielding the FS from Jupiter’s ∼9 MHz emissions. The 21F31_V6 Europa Campaign 1 (EC1) consists of 26 Europa flybys over the course of 15 months. The direction of the crank is chosen to minimize the number and duration of Jupiter eclipses (Campagnola et al. 2023).
+
+Before sunlit observations over Europa’s sub-Jovian hemisphere can be collected to complete the global-regional coverage of Europa, the Europa flyby location must be moved to near the Jupiter-anti-Sun line (i.e., the opposite side of Jupiter from EC1), while making sure to avoid flybys in Jupiter’s shadow. This can be accomplished in several ways, including petal rotation using Europa flybys (i.e., continuing the previous trajectory subphase), Ganymede flybys, or Callisto flybys; different types of cyclers; a Europa \(\pi \)-transfer; or a “switch-flip.” For 21F31_V6, a petal rotation with Callisto flybys is used; it typically requires less \(\Delta \)V and TID at the expense of more Jupiter eclipses and sometimes an increased time of flight (Campagnola et al. 2019).
+
+Much like EC1, Europa Campaign 2 (EC2) is accomplished using multiple COT sequences. EC2 starts with a sequence of flybys to cover the leading hemisphere, followed by two sunlit sub-Jovian COTs, and a final nightside, anti-Jovian COT.
+
+The leading hemisphere coverage is achieved with two pairs of Europa petals composed of 5:1+ and 4:1- nonresonantFootnote 11 transfers. Following the last 4:1- transfer, COT-3 begins with inbound flybys, located at the descending node, and utilizes eight 4:1 resonant transfers (E31 to E38) to attain large latitudinal coverage from north to south. A 7:2- nonresonant Europa transfer (E39 to E40) is used to return to an inbound Europa flyby (E40). The transfer also changes the location of the subsequent set of inbound flybys enough in the clockwise direction to avoid Jupiter eclipse. Next, COT-4 utilizes seven 4:1 Europa resonant transfers (E40 to E46) with latitudinal coverage from south to north.
+
+The last COT sequence, COT-5, uses six 4:1 resonant transfers (E47 to E52) to provide nightside coverage of the anti-Jovian hemisphere, which allow dual (sunlit and unlit) coverage of the same terrain for E-THEMIS. A final Europa flyby (E53) is used to set up the decommissioning of the spacecraft.
+
+Planetary protection requirements dictate that before control of the spacecraft is lost, actions must be taken to negate the probability of biological contamination of Europa that could result from FS impact. The 21F31_V6 trajectory implements FS decommissioning via impact with Ganymede on 3 September 2034, 45 days after the last Europa flyby (E53). The impact occurs at 28.7° N. latitude and 165.8° E. longitude, at 14:00 Local Solar Time, visible from the Earth.
+
+2.6 \(\Delta \)V Budget
+
+The \(\Delta \)V budget for 21F31_V6 is presented in Table 3. The driving cost is provided by the trajectory that launches on the last day of the launch period, on 30 October 2024. The statistical components are from the best Monte Carlo sample, which is worse than 99% of the samples. Underburn, overburn, and delayed JOI result in alternate pump-down sequences, which cost up to 50 m/s more over the nominal. The navigation analysis for the updated trajectory is covered in Goodson et al. (2025) and Boone et al. (2025).
+
+Up to 70 m/s are kept for retargeting the tour in case an anomaly would cause the spacecraft to enter a safe mode after a post-approach maneuver. Up to 50 m/s are kept for any trajectory change, including a single reverse-crank, or the \(\Delta \)V to reach a radiation-safe environment, or implementing tweaks to the Europa flyby groundtracks.
+
+2.7 Requirement Validation
+
+Table 4 summarizes all requirements levied on the trajectory itself and the assessment of 21F31_V6 against these requirements.Footnote 12 An elaboration of the noncompliance follows:
+
+Maximum eclipse duration after Transition to EC2: The required value is 3.25 hours to protect battery depth of discharge (DoD) in EC2 for the worst-case scenario of a long eclipse just prior or subsequent to a high-latitude Europa flyby, when all instruments would be operating but the solar arrays would not be illuminated. 21F31_V6 has eclipses of 3.8, 3.7, and 3.3 hours. The eclipses are 24 to 16 hours prior to the C/As, and the flybys occur all at low latitudes (solar array normal generally co-planar to the ecliptic), so the arrays are well-lit for power generation and DoD is not a significant concern. Given this, the risk to achieving L1 science from this noncompliance is minimal.
+
+Maximum eclipse duration after Transition to EC2: The required value is 3.25 hours to protect battery depth of discharge (DoD) in EC2 for the worst-case scenario of a long eclipse just prior or subsequent to a high-latitude Europa flyby, when all instruments would be operating but the solar arrays would not be illuminated. 21F31_V6 has eclipses of 3.8, 3.7, and 3.3 hours. The eclipses are 24 to 16 hours prior to the C/As, and the flybys occur all at low latitudes (solar array normal generally co-planar to the ecliptic), so the arrays are well-lit for power generation and DoD is not a significant concern. Given this, the risk to achieving L1 science from this noncompliance is minimal.
+
+The Mission Plan (Bradley 2023) defines the baseline strategy for successfully achieving the objectives of the Europa Clipper mission within the capabilities and constraints of the project systems and subject to the project policies on the use of those systems. It integrates the mission requirements and objectives, including a basic description of the mission components and how they are used to achieve those requirements. The Mission Plan also documents some design features, constraints and mission options, and rationales for major strategy decisions. This baseline plan is a reference for the development of detailed activity plans both before launch and during the mission.Footnote 13 It will inform the strategic science planning process described in Pappalardo et al. (2024, this collection) and in turn will be updated by the Strategic Science Planning Guide.
+
+The Europa Clipper Mission Plan describes a baseline plan for conducting the mission, starting with launch and ending with disposal of the FS, consistent with the requirements, capabilities, and constraints that are defined in other project documentation. The Mission Plan provides two types of information:
+
+Operational strategies: The Mission Plan is a controlling document on the uplink planning process, and sections that include such controlling material are identified. Requirements, guidelines, and constraints are specific “rules” that will be part of the governance of the uplink process and will be checked in subsequent uplink product steps and reported on at associated reviews.
+
+Operational strategies: The Mission Plan is a controlling document on the uplink planning process, and sections that include such controlling material are identified. Requirements, guidelines, and constraints are specific “rules” that will be part of the governance of the uplink process and will be checked in subsequent uplink product steps and reported on at associated reviews.
+
+Descriptive material: This provides context for the operational strategies. The remaining sections are to be considered descriptive only; that is, they provide background information but do not directly influence the uplink process.
+
+Descriptive material: This provides context for the operational strategies. The remaining sections are to be considered descriptive only; that is, they provide background information but do not directly influence the uplink process.
+
+Note that the baseline trajectory (21F31_V6) is designed with 53 Europa flybys. The end of EC2 has been designed to utilize the final several Europa flybys to target a disposal at Ganymede (G08). Per agreement with NASA HQ regarding Phase E (Operations):
+
+E49 is to be the last science flyby.
+
+E49 is to be the last science flyby.
+
+E50–E53 are disposal-setup flybys.
+
+E50–E53 are disposal-setup flybys.
+
+Events after E49 + 30 days are part of Phase F (Closeout).
+
+Events after E49 + 30 days are part of Phase F (Closeout).
+
+The Mission Plan describes the 21F31_V6 tour, including all 53 flybys of Europa for science and calibration opportunities as originally intended. Use of that document for science verification and validation purposes will only consider flybys through E49.
+
+The Mission Plan describes the 21F31_V6 tour, including all 53 flybys of Europa for science and calibration opportunities as originally intended. Use of that document for science verification and validation purposes will only consider flybys through E49.
+
+Mission phases help define the conceptual framework for a mission; they provide a common language for engineers and scientists when discussing specific mission periods. Each phase has a different focus, and it is convenient to define activity constraints on a phase-by-phase basis. The Europa Clipper operational timeline is divided into five phases: Launch, IC, Arrival, Tour, and Disposal (Fig. 5). Figure 11 elaborates on Fig. 5, illustrating key activities in each mission phase.
+
+Table 5 includes the start and stop criteria for each of the 21F31_V6 mission phases as well as key details, elaborating on dates established in Table 1.
+
+Europa Clipper launched from Launch Complex 39A (LC-39A) at Kennedy Space Center in Florida on the Falcon Heavy, a commercial heavy-lift expendable launch vehicle provided by SpaceX. The FS was encapsulated in the Payload Hazardous Servicing Facility at L−7 weeks and mated to the launch vehicle in the Vehicle Assembly Building at L−6 weeks. Per the original plan, rolling the stacked launch vehicle to the pad was to have begun at L−10 days. A Mission Dress Rehearsal was to have occurred at L−6 days, and the Launch Readiness Review at L−2 days. (“L” stands for liftoff; relative times with respect to “L” include hold periods and weekends.)Footnote 14
+
+The nominal Falcon Heavy ascent profile is shown in Fig. 12. The Falcon Heavy used a low-altitude circular parking orbit; due to the high launch declination of the MEGA, there was one launch window per day. The trajectory for the opening day of the 2024 MEGA is illustrated in Fig. 8. For all launch days for this trajectory, the separation and initial acquisition are over the Goldstone DSN and Hawaii (Swedish Space Corporation) complexes, satisfying the need to have dual-complex coverage for initial acquisition.
+
+The parking orbit coast duration was just over 45 minutes followed by the Earth departure burn (EDB) of just under 14 minutes. The target interface point (TIP) was 15 minutes after the end of the EDB and was defined mutually by the launch vehicle provider and the Project as the juncture at which the FS will achieve the position and velocity that will take it onto its required interplanetary trajectory.
+
+The launch phase was a critical event focused on putting the FS onto its interplanetary trajectory and completing critical deployment of the solar array. Upon separation from the launch vehicle, the FS was programmed to complete the propulsion line venting and priming, detumbling, solar array deployment, adoption of Sun orientation, and initial acquisition of communication via a set of autonomous launch activities. Following completion of the autonomous activities, the ground successfully established two-way communication to determine FS health and orbit.
+
+3.3 Interplanetary Cruise Phase
+
+The IC phase begins the day after launch following completion of the Launch Phase, several hours after the Launch Phase telemetry has been played back. The first steps in IC involve characterizing the FS via a series of spacecraft and payload checkouts to enable the transition to the background cruise configuration. As part of this early characterization, the ECM boom and REASON HF and VHF antennas are deployed. These deployments have an impact on FS control-structure interaction that the later deployments of Europa Ultraviolet Spectrograph (Europa-UVS), EIS, SUDA, and MASPEX do not have. There are no jettisons by Europa Clipper at any time during the mission.
+
+The IC is broken into two distinct parts: Inner Cruise (InC) and Outer Cruise (OuC), with the boundary between the two defined to be when the FS crosses 2 AU for the final time and thermal constraints no longer require the HGA to act as a sunshade (Fig. 13). The two times during InC when the FS is within 2 AU are referred to as Sun-Point-Cruise1 and Sun-Point-Cruise2 and are characterized by generally low data rates except when near Earth. For the MEGA, the FS crosses the 2 AU boundary three times during InC. As can be seen in Fig. 13, data rates during Sun-Point-Cruise can vary from 120 kb/s down to 10 b/s (Turbo 1/2). When the FS loops outside of 2 AU on its trip back to Earth (during Earth-Point-Inner Cruise), however, the HGA and Ka-band can be used, and the data rate capability will reach 1 Mb/s.
+
+Figure 13 also shows the Trajectory Correction Maneuvers (TCMs) that occur during InC, including the post-injection cleanup and the support and cleanup of the MEGA. The Engineering File System is where engineering data products are stored; the plot shows how those products accumulate during the low data rate periods. Similar information is plotted for science data in the BDS device, where data goes in unfiltered and is eventually filtered so that downlink data products can be created. The total downlink capacity shown is simply the cumulative data returnable by the DSN based on the assumed tracking coverage less 5% for retransmission. Also shown is the strategy for setting the battery to a lower state of charge during IC (red) to preserve battery capacity for the Tour Phase.
+
+Regarding FS commissioning, environmental requirements on some of the instruments will necessitate postponing cover deployments and follow-on checkouts until later in cruise or, in the case of MASPEX, even until Jupiter orbit. Therefore, Europa Clipper plans an approach in which the majority (but not all) of the first-time activities will take place during two FS characterization periods, known as Flight System Characterization Part 1 (FSC1) and Flight System Characterization Part 2 (FSC2). FSC1 and FSC2 are not formal mission phases but rather groupings of activities for convenient planning. All checkouts, deployments, and characterizations that enable TCM-1 are defined as FSC1, while almost all the remaining checkout activities are defined as FSC2. The last FSC2 activity should take place roughly 10 weeks after launch, although the only criterion for exiting FSC2 is completion of the activities constituting it. After Radiation Monitor (RadMon) is turned on in FSC2, it will collect information on radiation dose throughout the rest of the mission.
+
+OuC is focused on navigating the FS to its Ganymede aimpoint, routine calibration and maintenance activities, EIS and SUDA cover deployments, and performing a JOI demonstration. During this phase, DSN tracking will be typically twice per week except when required by special activities. The IC Phase ends at the start of the Arrival Phase, 90 days prior to JOI.
+
+In summary, the focus of IC is twofold: navigation of the FS to Jupiter via gravity assists from Mars and Earth; and characterization, maintenance, and calibration of the spacecraft and payload. In the event of the need for resource prioritization among conflicting activities, the activity priorities, in order of highest to lowest, shall be:
+
+2. Trajectory maintenance (especially TCM-1 preparation)
+
+Trajectory maintenance (especially TCM-1 preparation)
+
+3. Deployment activities
+
+Deployment activities
+
+4. Remaining FS characterization activities (including subsystem and instrument checkouts)
+
+Remaining FS characterization activities (including subsystem and instrument checkouts)
+
+5. Routine calibration activities
+
+Routine calibration activities
+
+Currently, acquisition of science data is not planned during the IC.
+
+The Arrival Phase spans the last three months leading up to the JOI maneuver and the hours immediately following the completion of JOI (see Figure 14). Arrival comprises two subphases, Jupiter Approach (JA) and Jupiter Orbit Capture (JOC). The primary goal in this phase is to perform the Ganymede flyby and JOI to enter orbit around Jupiter. Arrival at Jupiter is defined to occur when the FS reaches perijove (PJ) on 11 April 2030 08:35 Barycentric Dynamical Time (TDB) (opening Launch Period 21F31_V6 trajectory), which is roughly the midpoint of the JOI burn. The range to Jupiter at PJ is 11.27 RJ (mean Jupiter equatorial radii; 1 R\(_{\mathrm{J}}\ \approx \) 71,492 km).Footnote 15
+
+The Arrival Phase encompasses several notable activities:
+
+Final JOI approach maneuvers JOI-APR-2 (PJ−30d) and JOI-APR-3 (PJ−13d)
+
+Final JOI approach maneuvers JOI-APR-2 (PJ−30d) and JOI-APR-3 (PJ−13d)
+
+Execution of the JOI Autonomous Behavior (and possible parameter update)
+
+Execution of the JOI Autonomous Behavior (and possible parameter update)
+
+Flyby of Ganymede (denoted G00) at 200 km altitude (PJ−15h)
+
+Flyby of Ganymede (denoted G00) at 200 km altitude (PJ−15h)
+
+JOI maneuver itself (encompasses PJ)
+
+JOI maneuver itself (encompasses PJ)
+
+Communication demo utilizing alternate assetsFootnote 16 prior to JOI
+
+Communication demo utilizing alternate assetsFootnote 16 prior to JOI
+
+Reaction Control System (RCS) mode characterization activity
+
+Reaction Control System (RCS) mode characterization activity
+
+Several calibration and maintenance activities
+
+Several calibration and maintenance activities
+
+Prime and backup Inertial Measurement Unit calibrations
+
+Prime and backup Inertial Measurement Unit calibrations
+
+All instruments will be off or in their respective survival mode at least through JOI except for SUDA, which will be in a Warm Target mode as a precaution against contamination from the pre-JOI Ganymede flyby and the JOI maneuver itself. In addition, the RadMon subsystem will record data continuously throughout Arrival at an increased data rate in effect from the start of the Arrival Phase until EOM.
+
+At the beginning of the JA subphase at PJ−90 days, the FS
+
+is on a trajectory to the pre-JOI, 200 km altitude Ganymede flyby,
+
+is on a trajectory to the pre-JOI, 200 km altitude Ganymede flyby,
+
+has HGA Earth-pointed, on Reaction Wheel Assembly (RWA) control,
+
+has HGA Earth-pointed, on Reaction Wheel Assembly (RWA) control,
+
+communicates with Earth via the HGA on Ka-band,Footnote 17
+
+communicates with Earth via the HGA on Ka-band,Footnote 17
+
+has max battery set-point at ∼59.6%, and
+
+has max battery set-point at ∼59.6%, and
+
+has completed all deployments except MASPEX Vacuum Door.
+
+has completed all deployments except MASPEX Vacuum Door.
+
+To prepare for the JOC subphase, the FS will have transitioned to RCS control and use of X-band and will remain in this configuration throughout JOC. At the end of JOC (and Arrival), at eight hours after perijove, we expect that the FS will be in orbit around Jupiter and that the recorded JOI data will be returned to Earth.
+
+The Tour Phase begins eight hours after PJ, over which the JOI period is roughly centered. Directly after the completion of the playback of JOI data, if the ground has determined the FS is healthy and in its expected state, the ground will transition the spacecraft from RCS to RWA control and execute instrument decontaminations of Europa-UVS and SUDA.Footnote 18 RWA control will be maintained for the remainder of the Tour (except for short periods during maneuvers, RWA biases, and a few characterization and calibration activities).
+
+Figure 15 provides an overview of the entire Tour Phase. After the completion of the post-JOI decontaminations just over a day after the start of the Tour, the environmental monitoring instruments, ECM and Plasma Instrument for Magnetic Sounding (PIMS), will begin acquiring measurements at a background rate that will persist for most of the Tour. Several Guidance, Navigation, and Control (GNC) calibrations, characterizations, and parameter updates will be conducted early in the Tour to understand how JOI changed the vehicle dynamics and ready the FS for flyby operations. In addition, instruments will begin calibration campaigns to give them the maximum time to process calibration data and modify internal parameters before the first targeted Europa flyby. Routine maintenance operations, such as thermal pump and MASPEX mechanical activities, will pick up again to ensure sufficient maintenance frequency between the IC and the Tour Phase.
+
+As instrument data begins to come in and accumulate on the BDS, the telecom system will be switched back over to use Ka-band for downlink for the remainder of the Tour, with some exceptions for propulsive maneuvers, RWA biases, and gravity science passes, which occur at attitudes that cannot point the HGA directly at Earth, and short downlinks before and after each flyby. Downlinks during ECM Y-axis rolls after flybys must use X-band since the tight pointing requirements needed for Ka-band communication cannot be guaranteed while the spacecraft is rolling. As a final preparation for the Ganymede encounter demonstrations prior to the first Europa flyby, the MASPEX vacuum door will be released two weeks after the second PRM cleanup maneuver (PRM-CU-2) to minimize the possible exposure to contaminants from engine firings during large propulsive burns. The RadMon system will provide continuous radiation monitoring both internal and external to the vault for the full duration of the Tour (at data rate increased from that in IC).
+
+Europa Campaign 1 (EC1) begins two days prior to C/A of the third targeted Europa encounter with the spacecraft in a 6:1 resonance orbit (one spacecraft orbit per six Europa orbits around Jupiter, a period of 21.3 days). Most science activities will occur close to C/A with data playback and calibration activities occurring throughout the rest of the orbit. After ∼1.3 years of performing Europa flybys at a cadence between 21.3 and 14.2 days (with one exception when the flyby separation is 46.2 days to avoid a flyby during conjunction), the FS will transition out of the radiation environment and reshape the orbit in preparation to observe the Europa sub-Jovian hemisphere. This Transition to Europa Campaign 2 (EC2) starts two days prior to the first targeted, non-Europa C/A (Callisto) following EC1. Almost eight months of orbit shaping brings the FS to the start of EC2, which begins two days prior to the next targeted Europa C/A. Many orbits in EC2 place the spacecraft in a 4:1 resonant orbit with Europa (∼14.2-day period), but over the course of the ∼14-month campaign, the time between flybys varies from around 14 to 25 days. The Tour Phase ends 30 days after the final targeted Europa flyby, absent an intervening conjunction, in which case Disposal would start on the 30th day of achieving a Sun-Earth-Probe (SEP) angle of >3°.
+
+By the end of the Tour Phase, all science data required to meet the L1 science requirements will have been received on the ground. It is possible that there is some residual, lower-priority data still on the BDS that may be played back in Disposal, but that data is not essential to the mission. The reason such data may exist is that exact prediction of the total returnable data is uncertain, and the plan has been optimistic with respect to potentially returning more, albeit lower-priority data, rather than running the buffers “dry” prior to mission end.
+
+Expenditure of Europa Clipper resources on non-Europa science, whether for planning or tour design, may risk achievement of the L1 science objectives. Therefore, planned activities during the Tour Phase only include activities that are needed to achieve those objectives. Any non-Europa science collected serendipitously through other activities, such as calibrations, is considered incidental and should not unduly drive operations planning. To the extent possible, MOS and FS activities should be planned on prime shift to maximize personnel support availability and reduce operations costs.
+
+The remainder of this section elaborates on the Tour subphases as described in Sect. 2.
+
+During this phase, the orbital inclination relative to Jupiter is reduced to near equatorial, allowing for a nonresonant transfer to Europa E03. With respect to the pump-down flyby sequence (G01–G03, E01–E02,Footnote 19 G04–G05), E01 is a 631 km altitude, nightside flyby with C/A over the sub-Jovian hemisphere, and E02 is a 278 km altitude flyby over the sunlit anti-Jovian hemisphere. Since it would violate GNC angular speed and acceleration constraints if the FS attempted to track nadir below ∼1200 km, an alternate attitude strategy has been devised for the C/A period of E02 that still provides opportunities for instruments to view and collect measurements near Europa.
+
+The first phase predominantly focused on Europa science, EC1, will concentrate on Europa’s anti-Jovian hemisphere where the lighting conditions have been set up by the pump-down sequence.
+
+The first two trajectory subphases in EC1, COT-1, and COT-2, are executed near the Jupiter-Sun line to cover the full latitudinal range of Europa’s sunlit anti-Jovian hemisphere. COT-1 and COT-2 utilize primarily 6:1 resonant transfers that are 21.3 days in duration. At the end of COT-2, two Europa flybys (E16 and E17) are used to reduce the period from a 6:1 resonant transfer to a 5:1, and then to a 4:1+ nonresonant transfer to begin the next trajectory subphase of EC1.
+
+The next portion of EC1, the petal rotation subphase, consists of a set of six nonresonant transfers. These transfers alternate between increasing and decreasing the orbit period (referred to as pumping up and pumping down the orbit energy). Furthermore, by using outbound flybys to pump up and inbound flybys to pump down, two sets of four groundtracks can be obtained over the equatorial region of Europa’s anti-Jovian hemisphere (Fig. 9 and Fig. 10). This series of Europa flybys also effectively rotates the Europa flyby location clockwise relative to the Jupiter-Sun line, eventually rendering Europa’s trailing hemisphere illuminated—a feature required by several instruments.
+
+Top: depiction of 14 panels used for coverage performance assessment; bottom: 21F31_V6 groundtracks on Europa
+
+The 2024 MEGA and the 21F31_V6 tour, along with significant engineering, navigation, and science activities, are mapped to major mission phases
+
+Nominal SpaceX Falcon Heavy ascent profile with a “fully expendable” configuration (first-stage boosters are not recovered); image credit: SpaceX
+
+IC timeline highlighting the defining 2 AU Sun range threshold dictating FS attitude and telecom capability
+
+Arrival Phase comprises activities unique to supporting the critical JOI activity, including the alternate asset demo, RCS mode characterization, and initiation of the JOI behavior; there are no solar conjunctions, solar eclipses of the FS, or Earth occultations in Arrival for the 2024 interplanetary trajectory
+
+Europa Clipper Tour and Disposal Phases overview
+
+Following the six nonresonant transfers of the petal rotation, 5:1 and 4:1 resonant transfers are implemented so that the flyby connecting them (E25) is an outbound, pump-down flyby. As a result, E25 has a C/A over the nightside, sub-Jovian hemisphere at about 3 AM local solar time, which is needed by both E-THEMIS and PIMS to obtain high-resolution dual (sunlit and unlit) coverage and plasma local time coverage, respectively.
+
+One Ganymede flyby (G06) is utilized at the beginning of this subphase to lower the V-infinity at Callisto and make the petal rotation more effective. The transfer between G06 and C02 is the shortest in the tour (9.4 days). Similarly, another Ganymede flyby (G07) is utilized toward the end of the phase to increase the V-infinity at Callisto and finally reach Europa with the V-infinity of ∼4.2 km/s.
+
+Prior to COT-3, two 5:1+ / 4:1- petals are used to cover the leading hemisphere and to rotate the Europa flyby location clockwise relative to the Jupiter-Sun line. The 4:1- transfer between E30 and E31 is the shortest Europa-to-Europa transfer of the tour (13.8 days). COT-3 and COT-4 are then executed to cover the full latitudinal range of Europa’s sunlit sub-Jovian hemisphere, and COT-5 is executed to cover the now nightside, anti-Jovian hemisphere of Europa. COT-3 and COT-4 complete the sunlit, global-regional coverage of Europa and consist mainly of 4:1 transfers plus a 7:2- non-resonant transfer connecting the two. COT-5 acquires unlit coverage of the same sunlit terrain as COT-1 and COT-2 for E-THEMIS.
+
+Except for continuous background environmental monitoring by ECM, PIMS, and RadMon, episodic SUDA survey measurements, distant Europa-UVS stellar occultations, EIS plume search opportunities, and MASPEX cryosample analyses near apoapsis, virtually all science data is acquired well within the four days centered at Europa C/A. To meet the diverse coverage and sampling requirements, each flyby will have a different profile of altitude, phase angle, local solar time, and Europa mean anomaly, but the fundamental concept of operation has been established to be repetitive and devoid of uplink process iteration to minimize complexity and operations costs.
+
+Figure 16 shows a timeline of a representative Europa flyby. Preparations for the upcoming flyby include a Mapping Imaging Spectrometer for Europa (MISE) cryocooler warmup followed by a cooldown activity and MASPEX warmup starting at C/A−1.5 days and C/A−16 hours, respectively. As the pointing and timing requirements for the highest-resolution observations will not be generally met by the 3-day OTM delivery, an ephemeris update based on an Orbit Determination (OD) following the approach OTM will be uplinked roughly one day prior to C/A. The first science observations will be Europa-UVS stellar occultations, stares, or scans across Europa at about C/A−1.5 days, unless the approach has a high phase angle, in which case EIS-NAC may include plume searches. If the background Earth-point attitude during this approach period is conducive to collecting ring or nanograin particle measurements, SUDA surveys may also be scheduled. On flybys where SUDA experiences an unavoidable Sun keep-out-zone (KOZ) violation lasting more than 10 minutes, it will be placed in a Warm Target mode to reduce contaminant buildup 24 hours prior to C/A until the instrument is powered on to prepare for science data collection. Once Europa Clipper nears the high-radiation environment around Europa (∼15–17 RJ), it will either perform a single 360° revolution designed to put each PIMS cup, in turn, into the plasma flow or a series of (three or six) 360° revolutions about the spacecraft X-axis to calibrate the ECM sensors within a sufficiently strong magnetic environment. The ECM X-axis calibration roll is one segment of a full ECM calibration, which also requires a six-revolution roll about the Y-axis performed on departure every 43 days. No additional PIMS calibration roll is necessary if an ECM X-axis calibration roll is scheduled on that flyby; PIMS will “ride along” with the ECM rolls while increasing their data collection rate. The solar arrays will track the Sun except during instrument observations and calibrations, when they will typically be actuated to a favorable geometry for solar insolation and then held in a fixed position to improve spacecraft stability.Footnote 20
+
+Representative flyby timeline (E06), which includes six-revolution X-axis ECM calibration rolls on approach and Y-axis rolls on departure; the minimum state of charge for this flyby occurs following the X-axis rolls as opposed to after C/A, which would be typical of flybys without rolls. While this flyby has no eclipses near C/A, many EC2 flybys have 2-to-3-hour eclipses a few hours within hours of C/A
+
+The final telemetry contact with Earth prior to C/A will occur roughly half a day from C/A. On flybys including an X-axis ECM calibration roll, this telemetry contact may be as short as one hour. Immediately after this contact, Europa Clipper will turn its remote-sensing instruments toward nadir while twisting around the nadir axis to an orientation that allows the solar arrays, which will be actuating in parallel with the turn, to rotate to a fixed, favorable position to receive sunlight. The selected spacecraft twist orientation is also designed to:
+
+Prevent bright body violations of the Stellar Reference Unit (SRU) that would degrade pointing performance,
+
+Prevent bright body violations of the Stellar Reference Unit (SRU) that would degrade pointing performance,
+
+Maximize the time at least one PIMS cup is pointing in the Jovian plasma flow direction, and
+
+Maximize the time at least one PIMS cup is pointing in the Jovian plasma flow direction, and
+
+Avoid placing the REASON HF antenna tips in a position with the potential to bounce stray light onto the SRUs.
+
+Avoid placing the REASON HF antenna tips in a position with the potential to bounce stray light onto the SRUs.
+
+Aside from PIMS, most data gathered during this period is not sensitive to twist orientation. From this attitude, Europa Clipper will periodically scan Europa and observe stellar occultations primarily for Europa-UVS, periodically interspersing EIS Europa limb observations. The spacecraft will also slew off Europa’s disc by at least 4° and target a dark patch of sky that E-THEMIS will image as a detector calibration reference. When an altitude of 60,000 km from Europa is reached, the spacecraft will point back at nadir, and E-THEMIS will begin its stare observations, initially capturing the full Europa disc within its field of view.
+
+Just prior to reaching an altitude of 40,000 km from Europa, Europa Clipper will twist around the nadir axis to put SUDA and MASPEX into the velocity direction that will pertain at C/A (known as nadir-ram). The solar arrays will also actuate to a new fixed position during the turn to maximize solar insolation on the arrays while continuing to avoid REASON stray light incursions onto the SRU. At 40,000 km distance, after the spacecraft has settled from its turn and with Europa filling the extent of the MISE field of view, MISE will be able to take its first global data cube. Following that, Europa Clipper will perform a slew across Europa, referred to as the Joint Scan, for E-THEMIS, Europa-UVS, EIS NAC, and MISE. This scan helps (a) E-THEMIS meet day and night coverage requirements, (b) MISE achieve global-scale daytime coverage, (c) and EIS achieve recent activity repeat coverage, and it is the only way to get EIS NAC global color. A primary scan rate of 0.013°/s was negotiated across the stakeholder investigations to achieve sufficient signal-to-noise where needed, while limiting the scan duration so as not to interfere with other low-altitude investigations, such as gravity science.
+
+At the end of the Joint Scan, a little less than two hours prior to C/A, Europa Clipper will return to the nadir-ram orientation for the last time prior to C/A and will maintain that attitude until it turns to perform a second Joint Scan on the departure leg. While in the nadir phase, data will be taken at high rates by all remote-sensing instruments as well as ECM and PIMS. Near 10,000 km distance, the solar arrays will actuate to the fixed position required for REASON observations, known as the standard closest approach (SCA) configuration, with the edge of the arrays on which the VHF and HF antennas are mounted pointed toward nadir. REASON, SUDA, and MASPEX will gather their most important data within about 10 minutes of C/A. Nearly two hours from C/A, Europa Clipper will turn on its X-band transmitter and close a two-way Doppler link primarily using a 70 mFootnote 21 DSN station on the open-loop receiver for gravity and radio science (G/RS). This link will use the best-suited fan-beam or low-gain antenna (or medium-gain antenna in a few cases), depending on the specific geometry of the flyby, and will continue through the nadir phase until just before C/A+2 hours. Not all flybys provide an uninterrupted view of Earth due to occultations of Earth by Jupiter or a Jovian moon; G/RS activities will be adjusted accordingly. Because of the large nadir-tracking-induced slew as the FS swings by Europa, there will usually be at least one, if not two, spacecraft antenna switches in addition to the possibility of an uplink handover on the ground between DSN stations during the gravity science experiment.
+
+The outbound leg will, in many ways, be a mirror image of the inbound leg, but with alterations for lighting. An additional constraint to avoid placing the now contaminated SUDA target in the direction of the Sun is imposed on the nadir attitude above 40,000 km. The solar arrays actuate to fixed, Sun-favorable positions (while still enforcing the SRU stray light constraint) at 10,000 km distance and during the outbound turn from nadir-ram before resuming Sun tracking during the turn to Earth-point around a half day after C/A. There is also a series of maintenance activities, the most notable being the data processing and preparation for downlink and the SUDA decontamination. An eclipse of Europa Clipper and/or Europa itself can occur on either the inbound or outgoing legs of the flyby.
+
+Data return will commence during the first DSN contact following C/A, at about half a day after C/A, by which time BDS data is filtered to allow prioritization for downlink. The six-revolution ECM Y-axis calibration roll (occurring on a subset of flybys) can occur in parallel with these activities, given that the HGA will remain pointed toward Earth. However, pointing performance during the roll does not support Ka-Band downlink; thus, X-Band will be used instead. An RWA bias activity will occur around 1.5 days after C/A.
+
+All major flyby period activities are summarized in Fig. 17 and Table 6. The nadir period is further subdivided into two sections based on the primary spacecraft attitude, which changes from a Sun-favorable attitude beginning at 165,000 km altitude to a ram-optimized attitude below 40,000 km. Many of the constraints associated with flyby activities are geometric in nature and given in terms of Europa altitude, angular diameter, Jupiter distance, etc. The Mission Plan provides other useful references for understanding how and when the FS-Europa geometry changes during a typical flyby.
+
+Tour flyby attitude and solar array mode strategy; SCA has the solar arrays at −90°, which puts REASON antenna facing nadir. *Avoid SA angles with HF antenna KOZ violations of SRUs. ** Avoid SA angles with HF antenna KOZ violations of SRUs and EIS-WAC
+
+3.6 Simulation Products and Mission Plan Reference Material
+
+The Mission Plan comes with several supplemental references, some of which are described in Ferguson et al. (2018):
+
+MASER Simulation Reports: High-fidelity, mission-level simulations of the current Mission Plan using the baseline 21F31_V6 trajectory were run in conjunction with the writing of Bradley (2023). These simulations model the activities in the plan and their effect on key spacecraft resources, such as data, power, and pointing. The Activity Plan Generator (APGenX) software framework was used to build the spacecraft and ground models, schedule the activities in the plan, and run the simulations (Maldague et al. 2014; Maldague and Wissler 2018). Results from these simulations are compiled into two comprehensive reports: one for the Tour Phase and one for the IC.
+
+MASER Simulation Reports: High-fidelity, mission-level simulations of the current Mission Plan using the baseline 21F31_V6 trajectory were run in conjunction with the writing of Bradley (2023). These simulations model the activities in the plan and their effect on key spacecraft resources, such as data, power, and pointing. The Activity Plan Generator (APGenX) software framework was used to build the spacecraft and ground models, schedule the activities in the plan, and run the simulations (Maldague et al. 2014; Maldague and Wissler 2018). Results from these simulations are compiled into two comprehensive reports: one for the Tour Phase and one for the IC.
+
+VERITaS Report: A notional set of observations for each instrument is included within the simulation. This provides a way to quickly assess whether the current baseline trajectory and Mission Plan can meet mission objectives within the constraints imposed by the spacecraft design and environment (Buffington et al. 2017; McCoy et al. 2018). After a simulation has been run, the Verification of Europa Requirements Integrating Tour and Science (VERITaS) software set processes the results to determine the extent to which science measurement requirements have been met for the mission. The summary report shows overall measurement requirement satisfaction, including detailed plots and tables for each measurement requirement.
+
+VERITaS Report: A notional set of observations for each instrument is included within the simulation. This provides a way to quickly assess whether the current baseline trajectory and Mission Plan can meet mission objectives within the constraints imposed by the spacecraft design and environment (Buffington et al. 2017; McCoy et al. 2018). After a simulation has been run, the Verification of Europa Requirements Integrating Tour and Science (VERITaS) software set processes the results to determine the extent to which science measurement requirements have been met for the mission. The summary report shows overall measurement requirement satisfaction, including detailed plots and tables for each measurement requirement.
+
+Encounter Timing and Geometry Details: Excel spreadsheets providing key timing and geometry information for all encounters in the Tour Phase as well as a sheet for the current IC trajectory.
+
+Encounter Timing and Geometry Details: Excel spreadsheets providing key timing and geometry information for all encounters in the Tour Phase as well as a sheet for the current IC trajectory.
+
+Time-Ordered Listings: Listings of the high-fidelity, mission-level simulations of the current IC and Arrival Phases as well as Tour and Disposal.
+
+Time-Ordered Listings: Listings of the high-fidelity, mission-level simulations of the current IC and Arrival Phases as well as Tour and Disposal.
+
+Cruise/Arrival/Tour Activity Table (Mission Plan Activity Inventory): A full inventory of calibration, characterization, checkout, deployment, and maintenance activities is available in spreadsheet form so they can be sorted and filtered.
+
+Cruise/Arrival/Tour Activity Table (Mission Plan Activity Inventory): A full inventory of calibration, characterization, checkout, deployment, and maintenance activities is available in spreadsheet form so they can be sorted and filtered.
+
+Key Figures and Plots: The latest versions of key figures featured throughout the document, such as the Mission Phases Overview, the Tour Encounter Overview Diagram, and the Earth & Mars Flyby Attitudes diagram, are regularly updated and compiled.
+
+Key Figures and Plots: The latest versions of key figures featured throughout the document, such as the Mission Phases Overview, the Tour Encounter Overview Diagram, and the Earth & Mars Flyby Attitudes diagram, are regularly updated and compiled.
+
+Timeline Viewer: The Mission Plan simulation can be viewed and interacted with via a timeline view using the RAVEN timeline visualization tool.
+
+Timeline Viewer: The Mission Plan simulation can be viewed and interacted with via a timeline view using the RAVEN timeline visualization tool.
+
+3.7 Compliance Assessment
+
+There are 405 separate rules addressed by the Mission Plan. These rules comprise measurement requirements, planning guidelines, other guidelines, and constraints. These rules are suballocated to mission phases, sometimes to more than one phase, resulting in even more separate checks. Figure 18 illustrates the number of rules levied on the Mission Plan per category.
+
+Breakdown of all rules levied on the Mission Plan
+
+Science measurement requirements and Science Planning Guidelines both come directly from Project Science and influence both the trajectory and the Mission Plan strategies. Mission Plan Constraints, Guidelines, and Policies are self-derived rules for executing the mission in a manner that manages risk and key resources and consumables. The generic category “Req’t” captures additional requirements on the Mission Plan coming from various areas of the Project, such as the FS or the MOS.
+
+The 187 Science Measurement Requirements come in two flavors (Fig. 19); goals that must be evaluated pass/fail and those that are effectively constraints on how those goals get evaluated (such as altitude, lighting, ground speed, and pixel scale).
+
+Science measurement requirements breakdown
+
+Most of the science requirements are evaluated by VERITaS. Some EIS-related requirements are checked by the APL tool SIMPLEX; a few remaining requirements are checked through manual inspection by experts. Currently, all science measurement requirements are passing/met by the baseline trajectory (21F31_V6) and strategies encoded in the Mission Plan.
+
+Figure 20 illustrates the prediction of when each science measurement requirement could be “met” during the Tour Phase of the mission. The ability to answer this question of “when” a requirement can be met (even with simulated fault/safing timelines injected) is a core feature of VERITaS. Just under half of the requirements are met by the start of EC2 (E27). The last bar category on the right illustrates the point that some requirements cannot be readily assessed as to “when” in the Tour they are met without significant effort (or simply do not apply to that sort of question). These remaining requirements are simply “met” or “not met” during the entire Tour and Mission Plan that is simulated on top of the trajectory.
+
+Prediction of when science measurement requirements will be met during the Tour Phase. Just under half of the requirements are met at the start of EC2 (E27)
+
+3.8 Consumables Usage Estimates and Allocations
+
+Consumables are defined as types of resources that are not replenishable and that monotonically approach a limit, which, when reached, implies that the resource is no longer available. A consumable can include hardware cycling and wear mechanisms or the depletion of a substance, such as propellant.
+
+The Mission Plan work includes simulations that model consumables usage and suballocates the available consumable resource by mission phase (as available). The amount available to allocate is the resource lifetime minus a reserve, which is yet to be defined. Note that the maturity of our understanding of which consumables should be tracked and what their lifetimes should be is moderate at this time; consequently, this analysis is still a work in progress. Resources that were considered and determined not to need nominal close tracking include MISE mirror cycles, battery DoD cycles, and memory write cycles. Note that the propellant budget for the mission is accounted for in Table 3.
+
+4 Navigation Analysis
+
+The Europa Clipper Navigation Plan (Boone 2024) documents the capability of the Navigation System to accomplish the Europa Clipper mission by meeting the requirements levied on navigation. In addition, the Navigation Plan documents the strategy and underlying assumptions for achieving all navigation requirements. It also describes background information that affects the spacecraft motion, and therefore navigation, including the modeling of the spacecraft and the physical environment. This section summarizes highlights from the Navigation Plan and associated publications.
+
+4.1 Navigation Requirements
+
+The reference trajectory described in Sect. 2 is designed to optimize science return within many constraints. To achieve science, safety, and operability goals, there are constraints on the allowed deviation from the reference trajectory, the amount of propellant that can be used to maintain the limited deviation, and finally the accuracy with which the spacecraft center-of-mass state can be predicted and reconstructed. The navigation process is a forward problem, so compliance with the incoming requirements is demonstrated by analyzing a navigation concept employing assumptions about available data types, data schedule, data quality, and expected sources of dynamic error. Those assumptions, in turn, must be levied, where possible, on the FS and Operations System to support the analysis-based capability. The Europa Clipper Navigation System was constructed using experience from navigation designs of previous tour-type missions, specifically Galileo and Cassini. The constraints levied as direct requirements on navigation are discussed here, as well as implicit constraints contained in the Mission Plan (e.g., constraints on maneuver placement).
+
+The high-level goal for navigation during the IC and Approach Phases is to reach the desired conditions of the Ganymede encounter (G00) that assists in Jupiter capture within a limited \(\Delta \)V budget. There are no explicit requirements on the accuracy of G00, and the capture strategy is robust to a variety of errors. As a result, most requirements levied on navigation are associated with the Tour Phase Europa encounters. The most driving requirements come from a need for ephemeris delivery knowledge for accurate encounter instrument pointing and observation planning. There is no explicit requirement on delivery accuracy itself, though safety and propellant budget concerns imply a goal of limiting delivery errors. The cadence of maneuvers and encounters during the Tour also constrain the Navigation System.
+
+Table 7 shows the navigation requirements needed to achieve science goals. The two most driving requirements are from MISE and REASON on Tour encounter delivery knowledge. These drive Navigation Operations to add an additional OD cycle close to the time of Europa flybys to include tracking data and post-maneuver telemetry knowledge after the execution of the last approach maneuver before the flyby. The MISE requirement involves conditions other than OD knowledge and is evaluated using the Mission Planning tool VERITaS (see Sect. 3.6). This navigation strategy used with the 21F31_V6 trajectory satisfies these two requirements. All science requirements on OD knowledge are met for the 21F31_V6 tour.
+
+Table 7 also shows the requirements on navigation that support operations, including those to support operations planning. In addition, there is also ongoing work with the Mission System on developing the criteria and timeline for a contingency Tour redesign. Tour redesign, especially stemming from a spacecraft anomaly, is part of a Contingency Playbook development effort. Contingency planning work will continue past launch and throughout IC.
+
+Finally, navigation design must also satisfy mission success requirements by limiting the short-term probability of impact (POI) with the Galilean satellites during the tour. Two requirements are shown in Table 7 that limit POI with any of the planned flyby bodies Europa, Ganymede, and Callisto. The tour trajectory has been adjusted to meet the short-term POI requirement following the execution of the final targeting maneuver in each transfer. The second requirement involves POI with a targeted flyby body given a spacecraft safing event, which imparts unwanted \(\Delta \)V between the approach maneuver location, three days before a flyby, and the flyby itself. The tour was also adjusted to satisfy this requirement, such that following a safing event that demotes to RCS control between the approach maneuver and C/A, based on the understanding of the \(\Delta \)V distribution produced by the fault protection response, each targeted Galilean encounter has less than 5% POI (French et al. 2025).
+
+4.2 Navigation Strategy Overview
+
+The in-flight behavior of a spacecraft will always diverge from a planned reference due to both uncertainties and simplifications in the physical models used and unexpected events in flight. A robust navigation concept will assure that a reference trajectory is feasible in the presence of the uncalibrated portion of non-gravitational forces on a spacecraft, uncertainties in the location and gravity of natural bodies, and dispersions in the execution of maneuvers required to implement the reference trajectory. Feasibility, in this context, refers to the ability of a plan to be likely to meet mission science and safety objectives. The discussion of a navigation strategy and the associated feasibility analysis are described separately for the IC/Arrival and Tour Phases, as the requirements and strategies are different.
+
+The baseline mission achieves navigation goals for all mission phases using ground-based OD with Earth-based radiometric Doppler and range-tracking data in Tour, and Doppler, range, and \(\Delta \)DOR in the IC/Arrival. While the EIS-NAC instrument camera can take navigation-quality framing images, the baseline navigation strategy does not utilize optical navigation to meet science objectives and requirements. Given the ability to prioritize images in the BDS for downlink and preliminary examination of the EIS-NAC camera capability, the conclusion is that an optical navigation capability could be developed in cruise, prior to JOI by one year, if new discoveries about the Jovian satellite system require additional sources of ephemeris knowledge.Footnote 22
+
+Compliance with allocated requirements is determined using two analysis frameworks used in concert. The first uses an OD covariance study to predict ephemeris uncertainties for varied tracking assumptions and model uncertainty levels for a reference trajectory using parameterized models and error planned to match or envelop in-flight conditions. The second uses a Monte Carlo method to compute expected dispersions in deterministic and statistical maneuvers in the reference trajectory given a modeled maneuver execution behavior and expected ephemeris knowledge along the reference trajectory determined from the covariance study. The statistic of interest for use in fuel mass allocation is \(\Delta \)V99, the value for which 99% of the dispersed trajectories use less \(\Delta \)V. The Monte Carlo results provide the mission \(\Delta \)V99, individual maneuver \(\Delta \)V99, and a maneuver covariance that may be fed back to the OD covariance study. The Europa Clipper navigation software implements a custom Linear Analysis of Maneuvers with Bounds and Inequality Constraints (LAMBIC) filter class that runs a continuous sequential filter up to a maneuver data cutoff, then computes the Monte Carlo maneuver dispersion statistics for that maneuver and updates the filter to process up to the next maneuver, and so on. In that manner the integrity between ephemeris errors and maneuver execution statistics is ensured.
+
+4.3 Navigation Performance
+
+Analysis results are reported using a slightly different breakdown of phases compared to those used in the Mission Plan. The overall interplanetary navigation results span launch through the MGA and EGA, JOI, PRM, and G01, the second Ganymede flyby following the pre-JOI G00. The G01 encounter is used as a fixed target point for interface between the interplanetary MEGA design and the tour optimization process by Mission Design. Thus, tour analysis products will be shown starting with the G01 encounter.
+
+For the interplanetary trajectory, from launch to 90 days before JOI, the primary navigation goal is to accurately control the flight path approaching each flyby. This analysis concluded that the launch Injection Covariance Matrix (ICM) should be required to have a figure of merit (FOM)Footnote 23 less than 5 m/s when computed for a TCM at 10 days after launch and targeted to the MGA. In addition to launch injection cleanup maneuvers, the plan includes a series of approach and cleanup maneuvers for each flyby. Ephemeris knowledge must also be maintained to a level needed for Earth communication. The latest results can be found in Goodson et al. (2025).
+
+There are constraints on maneuver placement in InC to aid the FS design in meeting thermally driven off-Sun pointing constraints. These constraints are driven by the transition between RWA and RCS control at a heliocentric radius of 1 AU and primarily affect the design of maneuvers around the Earth Gravity Assist (EGA). Maneuvers beyond a heliocentric range of 2 AU have no such constraints. Table 8 lists the constraints and affected maneuvers.
+
+In each orbit transfer or petal between moon flybys, shown notionally in Fig. 21, two deterministic, non-zero-mean maneuvers and a third zero-mean, purely statistical maneuver are used to correct any trajectory dispersions from maneuver execution error or uncertainty in the satellite ephemeris. The cleanup and targeting maneuvers are both necessary to achieve the desired aimpoint at the upcoming encounter. The cleanup maneuver may be either statistical or deterministic, but the targeting maneuver almost always has a necessary, deterministic component. The approach maneuver is purely statistical and used to target the desired aimpoint more precisely. Other events shown on the petal diagram include the pre- and post-encounter RWA bias events, which manage the reaction wheel speeds and stored momentum using rocket engine momentum desaturation maneuvers. The placement of these events prior to the design data cutoff, after which no additional tracking data or spacecraft information can be used in the design, is important to limit unmodeled errors in the final maneuver design.
+
+Diagram of activities occurring between Europa encounters in a typical tour orbit petal; of special interest to navigation are the cleanup (CU), targeting (TRG), and approach (APR) maneuvers (in red), the ephemeris update, and the pre- and post-encounter RWA bias events (in purple)
+
+Tour navigation results of interest from Boone et al. (2025) include satellite ephemerides, delivery knowledge, and trajectory reconstruction.
+
+Satellite ephemerides: Ephemeris uncertainties of Jupiter’s satellite system are a critical assumption of the covariance analysis. The uncertainties from the JUP387 Jupiter satellite covariance produce an approximately 6 km (1\(\sigma \)) uncertainty in the mapped Europa position at the time of the first Ganymede encounter, G00. New information about the satellite ephemerides is primarily introduced by tracking the spacecraft following an encounter and getting an improved reconstruction of the satellite position at the time of that encounter based on the post-flyby trajectory of the spacecraft. This improved position knowledge in turn informs updates to the rest of the system parameters through correlations induced by the dynamics of the resonant satellite system. These improved estimates are then carried forward to the next encounter, so that the estimates of the entire system are improved as the tour progresses.
+
+Satellite ephemerides: Ephemeris uncertainties of Jupiter’s satellite system are a critical assumption of the covariance analysis. The uncertainties from the JUP387 Jupiter satellite covariance produce an approximately 6 km (1\(\sigma \)) uncertainty in the mapped Europa position at the time of the first Ganymede encounter, G00. New information about the satellite ephemerides is primarily introduced by tracking the spacecraft following an encounter and getting an improved reconstruction of the satellite position at the time of that encounter based on the post-flyby trajectory of the spacecraft. This improved position knowledge in turn informs updates to the rest of the system parameters through correlations induced by the dynamics of the resonant satellite system. These improved estimates are then carried forward to the next encounter, so that the estimates of the entire system are improved as the tour progresses.
+
+Figure 22 shows the improvements in forecast ephemeris knowledge over the tour, with the bars indicating how uncertainty increases over 30, 90, and 180 days following the encounter. Knowledge of Europa’s position is improved by encounters of Ganymede (G00 through G03) prior to the first Europa flyby, through correlations in the a priori covariance developed by the JPL Solar System Dynamics (SSD) group. The steady improvement brought on by subsequent flybys in the simulation can reach unreasonably small values, well below the 250 meters suggested as a minimum achievable knowledge by the SSD. This is due to other forces acting on the system that cannot be adequately modeled, such as higher-order or time-varying Jupiter gravity terms. To account for this, the simulation implements a process noise term to model these effects, adding in a scaled copy of the full a priori covariance every 24 hours, with the scaling factor selected to achieve a minimum 250 m (1\(\sigma \)) uncertainty in Europa position at each flyby. This is achieved in the steady state Europa position shown in Fig. 22. The satellite floor process noise is applied even during the Callisto encounters, which connect EC1 and EC2 midtour. This results in increased Europa position error for Callisto transfers, since the orbit of Callisto has no Laplace resonance with Europa and thus is uncorrelated.
+
+Predicted Europa position uncertainty per tour encounter, km 1\(\sigma \)
+
+Delivery knowledge: The OD knowledge of spacecraft ephemeris 3\(\sigma \) uncertainty at the time of approach maneuver Data Cutoff (DCO) and encounter −2 days is shown in Fig. 23, plotted by Europa flyby. The uncertainties are shown in coordinates representing the radial, transverse, and normal (RTN) directions to the spacecraft trajectory at C/A. These uncertainties are compared against the requirement supporting the REASON radar instrument, as that is the most straightforward way to evaluate the two driving requirements. The MISE requirement is also driving but involves scheduling cube observations and is evaluated fully in a Mission Planning observation simulation. This requirement is 1 km (3\(\sigma \)) and 2 km (3\(\sigma \)) in the radial and transverse directions, respectively, for at least 30 flybys at less than 400 km altitude, and is marked by the red dashed line. There is no requirement in the normal direction. The black bars show the uncertainty at the approach maneuver DCO, which exceeds the requirements for all encounters. The ephemeris knowledge update two days before the encounter (represented by the gray bars) is used to satisfy this requirement. Fig. 23Predicted Europa encounter relative position uncertainties (RTN, 3\(\sigma \))Full size image
+
+Delivery knowledge: The OD knowledge of spacecraft ephemeris 3\(\sigma \) uncertainty at the time of approach maneuver Data Cutoff (DCO) and encounter −2 days is shown in Fig. 23, plotted by Europa flyby. The uncertainties are shown in coordinates representing the radial, transverse, and normal (RTN) directions to the spacecraft trajectory at C/A. These uncertainties are compared against the requirement supporting the REASON radar instrument, as that is the most straightforward way to evaluate the two driving requirements. The MISE requirement is also driving but involves scheduling cube observations and is evaluated fully in a Mission Planning observation simulation. This requirement is 1 km (3\(\sigma \)) and 2 km (3\(\sigma \)) in the radial and transverse directions, respectively, for at least 30 flybys at less than 400 km altitude, and is marked by the red dashed line. There is no requirement in the normal direction. The black bars show the uncertainty at the approach maneuver DCO, which exceeds the requirements for all encounters. The ephemeris knowledge update two days before the encounter (represented by the gray bars) is used to satisfy this requirement.
+
+Predicted Europa encounter relative position uncertainties (RTN, 3\(\sigma \))
+
+Trajectory reconstruction: Spacecraft trajectory reconstruction is required to interpret instrument results more accurately. Navigation will deliver a preliminary reconstruction 3 days after the encounter, with a final reconstruction due 30 days after the encounter. Uncertainties are required to be within 100 meters (3\(\sigma \)) in Europa-relative position knowledge at this final DCO for all Europa science flybys. Additionally, there is a requirement to reconstruct the radial velocity to within 45 mm/sec (3\(\sigma \)) when within 400 km of the surface of Europa. Both reconstruction requirements are driven by the REASON investigation.
+
+Trajectory reconstruction: Spacecraft trajectory reconstruction is required to interpret instrument results more accurately. Navigation will deliver a preliminary reconstruction 3 days after the encounter, with a final reconstruction due 30 days after the encounter. Uncertainties are required to be within 100 meters (3\(\sigma \)) in Europa-relative position knowledge at this final DCO for all Europa science flybys. Additionally, there is a requirement to reconstruct the radial velocity to within 45 mm/sec (3\(\sigma \)) when within 400 km of the surface of Europa. Both reconstruction requirements are driven by the REASON investigation.
+
+Position reconstruction performance is satisfied using DSN Doppler tracking through ±2 hours of Europa C/A. Figure 24 shows the RTN position and radial velocity uncertainties at C/A for all flybys at the 30-day final reconstruction DCO. Flybys in the darker gray have a planned close approach above the 400 km altitude cutoff for REASON operation and are not held to the 100 m reconstruction requirement. All the requirements are met at the final 30-day DCO with reasonable margin, but they are not always met at the 3-day “quick turnaround” DCO.
+
+Reconstructed Europa encounter relative position uncertainties (RTN, 3\(\sigma \))
+
+5 Select Special Topics
+
+5.1 Contingency Playbook
+
+The Contingency Playbook (Boone 2024) is a Mission System-led effort aimed at planning and documenting strategies for responding to contingencies related to maneuver underperformance and/or unexpected \(\Delta \)V accumulation. Much of the contingency planning work has a horizon beyond launch and will continue development in the Cruise phase.
+
+Mission Design will provide the Contingency Playbook with trajectory mitigation strategies for different contingencies during the mission. A partial interruption or delay of the JOI is mitigated by pre-computing several pump-downs that all converge to the same G03 (Scott et al. 2025). Larger JOI errors that cannot be quickly recovered from will require a tour redesign, but families of capture orbits can be precomputed to facilitate a fast build of the clean-up \(\Delta \)V.
+
+Large deviations from the reference due to safing-related unintended \(\Delta \)Vs can be mitigated with robust optimization techniques that float the targets of the next flyby, while meeting POI requirements (Greco et al. 2022; Arya et al. 2024). Furthermore, a dedicated tool based on Star (Landau et al. 2022) and the MONTE application COSMIC (Evans et al. 2018) will be developed to quickly design escape trajectories that would put the FS into a low-radiation safe orbit with no untargeted flybys. Then tools will be developed for the automated design of COTs and petal rotations in full ephemerides to enable a fast redesign of a new reference tour. Finally, using the developed tools, several tour variants will be computed to accommodate, for example, a lower cadence of flybys in EC2, or an additional COT sequence in EC1.
+
+5.2 Collaborative Science
+
+The ESA JUpiter ICy Moons Explorer (Juice) mission, which launched in April 2023, will arrive in Jupiter orbit in 2031. Juice will make 35 total flybys of Ganymede, Europa, and Callisto before entering orbit about Ganymede for at least 9 months. The mission hosts an array of investigations that are complementary to those of Europa Clipper. The Juice flybys of Europa will be of the anti-Jovian hemisphere, with C/As of altitudes ∼400 km. These encounters will provide added data along ground tracks from the equator to about 50° north and south for the two flybys (Pappalardo et al. 2024, this collection).
+
+The two mission’s science teams have partnered to form a Juice–Clipper Steering Committee, tasked with identifying unique scientific experiments that could be accomplished or enhanced by the two spacecraft. For example, there are two opportunities near Europa where the spacecraft are within 0.5 RJ of one another and only a few hours apart. Scientific opportunities may fall into one or more categories: (1) time dependent, in which both spacecraft would need to acquire data at the same time or one spacecraft’s observations inform the other’s; (2) space dependent, in which each spacecraft acquires data from specific parts of the Jovian system, or both observe the same target with similar or different viewing geometries; and (3) an increase in science data (e.g., temporal or spatial coverage) made possible by the availability of additional instrument types or data collection opportunities (Pappalardo et al. 2024, this collection). Finally, the selection of Ganymede as the Europa Clipper disposal target allows for a potential science observation opportunity from Juice. Mission Design and Mission Planning will inform the development of these opportunities, which in turn may result in changes to the baseline.
+
+The Europa Clipper mission promises to achieve major advancements in our understanding of Europa. The multiple-flyby architecture enables orbiter-level study of Europa while mitigating the effects of its harsh radiation environment. The selected tour enables Europa coverage on many scales, including that of Europa itself and of its place in orbit around Jupiter. The Mission Plan enables synergistic science, with plans to perform nominal observations and needed calibrations for all investigations. The navigation strategy is designed to deliver the FS safely and effectively to all its required encounters. Together, these important mission components will enable a great opportunity for scientific advancement and discovery as well as enable future missions, including a potential landed Europa mission.
+
+Europa Clipper launched on 14 Oct 2024, during manuscript final edits. Light revisions have been made to reflect this, including the addition of references that include launch day–specific details.
+
+Europa Clipper launched on 14 Oct 2024, during manuscript final edits. Light revisions have been made to reflect this, including the addition of references that include launch day–specific details.
+
+JEO was the NASA element of the proposed joint NASA/ESA EJSM mission; the other element was ESA’s Jupiter Ganymede Orbiter (JGO), which evolved into the Juice mission.
+
+JEO was the NASA element of the proposed joint NASA/ESA EJSM mission; the other element was ESA’s Jupiter Ganymede Orbiter (JGO), which evolved into the Juice mission.
+
+Trajectory naming convention: first two digits indicate the year the trajectory was designed; “F” stands for a flyby mission architecture (as opposed to an orbiter or lander); the next two digits are the sequential trajectory number developed for a Europa Clipper mission; and “V,” followed by a number, represents the version number of that trajectory.
+
+Trajectory naming convention: first two digits indicate the year the trajectory was designed; “F” stands for a flyby mission architecture (as opposed to an orbiter or lander); the next two digits are the sequential trajectory number developed for a Europa Clipper mission; and “V,” followed by a number, represents the version number of that trajectory.
+
+The official pre-launch baseline for Europa Clipper is 21F31_V7, which is the latest delivery of the 21F31 family. The tables and figures in this paper use the 21F31_V6 delivery, which is almost identical to 21F31_V7. For details on the different versions see Campagnola et al. (2025a, 2025b).
+
+The official pre-launch baseline for Europa Clipper is 21F31_V7, which is the latest delivery of the 21F31 family. The tables and figures in this paper use the 21F31_V6 delivery, which is almost identical to 21F31_V7. For details on the different versions see Campagnola et al. (2025a, 2025b).
+
+The Project Requirements Document (Dooley 2018) contains the L1 Science Baseline and Threshold level requirements and Mission Constraints, Science and Mission Planning requirements, and Systems requirements.
+
+The Project Requirements Document (Dooley 2018) contains the L1 Science Baseline and Threshold level requirements and Mission Constraints, Science and Mission Planning requirements, and Systems requirements.
+
+Most of the remaining requirements are levied on instrument performance and flight operations performance.
+
+Most of the remaining requirements are levied on instrument performance and flight operations performance.
+
+Two parking orbit coast strategies, referred to as short and long parking orbit coast, were considered. For the 2024 MEGA design, the magnitude of the declination of the outgoing asymptote was equal (or nearly equal) to the parking orbit inclination, so only a single parking orbit coast strategy existed in general.
+
+Two parking orbit coast strategies, referred to as short and long parking orbit coast, were considered. For the 2024 MEGA design, the magnitude of the declination of the outgoing asymptote was equal (or nearly equal) to the parking orbit inclination, so only a single parking orbit coast strategy existed in general.
+
+The first flyby of the tour is called Ganymede 1, or G01, and subsequent flybys are prefaced with the first letter of the targeted satellite and a number that identifies how many times that satellite has been targeted by Europa Clipper. Table 2 also prefaces this flyby ID with a two-digit Jupiter orbit number to form an overall Encounter ID.
+
+The first flyby of the tour is called Ganymede 1, or G01, and subsequent flybys are prefaced with the first letter of the targeted satellite and a number that identifies how many times that satellite has been targeted by Europa Clipper. Table 2 also prefaces this flyby ID with a two-digit Jupiter orbit number to form an overall Encounter ID.
+
+TID Si behind a 100 mil Al, spherical shell (GRID3 radiation model). GRID3 is a simplified model form whose fidelity is within a few percent of GIRE3 but with much faster execution speed; GRID3 is a program that reads the data from a lookup table—a “grid” of range, latitude, and west longitude around Jupiter, hence its name.
+
+TID Si behind a 100 mil Al, spherical shell (GRID3 radiation model). GRID3 is a simplified model form whose fidelity is within a few percent of GIRE3 but with much faster execution speed; GRID3 is a program that reads the data from a lookup table—a “grid” of range, latitude, and west longitude around Jupiter, hence its name.
+
+A resonant transfer has a time of flight that is close to an integer multiple of the gravity-assist body’s orbit period and is typically labeled as m:n, where m is the number of gravity-assist body orbits and n is the number of spacecraft orbits.
+
+A resonant transfer has a time of flight that is close to an integer multiple of the gravity-assist body’s orbit period and is typically labeled as m:n, where m is the number of gravity-assist body orbits and n is the number of spacecraft orbits.
+
+A nonresonant transfer’s time of flight is not an integer multiple of the gravity-assist body’s orbital period, and the departure and arrival flybys will occur in two different places in the gravity-assist body’s orbit. Other than the special case of a pi-transfer, these two flyby locations constrain the nonresonant transfer orbital plane to that of the gravity-assist body.
+
+A nonresonant transfer’s time of flight is not an integer multiple of the gravity-assist body’s orbital period, and the departure and arrival flybys will occur in two different places in the gravity-assist body’s orbit. Other than the special case of a pi-transfer, these two flyby locations constrain the nonresonant transfer orbital plane to that of the gravity-assist body.
+
+Section 3 describes the Mission Plan performance against science measurement requirements.
+
+Section 3 describes the Mission Plan performance against science measurement requirements.
+
+See Bradley (2023) or subsequent Mission Plan revisions for summaries of in-work issues.
+
+See Bradley (2023) or subsequent Mission Plan revisions for summaries of in-work issues.
+
+Europa Clipper successfully launched on the fifth day of the launch period, driven by the impact of Hurricane Milton. For details on the timing of the final major milestones leading to launch, see the Europa Clipper mission blog at https://blogs.nasa.gov/europaclipper/.
+
+Europa Clipper successfully launched on the fifth day of the launch period, driven by the impact of Hurricane Milton. For details on the timing of the final major milestones leading to launch, see the Europa Clipper mission blog at https://blogs.nasa.gov/europaclipper/.
+
+For context, Europa sits at ∼9.38 RJ and Ganymede at ∼14.97 RJ.
+
+For context, Europa sits at ∼9.38 RJ and Ganymede at ∼14.97 RJ.
+
+Currently assuming ESA network tracking.
+
+Currently assuming ESA network tracking.
+
+At ∼113–357 kb/s with a 34 m station.
+
+At ∼113–357 kb/s with a 34 m station.
+
+The flight team would have an opportunity to make a go/no-go decision to execute a prebuilt sequence on board to perform early Europa science observations within the first two days after JOI, as the next opportunity to observe Europa at relatively close distances will not come for over six months.
+
+The flight team would have an opportunity to make a go/no-go decision to execute a prebuilt sequence on board to perform early Europa science observations within the first two days after JOI, as the next opportunity to observe Europa at relatively close distances will not come for over six months.
+
+The first two Europa flybys, in addition to contributing to L1 science objectives, are used for FS testing and to further calibrate the instruments, thus providing the operations team months to respond to any findings prior to the beginning of EC1 at E03.
+
+The first two Europa flybys, in addition to contributing to L1 science objectives, are used for FS testing and to further calibrate the instruments, thus providing the operations team months to respond to any findings prior to the beginning of EC1 at E03.
+
+The Mission Plan provides details on the various solar array strategies used throughout the tour, including the flyby period.
+
+The Mission Plan provides details on the various solar array strategies used throughout the tour, including the flyby period.
+
+Seventy-meter antennas are being scheduled to provide higher-quality data for the G/RS experiment; if unavailable, single 34 m stations would provide data of sufficient quality as a fallback for most encounters.
+
+Seventy-meter antennas are being scheduled to provide higher-quality data for the G/RS experiment; if unavailable, single 34 m stations would provide data of sufficient quality as a fallback for most encounters.
+
+Reestimation of Galilean satellite orbits based on Juno flyby data in recent years, while leading to changes on the order of single-digit km, make the need for this opportunity unlikely.
+
+Reestimation of Galilean satellite orbits based on Juno flyby data in recent years, while leading to changes on the order of single-digit km, make the need for this opportunity unlikely.
+
+A detailed FOM description is available in Goodson (2023).
+
+A detailed FOM description is available in Goodson (2023).
+
+Activity Plan Generator
+
+Applied Physics Laboratory
+
+Launch Specific Energy (Twice the injection energy per unit mass or hyperbolic excess velocity squared \(C_{3} = V_{\infty}^{2}\))
+
+Current Best Estimate
+
+Delta Differential One-way Ranging
+
+Europa Clipper Magnetometer
+
+Europa Imaging System
+
+Europa Jupiter System Mission
+
+Earth-Mars-Earth Gravity Assist
+
+European Space Agency
+
+Europa Thermal Imaging System
+
+Europa Ultraviolet Spectrograph
+
+Flight System Characterization
+
+Galileo Interim Radiation Environment
+
+Guidance, Navigation, and Control
+
+Gravity/Radio Science
+
+Interplanetary Cruise
+
+Injection Covariance Matrix
+
+Jupiter Europa Orbiter
+
+Jupiter Ganymede Orbiter
+
+Jupiter Orbit Capture
+
+Jupiter Orbit Insertion
+
+Jet Propulsion Laboratory
+
+JUpiter ICy Moons Explorer
+
+The MAss Spectrometer for Planetary Exploration/Europa
+
+Mars-Earth Gravity Assist
+
+Maximum Expected Value
+
+Mapping Imaging Spectrometer for Europa
+
+Micrometeoroids / Orbital Debris
+
+Mission Operations System
+
+mission Science Data System
+
+[EIS] Narrow Angle Camera
+
+Neutral Cloud and Torus Stare
+
+Plasma Instrument for Magnetic Sounding
+
+Probability of Impact
+
+Periapsis Raise Maneuver
+
+Reaction Control System
+
+Radar for Europa Assessment and Sounding: Ocean to Near-surface
+
+Radial-Transverse-Normal
+
+Reaction Wheel Assembly
+
+Science Definition Team
+
+Science Mission Directorate
+
+Stellar Reference Unit
+
+Solar System Dynamics
+
+SUrface Dust Analyzer
+
+Trajectory Correction Maneuver
+
+Barycentric Dynamical Time
+
+Target Interface Point
+
+Verification of Europa Requirements Integrating Tour and Science
+
+[EIS] Wide Angle Camera
+
+Anderson JD, Schubert G, Jacobson RA, Lau EL, Moore WB (1998) Europa’s differentiated internal structure: inferences from four Galileo encounters. Science 281:2019–2022 Article ADS Google Scholar
+
+Anderson JD, Schubert G, Jacobson RA, Lau EL, Moore WB (1998) Europa’s differentiated internal structure: inferences from four Galileo encounters. Science 281:2019–2022
+
+Article ADS Google Scholar
+
+Arya V, French A, Pellegrini E, Campagnola S (2024) Stochastic Advance DeltaV99 Evolutionary Optimization: an Application to Europa Clipper. In: American Astronautical Society (AAS) AAS2024
+
+Arya V, French A, Pellegrini E, Campagnola S (2024) Stochastic Advance DeltaV99 Evolutionary Optimization: an Application to Europa Clipper. In: American Astronautical Society (AAS) AAS2024
+
+Boone D (ed) (2024) Europa Clipper Navigation Plan Rev B, JPL D–55680
+
+Boone D (ed) (2024) Europa Clipper Navigation Plan Rev B, JPL D–55680
+
+Boone D, Campagnola S, French A, et al (2025) Europa Clipper Mission design: tour trajectory navigation analysis - baseline strategy and selected sensitivity results. J Astronaut Sci 72. Also: AAS/AIAA Astrodynamics Specialist Conference, AAS 23-245
+
+Boone D, Campagnola S, French A, et al (2025) Europa Clipper Mission design: tour trajectory navigation analysis - baseline strategy and selected sensitivity results. J Astronaut Sci 72. Also: AAS/AIAA Astrodynamics Specialist Conference, AAS 23-245
+
+Bradley BK (ed) (2023) Europa Clipper Mission Plan Rev B, JPL D–55485
+
+Bradley BK (ed) (2023) Europa Clipper Mission Plan Rev B, JPL D–55485
+
+Buffington BB (2014) Trajectory design for the Europa Clipper Mission concept. In: Space 2014 AIAA/AAS astrodynamics specialists conference, San Diego, CA Google Scholar
+
+Buffington BB (2014) Trajectory design for the Europa Clipper Mission concept. In: Space 2014 AIAA/AAS astrodynamics specialists conference, San Diego, CA
+
+Buffington BB, Campagnola S, Petropoulos A (2012a) Europa multiple flyby trajectory design. In: 2012 AIAA/AAS astrodynamics specialists conference, Minneapolis, MN, number AIAA-2012-5069 Google Scholar
+
+Buffington BB, Campagnola S, Petropoulos A (2012a) Europa multiple flyby trajectory design. In: 2012 AIAA/AAS astrodynamics specialists conference, Minneapolis, MN, number AIAA-2012-5069
+
+Buffington BB, Strange N, Campagnola S (2012b) Global moon coverage via hyperbolic flybys. In: Proceedings 23rd International Symposium on Space Flight Dynamics—23rd ISSFD, Pasadena, CA Google Scholar
+
+Buffington BB, Strange N, Campagnola S (2012b) Global moon coverage via hyperbolic flybys. In: Proceedings 23rd International Symposium on Space Flight Dynamics—23rd ISSFD, Pasadena, CA
+
+Buffington BB, Lam T, Campagnola S, Ludwinski J, Ferguson E, Bradley B, Scott C, Ozimek M, Haapala Chalk A, Siddique F (2017) Evolution of trajectory design requirements on NASA’s planned Europa Clipper Mission. In: 68th International Astronautical Congress, IAC-17-C1.7.8
+
+Buffington BB, Lam T, Campagnola S, Ludwinski J, Ferguson E, Bradley B, Scott C, Ozimek M, Haapala Chalk A, Siddique F (2017) Evolution of trajectory design requirements on NASA’s planned Europa Clipper Mission. In: 68th International Astronautical Congress, IAC-17-C1.7.8
+
+Campagnola S, Buffington BB, Lam T, Petropoulos A, Pellegrini E (2019) Tour design techniques for the Europa Clipper Mission. J Guid Control Dyn 42(12):2615–2626. https://doi.org/10.2514/1.G004309Article ADS Google Scholar
+
+Campagnola S, Buffington BB, Lam T, Petropoulos A, Pellegrini E (2019) Tour design techniques for the Europa Clipper Mission. J Guid Control Dyn 42(12):2615–2626. https://doi.org/10.2514/1.G004309
+
+Article ADS Google Scholar
+
+Campagnola S, Pellegrini E, Anderson BD, Buffington BB, Lam T, Restrepo R (2023) Analysis of \(\Delta \)V and Eclipses duration for Crank-over-the-Top and Petal Rotations in Europa Clipper Moon Tours, Space Flight Mechanics Meeting
+
+Campagnola S, Pellegrini E, Anderson BD, Buffington BB, Lam T, Restrepo R (2023) Analysis of \(\Delta \)V and Eclipses duration for Crank-over-the-Top and Petal Rotations in Europa Clipper Moon Tours, Space Flight Mechanics Meeting
+
+Campagnola S, Buffington BB, Lam T, et al (2025a) Europa Clipper Mission design: analysis of probability of impact requirements. J Astronaut Sci 72. Also: AIAA SCITECH 2024 Forum, AIAA 2024-1059
+
+Campagnola S, Buffington BB, Lam T, et al (2025a) Europa Clipper Mission design: analysis of probability of impact requirements. J Astronaut Sci 72. Also: AIAA SCITECH 2024 Forum, AIAA 2024-1059
+
+Campagnola S, Buffington BB, Anderson BD, et al (2025b) Europa Clipper Mission design: Design of the 21F31 reference tour. J Astronaut Sci 72. Also: 29th International Symposium on Space Flight Dynamics (ISSFD 2024)
+
+Campagnola S, Buffington BB, Anderson BD, et al (2025b) Europa Clipper Mission design: Design of the 21F31 reference tour. J Astronaut Sci 72. Also: 29th International Symposium on Space Flight Dynamics (ISSFD 2024)
+
+Clark KB, et al (2009) Jupiter Europa orbiter mission study 2008: Final report – The NASA element of the Europa Jupiter system mission (EJSM). NASA/ESA
+
+Clark KB, et al (2009) Jupiter Europa orbiter mission study 2008: Final report – The NASA element of the Europa Jupiter system mission (EJSM). NASA/ESA
+
+Dooley J (ed) (2018) Europa Clipper Project Requirements Document Rev H, JPL D-92259
+
+Dooley J (ed) (2018) Europa Clipper Project Requirements Document Rev H, JPL D-92259
+
+Europa Study Team (2012) Europa study 2012 report. Technical Report JPL D-71990, JPL, Pasadena, CA
+
+Europa Study Team (2012) Europa study 2012 report. Technical Report JPL D-71990, JPL, Pasadena, CA
+
+Evans S, Taber W, Drain T, Smith J, Wu H-C, Guevara M, Sunseri R, Evans J (2018) MONTE: the next generation of mission design and navigation software. CEAS Space J 10(1):79–86. https://doi.org/10.1007/s12567-017-0171-7Article ADS MATH Google Scholar
+
+Evans S, Taber W, Drain T, Smith J, Wu H-C, Guevara M, Sunseri R, Evans J (2018) MONTE: the next generation of mission design and navigation software. CEAS Space J 10(1):79–86. https://doi.org/10.1007/s12567-017-0171-7
+
+Article ADS MATH Google Scholar
+
+Ferguson E, Wissler S, Bradley B, Maldague P, Ludwinski J, Lawler C (2018) Improving spacecraft design and operability for Europa Clipper through high-fidelity mission-level modeling and simulation. In: SpaceOps conference, Marseille, France, vol 28 Google Scholar
+
+Ferguson E, Wissler S, Bradley B, Maldague P, Ludwinski J, Lawler C (2018) Improving spacecraft design and operability for Europa Clipper through high-fidelity mission-level modeling and simulation. In: SpaceOps conference, Marseille, France, vol 28
+
+French A, Boone D, Young B, Campagnola S (2025) Europa Clipper Mission design: tour trajectory navigation analysis – mitigating the effects of unintended \(\Delta \)V due to safe mode. J Astronaut Sci 72. Also: 2023 AAS/AIAA Astrodynamics Specialist Conference, AAS-239
+
+French A, Boone D, Young B, Campagnola S (2025) Europa Clipper Mission design: tour trajectory navigation analysis – mitigating the effects of unintended \(\Delta \)V due to safe mode. J Astronaut Sci 72. Also: 2023 AAS/AIAA Astrodynamics Specialist Conference, AAS-239
+
+Goodson TD (2023) History and usage of a figure of merit for injection covariances. In: 2023 AAS/AIAA Astrodynamics Specialist Conference, AAS-487
+
+Goodson TD (2023) History and usage of a figure of merit for injection covariances. In: 2023 AAS/AIAA Astrodynamics Specialist Conference, AAS-487
+
+Goodson T, Boone D, French A, et al (2025) Europa Clipper Mission design: interplanetary trajectory navigation analysis. J Astronaut Sci 72. Also: 2023 AAS/AIAA Astrodynamics Specialist Conference, AAS 23-485
+
+Goodson T, Boone D, French A, et al (2025) Europa Clipper Mission design: interplanetary trajectory navigation analysis. J Astronaut Sci 72. Also: 2023 AAS/AIAA Astrodynamics Specialist Conference, AAS 23-485
+
+Greco C, Campagnola S, Vasile M (2022) Robust space trajectory design using belief optimal control. J Guid Control Dyn 45(6):1060–1077. https://doi.org/10.2514/1.G005704Article ADS MATH Google Scholar
+
+Greco C, Campagnola S, Vasile M (2022) Robust space trajectory design using belief optimal control. J Guid Control Dyn 45(6):1060–1077. https://doi.org/10.2514/1.G005704
+
+Article ADS MATH Google Scholar
+
+Khurana KK, Kivelson MG, Stevenson D, Schubert G, Russell C (1998) Induced magnetic fields as evidence for subsurface oceans in Europa and Callisto. Nature 395:777–780. https://doi.org/10.1038/27394Article ADS Google Scholar
+
+Khurana KK, Kivelson MG, Stevenson D, Schubert G, Russell C (1998) Induced magnetic fields as evidence for subsurface oceans in Europa and Callisto. Nature 395:777–780. https://doi.org/10.1038/27394
+
+Article ADS Google Scholar
+
+Lam T, Buffington B, Arrieta J (2015) The Europa mission: multiple Europa flyby trajectory design trades and challenges. In: AIAA/AAS astrodynamics specialist conference, Vail, Colorado Google Scholar
+
+Lam T, Buffington B, Arrieta J (2015) The Europa mission: multiple Europa flyby trajectory design trades and challenges. In: AIAA/AAS astrodynamics specialist conference, Vail, Colorado
+
+Lam T, Buffington BB, Campagnola S (2018) A robust mission tour for NASA’s planned Europa Clipper Mission. In: 28th AIAA/AAS space flight mechanics meeting, Kissimmee, Florida Google Scholar
+
+Lam T, Buffington BB, Campagnola S (2018) A robust mission tour for NASA’s planned Europa Clipper Mission. In: 28th AIAA/AAS space flight mechanics meeting, Kissimmee, Florida
+
+Landau DF, Campagnola S, Pellegrini E (2022) Star searches for patched-conic trajectories. J Astronaut Sci 69(6):1613–1648. https://doi.org/10.1007/S40295-022-00350-YArticle MATH Google Scholar
+
+Landau DF, Campagnola S, Pellegrini E (2022) Star searches for patched-conic trajectories. J Astronaut Sci 69(6):1613–1648. https://doi.org/10.1007/S40295-022-00350-Y
+
+Article MATH Google Scholar
+
+Maldague P, Wissler S (2018) Towards a cradle-to-grave, mission-wide simulation system. In: SpaceOps conference, Marseille, France, vol 28 Google Scholar
+
+Maldague P, Wissler S (2018) Towards a cradle-to-grave, mission-wide simulation system. In: SpaceOps conference, Marseille, France, vol 28
+
+Maldague P, Wissler S, Lenda M, Finnerty D (2014) APGEN scheduling: 15 years of experience in planning automation. In: SpaceOps conference, Pasadena, California, pp 5–9 Google Scholar
+
+Maldague P, Wissler S, Lenda M, Finnerty D (2014) APGEN scheduling: 15 years of experience in planning automation. In: SpaceOps conference, Pasadena, California, pp 5–9
+
+MaraisD, Nuth JA III, Allamandola LJ, Boss AP, Farmer JD, Hoehler TM, Jakosky BM, Meadows VS, Pohorille A, Runnegar B, Spormann AM (2008) The NASA astrobiology roadmap. Astrobiology 8(4)
+
+MaraisD, Nuth JA III, Allamandola LJ, Boss AP, Farmer JD, Hoehler TM, Jakosky BM, Meadows VS, Pohorille A, Runnegar B, Spormann AM (2008) The NASA astrobiology roadmap. Astrobiology 8(4)
+
+McCoy K, et al. (2018) Assessing the science robustness of the Europa Clipper Mission: science sensitivity model. In: 2018 IEEE Aerospace Conference, Big Sky, MT, pp 1–13 MATH Google Scholar
+
+McCoy K, et al. (2018) Assessing the science robustness of the Europa Clipper Mission: science sensitivity model. In: 2018 IEEE Aerospace Conference, Big Sky, MT, pp 1–13
+
+McKinnon WB, Pappalardo RT, Khurana KK (2009) Europa: perspectives on an ocean world. In: Pappalardo RT et al. (eds) Europa. University of Arizona Press, Tucson, pp 697–710 Google Scholar
+
+McKinnon WB, Pappalardo RT, Khurana KK (2009) Europa: perspectives on an ocean world. In: Pappalardo RT et al. (eds) Europa. University of Arizona Press, Tucson, pp 697–710
+
+National Research Council (2011) Vision and voyages for planetary science in the decade 2013–2022. https://solarsystem.nasa.gov/resources/598/vision-and-voyages-for-planetary-science-in-the-decade-2013-2022
+
+National Research Council (2011) Vision and voyages for planetary science in the decade 2013–2022. https://solarsystem.nasa.gov/resources/598/vision-and-voyages-for-planetary-science-in-the-decade-2013-2022
+
+Pappalardo RT, Belton MJS, Breneman HH, Carr MH, Chapman CR, Collins GC, Denk T, Fagents S, Geissler PE, Giese B, Greeley R, Greenberg R, Head JW, Helfenstein P, Hoppa G, Kadel SD, Klaasen KP, Klemaszewski JE, Magee K, McEwen AS, Moore JM, Moore WB, Neukum G, Phillips CB, Prockter LM, Schubert G, Senske DA, Sullivan RJ, Tufts BR, Turtle EP, Wagner R, Williams KK (1999) Does Europa have a subsurface ocean? Evaluation of the geological evidence. J Geophys Res 104:24015–24055 Article ADS Google Scholar
+
+Pappalardo RT, Belton MJS, Breneman HH, Carr MH, Chapman CR, Collins GC, Denk T, Fagents S, Geissler PE, Giese B, Greeley R, Greenberg R, Head JW, Helfenstein P, Hoppa G, Kadel SD, Klaasen KP, Klemaszewski JE, Magee K, McEwen AS, Moore JM, Moore WB, Neukum G, Phillips CB, Prockter LM, Schubert G, Senske DA, Sullivan RJ, Tufts BR, Turtle EP, Wagner R, Williams KK (1999) Does Europa have a subsurface ocean? Evaluation of the geological evidence. J Geophys Res 104:24015–24055
+
+Article ADS Google Scholar
+
+Pappalardo RT, Buratti BJ, Korth H, et al. (2024) Science overview of the Europa Clipper Mission. Space Sci Rev 220:40. https://doi.org/10.1007/s11214-024-01070-5Article ADS MATH Google Scholar
+
+Pappalardo RT, Buratti BJ, Korth H, et al. (2024) Science overview of the Europa Clipper Mission. Space Sci Rev 220:40. https://doi.org/10.1007/s11214-024-01070-5
+
+Article ADS MATH Google Scholar
+
+Schubert G, Sohl F, Hussmann H (2009) Interior of Europa. In: Pappalardo RT, McKinnon WB, Khurana KK (eds) Europa. University of Arizona Press, Tucson, pp 353–368 MATH Google Scholar
+
+Schubert G, Sohl F, Hussmann H (2009) Interior of Europa. In: Pappalardo RT, McKinnon WB, Khurana KK (eds) Europa. University of Arizona Press, Tucson, pp 353–368
+
+Scott CJ, Ozimek M, Buffington BB, Roncoli RB, Yen CL (2017) Robust capture and pump-down design for NASA’s planned Europa Clipper Mission. In: 27th AAS/AIAA space flight mechanics meeting, San Antonio, Texas, AAS 17-437 Google Scholar
+
+Scott CJ, Ozimek M, Buffington BB, Roncoli RB, Yen CL (2017) Robust capture and pump-down design for NASA’s planned Europa Clipper Mission. In: 27th AAS/AIAA space flight mechanics meeting, San Antonio, Texas, AAS 17-437
+
+Scott C, Ellison DH, Bokelmann K, et al (2025) Europa Clipper Mission design: pump down trajectory design. J Astronaut Sci 72. Also: 2024 American Astronautical Society, AAS 443
+
+Scott C, Ellison DH, Bokelmann K, et al (2025) Europa Clipper Mission design: pump down trajectory design. J Astronaut Sci 72. Also: 2024 American Astronautical Society, AAS 443
+
+Senent JS, Pellegrini E, Campagnola S, et al (2025) Europa Clipper Mission design: interplanetary trajectory navigation analysis. J Astronaut Sci 72. Also: IAC 2023, Baku
+
+Senent JS, Pellegrini E, Campagnola S, et al (2025) Europa Clipper Mission design: interplanetary trajectory navigation analysis. J Astronaut Sci 72. Also: IAC 2023, Baku
+
+Showstack R (2015) NASA selects science instruments for Europa mission. Eos 96. https://eos.org/articles/nasa-selects-science-instruments-for-europa-mission
+
+Showstack R (2015) NASA selects science instruments for Europa mission. Eos 96. https://eos.org/articles/nasa-selects-science-instruments-for-europa-mission
+
+Srinivasan J, Barltrop C, Bermanet S, et al (2025) Europa Clipper flight system overview. Space Sci Rev 221. https://doi.org/10.1007/s11214-025-01139-9
+
+Srinivasan J, Barltrop C, Bermanet S, et al (2025) Europa Clipper flight system overview. Space Sci Rev 221. https://doi.org/10.1007/s11214-025-01139-9
+
+This manuscript is a high-level summary of work carried out by thousands of engineers and scientists at the Jet Propulsion Laboratory, California Institute of Technology; the Johns Hopkins University Applied Physics Laboratory; each of the institutions that supplied science instruments for the mission (Arizona State University; Southwest Research Institute; University of Colorado at Boulder; University of California, Los Angeles); and at government and contractor institutions across the United States and in Europe. Portions of this work were carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration. Special thanks to Kimberley Rizzo of JPL Technical Writing and Publishing in the preparation of this document.
+
+Authors and Affiliations
+
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USAL. Alberto Cangahuala, Stefano Campagnola, Ben K. Bradley, Dylan R. Boone, Brent B. Buffington, Jan M. Ludwinski & Sumita Nandi
+
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA
+
+L. Alberto Cangahuala, Stefano Campagnola, Ben K. Bradley, Dylan R. Boone, Brent B. Buffington, Jan M. Ludwinski & Sumita Nandi
+
+Applied Physics Laboratory, Johns Hopkins University, Laurel, MD, USAChristopher J. Scott
+
+Applied Physics Laboratory, Johns Hopkins University, Laurel, MD, USA
+
+L. Alberto CangahualaView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Stefano CampagnolaView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Ben K. BradleyView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Dylan R. BooneView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Brent B. BuffingtonView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Jan M. LudwinskiView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Sumita NandiView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Christopher J. ScottView author publicationsSearch author on:PubMed Google Scholar
+
+Search author on:PubMed Google Scholar
+
+Correspondence to L. Alberto Cangahuala.
+
+The authors declare no competing interests.
+
+Additional information
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Europa Clipper: A Mission to Explore Ocean World Habitability
+
+Edited by Haje Korth, Bonnie J. Buratti and David Senske
+
+Rights and permissions
+
+Reprints and permissions
+
+Cangahuala, L.A., Campagnola, S., Bradley, B.K. et al. Europa Clipper Mission Design, Mission Plan, and Navigation. Space Sci Rev 221, 22 (2025). https://doi.org/10.1007/s11214-025-01140-2
+
+Received: 27 May 2024
+
+Received: 27 May 2024
+
+Accepted: 15 January 2025
+
+Accepted: 15 January 2025
+
+Published: 14 February 2025
+
+Published: 14 February 2025
+
+Version of record: 14 February 2025
+
+Version of record: 14 February 2025
+
+DOI: https://doi.org/10.1007/s11214-025-01140-2
+
+DOI: https://doi.org/10.1007/s11214-025-01140-2
+
+Anyone you share the following link with will be able to read this content:
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Avoid common mistakes on your manuscript.
+
+Part of a collection:
+
+Europa Clipper: A Mission to Explore Ocean World Habitability
+
+Publish your research
+
+Open access publishing
+
+Products and services
+
+Partners and advertisers
+
+Your privacy choices/Manage cookies
+
+Your US state privacy rights
+
+Accessibility statement
+
+Cancel contracts here

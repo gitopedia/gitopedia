@@ -1,0 +1,27 @@
+# Europa Clipper Mission
+
+- A NASA spacecraft planned to launch in 2024 that will conduct multiple close flybys of Jupiter's moon Europa to study its icy surface, subsurface ocean, and potential for harboring life.
+
+- October 14, 2024 at 16:06 UTC
+
+- Europa Clipper will perform a gravity assist maneuver at Mars on February 1, 2025, using the planet's gravitational field to adjust its trajectory toward Jupiter during its interplanetary journey.
+
+- Europa Clipper will enter orbit around Jupiter in 2030 to conduct detailed reconnaissance of the icy moon Europa through about 50 close flybys, studying its potential for harboring life beneath its frozen surface.
+
+- Europa Clipper will perform its first flyby of Ganymede in April 2030, marking the start of its multi-year mission to study Jupiter's largest moon and its interactions with the Jovian system.
+
+- Europa Clipper will conduct detailed reconnaissance of Jupiter's icy moon Europa through a series of 45 close flybys, studying its potential for hosting life in its subsurface ocean.
+
+- Click + drag to rotate
+
+- Right-click + drag to pan
+
+- Click on an object to learn more
+
+- A distant dwarf planet candidate discovered in 2012 orbiting the Sun at an average distance of 266 AU in a highly eccentric orbit that never brings it closer than 80 AU.
+
+- A heavily cratered, icy mid-sized moon with a reflective surface composed primarily of water ice mixed with rocky material, orbiting as Saturn's second-largest satellite.
+
+- After a failed first attempt to enter Venus orbit in 2010, Akatsuki successfully established orbit around Venus in 2015 and continues to study the planet's atmosphere and weather patterns using its suite of cameras and instruments.
+
+- @gordonhart/atlasof.space
