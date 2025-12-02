@@ -618,5 +618,25 @@
     "id": "org:kingdom-of-jerusalem",
     "label": "Kingdom of Jerusalem",
     "aliases": []
+  },
+  {
+    "id": "org:centre-de-physique-théorique-(marseille)",
+    "label": "Centre de Physique Théorique (Marseille)",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-university-press",
+    "label": "Cambridge University Press",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-open-engage",
+    "label": "Cambridge Open Engage",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-aspire",
+    "label": "Cambridge Aspire",
+    "aliases": []
   }
 ]
