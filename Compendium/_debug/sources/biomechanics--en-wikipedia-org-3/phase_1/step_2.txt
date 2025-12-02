@@ -1,0 +1,386 @@
+# Biomechanics
+
+- Please don't skip this 1-minute read. It's Wednesday, 3 December, and if you're like us, you've used Wikipedia countless times. To settle an argument with a friend. To satisfy a curiosity. Whether it's 3 in the morning or afternoon, Wikipedia is useful in your life. Please give $2.75.
+
+- Wikipedia's been around since 2001. Back then, it was just a wildly ambitious, probably impossible dream. But it came together piece by piece—created by people, not machines. Wikipedia's not perfect, but it's always been free thanks to everyday readers.
+
+- Only 2% ever donate. But that small group makes a big difference. When you support Wikipedia, you're standing up for the internet we were promised, where knowledge belongs to everyone.
+
+- If you agree, then this is your moment to give back. Even $2.75 makes a difference. Help keep it going—for you, for the next reader, and for the next generation.
+
+- 25 years of the internet at its best
+
+- $25 Celebrate & Give 🎉
+
+- Unlock tax benefits by directing your donation via your Donor-Advised Fund (DAF)
+
+- Qualified Charitable Distributions from a tax efficient eligible IRA
+
+- Involve your employer and increase the impact of your donation
+
+- Nearly half of our budget goes toward supporting the technology that powers Wikipedia and other Wikimedia projects.
+- We are constantly working to enhance the user experience for both contributors and readers, improve site security, and ensure reliable access to our websites globally.
+- This infrastructure and product support sustain one of the top ten most visited websites in the world, all at a fraction of the cost of popular for-profit websites.
+
+- The global reach of Wikimedia projects is made possible by the hard work of volunteers from across the globe.
+- We provide grants, legal support, and other resources to help build vibrant volunteer communities.
+- Additionally, we promote community engagement through outreach initiatives and advocate for the growth and protection of free knowledge.
+
+- Operational costs are essential for the smooth management and governance of the Wikimedia Foundation. These expenses help us recruit top talent and support staff around the world, empowering them to carry out the mission of the Wikimedia Foundation.
+
+- Donor support is crucial to sustaining Wikipedia and our other free knowledge endeavors. Our team is committed to efficient and effective fundraising throughout the year, ensuring that every contribution helps advance our mission.
+
+- 2.1 Biofluid mechanics
+
+- 2.3 Comparative biomechanics
+
+- 2.4 Computational biomechanics
+
+- 2.5 Continuum biomechanics
+
+- 2.7 Plant biomechanics
+
+- 2.8 Sports biomechanics
+
+- 2.9 Vascular biomechanics
+
+- 2.11 Other applied subfields of biomechanics include
+
+- ქართული
+
+- Oʻzbekcha / ўзбекча
+
+- Srpskohrvatski / српскохрватски
+
+- Biomechanics is the study of the structure, function and motion of the mechanical aspects of biological systems, at any level from whole organisms to organs, cells and cell organelles, and even proteins[1] using the methods of mechanics.[2] Biomechanics is a branch of biophysics.
+
+- The word "biomechanics" (1899) and the related "biomechanical" (1856) comes from the Ancient Greek βίος bios "life" and μηχανική, mēchanikē "mechanics", referring to the mechanical principles of living organisms, particularly their movement and structure.[3]
+
+- Biological fluid mechanics, or biofluid mechanics, is the study of both gas and liquid fluid flows in or around biological organisms.
+- An often studied liquid biofluid problem is that of blood flow in the human cardiovascular system.
+- Blood flow can be modeled by the Navier–Stokes equations.
+- In vivo whole blood is assumed to be an incompressible Newtonian fluid.
+- This assumption fails when considering forward flow within arterioles.
+- At microscopic scales, effects of individual red blood cells become significant, and whole blood cannot be modeled as a continuum.
+- When the diameter of the blood vessel is just slightly larger than the diameter of the red blood cell the Fahraeus–Lindquist effect occurs and there is a decrease in wall shear stress.
+- However, as the diameter of the blood vessel decreases further, the red blood cells have to squeeze through the vessel and often can only pass in a single file.
+- In this case, the inverse Fahraeus–Lindquist effect occurs and the wall shear stress increases.[citation needed]
+
+- An example of a gaseous biofluids problem is that of human respiration. Respiratory systems in insects have been studied for bioinspiration for designing improved microfluidic devices.[4]
+
+- Biotribology is the study of friction, wear and lubrication of biological systems, especially human joints such as hips and knees.[5][6] In general, these processes are studied in the context of contact mechanics and tribology.
+
+- Additional aspects of biotribology include analysis of subsurface damage resulting from two surfaces coming in contact during motion, i.e. rubbing against each other, such as in the evaluation of tissue-engineered cartilage.[7]
+
+- Comparative biomechanics
+
+- Comparative biomechanics is the application of biomechanics to non-human organisms, whether used to gain greater insights into humans (as in physical anthropology) or into the functions, ecology and adaptations of the organisms themselves.
+- Common areas of investigation are animal locomotion and feeding, as these have strong connections to the organism's fitness and impose high mechanical demands.
+- Animal locomotion has many manifestations, including running, jumping and flying.
+- Locomotion requires energy to overcome friction, drag, inertia, and gravity, though which factor predominates varies with environment.[citation needed]
+
+- Comparative biomechanics overlaps with many other fields, including ecology, neurobiology, developmental biology, ethology, and paleontology.
+- Comparative biomechanics is often applied in medicine (with regards to common model organisms such as mice and rats) as well as in biomimetics, which looks to nature for solutions to engineering problems.[citation needed]
+
+- Computational biomechanics
+
+- Computational biomechanics is the application of engineering computational tools, such as the finite element method to study the mechanics of biological systems.
+- Computational models and simulations are used to predict the relationship between parameters that are otherwise challenging to test experimentally, or used to design more relevant experiments reducing the time and costs of experiments.
+- Mechanical modeling using finite element analysis has been used to interpret the experimental observation of plant cell growth to understand how they differentiate, for instance.[8] In medicine, over the past decade, the finite element method has become an established alternative to in vivo surgical assessment.
+- One of the main advantages of computational biomechanics lies in its ability to determine the endo-anatomical response of an anatomy, without being subject to ethical restrictions.[9] This has led finite element modeling (or other discretization techniques) to the point of becoming ubiquitous in several fields of biomechanics while several projects have even adopted an open source philosophy (e.g., BioSpine).[10]
+
+- Computational biomechanics is an essential ingredient in surgical simulation, which is used for surgical planning, assistance, and training.
+- In this case, numerical (discretization) methods are used to compute, as fast as possible, a system's response to boundary conditions such as forces, heat and mass transfer, and electrical and magnetic stimuli.
+
+- Continuum biomechanics
+
+- The mechanical analysis of biomaterials and biofluids is usually carried forth with the concepts of continuum mechanics.
+- This assumption breaks down when the length scales of interest approach the order of the microstructural details of the material.
+- One of the most remarkable characteristics of biomaterials is their hierarchical structure.
+- In other words, the mechanical characteristics of these materials rely on physical phenomena occurring in multiple levels, from the molecular all the way up to the tissue and organ levels.[citation needed]
+
+- Biomaterials are classified into two groups: hard and soft tissues.
+- Mechanical deformation of hard tissues (like wood, shell and bone) may be analysed with the theory of linear elasticity.
+- On the other hand, soft tissues (like skin, tendon, muscle, and cartilage) usually undergo large deformations, and thus, their analysis relies on the finite strain theory and computer simulations.
+- The interest in continuum biomechanics is spurred by the need for realism in the development of medical simulation.[11]: 568
+
+- Neuromechanics uses a biomechanical approach to better understand how the brain and nervous system interact to control the body.
+- During motor tasks, motor units activate a set of muscles to perform a specific movement, which can be modified via motor adaptation and learning.
+- In recent years, neuromechanical experiments have been enabled by combining motion capture tools with neural recordings.
+
+- The application of biomechanical principles to plants, plant organs and cells has developed into the subfield of plant biomechanics.[12] Application of biomechanics for plants ranges from studying the resilience of crops to environmental stress[13] to development and morphogenesis at cell and tissue scale, overlapping with mechanobiology.[8]
+
+- In sports biomechanics, the laws of mechanics are applied to human movement in order to gain a greater understanding of athletic performance and to reduce sport injuries as well.
+- It focuses on the application of the scientific principles of mechanical physics to understand movements of action of human bodies and sports implements such as cricket bat, hockey stick and javelin etc.
+- Elements of mechanical engineering (e.g., strain gauges), electrical engineering (e.g., digital filtering), computer science (e.g., numerical methods), gait analysis (e.g., force platforms), and clinical neurophysiology (e.g., surface EMG) are common methods used in sports biomechanics.[14]
+
+- Biomechanics in sports can be stated as the body's muscular, joint, and skeletal actions while executing a given task, skill, or technique.
+- Understanding biomechanics relating to sports skills has the greatest implications on sports performance, rehabilitation and injury prevention, and sports mastery.
+- As noted by Doctor Michael Yessis, one could say that best athlete is the one that executes his or her skill the best.[15]
+
+- Vascular biomechanics
+
+- The main topics of the vascular biomechanics is the description of the mechanical behaviour of vascular tissues.
+
+- It is well known that cardiovascular disease is the leading cause of death worldwide.[16] Vascular system in the human body is the main component that is supposed to maintain pressure and allow for blood flow and chemical exchanges.
+- Studying the mechanical properties of these complex tissues improves the possibility of better understanding cardiovascular diseases and drastically improves personalized medicine.
+
+- Vascular tissues are inhomogeneous with a strongly non linear behaviour.
+- Generally this study involves complex geometry with intricate load conditions and material properties.
+- The correct description of these mechanisms is based on the study of physiology and biological interaction.
+- Therefore, is necessary to study wall mechanics and hemodynamics with their interaction.
+
+- It is also necessary to premise that the vascular wall is a dynamic structure in continuous evolution. This evolution directly follows the chemical and mechanical environment in which the tissues are immersed like Wall Shear Stress or biochemical signaling.
+
+- The emerging field of immunomechanics focuses on characterising mechanical properties of the immune cells and their functional relevance.
+- Mechanics of immune cells can be characterised using various force spectroscopy approaches such as acoustic force spectroscopy and optical tweezers, and these measurements can be performed at physiological conditions (e.g. temperature).[17] Furthermore, one can study the link between immune cell mechanics and immunometabolism and immune signalling.
+- The term "immunomechanics" is some times interchangeably used with immune cell mechanobiology or cell mechanoimmunology.
+
+- Other applied subfields of biomechanics include
+
+- Animal locomotion and Gait analysis
+
+- Cardiovascular biomechanics
+
+- Comparative biomechanics
+
+- Computational biomechanics
+
+- Forensic Biomechanics
+
+- Human factors engineering and occupational biomechanics
+
+- Implant (medicine), Orthotics and Prosthesis
+
+- Kinesiology (kinetics + physiology)
+
+- Musculoskeletal and orthopedic biomechanics
+
+- Aristotle can be considered the first bio-mechanic because of his work with animal anatomy, writing the first book on the motion of animals, De Motu Animalium, or On the Movement of Animals.[18] He saw animal's bodies as mechanical systems, pursued questions such as the physiological difference between imagining performing an action and actual performance.[19] In another work, On the Parts of Animals, he provided an accurate description of how the ureter uses peristalsis to carry urine from the kidneys to the bladder.[11]: 2
+
+- With the rise of the Roman Empire, technology became more popular than philosophy and the next bio-mechanic arose.
+- Galen (129 AD-210 AD), physician to Marcus Aurelius, wrote his famous work, On the Function of the Parts (about the human body).
+- This would be the world's standard medical book for the next 1,400 years.[20]
+
+- The next major biomechanic would not be around until the 1490s, with the studies of human anatomy and biomechanics by Leonardo da Vinci.
+- He had a great understanding of science and mechanics and studied anatomy in a mechanics context.
+- He analyzed muscle forces and movements and studied joint functions.
+- These studies could be considered studies in the realm of biomechanics.
+- Leonardo da Vinci studied anatomy in the context of mechanics.
+- He analyzed muscle forces as acting along lines connecting origins and insertions, and studied joint function.
+- Da Vinci is also known for mimicking some animal features in his machines.
+- For example, he studied the flight of birds to find means by which humans could fly; and because horses were the principal source of mechanical power in that time, he studied their muscular systems to design machines that would better benefit from the forces applied by this animal.[21]
+
+- In 1543, Galen's work, On the Function of the Parts was challenged by Andreas Vesalius at the age of 29.
+- Vesalius published his own work called, On the Structure of the Human Body.
+- In this work, Vesalius corrected many errors made by Galen, which would not be globally accepted for many centuries.
+- With the death of Copernicus came a new desire to understand and learn about the world around people and how it works.
+- On his deathbed, he published his work, On the Revolutions of the Heavenly Spheres.
+- This work not only revolutionized science and physics, but also the development of mechanics and later bio-mechanics.[20]
+
+- Galileo Galilei, the father of mechanics and part time biomechanic was born 21 years after the death of Copernicus.
+- Over his years of science, Galileo made a lot of biomechanical aspects known.
+- For example, he discovered that "animals' masses increase disproportionately to their size, and their bones must consequently also disproportionately increase in girth, adapting to loadbearing rather than mere size.
+- The bending strength of a tubular structure such as a bone is increased relative to its weight by making it hollow and increasing its diameter.
+- Marine animals can be larger than terrestrial animals because the water's buoyancy relieves their tissues of weight."[20]
+
+- Galileo Galilei was interested in the strength of bones and suggested that bones are hollow because this affords maximum strength with minimum weight.
+- He noted that animals' bone masses increased disproportionately to their size.
+- Consequently, bones must also increase disproportionately in girth rather than mere size.
+- This is because the bending strength of a tubular structure (such as a bone) is much more efficient relative to its weight.
+- Mason suggests that this insight was one of the first grasps of the principles of biological optimization.[21]
+
+- In the 17th century, Descartes suggested a philosophic system whereby all living systems, including the human body (but not the soul), are simply machines ruled by the same mechanical laws, an idea that did much to promote and sustain biomechanical study.
+
+- The next major bio-mechanic, Giovanni Alfonso Borelli, embraced Descartes' mechanical philosophy and studied walking, running, jumping, the flight of birds, the swimming of fish, and even the piston action of the heart within a mechanical framework.
+- He could determine the position of the human center of gravity, calculate and measure inspired and expired air volumes, and he showed that inspiration is muscle-driven and expiration is due to tissue elasticity.
+
+- Borelli was the first to understand that "the levers of the musculature system magnify motion rather than force, so that muscles must produce much larger forces than those resisting the motion".[20] Influenced by the work of Galileo, whom he personally knew, he had an intuitive understanding of static equilibrium in various joints of the human body well before Newton published the laws of motion.[22] His work is often considered the most important in the history of bio-mechanics because he made so many new discoveries that opened the way for the future generations to continue his work and studies.
+
+- It was many years after Borelli before the field of bio-mechanics made any major leaps.
+- After that time, more and more scientists took to learning about the human body and its functions.
+- There are not many notable scientists from the 19th or 20th century in bio-mechanics because the field is far too vast now to attribute one thing to one person.
+- However, the field is continuing to grow every year and continues to make advances in discovering more about the human body.
+- Because the field became so popular, many institutions and labs have opened over the last century and people continue doing research.
+- With the Creation of the American Society of Bio-mechanics in 1977, the field continues to grow and make many new discoveries.[20]
+
+- In the 19th century Étienne-Jules Marey used cinematography to scientifically investigate locomotion.
+- He opened the field of modern 'motion analysis' by being the first to correlate ground reaction forces with movement.
+- In Germany, the brothers Ernst Heinrich Weber and Wilhelm Eduard Weber hypothesized a great deal about human gait, but it was Christian Wilhelm Braune who significantly advanced the science using recent advances in engineering mechanics.
+- During the same period, the engineering mechanics of materials began to flourish in France and Germany under the demands of the Industrial Revolution.
+- This led to the rebirth of bone biomechanics when the railroad engineer Karl Culmann and the anatomist Hermann von Meyer compared the stress patterns in a human femur with those in a similarly shaped crane.
+- Inspired by this finding Julius Wolff proposed the famous Wolff's law of bone remodeling.[23]
+
+- The study of biomechanics ranges from the inner workings of a cell to the movement and development of limbs, to the mechanical properties of soft tissue,[7] and bones.
+- Some simple examples of biomechanics research include the investigation of the forces that act on limbs, the aerodynamics of bird and insect flight, the hydrodynamics of swimming in fish, and locomotion in general across all forms of life, from individual cells to whole organisms.
+- With growing understanding of the physiological behavior of living tissues, researchers are able to advance the field of tissue engineering, as well as develop improved treatments for a wide array of pathologies including cancer.[24][citation needed]
+
+- Biomechanics is also applied to studying human musculoskeletal systems.
+- Such research utilizes force platforms to study human ground reaction forces and infrared videography to capture the trajectories of markers attached to the human body to study human 3D motion.
+- Research also applies electromyography to study muscle activation, investigating muscle responses to external forces and perturbations.[25]
+
+- Biomechanics is widely used in orthopedic industry to design orthopedic implants for human joints, dental parts, external fixations and other medical purposes.
+- Biotribology is a very important part of it.
+- It is a study of the performance and function of biomaterials used for orthopedic implants.
+- It plays a vital role to improve the design and produce successful biomaterials for medical and clinical purposes.
+- One such example is in tissue engineered cartilage.[7] The dynamic loading of joints considered as impact is discussed in detail by Emanuel Willert.[26]
+
+- It is also tied to the field of engineering, because it often uses traditional engineering sciences to analyze biological systems.
+- Some simple applications of Newtonian mechanics and/or materials sciences can supply correct approximations to the mechanics of many biological systems.
+- Applied mechanics, most notably mechanical engineering disciplines such as continuum mechanics, mechanism analysis, structural analysis, kinematics and dynamics play prominent roles in the study of biomechanics.[27]
+
+- Usually biological systems are much more complex than man-built systems.
+- Numerical methods are hence applied in almost every biomechanical study.
+- Research is done in an iterative process of hypothesis and verification, including several steps of modeling, computer simulation and experimental measurements.
+
+- Biomedical engineering
+
+- Cardiovascular System Dynamics Society
+
+- Evolutionary physiology
+
+- Forensic biomechanics
+
+- International Society of Biomechanics
+
+- List of biofluid mechanics research groups
+
+- Mechanics of human sexuality
+
+- OpenSim (simulation toolkit)
+
+- Cowin, Stephen C., ed. (2008). Bone mechanics handbook (2nd ed.). New York: Informa Healthcare. ISBN 978-0-8493-9117-0.
+
+- Fischer-Cripps, Anthony C. (2007). Introduction to contact mechanics (2nd ed.). New York: Springer. ISBN 978-0-387-68187-0.
+
+- Fung, Y.-C. (1993). Biomechanics: Mechanical Properties of Living Tissues. New York: Springer-Verlag. ISBN 978-0-387-97947-2.
+
+- Gurtin, Morton E. (1995). An introduction to continuum mechanics (6 ed.). San Diego: Acad. Press. ISBN 978-0-12-309750-7.
+
+- Humphrey, Jay D. (2002). Cardiovascular solid mechanics: cells, tissues, and organs. New York: Springer. ISBN 978-0-387-95168-3.
+
+- Mazumdar, Jagan N. (1993). Biofluids mechanics (Reprint 1998. ed.). Singapore: World Scientific. ISBN 978-981-02-0927-8.
+
+- Mow, Van C.; Huiskes, Rik, eds. (2005). Basic orthopaedic biomechanics & mechano-biology (3 ed.). Philadelphia: Lippincott Williams & Wilkins. p. 2. ISBN 978-0-7817-3933-7.
+
+- Peterson, Donald R.; Bronzino, Joseph D., eds. (2008). Biomechanics: principles and applications (2. rev. ed.). Boca Raton: CRC Press. ISBN 978-0-8493-8534-6.
+
+- Temenoff, J.S.; Mikos, A.G. (2008). Biomaterials: the Intersection of biology and materials science (Internat. ed.). Upper Saddle River, N.J.: Pearson/Prentice Hall. ISBN 978-0-13-009710-1.
+
+- Totten, George E.; Liang, Hong, eds. (2004). Mechanical tribology: materials, characterization, and applications. New York: Marcel Dekker. ISBN 978-0-8247-4873-9.
+
+- Waite, Lee; Fine, Jerry (2007). Applied biofluid mechanics. New York: McGraw-Hill. ISBN 978-0-07-147217-3.
+
+- Young, Donald F.; Bruce R. Munson; Theodore H. Okiishi (2004). A brief introduction to fluid mechanics (3rd ed.). Hoboken, N.J.: Wiley. ISBN 978-0-471-45757-2.
+
+- Resources in your library
+
+- Resources in other libraries
+
+- Biomechanics and Movement Science Listserver (Biomch-L)
+
+- A Genealogy of Biomechanics
+
+- Introduction (Genetics, Evolution)
+
+- Properties (Adaptation, Energy processing, Growth, Order, Regulation, Reproduction (Self-replication), Response to environment)
+
+- Hierarchy of life (Atom > Molecule > Organelle > Cell > Tissue > Organ > Organ system > Organism > Population > Community > Ecosystem > Biosphere)
+
+- Energy transformation
+
+- Evolutionary developmental biology
+
+- Mendelian inheritance
+
+- Post-transcriptional modification
+
+- Earliest known life forms
+
+- Eukaryote Alga Animal Fungus Plant Protist
+
+- Biological interaction
+
+- Green fluorescent protein
+
+- Polymerase chain reaction
+
+- species discovery curve
+
+- Biological engineering
+
+- Cellular microbiology
+
+- Computational biology
+
+- Developmental biology
+
+- Plant morphology terms
+
+- Biological engineering
+
+- Cellular microbiology
+
+- Computational biology
+
+- Developmental biology
+
+- Nobel Prize in Physiology or Medicine
+
+- Timeline of biology and organic chemistry
+
+- Theoretical Computational
+
+- Classical mechanics Newtonian Analytical Celestial Continuum
+
+- Classical electromagnetism
+
+- Classical optics Ray Wave
+
+- Thermodynamics Statistical Non-equilibrium
+
+- Relativistic mechanics Special General
+
+- Atomic, molecular, and optical physics Atomic Molecular Modern optics
+
+- Condensed matter physics Solid-state physics Crystallography
+
+- Quantum information science
+
+- Nobel Prize in Physics
+
+- Philosophy of physics
+
+- Physics education research
+
+- Timeline of physics discoveries
+
+- Encyclopedia of Modern Ukraine
+
+- CS1 German-language sources (de)
+
+- Articles with short description
+
+- Short description is different from Wikidata
+
+- Use dmy dates from June 2020
+
+- All articles with unsourced statements
+
+- Articles with unsourced statements from July 2025
+
+- Articles needing additional references from January 2025
+
+- All articles needing additional references
+
+- Articles with unsourced statements from December 2010
+
+- Articles with unsourced statements from January 2018
+
+- Articles with unsourced statements from December 2017
+
+- Commons category link is on Wikidata
+
+- Articles with excerpts
+
+- Edit preview settings
