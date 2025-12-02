@@ -2203,5 +2203,15 @@
     "id": "person:waclaw-szybalski-(renowned-geneticist)",
     "label": "Waclaw Szybalski (renowned geneticist)",
     "aliases": []
+  },
+  {
+    "id": "person:ada-limón-(u.s.-poet-laureate)",
+    "label": "Ada Limón (U.S. Poet Laureate)",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-carney",
+    "label": "Stephen Carney",
+    "aliases": []
   }
 ]
