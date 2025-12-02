@@ -773,5 +773,120 @@
     "id": "place:berlin-(germany)",
     "label": "Berlin (Germany)",
     "aliases": []
+  },
+  {
+    "id": "place:auckland",
+    "label": "Auckland",
+    "aliases": []
+  },
+  {
+    "id": "place:ngawha",
+    "label": "Ngawha",
+    "aliases": []
+  },
+  {
+    "id": "place:taup-volcanic-zone",
+    "label": "Taupō Volcanic Zone",
+    "aliases": []
+  },
+  {
+    "id": "place:ruapehu",
+    "label": "Ruapehu",
+    "aliases": []
+  },
+  {
+    "id": "place:whakatane",
+    "label": "Whakatane",
+    "aliases": []
+  },
+  {
+    "id": "place:kawerau",
+    "label": "Kawerau",
+    "aliases": []
+  },
+  {
+    "id": "place:te-huka-power-station",
+    "label": "Te Huka power station",
+    "aliases": []
+  },
+  {
+    "id": "place:the-arts-centre",
+    "label": "The Arts Centre",
+    "aliases": []
+  },
+  {
+    "id": "place:christchurch-town-hall",
+    "label": "Christchurch Town Hall",
+    "aliases": []
+  },
+  {
+    "id": "place:christchurch-bus-exchange",
+    "label": "Christchurch Bus Exchange",
+    "aliases": []
+  },
+  {
+    "id": "place:king-edward-barracks",
+    "label": "King Edward Barracks",
+    "aliases": []
+  },
+  {
+    "id": "place:boise",
+    "label": "Boise (Idaho)",
+    "aliases": []
+  },
+  {
+    "id": "place:larderello",
+    "label": "Larderello (Italy)",
+    "aliases": []
+  },
+  {
+    "id": "place:the-geysers",
+    "label": "The Geysers (California)",
+    "aliases": []
+  },
+  {
+    "id": "place:rotorua",
+    "label": "Rotorua",
+    "aliases": []
+  },
+  {
+    "id": "place:taup",
+    "label": "Taupō",
+    "aliases": []
+  },
+  {
+    "id": "place:waimangu",
+    "label": "Waimangu",
+    "aliases": []
+  },
+  {
+    "id": "place:te-mihi-power-station",
+    "label": "Te Mihi Power Station",
+    "aliases": []
+  },
+  {
+    "id": "place:wairwh-power-station",
+    "label": "Wairāwhī Power Station",
+    "aliases": []
+  },
+  {
+    "id": "place:wairakei-power-station",
+    "label": "Wairakei Power Station",
+    "aliases": []
+  },
+  {
+    "id": "place:rotokawa",
+    "label": "Rotokawa",
+    "aliases": []
+  },
+  {
+    "id": "place:ngwh",
+    "label": "Ngāwhā",
+    "aliases": []
+  },
+  {
+    "id": "place:polynesian-spa",
+    "label": "Polynesian Spa",
+    "aliases": []
   }
 ]
