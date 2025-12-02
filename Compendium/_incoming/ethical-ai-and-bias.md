@@ -3,7 +3,7 @@ id: 01KBCAAVWTRWQNP615MAFT0VDN
 slug: "ethical-ai-and-bias"
 created: 2025-12-01
 tags: ["topic:ai-bias", "topic:algorithmic-fairness", "topic:ethical-ai", "topic:machine-learning-ethics", "topic:fairness-metrics", "topic:explainable-ai-(xai)", "topic:fairness-aware-data-augmentation", "topic:human-in-the-loop-systems", "topic:adversarial-debiasing", "topic:dynamic-fairness-metrics", "topic:intersectional-fairness", "topic:ethical-ai-governance-models", "topic:gender-shades-study-(facial-recognition-bias-research)", "topic:artificial-intelligence", "topic:ethical-ai-and-bias"]
-people: ["person:cathy-o’neil-(author,-"weapons-of-math-destruction")", "person:joy-buolamwini-(researcher,-"gender-shades"-study)", "person:timnit-gebru-(researcher,-"gender-shades"-study)", "person:kamar-(author,-human-ai-collaboration-research)", "person:zellinger-(author,-adversarial-debiasing-techniques)"]
+people: ["person:cathy-oneil", "person:joy-buolamwini", "person:timnit-gebru", "person:kamar", "person:zellinger"]
 orgs: ["org:ibm-(ai-fairness-360-toolkit)", "org:google-(what-if-tool)", "org:amazon-(scrapped-recruiting-algorithm)", "org:propublica-(compas-analysis)", "org:eu-(ai-act-2024)", "org:stanford-encyclopedia-of-philosophy-(ethics-of-ai-and-robotics-entry)"]
 model: "qwen3:32b"
 
