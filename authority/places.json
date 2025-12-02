@@ -763,5 +763,15 @@
     "id": "place:quantum-trunk-(china)",
     "label": "Quantum Trunk (China)",
     "aliases": []
+  },
+  {
+    "id": "place:marseille-(france)",
+    "label": "Marseille (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:berlin-(germany)",
+    "label": "Berlin (Germany)",
+    "aliases": []
   }
 ]

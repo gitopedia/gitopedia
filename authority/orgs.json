@@ -683,5 +683,25 @@
     "id": "org:university-of-tokyo-(quantum-repeaters)",
     "label": "University of Tokyo (quantum repeaters)",
     "aliases": []
+  },
+  {
+    "id": "org:centre-de-physique-théorique-(marseille)",
+    "label": "Centre de Physique Théorique (Marseille)",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-university-press",
+    "label": "Cambridge University Press",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-open-engage",
+    "label": "Cambridge Open Engage",
+    "aliases": []
+  },
+  {
+    "id": "org:cambridge-aspire",
+    "label": "Cambridge Aspire",
+    "aliases": []
   }
 ]
