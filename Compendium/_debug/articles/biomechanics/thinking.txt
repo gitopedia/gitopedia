@@ -1,0 +1,29 @@
+# Thinking Trace for: Biomechanics
+# Model: qwen3:32b
+# Generated: 2025-12-02T23:50:11Z
+
+Okay, let me start by understanding the user's query. They want me to generate an article based on the provided research context, following specific formatting and structural guidelines. The user has given detailed instructions on how the article should be structured, including sections like Introduction, History, Key Concepts, Applications, etc. They also emphasize the use of citations from the provided sources.
+
+First, I need to parse the research context. It includes information about biomechanics, its applications, historical development, key concepts, and current trends. The sources provided are a mix of academic texts and practical examples, such as the evolution of biomechanics in sports and medical fields.
+
+Next, I need to structure the article according to the required sections. The YAML front matter needs to be correctly formatted with the title, summary, and tags. The summary should be concise, capturing the essence of the article in 2-3 sentences. Tags should be relevant keywords related to the topic.
+
+For the Introduction, I'll define biomechanics, its significance, and its relevance to various fields like sports and medicine. I need to mention that it's a part of kinesiology and its application of mechanical principles to living systems.
+
+The History section should cover the origins, key milestones, and important figures. From the research context, I see mentions of ancient roots with Galen, the 19th-century developments in sports, and the 20th-century advancements with the rise of medical technologies. I should cite the relevant sources here, like [^1] for the ancient history and [^2] for modern developments.
+
+Key Concepts will need to explain fundamental principles such as mechanics, biomechanical analysis, forces, and movement analysis. The research context provides details on how biomechanics uses physics principles to study forces and motion in biological systems. I'll need to break down these concepts clearly, using examples like Newton's laws and their application to human movement.
+
+Applications section should highlight real-world uses. The context mentions sports performance optimization, injury prevention, medical devices, and rehabilitation. For each application, I should provide examples and cite the sources where appropriate. For instance, discussing motion capture in sports [^3] and prosthetic development [^4].
+
+Current Status and Developments should cover recent trends like wearable technology, AI in biomechanics, and interdisciplinary research. The research context includes examples of smart prosthetics and biomechanical modeling in virtual reality. I need to connect these advancements to ongoing research and future possibilities, citing the relevant sources [^5] and [^6].
+
+I need to ensure that each section is substantial, with enough depth to meet the 1500-2500 word target. Subsections under each major heading will help organize the content logically. For example, under Applications, I can have subsections for Sports Science, Medical Applications, and Ergonomics.
+
+Citations are crucial here. Every fact that comes from the provided sources must have the correct footnote marker. I have to be careful not to invent references and only use the ones listed in the Research Context. For example, when discussing the origins in ancient Greece, I use [^1], and for modern medical applications, I use [^4].
+
+The style should remain neutral and encyclopedic, avoiding any subjective language. The article should be accessible to non-experts, so explaining technical terms in simple language is important. For instance, explaining "static equilibrium" in the context of biomechanics without assuming prior knowledge.
+
+I also need to check that all the required sections are included and that the flow between sections is logical. Each section should build upon the previous one, creating a coherent narrative from introduction to future directions.
+
+Finally, I'll review the article to ensure it adheres to the formatting guidelines, uses the correct YAML front matter without code fences, and that all citations are properly placed. Making sure there's no markdown beyond the specified headings and that the word count is within the specified range.
