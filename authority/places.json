@@ -773,5 +773,30 @@
     "id": "place:berlin-(germany)",
     "label": "Berlin (Germany)",
     "aliases": []
+  },
+  {
+    "id": "place:geneva",
+    "label": "Geneva (Switzerland)",
+    "aliases": []
+  },
+  {
+    "id": "place:large-hadron-collider",
+    "label": "Large Hadron Collider",
+    "aliases": []
+  },
+  {
+    "id": "place:large-hadron-collider-1",
+    "label": "Large Hadron Collider (LHC)",
+    "aliases": []
+  },
+  {
+    "id": "place:large-electron-positron-collider",
+    "label": "Large Electron-Positron Collider (LEP)",
+    "aliases": []
+  },
+  {
+    "id": "place:tevatron",
+    "label": "Tevatron",
+    "aliases": []
   }
 ]
