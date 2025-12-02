@@ -638,5 +638,50 @@
     "id": "org:european-space-agency",
     "label": "European Space Agency",
     "aliases": []
+  },
+  {
+    "id": "org:nist",
+    "label": "NIST",
+    "aliases": []
+  },
+  {
+    "id": "org:joint-center-for-quantum-information-and-computer-science",
+    "label": "Joint Center for Quantum Information and Computer Science",
+    "aliases": []
+  },
+  {
+    "id": "org:max-planck-institute-for-the-history-of-science-(berlin)",
+    "label": "Max Planck Institute for the History of Science (Berlin)",
+    "aliases": []
+  },
+  {
+    "id": "org:max-planck-society",
+    "label": "Max Planck Society",
+    "aliases": []
+  },
+  {
+    "id": "org:national-institute-of-standards-and-technology-(nist)",
+    "label": "National Institute of Standards and Technology (NIST)",
+    "aliases": []
+  },
+  {
+    "id": "org:id-quantique-(quantum-random-number-generators)",
+    "label": "ID Quantique (quantum random number generators)",
+    "aliases": []
+  },
+  {
+    "id": "org:quintessencelabs-(quantum-random-number-generators)",
+    "label": "QuintessenceLabs (quantum random number generators)",
+    "aliases": []
+  },
+  {
+    "id": "org:european-union-(quantum-flagship-initiative)",
+    "label": "European Union (Quantum Flagship initiative)",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-tokyo-(quantum-repeaters)",
+    "label": "University of Tokyo (quantum repeaters)",
+    "aliases": []
   }
 ]
