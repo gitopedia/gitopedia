@@ -2588,5 +2588,10 @@
     "id": "person:amos-tversky-2",
     "label": "Amos Tversky (psychologist, Nobel laureate)",
     "aliases": []
+  },
+  {
+    "id": "person:mori",
+    "label": "Māori (ethnic group)",
+    "aliases": []
   }
 ]
