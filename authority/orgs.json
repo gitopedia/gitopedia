@@ -683,5 +683,40 @@
     "id": "org:university-of-tokyo-(quantum-repeaters)",
     "label": "University of Tokyo (quantum repeaters)",
     "aliases": []
+  },
+  {
+    "id": "org:european-commission",
+    "label": "European Commission",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-(ai-fairness-360-toolkit)",
+    "label": "IBM (AI Fairness 360 Toolkit)",
+    "aliases": []
+  },
+  {
+    "id": "org:google-(what-if-tool)",
+    "label": "Google (What-If Tool)",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon-(scrapped-recruiting-algorithm)",
+    "label": "Amazon (scrapped recruiting algorithm)",
+    "aliases": []
+  },
+  {
+    "id": "org:propublica-(compas-analysis)",
+    "label": "ProPublica (COMPAS analysis)",
+    "aliases": []
+  },
+  {
+    "id": "org:eu-(ai-act-2024)",
+    "label": "EU (AI Act 2024)",
+    "aliases": []
+  },
+  {
+    "id": "org:stanford-encyclopedia-of-philosophy-(ethics-of-ai-and-robotics-entry)",
+    "label": "Stanford Encyclopedia of Philosophy (Ethics of AI and Robotics entry)",
+    "aliases": []
   }
 ]

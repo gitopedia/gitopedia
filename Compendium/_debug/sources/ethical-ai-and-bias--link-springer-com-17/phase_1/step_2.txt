@@ -1,0 +1,649 @@
+# Ethical AI and Bias
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- Humanistic Management Journal
+
+- Moral Judgment in the Age of Artificial Intelligence: How Humans Perceive Ethical Decisions Made by Machines
+
+- Published: 24 November 2025
+
+- Yan Bai ORCID: orcid.org/0000-0002-0718-74401
+
+- Artificial intelligence (AI) poses new challenges to human rationality and moral judgment in a volatile, uncertain, complex, and ambiguous (VUCA) world.
+- This paper integrates key insights from moral philosophy, normative and applied ethics, and management studies and proposes a behavioral perspective on the ethics of AI.
+- Prior research has indicated that people have biased perceptions towards AI’s decision outcomes; however, less attention has been paid to understanding human rationality and moral judgment under the complexity and ambiguity of the AI age.
+- This paper focuses on people’s perception of the ethicality of decisions made by human versus AI systems.
+- Specifically, it examines the perception of identical (un)ethical decisions made by human versus AI systems and decisions applying different moral principles (Utilitarian vs.
+- I argue that humans are perceived as more unethical than AI when both make the same unethical decision, yet paradoxically, human decisions are perceived as more ethical than identical ones made by AI.
+- Moreover, when moral dilemmas involve different ethical principles, utilitarian decisions made by humans are judged as less ethical than those made by AI.
+- Conversely, non-utilitarian indecision lacking clear reasoning is perceived as less ethical for AI than for humans, although this difference disappears when the non-utilitarian decision is grounded in Kantian reasoning.
+- By proposing a behavioral perspective on the ethics of AI, this paper contributes to a more comprehensive understanding of bounded human rationality and moral perception in the age of artificial intelligence.
+
+- This is a preview of subscription content, log in via an institution to check access.
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Price includes VAT (New Zealand)
+
+- Instant access to the full article PDF.
+
+- Institutional subscriptions
+
+- Explore related subjects
+
+- Humanitiy and Technology
+
+- Philosophy of Artificial Intelligence
+
+- Artificial Intelligence
+
+- Allen, C., I. Smit, and W. Wallach. 2005. Artificial morality: Top-down, bottom-up, and hybrid approaches. Ethics and Information Technology 7(3): 149–155.Article Google Scholar
+
+- Allen, C., I. Smit, and W. Wallach. 2005. Artificial morality: Top-down, bottom-up, and hybrid approaches. Ethics and Information Technology 7(3): 149–155.
+
+- Article Google Scholar
+
+- Anthony, C., B. A. Bechky, and A. L. Fayard. 2023. “Collaborating” with AI: Taking a system view to explore the future of work. Organization Science 34(5): 1672–1694.Article Google Scholar
+
+- Anthony, C., B. A. Bechky, and A. L. Fayard. 2023. “Collaborating” with AI: Taking a system view to explore the future of work. Organization Science 34(5): 1672–1694.
+
+- Article Google Scholar
+
+- Aristotle. 1980/1925. The Nicomachean ethics. Oxford: Oxford University Press.
+
+- Aristotle. 1980/1925. The Nicomachean ethics. Oxford: Oxford University Press.
+
+- Arkin, R. C., P. D. Ulam, and B. Duncan. 2009. An ethical governor for constraining lethal action in an autonomous system. Georgia Institute of Technology.Book Google Scholar
+
+- Arkin, R. C., P. D. Ulam, and B. Duncan. 2009. An ethical governor for constraining lethal action in an autonomous system. Georgia Institute of Technology.
+
+- Asimov, I. 2004. I, robot (Vol. 1).. Spectra. Google Scholar
+
+- Asimov, I. 2004. I, robot (Vol. 1).. Spectra.
+
+- Bankins, S. and P. Formosa. 2023. The ethical implications of artificial intelligence (AI) for meaningful work. Journal of Business Ethics 185(4): 725–740.Article Google Scholar
+
+- Bankins, S. and P. Formosa. 2023. The ethical implications of artificial intelligence (AI) for meaningful work. Journal of Business Ethics 185(4): 725–740.
+
+- Article Google Scholar
+
+- Bazerman, M. H. and O. Sezer. 2016. Bounded awareness: Implications for ethical decision making. Organizational Behavior and Human Decision Processes 136: 95–105.Article Google Scholar
+
+- Bazerman, M. H. and O. Sezer. 2016. Bounded awareness: Implications for ethical decision making. Organizational Behavior and Human Decision Processes 136: 95–105.
+
+- Article Google Scholar
+
+- Bentham, J. 1948/1789. An introduction to the principles of morals and legislation. New York: Hafner. Google Scholar
+
+- Bentham, J. 1948/1789. An introduction to the principles of morals and legislation. New York: Hafner.
+
+- Bonnefon, J. F., A. Shariff, and I. Rahwan. 2016. The social dilemma of autonomous vehicles. Science 352(6293): 1573–1576.Article Google Scholar
+
+- Bonnefon, J. F., A. Shariff, and I. Rahwan. 2016. The social dilemma of autonomous vehicles. Science 352(6293): 1573–1576.
+
+- Article Google Scholar
+
+- Buranyi, S. 2017. Rise of the racist robots: How AI is learning all our worst impulses. The guardian. Access from: Accessed 18 May 2019. https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses.
+
+- Buranyi, S. 2017. Rise of the racist robots: How AI is learning all our worst impulses. The guardian. Access from: Accessed 18 May 2019. https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses.
+
+- Cheong, M., E. Abedin, M. Ferreira, R. Reimann, S. Chalson, P. Robinson, and C. Klein. 2024. Investigating gender and racial biases in DALL-E mini images. ACM Journal on Responsible Computing 1(2): 1–20.Article Google Scholar
+
+- Cheong, M., E. Abedin, M. Ferreira, R. Reimann, S. Chalson, P. Robinson, and C. Klein. 2024. Investigating gender and racial biases in DALL-E mini images. ACM Journal on Responsible Computing 1(2): 1–20.
+
+- Article Google Scholar
+
+- Cho, A. 2016. Artificial intelligence steals money from banking customers. Science news, Access from: Accessed 18 June 2018. http://www.sciencemag.org/news/2016/04/artificial-intelligence-steals-money-banking-customers.
+
+- Cho, A. 2016. Artificial intelligence steals money from banking customers. Science news, Access from: Accessed 18 June 2018. http://www.sciencemag.org/news/2016/04/artificial-intelligence-steals-money-banking-customers.
+
+- Clabaugh, C. and M. Matarić. 2018. Robots for the people, by the people: Personalizing human-machine interaction. Science Robotics 3(21): 7451.Article Google Scholar
+
+- Clabaugh, C. and M. Matarić. 2018. Robots for the people, by the people: Personalizing human-machine interaction. Science Robotics 3(21): 7451.
+
+- Article Google Scholar
+
+- Deci, E. L. and R. M. Ryan. 1985. The general causality orientations scale: Self-determination in personality. Journal of Research in Personality 19(2): 109–134.Article Google Scholar
+
+- Deci, E. L. and R. M. Ryan. 1985. The general causality orientations scale: Self-determination in personality. Journal of Research in Personality 19(2): 109–134.
+
+- Article Google Scholar
+
+- De Fine Licht, K. and J. de Fine Licht. 2020. Artificial intelligence, transparency, and public decision-making: Why explanations are key when trying to produce perceived legitimacy. AI & Society 35(4): 917–926.Article Google Scholar
+
+- De Fine Licht, K. and J. de Fine Licht. 2020. Artificial intelligence, transparency, and public decision-making: Why explanations are key when trying to produce perceived legitimacy. AI & Society 35(4): 917–926.
+
+- Article Google Scholar
+
+- Deng, B. 2015. Machine ethics: The robot’s dilemma. Nature News 523(7558): 24.Article Google Scholar
+
+- Deng, B. 2015. Machine ethics: The robot’s dilemma. Nature News 523(7558): 24.
+
+- Article Google Scholar
+
+- Dietvorst, B. J., J. P. Simmons, and C. Massey. 2015. Algorithm aversion: People erroneously avoid algorithms after seeing them err. Journal of Experimental Psychology. General 144(1): 114.Article Google Scholar
+
+- Dietvorst, B. J., J. P. Simmons, and C. Massey. 2015. Algorithm aversion: People erroneously avoid algorithms after seeing them err. Journal of Experimental Psychology. General 144(1): 114.
+
+- Article Google Scholar
+
+- Dong, M. and K. Bocian. 2024. Responsibility gaps and self-interest bias: People attribute moral responsibility to AI for their own but not others’ transgressions. Journal of Experimental Social Psychology 111: 104584.Article Google Scholar
+
+- Dong, M. and K. Bocian. 2024. Responsibility gaps and self-interest bias: People attribute moral responsibility to AI for their own but not others’ transgressions. Journal of Experimental Social Psychology 111: 104584.
+
+- Article Google Scholar
+
+- Duggineni, S. 2023. Impact of controls on data integrity and information systems. Science and Technology 13(2): 29–35. Google Scholar
+
+- Duggineni, S. 2023. Impact of controls on data integrity and information systems. Science and Technology 13(2): 29–35.
+
+- Eiben, A. E. and J. Smith. 2015. From evolutionary computation to the evolution of things. Nature 521(7553): 476.Article Google Scholar
+
+- Eiben, A. E. and J. Smith. 2015. From evolutionary computation to the evolution of things. Nature 521(7553): 476.
+
+- Article Google Scholar
+
+- Proposal for a regulation of the European Parliament and of the council: Laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain union legislative acts.
+- Available at: accessed 26 April 2025. https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=75788.
+
+- Proposal for a regulation of the European Parliament and of the council: Laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain union legislative acts.
+- Available at: accessed 26 April 2025. https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=75788.
+
+- Falco, G., B. Shneiderman, J. Badger, R. Carrier, A. Dahbura, D. Danks, and Z. K. Yeong. 2021. Governing AI safety through independent audits. Nature Machine Intelligence 3(7): 566–571.Article Google Scholar
+
+- Falco, G., B. Shneiderman, J. Badger, R. Carrier, A. Dahbura, D. Danks, and Z. K. Yeong. 2021. Governing AI safety through independent audits. Nature Machine Intelligence 3(7): 566–571.
+
+- Article Google Scholar
+
+- Ferrero, I. and A. J. G. Sison. 2014. A quantitative analysis of authors, schools and themes in virtue ethics articles in business ethics and management journals (1980–2011). Business Ethics: A European Review 23(4): 375–400.Article Google Scholar
+
+- Ferrero, I. and A. J. G. Sison. 2014. A quantitative analysis of authors, schools and themes in virtue ethics articles in business ethics and management journals (1980–2011). Business Ethics: A European Review 23(4): 375–400.
+
+- Article Google Scholar
+
+- Floridi, L. and J. W. Sanders. 2004. On the morality of artificial agents. Minds and Machines 14(3): 349–379.Article Google Scholar
+
+- Floridi, L. and J. W. Sanders. 2004. On the morality of artificial agents. Minds and Machines 14(3): 349–379.
+
+- Article Google Scholar
+
+- Foot, P. 1967. The problem of abortion and the doctrine of double effect.
+
+- Foot, P. 1967. The problem of abortion and the doctrine of double effect.
+
+- Formosa, P. and M. Ryan. 2021. Making moral machines: Why we need artificial moral agents. AI & Society 36(3): 839–851.Article Google Scholar
+
+- Formosa, P. and M. Ryan. 2021. Making moral machines: Why we need artificial moral agents. AI & Society 36(3): 839–851.
+
+- Article Google Scholar
+
+- Gabriel, I. 2020. Artificial intelligence, values, and alignment. Minds and Machines 30(3): 411–437.Article Google Scholar
+
+- Gabriel, I. 2020. Artificial intelligence, values, and alignment. Minds and Machines 30(3): 411–437.
+
+- Article Google Scholar
+
+- Gebru, T., J. Morgenstern, B. Vecchione, J. Wortman Vaughan, H. Wallach, H. Daumé Iii, and K. Crawford. 2021. Datasheets for datasets. Communications of the ACM 64(12): 86–92.Article Google Scholar
+
+- Gebru, T., J. Morgenstern, B. Vecchione, J. Wortman Vaughan, H. Wallach, H. Daumé Iii, and K. Crawford. 2021. Datasheets for datasets. Communications of the ACM 64(12): 86–92.
+
+- Article Google Scholar
+
+- Giarmoleo, F. V., M. Rocchi, and I. Ferrero. 2024. Ethics of artificial intelligence: A virtue ethics approach. In Disruptive digitalisation and platforms. 57–74. Routledge.Chapter Google Scholar
+
+- Giarmoleo, F. V., M. Rocchi, and I. Ferrero. 2024. Ethics of artificial intelligence: A virtue ethics approach. In Disruptive digitalisation and platforms. 57–74. Routledge.
+
+- Chapter Google Scholar
+
+- Gigerenzer, G. 2006. Bounded and rational. Contemporary Debates in Cognitive Science 7: 115–133. Google Scholar
+
+- Gigerenzer, G. 2006. Bounded and rational. Contemporary Debates in Cognitive Science 7: 115–133.
+
+- Gigerenzer, G. and D. G. Goldstein. 1996. Reasoning the fast and frugal way: Models of bounded rationality. Psychological Review 103(4): 650.Article Google Scholar
+
+- Gigerenzer, G. and D. G. Goldstein. 1996. Reasoning the fast and frugal way: Models of bounded rationality. Psychological Review 103(4): 650.
+
+- Article Google Scholar
+
+- Glickman, M. and T. Sharot. 2024. How human–AI feedback loops alter human perceptual, emotional and social judgements. Nature Human Behaviour 1–15.
+
+- Glickman, M. and T. Sharot. 2024. How human–AI feedback loops alter human perceptual, emotional and social judgements. Nature Human Behaviour 1–15.
+
+- Gray, H. M., K. Gray, and D. M. Wegner. 2007. Dimensions of mind perception. Science 315(5812): 619–619.Article Google Scholar
+
+- Gray, H. M., K. Gray, and D. M. Wegner. 2007. Dimensions of mind perception. Science 315(5812): 619–619.
+
+- Article Google Scholar
+
+- Greene, J. D. 2016. Our driverless dilemma. Science 352(6293): 1514–1515.Article Google Scholar
+
+- Greene, J. D. 2016. Our driverless dilemma. Science 352(6293): 1514–1515.
+
+- Article Google Scholar
+
+- Gunkel, D. J. 2020. Mind the gap: Responsible robotics and the problem of responsibility. Ethics and Information Technology 22(4): 307–320.Article Google Scholar
+
+- Gunkel, D. J. 2020. Mind the gap: Responsible robotics and the problem of responsibility. Ethics and Information Technology 22(4): 307–320.
+
+- Article Google Scholar
+
+- Haidt, J. 2001. The emotional dog and its rational tail: a social intuitionist approach to moral judgment. Psychological Review 108(4): 814.Article Google Scholar
+
+- Haidt, J. 2001. The emotional dog and its rational tail: a social intuitionist approach to moral judgment. Psychological Review 108(4): 814.
+
+- Article Google Scholar
+
+- Haidt, J., F. Bjorklund, and S. Murphy. 2000. Moral dumbfounding: When intuition finds no reason. Unpublished manuscript, University of Virginia.
+
+- Haidt, J., F. Bjorklund, and S. Murphy. 2000. Moral dumbfounding: When intuition finds no reason. Unpublished manuscript, University of Virginia.
+
+- Hayes, P., N. Fitzpatrick, and J. M. Ferrández. 2025. From applied ethics and ethical principles to virtue and narrative in AI practices. AI and Ethics 5(2): 1217–1239.Article Google Scholar
+
+- Hayes, P., N. Fitzpatrick, and J. M. Ferrández. 2025. From applied ethics and ethical principles to virtue and narrative in AI practices. AI and Ethics 5(2): 1217–1239.
+
+- Article Google Scholar
+
+- Hosny, A., C. Parmar, J. Quackenbush, L. H. Schwartz, and H. J. Aerts. 2018. Artificial intelligence in radiology. Nature Reviews Cancer 1.
+
+- Hosny, A., C. Parmar, J. Quackenbush, L. H. Schwartz, and H. J. Aerts. 2018. Artificial intelligence in radiology. Nature Reviews Cancer 1.
+
+- Jarrahi, M. H. 2018. Artificial intelligence and the future of work: Human-AI symbiosis in organizational decision making. Business Horizons 61(4): 577–586.Article Google Scholar
+
+- Jarrahi, M. H. 2018. Artificial intelligence and the future of work: Human-AI symbiosis in organizational decision making. Business Horizons 61(4): 577–586.
+
+- Article Google Scholar
+
+- Johnson, D. G. 2006. Computer systems: Moral entities but not moral agents. Ethics and Information Technology 8(4): 195–204.Article Google Scholar
+
+- Johnson, D. G. 2006. Computer systems: Moral entities but not moral agents. Ethics and Information Technology 8(4): 195–204.
+
+- Article Google Scholar
+
+- Johnson, D. G. and K. W. Miller. 2008. Un-making artificial moral agents. Ethics and Information Technology 10(2–3): 123–133.Article Google Scholar
+
+- Johnson, D. G. and K. W. Miller. 2008. Un-making artificial moral agents. Ethics and Information Technology 10(2–3): 123–133.
+
+- Article Google Scholar
+
+- Joo, M. 2024. It’s the AI’s fault, not mine: Mind perception increases blame attribution to AI. PLoS One 19(12): e0314559.Article Google Scholar
+
+- Joo, M. 2024. It’s the AI’s fault, not mine: Mind perception increases blame attribution to AI. PLoS One 19(12): e0314559.
+
+- Article Google Scholar
+
+- Kant, I. 1785/1994. Grounding for the metaphysics of morals. Translated by J. W. Ellington. Ethical philosophy. 2nd ed. Indianapolis: Hackett Publishing. Google Scholar
+
+- Kant, I. 1785/1994. Grounding for the metaphysics of morals. Translated by J. W. Ellington. Ethical philosophy. 2nd ed. Indianapolis: Hackett Publishing.
+
+- Kawamleh, S. 2024. Algorithmic evidence in US criminal sentencing. AI and Ethics 1–14.
+
+- Kawamleh, S. 2024. Algorithmic evidence in US criminal sentencing. AI and Ethics 1–14.
+
+- Köbis, N., Z. Rahwan, R. Rilla, B. I. Supriyatno, C. Bersch, and T. Ajaj, … I. Rahwan. 2025. Delegation to Artificial Intelligence can increase dishonest behaviour. Nature 1–9.
+
+- Köbis, N., Z. Rahwan, R. Rilla, B. I. Supriyatno, C. Bersch, and T. Ajaj, … I. Rahwan. 2025. Delegation to Artificial Intelligence can increase dishonest behaviour. Nature 1–9.
+
+- Kearns, M. and A. Roth. 2019. The ethical algorithm: The science of socially aware algorithm design. Oxford University Press. Google Scholar
+
+- Kearns, M. and A. Roth. 2019. The ethical algorithm: The science of socially aware algorithm design. Oxford University Press.
+
+- Korteling, J. H., G. C. van de Boer-Visschedijk, R. A. Blankendaal, R. C. Boonekamp, and A. R. Eikelboom. 2021. Human-versus artificial intelligence. Frontiers in Artificial Intelligence 4: 622364.Article Google Scholar
+
+- Korteling, J. H., G. C. van de Boer-Visschedijk, R. A. Blankendaal, R. C. Boonekamp, and A. R. Eikelboom. 2021. Human-versus artificial intelligence. Frontiers in Artificial Intelligence 4: 622364.
+
+- Article Google Scholar
+
+- Landers, R. N. and T. S. Behrend. 2023. Auditing the AI auditors: A framework for evaluating fairness and bias in high stakes AI predictive models. The American Psychologist 78(1): 36.Article Google Scholar
+
+- Landers, R. N. and T. S. Behrend. 2023. Auditing the AI auditors: A framework for evaluating fairness and bias in high stakes AI predictive models. The American Psychologist 78(1): 36.
+
+- Article Google Scholar
+
+- LeCun, Y., Y. Bengio, and G. Hinton. 2015. Deep learning. Nature 521(7553): 436.Article Google Scholar
+
+- LeCun, Y., Y. Bengio, and G. Hinton. 2015. Deep learning. Nature 521(7553): 436.
+
+- Article Google Scholar
+
+- Lee, M. K. 2018. Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society 5(1).
+
+- Lee, M. K. 2018. Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society 5(1).
+
+- Logg, J. M., J. A. Minson, and D. A. Moore. 2019. Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes 151: 90–103.Article Google Scholar
+
+- Logg, J. M., J. A. Minson, and D. A. Moore. 2019. Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes 151: 90–103.
+
+- Article Google Scholar
+
+- Longoni, C., A. Bonezzi, and C. K. Morewedge. 2019. Resistance to medical artificial intelligence. Journal of Consumer Research 46(4): 629–650.Article Google Scholar
+
+- Longoni, C., A. Bonezzi, and C. K. Morewedge. 2019. Resistance to medical artificial intelligence. Journal of Consumer Research 46(4): 629–650.
+
+- Article Google Scholar
+
+- MacIntyre, A. 1999. Social structures and their threats to moral agency. Philosophy 74(3): 311–329.Article Google Scholar
+
+- MacIntyre, A. 1999. Social structures and their threats to moral agency. Philosophy 74(3): 311–329.
+
+- Article Google Scholar
+
+- Malle, B. F. and M. Scheutz. 2020. Moral competence in social robots. In Machine ethics and robot ethics. 225–230. Routledge.Chapter Google Scholar
+
+- Malle, B. F. and M. Scheutz. 2020. Moral competence in social robots. In Machine ethics and robot ethics. 225–230. Routledge.
+
+- Chapter Google Scholar
+
+- Malle, B. F., M. Scheutz, T. Arnold, J. Voiklis, and C. Cusimano. 2015, March. Sacrifice one for the good of many? People apply different moral norms to human and robot agents. 117–124. In Proceedings of the tenth annual ACM/IEEE international conference on human-robot interaction. ACM.
+
+- Malle, B. F., M. Scheutz, T. Arnold, J. Voiklis, and C. Cusimano. 2015, March. Sacrifice one for the good of many? People apply different moral norms to human and robot agents. 117–124. In Proceedings of the tenth annual ACM/IEEE international conference on human-robot interaction. ACM.
+
+- March, J. G. 1994. Primer on decision making: How decisions happen. Simon and Schuster. Google Scholar
+
+- March, J. G. 1994. Primer on decision making: How decisions happen. Simon and Schuster.
+
+- Martin, K. 2019a. Ethical implications and accountability of algorithms. Journal of Business Ethics 160(4): 835–850.Article Google Scholar
+
+- Martin, K. 2019a. Ethical implications and accountability of algorithms. Journal of Business Ethics 160(4): 835–850.
+
+- Article Google Scholar
+
+- Martin, K. 2019b. Designing ethical algorithms. MIS Quarterly Executive.
+
+- Martin, K. 2019b. Designing ethical algorithms. MIS Quarterly Executive.
+
+- Martin, K. and A. Waldman. 2023. Are algorithmic decisions legitimate? The effect of process and outcomes on perceptions of legitimacy of AI decisions. Journal of Business Ethics 183(3): 653–670.Article Google Scholar
+
+- Martin, K. and A. Waldman. 2023. Are algorithmic decisions legitimate? The effect of process and outcomes on perceptions of legitimacy of AI decisions. Journal of Business Ethics 183(3): 653–670.
+
+- Article Google Scholar
+
+- Matthias, A. 2004. The responsibility gap: Ascribing responsibility for the actions of learning automata. Ethics and Information Technology 6(3): 175–183.Article Google Scholar
+
+- Matthias, A. 2004. The responsibility gap: Ascribing responsibility for the actions of learning automata. Ethics and Information Technology 6(3): 175–183.
+
+- Article Google Scholar
+
+- Melé, D. 2016. Understanding humanistic management. Humanistic Management Journal 1: 33–55.Article Google Scholar
+
+- Melé, D. 2016. Understanding humanistic management. Humanistic Management Journal 1: 33–55.
+
+- Article Google Scholar
+
+- Melé, D. and C. Gonzaéz-Cantón. 2014. Human foundations of management. New York: Palgrave Macmillan.Book Google Scholar
+
+- Melé, D. and C. Gonzaéz-Cantón. 2014. Human foundations of management. New York: Palgrave Macmillan.
+
+- Mill, J. S. 1863. Utilitarianism. London: Parker, Son and Bourn. Google Scholar
+
+- Mill, J. S. 1863. Utilitarianism. London: Parker, Son and Bourn.
+
+- Mittelstadt, B. 2019. Principles alone cannot guarantee ethical AI. Nature Machine Intelligence 1(11): 501–507.Article Google Scholar
+
+- Mittelstadt, B. 2019. Principles alone cannot guarantee ethical AI. Nature Machine Intelligence 1(11): 501–507.
+
+- Article Google Scholar
+
+- Mittelstadt, B. D., P. Allo, M. Taddeo, S. Wachter, and L. Floridi. 2016. The ethics of algorithms: Mapping the debate. Big Data & Society 3(2): 2053951716679679.Article Google Scholar
+
+- Mittelstadt, B. D., P. Allo, M. Taddeo, S. Wachter, and L. Floridi. 2016. The ethics of algorithms: Mapping the debate. Big Data & Society 3(2): 2053951716679679.
+
+- Article Google Scholar
+
+- Moor, J. H. 2006. The nature, importance, and difficulty of machine ethics. IEEE Intelligent Systems 21(4): 18–21.Article Google Scholar
+
+- Moor, J. H. 2006. The nature, importance, and difficulty of machine ethics. IEEE Intelligent Systems 21(4): 18–21.
+
+- Article Google Scholar
+
+- OECD. 2021. Recommendation of the Council on Artificial Intelligence. Available at: accessed 3 April 2025. https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449.
+
+- OECD. 2021. Recommendation of the Council on Artificial Intelligence. Available at: accessed 3 April 2025. https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449.
+
+- Olteanu, A., C. Castillo, F. Diaz, and E. Kıcıman. 2019. Social data: Biases, methodological pitfalls, and ethical boundaries. Frontiers in Big Data 2: 13.Article Google Scholar
+
+- Olteanu, A., C. Castillo, F. Diaz, and E. Kıcıman. 2019. Social data: Biases, methodological pitfalls, and ethical boundaries. Frontiers in Big Data 2: 13.
+
+- Article Google Scholar
+
+- Pereira, L. M. and A. Saptawijaya. 2017. Counterfactuals, logic programming and agent morality. In Applications of formal philosophy. 25–53. Cham: Springer.Chapter Google Scholar
+
+- Pereira, L. M. and A. Saptawijaya. 2017. Counterfactuals, logic programming and agent morality. In Applications of formal philosophy. 25–53. Cham: Springer.
+
+- Chapter Google Scholar
+
+- Rai, A., P. Constantinides, and S. Sarker. 2019. Next generation digital platforms: Toward human-AI hybrids. MIS Quarterly 43(1): iii-ix.Article Google Scholar
+
+- Rai, A., P. Constantinides, and S. Sarker. 2019. Next generation digital platforms: Toward human-AI hybrids. MIS Quarterly 43(1): iii-ix.
+
+- Article Google Scholar
+
+- Raisch, S. and S. Krakowski. 2021. Artificial intelligence and management: The automation–augmentation paradox. Academy of Management Review 46(1): 192–210.Article Google Scholar
+
+- Raisch, S. and S. Krakowski. 2021. Artificial intelligence and management: The automation–augmentation paradox. Academy of Management Review 46(1): 192–210.
+
+- Article Google Scholar
+
+- Rebitschek, F. G., G. Gigerenzer, and G. G. Wagner. 2021. People underestimate the errors made by algorithms for credit scoring and recidivism prediction but accept even fewer errors. Scientific Reports 11(1): 20171.Article Google Scholar
+
+- Rebitschek, F. G., G. Gigerenzer, and G. G. Wagner. 2021. People underestimate the errors made by algorithms for credit scoring and recidivism prediction but accept even fewer errors. Scientific Reports 11(1): 20171.
+
+- Article Google Scholar
+
+- Russell, S. J. and P. Norvig. 2016. Artificial intelligence: A modern approach. Malaysia: Pearson Education Limited. Google Scholar
+
+- Russell, S. J. and P. Norvig. 2016. Artificial intelligence: A modern approach. Malaysia: Pearson Education Limited.
+
+- Ryan, R. M., R. R. Curren, and E. L. Deci. 2013. What humans need: Flourishing in Aristotelian philosophy and self-determination theory. In The best within us: Positive psychology perspectives on Eudaimonia, ed., A. S. Waterman, 57–75. American Psychological Association.Chapter Google Scholar
+
+- Ryan, R. M., R. R. Curren, and E. L. Deci. 2013. What humans need: Flourishing in Aristotelian philosophy and self-determination theory. In The best within us: Positive psychology perspectives on Eudaimonia, ed., A. S. Waterman, 57–75. American Psychological Association.
+
+- Chapter Google Scholar
+
+- Salatino, A., A. Prével, E. Caspar, and S. L. Bue. 2025. Influence of AI behavior on human moral decisions, agency, and responsibility. Nature Scientific Reports 15(1): 12329.Article Google Scholar
+
+- Salatino, A., A. Prével, E. Caspar, and S. L. Bue. 2025. Influence of AI behavior on human moral decisions, agency, and responsibility. Nature Scientific Reports 15(1): 12329.
+
+- Article Google Scholar
+
+- Santoni de Sio, F. and J. Van den Hoven. 2018. Meaningful human control over autonomous systems: A philosophical account. Frontiers in Robotics and AI 5: 323836.Article Google Scholar
+
+- Santoni de Sio, F. and J. Van den Hoven. 2018. Meaningful human control over autonomous systems: A philosophical account. Frontiers in Robotics and AI 5: 323836.
+
+- Article Google Scholar
+
+- Schkade, D. A. and L. M. Kilbourne. 1991. Expectation-outcome consistency and hindsight bias. Organizational Behavior and Human Decision Processes 49(1): 105–123.Article Google Scholar
+
+- Schkade, D. A. and L. M. Kilbourne. 1991. Expectation-outcome consistency and hindsight bias. Organizational Behavior and Human Decision Processes 49(1): 105–123.
+
+- Article Google Scholar
+
+- Shapiro, A. 2017. Reform predictive policing. Nature News 541(7638): 458.Article Google Scholar
+
+- Shapiro, A. 2017. Reform predictive policing. Nature News 541(7638): 458.
+
+- Article Google Scholar
+
+- Shariff, A., J. F. Bonnefon, and I. Rahwan. 2017. Psychological roadblocks to the adoption of self-driving vehicles. Nature Human Behavior 1(10): 694.Article Google Scholar
+
+- Shariff, A., J. F. Bonnefon, and I. Rahwan. 2017. Psychological roadblocks to the adoption of self-driving vehicles. Nature Human Behavior 1(10): 694.
+
+- Article Google Scholar
+
+- Sharkey, A. 2019. Autonomous weapons systems, killer robots and human dignity. Ethics and Information Technology 21(2): 75–87.Article Google Scholar
+
+- Sharkey, A. 2019. Autonomous weapons systems, killer robots and human dignity. Ethics and Information Technology 21(2): 75–87.
+
+- Article Google Scholar
+
+- Simon, H. A. 1978. Rationality as process and as product of thought. The American Economic Review 68(2): 1–16. Google Scholar
+
+- Simon, H. A. 1978. Rationality as process and as product of thought. The American Economic Review 68(2): 1–16.
+
+- Simon, Herbert A. 1957. Models of man, social and rational: Mathematical essays on rational human behavior in a social setting. New York: Wiley. Google Scholar
+
+- Simon, Herbert A. 1957. Models of man, social and rational: Mathematical essays on rational human behavior in a social setting. New York: Wiley.
+
+- Sison, A. J. G. and D. M. Redín. 2023. A neo-Aristotelian perspective on the need for artificial moral agents (AMAs). AI & Society 38(1): 47–65.Article Google Scholar
+
+- Sison, A. J. G. and D. M. Redín. 2023. A neo-Aristotelian perspective on the need for artificial moral agents (AMAs). AI & Society 38(1): 47–65.
+
+- Article Google Scholar
+
+- Sparrow, R. 2021. Why machines cannot be moral. AI & Society 36(3): 685–693.Article Google Scholar
+
+- Sparrow, R. 2021. Why machines cannot be moral. AI & Society 36(3): 685–693.
+
+- Article Google Scholar
+
+- Sullivan, Y. W. and S. Fosso Wamba. 2022. Moral judgments in the age of artificial intelligence. Journal of Business Ethics 178(4): 917–943.Article Google Scholar
+
+- Sullivan, Y. W. and S. Fosso Wamba. 2022. Moral judgments in the age of artificial intelligence. Journal of Business Ethics 178(4): 917–943.
+
+- Article Google Scholar
+
+- Sunstein, C. R. 2024. The use of algorithms in society. The Review of Austrian Economics 37(4):399–420.
+
+- Sunstein, C. R. 2024. The use of algorithms in society. The Review of Austrian Economics 37(4):399–420.
+
+- Thorbecke, C. 2023. AI tools make things up a lot, and that’s a huge problem. CNN business. Accessed 1 October 2023. https://edition.cnn.com/2023/08/29/tech/ai-chatbot-hallucinations/index.html.
+
+- Thorbecke, C. 2023. AI tools make things up a lot, and that’s a huge problem. CNN business. Accessed 1 October 2023. https://edition.cnn.com/2023/08/29/tech/ai-chatbot-hallucinations/index.html.
+
+- Tubella, A. A., A. Theodorou, V. Dignum, and F. Dignum. 2019. Governance by glass-box: Implementing transparent moral bounds for AI behaviour.
+
+- Tubella, A. A., A. Theodorou, V. Dignum, and F. Dignum. 2019. Governance by glass-box: Implementing transparent moral bounds for AI behaviour.
+
+- Vallor, S. 2015. Moral deskilling and upskilling in a new machine age: Reflections on the ambiguous future of character. Philosophy & Technology 28: 107–124.Article Google Scholar
+
+- Vallor, S. 2015. Moral deskilling and upskilling in a new machine age: Reflections on the ambiguous future of character. Philosophy & Technology 28: 107–124.
+
+- Article Google Scholar
+
+- Vallor, S. 2016. Technology and the virtues: A philosophical Guide to a future worth wanting. Oxford University Press.Book Google Scholar
+
+- Vallor, S. 2016. Technology and the virtues: A philosophical Guide to a future worth wanting. Oxford University Press.
+
+- Van Wynsberghe, A. and S. Robbins. 2019. Critiquing the reasons for making artificial moral agents. Science and Engineering Ethics 25: 719–735.Article Google Scholar
+
+- Van Wynsberghe, A. and S. Robbins. 2019. Critiquing the reasons for making artificial moral agents. Science and Engineering Ethics 25: 719–735.
+
+- Article Google Scholar
+
+- Waldrop, M. M. 2015. No drivers required. Nature 518(7537): 20.Article Google Scholar
+
+- Waldrop, M. M. 2015. No drivers required. Nature 518(7537): 20.
+
+- Article Google Scholar
+
+- Wallach, W. and C. Allen. 2008. Moral machines: Teaching robots right from wrong. Oxford University Press. Google Scholar
+
+- Wallach, W. and C. Allen. 2008. Moral machines: Teaching robots right from wrong. Oxford University Press.
+
+- Weise, K. and C. Metz. 2023. When AI chatbots hallucinate. The New York Times. https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html. Accessed 18 October 2023.
+
+- Weise, K. and C. Metz. 2023. When AI chatbots hallucinate. The New York Times. https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html. Accessed 18 October 2023.
+
+- Winfield, A. F. T., C. Blum, and W. Liu. 2014. Advances in autonomous robotics systems: 15th annual conference, Taros 2014, Birmingham, UK, September 1-3, 2014. In Proceedings, Chap. towards an ethical robot: Internal models, consequences and ethical action selection. 85–96. Google Scholar
+
+- Winfield, A. F. T., C. Blum, and W. Liu. 2014. Advances in autonomous robotics systems: 15th annual conference, Taros 2014, Birmingham, UK, September 1-3, 2014. In Proceedings, Chap. towards an ethical robot: Internal models, consequences and ethical action selection. 85–96.
+
+- Zhang, Z., Z. Chen, and L. Xu. 2022. Artificial intelligence and moral dilemmas: Perception of ethical decision-making in AI. Journal of Experimental Social Psychology 101: 104327.Article Google Scholar
+
+- Zhang, Z., Z. Chen, and L. Xu. 2022. Artificial intelligence and moral dilemmas: Perception of ethical decision-making in AI. Journal of Experimental Social Psychology 101: 104327.
+
+- Article Google Scholar
+
+- Zuboff, S. 2019. The age of surveillance capitalism: The fight for a human future at the new frontier of power. New York: Public Affairs. Google Scholar
+
+- Zuboff, S. 2019. The age of surveillance capitalism: The fight for a human future at the new frontier of power. New York: Public Affairs.
+
+- Authors and Affiliations
+
+- EADA Business School, Barcelona, SpainYan Bai
+
+- EADA Business School, Barcelona, Spain
+
+- Yan BaiView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Correspondence to Yan Bai.
+
+- Consent to Participate
+
+- No conflict of interest.
+
+- Additional information
+
+- Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+- Rights and permissions
+
+- Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+- Reprints and permissions
+
+- Bai, Y. Moral Judgment in the Age of Artificial Intelligence: How Humans Perceive Ethical Decisions Made by Machines. Humanist Manag J (2025). https://doi.org/10.1007/s41463-025-00215-0
+
+- Received: 20 November 2023
+
+- Received: 20 November 2023
+
+- Accepted: 11 November 2025
+
+- Accepted: 11 November 2025
+
+- Published: 24 November 2025
+
+- Published: 24 November 2025
+
+- Version of record: 24 November 2025
+
+- Version of record: 24 November 2025
+
+- DOI: https://doi.org/10.1007/s41463-025-00215-0
+
+- DOI: https://doi.org/10.1007/s41463-025-00215-0
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Perception of artificial intelligence
+
+- Ethical decision making
+
+- Starting from 10 chapters or articles per month
+
+- Access and download chapters and articles from more than 300k books and 2,500 journals
+
+- Price includes VAT (New Zealand)
+
+- Instant access to the full article PDF.
+
+- Institutional subscriptions
+
+- Publish your research
+
+- Open access publishing
+
+- Products and services
+
+- Partners and advertisers
+
+- Your privacy choices/Manage cookies
+
+- Your US state privacy rights
+
+- Accessibility statement
+
+- Cancel contracts here
