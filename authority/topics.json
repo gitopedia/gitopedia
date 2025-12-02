@@ -4673,5 +4673,100 @@
     "id": "topic:paris-agreement",
     "label": "Paris Agreement",
     "aliases": []
+  },
+  {
+    "id": "topic:synthetic-biology",
+    "label": "Synthetic Biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomedical-research",
+    "label": "biomedical research",
+    "aliases": []
+  },
+  {
+    "id": "topic:car-t-cell-therapy",
+    "label": "CAR T-cell therapy",
+    "aliases": []
+  },
+  {
+    "id": "topic:engineered-bacteria",
+    "label": "engineered bacteria",
+    "aliases": []
+  },
+  {
+    "id": "topic:synthetic-tissues",
+    "label": "synthetic tissues",
+    "aliases": []
+  },
+  {
+    "id": "topic:dna-sensors",
+    "label": "DNA sensors",
+    "aliases": []
+  },
+  {
+    "id": "topic:rna-technology",
+    "label": "RNA technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-modification",
+    "label": "genetic modification",
+    "aliases": []
+  },
+  {
+    "id": "topic:genome-synthesis",
+    "label": "genome synthesis",
+    "aliases": []
+  },
+  {
+    "id": "topic:biopharmaceutical-industry",
+    "label": "biopharmaceutical industry",
+    "aliases": []
+  },
+  {
+    "id": "topic:life-sciences",
+    "label": "life sciences",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-biotechnology",
+    "label": "industrial biotechnology",
+    "aliases": []
+  },
+  {
+    "id": "topic:pharmaceutical-market",
+    "label": "pharmaceutical market",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiopharmaceuticals",
+    "label": "radiopharmaceuticals",
+    "aliases": []
+  },
+  {
+    "id": "topic:implantable-remote-patient-monitoring-(irpm)-devices",
+    "label": "implantable remote patient monitoring (IRPM) devices",
+    "aliases": []
+  },
+  {
+    "id": "topic:metabolic-engineering",
+    "label": "metabolic engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:gene-technologies",
+    "label": "gene technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-genome-project-write-(hgp-write)",
+    "label": "Human Genome Project-Write (HGP-Write)",
+    "aliases": []
+  },
+  {
+    "id": "topic:golden-rice",
+    "label": "Golden Rice",
+    "aliases": []
   }
 ]
