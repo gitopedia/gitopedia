@@ -1,0 +1,59 @@
+Higgs boson, particle that is the carrier particle, or boson, of the Higgs field, a field that permeates space and endows all elementary subatomic particles with mass through its interactions with them. The field and the particle—named after Peter Higgs of the University of Edinburgh, one of the physicists who in 1964 first proposed the mechanism—provided a testable hypothesis for the origin of mass in elementary particles. In popular culture the Higgs boson is often called the “God particle,” after the title of Nobel physicist Leon Lederman’s The God Particle: If the Universe Is the Answer, What Is the Question? (1993), which contained the author’s assertion that the discovery of the particle is crucial to a final understanding of the structure of matter.
+
+(Read Neil deGrasse Tyson’s Britannica essay on scientific discoveries.)
+
+The Higgs field is different from other fundamental fields—such as the electromagnetic field—that underlie the basic forces between particles. First, it is a scalar field; i.e., it has magnitude but no direction. This implies that its carrier, the Higgs boson, has an intrinsic angular momentum, or spin, of 0, unlike the carriers of the force fields, which have spin. Second, the Higgs field has the unusual property that its energy is higher when the field is zero than when it is nonzero. The elementary particles therefore acquired their masses through interactions with a nonzero Higgs field only when the universe cooled and became less energetic in the aftermath of the big bang (the hypothetical primal explosion in which the universe originated). The variety of masses characterizing the elementary subatomic particles arises because different particles have different strengths of interaction with the Higgs field.
+
+The Higgs mechanism has a key role in the electroweak theory, which unifies interactions via the weak force and the electromagnetic force. It explains why the carriers of the weak force, the W particles and the Z particles, are heavy while the carrier of the electromagnetic force, the photon, has a mass of zero. Experimental evidence for the Higgs boson is a direct indication for the existence of the Higgs field. It is also possible that there is more than one type of Higgs boson. Experiments searched for the massive Higgs boson at the highest-energy particle-accelerator colliders, in particular the Tevatron at the Fermi National Accelerator Laboratory and the Large Hadron Collider (LHC) at CERN (European Organization for Nuclear Research). On July 4, 2012, scientists at the LHC announced that they had detected an interesting signal that was likely from a Higgs boson with a mass of 125–126 gigaelectron volts (billion electron volts; GeV). Further data was needed to definitively confirm those observations, and such confirmation was announced in March 2013. That same year Higgs and Belgian physicist François Englert (who had also proposed the Higgs mechanism) shared the Nobel Prize in Physics.
+
+standard model, the combination of two theories of particle physics into a single framework to describe all interactions of subatomic particles, except those due to gravity. The two components of the standard model are electroweak theory, which describes interactions via the electromagnetic and weak forces, and quantum chromodynamics, the theory of the strong nuclear force. Both these theories are gauge field theories, which describe the interactions between particles in terms of the exchange of intermediary “messenger” particles that have one unit of intrinsic angular momentum, or spin.
+
+In addition to these force-carrying particles, the standard model encompasses two families of subatomic particles that build up matter and that have spins of one-half unit. These particles are the quarks and the leptons, and there are six varieties, or “flavours,” of each, related in pairs in three “generations” of increasing mass. Everyday matter is built from the members of the lightest generation: the “up” and “down” quarks that make up the protons and neutrons of atomic nuclei; the electron that orbits within atoms and participates in binding atoms together to make molecules and more complex structures; and the electron-neutrino that plays a role in radioactivity and so influences the stability of matter. Heavier types of quark and lepton have been discovered in studies of high-energy particle interactions, both at scientific laboratories with particle accelerators and in the natural reactions of high-energy cosmic-ray particles in the atmosphere.
+
+The standard model has proved a highly successful framework for predicting the interactions of quarks and leptons with great accuracy. Yet it has a number of weaknesses that lead physicists to search for a more complete theory of subatomic particles and their interactions. The present standard model, for example, cannot explain why there are three generations of quarks and leptons. It makes no predictions of the masses of the quarks and the leptons nor of the strengths of the various interactions. Physicists hope that, by probing the standard model in detail and making highly accurate measurements, they will discover some way in which the model begins to break down and thereby find a more complete theory. This may prove to be what is known as a grand unified theory, which uses a single theoretical structure to describe the strong, weak, and electromagnetic forces.
+
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+Frontiers - Frontiers in Physics - The Higgs boson and the International Linear Collider
+
+University of Illinois Urbana-Campaign - Department of Phsics - The Higgs boson, ten yearsafter its discovery
+
+Space.com - Higgs boson: The 'God Particle' explained
+
+LiveScience - What is the Higgs boson?
+
+Nature - The Higgs boson turns ten
+
+Exploratorium - The Higgs Boson
+
+University of Toronto - Department of Physics - The Higgs Boson (PDF)
+
+The Royal Society Publishing - Philosophical Transactions of the Royal Society A - The discovery and measurements of a Higgs boson
+
+International Journal of Engineering Research and Applications - Applications of the Higgs Boson (PDF)
+
+CERN - The Higgs boson
+
+ABC listen - RN Drive - Just what is the Higgs boson?
+
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+Physics LibreTexts - The Standard Model
+
+Live Science - What is the Standard Model, the subatomic physics theory that has been tested more than any other?
+
+National Center for Biotechnology Information - PubMed Central - Experimental verification of the standard model of particle physics
+
+Space.com - What is the Standard Model?
+
+CERN - The Standard Model
+
+OpenStax - University Physics Volume 3 - The Standard Model
+
+Energy.gov - DOE Explains...the Standard Model of Particle Physics
+
+IOPscience - Physics Education - LetÂ’s have a coffee with the Standard Model of particle physics! (PDF)
+
+SLAC National Accelerator Laboratory - Electronic Conference Proceedings Archive - The Standard Model of Particle Physics
+
+The Royal Society Publishing - Philosophical Transactions of the Royal Society A - The Standard Model: how far can it go and how can we tell?

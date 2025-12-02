@@ -1,0 +1,93 @@
+# Higgs Boson and Its Discovery
+
+- An official website of the United States government
+
+- Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+- Primary site navigation
+
+- View on publisher site
+
+- Permalink PERMALINK Copy
+
+- Before, behind and beyond the discovery of the Higgs boson
+
+- Copyright and License information
+
+- e-mail: john.ellis@cern.ch
+
+- One contribution of 12 to a Discussion Meeting Issue ‘Before, behind and beyond the discovery of the Higgs boson’.
+
+- The announcement on 4 July 2012 of the discovery by the ATLAS and CMS experiments at CERN's Large Hadron Collider (LHC) of a new elementary particle was a landmark in the decades-long quest to understand how elementary particles acquire masses.
+- In 1964, François Englert, Robert Brout, Peter Higgs, Gerry Guralnik, Carl Hagen and Tom Kibble had suggested a mechanism for accomplishing this essential task within the standard model of elementary particles, building on ideas in condensed matter physics proposed previously by Philip Anderson and Yoichiro Nambu.
+- A crucial aspect of this mass-generation mechanism would be the existence of a massive, spinless particle generally called the Higgs boson.
+- When the 2013 Nobel Physics Prize was awarded to Englert and Higgs, the Nobel Physics Committee stated about the particle discovered by ATLAS and CMS 48 years after the original suggestion that ‘beyond any reasonable doubt, it is a Higgs boson’ (http://www.nobelprize.org/nobel_prizes/physics/laureates/2013/advanced-physicsprize2013.pdf).
+
+- The papers in this issue describe the long path that led from the 1964 theoretical papers to this culmination of the quest for the Higgs boson, giving to non-experts a sense of the historical significance of this discovery and providing specialists with insights into different scientific and technological aspects of the quest.
+
+- The papers by Kibble [1] and Alvarez-Gaumé [2] lay the theoretical groundwork, describing how the mechanism for mass generation in the standard model of elementary particles came to be proposed, and relating it to the ideas of spontaneous symmetry breaking that first emerged in condensed matter physics.
+- The search for the Higgs boson was made possible by the existence of the LHC, and the paper by Llewellyn Smith [3] describes the process whereby this accelerator was approved by the CERN Council in 1994, and how many large partner countries from around the world got involved in its construction.
+- However, the LHC was not the first accelerator where the Higgs boson was hunted, and the paper by Dissertori [4] describes the searches conducted at previous accelerators while the LHC and its experiments were being constructed.
+
+- The technical challenges that were confronted and overcome during the construction of the LHC accelerator are described in the paper by Collier [5], which serves to emphasize that the Higgs discovery was a supreme engineering challenge as well as an experimental tour de force.
+- The experimental challenges are reviewed in the paper by Ball [6], outlining the different approaches taken by the ATLAS and CMS collaborations, each consisting of thousands of physicists and engineers from dozens of countries around the world.
+
+- The actual discovery of the Higgs boson in 2012 is discussed in the paper by Gianotti & Virdee [7], which reviews many of the distinctive experimental signatures of this particle that contributed to this discovery.
+- Their paper also describes how many of the characteristic properties of the new particle have subsequently been verified and measured, leading to the Nobel Prize Committee's judgement on its nature.
+
+- The Higgs discovery is not only the culmination of a long quest, but also the start of a new era in particle physics.
+- The verification of a key prediction of the mechanism of mass generation is, indeed, a landmark, but now the challenge is to understand the dynamics that underlie it, and its possible connection with issues in other areas of science, such as astrophysics and cosmology.
+
+- One viewpoint is that the Higgs boson may be a particle that is as elementary as the electron or photon, in which case it may be accompanied by many other as-yet-undiscovered particles as in the supersymmetric theories discussed in the paper by Allanach [8], which may also provide the dark matter postulated by astrophysicists.
+- Alternatively, as suggested by Grojean [9], the Higgs boson may be a manifestation of some novel strong interactions that could have interesting implications for future experiments on the Higgs boson as well as other possible new particles.
+- The possible connections between the Higgs boson and cosmology are reviewed in the paper by Shaposhnikov [10].
+- Puzzling aspects of conventional Big Bang cosmology include its size and the fact that Euclidean geometry is so successful.
+- One possible way to resolve these puzzles may be via an epoch of cosmological inflation, perhaps driven by energy in ‘empty’ space related to the Higgs, a suggestion that is now being challenged by measurements of the cosmic microwave background radiation.
+
+- Many of the outstanding issues posed by the discovery of the Higgs boson will be addressed during future runs of the LHC accelerator, which will require substantial upgrades of the experiments, as reviewed in the paper by Wells [11].
+- This paper provides a glimpse of the future of Higgs studies that complements the other papers and completes the historical sweep of this issue.
+
+- We hope and believe that this issue will provide specialists and non-experts alike with new insights into the stakes in the Higgs discovery, how it came about and the perspectives for future studies of the Higgs boson and whatever new physics may lie beyond it.
+
+- We are grateful to the Hooke Committee of the Royal Society for their invitation to organize the Discussion Meeting for which this issue serves as a written record.
+- We are grateful also to the staff of the Royal Society for their efficiency in organizing the Discussion Meeting, and for their patient assistance in preparing this issue.
+
+- 1.Kibble TWB. 2015. Spontaneous symmetry breaking in gauge theories. Phil. Trans. R. Soc. A 373, 20140033 ( 10.1098/rsta.2014.0033) [DOI] [PubMed] [Google Scholar]
+
+- 2.Álvarez-Gaumé L. 2015. Symmetry breaking and the deconstruction of mass. Phil. Trans. R. Soc. A 373, 20140034 ( 10.1098/rsta.2014.0034) [DOI] [PubMed] [Google Scholar]
+
+- 3.Llewellyn Smith C. 2015. Genesis of the Large Hadron Collider. Phil. Trans. R. Soc. A 373, 20140037 ( 10.1098/rsta.2014.0037) [DOI] [PubMed] [Google Scholar]
+
+- 4.Dissertori G. 2015. The pre-LHC Higgs hunt. Phil. Trans. R. Soc. A 373, 20140039 ( 10.1098/rsta.2014.0039) [DOI] [PubMed] [Google Scholar]
+
+- 5.Collier P. 2015. The technical challenges of the Large Hadron Collider. Phil. Trans. R. Soc. A 373, 20140044 ( 10.1098/rsta.2014.0044) [DOI] [PubMed] [Google Scholar]
+
+- 6.Ball A. 2015. Technical challenges of the Large Hadron Collider experiments (ATLAS and CMS). Phil. Trans. R. Soc. A 373, 20140045 ( 10.1098/rsta.2014.0045) [DOI] [PubMed] [Google Scholar]
+
+- 7.Gianotti F, Virdee TS. 2015. The discovery and measurements of a Higgs boson. Phil. Trans. R. Soc. A 373, 20140384 ( 10.1098/rsta.2014.0384) [DOI] [PubMed] [Google Scholar]
+
+- 8.Allanach BC. 2015. Multiple solutions in supersymmetry and the Higgs. Phil. Trans. R. Soc. A 373, 20140035 ( 10.1098/rsta.2014.0035) [DOI] [PubMed] [Google Scholar]
+
+- 9.Grojean C. 2015. Beyond the standard Higgs after the 125GeV Higgs discovery. Phil. Trans. R. Soc. A 373, 20140042 ( 10.1098/rsta.2014.0042) [DOI] [PubMed] [Google Scholar]
+
+- 10.Shaposhnikov M. 2015. The Higgs boson and cosmology. Phil. Trans. R. Soc. A 373, 20140038 ( 10.1098/rsta.2014.0038) [DOI] [PubMed] [Google Scholar]
+
+- 11.Wells PS. 2015. The upgraded ATLAS and CMS detectors and their physics capabilities—part I. Phil. Trans. R. Soc. A 373, 20140046 ( 10.1098/rsta.2014.0046) [DOI] [PubMed] [Google Scholar]
+
+- Articles from Philosophical transactions. Series A, Mathematical, physical, and engineering sciences are provided here courtesy of The Royal Society
+
+- View on publisher site
+
+- Permalink PERMALINK Copy
+
+- Cited by other articles
+
+- Links to NCBI Databases
+
+- Format: AMA APA MLA NLM
+
+- National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+- HHS Vulnerability Disclosure

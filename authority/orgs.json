@@ -758,5 +758,40 @@
     "id": "org:the-hastings-center",
     "label": "The Hastings Center",
     "aliases": []
+  },
+  {
+    "id": "org:cern",
+    "label": "CERN",
+    "aliases": []
+  },
+  {
+    "id": "org:large-hadron-collider-1",
+    "label": "Large Hadron Collider (LHC)",
+    "aliases": []
+  },
+  {
+    "id": "org:atlas",
+    "label": "ATLAS",
+    "aliases": []
+  },
+  {
+    "id": "org:cms",
+    "label": "CMS",
+    "aliases": []
+  },
+  {
+    "id": "org:fermilab",
+    "label": "Fermilab",
+    "aliases": []
+  },
+  {
+    "id": "org:international-linear-collider",
+    "label": "International Linear Collider (ILC)",
+    "aliases": []
+  },
+  {
+    "id": "org:future-circular-collider",
+    "label": "Future Circular Collider (FCC)",
+    "aliases": []
   }
 ]
