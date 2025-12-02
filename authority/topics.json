@@ -5398,5 +5398,85 @@
     "id": "topic:gender-shades-study-(facial-recognition-bias-research)",
     "label": "Gender Shades study (facial recognition bias research)",
     "aliases": []
+  },
+  {
+    "id": "topic:utility-theory",
+    "label": "utility theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:cognitive-neuroscience",
+    "label": "cognitive neuroscience",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-psychiatry",
+    "label": "computational psychiatry",
+    "aliases": []
+  },
+  {
+    "id": "topic:subjective-value",
+    "label": "subjective value",
+    "aliases": []
+  },
+  {
+    "id": "topic:integration-to-bound-models",
+    "label": "integration-to-bound models",
+    "aliases": []
+  },
+  {
+    "id": "topic:drift-diffusion-model",
+    "label": "drift diffusion model",
+    "aliases": []
+  },
+  {
+    "id": "topic:reward-prediction-error",
+    "label": "reward prediction error",
+    "aliases": []
+  },
+  {
+    "id": "topic:mentalizing-regions",
+    "label": "mentalizing regions",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-cognitive-neuroscience",
+    "label": "social cognitive neuroscience",
+    "aliases": []
+  },
+  {
+    "id": "topic:neuroforecasting",
+    "label": "neuroforecasting",
+    "aliases": []
+  },
+  {
+    "id": "topic:functional-magnetic-resonance-imaging",
+    "label": "functional magnetic resonance imaging (fMRI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:electroencephalography",
+    "label": "electroencephalography (EEG)",
+    "aliases": []
+  },
+  {
+    "id": "topic:amygdala",
+    "label": "amygdala",
+    "aliases": []
+  },
+  {
+    "id": "topic:gambling-addiction",
+    "label": "gambling addiction",
+    "aliases": []
+  },
+  {
+    "id": "topic:financial-decision-making",
+    "label": "financial decision-making",
+    "aliases": []
+  },
+  {
+    "id": "topic:behavioral-finance",
+    "label": "Behavioral Finance",
+    "aliases": []
   }
 ]
