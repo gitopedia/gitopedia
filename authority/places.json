@@ -673,5 +673,50 @@
     "id": "place:medical-council-laboratory-of-molecular-biology-(uk)",
     "label": "Medical Council Laboratory of Molecular Biology (UK)",
     "aliases": []
+  },
+  {
+    "id": "place:europa",
+    "label": "Europa",
+    "aliases": []
+  },
+  {
+    "id": "place:international-space-station",
+    "label": "International Space Station",
+    "aliases": []
+  },
+  {
+    "id": "place:earth",
+    "label": "Earth",
+    "aliases": []
+  },
+  {
+    "id": "place:ganymede",
+    "label": "Ganymede",
+    "aliases": []
+  },
+  {
+    "id": "place:callisto",
+    "label": "Callisto",
+    "aliases": []
+  },
+  {
+    "id": "place:james-webb-space-telescope",
+    "label": "James Webb Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "place:hubble-space-telescope",
+    "label": "Hubble Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "place:benin-city-(nigeria)",
+    "label": "Benin City (Nigeria)",
+    "aliases": []
+  },
+  {
+    "id": "place:wisconsin-(u.s.-state)",
+    "label": "Wisconsin (U.S. state)",
+    "aliases": []
   }
 ]
