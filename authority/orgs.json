@@ -618,5 +618,15 @@
     "id": "org:kingdom-of-jerusalem",
     "label": "Kingdom of Jerusalem",
     "aliases": []
+  },
+  {
+    "id": "org:energy-transition-framework",
+    "label": "Energy Transition Framework",
+    "aliases": []
+  },
+  {
+    "id": "org:powering-change",
+    "label": "Powering Change",
+    "aliases": []
   }
 ]
