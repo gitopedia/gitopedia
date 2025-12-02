@@ -6,5 +6,6 @@
 - [Genomic and Personalized Medicine: An Overview of Advancements, Applications, and Challenges](genomic-medicine.md)
 - [mRNA Vaccine Technology](mrna-vaccine-technology.md)
 - [Personalized Medicine: A Comprehensive Review](personalized-medicine.md)
+- [Regenerative Medicine and Stem Cell Therapies: Advancements and Applications](regenerative-medicine.md)
 - [Synthetic Biology: Engineering Life for the Future](synthetic-biology.md)
 
