@@ -2283,5 +2283,15 @@
     "id": "person:nigel-barbour-(chair-of-energy-transition-framework)",
     "label": "Nigel Barbour (Chair of Energy Transition Framework)",
     "aliases": []
+  },
+  {
+    "id": "person:ada-limón-(u.s.-poet-laureate)",
+    "label": "Ada Limón (U.S. Poet Laureate)",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-carney",
+    "label": "Stephen Carney",
+    "aliases": []
   }
 ]
