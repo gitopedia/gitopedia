@@ -703,5 +703,15 @@
     "id": "place:al-aqsa-mosque",
     "label": "Al-Aqsa Mosque",
     "aliases": []
+  },
+  {
+    "id": "place:marseille-(france)",
+    "label": "Marseille (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:berlin-(germany)",
+    "label": "Berlin (Germany)",
+    "aliases": []
   }
 ]
