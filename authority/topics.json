@@ -5478,5 +5478,60 @@
     "id": "topic:behavioral-finance",
     "label": "Behavioral Finance",
     "aliases": []
+  },
+  {
+    "id": "topic:higgs-boson",
+    "label": "Higgs boson",
+    "aliases": []
+  },
+  {
+    "id": "topic:beh-mechanism",
+    "label": "BEH mechanism",
+    "aliases": []
+  },
+  {
+    "id": "topic:electroweak-symmetry-breaking",
+    "label": "electroweak symmetry breaking",
+    "aliases": []
+  },
+  {
+    "id": "topic:higgs-boson-and-its-discovery",
+    "label": "Higgs Boson and Its Discovery",
+    "aliases": []
+  },
+  {
+    "id": "topic:standard-model-of-particle-physics",
+    "label": "Standard Model of particle physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:2013-nobel-prize-in-physics",
+    "label": "2013 Nobel Prize in Physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-luminosity-lhc",
+    "label": "High-Luminosity LHC (HL-LHC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:brout-englert-higgs-mechanism",
+    "label": "Brout-Englert-Higgs mechanism",
+    "aliases": []
+  },
+  {
+    "id": "topic:particle-physics",
+    "label": "particle physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:higgs-field",
+    "label": "Higgs field",
+    "aliases": []
+  },
+  {
+    "id": "topic:electroweak-symmetry",
+    "label": "electroweak symmetry",
+    "aliases": []
   }
 ]
