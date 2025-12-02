@@ -2203,5 +2203,15 @@
     "id": "person:waclaw-szybalski-(renowned-geneticist)",
     "label": "Waclaw Szybalski (renowned geneticist)",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
