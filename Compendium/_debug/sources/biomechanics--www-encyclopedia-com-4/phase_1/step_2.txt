@@ -1,0 +1,323 @@
+# Biomechanics
+
+- Earth and Environment
+
+- Literature and the Arts
+
+- Philosophy and Religion
+
+- Science and Technology
+
+- Social Sciences and the Law
+
+- Sports and Everyday Life
+
+- Additional References
+
+- Science and Technology
+
+- Biomechanics is the application of the branch of physics known as mechanics to living organisms or their structures. Mechanics deals with the laws of motion and the action of forces on objects.
+
+- Biomechanics may involve the study of living plants or animals on any level of complexity from the molecular up to tissues and entire organs.
+- Biomechanics at the molecular level investigates such subjects as the properties of specific biomaterials, such as collagen or elastin (proteins found in connective tissue).
+- At the tissue level, biomechanics can be used in such new fields as tissue engineering to evaluate the strength, flexibility, and general safety of laboratory-produced tissues or tissue substitutes, or to investigate the physical properties of bone, smooth muscle, striated muscle, cartilage, or other specific tissue types.
+- At the level of organs or entire limbs, biomechanics is often used in kinesiology, which is the study of motion of the human body.
+- It may be used in clinical medicine as well as research, to design rehabilitation programs for specific types of injury, to evaluate gait disorders or patterns of injury in various sports or occupations, to invent and test new assistive devices and rehabilitation equipment, or to investigate transportation accidents and certain types of crimes.
+
+- Biomechanics as a branch of science can be traced back as far as the Greek philosophers Plato and Aristotle in the fourth century B.C.
+- Aristotle wrote the first treatise on movement in animals that analyzed their bodies as mechanical systems.
+- In the second century A.D., the Roman physician Galen wrote a book on the functions of the various parts of the human body.
+- It served as the standard medical text in the West until 1543, when the Flemish surgeon Andreas Vesalius published a landmark text on human anatomy.
+- The next major contribution was made by Galileo, who studied the mechanics of bone structure and the relationship between the size of an animal's bones and its body mass.
+
+- The so-called father of biomechanics, Giovanni Alfonso Borelli (1608–1679), was an Italian mathematician and physicist whose great work De motu animalium (On the Motion of Animals) was published shortly after his death.
+- Among other discoveries, Borelli worked out the forces required for equilibrium in different joints of the human body before Isaac Newton published his three laws of motion.
+- Borelli also determined the position of the center of gravity in human adults and measured lung volume.
+- The highest award given by the American Society of Biomechanics (ASB) is named for Borelli.
+
+- After Borelli, there were few advances in biomechanics until the nineteenth century, when the industrial revolution prompted the invention of new metal alloys as well as new machines and methods of transportation, all of which led to clinical experimentation and advances in orthopedic surgery, dentistry, and physical therapy.
+- The invention of photography enabled Edward Muybridge's famous studies in the 1870s of running horses and of men and women running, walking, and jumping.
+- These photographic studies of movement were the ancestors of modern gait and motion analysis.
+- In the twentieth century biomechanics became an interdisciplinary specialty in its own right, attracting engineers, biochemists, and biophysicists as well as health professionals.
+- The 1970s saw the formation of national and international biomechanics societies, as well as the coining of the word "biomechanician" for scientists in the field.
+
+- Biomechanician— A scientist or health professional who specializes in biomechanics.
+
+- Forensic biomechanics— The study of or application of biomechanics to legal or criminal justice issues, such as homicide or accident investigations.
+
+- Gait analysis— The measurement and interpretation of a person or animal's characteristic pattern of walking or running.
+
+- Kinematics— The calculation or description of the movements of a body (or group of bodies) considered in themselves, apart from the causes of motion.
+
+- Kinesiology— The study of motion in the human body.
+
+- Mechanics— The branch of physics that deals with the laws of motion and the effects of forces on material bodies.
+
+- Tissue engineering— The multidisciplinary field that deals with the design and testing of biological substitutes to restore or improve tissue function.
+- Tissue engineering makes use of biomechanical studies of natural and engineered tissues as well as cell research, biochemistry, gene and protein sequencing, and many other areas of research in the health sciences.
+- It is sometimes referred to as regenerative medicine.
+
+- The following are only some of the major clinical applications of biomechanics in the early 2000s:
+
+- Burn treatment. Tissue engineering has advanced the treatment of acute burns by its development of skin substitutes and various types of skin grafts made by growing transplanted skin cells on a scaffold, or artificial structure that allows for three-dimensional tissue formation.
+
+- Biomechanics has assisted the development of minimally invasive dentistry through evaluating the strength and safety of new tooth sealants and filling materials.
+- It is also used to evaluate the stability of dental implants and to analyze oral health problems related to the shape and structure of the jaw.
+
+- Biomechanics is an important part of gait assessment in the elderly.
+- In the 1970s doctors began to use videocameras and a marker system to analyze problems in the patient's pattern of walking.
+- Modern laboratories use gauges in the floor and a computer in addition to cameras to calculate the strength of the patient's joints and muscles and any deviation from normal patterns.
+- This information can be used to guide planning for surgery and physical therapy as well as assess the patient's level of mobility.
+
+- Sports medicine. Gait analysis and similar studies of arm and shoulder movement are used to prevent injuries during training as well as analyze the causes of an athletic injury.
+
+- Biomechanical studies are routinely used to assess the effects of using power tools on workers' hands and arms, the causes of repetitive stress injuries (RSIs), the influence of flooring materials and chair design on muscle fatigue, and many similar concerns.
+- Biomechanicians are frequently consulted in the redesigning of tools, furniture, and general workplace architecture and floor plans.
+
+- The formation of the National Transportation Safety Board (NTSB) in 1967 led to the increased use of biomechanics and kinematics (the branch of mechanics that studies the motion of a body or group of bodies) in evaluating car, airplane, and railroad design as well as in accident investigation.
+- The use of crash-test dummies for accident reenactments and sophisticated computer software for animations or simulations are now commonplace.
+
+- Physical therapy and rehabilitation. Gait and motion analysis can be used to plan a physical therapy program for an individual patient. Biomechanics is also involved in the development of continuous passive motion devices and other rehabilitation equipment.
+
+- Forensic refers to legal or courtroom proceedings.
+- Biomechanics can be used to help determine the cause of death or injury, and in many cases whether it is intentional or accidental.
+- Expert witnesses often make use of computer reconstructions of a crime or accident during trials.
+
+- Veterinary medicine. As in human medicine, gait and motion analysis can be used in both large- and small-animal practices to evaluate the location and severity of musculoskeletal or dental injuries in animals, and to plan appropriate treatment.
+
+- Professional implications
+
+- Biomechanics is a rapidly expanding interdisciplinary field of study that continues to improve diagnosis and treatment in all areas of health care.
+- Health professionals with an interest in engineering, mechanical testing, electronics, computer software development, image or movement analysis, comparative anatomy, and similar fields may find that the study of biomechanics opens up new career possibilities as well as refining their present skills in direct patient care.
+
+- "Gait Disorders," Section 2, Chapter 21 in The Merck Manual of Geriatrics, edited by Mark H. Beers, MD, and Robert Berkow, MD. Whitehouse Station, NJ: Merck Research Laboratories, 2005.
+
+- "Osteoarthritis," Section 5, Chapter 52 in The Merck Manual of Diagnosis and Therapy, edited by Mark H. Beers, MD, and Robert Berkow, MD. Whitehouse Station, NJ: Merck Research Laboratories, 2005.
+
+- Alonso, R. C., G. M. Correr, A. F. Borges, et al. "Minimally Invasive Dentistry: Bond Strength of Different Sealant and Filling Materials to Enamel." Oral Health and Preventive Dentistry 3 (February 2005): 87-95.
+
+- Ateshian, G. A., and C. T. Hung. "Patellofemoral Joint Biomechanics and Tissue Engineering." Clinical Orthopaedics and Related Research 436 (July 2005): 81-90.
+
+- Bandak, F. A. "Shaken Baby Syndrome: A Biomechanics Analysis of Injury Mechanisms." Forensic Science International 151 (June 30, 2005): 71-79.
+
+- Dugan, S. A. "Sports-Related Knee Injuries in Female Athletes: What Gives?" American Journal of Physical Medicine and Rehabilitation 84 (February 2005): 122-130.
+
+- Geraci, M. C., Jr., and W. Brown. "Evidence-Based Treatment of Hip and Pelvic Injuries in Runners." Physical Medicine and Rehabilitation Clinics of North America 16 (August 2005): 711-747.
+
+- Herbst, B., S. Forrest, T. Orton, et al. The Effect of Roof Strength on Reducing Occupant Injury in Rollovers." Biomedical Sciences Instrumentation 41 (2005): 97-103.
+
+- Hohlfeld, J., A. de Buys Roessingh, N. Hirt-Burri, et al. "Tissue-Engineered Fetal Skin Constructs for Paediatric Burns." Lancet 366 (September 3, 2005): 788-790.
+
+- Lin, J. H., R. Radwin, and D. Nembhard. "Ergonomics Applications of a Mechanical Model of the Human Operator in Power Hand Tool Operation." Journal of Occupational and Environmental Hygiene 2 (February 2005): 111-119.
+
+- Lohfeld, S., V. Barron, and P. E. McHugh. "Biomodels of Bone: A Review." Annals of Biomedical Engineering 33 (October 2005): 1295-1311.
+
+- Lynnerup, N., and J. Vedel. "Person Identification by Gait Analysis and Photogrammetry." Journal of Forensic Science 50 (January 2005): 112-118.
+
+- Viano, D. C., C. Bir, T. Walilko, and D. Sherman. "Ballistic Impact to the Forehead, Zygoma, and Mandible: Comparison of Human and Frangible Dummy Face Biomechanics." Journal of Trauma 56 (June 2004): 1305-1311.
+
+- Wettergreen, M. A., B. S. Bucklen, W. Sun, and M. A. Liebschner. "Computer-Aided Tissue Engineering of a Human Vertebral Body." Annals of Biomedical Engineering 33 (October 2005): 1333-1343.
+
+- American Academy of Orthopaedic Surgeons. 6300 North River Road, Rosemont, IL 60018-4262. (847) 823-7186. ?http://www.aaos.org?.
+
+- American College of Sports Medicine (ACSM). 401 West Michigan Street, Indianapolis, IN 46202-3233. (317) 637-9200. Fax: (317) 634-7817. ?http://www.acsm.org?.
+
+- American Physical Therapy Association. 1111 North Fairfax Street, Alexandria, VA 22314-1488. (703) 684-2782. ?http://www.apta.org?.
+
+- American Society of Biomechanics (ASB). ?http://www.asb-biomech.org?. Contact information for prospective members can be found on the ASB web site, as well as archived copies of the Society's newsletter in PDF format.
+
+- National Transportation Safety Board (NTSB) Headquarters. 490 L'Enfant Plaza, SW, Washington, DC 20594. (202) 314-6000. ?http://www.ntsb.gov?.
+
+- Martin, R. Bruce, PhD. "A Genealogy of Biomechanics." Presidential lecture delivered at the 23rd annual conference of the American Society of Biomechanics (ASB), University of Pittsburgh, Pittsburgh, PA, 23 October 1999. ?http://asb-biomech.org/historybiomech/index/html?.
+
+- National Transportation Safety Board (NTSB).
+- Highway Accident Report: Crash of 15-Passenger Van in a Bridge Abutment.
+- Memphis, Tennessee, April 4, 2002. ?http://www.ntsb.gov/events/2004/Memphis/memphis_ani.htm?.
+- This set of video simulations of a highway accident and the kinematics of the van's occupants during the crash is an illustrative example of the use of computer modeling and crash-test dummies in accident investigations.
+
+- Cite this article Pick a style below, and copy the text for your bibliography.
+
+- "Biomechanics ." Gale Encyclopedia of Nursing and Allied Health. . Encyclopedia.com. 2 Dec. 2025 <https://www.encyclopedia.com>.
+
+- "Biomechanics ." Gale Encyclopedia of Nursing and Allied Health. . Encyclopedia.com. (December 2, 2025). https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/biomechanics
+
+- "Biomechanics ." Gale Encyclopedia of Nursing and Allied Health. . Retrieved December 02, 2025 from Encyclopedia.com: https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/biomechanics
+
+- Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+- Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+- Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.
+- Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+- http://www.mla.org/style
+
+- http://www.chicagomanualofstyle.org/tools_citationguide.html
+
+- http://apastyle.apa.org/
+
+- Most online reference entries and articles do not have page numbers. Therefore, that information is unavailable for most Encyclopedia.com content. However, the date of retrieval is often important. Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+
+- In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations. Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list.
+
+- The science of biomechanics applies mechanical principles to the study of organisms. Biomechanics uses mathematical models and computer simulations to study living organisms, in addition to direct biological measurements.
+
+- Biomechanics helps us understand limitations on the size of organisms, problems with scaling, energy efficiency, the advantages of internal versus external skeletons, and other concepts.
+- Biomechanics can even help biologists understand animal behavior, such as how a whale can remain submerged for extended periods of time.
+
+- For example, the largest single-celled organisms are protists about the size of the period at the end of this sentence.
+- There are larger cells that are part of multicellular organisms, but no single-celled organisms.
+- So why are there no large, single-celled animals?
+- The primary restriction is surface-to-volume ratio.
+- A cubical cell 100 μm on a side has a volume and mass 1,000 times as great as the volume and mass of a cell 10 μm on a side.
+- This larger mass requires roughly 1,000 times as much oxygen, food, and water.
+- It also produces 1,000 times as much waste that must be excreted.
+
+- Where does the cell exchange all this material?
+- Exchange takes place through the cell membrane.
+- But the cell membrane of the larger cell is only 100 times as large as the smaller cell, so 1,000 times as much material must pass through a membrane only 100 times as large.
+- If the cell membrane is wrinkled and folded its area is increased, but the cell will ultimately reach a point where it will be unable to feed or breathe through the membrane.
+- This places a practical limit on the maximum size a single-celled organism can attain.
+- Large organisms must be multicellular and have a complex system of specialized cells that can transport food, oxygen, and waste.
+
+- If you compare a house cat (Felis sylvestris) and a Bengal tiger (Felis tigris), it is obvious that multicellularity is not a sufficient solution to the problems of scaling up an organism to larger size.
+- Weight is proportional to volume, so weight increases with the cube of height.
+- Muscle and bone strength is proportional to cross-sectional area and increases with the square of height.
+- This means the tiger requires much thicker legs than the house cat, relative to its overall size, to support its larger mass and move quickly.
+
+- A detailed biomechanical study of the effects of scale that considers factors such as weight, air resistance, muscle strength, heat loss, and bone stress can explain some surprising observations.
+- For example, an impala, a domestic cat, a domestic dog, and a domestic horse can all jump to roughly the same height above the ground.
+- Biomechanics helps us understand why.
+- Biomechanics can also explain why large whales (air-breathing organisms) can remain submerged for a long time compared to small dolphins and seals.
+- Underwater, body size is advantageous.
+- In contrast, large hawks can only hover for a short time, whereas hummingbirds, kestrels, and kingfishers can hover for extended periods.
+- In the air, large size is a disadvantage.
+
+- One of the most productive applications of biomechanics has been in the field of athletic competition.
+- Coaches study the principles of biomechanics to learn how to improve the performance of the athletes they train.
+- Ideas of conservation of angular momentum from physics can help coaches teach athletes how to improve their ability to throw a discus or put the shot.
+- Energy conservation helps marathon runners learn how to train more effectively and run more efficiently.
+
+- The biomechanics of running, especially amateur running, has been an area of intense research and interest.
+- Some sports doctors videotape their patients to study abnormalities in their gait that have the potential to cause injury.
+- Doctors can then prescribe shoe inserts or other shoe modifications to help prevent injury.
+- They may also recommend a change in running style or training regimen based on a runner's idiosyncrasies.
+- For example, a doctor might notice that the runner is swinging his or her arms across the body.
+- This causes an excessive rotation of the pelvis, which can lead to hip pain.
+- If this is the case, the doctor may train the runner to move his or her arms parallel to the direction of motion.
+
+- Another important area of research in biomechanics is automobile safety design.
+- Most people have seen films of crash-test dummies.
+- Crash-test dummies are designed to simulate humans.
+- Their joints move the same way that human joints move.
+- By analyzing how car accidents affect the dummies, engineers can design safer automobiles.
+
+- More recently, biomechanics is moving toward computer models that can be used.
+- The advent of fast, powerful computers and improved mathematical models make it possible to analyze the effects of a crash on humans with greater accuracy and less expense than is possible through mechanical simulations such as dummies.
+
+- Cavanagh, Peter R. "Biomechanics: A Bridge Builder among the Sport Sciences." Medicine and Science in Sports and Exercise 22, no. 5 (1990):546-557.
+
+- Curtis, Helena, and N. Sue Barnes. Biology, 5th ed. New York: Worth Publishing, 1989.
+
+- Hubbard, Mont. "Computer Simulation in Sport and Industry." Journal of Biomechanics 26 (1993):53-61.
+
+- Huxley, Julian S. Problems of Relative Growth. New York: Dial Press, 1932.
+
+- Purves, William K., and Gordon H. Orians. Life: The Science of Biology. Sunderland, MA: Sinauer Associates Inc., 1987.
+
+- Shorten, Martyn R. "The Energetics of Running and Running Shoes." Journal of Bio-mechanics 26 (1993):41-51.
+
+- Thompson, D'Arcy W. On Growth and Form. Cambridge, U.K.: Cambridge University Press, 1942.
+
+- Cite this article Pick a style below, and copy the text for your bibliography.
+
+- Richmond, Elliot "Biomechanics ." Animal Sciences. . Encyclopedia.com. 2 Dec. 2025 <https://www.encyclopedia.com>.
+
+- Richmond, Elliot "Biomechanics ." Animal Sciences. . Encyclopedia.com. (December 2, 2025). https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biomechanics
+
+- Richmond, Elliot "Biomechanics ." Animal Sciences. . Retrieved December 02, 2025 from Encyclopedia.com: https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biomechanics
+
+- Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+- Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+- Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.
+- Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+- http://www.mla.org/style
+
+- http://www.chicagomanualofstyle.org/tools_citationguide.html
+
+- http://apastyle.apa.org/
+
+- Most online reference entries and articles do not have page numbers. Therefore, that information is unavailable for most Encyclopedia.com content. However, the date of retrieval is often important. Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+
+- In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations. Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list.
+
+- biomechanics The application of the principles of mechanics to living systems, particularly those living systems that have coordinated movements.
+- Biomechanics also deals with the properties of biological materials, such as blood and bone.
+- For example, biomechanics would be used to analyse the stresses on bones in animals, both when the animals are static and when they are moving.
+- Other types of problems in biomechanics include the fluid mechanics associated with swimming in fish and the aerodynamics of birds flying.
+- It is sometimes difficult to perform realistic calculations in biomechanics because of complexity in the shape of animals or the large number of parts involved (for example, the large number of muscles involved in the movement of a human leg).
+
+- Cite this article Pick a style below, and copy the text for your bibliography.
+
+- "biomechanics ." A Dictionary of Biology. . Encyclopedia.com. 2 Dec. 2025 <https://www.encyclopedia.com>.
+
+- "biomechanics ." A Dictionary of Biology. . Encyclopedia.com. (December 2, 2025). https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biomechanics
+
+- "biomechanics ." A Dictionary of Biology. . Retrieved December 02, 2025 from Encyclopedia.com: https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biomechanics
+
+- Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+- Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+- Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.
+- Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+- http://www.mla.org/style
+
+- http://www.chicagomanualofstyle.org/tools_citationguide.html
+
+- http://apastyle.apa.org/
+
+- Most online reference entries and articles do not have page numbers. Therefore, that information is unavailable for most Encyclopedia.com content. However, the date of retrieval is often important. Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+
+- In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations. Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list.
+
+- bi·o·me·chan·ics / ˌbīōməˈkaniks/ • pl. n. [treated as sing.] the study of the mechanical laws relating to the movement or structure of living organisms.
+
+- Cite this article Pick a style below, and copy the text for your bibliography.
+
+- "biomechanics ." The Oxford Pocket Dictionary of Current English. . Encyclopedia.com. 2 Dec. 2025 <https://www.encyclopedia.com>.
+
+- "biomechanics ." The Oxford Pocket Dictionary of Current English. . Encyclopedia.com. (December 2, 2025). https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/biomechanics
+
+- "biomechanics ." The Oxford Pocket Dictionary of Current English. . Retrieved December 02, 2025 from Encyclopedia.com: https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/biomechanics
+
+- Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+- Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+- Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.
+- Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+- http://www.mla.org/style
+
+- http://www.chicagomanualofstyle.org/tools_citationguide.html
+
+- http://apastyle.apa.org/
+
+- Most online reference entries and articles do not have page numbers. Therefore, that information is unavailable for most Encyclopedia.com content. However, the date of retrieval is often important. Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+
+- In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations. Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list.
+
+- Sign up with your email address to receive news and updates.
+
+- We respect your privacy.
+
+- Your Use of Our Content
+
+- You may not use, and may not authorize any third party to use, this Service or any content we make available on this Service in any manner that (i) is a source of or substitute for the Service or the content; (ii) affects our ability to earn money in connection with the Service or the content; or (iii) competes with the Service we provide.
+- These restrictions apply to any robot, spider, scraper, web crawler, or other automated means or any similar manual process, or any software used to access the Service.
+- You further agree not to violate the restrictions in any robot exclusion headers of this Service, if any, or bypass or circumvent other measures employed to prevent or limit access to the Service by automated means.
