@@ -2588,5 +2588,45 @@
     "id": "person:amos-tversky-2",
     "label": "Amos Tversky (psychologist, Nobel laureate)",
     "aliases": []
+  },
+  {
+    "id": "person:franois-englert",
+    "label": "François Englert",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-higgs",
+    "label": "Peter Higgs",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-brout",
+    "label": "Robert Brout",
+    "aliases": []
+  },
+  {
+    "id": "person:fabiola-gianotti",
+    "label": "Fabiola Gianotti",
+    "aliases": []
+  },
+  {
+    "id": "person:joe-incandela",
+    "label": "Joe Incandela",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-higgs-1",
+    "label": "Peter Higgs (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:franois-englert-1",
+    "label": "François Englert (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-brout-1",
+    "label": "Robert Brout (physicist)",
+    "aliases": []
   }
 ]
