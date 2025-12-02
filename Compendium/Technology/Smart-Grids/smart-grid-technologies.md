@@ -1,7 +1,7 @@
 ---
 id: 01KBCPRCSR6D18QCE9HTQYGM85
 slug: "smart-grid-technologies"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:smart-grids", "topic:renewable-energy", "topic:cybersecurity", "topic:iot", "topic:ai", "topic:international-cooperation", "topic:sustainable-energy", "topic:smart-grid-technologies"]
 orgs: ["org:international-electrotechnical-commission-(iec)", "org:world-economic-forum", "org:world-bank", "org:national-smart-grid-mission-(india)"]
 places: ["place:south-australia"]

@@ -5,7 +5,7 @@ title: "Source: Genomic medicine and personalized treatment: a narrative review"
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11981433/"
 type: source
 related_article: "genomic-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:genomic-medicine"]
 summary: "Summarized source material for Genomic Medicine"
 model: "code-prefilter"

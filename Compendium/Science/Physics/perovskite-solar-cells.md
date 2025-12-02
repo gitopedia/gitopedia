@@ -2,7 +2,7 @@
 id: 01KB9RD7PEE81DN9XGXRS32PRQ
 title: "Perovskite Solar Cells"
 slug: "perovskite-solar-cells"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:sustainable-energy", "topic:perovskite-solar-cells"]
 people: ["person:giustino,-f.", "person:snaith,-h.-j.", "person:liu,-y.", "person:ning,-y.", "person:wang,-f.", "person:kim,-h.-s.", "person:green,-m.-a.", "person:kim,-j.-y.", "person:stranks,-s.-d.", "person:niu,-g.", "person:saliba,-m.", "person:kim,-j.-h."]
 summary: ""

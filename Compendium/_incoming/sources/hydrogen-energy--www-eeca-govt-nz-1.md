@@ -5,7 +5,7 @@ title: "Source: Hydrogen energy in New Zealand — facts and outlook | EECA"
 url: "https://www.eeca.govt.nz/insights/energy-in-new-zealand/renewable-energy/hydrogen/"
 type: source
 related_article: "hydrogen-energy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:hydrogen-energy"]
 places: ["place:new-zealand"]
 summary: "Summarized source material for Hydrogen Energy"

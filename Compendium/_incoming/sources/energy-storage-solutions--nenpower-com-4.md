@@ -5,7 +5,7 @@ title: "Source: How energy storage was discovered | NenPower"
 url: "https://nenpower.com/blog/how-energy-storage-was-discovered/"
 type: source
 related_article: "energy-storage-solutions"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:energy-storage", "topic:renewable-energy", "topic:grid-energy-storage", "topic:sustainability", "topic:carbon-reduction", "topic:lithium-ion-batteries", "topic:solid-state-batteries", "topic:flow-batteries", "topic:green-and-low-carbon-energy-transformation", "topic:wind-power", "topic:solar-power", "topic:energy-storage-solutions"]
 people: ["person:alessandro-volta", "person:michael-faraday"]
 summary: "Summarized source material for Energy Storage Solutions"

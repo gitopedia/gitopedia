@@ -5,7 +5,7 @@ title: "Source: The Emergence and Evolution of Decentralized Applications"
 url: "https://www.historytools.org/ai/dapps"
 type: source
 related_article: "decentralized-applications-(dapps)"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:decentralized-applications-(dapps)", "topic:blockchain-technology", "topic:smart-contracts", "topic:decentralized-finance-(defi)", "topic:non-fungible-tokens-(nfts)", "topic:web3", "topic:proof-of-stake", "topic:layer-2-scaling-solutions", "topic:artificial-intelligence-research", "topic:decentralized-applications-(dapps)"]
 people: ["person:simon-schwerin", "person:patrick-hansen", "person:taylor-monahan"]
 summary: "Summarized source material for Decentralized Applications (dApps)"

@@ -5,7 +5,7 @@ title: "Source: Artificial organs - Knowledge and References - Taylor & Francis"
 url: "https://taylorandfrancis.com/knowledge/Engineering_and_technology/Biomedical_engineering/Artificial_organs"
 type: source
 related_article: "artificial-organs"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:artificial-organs", "topic:membrane-science", "topic:regenerative-engineering", "topic:biomedical-engineering", "topic:telehealth", "topic:bio-implant", "topic:stem-cell-therapy", "topic:organoid-model", "topic:tissue-engineering", "topic:3d-flexible-sensors", "topic:artificial-organs"]
 people: ["person:mihir-kumar-purkait", "person:randeep-singh", "person:walter-r.-boot", "person:neil-charness", "person:sara-j.-czaja", "person:wendy-a.-rogers", "person:david-m.-gardiner", "person:masamitsu-oshima", "person:takashi-tsuji", "person:md-mehedi-hasan", "person:md-abdus-shahid", "person:himanshu-bisaria", "person:bharat-bhusan-patra", "person:smita-mohanty", "person:fan-zhang", "person:tianqi-jin", "person:zhaoguo-xue", "person:yihui-zhang"]
 places: ["place:london-(sw1p-1wg)"]

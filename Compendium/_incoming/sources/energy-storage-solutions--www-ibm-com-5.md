@@ -5,7 +5,7 @@ title: "Source: What is energy storage? - IBM"
 url: "https://www.ibm.com/think/topics/energy-storage"
 type: source
 related_article: "energy-storage-solutions"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:energy-storage", "topic:renewable-energy", "topic:net-zero-goals", "topic:battery-energy-storage-systems-(bess)", "topic:pumped-hydro-storage", "topic:lithium-ion-batteries", "topic:thermal-energy-storage-(tes)", "topic:compressed-air-energy-storage-(caes)", "topic:hydrogen-storage", "topic:flywheel-energy-storage", "topic:supercapacitors", "topic:electric-vehicles-(evs)", "topic:long-duration-energy-storage-(ldes)", "topic:energy-storage-solutions"]
 people: ["person:alessandro-volta", "person:gaston-planté", "person:thomas-edison", "person:lewis-urry"]
 orgs: ["org:international-energy-agency", "org:world-bank’s-energy-storage-partnership", "org:ibm"]

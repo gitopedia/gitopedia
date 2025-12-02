@@ -5,7 +5,7 @@ title: "Source: Epistemology (Stanford Encyclopedia of Philosophy)"
 url: "https://plato.stanford.edu/entries/epistemology/"
 type: source
 related_article: "epistemology"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:epistemology"]
 summary: "Summarized source material for Epistemology"
 model: "code-prefilter"

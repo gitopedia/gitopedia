@@ -5,7 +5,7 @@ title: "Source: The Rise and Fall of the Byzantine Empire: A Historical Overview
 url: "https://galaxy.ai/youtube-summarizer/the-rise-and-fall-of-the-byzantine-empire-a-historical-overview-Okph9wt8I0A"
 type: source
 related_article: "the-rise-and-fall-of-the-byzantine-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:byzantine-empire", "topic:roman-empire", "topic:ottoman-empire", "topic:the-rise-and-fall-of-the-byzantine-empire"]
 people: ["person:mehmed-the-conqueror", "person:anna-komnene", "person:leo-the-mathematician"]
 orgs: ["org:galaxy.ai"]

@@ -5,7 +5,7 @@ title: "Source: Quantum Computing (Stanford Encyclopedia of Philosophy)"
 url: "https://plato.stanford.edu/entries/qt-quantcomp/"
 type: source
 related_article: "quantum-computing"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:quantum-computing"]
 summary: "Summarized source material for Quantum Computing"
 model: "code-prefilter"

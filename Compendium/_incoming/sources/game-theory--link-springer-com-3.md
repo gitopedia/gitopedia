@@ -5,7 +5,7 @@ title: "Source: Game Theory: Historical Overview | SpringerLink"
 url: "https://link.springer.com/rwe/10.1007/978-1-4471-5102-9_26-1"
 type: source
 related_article: "game-theory"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:game-theory", "topic:stackelberg-equilibrium", "topic:historical-evolution-of-game-theory", "topic:game-theory"]
 people: ["person:tamer-başar", "person:john-f.-nash", "person:john-von-neumann", "person:oskar-morgenstern", "person:john-maynard-smith", "person:john-baillieul", "person:tariq-samad"]
 summary: "Summarized source material for Game Theory"

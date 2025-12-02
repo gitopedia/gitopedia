@@ -5,7 +5,7 @@ title: "Source: From Discovery to Clean Energy Future: The History of Hydrogen"
 url: "https://www.h2gp.org/blog-pages/blog/from-discovery-to-clean-energy-future-the-history-of-hydrogen"
 type: source
 related_article: "hydrogen-energy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:hydrogen", "topic:hydrogen-fuel-cells", "topic:green-hydrogen", "topic:haber-bosch-process", "topic:clean-energy", "topic:hydrogen-energy"]
 people: ["person:henry-cavendish", "person:antoine-lavoisier"]
 orgs: ["org:h2gp-foundation"]

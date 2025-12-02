@@ -5,7 +5,7 @@ title: "Source: Ethics: An Overview - Encyclopedia.com"
 url: "https://www.encyclopedia.com/finance/finance-and-accounting-magazines/ethics-overview"
 type: source
 related_article: "ethics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:ethics", "topic:virtue-ethics", "topic:deontology", "topic:utilitarianism", "topic:business-ethics", "topic:professional-codes-of-ethics", "topic:normative-ethics", "topic:applied-ethics", "topic:moral-philosophy", "topic:ethics"]
 people: ["person:socrates", "person:plato", "person:aristotle", "person:thomas-aquinas", "person:john-locke", "person:immanuel-kant", "person:jeremy-bentham", "person:john-stuart-mill"]
 summary: "Summarized source material for Ethics"

@@ -5,7 +5,7 @@ title: "Source: Home - Economic History"
 url: "https://www.econ-history.com/"
 type: source
 related_article: "economic-history"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:chinese-economic-reforms", "topic:gold-standard", "topic:great-depression", "topic:british-industrial-revolution", "topic:dutch-tulip-mania", "topic:export-led-industrialization", "topic:marshall-plan", "topic:oil-boom-and-bust", "topic:economic-transformation", "topic:economic-history"]
 people: ["person:deng-xiaoping", "person:augusto-pinochet"]
 orgs: ["org:chicago-boys"]

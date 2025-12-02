@@ -5,7 +5,7 @@ title: "Source: Personalized medicine - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Personalized_medicine"
 type: source
 related_article: "personalized-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:personalized-medicine"]
 summary: "Summarized source material for Personalized Medicine"
 model: "code-prefilter"

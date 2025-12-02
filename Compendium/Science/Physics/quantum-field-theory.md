@@ -1,7 +1,7 @@
 ---
 id: 01KBBVRZ4KFMYX4XWX7R04VAHX
 slug: "quantum-field-theory"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:quantum-mechanics", "topic:quantum-computing", "topic:theoretical-physics", "topic:quantum-technology", "topic:quantum-field-theory", "topic:standard-model", "topic:quantum-cryptography", "topic:quantum-key-distribution", "topic:bb84", "topic:quantum-materials", "topic:quantum-simulators", "topic:quantum-networks", "topic:quantum-internet", "topic:quantum-machine-learning", "topic:physics", "topic:quantum-field-theory"]
 people: ["person:max-planck", "person:albert-einstein", "person:werner-heisenberg", "person:erwin-schrödinger", "person:niels-bohr", "person:richard-feynman", "person:julian-schwinger", "person:sin-itiro-tomonaga"]
 model: "qwen3:32b"

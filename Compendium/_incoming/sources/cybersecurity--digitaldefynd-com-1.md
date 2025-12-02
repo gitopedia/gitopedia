@@ -5,7 +5,7 @@ title: "Source: 100 Surprising Cybersecurity Facts & Statistics [2025]"
 url: "https://digitaldefynd.com/IQ/surprising-cybersecurity-facts-statistics/"
 type: source
 related_article: "cybersecurity"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cybersecurity"]
 summary: "Summarized source material for Cybersecurity"
 model: "code-prefilter"

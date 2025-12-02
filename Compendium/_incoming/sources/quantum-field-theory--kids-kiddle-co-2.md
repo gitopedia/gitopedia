@@ -5,7 +5,7 @@ title: "Source: Quantum field theory Facts for Kids - Kids encyclopedia"
 url: "https://kids.kiddle.co/Quantum_field_theory"
 type: source
 related_article: "quantum-field-theory"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:quantum-field-theory"]
 summary: "Summarized source material for Quantum Field Theory"
 model: "code-prefilter"

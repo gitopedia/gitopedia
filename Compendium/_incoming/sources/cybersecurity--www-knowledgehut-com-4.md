@@ -5,7 +5,7 @@ title: "Source: The History of Cyber Security: A Detailed Guide [Updated]"
 url: "https://www.knowledgehut.com/blog/security/history-of-cyber-security"
 type: source
 related_article: "cybersecurity"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cybersecurity"]
 summary: "Summarized source material for Cybersecurity"
 model: "code-prefilter"

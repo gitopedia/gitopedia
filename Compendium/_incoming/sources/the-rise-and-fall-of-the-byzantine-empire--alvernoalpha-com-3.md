@@ -5,7 +5,7 @@ title: "Source: The Rise and Fall of the Byzantine Empire: An In-depth Historica
 url: "https://alvernoalpha.com/the-rise-and-fall-of-the-byzantine-empire-an-in-depth-historical-analysis/"
 type: source
 related_article: "the-rise-and-fall-of-the-byzantine-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:byzantine-empire", "topic:the-rise-and-fall-of-the-byzantine-empire"]
 people: ["person:justinian-i-(byzantine-emperor)", "person:constantine-the-great"]
 places: ["place:constantinople-(modern-day-istanbul)", "place:hagia-sophia"]

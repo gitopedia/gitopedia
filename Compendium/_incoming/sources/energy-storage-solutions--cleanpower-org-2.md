@@ -5,7 +5,7 @@ title: "Source: Renewable Energy Storage Facts | ACP"
 url: "https://cleanpower.org/facts/clean-energy-storage/"
 type: source
 related_article: "energy-storage-solutions"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:energy-storage-solutions"]
 summary: "Summarized source material for Energy Storage Solutions"
 model: "code-prefilter"

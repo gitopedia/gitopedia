@@ -5,7 +5,7 @@ title: "Source: Metaphysics - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Metaphysics"
 type: source
 related_article: "metaphysics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:metaphysics"]
 summary: "Summarized source material for Metaphysics"
 model: "code-prefilter"

@@ -5,7 +5,7 @@ title: "Source: The Abbasid Caliphate: A Golden Age of Islamic Civilization"
 url: "https://cards.algoreducation.com/en/content/Xbfn7aWh/abbasid-caliphate-overview"
 type: source
 related_article: "the-abbasid-caliphate"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:abbasid-caliphate", "topic:islamic-golden-age", "topic:battle-of-talas", "topic:ghaznavids", "topic:seljuks", "topic:arab-byzantine-wars", "topic:abbasid-dynasty", "topic:the-abbasid-caliphate"]
 people: ["person:hulagu-khan"]
 orgs: ["org:mongol-empire"]

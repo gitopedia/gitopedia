@@ -5,7 +5,7 @@ title: "Source: Perovskite solar cell - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Perovskite_solar_cell"
 type: source
 related_article: "perovskite-solar-cells"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:perovskite-solar-cells"]
 summary: "Summarized source material for Perovskite Solar Cells"
 model: "code-prefilter"

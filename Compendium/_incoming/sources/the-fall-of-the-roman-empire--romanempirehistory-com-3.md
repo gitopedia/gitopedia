@@ -5,7 +5,7 @@ title: "Source: Fall of the Roman Empire: Year, Internal & External Causes"
 url: "https://romanempirehistory.com/fall-of-the-roman-empire/"
 type: source
 related_article: "the-fall-of-the-roman-empire"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:the-fall-of-the-roman-empire"]
 summary: "Summarized source material for The Fall of the Roman Empire"
 model: "code-prefilter"

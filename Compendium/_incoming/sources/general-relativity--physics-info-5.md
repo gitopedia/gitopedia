@@ -5,7 +5,7 @@ title: "Source: General Relativity Summary - The Physics Hypertextbook"
 url: "https://physics.info/general-relativity/summary.shtml/"
 type: source
 related_article: "general-relativity"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:general-relativity"]
 summary: "Summarized source material for General Relativity"
 model: "code-prefilter"

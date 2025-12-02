@@ -5,7 +5,7 @@ title: "Source: Mongol Empire: Origin Story, Military Invasions, Rise, and Fall"
 url: "https://worldhistoryedu.com/mongol-empire-origins-military-conquests-rise-and-fall/"
 type: source
 related_article: "the-mongol-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:the-mongol-empire"]
 summary: "Summarized source material for The Mongol Empire"
 model: "code-prefilter"

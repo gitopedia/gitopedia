@@ -5,7 +5,7 @@ title: "Source: A Brief History of the Mind: From Early Modern Philosophy to the
 url: "https://guerillachemistry.wordpress.com/2025/02/16/a-brief-history-of-the-mind-from-early-modern-philosophy-to-the-dawn-of-behaviorism/"
 type: source
 related_article: "philosophy-of-mind"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:philosophy-of-mind"]
 summary: "Summarized source material for Philosophy of Mind"
 model: "code-prefilter"

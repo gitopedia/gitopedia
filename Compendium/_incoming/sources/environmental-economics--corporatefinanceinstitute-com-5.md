@@ -5,7 +5,7 @@ title: "Source: Environmental Economics - Definition, Importance, Scope"
 url: "https://corporatefinanceinstitute.com/resources/economics/environmental-economics/"
 type: source
 related_article: "environmental-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:environmental-economics", "topic:sustainable-development", "topic:market-failure", "topic:externalities", "topic:cost-benefit-analysis", "topic:environmental,-social,-and-governance-(esg)", "topic:corporate-social-responsibility-(csr)", "topic:non-renewable-resource", "topic:environmental-economics"]
 orgs: ["org:united-nations-environment-programme-(unep)"]
 summary: "Summarized source material for Environmental Economics"

@@ -5,7 +5,7 @@ title: "Source: Colonization of Mars Facts for Kids - Kids encyclopedia"
 url: "https://kids.kiddle.co/Colonization_of_Mars"
 type: source
 related_article: "mars-colonization"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mars-colonization"]
 summary: "Summarized source material for Mars Colonization"
 model: "code-prefilter"

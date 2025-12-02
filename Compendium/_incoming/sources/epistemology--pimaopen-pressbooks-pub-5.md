@@ -5,7 +5,7 @@ title: "Source: Epistemology Overview - Introduction to Philosophy"
 url: "https://pimaopen.pressbooks.pub/introphilosophy/chapter/epistemology-overview/"
 type: source
 related_article: "epistemology"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:epistemology", "topic:rationalism", "topic:empiricism", "topic:intuitionism", "topic:skepticism", "topic:a-priori-knowledge", "topic:a-posteriori-knowledge", "topic:analytic-claims", "topic:synthetic-claims", "topic:transcendental-idealism", "topic:tabula-rasa", "topic:epistemology"]
 people: ["person:rene-descartes", "person:john-locke", "person:gottfried-leibniz", "person:david-hume", "person:immanuel-kant", "person:plato"]
 summary: "Summarized source material for Epistemology"

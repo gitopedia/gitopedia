@@ -2,7 +2,7 @@
 id: 01KBD0D827979B979V9RRYT3CW
 title: "The British Empire's Global Influence"
 slug: "the-british-empire's-global-influence"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:british-empire", "topic:colonial-history", "topic:global-history", "topic:imperialism", "topic:world-history", "topic:the-british-empire's-global-influence"]
 orgs: ["org:commonwealth"]
 model: "qwen3:32b"

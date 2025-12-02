@@ -2,7 +2,7 @@
 id: 01KBB9P59CXBET1SR1KGEF4S7V
 title: "Development Economics"
 slug: "development-economics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:development-economics", "topic:structuralist-approach", "topic:dependency-theory", "topic:globalization", "topic:institutional-economics", "topic:green-economy", "topic:inclusive-growth", "topic:middle-income-trap", "topic:economics", "topic:development-economics"]
 people: ["person:paul-rosenstein-rodan", "person:gunnar-myrdal"]
 orgs: ["org:marshall-plan", "org:world-bank", "org:international-monetary-fund", "org:green-climate-fund", "org:brics-nations"]

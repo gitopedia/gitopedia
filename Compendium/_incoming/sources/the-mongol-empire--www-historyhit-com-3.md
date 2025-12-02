@@ -5,7 +5,7 @@ title: "Source: The Rise and Fall of the Mongol Empire - History Hit"
 url: "https://www.historyhit.com/the-rise-and-fall-of-the-mongol-empire/"
 type: source
 related_article: "the-mongol-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:the-mongol-empire"]
 summary: "Summarized source material for The Mongol Empire"
 model: "code-prefilter"

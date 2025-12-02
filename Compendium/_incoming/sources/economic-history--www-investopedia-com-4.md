@@ -5,7 +5,7 @@ title: "Source: Understanding the Evolution of Economic Thought: From ... - Inve
 url: "https://www.investopedia.com/articles/economics/08/economic-thought.asp"
 type: source
 related_article: "economic-history"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:economic-history"]
 summary: "Summarized source material for economic history"
 model: "code-prefilter"

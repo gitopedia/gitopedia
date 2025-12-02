@@ -2,7 +2,7 @@
 id: 01HABCD1234XYZ567890123456
 title: "OpenAI"
 slug: "openai"
-created: 2025-11-12
+created: 2025-11-12T00:00:00Z
 tags: ["artificial intelligence", "LLM", "technology"]
 ---
 

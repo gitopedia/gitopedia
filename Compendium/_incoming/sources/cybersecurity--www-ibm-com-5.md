@@ -5,7 +5,7 @@ title: "Source: What is cybersecurity? - IBM"
 url: "https://www.ibm.com/think/topics/cybersecurity"
 type: source
 related_article: "cybersecurity"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cybersecurity"]
 summary: "Summarized source material for Cybersecurity"
 model: "code-prefilter"

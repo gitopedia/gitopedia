@@ -5,7 +5,7 @@ title: "Source: Fact Sheets about Genomics - National Human Genome Research Inst
 url: "https://www.genome.gov/about-genomics/fact-sheets"
 type: source
 related_article: "genomic-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:genomics", "topic:pharmacogenomics", "topic:transcriptome", "topic:genomic-variation", "topic:artificial-intelligence", "topic:machine-learning", "topic:informed-consent", "topic:eugenics", "topic:mrna-vaccines", "topic:sars-cov-2-(covid-19)", "topic:dna", "topic:dna-microarray", "topic:epigenomics", "topic:fluorescence-in-situ-hybridization-(fish)", "topic:genomic-data-science", "topic:genetic-mapping", "topic:genome-wide-association-studies", "topic:knockout-mouse", "topic:newborn-screening", "topic:polygenic-risk-score", "topic:polymerase-chain-reaction-(pcr)", "topic:chromosomes", "topic:comparative-genomics", "topic:the-human-genome-project", "topic:genomic-medicine"]
 orgs: ["org:national-human-genome-research-institute-(nhgri)"]
 summary: "Summarized source material for Genomic Medicine"

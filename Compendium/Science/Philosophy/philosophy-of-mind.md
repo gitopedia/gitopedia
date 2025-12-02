@@ -1,7 +1,7 @@
 ---
 id: 01KBDGV2TYT5E3598PHW3MB1EQ
 slug: "philosophy-of-mind"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:reductionism", "topic:philosophy-of-mind", "topic:consciousness", "topic:panpsychism", "topic:extended-cognition", "topic:philosophy", "topic:philosophy-of-mind"]
 people: ["person:rené-descartes", "person:alan-turing", "person:jerry-fodor", "person:paul-churchland", "person:david-chalmers", "person:john-searle", "person:antonio-damasio", "person:andy-clark", "person:galen-strawson", "person:henry-stapp", "person:jaak-panksepp", "person:daniel-dennett", "person:christof-koch"]
 model: "qwen3:32b"

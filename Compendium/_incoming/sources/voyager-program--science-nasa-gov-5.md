@@ -5,7 +5,7 @@ title: "Source: Mission Overview - NASA Science"
 url: "https://science.nasa.gov/mission/voyager/mission-overview/"
 type: source
 related_article: "voyager-program"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:voyager-program"]
 summary: "Summarized source material for Voyager Program"
 model: "code-prefilter"

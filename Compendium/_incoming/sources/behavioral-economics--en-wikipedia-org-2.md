@@ -5,7 +5,7 @@ title: "Source: Behavioral economics - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Behavioral_economics"
 type: source
 related_article: "behavioral-economics"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:behavioral-economics"]
 summary: "Summarized source material for Behavioral Economics"
 model: "code-prefilter"

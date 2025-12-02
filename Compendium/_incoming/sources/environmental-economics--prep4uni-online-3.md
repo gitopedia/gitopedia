@@ -5,7 +5,7 @@ title: "Source: Environmental Economic History - prep4uni.online"
 url: "https://prep4uni.online/humanities-and-social-sciences/history/economic-history/environmental-economic-history/"
 type: source
 related_article: "environmental-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:environmental-economics"]
 summary: "Summarized source material for Environmental Economics"
 model: "code-prefilter"

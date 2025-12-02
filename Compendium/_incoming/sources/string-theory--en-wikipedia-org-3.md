@@ -5,7 +5,7 @@ title: "Source: History of string theory - Wikipedia"
 url: "https://en.wikipedia.org/wiki/History_of_string_theory"
 type: source
 related_article: "string-theory"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:string-theory"]
 summary: "Summarized source material for String Theory"
 model: "code-prefilter"

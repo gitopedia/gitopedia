@@ -5,7 +5,7 @@ title: "Source: Dark Matter - Science@NASA"
 url: "https://science.nasa.gov/dark-matter/"
 type: source
 related_article: "dark-matter"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:dark-matter", "topic:dark-energy", "topic:gravitational-lensing", "topic:wimps-(weakly-interacting-massive-particles)", "topic:axions", "topic:primordial-black-holes", "topic:cold-dark-matter", "topic:dark-matter"]
 people: ["person:fritz-zwicky", "person:vera-rubin", "person:stephen-hawking", "person:chelsea-gohd", "person:diana-logreira", "person:jeanette-kazmierczak"]
 places: ["place:coma-cluster", "place:bullet-cluster-(1e-0657-56)"]

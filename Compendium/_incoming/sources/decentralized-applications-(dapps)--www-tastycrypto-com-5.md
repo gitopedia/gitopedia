@@ -5,7 +5,7 @@ title: "Source: What Is a dApp? Decentralized Apps Guide - tastycrypto"
 url: "https://www.tastycrypto.com/defi/dapps/"
 type: source
 related_article: "decentralized-applications-(dapps)"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:decentralized-applications-(dapps)"]
 summary: "Summarized source material for Decentralized Applications (dApps)"
 model: "code-prefilter"

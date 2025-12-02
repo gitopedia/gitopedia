@@ -5,7 +5,7 @@ title: "Source: The Evolutionary Tale of Smart Grid Technologies - ARUSI"
 url: "https://arusi.net/the-evolution-of-smart-grid-technologies/"
 type: source
 related_article: "smart-grid-technologies"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:smart-grid-technologies", "topic:renewable-energy", "topic:advanced-metering-infrastructure-(ami)", "topic:grid-automation", "topic:cybersecurity", "topic:energy-storage", "topic:artificial-intelligence", "topic:machine-learning", "topic:blockchain", "topic:climate-change-mitigation", "topic:sustainability", "topic:natural-gas-engineering", "topic:telecommunications-engineering", "topic:transmission-and-distribution", "topic:utility-engineering", "topic:smart-grid-technologies"]
 orgs: ["org:arusi-engineering"]
 places: ["place:phoenix,-az-85040"]

@@ -5,7 +5,7 @@ title: "Source: The Decline And Fall Of The Roman Empire Summary and Study Guide
 url: "https://www.supersummary.com/the-decline-and-fall-of-the-roman-empire/summary/"
 type: source
 related_article: "the-fall-of-the-roman-empire"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:the-decline-and-fall-of-the-roman-empire", "topic:roman-empire", "topic:goths", "topic:the-fall-of-the-roman-empire"]
 people: ["person:edward-gibbon", "person:nerva", "person:trajan", "person:hadrian", "person:antoninus-pius", "person:marcus-aurelius", "person:commodus", "person:septimius-severus", "person:diocletian", "person:constantine"]
 orgs: ["org:praetorian-guard", "org:cambridge-college-library"]

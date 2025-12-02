@@ -5,7 +5,7 @@ title: "Source: The Blockchain Economy - FT Partners"
 url: "https://ftpartners.com/fintech-strategic-insights/blockchain-economy/"
 type: source
 related_article: "cryptocurrency-and-blockchain-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:blockchain-economy", "topic:decentralized-finance-(defi)", "topic:non-fungible-tokens-(nfts)", "topic:fintech", "topic:blockchain-technology", "topic:cryptocurrency-and-blockchain-economics"]
 orgs: ["org:ft-partners"]
 places: ["place:san-francisco", "place:new-york", "place:miami", "place:london"]

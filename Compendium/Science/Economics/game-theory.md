@@ -1,7 +1,7 @@
 ---
 id: 01KBDV3VXADWWJFN7GA8YCHDWW
 slug: "game-theory"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:game-theory", "topic:economics", "topic:nash-equilibrium", "topic:zero-sum-games", "topic:non-zero-sum-games", "topic:cooperative-games", "topic:non-cooperative-games", "topic:minimax-theorem", "topic:cournot-model", "topic:bertrand-model", "topic:prisoner's-dilemma", "topic:chicken-game", "topic:behavioral-economics", "topic:algorithmic-game-theory", "topic:evolutionary-game-theory", "topic:multi-agent-systems", "topic:quantum-game-theory", "topic:bounded-rationality", "topic:ultimatum-game", "topic:reinforcement-learning", "topic:game-theory"]
 people: ["person:john-von-neumann", "person:oskar-morgenstern", "person:john-nash", "person:thomas-schelling"]
 orgs: ["org:u.s.-federal-communications-commission-(fcc)"]

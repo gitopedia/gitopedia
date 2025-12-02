@@ -5,7 +5,7 @@ title: "Source: History of Cyber Security - GeeksforGeeks"
 url: "https://www.geeksforgeeks.org/computer-networks/history-of-cyber-security/"
 type: source
 related_article: "cybersecurity"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cybersecurity", "topic:information-security-(infosec)", "topic:information-assurance-(ia)", "topic:malware", "topic:antivirus-software", "topic:ransomware", "topic:artificial-intelligence-(ai)", "topic:machine-learning-(ml)", "topic:network-security", "topic:firewall", "topic:encryption", "topic:data-security", "topic:cybercrime", "topic:system-security", "topic:cyber-attacks", "topic:network-vulnerabilities", "topic:two-factor-authentication", "topic:multi-factor-authentication", "topic:threat-intelligence", "topic:network-behavioral-analysis-(nba)", "topic:real-time-protection", "topic:backup-and-mirroring", "topic:website-application-firewalls", "topic:5g-network", "topic:osi-model", "topic:tcp/ip-model", "topic:network-topology", "topic:ip-addressing", "topic:subnetting", "topic:authentication", "topic:encryption-algorithms", "topic:content-distribution-network-(cdn)", "topic:quality-of-service-(qos)", "topic:wireless-communication", "topic:cybersecurity"]
 people: ["person:bob-thomas", "person:ray-tomlinson", "person:john-mcafee"]
 orgs: ["org:mcafee-inc.", "org:statista"]

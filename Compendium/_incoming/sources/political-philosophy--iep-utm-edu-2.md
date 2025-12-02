@@ -5,7 +5,7 @@ title: "Source: Political Philosophy: Methodology - Internet Encyclopedia of Phi
 url: "https://iep.utm.edu/polphil/"
 type: source
 related_article: "political-philosophy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:political-philosophy"]
 summary: "Summarized source material for Political Philosophy"
 model: "code-prefilter"

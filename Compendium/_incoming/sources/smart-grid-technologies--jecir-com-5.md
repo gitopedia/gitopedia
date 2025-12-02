@@ -5,7 +5,7 @@ title: "Source: Smart Grids: A Comprehensive Review of Technologies, Challenges,
 url: "https://jecir.com/index.php/jecir/article/view/10"
 type: source
 related_article: "smart-grid-technologies"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:behavioral-economics", "topic:smart-grid", "topic:smart-grid-technologies"]
 people: ["person:rameez-amin", "person:abdullah-ali-kazmi"]
 orgs: ["org:bahria-university,-islamabad", "org:shaheed-zulfiqar-ali-bhutto-institute-of-sciences-and-technology-(szabist),-islamabad", "org:journal-of-engineering-and-computational-intelligence-review"]

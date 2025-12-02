@@ -5,7 +5,7 @@ title: "Source: The Ascent of Money: Bitcoin and Blockchain in Historical Contex
 url: "https://www.lawrencecummins.com/post/the-ascent-of-money-bitcoin-and-blockchain-in-historical-context-and-its-use-in-economic-trade-poli"
 type: source
 related_article: "cryptocurrency-and-blockchain-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cryptocurrency-and-blockchain-economics"]
 summary: "Summarized source material for Cryptocurrency and Blockchain Economics"
 model: "code-prefilter"

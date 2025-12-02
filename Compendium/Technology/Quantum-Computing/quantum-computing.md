@@ -2,7 +2,7 @@
 id: 01KB95YRGM8DYSQHZHZQ66PRSX
 title: "Quantum Computing"
 slug: "quantum-computing"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:quantum-computing", "topic:quantum-mechanics", "topic:superposition", "topic:entanglement", "topic:shor's-algorithm", "topic:grover's-algorithm", "topic:quantum-supremacy", "topic:post-quantum-cryptography", "topic:quantum-key-distribution-(qkd)", "topic:quantum-simulation", "topic:surface-code-error-correction", "topic:nisq-(noisy-intermediate-scale-quantum)", "topic:topological-qubits", "topic:majorana-fermions", "topic:climate-modeling", "topic:healthcare", "topic:computer-science", "topic:quantum-computing"]
 people: ["person:max-planck", "person:niels-bohr", "person:werner-heisenberg", "person:richard-feynman", "person:david-deutsch", "person:john-preskill"]
 summary: ""

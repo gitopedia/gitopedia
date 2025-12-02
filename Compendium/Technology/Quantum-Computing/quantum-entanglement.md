@@ -1,7 +1,7 @@
 ---
 id: 01KBD5BQ7V850Q9NQ0879HDQS8
 slug: "quantum-entanglement"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:quantum-entanglement", "topic:quantum-computing", "topic:quantum-mechanics", "topic:quantum-cryptography", "topic:quantum-key-distribution-(qkd)", "topic:quantum-communication", "topic:quantum-networks", "topic:quantum-error-correction", "topic:quantum-supremacy", "topic:quantum-algorithms", "topic:material-science", "topic:drug-discovery", "topic:materials-design", "topic:quantum-gravity", "topic:spacetime", "topic:cybersecurity", "topic:data-privacy", "topic:physics", "topic:quantum-entanglement"]
 people: ["person:albert-einstein", "person:boris-podolsky", "person:nathan-rosen", "person:john-stewart-bell-(physicist)", "person:alain-aspect-(physicist)", "person:peter-shor-(computer-scientist)", "person:charles-bennett-(physicist)", "person:gilles-brassard-(physicist)"]
 places: ["place:china-(country)"]

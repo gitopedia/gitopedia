@@ -5,7 +5,7 @@ title: "Source: The current status of hydrogen energy: an overview"
 url: "https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra05158g"
 type: source
 related_article: "hydrogen-energy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:hydrogen-energy"]
 people: ["person:john-smith-(economist,-nobel-laureate)"]
 places: ["place:cambridge-(massachusetts)"]

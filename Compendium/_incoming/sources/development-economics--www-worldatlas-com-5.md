@@ -5,7 +5,7 @@ title: "Source: What Is Development Economics? - WorldAtlas"
 url: "https://www.worldatlas.com/economics/what-is-development-economics.html"
 type: source
 related_article: "development-economics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:development-economics", "topic:harrod-domar-growth-model", "topic:lewis's-two-sector-model", "topic:solow-swan-growth-model", "topic:gdp-(gross-domestic-product)", "topic:gnp-(gross-national-product)", "topic:comparative-advantage", "topic:gini-coefficient", "topic:lorenz-curve", "topic:structural-transformation", "topic:poverty-measurement", "topic:corruption", "topic:rule-of-law", "topic:globalization", "topic:green-economy", "topic:inclusive-growth", "topic:climate-change", "topic:automation", "topic:artificial-intelligence-(ai)", "topic:marshall-plan", "topic:development-economics"]
 people: ["person:roy-f.-harrod-(economist)", "person:evsey-d.-domar-(economist)", "person:arthur-lewis-(economist)", "person:robert-m.-solow-(economist)"]
 orgs: ["org:world-bank", "org:international-monetary-fund-(imf)", "org:brics-(intergovernmental-organization)"]

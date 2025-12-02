@@ -5,7 +5,7 @@ title: "Source: History of ethics - Wikipedia"
 url: "https://en.wikipedia.org/wiki/History_of_ethics"
 type: source
 related_article: "ethics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:ethics"]
 summary: "Summarized source material for Ethics"
 model: "code-prefilter"

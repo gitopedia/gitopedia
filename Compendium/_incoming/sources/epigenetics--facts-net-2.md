@@ -5,7 +5,7 @@ title: "Source: 30 Facts About Epigenetic"
 url: "https://facts.net/earth-and-life-science/biology-earth-and-life-science/30-facts-about-epigenetic/"
 type: source
 related_article: "epigenetics"
-created: 2025-11-29
+created: 2025-11-29T00:00:00Z
 tags: ["Source"]
 summary: "Summarized source material for Epigenetics"
 model: "code-prefilter"

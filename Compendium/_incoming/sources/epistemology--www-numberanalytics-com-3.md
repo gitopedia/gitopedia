@@ -5,7 +5,7 @@ title: "Source: Epistemology in Historical Context - numberanalytics.com"
 url: "https://www.numberanalytics.com/blog/epistemology-historical-context"
 type: source
 related_article: "epistemology"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:enlightenment", "topic:romanticism", "topic:historicism", "topic:positivism", "topic:scientism", "topic:postmodernism", "topic:poststructuralism", "topic:new-historicism", "topic:cultural-history", "topic:digital-turn", "topic:global-and-transnational-perspectives", "topic:historical-epistemology", "topic:objectivity", "topic:relativism", "topic:representation", "topic:digital-archives", "topic:transnational-narratives", "topic:comparative-analysis", "topic:epistemology"]
 people: ["person:voltaire", "person:edward-gibbon", "person:immanuel-kant", "person:johann-gottfried-herder", "person:georg-wilhelm-friedrich-hegel", "person:leopold-von-ranke", "person:auguste-comte", "person:henry-thomas-buckle", "person:michel-foucault", "person:jacques-derrida", "person:jean-françois-lyotard", "person:hayden-white", "person:dominick-lacapra", "person:carlo-ginzburg", "person:stephen-greenblatt", "person:natalie-zemon-davis", "person:sanjay-subrahmanyam", "person:lynn-hunt"]
 summary: "Summarized source material for Epistemology"

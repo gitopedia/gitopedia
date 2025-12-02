@@ -5,7 +5,7 @@ title: "Source: Byzantine Empire: A Historical Overview - numberanalytics.com"
 url: "https://www.numberanalytics.com/blog/byzantine-empire-historical-context"
 type: source
 related_article: "the-rise-and-fall-of-the-byzantine-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:byzantine-empire", "topic:the-rise-and-fall-of-the-byzantine-empire"]
 people: ["person:constantine", "person:justinian"]
 places: ["place:constantinople-(modern-day-istanbul)", "place:hagia-sophia-(constantinople)"]

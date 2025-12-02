@@ -5,7 +5,7 @@ title: "Source: Epistemology, History of - Encyclopedia.com"
 url: "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/epistemology-history"
 type: source
 related_article: "epistemology"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:epistemology"]
 summary: "Summarized source material for Epistemology"
 model: "code-prefilter"

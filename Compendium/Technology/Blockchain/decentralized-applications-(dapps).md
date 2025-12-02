@@ -1,7 +1,7 @@
 ---
 id: 01KBC0F5YFBD8ZNDKZN7W27VTS
 slug: "decentralized-applications-(dapps)"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:decentralized-applications-(dapps)", "topic:blockchain", "topic:defi", "topic:smart-contracts", "topic:web3", "topic:ethereum", "topic:cryptocurrency", "topic:computer-science", "topic:decentralized-applications-(dapps)"]
 people: ["person:vitalik-buterin-(co-founder-of-ethereum)"]
 orgs: ["org:uniswap", "org:aave", "org:chainlink", "org:vechain", "org:polygon", "org:arbitrum"]

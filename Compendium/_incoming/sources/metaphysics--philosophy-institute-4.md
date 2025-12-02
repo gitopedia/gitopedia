@@ -5,7 +5,7 @@ title: "Source: The Origins of Metaphysics: Tracing its Roots - Philosophy Insti
 url: "https://philosophy.institute/metaphysics/origins-metaphysics-tracing-roots/"
 type: source
 related_article: "metaphysics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:metaphysics", "topic:brahmodya", "topic:atmavidya", "topic:vedic-period", "topic:upanishadic-period", "topic:upanishads", "topic:metaphysics"]
 people: ["person:aristotle", "person:andronicus-of-rhodes", "person:heraclitus", "person:parmenides", "person:plato", "person:augustine", "person:francis-bacon", "person:christian-wolff", "person:immanuel-kant"]
 summary: "Summarized source material for Metaphysics"

@@ -2,7 +2,7 @@
 id: 01KB97CJAX8P3HKSPZE24XAMCP
 title: "Behavioral Economics"
 slug: "behavioral-economics"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:behavioral-economics", "topic:bounded-rationality", "topic:prospect-theory", "topic:loss-aversion", "topic:nudging", "topic:neuroeconomics", "topic:machine-learning", "topic:economics", "topic:behavioral-economics"]
 people: ["person:herbert-simon", "person:daniel-kahneman", "person:amos-tversky"]
 places: ["place:united-kingdom"]

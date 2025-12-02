@@ -2,7 +2,7 @@
 id: 01KB9ZZDSBZWRXH8G0S449M5K1
 title: "Voyager Program"
 slug: "voyager-program"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:space-exploration", "topic:voyager-program"]
 model: "qwen3:14b"
 summary: ""

@@ -2,7 +2,7 @@
 id: 01KB6M4YN0EQERJSC5DG2HGH5K
 title: "Epigenetics"
 slug: "epigenetics"
-created: 2025-11-29
+created: 2025-11-29T00:00:00Z
 tags: ["topic:epigenetics", "topic:genetics", "topic:biology", "topic:medical-research", "topic:precision-medicine", "topic:dna-methylation", "topic:histone-modification", "topic:non-coding-rna-interactions", "topic:epigenome", "topic:pharmacoepigenetics", "topic:nanotechnology", "topic:adverse-childhood-experiences", "topic:high-throughput-sequencing", "topic:single-cell-epigenomics", "topic:chip-seq", "topic:whole-genome-bisulfite-sequencing", "topic:transgenerational-epigenetic-inheritance", "topic:dutch-hunger-winter", "topic:epigenetics"]
 people: ["person:conrad-hal-waddington", "person:g.-felsenfeld", "person:arthur-riggs", "person:rudolf-jaenisch", "person:andrew-feinberg"]
 summary: ""

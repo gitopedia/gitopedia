@@ -5,7 +5,7 @@ title: "Source: Abbasid Dynasty - World History Encyclopedia"
 url: "https://www.worldhistory.org/Abbasid_Dynasty/"
 type: source
 related_article: "the-abbasid-caliphate"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:the-abbasid-caliphate"]
 summary: "Summarized source material for the-abbasid-caliphate"
 model: "code-prefilter"

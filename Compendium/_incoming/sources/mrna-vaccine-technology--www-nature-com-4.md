@@ -5,7 +5,7 @@ title: "Source: The tangled history of mRNA vaccines - Nature"
 url: "https://www.nature.com/articles/d41586-021-02483-w"
 type: source
 related_article: "mrna-vaccine-technology"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:mrna-vaccine-technology"]
 summary: "Summarized source material for mRNA Vaccine Technology"
 model: "code-prefilter"

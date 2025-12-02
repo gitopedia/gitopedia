@@ -5,7 +5,7 @@ title: "Source: Personalized medicine - Statistics & Facts | Statista"
 url: "https://www.statista.com/topics/4345/personalized-medicine/"
 type: source
 related_article: "personalized-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:personalized-medicine"]
 summary: "Summarized source material for Personalized Medicine"
 model: "code-prefilter"

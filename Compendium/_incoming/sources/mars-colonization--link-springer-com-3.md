@@ -5,7 +5,7 @@ title: "Source: Mars Historical and Ethical Context: Past, Present, and Imaginat
 url: "https://link.springer.com/chapter/10.1007/978-3-031-66881-4_4"
 type: source
 related_article: "mars-colonization"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mars-colonization"]
 summary: "Summarized source material for Mars Colonization"
 model: "code-prefilter"

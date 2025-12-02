@@ -5,7 +5,7 @@ title: "Source: Metaphysics Summary and Study Guide | SuperSummary"
 url: "https://www.supersummary.com/metaphysics/summary/"
 type: source
 related_article: "metaphysics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:metaphysics", "topic:first-philosophy", "topic:potentiality-and-actuality", "topic:prime-mover", "topic:principle-of-contradiction", "topic:structure-of-logic-as-integral-to-philosophy", "topic:the-nature-of-existence-and-reality", "topic:causation", "topic:form-and-matter", "topic:mathematical-objects", "topic:metaphysics"]
 people: ["person:aristotle", "person:plato", "person:alexander-the-great"]
 orgs: ["org:penguin-books"]

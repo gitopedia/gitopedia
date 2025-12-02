@@ -1,7 +1,7 @@
 ---
 id: 01KBDJAKX31WB0SVJ50YSMRD3S
 slug: "edge-computing"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:edge-computing", "topic:5g", "topic:iot", "topic:artificial-intelligence", "topic:cloud-computing", "topic:fog-computing", "topic:6g", "topic:telemedicine", "topic:haptic-feedback", "topic:metaverse", "topic:on-device-learning", "topic:tactile-internet", "topic:computer-science", "topic:edge-computing"]
 orgs: ["org:cisco-systems", "org:british-computer-society-(bcs)", "org:gartner"]
 model: "qwen3:32b"

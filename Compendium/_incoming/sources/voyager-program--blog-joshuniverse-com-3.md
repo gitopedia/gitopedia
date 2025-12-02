@@ -5,7 +5,7 @@ title: "Source: Voyager's Historic Journey and Legacy - blog.joshuniverse.com"
 url: "https://blog.joshuniverse.com/blog/voyagers-historic-journey-and-legacy/"
 type: source
 related_article: "voyager-program"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:voyager-program", "topic:voyager-1", "topic:voyager-2", "topic:heliopause", "topic:interstellar-medium", "topic:radioisotope-thermoelectric-generators-(rtgs)", "topic:plutonium-238", "topic:voyager-program"]
 orgs: ["org:nasa"]
 places: ["place:jupiter", "place:saturn", "place:uranus", "place:neptune"]

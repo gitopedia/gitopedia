@@ -5,7 +5,7 @@ title: "Source: Edge computing - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Edge_computing"
 type: source
 related_article: "edge-computing"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:edge-computing", "topic:fog-computing", "topic:cloud-computing", "topic:internet-of-things-(iot)", "topic:smart-cities", "topic:serverless-architecture", "topic:content-delivery-network", "topic:mobile-edge-computing", "topic:distributed-computing-architecture", "topic:load-balancing-(computing)", "topic:autonomous-driving", "topic:facial-recognition", "topic:augmented-reality", "topic:industry-4.0", "topic:home-automation", "topic:satellite-systems", "topic:edge-ai", "topic:edge-intelligence", "topic:on-device-ai", "topic:heterogeneous-computing", "topic:wireless-sensor-networks", "topic:radio-frequency-identification", "topic:internet-refrigerator", "topic:edge-computing"]
 people: ["person:karim-arabi", "person:alex-reznik"]
 summary: "Summarized source material for Edge Computing"

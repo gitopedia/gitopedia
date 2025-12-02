@@ -5,7 +5,7 @@ title: "Source: Decentralized Applications (dApps): What They Are, Uses, and Ben
 url: "https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp"
 type: source
 related_article: "decentralized-applications-(dapps)"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:decentralized-applications-(dapps)"]
 people: ["person:nick-szabo"]
 summary: "Summarized source material for Decentralized Applications (dApps)"

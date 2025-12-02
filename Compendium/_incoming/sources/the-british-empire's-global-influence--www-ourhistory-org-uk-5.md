@@ -5,7 +5,7 @@ title: "Source: The British Empire: An overview of empire and colonisation"
 url: "https://www.ourhistory.org.uk/the-british-empire-an-overview-of-empire-and-colonisation/"
 type: source
 related_article: "the-british-empire's-global-influence"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:british-empire", "topic:pax-britannica", "topic:decolonisation-movement", "topic:the-great-game", "topic:the-british-empire's-global-influence"]
 people: ["person:queen-elizabeth-ii"]
 orgs: ["org:commonwealth-of-nations", "org:east-india-company", "org:royal-african-company"]

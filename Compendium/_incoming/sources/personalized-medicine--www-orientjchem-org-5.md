@@ -5,7 +5,7 @@ title: "Source: Personalized Medicine: A Comprehensive Review"
 url: "https://www.orientjchem.org/vol40no4/personalized-medicine-a-comprehensive-review/"
 type: source
 related_article: "personalized-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:personalized-medicine"]
 summary: "Summarized source material for Personalized Medicine"
 model: "code-prefilter"

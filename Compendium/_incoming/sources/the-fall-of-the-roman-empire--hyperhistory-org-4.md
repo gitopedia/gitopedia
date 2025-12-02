@@ -5,7 +5,7 @@ title: "Source: The Rise and Fall of the Roman Empire | Historical Perspectives 
 url: "https://hyperhistory.org/the-rise-and-fall-of-the-roman-empire/"
 type: source
 related_article: "the-fall-of-the-roman-empire"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:punic-wars", "topic:crisis-of-the-third-century", "topic:division-of-the-empire-into-eastern-and-western", "topic:economic-strain", "topic:cultural-integration", "topic:role-of-christianity", "topic:legacy-of-the-roman-empire", "topic:pax-romana", "topic:corpus-juris-civilis", "topic:the-fall-of-the-roman-empire"]
 people: ["person:julius-caesar", "person:pompey", "person:scipio-africanus", "person:augustus", "person:marcus-aurelius", "person:constantine-the-great", "person:justinian-i", "person:romulus-augustulus", "person:odoacer"]
 places: ["place:rome", "place:constantinople", "place:antioch", "place:alexandria", "place:britain", "place:mesopotamia", "place:italy", "place:tiber-river", "place:hadrian's-wall"]

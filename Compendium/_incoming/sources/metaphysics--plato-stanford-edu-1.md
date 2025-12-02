@@ -5,7 +5,7 @@ title: "Source: Metaphysics - Stanford Encyclopedia of Philosophy"
 url: "https://plato.stanford.edu/entries/metaphysics/"
 type: source
 related_article: "metaphysics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:metaphysics"]
 summary: "Summarized source material for Metaphysics"
 model: "code-prefilter"

@@ -5,7 +5,7 @@ title: "Source: Industrial Revolution - Encyclopedia.com"
 url: "https://www.encyclopedia.com/history/modern-europe/british-and-irish-history/industrial-revolution"
 type: source
 related_article: "the-industrial-revolution"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:the-industrial-revolution"]
 summary: "Summarized source material for The Industrial Revolution"
 model: "code-prefilter"

@@ -5,7 +5,7 @@ title: "Source: Industrial Revolution: Causes, Why It Began in Britain and Its G
 url: "https://www.geopolitika.it/en/the-causes-of-the-industrial-revolution-why-it-began-in-england-and-its-social-economic-and-geopolitical-consequences/"
 type: source
 related_article: "the-industrial-revolution"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:industrial-revolution", "topic:agricultural-revolution", "topic:global-capitalism", "topic:technological-innovation", "topic:global-trade", "topic:industrial-society", "topic:modern-capitalism", "topic:urbanization", "topic:social-transformation", "topic:geopolitical-consequences", "topic:economic-consequences", "topic:the-industrial-revolution"]
 people: ["person:james-watt"]
 orgs: ["org:royal-society", "org:british-empire"]

@@ -5,7 +5,7 @@ title: "Source: Milestones in Personalized Medicine: From the Ancient Time to No
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7794000/"
 type: source
 related_article: "personalized-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:personalized-medicine"]
 summary: "Summarized source material for Personalized Medicine"
 model: "code-prefilter"

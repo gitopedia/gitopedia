@@ -5,7 +5,7 @@ title: "Source: Industrial Revolutions: Summary, Causes, Consequences & Inventio
 url: "https://historiamundum.com/industrial-revolutions"
 type: source
 related_article: "the-industrial-revolution"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:industrial-revolution-(first)", "topic:industrial-revolution-(second)", "topic:industrial-revolution-(third)", "topic:industrial-revolution-(fourth)", "topic:steam-engine", "topic:railways", "topic:telegraph", "topic:steel", "topic:electricity", "topic:petroleum", "topic:automobiles", "topic:wireless-telegraph", "topic:radio", "topic:television", "topic:labor-unions", "topic:chartism", "topic:luddism", "topic:enclosure-acts", "topic:corn-laws", "topic:speenhamland-system", "topic:frame-breaking-act-of-1812", "topic:capitalism", "topic:socialism", "topic:industrialization", "topic:urbanization", "topic:social-inequality", "topic:mass-production", "topic:trusts", "topic:cartels", "topic:ford-model-t", "topic:metallurgy", "topic:agriculture-(sugar-beet,-chemicals)", "topic:jacksonian-democracy", "topic:the-industrial-revolution"]
 people: ["person:eric-hobsbawm-(historian)", "person:henry-ford", "person:james-watt", "person:sergei-witte-(russian-minister)", "person:louis-xiv-(king-of-france)"]
 places: ["place:britain", "place:russia", "place:germany", "place:italy", "place:eastern-europe", "place:japan", "place:united-states", "place:france"]

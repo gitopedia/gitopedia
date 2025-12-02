@@ -5,7 +5,7 @@ title: "Source: CRISPR gene editing - Wikipedia"
 url: "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
 type: source
 related_article: "crispr-cas9-gene-editing"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:crispr-cas9-gene-editing"]
 summary: "Summarized source material for CRISPR-Cas9 Gene Editing"
 model: "code-prefilter"

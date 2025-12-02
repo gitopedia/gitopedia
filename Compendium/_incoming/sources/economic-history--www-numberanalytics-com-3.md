@@ -5,7 +5,7 @@ title: "Source: Economic Context: A Key to Historical Understanding"
 url: "https://www.numberanalytics.com/blog/economic-context-key-historical-understanding"
 type: source
 related_article: "economic-history"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:economic-context", "topic:cliometrics", "topic:historical-statistical-analysis", "topic:great-depression", "topic:world-war-i", "topic:world-war-ii", "topic:economic-sanctions", "topic:gulf-war", "topic:economic-history"]
 people: ["person:thucydides", "person:adorno-(philosopher)", "person:sophocles"]
 summary: "Summarized source material for economic history"

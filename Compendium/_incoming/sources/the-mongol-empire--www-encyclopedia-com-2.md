@@ -5,7 +5,7 @@ title: "Source: Mongol Empire - Encyclopedia.com"
 url: "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/mongol-empire"
 type: source
 related_article: "the-mongol-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mongol-empire", "topic:yuan-dynasty", "topic:mughal-empire", "topic:timurid-dynasty", "topic:the-yassa", "topic:the-mongol-empire"]
 people: ["person:genghis-khan", "person:ögödei-khan", "person:batu-khan", "person:orda-khan", "person:kublai-khan", "person:hülegü-khan", "person:timur-(1336–1405)", "person:öz-beg-khan-(d.-1341)"]
 places: ["place:japan", "place:hungary", "place:onon-river-(mongolia)", "place:kievan-rus'", "place:baghdad", "place:delhi,-india", "place:ankara,-turkey", "place:mongolia"]

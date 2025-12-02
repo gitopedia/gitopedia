@@ -5,7 +5,7 @@ title: "Source: CRISPR-Cas systems: Overview, innovations and applications in hu
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7508700/"
 type: source
 related_article: "crispr-cas9-gene-editing"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:crispr-cas9-gene-editing"]
 summary: "Summarized source material for CRISPR-Cas9 Gene Editing"
 model: "code-prefilter"

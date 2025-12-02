@@ -5,7 +5,7 @@ title: "Source: String theory Facts for Kids - Kids encyclopedia"
 url: "https://kids.kiddle.co/String_theory"
 type: source
 related_article: "string-theory"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:string-theory", "topic:quantum-physics", "topic:general-relativity", "topic:supersymmetry", "topic:branes-(in-string-theory)", "topic:four-fundamental-forces", "topic:electromagnetic-force", "topic:strong-nuclear-force", "topic:weak-nuclear-force", "topic:gravity", "topic:theory-of-everything", "topic:string-theory"]
 orgs: ["org:large-hadron-collider"]
 summary: "Summarized source material for String Theory"

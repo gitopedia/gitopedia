@@ -5,7 +5,7 @@ title: "Source: Colonizing Mars: Timeline & Challenges - BULB"
 url: "https://www.bulbapp.io/p/506c570b-b6d0-4e99-9fa5-2a2a60948c66/colonizing-mars-timeline-challenges"
 type: source
 related_article: "mars-colonization"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mars-direct-plan", "topic:outer-space-treaty", "topic:isru", "topic:web3", "topic:digital-currencies", "topic:binance-clone-script", "topic:decentralized-prediction-markets", "topic:gold-backed-stablecoin", "topic:crypto-wallets", "topic:space-data-core", "topic:trust-protocol", "topic:true-decentralization", "topic:tron-token-development", "topic:private-messaging", "topic:digital-dna", "topic:discount-radio", "topic:sdr", "topic:mars-colonization"]
 people: ["person:wernher-von-braun", "person:george-w.-bush"]
 places: ["place:mars"]

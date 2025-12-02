@@ -1,7 +1,7 @@
 ---
 id: 01KBCRNT5N3YHTB0P25FHJSBEX
 slug: "economic-history"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:capitalism", "topic:socialism", "topic:marxism", "topic:economic-systems", "topic:regulatory-economics", "topic:industrial-revolution", "topic:great-depression", "topic:new-deal", "topic:2008-financial-crisis", "topic:green-new-deal", "topic:universal-basic-income", "topic:carbon-pricing", "topic:mixed-economies", "topic:neoliberalism", "topic:gig-economies", "topic:tech-monopolies", "topic:ai", "topic:automation", "topic:economics", "topic:economic-history"]
 people: ["person:adam-smith", "person:david-ricardo", "person:karl-marx", "person:friedrich-engels"]
 orgs: ["org:european-union"]

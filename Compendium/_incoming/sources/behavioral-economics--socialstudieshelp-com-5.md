@@ -5,7 +5,7 @@ title: "Source: What Is Behavioral Economics? Key Concepts and Examples"
 url: "https://socialstudieshelp.com/economics/what-is-behavioral-economics-key-concepts-and-examples/"
 type: source
 related_article: "behavioral-economics"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:behavioral-economics"]
 summary: "Summarized source material for Behavioral Economics"
 model: "code-prefilter"

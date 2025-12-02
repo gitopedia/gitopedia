@@ -1,7 +1,7 @@
 ---
 id: 01KBC4KV03A999QXXMB0ARJCSM
 slug: "metaphysics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:metaphysics", "topic:ancient-philosophy", "topic:western-thought", "topic:first-philosophy", "topic:substance", "topic:potentiality/actuality", "topic:prime-mover", "topic:principle-of-contradiction", "topic:quantum-mechanics", "topic:big-bang-theory", "topic:analytic-metaphysics", "topic:philosophy", "topic:metaphysics"]
 people: ["person:aristotle", "person:thomas-aquinas", "person:avicenna", "person:w.v.o.-quine", "person:bertrand-russell", "person:gottlob-frege"]
 places: ["place:lyceum-(athens)"]

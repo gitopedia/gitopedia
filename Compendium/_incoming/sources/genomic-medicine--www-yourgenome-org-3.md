@@ -5,7 +5,7 @@ title: "Source: History of genomics timeline from 1871 to present day - YourGeno
 url: "https://www.yourgenome.org/theme/timeline-history-of-genomics/"
 type: source
 related_article: "genomic-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:human-genome-project", "topic:crispr-cas9", "topic:dna-sequencing", "topic:genomics", "topic:encode-study", "topic:100k-genomes-project", "topic:crispr-edited-food", "topic:james-webb-space-telescope", "topic:genomic-medicine"]
 people: ["person:james-watson", "person:francis-crick", "person:rosalind-franklin", "person:maurice-wilkins", "person:albrecht-kossel", "person:marshall-nirenberg", "person:har-gobind-khorana", "person:jennifer-doudna", "person:emmanuelle-charpentier", "person:alfred-hershey", "person:martha-chase", "person:frederick-sanger", "person:alec-jeffreys", "person:boris-becker", "person:nelson-mandela", "person:barack-obama", "person:theodore-roosevelt", "person:albert-einstein", "person:nettie-stevens", "person:walter-sutton", "person:theodor-boveri", "person:janaki-ammal", "person:cd-darlington"]
 orgs: ["org:roslin-institute-(university-of-edinburgh)", "org:sanger-centre-(cambridge)", "org:sanger-institute", "org:international-mouse-genome-sequencing-consortium", "org:wellcome-trust", "org:ipcc-(intergovernmental-panel-on-climate-change)", "org:nasa", "org:spacex"]

@@ -1,7 +1,7 @@
 ---
 id: 01KBD7ATK4TJDX5KG432D40T75
 slug: "the-industrial-revolution"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:industrial-revolution", "topic:technological-innovation", "topic:economic-history", "topic:social-change", "topic:environmental-degradation", "topic:automation", "topic:ai", "topic:renewable-energy", "topic:sustainability", "topic:world-history", "topic:the-industrial-revolution"]
 people: ["person:james-watt", "person:george-stephenson", "person:nikolaus-otto", "person:henry-ford", "person:thomas-edison", "person:sergei-witte"]
 model: "qwen3:32b"

@@ -2,7 +2,7 @@
 id: 01KB98K8V7V4QDJWQ65089KMPT
 title: "The Fall of the Roman Empire"
 slug: "the-fall-of-the-roman-empire"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:decline-of-the-roman-empire", "topic:third-century-crisis", "topic:pax-romana", "topic:tetrarchy", "topic:historiography-of-the-roman-empire", "topic:fall-of-the-western-roman-empire", "topic:world-history", "topic:the-fall-of-the-roman-empire"]
 people: ["person:edward-gibbon", "person:marcus-aurelius", "person:commodus", "person:diocletian", "person:attila-(hun-leader)", "person:arnold-toynbee", "person:fernand-braudel", "person:peter-heather", "person:bryan-ward-perkins"]
 places: ["place:rome", "place:constantinople", "place:danube-river", "place:rhine-river"]

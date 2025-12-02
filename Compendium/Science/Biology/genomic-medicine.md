@@ -1,7 +1,7 @@
 ---
 id: 01KBCCAMKMPYFF0FA6PRH8YKB1
 slug: "genomic-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:biology", "topic:genomic-medicine"]
 model: "qwen3:32b"
 

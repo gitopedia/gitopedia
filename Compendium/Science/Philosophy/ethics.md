@@ -1,7 +1,7 @@
 ---
 id: 01KBCN07VWFR2EM5S0F90FY31G
 slug: "ethics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:ethics", "topic:philosophy", "topic:business-ethics", "topic:deontological-ethics", "topic:utilitarianism", "topic:virtue-ethics", "topic:professional-ethics", "topic:artificial-intelligence", "topic:climate-ethics", "topic:code-of-medical-ethics", "topic:hippocratic-oath", "topic:ethics"]
 people: ["person:socrates", "person:plato", "person:aristotle", "person:immanuel-kant", "person:jeremy-bentham", "person:john-stuart-mill", "person:richard-degeorge-(business-ethics)"]
 orgs: ["org:british-medical-journal", "org:prentice-hall"]

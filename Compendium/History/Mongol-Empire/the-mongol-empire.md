@@ -1,7 +1,7 @@
 ---
 id: 01KBBYZ1JNV8CHH2T77AAYRD4Y
 slug: "the-mongol-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mongol-empire", "topic:pax-mongolica", "topic:yuan-dynasty", "topic:golden-horde", "topic:yassa", "topic:silk-road", "topic:black-death", "topic:world-history", "topic:the-mongol-empire"]
 people: ["person:genghis-khan"]
 places: ["place:kyiv-(ukraine)", "place:samarkand-(uzbekistan)", "place:karakorum-(mongolia)"]

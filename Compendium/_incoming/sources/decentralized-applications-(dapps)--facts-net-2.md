@@ -5,7 +5,7 @@ title: "Source: 37 Facts About Decentralized Applications (DApps)"
 url: "https://facts.net/science/technology/37-facts-about-decentralized-applications-dapps/"
 type: source
 related_article: "decentralized-applications-(dapps)"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:decentralized-applications-(dapps)"]
 summary: "Summarized source material for Decentralized Applications (dApps)"
 model: "code-prefilter"

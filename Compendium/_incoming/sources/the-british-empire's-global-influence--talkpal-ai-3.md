@@ -5,7 +5,7 @@ title: "Source: The Influence of British Empire on Global English - Talkpal"
 url: "https://talkpal.ai/culture/the-influence-of-british-empire-on-global-english/"
 type: source
 related_article: "the-british-empire's-global-influence"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:british-empire", "topic:english-language", "topic:global-lingua-franca", "topic:colonization", "topic:trade", "topic:education", "topic:missionary-work", "topic:linguistic-diversity", "topic:language-preservation", "topic:the-british-empire's-global-influence"]
 orgs: ["org:united-nations", "org:european-union", "org:international-monetary-fund", "org:talkpal,-inc."]
 places: ["place:india", "place:nigeria", "place:wilmington,-delaware"]

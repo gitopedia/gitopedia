@@ -5,7 +5,7 @@ title: "Source: What is String Theory - Explained Simply for Beginners"
 url: "https://simply-explained.com/2025/05/20/what-is-string-theory-explained-simply-for-beginners/"
 type: source
 related_article: "string-theory"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:string-theory", "topic:quantum-gravity", "topic:extra-dimensions", "topic:string-theory"]
 people: ["person:albert-einstein"]
 summary: "Summarized source material for String Theory"

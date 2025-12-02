@@ -5,7 +5,7 @@ title: "Source: Epigenetics - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Epigenetics"
 type: source
 related_article: "epigenetics"
-created: 2025-11-29
+created: 2025-11-29T00:00:00Z
 tags: ["Source"]
 summary: "Summarized source material for Epigenetics"
 model: "code-prefilter"

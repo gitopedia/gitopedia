@@ -2,7 +2,7 @@
 id: 01KB9NP2KM5YSD872DEF9BQCD8
 title: "General Relativity"
 slug: "general-relativity"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:general-relativity", "topic:special-relativity", "topic:gravitational-waves", "topic:black-holes", "topic:spacetime-curvature", "topic:gravitational-lensing", "topic:cosmology", "topic:quantum-gravity", "topic:dark-energy", "topic:dark-matter", "topic:big-bang", "topic:event-horizon", "topic:physics", "topic:general-relativity"]
 people: ["person:albert-einstein", "person:arthur-eddington-(astronomer)", "person:joseph-taylor-(physicist)", "person:russell-hulse-(physicist)", "person:marcel-grossmann-(mathematician)", "person:david-hilbert", "person:emmy-noether", "person:alexander-friedmann", "person:georges-lemaître", "person:edwin-hubble", "person:subrahmanyan-chandrasekhar", "person:karl-schwarzschild"]
 places: ["place:m87-(galaxy)"]

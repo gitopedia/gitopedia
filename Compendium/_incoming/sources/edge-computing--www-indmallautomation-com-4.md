@@ -5,7 +5,7 @@ title: "Source: Who Invented Edge Computing? | History and Evolution Explained"
 url: "https://www.indmallautomation.com/faq/who-invented-edge-computing/"
 type: source
 related_article: "edge-computing"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:edge-computing", "topic:internet-of-things-(iot)", "topic:cloud-computing", "topic:5g", "topic:artificial-intelligence-(ai)", "topic:edge-computing"]
 orgs: ["org:cisco", "org:aws-(amazon-web-services)", "org:microsoft", "org:ibm", "org:indmall-automation-(chennai,-tamil-nadu)"]
 places: ["place:chennai-(tamil-nadu)", "place:tirupati-(andhra-pradesh)"]

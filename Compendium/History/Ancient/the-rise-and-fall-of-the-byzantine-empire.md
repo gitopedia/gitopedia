@@ -2,7 +2,7 @@
 id: 01KBBR72CW4SH82CYT22VBDDY3
 title: "The Rise and Fall of the Byzantine Empire"
 slug: "the-rise-and-fall-of-the-byzantine-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:byzantine-empire", "topic:roman-empire", "topic:medieval-history", "topic:cultural-legacy", "topic:historical-terminology", "topic:world-history", "topic:the-rise-and-fall-of-the-byzantine-empire"]
 model: "qwen3:32b"
 summary: ""

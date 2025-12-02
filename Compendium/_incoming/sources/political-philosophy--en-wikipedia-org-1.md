@@ -5,7 +5,7 @@ title: "Source: Political philosophy - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Political_philosophy"
 type: source
 related_article: "political-philosophy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:political-philosophy"]
 summary: "Summarized source material for Political Philosophy"
 model: "code-prefilter"

@@ -5,7 +5,7 @@ title: "Source: The Past, Present, and Future States of Political Theory - PMC"
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8945869/"
 type: source
 related_article: "political-philosophy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:political-philosophy"]
 summary: "Summarized source material for Political Philosophy"
 model: "code-prefilter"

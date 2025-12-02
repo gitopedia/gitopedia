@@ -5,7 +5,7 @@ title: "Source: The history of quantum computing: A complete timeline"
 url: "https://www.techtarget.com/searchcio/feature/The-history-of-quantum-computing-A-complete-timeline"
 type: source
 related_article: "quantum-computing"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:quantum-computing"]
 summary: "Summarized source material for Quantum Computing"
 model: "code-prefilter"

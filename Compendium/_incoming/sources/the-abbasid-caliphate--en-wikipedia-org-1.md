@@ -5,7 +5,7 @@ title: "Source: Abbasid Caliphate - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
 type: source
 related_article: "the-abbasid-caliphate"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:theoretical-physics", "topic:nobel-prize-in-physics", "topic:einstein's-theory-of-relativity", "topic:quantum-mechanics", "topic:the-abbasid-caliphate"]
 people: ["person:albert-einstein"]
 places: ["place:germany"]

@@ -5,7 +5,7 @@ title: "Source: 28 Facts About Artificial Organs"
 url: "https://facts.net/science/technology/28-facts-about-artificial-organs/"
 type: source
 related_article: "artificial-organs"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:artificial-organs", "topic:jarvik-7", "topic:cochlear-implants", "topic:dialysis-machines", "topic:bioartificial-organs", "topic:bionic-eyes", "topic:retinal-implants", "topic:artificial-pancreases", "topic:prosthetic-limbs", "topic:extracorporeal-membrane-oxygenation-(ecmo)-machines", "topic:artificial-skin", "topic:3d-printing", "topic:stem-cell-research", "topic:nanotechnology", "topic:artificial-intelligence", "topic:regenerative-medicine", "topic:artificial-organs"]
 people: ["person:lynne-obregon"]
 summary: "Summarized source material for Artificial Organs"

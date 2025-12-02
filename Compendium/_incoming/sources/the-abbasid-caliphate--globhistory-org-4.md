@@ -5,7 +5,7 @@ title: "Source: Abbasid Caliphate - globhistory.org"
 url: "https://globhistory.org/en/article/arabskiy_halifat/abbasidskiy_halifat"
 type: source
 related_article: "the-abbasid-caliphate"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:abbasid-caliphate", "topic:arabic-language", "topic:golden-age", "topic:the-abbasid-caliphate"]
 people: ["person:al-khwarizmi", "person:avicenna", "person:al-harun-al-rashid", "person:abu-nuwas", "person:al-jahiz"]
 orgs: ["org:umayyad-dynasty"]

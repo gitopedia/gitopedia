@@ -5,7 +5,7 @@ title: "Source: Behavioral Economics, History Of: Michiru Nagatsu, University of
 url: "https://www.scribd.com/document/357163337/B9780080970868030531-pdf"
 type: source
 related_article: "behavioral-economics"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:behavioral-economics", "topic:prospect-theory", "topic:expected-utility-theory", "topic:behavioral-economics"]
 people: ["person:michiru-nagatsu"]
 orgs: ["org:university-of-helsinki"]

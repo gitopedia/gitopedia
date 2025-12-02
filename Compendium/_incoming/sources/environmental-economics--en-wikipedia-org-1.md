@@ -5,7 +5,7 @@ title: "Source: Environmental economics - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Environmental_economics"
 type: source
 related_article: "environmental-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:environmental-economics"]
 summary: "Summarized source material for Environmental Economics"
 model: "code-prefilter"

@@ -2,7 +2,7 @@
 id: 01KB9PY7GG4XWXSCFVDGX3F5B4
 title: "String Theory"
 slug: "string-theory"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:string-theory", "topic:quantum-mechanics", "topic:general-relativity", "topic:calabi–yau-manifolds", "topic:landscape-problem", "topic:ads/cft-correspondence", "topic:brane-cosmology", "topic:multiverse-theories", "topic:loop-quantum-gravity", "topic:mirror-symmetry", "topic:physics", "topic:string-theory"]
 people: ["person:gabriele-veneziano", "person:john-schwarz", "person:michael-green", "person:edward-witten", "person:juan-maldacena", "person:lee-smolin"]
 summary: ""

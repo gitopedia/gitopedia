@@ -1,7 +1,7 @@
 ---
 id: 01KBDSAAV9Z2KQVS5RMAFZS2HH
 slug: "political-philosophy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:political-philosophy", "topic:democracy", "topic:liberalism", "topic:social-contract", "topic:distributive-justice", "topic:democratic-theory", "topic:global-governance", "topic:libertarianism", "topic:communitarianism", "topic:climate-justice", "topic:philosophy", "topic:political-philosophy"]
 people: ["person:aristotle", "person:confucius", "person:plato", "person:niccolò-machiavelli", "person:thomas-hobbes", "person:john-locke", "person:jean-jacques-rousseau", "person:karl-marx", "person:john-stuart-mill", "person:john-rawls", "person:robert-nozick", "person:noam-chomsky", "person:jürgen-habermas", "person:amartya-sen", "person:dale-jamieson"]
 orgs: ["org:united-nations", "org:world-trade-organization"]

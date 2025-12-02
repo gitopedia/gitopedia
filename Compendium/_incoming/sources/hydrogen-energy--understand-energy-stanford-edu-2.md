@@ -5,7 +5,7 @@ title: "Source: Hydrogen - Understand Energy Learning Hub"
 url: "https://understand-energy.stanford.edu/energy-currencies/hydrogen"
 type: source
 related_article: "hydrogen-energy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:hydrogen-energy"]
 summary: "Summarized source material for Hydrogen Energy"
 model: "code-prefilter"

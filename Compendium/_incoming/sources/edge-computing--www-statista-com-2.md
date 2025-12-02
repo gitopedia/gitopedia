@@ -5,7 +5,7 @@ title: "Source: Edge Computing - statistics & facts | Statista"
 url: "https://www.statista.com/topics/6173/edge-computing/"
 type: source
 related_article: "edge-computing"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:edge-computing"]
 summary: "Summarized source material for Edge Computing"
 model: "code-prefilter"

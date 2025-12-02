@@ -5,7 +5,7 @@ title: "Source: How did the concept of energy storage emerge? | NenPower"
 url: "https://nenpower.com/blog/how-did-the-concept-of-energy-storage-emerge/"
 type: source
 related_article: "energy-storage-solutions"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:energy-storage", "topic:renewable-energy-sources", "topic:grid-management", "topic:lithium-ion-battery", "topic:solid-state-battery", "topic:flow-battery", "topic:frequency-regulation", "topic:thermal-insulation", "topic:abec-2025-certification", "topic:cwp-2025-conference", "topic:2025-international-energy-frontiers-forum", "topic:energy-storage-solutions"]
 people: ["person:gaston-planté-(inventor-of-lead-acid-battery)"]
 places: ["place:suzhou-(china)", "place:sichuan-(province,-china)", "place:shanghai-(china)"]

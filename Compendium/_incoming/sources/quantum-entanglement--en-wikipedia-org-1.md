@@ -5,7 +5,7 @@ title: "Source: Quantum entanglement - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Quantum_entanglement"
 type: source
 related_article: "quantum-entanglement"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:quantum-entanglement"]
 summary: "Summarized source material for Quantum Entanglement"
 model: "code-prefilter"

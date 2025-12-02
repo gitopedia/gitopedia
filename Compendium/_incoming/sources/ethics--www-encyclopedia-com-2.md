@@ -5,7 +5,7 @@ title: "Source: Ethics - Encyclopedia.com"
 url: "https://www.encyclopedia.com/philosophy-and-religion/philosophy/philosophy-terms-and-concepts/ethics"
 type: source
 related_article: "ethics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:ethics"]
 summary: "Summarized source material for Ethics"
 model: "code-prefilter"

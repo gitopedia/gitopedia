@@ -1,7 +1,7 @@
 ---
 id: 01KBBSWHG5QRCVPJ39S613B0PC
 slug: "mars-colonization"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:space-exploration", "topic:mars-colonization"]
 model: "qwen3:32b"
 

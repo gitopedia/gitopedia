@@ -5,7 +5,7 @@ title: "Source: Development Economics - Encyclopedia.com"
 url: "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/development-economics"
 type: source
 related_article: "development-economics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:development-economics", "topic:import-substitution-industrialization", "topic:export-promotion", "topic:harris-todaro-model", "topic:prebisch-singer-hypothesis", "topic:dependency-theory", "topic:structural-transformation", "topic:center-periphery-models", "topic:unequal-exchange", "topic:neocolonial-economic-domination", "topic:urban-bias-in-development", "topic:demographic-transition", "topic:kuznets-hypothesis", "topic:corrupt-practices-in-development", "topic:development-economics"]
 people: ["person:sir-w.-arthur-lewis", "person:john-harris", "person:michael-todaro", "person:raúl-prebisch", "person:hans-singer", "person:andré-gunder-frank", "person:gunnar-myrdal", "person:paul-krugman"]
 places: ["place:asia", "place:africa", "place:latin-america", "place:east-asia", "place:global-north", "place:global-south"]

@@ -1,7 +1,7 @@
 ---
 id: 01KBD90GN13WQ9M6PFKGDSEDHT
 slug: "cryptocurrency-and-blockchain-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:blockchain", "topic:cryptocurrency", "topic:decentralized-finance-(defi)", "topic:digital-finance", "topic:fintech", "topic:bitcoin", "topic:mica-(markets-in-crypto-assets)", "topic:zcash", "topic:economics", "topic:cryptocurrency-and-blockchain-economics"]
 people: ["person:satoshi-nakamoto", "person:david-chaum"]
 orgs: ["org:ethereum", "org:uniswap", "org:aave", "org:ibm's-food-trust", "org:ripple-(xrp)", "org:stellar-(xlm)", "org:medrec", "org:microstrategy", "org:tesla", "org:jpmorgan-chase", "org:goldman-sachs", "org:u.s.-securities-and-exchange-commission-(sec)"]

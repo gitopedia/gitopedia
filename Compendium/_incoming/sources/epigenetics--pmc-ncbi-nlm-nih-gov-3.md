@@ -5,7 +5,7 @@ title: "Source: A Brief History of Epigenetics - PMC"
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3941222/"
 type: source
 related_article: "epigenetics"
-created: 2025-11-29
+created: 2025-11-29T00:00:00Z
 tags: ["Source"]
 summary: "Summarized source material for Epigenetics"
 model: "code-prefilter"

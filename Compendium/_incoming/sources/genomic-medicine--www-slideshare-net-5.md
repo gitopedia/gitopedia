@@ -5,7 +5,7 @@ title: "Source: Genomic and Personalized Medicine: An Overview | PPTX - SlideSha
 url: "https://www.slideshare.net/slideshow/genomic-and-personalized-medicine-an-overview/118939298"
 type: source
 related_article: "genomic-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:genomic-medicine"]
 summary: "Summarized source material for Genomic Medicine"
 model: "code-prefilter"

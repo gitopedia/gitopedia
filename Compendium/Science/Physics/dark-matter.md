@@ -1,7 +1,7 @@
 ---
 id: 01KBC6CRV7V9KP5E1ZS1ECF3BG
 slug: "dark-matter"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:multiverse", "topic:quantum-physics", "topic:science-fiction", "topic:theoretical-physics", "topic:everything-everywhere-all-at-once", "topic:the-multiverse:-a-guide", "topic:many-worlds-interpretation-(mwi)", "topic:bubble-universes", "topic:brane-cosmology", "topic:quantum-suicide/immortality", "topic:physics", "topic:dark-matter"]
 people: ["person:hugh-everett-iii-(physicist)", "person:andrei-linde-(physicist)", "person:dr.-sarah-lin-(author-of-*the-multiverse:-a-guide*)", "person:michael-moorcock-(science-fiction-writer)"]
 model: "qwen3:32b"

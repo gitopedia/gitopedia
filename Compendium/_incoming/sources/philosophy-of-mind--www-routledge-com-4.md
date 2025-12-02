@@ -5,7 +5,7 @@ title: "Source: The History of the Philosophy of Mind - Routledge"
 url: "https://www.routledge.com/The-History-of-the-Philosophy-of-Mind/book-series/HOPM"
 type: source
 related_article: "philosophy-of-mind"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:the-history-of-the-philosophy-of-mind", "topic:philosophy-of-mind"]
 people: ["person:rebecca-copenhaver", "person:christopher-shields", "person:john-sisko", "person:margaret-cameron", "person:stephan-schmid", "person:sandra-lapointe", "person:amy-kind"]
 summary: "Summarized source material for Philosophy of Mind"

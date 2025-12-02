@@ -5,7 +5,7 @@ title: "Source: The Industrial Revolution: A Transformative Era in Human History
 url: "https://www.historytools.org/stories/the-industrial-revolution-a-transformative-era-in-human-history"
 type: source
 related_article: "the-industrial-revolution"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:industrial-revolution", "topic:agricultural-revolution", "topic:scientific-revolution", "topic:enlightenment", "topic:factory-system", "topic:urbanization", "topic:capitalism", "topic:globalization", "topic:consumerism", "topic:environmental-impact", "topic:the-industrial-revolution"]
 people: ["person:thomas-newcomen", "person:james-watt", "person:james-hargreaves", "person:edmund-cartwright", "person:eli-whitney", "person:henry-bessemer", "person:isaac-newton"]
 places: ["place:britain"]

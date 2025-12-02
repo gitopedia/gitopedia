@@ -5,7 +5,7 @@ title: "Source: History of general relativity - Wikipedia"
 url: "https://en.wikipedia.org/wiki/History_of_general_relativity"
 type: source
 related_article: "general-relativity"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:general-relativity"]
 summary: "Summarized source material for General Relativity"
 model: "code-prefilter"

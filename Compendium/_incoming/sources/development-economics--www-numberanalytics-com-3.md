@@ -5,7 +5,7 @@ title: "Source: The Evolution of Development Theories Through Historical Context
 url: "https://www.numberanalytics.com/blog/evolution-development-theories-historical-context"
 type: source
 related_article: "development-economics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:enlightenment-(historical-period)", "topic:industrialization", "topic:capitalism", "topic:colonialism", "topic:modernization-theory", "topic:dependency-theory", "topic:sustainable-development", "topic:structural-adjustment-programs", "topic:post-colonial-studies", "topic:feminist-economics", "topic:development-economics"]
 people: ["person:adam-smith-(economist)", "person:thomas-malthus-(economist)", "person:karl-marx-(economist)", "person:friedrich-engels-(political-philosopher)"]
 orgs: ["org:bretton-woods-institutions-(imf-and-world-bank)", "org:brundtland-commission-(our-common-future-report)"]

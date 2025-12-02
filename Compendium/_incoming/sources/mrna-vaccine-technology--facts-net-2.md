@@ -5,7 +5,7 @@ title: "Source: 28 Facts About MRNA Technology"
 url: "https://facts.net/fitness-and-wellbeing/medicine/28-facts-about-mrna-technology/"
 type: source
 related_article: "mrna-vaccine-technology"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:mrna-vaccine", "topic:mrna-vaccine-technology", "topic:mrna-technology", "topic:crispr-technology", "topic:cancer", "topic:genetic-disorders", "topic:personalized-medicine", "topic:influenza", "topic:zika", "topic:autoimmune-diseases", "topic:gene-editing", "topic:mrna-vaccine-technology"]
 people: ["person:cyndie-flournoy"]
 summary: "Summarized source material for mRNA Vaccine Technology"

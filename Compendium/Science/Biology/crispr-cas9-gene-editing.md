@@ -1,7 +1,7 @@
 ---
 id: 01KBC8J6QXEMAB9HYNYRWNQBV7
 slug: "crispr-cas9-gene-editing"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:crispr", "topic:genome-editing", "topic:biotechnology", "topic:ethics", "topic:gene-therapy", "topic:base-editing", "topic:prime-editing", "topic:epigenetic-editing", "topic:germline-modification", "topic:p53-activation", "topic:aav-crispr-systems", "topic:car-t-cells", "topic:casgevy", "topic:biology", "topic:crispr-cas9-gene-editing"]
 people: ["person:jennifer-doudna", "person:emmanuelle-charpentier", "person:feng-zhang", "person:george-church", "person:peng-liang", "person:he-jiankui"]
 model: "qwen3:32b"

@@ -1,7 +1,7 @@
 ---
 id: 01KBCV5AD21YSDPCD4RAESZ2PJ
 slug: "the-abbasid-caliphate"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:islamic-golden-age", "topic:mongol-invasion", "topic:jizya-(tax)", "topic:world-history", "topic:the-abbasid-caliphate"]
 people: ["person:al-mansur-(abbasid-caliph)", "person:harun-al-rashid-(abbasid-caliph)", "person:al-musta’sim-(last-abbasid-caliph)", "person:muhammad-al-khwarizmi", "person:al-razi-(physician)", "person:ibn-sina-(avicenna)", "person:ibn-al-haytham-(alhazen)", "person:jabir-ibn-hayyan"]
 orgs: ["org:abbasid-caliphate", "org:house-of-wisdom"]

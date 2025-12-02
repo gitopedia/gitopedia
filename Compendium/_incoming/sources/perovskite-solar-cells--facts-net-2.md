@@ -5,7 +5,7 @@ title: "Source: 34 Facts About Perovskite Solar Cells"
 url: "https://facts.net/science/technology/34-facts-about-perovskite-solar-cells/"
 type: source
 related_article: "perovskite-solar-cells"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:perovskite-solar-cells", "topic:renewable-energy", "topic:perovskite-solar-cells"]
 people: ["person:sharl-solorzano"]
 orgs: ["org:figma-inc."]

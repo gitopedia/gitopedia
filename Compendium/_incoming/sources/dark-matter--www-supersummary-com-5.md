@@ -5,7 +5,7 @@ title: "Source: Dark Matter Summary and Study Guide | SuperSummary"
 url: "https://www.supersummary.com/dark-matter/summary/"
 type: source
 related_article: "dark-matter"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:science-fiction-thriller", "topic:dark-matter"]
 people: ["person:blake-crouch", "person:jason-dessen-(college-professor-and-physicist)", "person:daniela-vargas-(artist)", "person:ryan-holder-(scientist)", "person:leighton-vance-(doctor)", "person:amanda-lucas-(therapist)", "person:joel-edgerton-(actor)", "person:jennifer-connelly-(actress)", "person:m.-night-shyamalan-(film-director)"]
 places: ["place:chicago-(illinois)", "place:ice-river-(wisconsin)"]

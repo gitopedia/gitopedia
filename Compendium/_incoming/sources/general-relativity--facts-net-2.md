@@ -5,7 +5,7 @@ title: "Source: 13 Extraordinary Facts About General Relativity"
 url: "https://facts.net/science/physics/13-extraordinary-facts-about-general-relativity/"
 type: source
 related_article: "general-relativity"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:general-relativity", "topic:black-holes", "topic:gravitational-waves", "topic:spacetime-curvature", "topic:quantum-mechanics", "topic:gps-systems", "topic:gravitational-lensing", "topic:time-dilation", "topic:galaxy-formation", "topic:cosmology", "topic:astrophysics", "topic:general-relativity"]
 people: ["person:albert-einstein", "person:tamqrah-hom-(author)", "person:jessica-corbett-(reviewer)"]
 summary: "Summarized source material for General Relativity"

@@ -5,7 +5,7 @@ title: "Source: Decentralized application - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Decentralized_application"
 type: source
 related_article: "decentralized-applications-(dapps)"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:decentralized-application", "topic:decentralized-finance-(defi)", "topic:smart-contract", "topic:blockchain", "topic:proof-of-work-(pow)", "topic:proof-of-stake-(pos)", "topic:gas-fee", "topic:initial-coin-offering-(ico)", "topic:non-fungible-token-(nft)", "topic:decentralized-autonomous-organization-(dao)", "topic:distributed-ledger-technology-(dlt)", "topic:cryptokitties", "topic:2023-united-states-banking-crisis", "topic:trial-of-sam-bankman-fried", "topic:bitcoin", "topic:libra-(cryptocurrency)", "topic:basic-attention-token", "topic:cryptocurrency-bubble", "topic:initial-exchange-offering-(ieo)", "topic:voiceverse-nft-plagiarism-scandal", "topic:distributed-computing", "topic:decentralized-applications-(dapps)"]
 people: ["person:sam-bankman-fried"]
 summary: "Summarized source material for Decentralized Applications (dApps)"

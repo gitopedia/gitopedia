@@ -5,7 +5,7 @@ title: "Source: A Timeline of the British Empire - High Speed History"
 url: "https://highspeedhistory.com/2024/09/03/a-timeline-of-the-british-empire/"
 type: source
 related_article: "the-british-empire's-global-influence"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:british-empire", "topic:decolonization", "topic:world-war-i", "topic:world-war-ii", "topic:boer-war", "topic:mau-mau-uprising", "topic:english-language", "topic:cricket", "topic:rugby", "topic:common-law", "topic:parliamentary-system", "topic:balfour-declaration", "topic:morley-minto-reforms", "topic:government-of-ireland-act", "topic:linguistic-legacy", "topic:economic-influence", "topic:lingua-franca", "topic:colonialism", "topic:human-rights-abuses", "topic:the-british-empire's-global-influence"]
 people: ["person:john-cabot", "person:sir-francis-drake", "person:henry-vii", "person:queen-elizabeth-i", "person:queen-victoria", "person:mahatma-gandhi", "person:jawaharlal-nehru"]
 places: ["place:india", "place:pakistan", "place:ghana", "place:kenya", "place:algeria", "place:jamaica", "place:trinidad-and-tobago", "place:barbados", "place:new-zealand"]

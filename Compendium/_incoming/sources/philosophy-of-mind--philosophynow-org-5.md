@@ -5,7 +5,7 @@ title: "Source: Philosophy of Mind: An Overview | Issue 87 | Philosophy Now"
 url: "https://philosophynow.org/issues/87/Philosophy_of_Mind_An_Overview"
 type: source
 related_article: "philosophy-of-mind"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:philosophy-of-mind"]
 summary: "Summarized source material for Philosophy of Mind"
 model: "code-prefilter"

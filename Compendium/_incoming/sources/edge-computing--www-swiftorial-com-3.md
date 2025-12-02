@@ -5,7 +5,7 @@ title: "Source: History Of Edge Computing | Introduction To Edge Computing | Edg
 url: "https://www.swiftorial.com/tutorials/cloud_computing/edge_computing/introduction_to_edge_computing/history_of_edge_computing/"
 type: source
 related_article: "edge-computing"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:edge-computing", "topic:artificial-intelligence", "topic:natural-language-processing", "topic:5g", "topic:internet-of-things-(iot)", "topic:edge-computing"]
 orgs: ["org:kubernetes", "org:docker", "org:prometheus", "org:grafana", "org:elasticsearch", "org:logstash", "org:kibana", "org:aws-greengrass", "org:azure-iot-edge", "org:google-cloud-iot-edge"]
 summary: "Summarized source material for Edge Computing"

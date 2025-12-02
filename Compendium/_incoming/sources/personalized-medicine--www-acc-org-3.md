@@ -5,7 +5,7 @@ title: "Source: Harold on History | The Evolution of Personalized Medicine"
 url: "https://www.acc.org/latest-in-cardiology/articles/2018/10/14/12/42/harold-on-history-the-evolution-of-personalized-medicine"
 type: source
 related_article: "personalized-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:personalized-medicine", "topic:precision-medicine", "topic:genomics", "topic:pharmacogenomics", "topic:human-genome-project", "topic:molecular-medicine", "topic:crispr-(clustered-regularly-interspaced-short-palindromic-repeats)", "topic:cardiovascular-disease", "topic:genetic-mutations", "topic:abo-blood-group-system", "topic:alkaptonuria", "topic:epigenome", "topic:metabolome", "topic:transcriptome", "topic:proteome", "topic:genome-wide-association-study-(gwas)", "topic:artificial-intelligence", "topic:wearables", "topic:patient-participation", "topic:drug-discovery", "topic:neoplasms", "topic:microbiota", "topic:lifestyle", "topic:molecular-imaging", "topic:blood-transfusion", "topic:hyperlipidemias", "topic:cardiomyopathies", "topic:thrombosis", "topic:diabetes-mellitus", "topic:heart-diseases", "topic:biomarkers", "topic:stents", "topic:personalized-medicine"]
 people: ["person:steve-jobs", "person:karl-landsteiner", "person:sir-archibald-garrod", "person:friedrich-miescher", "person:phoebus-levene", "person:erwin-chargaff", "person:james-d.-crick", "person:frederick-sanger", "person:barack-obama"]
 places: ["place:university-of-vienna"]

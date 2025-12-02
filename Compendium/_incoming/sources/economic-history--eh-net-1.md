@@ -5,7 +5,7 @@ title: "Source: Encyclopedia - EH.net - Economic History Association"
 url: "https://eh.net/encyclopedia-2/"
 type: source
 related_article: "economic-history"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:economic-history"]
 people: ["person:robert-whaples", "person:michael-haupert", "person:jeremy-land", "person:taylor-land"]
 summary: "Summarized source material for economic history"

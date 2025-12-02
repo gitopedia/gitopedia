@@ -5,7 +5,7 @@ title: "Source: CRISPR-Cas9: A History of Its Discovery and Ethical Consideratio
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9377665/"
 type: source
 related_article: "crispr-cas9-gene-editing"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:crispr-cas9-gene-editing"]
 summary: "Summarized source material for CRISPR-Cas9 Gene Editing"
 model: "code-prefilter"

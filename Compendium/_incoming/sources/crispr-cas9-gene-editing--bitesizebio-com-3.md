@@ -5,7 +5,7 @@ title: "Source: A Brief History of CRISPR-Cas9 Genome-Editing Tools"
 url: "https://bitesizebio.com/47927/history-crispr/"
 type: source
 related_article: "crispr-cas9-gene-editing"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:crispr-cas9-gene-editing"]
 summary: "Summarized source material for CRISPR-Cas9 Gene Editing"
 model: "code-prefilter"

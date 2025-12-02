@@ -5,7 +5,7 @@ title: "Source: History of Perovskites and Perovskite Solar Cells - Ossila"
 url: "https://www.ossila.com/pages/history-and-evolution-of-perovskites"
 type: source
 related_article: "perovskite-solar-cells"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:perovskite-solar-cells"]
 summary: "Summarized source material for Perovskite Solar Cells"
 model: "code-prefilter"

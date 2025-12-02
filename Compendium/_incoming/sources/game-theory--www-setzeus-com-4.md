@@ -5,7 +5,7 @@ title: "Source: Game Theory — History & Overview - Setzeus"
 url: "https://www.setzeus.com/community-blog-posts/game-theory-history-overview"
 type: source
 related_article: "game-theory"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:game-theory", "topic:minimax-theorem", "topic:prisoner's-dilemma", "topic:theory-of-games-and-economic-behavior", "topic:game-theory"]
 people: ["person:john-von-neumann", "person:john-nash", "person:oskar-morgenstern"]
 orgs: ["org:princeton-university-press"]

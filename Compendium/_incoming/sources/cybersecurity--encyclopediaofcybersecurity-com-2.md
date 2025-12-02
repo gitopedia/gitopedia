@@ -5,7 +5,7 @@ title: "Source: Encyclopedia of Cybersecurity"
 url: "https://encyclopediaofcybersecurity.com/index.php/Main_Page"
 type: source
 related_article: "cybersecurity"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cybersecurity-best-practices", "topic:cybersecurity"]
 orgs: ["org:encyclopedia-of-cybersecurity"]
 summary: "Summarized source material for Cybersecurity"

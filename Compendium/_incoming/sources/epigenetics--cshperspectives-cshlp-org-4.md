@@ -5,7 +5,7 @@ title: "Source: A Brief History of Epigenetics - CSHL P"
 url: "https://cshperspectives.cshlp.org/content/6/1/a018200.full"
 type: source
 related_article: "epigenetics"
-created: 2025-11-29
+created: 2025-11-29T00:00:00Z
 tags: ["Source"]
 summary: "Summarized source material for Epigenetics"
 model: "code-prefilter"

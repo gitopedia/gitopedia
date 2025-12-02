@@ -5,7 +5,7 @@ title: "Source: Byzantine Empire - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Byzantine_Empire"
 type: source
 related_article: "the-rise-and-fall-of-the-byzantine-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:the-rise-and-fall-of-the-byzantine-empire"]
 summary: "Summarized source material for The Rise and Fall of the Byzantine Empire"
 model: "code-prefilter"

@@ -5,7 +5,7 @@ title: "Source: Smart grids - IEA"
 url: "https://www.iea.org/energy-system/electricity/smart-grids"
 type: source
 related_article: "smart-grid-technologies"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:smart-grid-technologies"]
 summary: "Summarized source material for Smart Grid Technologies"
 model: "code-prefilter"

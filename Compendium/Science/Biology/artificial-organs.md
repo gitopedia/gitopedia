@@ -1,7 +1,7 @@
 ---
 id: 01KBCWRM86CNQX5SC34V44F8M8
 slug: "artificial-organs"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:artificial-organs", "topic:biomedical-engineering", "topic:regenerative-medicine", "topic:medical-technology", "topic:organoid-technology", "topic:3d-bioprinting", "topic:bioartificial-organs", "topic:ethical-considerations", "topic:nanotechnology", "topic:crispr", "topic:medical-science", "topic:artificial-organs"]
 people: ["person:willem-kolff"]
 model: "qwen3:32b"

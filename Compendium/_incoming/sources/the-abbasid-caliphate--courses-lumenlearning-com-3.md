@@ -5,7 +5,7 @@ title: "Source: The Abbasid Empire | World History - Lumen Learning"
 url: "https://courses.lumenlearning.com/suny-worldhistory/chapter/the-abbasid-empire/"
 type: source
 related_article: "the-abbasid-caliphate"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:golden-age-of-islam", "topic:mawali-(non-arab-muslims)", "topic:vizier", "topic:emir", "topic:shi'a-islam", "topic:sunni-islam", "topic:decline-of-the-abbasid-empire", "topic:the-abbasid-caliphate"]
 people: ["person:abbas-ibn-abd-al-muttalib", "person:muhammad-ibn-'ali", "person:al-mansur", "person:abu-al-'abbas", "person:mahmud-of-ghazni"]
 orgs: ["org:abbasid-caliphate", "org:umayyad-dynasty", "org:fatimid-dynasty", "org:buyid-emirs", "org:seljuq-turks", "org:ottoman-empire"]

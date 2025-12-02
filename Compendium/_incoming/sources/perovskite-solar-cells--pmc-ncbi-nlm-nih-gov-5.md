@@ -5,7 +5,7 @@ title: "Source: A comprehensive review on the advancements and challenges in per
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10851055/"
 type: source
 related_article: "perovskite-solar-cells"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:perovskite-solar-cells"]
 summary: "Summarized source material for Perovskite Solar Cells"
 model: "code-prefilter"

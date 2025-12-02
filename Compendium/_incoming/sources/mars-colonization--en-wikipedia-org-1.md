@@ -5,7 +5,7 @@ title: "Source: Colonization of Mars - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Colonization_of_Mars"
 type: source
 related_article: "mars-colonization"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mars-colonization"]
 summary: "Summarized source material for Mars Colonization"
 model: "code-prefilter"

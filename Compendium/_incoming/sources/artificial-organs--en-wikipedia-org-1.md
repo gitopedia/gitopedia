@@ -5,7 +5,7 @@ title: "Source: Artificial organ - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Artificial_organ"
 type: source
 related_article: "artificial-organs"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:artificial-organs"]
 summary: "Summarized source material for Artificial Organs"
 model: "code-prefilter"

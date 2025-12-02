@@ -5,7 +5,7 @@ title: "Source: Fall of the Western Roman Empire - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
 type: source
 related_article: "the-fall-of-the-roman-empire"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:the-fall-of-the-roman-empire"]
 summary: "Summarized source material for The Fall of the Roman Empire"
 model: "code-prefilter"

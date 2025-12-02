@@ -5,7 +5,7 @@ title: "Source: History of Dark Matter: A Journey Through Time"
 url: "https://astronomyexplained.com/history-of-dark-matter-a-journey-through-time/"
 type: source
 related_article: "dark-matter"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:dark-matter", "topic:dark-energy", "topic:gravitational-lensing", "topic:galaxy-rotation-curves", "topic:machos-(massive-astrophysical-compact-halo-objects)", "topic:wimps-(weakly-interacting-massive-particles)", "topic:axions", "topic:sterile-neutrinos", "topic:primordial-black-holes", "topic:dark-matter"]
 people: ["person:carl-sagan", "person:fritz-zwicky", "person:vera-rubin", "person:andrzej-drukier", "person:leo-stodolsky"]
 places: ["place:coma-cluster", "place:andromeda-galaxy", "place:homestake-mine"]

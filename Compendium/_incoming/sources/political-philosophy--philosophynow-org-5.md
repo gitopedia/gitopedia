@@ -5,7 +5,7 @@ title: "Source: A Ridiculously Brief Overview of Political Philosophy"
 url: "https://philosophynow.org/issues/46/A_Ridiculously_Brief_Overview_of_Political_Philosophy"
 type: source
 related_article: "political-philosophy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:political-philosophy", "topic:state-of-nature", "topic:democracy", "topic:liberalism", "topic:communitarianism", "topic:egalitarianism", "topic:libertarianism", "topic:capitalism", "topic:social-justice", "topic:critical-theory", "topic:spiritual-anarchism", "topic:hospitality", "topic:patriotism", "topic:authority", "topic:justice", "topic:minimal-state", "topic:redistribution-of-wealth", "topic:self-ownership", "topic:political-philosophy"]
 people: ["person:aristotle-(philosopher)", "person:confucius-(philosopher)", "person:plato-(philosopher)", "person:niccolo-machiavelli-(philosopher)", "person:laozi-(philosopher)", "person:jean-jacques-rousseau-(philosopher)", "person:john-locke-(philosopher)", "person:thomas-hobbes-(philosopher)", "person:alexis-de-tocqueville-(philosopher)", "person:john-stuart-mill-(philosopher)", "person:john-rawls-(philosopher)", "person:robert-nozick-(philosopher)", "person:karl-marx-(philosopher)", "person:max-horkheimer-(philosopher)", "person:theodor-adorno-(philosopher)", "person:herbert-marcuse-(philosopher)", "person:jürgen-habermas-(philosopher)", "person:noam-chomsky-(philosopher)", "person:richard-rorty-(philosopher)", "person:alexander-kojève-(philosopher)", "person:martin-buber-(philosopher)", "person:leo-tolstoy-(author)", "person:mary-wollstonecraft-(philosopher)", "person:francis-fukuyama-(political-scientist)"]
 orgs: ["org:philosophy-and-public-affairs-(journal)", "org:frankfurt-school-(academic-group)"]

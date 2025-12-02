@@ -5,7 +5,7 @@ title: "Source: British Empire - New World Encyclopedia"
 url: "https://www.newworldencyclopedia.org/entry/British_Empire"
 type: source
 related_article: "the-british-empire's-global-influence"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:the-british-empire's-global-influence"]
 summary: "Summarized source material for The British Empire's Global Influence"
 model: "code-prefilter"

@@ -5,7 +5,7 @@ title: "Source: 10 Facts About the Fall of the Roman Empire - History Hit"
 url: "https://www.historyhit.com/facts-about-the-fall-of-the-roman-empire/"
 type: source
 related_article: "the-fall-of-the-roman-empire"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:fall-of-the-roman-empire", "topic:migration-period", "topic:battle-of-adrianople", "topic:sack-of-rome", "topic:crossing-of-the-rhine-(405/6-ad)", "topic:439-ad-vandal-capture-of-carthage", "topic:year-of-the-four-emperors", "topic:the-fall-of-the-roman-empire"]
 people: ["person:romulus-augustulus-(western-roman-emperor)", "person:odoacer-(first-king-of-italy)", "person:emperor-valens", "person:alaric-(visigothic-leader)", "person:libius-severus", "person:julius-nepos-(western-roman-emperor)", "person:charlemagne-(holy-roman-emperor)", "person:st-augustine-(african-roman)", "person:leo-i-(eastern-roman-emperor)", "person:pope-leo-iii"]
 orgs: ["org:western-roman-empire", "org:eastern-roman-empire-(byzantine-empire)", "org:holy-roman-empire"]

@@ -5,7 +5,7 @@ title: "Source: A brief overview of edge computing - BCS"
 url: "https://www.bcs.org/articles-opinion-and-research/a-brief-overview-of-edge-computing/"
 type: source
 related_article: "edge-computing"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:edge-computing", "topic:artificial-intelligence", "topic:5g", "topic:6g", "topic:internet-of-things-(iot)", "topic:metaverse", "topic:security-/-data-/-privacy", "topic:edge-computing"]
 people: ["person:antonia-basca", "person:fragkiskos-sardis"]
 orgs: ["org:kpmg", "org:bcs-(the-chartered-institute-for-it)"]

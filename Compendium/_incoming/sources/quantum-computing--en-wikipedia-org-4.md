@@ -5,7 +5,7 @@ title: "Source: Timeline of quantum computing and communication - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication"
 type: source
 related_article: "quantum-computing"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:quantum-computing"]
 summary: "Summarized source material for Quantum Computing"
 model: "code-prefilter"

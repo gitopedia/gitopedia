@@ -5,7 +5,7 @@ title: "Source: mRNA vaccines: Past, present, future - PMC"
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9459002/"
 type: source
 related_article: "mrna-vaccine-technology"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:mrna-vaccine-technology"]
 summary: "Summarized source material for mRNA Vaccine Technology"
 model: "code-prefilter"

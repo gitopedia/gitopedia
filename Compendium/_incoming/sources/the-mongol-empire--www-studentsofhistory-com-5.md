@@ -5,7 +5,7 @@ title: "Source: The Mongol Empire - Students of History"
 url: "https://www.studentsofhistory.com/the-mongol-empire"
 type: source
 related_article: "the-mongol-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:the-mongol-empire"]
 summary: "Summarized source material for The Mongol Empire"
 model: "code-prefilter"

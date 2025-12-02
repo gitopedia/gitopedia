@@ -5,7 +5,7 @@ title: "Source: What is Environmental Economics? - The Institute for Environment
 url: "https://iere.org/what-is-environmental-economics/"
 type: source
 related_article: "environmental-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:environmental-economics", "topic:ecological-economics", "topic:sustainable-development", "topic:cost-benefit-analysis", "topic:externalities", "topic:climate-change", "topic:environmental-policy", "topic:environmental-economics"]
 summary: "Summarized source material for Environmental Economics"
 model: "code-prefilter"

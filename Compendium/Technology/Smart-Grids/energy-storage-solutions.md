@@ -1,7 +1,7 @@
 ---
 id: 01KBD1XEQM4ZWW61KCF5Z2ZT04
 slug: "energy-storage-solutions"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:energy-storage-systems", "topic:renewable-energy-integration", "topic:grid-stability", "topic:lithium-ion-batteries", "topic:sustainability", "topic:pumped-hydro-storage", "topic:long-duration-energy-storage", "topic:hydrogen-based-solutions", "topic:decarbonization", "topic:microgrids", "topic:solar-plus-storage", "topic:second-life-ev-batteries", "topic:material-recycling", "topic:ai-driven-grid-management", "topic:sustainable-energy", "topic:energy-storage-solutions"]
 places: ["place:california", "place:south-australia", "place:puerto-rico", "place:new-york", "place:ontario", "place:china"]
 model: "qwen3:32b"

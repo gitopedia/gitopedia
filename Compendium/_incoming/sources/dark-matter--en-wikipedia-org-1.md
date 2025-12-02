@@ -5,7 +5,7 @@ title: "Source: Dark matter - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Dark_matter"
 type: source
 related_article: "dark-matter"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:dark-matter"]
 summary: "Summarized source material for Dark Matter"
 model: "code-prefilter"

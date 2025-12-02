@@ -5,7 +5,7 @@ title: "Source: Quantum Field Theory: Theoretical Foundations"
 url: "https://freescience.info/quantum-field-theory-theoretical-foundations/"
 type: source
 related_article: "quantum-field-theory"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:quantum-field-theory"]
 summary: "Summarized source material for Quantum Field Theory"
 model: "code-prefilter"

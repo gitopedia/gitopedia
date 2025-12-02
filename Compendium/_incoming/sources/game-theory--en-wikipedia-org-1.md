@@ -5,7 +5,7 @@ title: "Source: Game theory - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Game_theory"
 type: source
 related_article: "game-theory"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:game-theory"]
 summary: "Summarized source material for Game Theory"
 model: "code-prefilter"

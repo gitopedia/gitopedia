@@ -5,7 +5,7 @@ title: "Source: A brief history of dark matter - The Dark Universe"
 url: "https://www.cambridge.org/core/books/abs/dark-universe/brief-history-of-dark-matter/FFCCF9B8535A2787E5AA665BF10B3F5E"
 type: source
 related_article: "dark-matter"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:dark-matter", "topic:dark-energy", "topic:modified-newtonian-dynamics-(mond)", "topic:cosmological-parameters", "topic:quintessence", "topic:gravitational-waves", "topic:cosmological-constant-problem", "topic:baryon-density", "topic:structure-growth", "topic:supernova", "topic:dark-matter"]
 people: ["person:vera-c.-rubin", "person:mario-livio", "person:sidney-van-den-bergh", "person:fritz-zwicky"]
 places: ["place:magellanic-clouds", "place:milky-way", "place:baltimore"]

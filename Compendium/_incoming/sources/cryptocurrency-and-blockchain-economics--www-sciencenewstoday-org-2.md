@@ -5,7 +5,7 @@ title: "Source: What Is Cryptocurrency? Understanding Blockchain, Bitcoin, and t
 url: "https://www.sciencenewstoday.org/what-is-cryptocurrency-understanding-blockchain-bitcoin-and-the-future-of-money"
 type: source
 related_article: "cryptocurrency-and-blockchain-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:cryptocurrency-and-blockchain-economics"]
 summary: "Summarized source material for Cryptocurrency and Blockchain Economics"
 model: "code-prefilter"

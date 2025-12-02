@@ -1,7 +1,7 @@
 ---
 id: 01KBCK89A40SZVSTDF1HC8VBCB
 slug: "epistemology"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:epistemology", "topic:philosophy", "topic:knowledge-theory", "topic:rationalism", "topic:empiricism", "topic:a-priori-knowledge", "topic:a-posteriori-knowledge", "topic:analytic-propositions", "topic:synthetic-propositions", "topic:intuitionism", "topic:contextualism", "topic:bayesian-epistemology", "topic:epistemic-injustice", "topic:gettier-problem", "topic:falsifiability", "topic:scientific-method", "topic:artificial-intelligence", "topic:legal-reasoning", "topic:ethical-theories", "topic:constructivism", "topic:critical-thinking", "topic:cognitive-science", "topic:social-justice-theory", "topic:epistemology"]
 people: ["person:plato", "person:aristotle", "person:rené-descartes", "person:gottfried-leibniz", "person:john-locke", "person:david-hume", "person:immanuel-kant", "person:ludwig-wittgenstein", "person:karl-popper", "person:michael-huemer", "person:miranda-fricker", "person:edmund-gettier"]
 model: "qwen3:32b"

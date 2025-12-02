@@ -5,7 +5,7 @@ title: "Source: The Mind/Brain Identity Theory - Stanford Encyclopedia of Philos
 url: "https://plato.stanford.edu/entries/mind-identity/"
 type: source
 related_article: "philosophy-of-mind"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:philosophy-of-mind"]
 summary: "Summarized source material for Philosophy of Mind"
 model: "code-prefilter"

@@ -2,7 +2,7 @@
 id: 01KB9DR49GZ8HSQ5SVHQN7G6Y0
 title: "mRNA Vaccine Technology"
 slug: "mrna-vaccine-technology"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:", "topic:medical-science", "topic:mrna-vaccine-technology"]
 orgs: ["org:", "org:", "org:", "org:", "org:", "org:", "org:", "org:", "org:"]
 summary: ""

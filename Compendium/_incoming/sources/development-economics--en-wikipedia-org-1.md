@@ -5,7 +5,7 @@ title: "Source: Development economics - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Development_economics"
 type: source
 related_article: "development-economics"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:development-economics"]
 summary: "Summarized source material for Development Economics"
 model: "code-prefilter"

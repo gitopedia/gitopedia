@@ -5,7 +5,7 @@ title: "Source: Quantum Entanglement and Computing Explained Simply"
 url: "https://www.sciencenewstoday.org/quantum-entanglement-and-computing-explained-simply"
 type: source
 related_article: "quantum-entanglement"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:quantum-entanglement"]
 people: ["person:einstein", "person:juan-maldacena", "person:leonard-susskind"]
 summary: "Summarized source material for Quantum Entanglement"

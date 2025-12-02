@@ -5,7 +5,7 @@ title: "Source: A Short History of Quantum Entanglement - Galileo Unbound"
 url: "https://galileo-unbound.blog/2022/11/26/a-short-history-of-quantum-entanglement/"
 type: source
 related_article: "quantum-entanglement"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:quantum-entanglement"]
 summary: "Summarized source material for Quantum Entanglement"
 model: "code-prefilter"

@@ -1,7 +1,7 @@
 ---
 id: 01KBDWDRYZKX7MSSWHDC6VAY34
 slug: "environmental-economics"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:environmental-economics", "topic:sustainable-development", "topic:market-failure", "topic:externalities", "topic:cost-benefit-analysis", "topic:kyoto-protocol", "topic:sustainable-development-goals-(sdgs)", "topic:climate-change", "topic:paris-agreement", "topic:economics", "topic:environmental-economics"]
 people: ["person:a.c.-pigou-(economist)"]
 orgs: ["org:united-nations-environment-programme-(unep)", "org:european-union-emissions-trading-system-(eu-ets)"]

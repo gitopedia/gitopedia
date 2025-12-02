@@ -1,7 +1,7 @@
 ---
 id: 01KBC2ZPHYZR92DZKY513B7AEH
 slug: "personalized-medicine"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:medical-science", "topic:personalized-medicine"]
 model: "qwen3:32b"
 

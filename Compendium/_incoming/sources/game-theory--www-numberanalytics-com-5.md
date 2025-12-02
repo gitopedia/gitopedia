@@ -5,7 +5,7 @@ title: "Source: The Ultimate Guide to Core Concepts in Game Theory"
 url: "https://www.numberanalytics.com/blog/ultimate-core-guide-game-theory"
 type: source
 related_article: "game-theory"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:behavioral-economics", "topic:algorithmic-game-theory", "topic:evolutionary-game-theory", "topic:experimental-economics", "topic:neuroeconomics", "topic:game-theory"]
 people: ["person:john-von-neumann", "person:oskar-morgenstern", "person:avinash-k.-dixit", "person:barry-j.-nalebuff", "person:steven-tadelis"]
 summary: "Summarized source material for Game Theory"

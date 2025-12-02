@@ -5,7 +5,7 @@ title: "Source: Analysis of advancing paradigms of smart grid innovations, appli
 url: "https://link.springer.com/article/10.1007/s42452-025-07905-2"
 type: source
 related_article: "smart-grid-technologies"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:smart-grid-technologies"]
 summary: "Summarized source material for Smart Grid Technologies"
 model: "code-prefilter"

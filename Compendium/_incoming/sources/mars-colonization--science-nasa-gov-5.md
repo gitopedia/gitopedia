@@ -5,7 +5,7 @@ title: "Source: Mars Exploration - NASA Science"
 url: "https://science.nasa.gov/planetary-science/programs/mars-exploration/"
 type: source
 related_article: "mars-colonization"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:mars-colonization"]
 summary: "Summarized source material for Mars Colonization"
 model: "code-prefilter"

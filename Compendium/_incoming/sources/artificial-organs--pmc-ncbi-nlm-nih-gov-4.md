@@ -5,7 +5,7 @@ title: "Source: Father of Artificial Organs ‐ The story of medical pioneer Wil
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8518394/"
 type: source
 related_article: "artificial-organs"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:artificial-organs"]
 summary: "Summarized source material for Artificial Organs"
 model: "code-prefilter"

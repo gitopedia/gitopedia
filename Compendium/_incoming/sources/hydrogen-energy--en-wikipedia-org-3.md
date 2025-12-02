@@ -5,7 +5,7 @@ title: "Source: Timeline of hydrogen technologies - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Timeline_of_hydrogen_technologies"
 type: source
 related_article: "hydrogen-energy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:hydrogen-energy"]
 summary: "Summarized source material for Hydrogen Energy"
 model: "code-prefilter"

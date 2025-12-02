@@ -5,7 +5,7 @@ title: "Source: A History of Perovskite Solar Cells - BCC Research"
 url: "https://blog.bccresearch.com/a-history-of-perovskite-solar-cells"
 type: source
 related_article: "perovskite-solar-cells"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:perovskite-solar-cells"]
 summary: "Summarized source material for Perovskite Solar Cells"
 model: "code-prefilter"

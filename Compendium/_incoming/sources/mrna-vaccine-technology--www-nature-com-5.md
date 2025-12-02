@@ -5,7 +5,7 @@ title: "Source: mRNA vaccines for infectious diseases — advances, challenges a
 url: "https://www.nature.com/articles/s41573-024-01042-y"
 type: source
 related_article: "mrna-vaccine-technology"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:mrna-vaccine-technology"]
 summary: "Summarized source material for mRNA Vaccine Technology"
 model: "code-prefilter"

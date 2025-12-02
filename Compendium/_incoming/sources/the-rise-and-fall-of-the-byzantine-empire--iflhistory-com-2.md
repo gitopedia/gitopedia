@@ -5,7 +5,7 @@ title: "Source: The Rise and Fall of the Byzantine Empire - IFL History"
 url: "https://iflhistory.com/the-rise-and-fall-of-the-byzantine-empire/"
 type: source
 related_article: "the-rise-and-fall-of-the-byzantine-empire"
-created: 2025-12-01
+created: 2025-12-01T00:00:00Z
 tags: ["topic:the-rise-and-fall-of-the-byzantine-empire"]
 summary: "Summarized source material for The Rise and Fall of the Byzantine Empire"
 model: "code-prefilter"

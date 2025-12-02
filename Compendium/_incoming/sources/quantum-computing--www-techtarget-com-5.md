@@ -5,7 +5,7 @@ title: "Source: What is quantum computing? How it works and examples"
 url: "https://www.techtarget.com/whatis/definition/quantum-computing"
 type: source
 related_article: "quantum-computing"
-created: 2025-11-30
+created: 2025-11-30T00:00:00Z
 tags: ["topic:quantum-computing"]
 summary: "Summarized source material for Quantum Computing"
 model: "code-prefilter"

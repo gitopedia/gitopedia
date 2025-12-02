@@ -5,7 +5,7 @@ title: "Source: Philosophy of mind - Wikipedia"
 url: "https://en.wikipedia.org/wiki/Philosophy_of_mind"
 type: source
 related_article: "philosophy-of-mind"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:philosophy-of-mind"]
 people: ["person:", "person:"]
 places: ["place:", "place:", "place:"]

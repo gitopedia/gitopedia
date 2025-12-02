@@ -5,7 +5,7 @@ title: "Source: The Historical Foundations of Political Theory • PolSci Instit
 url: "https://polsci.institute/political-theory/historical-foundations-of-political-theory/"
 type: source
 related_article: "political-philosophy"
-created: 2025-12-02
+created: 2025-12-02T00:00:00Z
 tags: ["topic:political-philosophy"]
 summary: "Summarized source material for Political Philosophy"
 model: "code-prefilter"
