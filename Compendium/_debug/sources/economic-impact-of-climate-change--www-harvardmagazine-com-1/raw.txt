@@ -1,0 +1,131 @@
+Harvard in the Crosshairs
+
+The Magazine Current Issue Past Issues
+
+Classifieds Vacation Rentals & Travel Real Estate Personals Products & Services Harvard Authors’ Bookshelf Education & Enrichment Resource
+
+Vacation Rentals & Travel
+
+Harvard Authors’ Bookshelf
+
+Education & Enrichment Resource
+
+Class Notes & Obituaries Browse Class Notes Browse Obituaries
+
+Series Commencement Five Questions Harvard in the Headlines New England Guide
+
+Harvard in the Headlines
+
+Topics Arts & Culture Athletics Commentary Faculty Health & Medicine Humanities International Affairs Science Social Sciences Students Technology University News
+
+International Affairs
+
+Advertise How to Advertise Classifieds Ad Prices & Information
+
+Classifieds Ad Prices & Information
+
+Follow Harvard Magazine:
+
+Your independent source for Harvard news since 1898
+
+Faculty | August 6, 2024
+
+What is the Economic Impact of Climate Change on Global GDP?
+
+What is the Economic Impact of Climate Change on Global GDP?
+
+The impact on global GDP is likely six times greater than previously estimated.
+
+From The September-October 2024 Issue
+
+Illustration by Eva Vázquez
+
+Economists, including the late research professor of economics Martin Weitzman and William Nordhaus of Yale, began in the 1990s to consider the potential economic effects of climate change. By their rough estimates and a large body of subsequent work, each 1-degree Celsius rise in world temperature would reduce world gross domestic product (GDP) by 1 to 3 percent.
+
+But for assistant professor of economics Adrien Bilal and his collaborator, Diego Kanzig of Northwestern University, these estimates were at odds with the dire warnings from climate scientists who predict that climate change will “profoundly affect our lives and livelihoods,” Bilal explains. “We were puzzled by that disconnect.”
+
+Economic Impact Estimates
+
+Estimating the economic damages of climate change is critical; it allows policymakers to prepare for shifts in the economy and to make informed choices about efforts to reduce carbon emissions, Bilal says. “If climate damages are low, standard cost-benefit analysis will conclude that expensive decarbonization policies are not worthwhile,” he says. Yet if climate damages are high, such analysis will recommend bigger efforts to reduce carbon, he adds. Modeling the economic impact of climate change can also guide decisions about the resources society might invest to adapt to these changes, with greater investment in sea walls or air conditioning, for example.
+
+Bilal and Kanzig take a fundamentally different approach to modeling the economic impacts of global climate change than their predecessors. They argue in a recent working paper that the economic damages of climate change are likely six times worse than previously estimated. A 1-degree Celsius rise in global temperature, they say, would lead to a 12 percent decline in world GDP.
+
+Subscribe to our Friday email: This Week
+
+Join thousands of Harvard Magazine readers getting the top Harvard stories in their inbox every Friday.
+
+What accounts for this dramatic difference? Bilal explains that most previous analyses were based soley on local temperature changes and the corresponding impact on local GDP. “If it’s a little hotter in Germany than in France this year, how does Germany’s GDP change?” he offers, as an example. But climate change involves a planet-wide rise in temperatures, which also generates more dramatic weather patterns than regional temperature fluctuations do. Global temperature increases warm the oceans, affecting evaporation, precipitation, and wind speeds. These conditions have led to more extreme and disruptive weather patterns, such as tropical storms and heat waves, Bilal says, “which are more costly to the economy.”
+
+To model these effects, the researchers created a data set featuring 173 countries during the last 120 years, including land and ocean surface air temperature as well as economic data for each of the countries. They also examined the impact of temporary “temperature shocks” that affected the planet as whole: events such as the El Niño weather pattern, which traps warmer air in tropical areas of the Pacific Ocean, and volcanic eruptions. “When the volcano erupts, it blows sulfur dioxide into the atmosphere that blocks incoming sunlight,” Bilal says, cooling the Earth for up to two years. The economists then analyzed how the ensuing temperature shocks corresponded to income changes.
+
+Bilal says he was surprised by how much more global temperature rise damaged GDP around the world, in contrast with local temperature shifts. “The effects are more uniformly detrimental,” he says. “It’s bad for almost everyone.” And when the researchers added in the possibility of a moderate 2 degrees of warming before the end of the century, this led to a decline in future GDP of between 30 and 50 percent by 2100, relative to the predicted baseline, Bilal says.
+
+Projected Climate-Caused GDP Decline
+
+In the U.S. alone, current GDP is roughly $25 trillion; with a modest growth rate and no climate change, this could grow to about $112 trillion by 2100, Bilal explains. A 50 percent decline in 2100 GDP relative to baseline means a loss of $56 trillion each year, which exceeds the current GDP. Such declines would leave individuals with “a 31 percent drop in purchasing power relative to a world without climate change,” Bilal adds. Such losses are “comparable to living in the 1929 Great Depression, forever,” he says. When converted into a dollar figure representing the damage incurred by each additional ton of carbon emissions, known as the social cost of carbon, this analysis settled on slightly more than $1,000 per ton—very different from the frequently cited figure of around $150 per ton. Because their findings are so dramatically different from those produced by traditional models, Bilal says he and his colleague spent many months confirming their results before releasing their research.
+
+Once this working paper is published, Bilal hopes to consider the “critical” question of adaptation, or how human investments and actions in the face of climate change might improve the scenario described here. He notes that this current research does factor in historical adaptation, and their results were very stable. “That’s not very good news for the adaptation hypothesis because historically, it doesn’t seem that we’re adapting very much,” he says. And such measures are costly; Venice’s MOSE barrier system to protect the city from devastating floods cost roughly $8 billion and has had mixed success.
+
+Still, “there are many channels through which societies can adapt,” including in-place measures such as air conditioning and coastal defense, or migratory strategies such as relocation to less-exposed places, and investment shifts that favor safer locations.
+
+“However, how much adaptation will offset losses from climate change overall,” Bilal says, “is still an open question.”
+
+Published in the September-October 2024 print issue under the headline “Climate Change’s Crippling Costs,” in the Right Now section.
+
+Five Questions with Andrew Knoll
+
+A paleontologist on how to understand Earth’s biggest extinction event
+
+Harvard Professor Michael Sandel Wins Philosophy’s Berggruen Prize
+
+The creator of the popular ‘Justice’ course receives a $1 million award.
+
+Harvard Economist Wolfram Schlenker Is Tackling Climate Change
+
+How extreme heat affects our land—and our food supply
+
+Why Do We Still Have the Electoral College?
+
+Historian Alexander Keyssar on why the unpopular institution has prevailed
+
+Harvard Symposium Tackles 400 Years of Homelessness in America
+
+Professors explore the history of homelessness in the U.S., from colonial poor laws to today’s housing crisis
+
+Harvard Alumni Affairs Databases Breached
+
+The University is investigating the cyberattack, which may have compromised the personal information of alumni, donors, students, faculty, and staff.
+
+Explore More From Current Issue
+
+The Origins of Europe’s Most Mysterious Languages
+
+A small group of Siberian hunter-gatherers changed the way millions of Europeans speak today.
+
+Shopping for New England-made gifts this Holiday Season
+
+Ways to support regional artists, designers, and manufacturers
+
+A (Truly) Naked Take on Second-Wave Feminism
+
+Playwright Bess Wohl’s Liberation opens on Broadway.
+
+Submit a Letter to the Editor
+
+Apply for a Fellowship
+
+Reprint | Permissions
+
+Print Magazine Questions
+
+Support Harvard Magazine
+
+Ways to Support the Magazine
+
+Why We Need Your Support
+
+Ad Sizes | Specifications
+
+Harvard University Digital Accessibility Policy
+
+Report Copyright Infringement
