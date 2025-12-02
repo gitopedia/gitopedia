@@ -4768,5 +4768,60 @@
     "id": "topic:golden-rice",
     "label": "Golden Rice",
     "aliases": []
+  },
+  {
+    "id": "topic:the-crusades",
+    "label": "The Crusades",
+    "aliases": []
+  },
+  {
+    "id": "topic:crusades",
+    "label": "Crusades",
+    "aliases": []
+  },
+  {
+    "id": "topic:holy-war",
+    "label": "Holy War",
+    "aliases": []
+  },
+  {
+    "id": "topic:chivalry",
+    "label": "Chivalry",
+    "aliases": []
+  },
+  {
+    "id": "topic:interfaith-relations",
+    "label": "Interfaith relations",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-factors",
+    "label": "Economic factors",
+    "aliases": []
+  },
+  {
+    "id": "topic:territorial-expansion",
+    "label": "Territorial expansion",
+    "aliases": []
+  },
+  {
+    "id": "topic:theology-of-religions",
+    "label": "Theology of religions",
+    "aliases": []
+  },
+  {
+    "id": "topic:western-identity-and-culture",
+    "label": "Western identity and culture",
+    "aliases": []
+  },
+  {
+    "id": "topic:feudalism",
+    "label": "Feudalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:indulgences",
+    "label": "Indulgences",
+    "aliases": []
   }
 ]

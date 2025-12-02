@@ -2,7 +2,7 @@
 
 - [Behavioral Economics](behavioral-economics.md)
 - [Development Economics](development-economics.md)
-- [Economic Systems: From Capitalism to Socialism](economic-history.md)
-- [Environmental Economics: Principles, Applications, and Challenges](environmental-economics.md)
-- [The Ultimate Guide to Core Concepts in Game Theory](game-theory.md)
+- [Economic History](economic-history.md)
+- [Environmental Economics](environmental-economics.md)
+- [Game Theory](game-theory.md)
 

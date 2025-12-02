@@ -603,5 +603,20 @@
     "id": "org:ginkgo-bioworks",
     "label": "Ginkgo Bioworks",
     "aliases": []
+  },
+  {
+    "id": "org:byzantine-empire",
+    "label": "Byzantine Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:seljuk-empire",
+    "label": "Seljuk Empire",
+    "aliases": []
+  },
+  {
+    "id": "org:kingdom-of-jerusalem",
+    "label": "Kingdom of Jerusalem",
+    "aliases": []
   }
 ]
