@@ -2373,5 +2373,15 @@
     "id": "person:stephen-wiesner-(quantum-cryptography)",
     "label": "Stephen Wiesner (quantum cryptography)",
     "aliases": []
+  },
+  {
+    "id": "person:james-thomson",
+    "label": "James Thomson",
+    "aliases": []
+  },
+  {
+    "id": "person:shinya-yamanaka",
+    "label": "Shinya Yamanaka",
+    "aliases": []
   }
 ]
