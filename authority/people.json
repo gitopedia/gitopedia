@@ -2293,5 +2293,100 @@
     "id": "person:stephen-carney",
     "label": "Stephen Carney",
     "aliases": []
+  },
+  {
+    "id": "person:carlo-rovelli",
+    "label": "Carlo Rovelli",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stachel",
+    "label": "John Stachel",
+    "aliases": []
+  },
+  {
+    "id": "person:augusto-sagnotti",
+    "label": "Augusto Sagnotti",
+    "aliases": []
+  },
+  {
+    "id": "person:gary-horowitz",
+    "label": "Gary Horowitz",
+    "aliases": []
+  },
+  {
+    "id": "person:ludwig-faddeev",
+    "label": "Ludwig Faddeev",
+    "aliases": []
+  },
+  {
+    "id": "person:alejandro-corichi",
+    "label": "Alejandro Corichi",
+    "aliases": []
+  },
+  {
+    "id": "person:jorge-pullin",
+    "label": "Jorge Pullin",
+    "aliases": []
+  },
+  {
+    "id": "person:joy-christian",
+    "label": "Joy Christian",
+    "aliases": []
+  },
+  {
+    "id": "person:bryce-dewitt",
+    "label": "Bryce DeWitt",
+    "aliases": []
+  },
+  {
+    "id": "person:cecile-dewitt",
+    "label": "Cecile DeWitt",
+    "aliases": []
+  },
+  {
+    "id": "person:giovanni-amelino-camelia",
+    "label": "Giovanni Amelino-Camelia",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-grumiller",
+    "label": "Daniel Grumiller",
+    "aliases": []
+  },
+  {
+    "id": "person:nikolaos-mavromatos",
+    "label": "Nikolaos Mavromatos",
+    "aliases": []
+  },
+  {
+    "id": "person:stanley-deser",
+    "label": "Stanley Deser",
+    "aliases": []
+  },
+  {
+    "id": "person:ted-newman",
+    "label": "Ted Newman",
+    "aliases": []
+  },
+  {
+    "id": "person:gennady-gorelik",
+    "label": "Gennady Gorelik",
+    "aliases": []
+  },
+  {
+    "id": "person:dean-rickles",
+    "label": "Dean Rickles",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-blum",
+    "label": "Alexander Blum",
+    "aliases": []
+  },
+  {
+    "id": "person:leopold-infeld",
+    "label": "Leopold Infeld",
+    "aliases": []
   }
 ]

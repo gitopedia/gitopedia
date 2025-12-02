@@ -748,5 +748,15 @@
     "id": "place:wisconsin-(u.s.-state)",
     "label": "Wisconsin (U.S. state)",
     "aliases": []
+  },
+  {
+    "id": "place:marseille-(france)",
+    "label": "Marseille (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:berlin-(germany)",
+    "label": "Berlin (Germany)",
+    "aliases": []
   }
 ]

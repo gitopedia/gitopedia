@@ -4918,5 +4918,40 @@
     "id": "topic:planetary-science",
     "label": "Planetary Science",
     "aliases": []
+  },
+  {
+    "id": "topic:quantization-of-gravity",
+    "label": "quantization of gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:canonical-quantum-gravity",
+    "label": "canonical quantum gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-hole-thermodynamics",
+    "label": "Black Hole Thermodynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-inflation",
+    "label": "Cosmic Inflation",
+    "aliases": []
+  },
+  {
+    "id": "topic:holography",
+    "label": "Holography",
+    "aliases": []
+  },
+  {
+    "id": "topic:swampland-program",
+    "label": "Swampland program",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-gravity-sensors",
+    "label": "Quantum Gravity Sensors",
+    "aliases": []
   }
 ]
