@@ -4823,5 +4823,20 @@
     "id": "topic:indulgences",
     "label": "Indulgences",
     "aliases": []
+  },
+  {
+    "id": "topic:energy-transition-strategies",
+    "label": "Energy Transition Strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:gas-system",
+    "label": "gas system",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-transition-framework-(etf)",
+    "label": "Energy Transition Framework (ETF)",
+    "aliases": []
   }
 ]

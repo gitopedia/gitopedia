@@ -2273,5 +2273,15 @@
     "id": "person:adhemar,-bishop-of-le-puy",
     "label": "Adhemar, bishop of Le-Puy",
     "aliases": []
+  },
+  {
+    "id": "person:nigel-barbour-(energy-transition-framework-chair)",
+    "label": "Nigel Barbour (Energy Transition Framework Chair)",
+    "aliases": []
+  },
+  {
+    "id": "person:nigel-barbour-(chair-of-energy-transition-framework)",
+    "label": "Nigel Barbour (Chair of Energy Transition Framework)",
+    "aliases": []
   }
 ]
