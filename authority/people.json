@@ -2478,5 +2478,55 @@
     "id": "person:shinya-yamanaka",
     "label": "Shinya Yamanaka",
     "aliases": []
+  },
+  {
+    "id": "person:norbert-wiener",
+    "label": "Norbert Wiener",
+    "aliases": []
+  },
+  {
+    "id": "person:solon-barocas-(co-author,-'fairness-in-machine-learning')",
+    "label": "Solon Barocas (co-author, 'Fairness in Machine Learning')",
+    "aliases": []
+  },
+  {
+    "id": "person:moritz-hardt-(co-author,-'fairness-in-machine-learning')",
+    "label": "Moritz Hardt (co-author, 'Fairness in Machine Learning')",
+    "aliases": []
+  },
+  {
+    "id": "person:arvind-narayanan-(co-author,-'fairness-in-machine-learning')",
+    "label": "Arvind Narayanan (co-author, 'Fairness in Machine Learning')",
+    "aliases": []
+  },
+  {
+    "id": "person:cathy-o’neil-(author,-'weapons-of-math-destruction')",
+    "label": "Cathy O’Neil (author, 'Weapons of Math Destruction')",
+    "aliases": []
+  },
+  {
+    "id": "person:cathy-o’neil-(author,-\"weapons-of-math-destruction\")",
+    "label": "Cathy O’Neil (author, \"Weapons of Math Destruction\")",
+    "aliases": []
+  },
+  {
+    "id": "person:joy-buolamwini-(researcher,-\"gender-shades\"-study)",
+    "label": "Joy Buolamwini (researcher, \"Gender Shades\" study)",
+    "aliases": []
+  },
+  {
+    "id": "person:timnit-gebru-(researcher,-\"gender-shades\"-study)",
+    "label": "Timnit Gebru (researcher, \"Gender Shades\" study)",
+    "aliases": []
+  },
+  {
+    "id": "person:kamar-(author,-human-ai-collaboration-research)",
+    "label": "Kamar (author, human-AI collaboration research)",
+    "aliases": []
+  },
+  {
+    "id": "person:zellinger-(author,-adversarial-debiasing-techniques)",
+    "label": "Zellinger (author, adversarial debiasing techniques)",
+    "aliases": []
   }
 ]
