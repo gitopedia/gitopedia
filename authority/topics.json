@@ -4768,5 +4768,85 @@
     "id": "topic:golden-rice",
     "label": "Golden Rice",
     "aliases": []
+  },
+  {
+    "id": "topic:europa-clipper",
+    "label": "Europa Clipper",
+    "aliases": []
+  },
+  {
+    "id": "topic:hubble-space-telescope",
+    "label": "Hubble Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:roman-observatory",
+    "label": "Roman Observatory",
+    "aliases": []
+  },
+  {
+    "id": "topic:tess",
+    "label": "TESS",
+    "aliases": []
+  },
+  {
+    "id": "topic:x-59",
+    "label": "X-59",
+    "aliases": []
+  },
+  {
+    "id": "topic:europa-clipper-mission",
+    "label": "Europa Clipper Mission",
+    "aliases": []
+  },
+  {
+    "id": "topic:jupiter-icy-moons-explorer-(juice)-mission",
+    "label": "Jupiter Icy Moons Explorer (JUICE) mission",
+    "aliases": []
+  },
+  {
+    "id": "topic:galileo-spacecraft",
+    "label": "Galileo spacecraft",
+    "aliases": []
+  },
+  {
+    "id": "topic:juice",
+    "label": "JUICE",
+    "aliases": []
+  },
+  {
+    "id": "topic:ada-limón",
+    "label": "Ada Limón",
+    "aliases": []
+  },
+  {
+    "id": "topic:robert-pappalardo",
+    "label": "Robert Pappalardo",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrobiology",
+    "label": "Astrobiology",
+    "aliases": []
+  },
+  {
+    "id": "topic:subsurface-ocean",
+    "label": "Subsurface Ocean",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiation-environment",
+    "label": "Radiation Environment",
+    "aliases": []
+  },
+  {
+    "id": "topic:habitability",
+    "label": "Habitability",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-science",
+    "label": "Planetary Science",
+    "aliases": []
   }
 ]
