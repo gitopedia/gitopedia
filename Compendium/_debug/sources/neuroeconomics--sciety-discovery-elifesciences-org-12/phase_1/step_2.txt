@@ -1,0 +1,23 @@
+# neuroeconomics
+
+- Labs 🧪 (Experimental)
+
+- Foundations of Neuroeconomics: History and Methods
+
+- Neuroeconomics is an interdisciplinary field integrating neuroscience, psychology, and economics to understand how people make decisions.
+- Departing from traditional economic models, which infer preferences solely from observed choices, neuroeconomics seeks to elucidate how the brain computes value, updates beliefs, manages uncertainty, and incorporates social information.
+- This section introduces foundational studies that defined the early trajectory of the field, establishing core concepts, questions, and methodologies.
+- It also presents key empirical and computational methods—such as neuroimaging, reinforcement learning models, lesion studies, and behavioral economic tasks—that have become standard approaches in neuroeconomics.
+- Collectively, these contributions provide an essential starting point for understanding both the historical context and future directions of neuroeconomic research.
+
+- CONTROL PARADOX: a neurocomputational reinterpretation of access to deep mental processes This article's authors Tiziano Costanzo This article has 0 evaluations Published on Nov 25, 2025
+
+- CONTROL PARADOX: a neurocomputational reinterpretation of access to deep mental processes
+
+- Why Default Nudges Work: Identifying Cognitive Mechanism with fMRI This article's authors Junichi Chikazoe Kohei Kawaguchi Kanji Suzuki Kosuke Uetake Yasutora Watanabe Katsunori Yamada This article has 0 evaluations Published on Oct 3, 2025
+
+- Why Default Nudges Work: Identifying Cognitive Mechanism with fMRI
+
+- Uznadze’s Theory of Set: Experimental Diagnostics and Neurocognitive Implications This article's authors Jaba Tkemaladze This article has 0 evaluations Published on Nov 13, 2025
+
+- Uznadze’s Theory of Set: Experimental Diagnostics and Neurocognitive Implications
