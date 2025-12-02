@@ -1,0 +1,534 @@
+---
+id: 01KBDPDRZZH4CKD70461C9EQGE
+slug: "quantum-cryptography--en-wikipedia-org-1"
+title: "Source: Quantum cryptography - Wikipedia"
+url: "https://en.wikipedia.org/wiki/Quantum_cryptography"
+type: source
+related_article: "quantum-cryptography"
+created: 2025-12-02
+tags: ["topic:quantum-cryptography"]
+summary: "Summarized source material for Quantum Cryptography"
+model: "code-prefilter"
+language: "en"
+---
+
+# Quantum Cryptography
+
+- Please don't skip this 1-minute read. It's Tuesday, 2 December, and if you're like us, you've used Wikipedia countless times. To settle an argument with a friend. To satisfy a curiosity. Whether it's 3 in the morning or afternoon, Wikipedia is useful in your life. Please give $2.75.
+
+- Wikipedia's been around since 2001. Back then, it was just a wildly ambitious, probably impossible dream. But it came together piece by piece—created by people, not machines. Wikipedia's not perfect, but it's always been free thanks to everyday readers.
+
+- Only 2% ever donate. But that small group makes a big difference. When you support Wikipedia, you're standing up for something simple but profound: that knowledge should belong to everyone.
+
+- If you agree, then this is your moment to give back. Even $2.75 makes a difference. Help keep it going—for you, for the next reader, and for the next generation.
+
+- 25 years of the internet at its best
+
+- Thank you for your support!
+
+- Unlock tax benefits by directing your donation via your Donor-Advised Fund (DAF)
+
+- Qualified Charitable Distributions from a tax efficient eligible IRA
+
+- Involve your employer and increase the impact of your donation
+
+- Nearly half of our budget goes toward supporting the technology that powers Wikipedia and other Wikimedia projects.
+- We are constantly working to enhance the user experience for both contributors and readers, improve site security, and ensure reliable access to our websites globally.
+- This infrastructure and product support sustain one of the top ten most visited websites in the world, all at a fraction of the cost of popular for-profit websites.
+
+- The global reach of Wikimedia projects is made possible by the hard work of volunteers from across the globe.
+- We provide grants, legal support, and other resources to help build vibrant volunteer communities.
+- Additionally, we promote community engagement through outreach initiatives and advocate for the growth and protection of free knowledge.
+
+- Operational costs are essential for the smooth management and governance of the Wikimedia Foundation. These expenses help us recruit top talent and support staff around the world, empowering them to carry out the mission of the Wikimedia Foundation.
+
+- Donor support is crucial to sustaining Wikipedia and our other free knowledge endeavors. Our team is committed to efficient and effective fundraising throughout the year, ensuring that every contribution helps advance our mission.
+
+- 3.1 Mistrustful quantum cryptography 3.1.1 Quantum coin flipping 3.1.2 Quantum commitment
+
+- 3.1.1 Quantum coin flipping
+
+- 3.1.2 Quantum commitment
+
+- 3.2 Bounded- and noisy-quantum-storage model
+
+- 3.3 Position-based quantum cryptography
+
+- 3.4 Device-independent quantum cryptography
+
+- 4 Post-quantum cryptography
+
+- 5 Quantum cryptography beyond key distribution
+
+- 7.1 Single-photon source assumption
+
+- 7.2 Identical detector efficiency assumption
+
+- 7.3 Deprecation of quantum key distributions from governmental institutions
+
+- 7.4 Quantum cryptography in education
+
+- Quantum cryptography is the science of exploiting quantum mechanical properties such as quantum entanglement, measurement disturbance, no-cloning theorem, and the principle of superposition to perform various cryptographic tasks.[1][2][3] Historically defined as the practice of encoding messages, a concept now referred to as encryption, quantum cryptography plays a crucial role in the secure processing, storage, and transmission of information across various domains.
+
+- One aspect of quantum cryptography is quantum key distribution (QKD), which offers an information-theoretically secure solution to the key exchange problem.
+- The advantage of quantum cryptography lies in the fact that it allows the completion of various cryptographic tasks that are proven or conjectured to be impossible using only classical (i.e. non-quantum) communication.
+- Furthermore, quantum cryptography affords the authentication of messages, which allows the legitimates parties to prove that the messages were not wiretaped during transmission.[4] For example, in a cryptographic set-up, it is impossible to copy with perfect fidelity, the data encoded in a quantum state.[5] If one attempts to read the encoded data, the quantum state will be changed due to wave function collapse (no-cloning theorem).
+- This could be used to detect eavesdropping in QKD schemes, or in quantum communication links and networks.
+- These advantages have significantly influenced the evolution of quantum cryptography, making it practical in today's digital age, where devices are increasingly interconnected and cyberattacks have become more sophisticated.
+- As such quantum cryptography is a critical component in the advancement of a quantum internet, as it establishes robust mechanisms to ensure the long-term privacy and integrity of digital communications and systems.[6]
+
+- In the early 1970s, Stephen Wiesner, then at Columbia University in New York, introduced the concept of quantum conjugate coding.
+- His seminal paper titled "Conjugate Coding" was rejected by the IEEE Information Theory Society but was eventually published in 1983 in SIGACT News.[7] In this paper he showed how to store or transmit two messages by encoding them in two "conjugate observables", such as linear and circular polarization of photons,[8] so that either, but not both, properties may be received and decoded.
+- Bennett, of the IBM's Thomas J.
+- Watson Research Center, and Gilles Brassard met in 1979 at the 20th IEEE Symposium on the Foundations of Computer Science, held in Puerto Rico, that they discovered how to incorporate Wiesner's findings. "The main breakthrough came when we realized that photons were never meant to store information, but rather to transmit it."[7] In 1984, building upon this work, Bennett and Brassard proposed a method for secure communication, which is now called BB84, the first Quantum Key Distribution system.[9][10] Independently, in 1991 Artur Ekert proposed to use Bell's inequalities to achieve secure key distribution.[11] Ekert's protocol for the key distribution, as it was subsequently shown by Dominic Mayers and Andrew Yao, offers device-independent quantum key distribution.
+
+- Companies that manufacture quantum cryptography systems include MagiQ Technologies, Inc. (Boston), ID Quantique (Geneva), QuintessenceLabs (Canberra, Australia), Toshiba (Tokyo), QNu Labs (India) and SeQureNet (Paris).
+
+- Cryptography is the strongest link in the chain of data security.[12] However, interested parties cannot assume that cryptographic keys will remain secure indefinitely.[13] Quantum cryptography[2] has the potential to encrypt data for longer periods than classical cryptography.[13] Using classical cryptography, scientists cannot guarantee encryption beyond approximately 30 years, but some stakeholders could use longer periods of protection.[13] Take, for example, the healthcare industry.
+- As of 2017, 85.9% of office-based physicians are using electronic medical record systems to store and transmit patient data.[14] Under the Health Insurance Portability and Accountability Act, medical records must be kept secret.[15] Quantum key distribution can protect electronic records for periods of up to 100 years.[13] Also, quantum cryptography has useful applications for governments and militaries as, historically, governments have kept military data secret for periods of over 60 years.[13] There also has been proof that quantum key distribution can travel through a noisy channel over a long distance and be secure.
+- It can be reduced from a noisy quantum scheme to a classical noiseless scheme.
+- This can be solved with classical probability theory.[16] This process of having consistent protection over a noisy channel can be possible through the implementation of quantum repeaters.
+- Quantum repeaters have the ability to resolve quantum communication errors in an efficient way.
+- Quantum repeaters, which are quantum computers, can be stationed as segments over the noisy channel to ensure the security of communication.
+- Quantum repeaters do this by purifying the segments of the channel before connecting them creating a secure line of communication.
+- Sub-par quantum repeaters can provide an efficient amount of security through the noisy channel over a long distance.[16]
+
+- Quantum cryptography is a general subject that covers a broad range of cryptographic practices and protocols.
+- While encryption techniques are widely recognized and understood, a significant challenge remains in the secure distribution of shared keys, often referred to as key establishment or key agreement.
+- Quantum Key Distribution (QKD) aims to address this particular challenge.
+- Below, we explore various notable methodologies and applications currently employed in quantum cryptography.
+
+- The best-known and developed application of quantum cryptography is QKD, which is the process of using quantum communication to establish a shared key between two parties (Alice and Bob, for example) without a third party (Eve) learning anything about that key, even if Eve can eavesdrop on all communication between Alice and Bob.
+- If Eve tries to learn information about the key being established, discrepancies will arise causing Alice and Bob to notice.
+- Once the key is established, it is then typically used for encrypted communication using classical techniques.
+- For instance, the exchanged key could be used for symmetric cryptography (e.g. one-time pad).
+
+- The security of quantum key distribution can be proven mathematically without imposing any restrictions on the abilities of an eavesdropper, something not possible with classical key distribution.
+- This is usually described as "unconditional security", although there are some minimal assumptions required, including that the laws of quantum mechanics apply and that Alice and Bob are able to authenticate each other, i.e.
+- Eve should not be able to impersonate Alice or Bob as otherwise a man-in-the-middle attack would be possible.
+
+- While QKD is secure, its practical application faces some challenges.
+- There are in fact limitations for the key generation rate at increasing transmission distances.[17][18][19] Recent studies have allowed important advancements in this regard.
+- In 2018, the protocol of twin-field QKD[20] was proposed as a mechanism to overcome the limits of lossy communication.
+- The rate of the twin field protocol was shown to overcome the secret key-agreement capacity of the lossy communication channel, known as repeater-less PLOB bound,[19] at 340 km of optical fiber; its ideal rate surpasses this bound already at 200 km and follows the rate-loss scaling of the higher repeater-assisted secret key-agreement capacity[21] (see figure 1 of[20] and figure 11 of[2] for more details).
+- The protocol suggests that optimal key rates are achievable on "550 kilometers of standard optical fibre", which is already commonly used in communications today.
+- The theoretical result was confirmed in the first experimental demonstration of QKD beyond the PLOB bound which has been characterized as the first effective quantum repeater.[22] Notable developments in terms of achieving high rates at long distances are the sending-not-sending (SNS) version of the TF-QKD protocol.[23][24] and the no-phase-postselected twin-field scheme.[25]
+
+- Mistrustful quantum cryptography
+
+- In mistrustful cryptography the participating parties do not trust each other.
+- For example, Alice and Bob collaborate to perform some computation where both parties enter some private inputs.
+- But Alice does not trust Bob and Bob does not trust Alice.
+- Thus, a secure implementation of a cryptographic task requires that after completing the computation, Alice can be guaranteed that Bob has not cheated and Bob can be guaranteed that Alice has not cheated either.
+- Examples of tasks in mistrustful cryptography are commitment schemes and secure computations, the latter including the further examples of coin flipping and oblivious transfer.
+- Key distribution does not belong to the area of mistrustful cryptography.
+- Mistrustful quantum cryptography studies the area of mistrustful cryptography using quantum systems.
+
+- In contrast to quantum key distribution where unconditional security can be achieved based only on the laws of quantum physics, in the case of various tasks in mistrustful cryptography there are no-go theorems showing that it is impossible to achieve unconditionally secure protocols based only on the laws of quantum physics.
+- However, some of these tasks can be implemented with unconditional security if the protocols not only exploit quantum mechanics but also special relativity.
+- For example, unconditionally secure quantum bit commitment was shown impossible by Mayers[26] and by Lo and Chau.[27] Unconditionally secure ideal quantum coin flipping was shown impossible by Lo and Chau.[28] Moreover, Lo showed that there cannot be unconditionally secure quantum protocols for one-out-of-two oblivious transfer and other secure two-party computations.[29] However, unconditionally secure relativistic protocols for coin flipping and bit-commitment have been shown by Kent.[30][31]
+
+- Unlike quantum key distribution, quantum coin flipping is a protocol that is used between two participants who do not trust each other.[32] The participants communicate via a quantum channel and exchange information through the transmission of qubits.[33] But because Alice and Bob do not trust each other, each expects the other to cheat.
+- Therefore, more effort must be spent on ensuring that neither Alice nor Bob can gain a significant advantage over the other to produce a desired outcome.
+- An ability to influence a particular outcome is referred to as a bias, and there is a significant focus on developing protocols to reduce the bias of a dishonest player,[34][35] otherwise known as cheating.
+- Quantum communication protocols, including quantum coin flipping, have been shown to provide significant security advantages over classical communication, though they may be considered difficult to realize in the practical world.[36]
+
+- A coin flip protocol generally occurs like this:[37]
+
+- Alice chooses a basis (either rectilinear or diagonal) and generates a string of photons to send to Bob in that basis.
+
+- Bob randomly chooses to measure each photon in a rectilinear or diagonal basis, noting which basis he used and the measured value.
+
+- Bob publicly guesses which basis Alice used to send her qubits.
+
+- Alice announces the basis she used and sends her original string to Bob.
+
+- Bob confirms by comparing Alice's string to his table. It should be perfectly correlated with the values Bob measured using Alice's basis and completely uncorrelated with the opposite.
+
+- Cheating occurs when one player attempts to influence, or increase the probability of a particular outcome.
+- The protocol discourages some forms of cheating; for example, Alice could cheat at step 4 by claiming that Bob incorrectly guessed her initial basis when he guessed correctly, but Alice would then need to generate a new string of qubits that perfectly correlates with what Bob measured in the opposite table.[37] Her chance of generating a matching string of qubits will decrease exponentially with the number of qubits sent, and if Bob notes a mismatch, he will know she was lying.
+- Alice could also generate a string of photons using a mixture of states, but Bob would easily see that her string will correlate partially (but not fully) with both sides of the table, and know she cheated in the process.[37] There is also an inherent flaw that comes with current quantum devices.
+- Errors and lost qubits will affect Bob's measurements, resulting in holes in Bob's measurement table.
+- Significant losses in measurement will affect Bob's ability to verify Alice's qubit sequence in step 5.
+
+- One theoretically surefire way for Alice to cheat is to utilize the Einstein-Podolsky-Rosen (EPR) paradox.
+- Two photons in an EPR pair are anticorrelated; that is, they will always be found to have opposite polarizations, provided that they are measured in the same basis.
+- Alice could generate a string of EPR pairs, sending one photon per pair to Bob and storing the other herself.
+- When Bob states his guess, she could measure her EPR pair photons in the opposite basis and obtain a perfect correlation to Bob's opposite table.[37] Bob would never know she cheated.
+- However, this requires capabilities that quantum technology currently does not possess, making it impossible to do in practice.
+- To successfully execute this, Alice would need to be able to store all the photons for a significant amount of time as well as measure them with near perfect efficiency.
+- This is because any photon lost in storage or in measurement would result in a hole in her string that she would have to fill by guessing.
+- The more guesses she has to make, the more she risks detection by Bob for cheating.
+
+- In addition to quantum coin-flipping, quantum commitment protocols are implemented when distrustful parties are involved.
+- A commitment scheme allows a party Alice to fix a certain value (to "commit") in such a way that Alice cannot change that value while at the same time ensuring that the recipient Bob cannot learn anything about that value until Alice reveals it.
+- Such commitment schemes are commonly used in cryptographic protocols (e.g.
+- Quantum coin flipping, Zero-knowledge proof, secure two-party computation, and Oblivious transfer).
+
+- In the quantum setting, they would be particularly useful: Crépeau and Kilian showed that from a commitment and a quantum channel, one can construct an unconditionally secure protocol for performing so-called oblivious transfer.[38] Oblivious transfer, on the other hand, had been shown by Kilian to allow implementation of almost any distributed computation in a secure way (so-called secure multi-party computation).[39] (Note: The results by Crépeau and Kilian[38][39] together do not directly imply that given a commitment and a quantum channel one can perform secure multi-party computation.
+- This is because the results do not guarantee "composability", that is, when plugging them together, one might lose security.)
+
+- Early quantum commitment protocols[40] were shown to be flawed. In fact, Mayers showed that (unconditionally secure) quantum commitment is impossible: a computationally unlimited attacker can break any quantum commitment protocol.[26]
+
+- Yet, the result by Mayers does not preclude the possibility of constructing quantum commitment protocols (and thus secure multi-party computation protocols) under assumptions that are much weaker than the assumptions needed for commitment protocols that do not use quantum communication.
+- The bounded quantum storage model described below is an example for a setting in which quantum communication can be used to construct commitment protocols.
+- A breakthrough in November 2013 offers "unconditional" security of information by harnessing quantum theory and relativity, which has been successfully demonstrated on a global scale for the first time.[41] More recently, Wang et al., proposed another commitment scheme in which the "unconditional hiding" is perfect.[42]
+
+- Physical unclonable functions can be also exploited for the construction of cryptographic commitments.[43]
+
+- Bounded- and noisy-quantum-storage model
+
+- One possibility to construct unconditionally secure quantum commitment and quantum oblivious transfer (OT) protocols is to use the bounded quantum storage model (BQSM).
+- In this model, it is assumed that the amount of quantum data that an adversary can store is limited by some known constant Q.
+- However, no limit is imposed on the amount of classical (i.e., non-quantum) data the adversary may store.
+
+- In the BQSM, one can construct commitment and oblivious transfer protocols.[44] The underlying idea is the following: The protocol parties exchange more than Q quantum bits (qubits).
+- Since even a dishonest party cannot store all that information (the quantum memory of the adversary is limited to Q qubits), a large part of the data will have to be either measured or discarded.
+- Forcing dishonest parties to measure a large part of the data allows the protocol to circumvent the impossibility result, commitment and oblivious transfer protocols can now be implemented.[26]
+
+- The protocols in the BQSM presented by Damgård, Fehr, Salvail, and Schaffner[44] do not assume that honest protocol participants store any quantum information; the technical requirements are similar to those in quantum key distribution protocols.
+- These protocols can thus, at least in principle, be realized with today's technology.
+- The communication complexity is only a constant factor larger than the bound Q on the adversary's quantum memory.
+
+- The advantage of the BQSM is that the assumption that the adversary's quantum memory is limited is quite realistic.
+- With today's technology, storing even a single qubit reliably over a sufficiently long time is difficult. (What "sufficiently long" means depends on the protocol details.
+- By introducing an artificial pause in the protocol, the amount of time over which the adversary needs to store quantum data can be made arbitrarily large.)
+
+- An extension of the BQSM is the noisy-storage model introduced by Wehner, Schaffner and Terhal.[45] Instead of considering an upper bound on the physical size of the adversary's quantum memory, an adversary is allowed to use imperfect quantum storage devices of arbitrary size.
+- The level of imperfection is modelled by noisy quantum channels.
+- For high enough noise levels, the same primitives as in the BQSM can be achieved[46] and the BQSM forms a special case of the noisy-storage model.
+
+- In the classical setting, similar results can be achieved when assuming a bound on the amount of classical (non-quantum) data that the adversary can store.[47] It was proven, however, that in this model also the honest parties have to use a large amount of memory (namely the square-root of the adversary's memory bound).[48] This makes these protocols impractical for realistic memory bounds. (Note that with today's technology such as hard disks, an adversary can cheaply store large amounts of classical data.)
+
+- Position-based quantum cryptography
+
+- The goal of position-based quantum cryptography is to use the geographical location of a player as its (only) credential.
+- For example, one wants to send a message to a player at a specified position with the guarantee that it can only be read if the receiving party is located at that particular position.
+- In the basic task of position-verification, a player, Alice, wants to convince the (honest) verifiers that she is located at a particular point.
+- It has been shown by Chandran et al. that position-verification using classical protocols is impossible against colluding adversaries (who control all positions except the prover's claimed position).[49] Under various restrictions on the adversaries, schemes are possible.
+
+- Under the name of 'quantum tagging', the first position-based quantum schemes have been investigated in 2002 by Kent.
+- A US-patent[50] was granted in 2006.
+- The notion of using quantum effects for location verification first appeared in the scientific literature in 2010.[51][52] After several other quantum protocols for position verification have been suggested in 2010,[53][54] Buhrman et al. claimed a general impossibility result:[55] using an enormous amount of quantum entanglement (they use a doubly exponential number of EPR pairs, in the number of qubits the honest player operates on), colluding adversaries are always able to make it look to the verifiers as if they were at the claimed position.
+- However, this result does not exclude the possibility of practical schemes in the bounded- or noisy-quantum-storage model (see above).
+- Later Beigi and König improved the amount of EPR pairs needed in the general attack against position-verification protocols to exponential.
+- They also showed that a particular protocol remains secure against adversaries who controls only a linear amount of EPR pairs.[56] It is argued in[57] that due to time-energy coupling the possibility of formal unconditional location verification via quantum effects remains an open problem.
+- The study of position-based quantum cryptography also has connections with the protocol of port-based quantum teleportation, which is a more advanced version of quantum teleportation, where many EPR pairs are simultaneously used as ports.
+
+- Device-independent quantum cryptography
+
+- A quantum cryptographic protocol is device-independent if its security does not rely on trusting that the quantum devices used are truthful.
+- Thus the security analysis of such a protocol needs to consider scenarios of imperfect or even malicious devices.[58] Mayers and Yao[59] proposed the idea of designing quantum protocols using "self-testing" quantum apparatus, the internal operations of which can be uniquely determined by their input-output statistics.
+- Subsequently, Roger Colbeck in his Thesis[60] proposed the use of Bell tests for checking the honesty of the devices.
+- Since then, several problems have been shown to admit unconditional secure and device-independent protocols, even when the actual devices performing the Bell test are substantially "noisy", i.e., far from being ideal.
+- These problems include quantum key distribution,[61][62] randomness expansion,[62][63] and randomness amplification.[64]
+
+- In 2018, theoretical studies performed by Arnon- Friedman et al. suggest that exploiting a property of entropy that is later referred to as "Entropy Accumulation Theorem (EAT)", an extension of Asymptotic equipartition property, can guarantee the security of a device independent protocol.[65]
+
+- Post-quantum cryptography
+
+- Cryptographically-relevant quantum computers may become a technological reality; it is therefore important to study cryptographic schemes used against adversaries with access to a quantum computer.
+- The study of such schemes is often referred to as post-quantum cryptography.
+- The need for post-quantum cryptography arises from the fact that many popular encryption and signature schemes, mainly those based on ECC and RSA, can be broken using Shor's algorithm for factoring and computing discrete logarithms on a quantum computer.
+- Examples for schemes that are, as of today's knowledge, secure against quantum adversaries are McEliece and lattice-based schemes, as well as most symmetric-key algorithms.[66][67] Surveys of post-quantum cryptography are available.[68][69]
+
+- Additional research was made into how existing cryptographic techniques have to be modified to be able to cope with quantum adversaries.
+- For example, when trying to develop zero-knowledge proof systems that are secure against quantum adversaries, new techniques need to be used: In a classical setting, the analysis of a zero-knowledge proof system usually involves "rewinding", a technique that makes it necessary to copy the internal state of the adversary.
+- In a quantum setting, copying a state is not always possible (no-cloning theorem); a variant of the rewinding technique has to be used.[70]
+
+- Post-quantum algorithms are also called "quantum resistant", because – unlike quantum key distribution – it is not known or provable that there will not be potential future quantum attacks against them.
+- Even though they may possibly be vulnerable to quantum attacks in the future, the NSA is announcing plans to transition to quantum resistant algorithms.[71] The National Institute of Standards and Technology (NIST) believes that it is time to think of quantum-safe primitives.[72]
+
+- Quantum cryptography beyond key distribution
+
+- So far, quantum cryptography has been mainly identified with the development of quantum key distribution protocols.
+- Symmetric cryptosystems with keys that have been distributed by means of quantum key distribution become inefficient for large networks (many users), because of the necessity for the establishment and the manipulation of many pairwise secret keys (the so-called "key-management problem").
+- Moreover, this distribution alone does not address many other cryptographic tasks and functions, which are of vital importance in everyday life.
+- Kak's three-stage protocol has been proposed as a method for secure communication that is entirely quantum unlike quantum key distribution, in which the cryptographic transformation uses classical algorithms.[73]
+
+- Besides quantum commitment and oblivious transfer (discussed above), research on quantum cryptography beyond key distribution revolves around quantum message authentication,[74] quantum digital signatures,[75][76] quantum one-way functions and public-key encryption,[77][78][79][80][81][82][83] quantum key-exchange,[84] quantum fingerprinting[85] and entity authentication[86][87][88] (for example, see Quantum readout of PUFs), etc.
+
+- Yuen presented Y-00 as a stream cipher using quantum noise around 2000 and applied it for the U.S.
+- Defense Advanced Research Projects Agency (DARPA) High-Speed and High-Capacity Quantum Cryptography Project as an alternative to quantum key distribution.[89][90] The review paper summarizes it well.[91]
+
+- Unlike quantum key distribution protocols, the main purpose of Y-00 is to transmit a message without eavesdrop-monitoring, not to distribute a key.
+- Therefore, privacy amplification may be used only for key distributions.[92] Currently, research is being conducted mainly in Japan and China: e.g.[93][94]
+
+- The principle of operation is as follows.
+- First, legitimate users share a key and change it to a pseudo-random keystream using the same pseudo-random number generator.
+- Then, the legitimate parties can perform conventional optical communications based on the shared key by transforming it appropriately.
+- For attackers who do not share the key, the wire-tap channel model of Aaron D.
+- The legitimate users' advantage based on the shared key is called "advantage creation".
+- The goal is to achieve longer covert communication than the information-theoretic security limit (one-time pad) set by Shannon.[95] The source of the noise in the above wire-tap channel is the uncertainty principle of the electromagnetic field itself, which is a theoretical consequence of the theory of laser described by Roy J.
+- George Sudarshan (coherent state).[96][97][98] Therefore, existing optical communication technologies are sufficient for implementation that some reviews describes: e.g.[91] Furthermore, since it uses ordinary communication laser light, it is compatible with existing communication infrastructure and can be used for high-speed and long-distance communication and routing.[99] [100] [101] [102] [103]
+
+- Although the main purpose of the protocol is to transmit the message, key distribution is possible by simply replacing the message with a key.[104][92] Since it is a symmetric key cipher, it must share the initial key previously; however, a method of the initial key agreement was also proposed.[105]
+
+- On the other hand, it is currently unclear what implementation realizes information-theoretic security, and security of this protocol has long been a matter of debate.[106][107][108][109][110][111][112][113][114][115]
+
+- Implementation in practice
+
+- In theory, quantum cryptography seems to be a successful turning point in the information security sector. However, no cryptographic method can ever be absolutely secure.[116] In practice, quantum cryptography is only conditionally secure, dependent on a key set of assumptions.[117]
+
+- Single-photon source assumption
+
+- The theoretical basis for quantum key distribution assumes the use of single-photon sources.
+- However, such sources are difficult to construct, and most real-world quantum cryptography systems use faint laser sources as a medium for information transfer.[117] These multi-photon sources open the possibility for eavesdropper attacks, particularly a photon splitting attack.[118] An eavesdropper, Eve, can split the multi-photon source and retain one copy for herself.[118] The other photons are then transmitted to Bob without any measurement or trace that Eve captured a copy of the data.[118] Scientists believe they can retain security with a multi-photon source by using decoy states that test for the presence of an eavesdropper.[118] However, in 2016, scientists developed a near perfect single photon source and estimate that one could be developed in the near future.[119]
+
+- Identical detector efficiency assumption
+
+- In practice, multiple single-photon detectors are used in quantum key distribution devices, one for Alice and one for Bob.[117] These photodetectors are tuned to detect an incoming photon during a short window of only a few nanoseconds.[120] Due to manufacturing differences between the two detectors, their respective detection windows will be shifted by some finite amount.[120] An eavesdropper, Eve, can take advantage of this detector inefficiency by measuring Alice's qubit and sending a "fake state" to Bob.[120] Eve first captures the photon sent by Alice and then generates another photon to send to Bob.[120] Eve manipulates the phase and timing of the "faked" photon in a way that prevents Bob from detecting the presence of an eavesdropper.[120] The only way to eliminate this vulnerability is to eliminate differences in photodetector efficiency, which is difficult to do given finite manufacturing tolerances that cause optical path length differences, wire length differences, and other defects.[120]
+
+- Deprecation of quantum key distributions from governmental institutions
+
+- Given the practical challenges raised below, several organizations recommend using "post-quantum cryptography (or quantum-resistant cryptography)" instead of quantum key distribution.
+
+- USA National Security Agency,[121]
+
+- European Union Agency for Cybersecurity of EU (ENISA),[122]
+
+- United Kingdom's National Cyber Security Centre,[123]
+
+- French Secretariat for Defense and Security (ANSSI),[124]
+
+- German Federal Office for Information Security (BSI)[125]
+
+- Netherland National Communications Security Agency (NLNCSA)
+
+- and Swedish National Communications Security Authority, Swedish Armed Forces [127] For example, the US National Security Agency addresses five issues:[121]
+
+- Quantum key distribution is only a partial solution.
+- QKD generates keying material for an encryption algorithm that provides confidentiality.
+- Such keying material could also be used in symmetric key cryptographic algorithms to provide integrity and authentication if one has the cryptographic assurance that the original QKD transmission comes from the desired entity (i.e. entity source authentication).
+- QKD does not provide a means to authenticate the QKD transmission source.
+- Therefore, source authentication requires the use of asymmetric cryptography or pre-placed keys to provide that authentication.
+- Moreover, the confidentiality services QKD offers can be provided by quantum-resistant cryptography, which is typically less expensive with a better understood risk profile.
+
+- Quantum key distribution requires special purpose equipment.
+- QKD is based on physical properties, and its security derives from unique physical layer communications.
+- This requires users to lease dedicated fiber connections or physically manage free-space transmitters.
+- It cannot be implemented in software or as a service on a network, and cannot be easily integrated into existing network equipment.
+- Since QKD is hardware-based it also lacks flexibility for upgrades or security patches.
+
+- Quantum key distribution increases infrastructure costs and insider-threat risks. QKD networks frequently necessitate the use of trusted relays, entailing additional cost for secure facilities and additional security risk from insider threats. This eliminates many use cases from consideration.
+
+- Securing and validating quantum key distribution is a significant challenge.
+- The actual security provided by a QKD system is not the theoretical unconditional security from the laws of physics (as modeled and often suggested), but rather the more limited security that can be achieved by hardware and engineering designs.
+- The tolerance for error in cryptographic security, however, is many orders of magnitude smaller than what is available in most physical engineering scenarios, making it very difficult to validate.
+- The specific hardware used to perform QKD can introduce vulnerabilities, resulting in several well-publicized attacks on commercial QKD systems.[128]
+
+- Quantum key distribution increases the risk of denial of service. The sensitivity to an eavesdropper as the theoretical basis for QKD security claims also shows that denial of service is a significant risk for QKD.
+
+- In response to problem 1 above, attempts to deliver authentication keys using post-quantum cryptography (or quantum-resistant cryptography) have been proposed worldwide.
+- On the other hand, quantum-resistant cryptography is cryptography belonging to the class of computational security.
+- In 2015, a research result was already published that "sufficient care must be taken in implementation to achieve information-theoretic security for the system as a whole when authentication keys that are not information-theoretic secure are used" (if the authentication key is not information-theoretically secure, an attacker can break it to bring all classical and quantum communications under control and relay them to launch a man-in-the-middle attack).[129] Ericsson, a private company, also cites and points out the above problems and then presents a report that it may not be able to support the zero trust security model, which is a recent trend in network security technology.[130]
+
+- Quantum cryptography in education
+
+- Quantum cryptography, specifically the BB84 protocol, has become an important topic in physics and computer science education.
+- The challenge of teaching quantum cryptography lies in the technical requirements and the conceptual complexity of quantum mechanics.
+- However, simplified experimental setups for educational purposes are becoming more common,[131] allowing undergraduate students to engage with the core principles of quantum key distribution (QKD) without requiring advanced quantum technology.
+
+- History of cryptography
+
+- Outline of cryptography
+
+- Cryptographic protocol Authentication protocol
+
+- Authentication protocol
+
+- Cryptographic primitive
+
+- Hash function Cryptographic hash function Key derivation function Secure Hash Algorithms
+
+- Cryptographic hash function
+
+- Key derivation function
+
+- Secure Hash Algorithms
+
+- Random number generation Cryptographically secure pseudorandom number generator (CSPRNG)
+
+- Cryptographically secure pseudorandom number generator (CSPRNG)
+
+- Pseudorandom noise (PRN)
+
+- End-to-end encryption
+
+- Harvest now, decrypt later
+
+- Information-theoretic security
+
+- Cryptographic hash function
+
+- Symmetric-key algorithm
+
+- Authenticated encryption
+
+- Public-key cryptography
+
+- Quantum key distribution
+
+- Post-quantum cryptography
+
+- Message authentication code
+
+- cryptography post-quantum
+
+- Cloak of invisibility
+
+- Digital scent technology
+
+- Force field Plasma window
+
+- Immersive virtual reality
+
+- Magnetic refrigeration
+
+- Thermoacoustic heat engine
+
+- DiVincenzo's criteria
+
+- Quantum computing timeline
+
+- Qubit physical vs. logical
+
+- Quantum processors cloud-based
+
+- Classical capacity entanglement-assisted quantum capacity
+
+- entanglement-assisted
+
+- Entanglement distillation
+
+- Entanglement swapping
+
+- Monogamy of entanglement
+
+- Quantum channel quantum network
+
+- Quantum teleportation quantum energy teleportation quantum gate teleportation
+
+- quantum energy teleportation
+
+- quantum gate teleportation
+
+- Post-quantum cryptography
+
+- Quantum coin flipping
+
+- Quantum key distribution BB84 SARG04 other protocols
+
+- Quantum secret sharing
+
+- Amplitude amplification
+
+- Magic state distillation
+
+- Quantum Fourier transform
+
+- Quantum phase estimation
+
+- Randomized benchmarking XEB
+
+- Relaxation times T1 T2
+
+- Adiabatic quantum computation
+
+- Continuous-variable quantum information
+
+- One-way quantum computer cluster state
+
+- Quantum circuit quantum logic gate
+
+- Quantum machine learning quantum neural network
+
+- quantum neural network
+
+- Quantum Turing machine
+
+- Topological quantum computer
+
+- Hamiltonian quantum computation
+
+- Codes 5 qubit CSS GKP quantum convolutional stabilizer Shor Bacon–Shor Steane Toric gnu
+
+- quantum convolutional
+
+- Entanglement-assisted
+
+- OpenQASM–Qiskit–IBM QX
+
+- Quil–Forest/Rigetti QCS
+
+- Quantum information science
+
+- Quantum mechanics topics
+
+- Energy level Ground state Excited state Degenerate levels Zero-point energy
+
+- Quantum state quantum jump
+
+- Symmetry in quantum mechanics
+
+- Wave function Collapse Wave–particle duality
+
+- Wave–particle duality
+
+- Path integral formulation
+
+- Consciousness causes collapse
+
+- Hidden-variable Local Superdeterminism
+
+- Local Superdeterminism
+
+- Delayed-choice quantum eraser
+
+- Mach–Zehnder interferometer
+
+- Wheeler's delayed choice
+
+- Quantum differential calculus
+
+- Quantum measurement problem
+
+- Quantum stochastic calculus
+
+- Quantum cellular automata Quantum finite automata
+
+- Quantum finite automata
+
+- Quantum complexity theory
+
+- Quantum computing Timeline
+
+- Quantum error correction
+
+- Quantum image processing
+
+- Quantum key distribution
+
+- Quantum machine learning
+
+- Quantum neural network
+
+- Quantum teleportation
+
+- Quantum statistical mechanics
+
+- Quantum field theory History
+
+- Relativistic quantum mechanics
+
+- Schrödinger's cat in popular culture
+
+- CS1 errors: periodical ignored
+
+- Articles with short description
+
+- Short description is different from Wikidata
+
+- Use dmy dates from September 2020
+
+- Edit preview settings
