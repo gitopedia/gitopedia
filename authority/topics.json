@@ -5533,5 +5533,25 @@
     "id": "topic:electroweak-symmetry",
     "label": "electroweak symmetry",
     "aliases": []
+  },
+  {
+    "id": "topic:lunar-gateway",
+    "label": "Lunar Gateway",
+    "aliases": []
+  },
+  {
+    "id": "topic:artemis-program",
+    "label": "Artemis program",
+    "aliases": []
+  },
+  {
+    "id": "topic:near-rectilinear-halo-orbit",
+    "label": "near-rectilinear halo orbit (NRHO)",
+    "aliases": []
+  },
+  {
+    "id": "topic:deep-space-exploration",
+    "label": "deep space exploration",
+    "aliases": []
   }
 ]

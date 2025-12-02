@@ -1,11 +1,11 @@
 # Biology Articles
 
-- [Artificial Organs: Development, Applications, and Future Prospects](artificial-organs.md)
-- [CRISPR-Cas Systems: Mechanisms, Applications, and Ethical Challenges](crispr-cas9-gene-editing.md)
+- [Artificial Organs](artificial-organs.md)
+- [Crispr Cas9 Gene Editing](crispr-cas9-gene-editing.md)
 - [Epigenetics](epigenetics.md)
-- [Genomic and Personalized Medicine: An Overview of Advancements, Applications, and Challenges](genomic-medicine.md)
-- [mRNA Vaccine Technology](mrna-vaccine-technology.md)
-- [Personalized Medicine: A Comprehensive Review](personalized-medicine.md)
-- [Regenerative Medicine and Stem Cell Therapies: Advancements and Applications](regenerative-medicine.md)
-- [Synthetic Biology: Engineering Life for the Future](synthetic-biology.md)
+- [Genomic Medicine](genomic-medicine.md)
+- [Mrna Vaccine Technology](mrna-vaccine-technology.md)
+- [Personalized Medicine](personalized-medicine.md)
+- [Regenerative Medicine](regenerative-medicine.md)
+- [Synthetic Biology](synthetic-biology.md)
 
