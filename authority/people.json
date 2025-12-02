@@ -2743,5 +2743,10 @@
     "id": "person:tienne-jules-marey",
     "label": "Étienne-Jules Marey",
     "aliases": []
+  },
+  {
+    "id": "person:mori",
+    "label": "Māori (ethnic group)",
+    "aliases": []
   }
 ]

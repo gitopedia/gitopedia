@@ -823,5 +823,25 @@
     "id": "org:pressbooks",
     "label": "Pressbooks",
     "aliases": []
+  },
+  {
+    "id": "org:mercury-energy",
+    "label": "Mercury Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:contact-energy",
+    "label": "Contact Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:global-geothermal-alliance",
+    "label": "Global Geothermal Alliance",
+    "aliases": []
+  },
+  {
+    "id": "org:iwi",
+    "label": "iwi (Māori tribes)",
+    "aliases": []
   }
 ]
