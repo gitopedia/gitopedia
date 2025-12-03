@@ -808,5 +808,20 @@
     "id": "place:bethesda-md",
     "label": "Bethesda, MD",
     "aliases": []
+  },
+  {
+    "id": "place:venice",
+    "label": "Venice (Italy)",
+    "aliases": []
+  },
+  {
+    "id": "place:pacific-ocean",
+    "label": "Pacific Ocean",
+    "aliases": []
+  },
+  {
+    "id": "place:sub-saharan-africa",
+    "label": "sub-Saharan Africa",
+    "aliases": []
   }
 ]
