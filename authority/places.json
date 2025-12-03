@@ -923,5 +923,25 @@
     "id": "place:polynesian-spa",
     "label": "Polynesian Spa",
     "aliases": []
+  },
+  {
+    "id": "place:moon",
+    "label": "Moon",
+    "aliases": []
+  },
+  {
+    "id": "place:united-arab-emirates",
+    "label": "United Arab Emirates (UAE)",
+    "aliases": []
+  },
+  {
+    "id": "place:lunar-gateway",
+    "label": "Lunar Gateway",
+    "aliases": []
+  },
+  {
+    "id": "place:international-space-station-1",
+    "label": "International Space Station (ISS)",
+    "aliases": []
   }
 ]
