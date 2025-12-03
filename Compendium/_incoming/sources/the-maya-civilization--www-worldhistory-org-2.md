@@ -1,0 +1,259 @@
+---
+id: 01KBGVKFJ6K6QW62P88JG04Z0P
+slug: "the-maya-civilization--www-worldhistory-org-2"
+title: "Source: Maya Civilization - World History Encyclopedia"
+url: "https://www.worldhistory.org/Maya_Civilization/"
+type: source
+related_article: "the-maya-civilization"
+created: 2025-12-03T01:00:37Z
+tags: ["topic:the-maya-civilization"]
+summary: "Summarized source material for The Maya Civilization"
+model: "code-prefilter"
+language: "en"
+researcher_version: "0.3.3"
+---
+
+# The Maya Civilization
+
+- Encyclopedia Index Timeline Maps Book Reviews Translations Magazine
+
+- Education Teaching Materials Link Database Quizzes Primary Sources Collections School Subscription
+
+- Media Media Library Audio Articles Podcast Youtube Channel
+
+- Contribute Submissions Needed Content Style Guide Terms & Conditions Volunteer
+
+- Support Us Membership Donate Shop
+
+- About About Our Team Blog Editorial Policy Annual Reports Contact
+
+- This text is available in other languages:
+
+- The Maya are an indigenous people of Mexico and Central America who have continuously inhabited the lands comprising modern-day Yucatan, Quintana Roo, Campeche, Tabasco, and Chiapas in Mexico and southward through Guatemala, Belize, El Salvador and Honduras.
+- The designation Maya comes from the ancient Yucatan city of Mayapan, the last capital of a Maya Kingdom in the Post-Classic Period.
+
+- The Maya people refer to themselves by ethnicity and language bonds such as Quiche in the south or Yucatec in the north (though there are many others).
+- The term Mayan refers to the language while Maya references the people and their culture.
+- The "Mysterious Maya" have intrigued the world since their "discovery" in the 1840's by John Lloyd Stephens and Frederick Catherwood but, in reality, much of the culture is not that mysterious when understood.
+
+- Contrary to popular imagination, the Maya did not vanish and the descendants of the people who built the great cities of Chichen Itza, Bonampak, Uxmal and Altun Ha still exist on the same lands their ancestors did and continue to practice, sometimes in a modified form, the same rituals which would be recognized by a native of the land one thousand years ago.
+
+- The history of Mesoamerica is usually divided into specific periods which, taken together, reveal the development of culture in the region and, for the purposes of this definition, the emergence and cultivation of the Maya Civilization.
+
+- The Archaic Period: 7000-2000 BCE – During this time a hunter-gatherer culture began to cultivate crops such as maize, beans and other vegetables and the domestication of animals (most notably dogs and turkeys) and plants became widely practiced.
+- The first villages of the region were established during this period which included sacred spots and temples dedicated to various gods.
+- The villages excavated thus far are dated from 2000-1500 BCE.
+
+- The Olmec Period: 1500-200 BCE – This era is also known as the Pre-Classic or Formative Period when the Olmecs, the oldest culture in Mesoamerica, thrived.
+- The Olmecs settled along the Gulf of Mexico and began building great cities of stone and brick.
+- The famous Olmec heads strongly suggest highly sophisticated skill in sculpture and the first indications of Shamanic religious practices date from this period.
+- The enormous size and scope of Olmec ruins gave birth to the idea that the land was once populated by giants.
+- Though no one knows where the Olmecs came from, nor what happened to them, they lay the foundation for all the future civilizations in Mesoamerica.
+
+- The Zapotec Period: 600 BCE-800 CE – In the region surrounding modern-day Oaxaca, the cultural center now known as Monte Alban was founded which became the capital of the Zapotec kingdom.
+- The Zapotecs were clearly influenced by (or, perhaps, related to) the Olmecs and, through them, some of the most important cultural elements of the region were disseminated such as writing, mathematics, astronomy and the development of the calendar; all of which the Maya would refine.
+
+- The Teotihuacan Period: 200-900 – During this era the great city of Teotihuacan grew from a small village to a metropolis of enormous size and influence.
+- Early on, Teotihuacan was a rival of another city called Cuicuilco but, when that community was destroyed by a volcano c. 100, Teotihuacan became dominant in the region.
+- Archaeological evidence suggests that Teotihuacan was an important religious center which was devoted to the worship of a Great Mother Goddess and her consort the Plumed Serpent.
+- The Plumed Serpent god Kukulkan (also known as Gucamatz) was the most popular deity among the Maya.
+- Like many of the cities which now lie in ruin throughout the southern Americas, Teotihuacan was abandoned sometime around 900.
+
+- The El Tajin Period: 250-900 – This period is also known as the Classic Period in Mesoamerican and Maya history.
+- The name `El Tajin' refers to the great city complex on the Gulf of Mexico which has been recognized as one of the most important sites in Mesoamerica.
+- During this time the great urban centers rose across the land and the Maya numbered in the millions.
+- The very important ball game which came to be known as Poc-a-Toc was developed and more ball courts have been found in and around the city of El Tajin than anywhere else in the region.
+- Who, precisely, the people were who inhabited El Tajin remains unknown as there were over fifty different ethnic groups represented in the city and dominance has been ascribed to both the Maya and the Totonac.
+
+- The Classic Maya Period: 250-950 – This is the era which saw the consolidation of power in the great cities of the Yucatec Maya such as Chichen Itza and Uxmal.
+- Direct cultural influences may be seen, in some sites, from the Olmecs and the Zapotecs and the cultural values of Teotihuacan and El Tajin but, in others, a wholly new culture seems to have emerged (such as at Chichen Itza where, though there is ample evidence of cultural borrowing, there is a significantly different style to the art and architecture).
+- This period was the height of the Maya civilization in which they perfected mathematics, astronomy, architecture and the visual arts and also refined and perfected the calendar.
+- The oldest date recorded in this era is on Stele 29 in the city of Tikal (292 CE) and the latest is from an inscription on the Stele at the site of Tonina (909 CE).
+- The city-states of the Mayan civilization stretched from Piste in the north all the way down to modern-day Honduras.
+
+- The Post-Classic Period: 950-1524 – At this time the great cities of the Maya were abandoned.
+- Thus far, no explanation for the mass exodus from the cities to outlying rural areas has been determined but climate change and over population have been strongly suggested among other possibilities.
+- The Toltecs, a new tribe in the region, took over the vacant urban centers and re-populated them.
+- At this time, Tula and Chichen-Itza became dominant cities in the region.
+- The widely popular conception that the Maya were driven from their cities by the Spanish Conquest is erroneous as the cities were already vacant by the time of the Spanish invasion (in fact, the Spanish conquerors had no idea the natives they found in the region were responsible for the enormous complexes of the cities).
+- The Quiche Maya were defeated at the Battle of Utatlan in 1524 and this date traditionally marks the end of the Maya Civilization.
+
+- The height of the Maya Civilization in the Classic Period produced the incredible cultural advances for which they are well known.
+- The Maya believed deeply in the cyclical nature of life – nothing was ever `born' and nothing ever `died' – and this belief inspired their view of the gods and the cosmos.
+- Their cosmological views, in turn, encouraged their imaginative efforts in architecture, mathematics, and astronomy.
+
+- Beneath the earth was the dark realm of Xibalba (pronounced `shee-Bal-ba' and translated as `place of fear') from whence grew the great Tree of Life which came up through the earth and towered into the heavens, through thirteen levels, to reach the paradise of Tamoanchan (`place of the misty sky') where beautiful flowers bloomed.
+- In Maya belief, however, one did not die and go to a `heaven' or a `hell' but, rather, embarked on a journey toward Tamoanchan.
+- This journey began in the dark and treacherous underworld of Xibalba where the Xibalbans who lived there were more apt to trick and destroy a soul than help one.
+
+- If one could navigate through Xibalba, however, one could then find the way to ascend through the nine levels of the underworld, and the thirteen levels of the higher world, to paradise.
+- The only ways in which a soul could by-pass Xibalba and travel instantly to Tamoanchan were through death in childbirth, as a sacrificial victim, in warfare, on the ball court, or by suicide (the Maya had a special goddess of suicide named Ixtab who was depicted as the rotting corpse of a woman hanging by a noose in the heavens).
+- Once one reached Tamoanchan there was eternal happiness but, it must be noted, this paradise was not thought to actually exist in the sky but on the earth.
+
+- After ascending through the thirteen levels, one did not live in the air but, rather, on a mystical mountain back on the planet.
+- It was because of this cyclical view that the Maya did not believe there was anything wrong with human sacrifice.
+- Those people who were offered to the gods did not `die' but simply moved on.
+- This cosmological belief influenced every aspect of the Maya civilization and rituals were performed regularly in caves, evoking the darkness of Xibalba, and on hills or high temples which symbolized the heights of Tamoanchan.
+
+- The great pyramids which characterize so many Maya sites are replicas of the great mountain of the gods known as the Witzob.
+- The cyclical nature of human existence is mirrored in the famous Maya calendar.
+- The depictions of the many gods and goddesses all go toward their function in helping one through the cycles of life or hindering.
+- The great religious book of the Quiche Maya, the Popol-Vuh, tells precisely this story of the cyclical nature of life through the tale of the Hero Twins Hunahpu and Xbalanque and their victory over the forces of chaos and darkness symbolized by the Lords of Xibalba.
+- The game the twins are famous for playing, Poc-a-Toc, serves the same purpose.
+
+- Poc-a-Toc was the most popular game among the Maya and was far more than `just a game' as it symbolized the human struggle and reflected the way the Maya viewed existence.
+- Two opposing teams of seven men each would face each other on a ball court and try to score a small rubber ball through a vertical hoop affixed to a wall (sometimes as high as twenty feet in the air, sometimes higher) while defending their own goal.
+
+- What makes the game even more impressive is that a player could not use the hands or the feet, only the hips, shoulders, head and knees.
+- The Spanish bishop Diego de Landa wrote that watching the Maya play Poc-a-Toc was like watching lightning strikes, they moved so quickly.
+- It has long been believed that the losing team (or the captain of the losing team) would be killed at the end of the match but recent advances in deciphering the Maya glyphs, together with archaeological evidence, suggests it may have been the winning team or the winning captain who was given the honor of a quick death and instant passage to paradise.
+- The game is thought to have been symbolic, not only of the victory of the hero twins over darkness, but of the cyclical nature of life.
+- Scholars Schele and Matthews write:
+
+- Many modern myths have grown up about the ballgame. The most popular says that the Maya sacrificed the winners so as to give a perfect gift to the gods. There is no evidence for this interpretation in any of the ancient or historical sources. (210)
+
+- This is not quite correct, however, as glyphs at many ball courts, Chichen Itza to name only one, could be interpreted as showing the winning team or captain being sacrificed and modern Maya daykeepers at both Altun Ha in Belize and Chichen Itza in the Yucatan point to the hope of escape from the darkness of Xibalba as the reason for the winners being executed.
+- Whichever team was chosen to die, and under what circumstances (since teams could not have been continually sacrificed as there is evidence of `star' teams) the ball game was deeply meaningful to the Maya as more than just a spectator sport.
+- More information on the particulars of the game, and the life of the ancient Maya in general, comes to light as more heiroglyphics are discovered and interpreted.
+
+- The modern day difficulty in deciphering the Maya hieroglyphics stems from the actions of the same man who, inadvertently, preserved so much of what we know of the Maya Civilization: Bishop Diego de Landa.
+- Appointed to the Yucatan following the Spanish conquest of the north, Landa arrived in 1549 CE and instantly set himself to the task of routing out heathenism from among the Mayan converts to Christianity.
+- The concept of a god who dies and comes back to life was very familiar to the Maya from their own deity The Maize God and they seem to have accepted the story of Jesus Christ and his resurrection easily.
+- Even so, Landa believed that there was a subversive faction growing among the Maya which was seducing them `back to idolatry' and, having failed to crush this perceived rebellion through the avenues of prayer and admonition, chose another more direct method.
+
+- On 12 July 1562, at the church at Mani, Landa burned over forty Maya Codices (books) and over 20,000 images and stele.
+- In his own words, “We found many books with these letters, and because they contained nothing that was free from superstition and the devil's trickery, we burnt them, which the Indians greatly lamented.” Landa went further, however, and resorted to torture to extricate the secrets of the subversives among the natives and bring them back to what he saw as the true path of the church.
+- His methods were condemned by the other priests and he was called back to Spain to explain his actions.
+- Part of his defense was his 1566 work Relacion de las Cosas de Yucatan which has preserved much of the culture Landa tried to destroy and has proved to be a valuable asset in understanding ancient Maya culture, religion, and language.
+
+- Only three books of the Maya escaped the conflagration at Mani: The Madrid Codex, The Dresden Codex, and The Paris Codex (so named for the cities where they were found many years after they were brought back from the Yucatan) which have provided scholars with a great deal of information on the beliefs of the Maya and, especially, on their calendar.
+- The codices were created by scribes who made careful observations in astronomy (the Dresden Codex alone devotes six pages to accurately calculating the rising and positions of Venus) and their interpretations of the planets and the seasons exhibit a precision unmatched by other ancient civilizations.
+- So important were their stories and books to the Maya that the Legend of Zamna and the Hennequen Plant describes the great goddess telling the prophet Zamna:
+
+- I want you to choose a group of families from my kingdom, and three of the wisest Chilames, to carry the writings which tell the story of our people, and write what will happen in the future.
+- You will reach a place that I will indicate to you and you will found a city.
+- Under its main temple you will guard the writings and the future writings.
+
+- The city of Izamal was founded, according to this legend, by Zamna (associated with the deity Itzamna) of the Itzas who placed the sacred writings under the central temple.
+- Izamal became known as the most important pilgrimage site in the Classical Period besides Chichen Itza.
+- Shamans (known as Daykeepers) would interpret the particular energy of the day or month for the people by consulting with the gods presiding over the various months of the Maya calendar.
+
+- There are two calendars at work simultaneously in the Maya system: the Haab, or civil calendar of 365 days in an 18 month period of 20 days each, and the Tzolkin, or sacred calendar, of 260 days divided into three groups of months of 20 days.
+- The Haab and the Tzolkin work together, like gears interlocking in a machine, to create what is known as the Calendar Round but cannot account for dates farther in the future than 52 days.
+- For longer calculations, the Maya devised what is known as the Long Count Calendar and is this which has attracted so much international attention in recent years regarding the end of the world on 21 December 2012.
+- As the long count calendar begins 11 August 3114 BCE, it goes into its next cycle (known as a Baktun) on 21 December 2012.
+
+- There is nothing in the extant writings of the Maya to suggest any kind of cataclysm accompanies this transition.
+- On 10 May 2012 it was reported that Boston University archaeologist William Saturno and Boston University student Maxwell Chamberlain, excavating at the Maya site of Xultun in Guatemala, discovered a 6x6 foot room dating to 800 which seems conclusively to have been a calendar workshop for Mayan scribes.
+
+- The paintings and inscriptions on the walls of the room show the Maya calendar extending well beyond the year 2012 and that future Baktuns were understood to already be underway in the great cyclic dance of time.
+- According to David Stuart, an expert on Maya hieroglyphs at the University of Texas at Austin, "Baktun 14 was going to be coming, and Baktun 15 and Baktun 16. ...
+- The Maya calendar is going to keep going, and keep going for billions, trillions, octillions of years into the future."
+
+- The months of the years of the Mayan calendars were governed over each by a specific god and, as these gods were eternal, they assured the continuance of the energy of their particular month.
+- As all of life was considered one eternal cycle, the western concept of an `end of the world', so popular in Christian ideology, would have been a completely foreign concept to a Maya scribe.
+
+- In the modern age the Maya still farm the same lands and travel the same rivers as their ancestors did from the north in the Yucatan down to Honduras.
+- The claim that the Maya somehow vanished, simply because their cities were found abandoned, is not only inaccurate but insulting to the over six million Maya who carry on the traditions of their ancestors.
+- Though the region was Christianized in the 16th century conquest and inquisition, the old ways are still observed in a hybrid between European Catholicism and Mayan mysticism.
+
+- The Daykeeper of a village still interprets the energy of a day and rituals are still performed in caves and on hills.
+- On the island of Cozumel shrines to the Virgin Mary and the goddess Ixchel are interchangeable and, often, one and the same.
+- A great deal has been learned about the Maya since the days when Stephens and Catherwood explored and documented the ancient ruins but, for the Maya living today, nothing of importance has ever been forgotten and the cycle of life continues on.
+
+- Subscribe to topic Related Content Books Cite This Work License
+
+- Demarest, A. Ancient Maya. Cambridge University Press, 2005.
+
+- Gibson, C. The Hidden Life of the Ancient Maya. Metro Books, 2012.
+
+- Lloyd Stephens, J. Incidents of Travel in Central America, Chiapas, and Yucatan, Vols. I and II. Cosimo Classics, 2008.
+
+- Maya calendar workshop documents time beyond 2012 - Cosmic Log, accessed 1 Dec 2016.
+
+- Phillips, C. The Mythology of the Aztec and Maya. Anness, 2006.
+
+- Stuart, G.E. Gene S.; Stuart. Lost Kingdoms of the Maya. National Geographic Society, W, 1993.
+
+- Yucatan Before and After the Conquest Index, accessed 1 Dec 2016.
+
+- We want people all over the world to learn about history. Help us and translate this definition into another language!
+
+- K'inich Janaab' Pakal
+
+- Interview: The Ancient Southwest
+
+- Free for the World, Supported by You
+
+- World History Encyclopedia is a non-profit organization. Please support free history education for millions of learners worldwide for only $5 per month by becoming a member. Thank you!
+
+- World History Encyclopedia is a non-profit organization. Please support free history education for millions of learners worldwide for only $5 per month by becoming a member. Thank you!
+
+- Mark, J. J. (2012, July 06). . World History Encyclopedia. Retrieved from https://www.worldhistory.org/Maya_Civilization/
+
+- Mark, Joshua J.. "Maya Civilization." World History Encyclopedia. Last modified July 06, 2012. https://www.worldhistory.org/Maya_Civilization/.
+
+- Mark, Joshua J.. "Maya Civilization." World History Encyclopedia. World History Encyclopedia, 06 Jul 2012, https://www.worldhistory.org/Maya_Civilization/. Web. 02 Dec 2025.
+
+- 7000 BCE - 2000 BCE The Archaic Period in Mesoamerica during which hunter-gatherer culture moved toward agriculture.
+
+- c. 2600 BCE Mayan Culture buries their dead individually under homes.
+
+- 1200 BCE - 300 BCE The Olmec Period which saw the rise of the Olmec culture's work in stone, first major cities appear.
+
+- c. 700 BCE Tomb of Mayan King K'utz Chman of Retalhuleu constructed in Guatemala.
+
+- 600 BCE - 800 CE The Zapotec Period in which writing, mathematics, and astronomy were disseminated. Calendar developed.
+
+- 331 BCE Traditional founding date of Maya Copán.
+
+- 200 CE - 900 CE The Teotihuacan Period in which the city of Teotihuacan dominates as an important religious and cultural center.
+
+- 250 CE - 900 CE The El Tajin Period, so named for the great city of El Tajin. Urban centers proliferate and the game of Pok-a-Tok is developed.
+
+- 250 CE - 950 CE The Classic Maya Period which saw the height of the Maya Civilization in cities such as Chichen Itza, Palenque, Tikal, Copan and Uxmal.
+
+- 320 CE Traditional Maya founding date of Yaxchilan.
+
+- 331 CE Traditional founding date of Maya Copan.
+
+- 378 CE First contact between Teotihuacan and Tikal.
+
+- 426 CE - 437 CE Reign of the first named Copan ruler K'inich Yax K'uk Mo.
+
+- c. 580 CE - c. 800 CE Maya Yaxchilan flourishes.
+
+- 615 CE - 683 CE Reign of Kinich Janaab Pacal I or Pakal the Great, king of Maya Palenque.
+
+- 682 CE - 734 CE Reign of Jasaw Chan K'awiil at Tikal.
+
+- c. 700 CE The Maya city and temple complex of Chacchoben is built.
+
+- c. 750 CE - c. 1200 CE Chichen Itza flourishes in Yucatan, Mexico.
+
+- c. 800 CE The Maya city of Palenque is abandoned.
+
+- 850 CE - 925 CE Uxmal establishes itself as the capital of the Puuc region of Yucatan.
+
+- c. 900 CE Maya Tikal is definitively abandoned.
+
+- 950 CE - 1524 CE The Post-Classic Period in which the cities were abandoned and the region was invaded by the Spanish conquerors.
+
+- Jul 1524 CE The Battle of Utatlan in which the last Maya resistance is crushed by the conquistador Pedro de Alvarado. Traditional date of the end of the Maya Civilization.
+
+- 12 Jul 1562 CE Diego de Landa, Bishop of the Yucatan, burns the books and images of the Maya outside the church at Mani.
+
+- 1840 CE The Maya civilization is discovered by John Lloyd Stephens and Frederick Catherwood who explore and document the ruins.
+
+- History delivered to you once a week:
+
+- World History Encyclopedia is a non-profit organization publishing free history content that has been carefully researched and reviewed.
+- If you liked this content, please consider donating at www.worldhistory.org/donate/.
+- To remove this message from printouts, you can become a supporting member at www.worldhistory.org/membership/.
+- Thank you for supporting our work!
+
+- Numerous educational institutions recommend us, including Oxford University.
+- We have been reviewed for educational use by Common Sense Education, Internet Scout (University of Wisconsin), Merlot (California State University), OER Commons, the School Library Journal and Teach Magazine.
+- Please note that some of these recommendations are listed under our former name, Ancient History Encyclopedia.
+
+- World History Foundation is a 501(c)3 charity registered in the United States. World History Publishing is a non-profit organization registered in the United Kingdom. World History Foundation is a non-profit organization registered in Québec, Canada.
