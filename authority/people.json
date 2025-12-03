@@ -2748,5 +2748,40 @@
     "id": "person:mori",
     "label": "Māori (ethnic group)",
     "aliases": []
+  },
+  {
+    "id": "person:marco-polo",
+    "label": "Marco Polo (1254 C.E. –1324 C.E.)",
+    "aliases": []
+  },
+  {
+    "id": "person:ferdinand-von-richthofen",
+    "label": "Ferdinand von Richthofen",
+    "aliases": []
+  },
+  {
+    "id": "person:general-zhang-qian",
+    "label": "General Zhang Qian (Han Dynasty diplomat)",
+    "aliases": []
+  },
+  {
+    "id": "person:mao-zedong",
+    "label": "Mao Zedong",
+    "aliases": []
+  },
+  {
+    "id": "person:zhang-qian",
+    "label": "Zhang Qian",
+    "aliases": []
+  },
+  {
+    "id": "person:marco-polo-1",
+    "label": "Marco Polo",
+    "aliases": []
+  },
+  {
+    "id": "person:xuanzang",
+    "label": "Xuanzang",
+    "aliases": []
   }
 ]
