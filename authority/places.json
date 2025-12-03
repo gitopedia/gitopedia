@@ -923,5 +923,65 @@
     "id": "place:polynesian-spa",
     "label": "Polynesian Spa",
     "aliases": []
+  },
+  {
+    "id": "place:kharanaq",
+    "label": "Kharanaq (Iran)",
+    "aliases": []
+  },
+  {
+    "id": "place:xanadu",
+    "label": "Xanadu (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:samarkand",
+    "label": "Samarkand",
+    "aliases": []
+  },
+  {
+    "id": "place:ctesiphon",
+    "label": "Ctesiphon",
+    "aliases": []
+  },
+  {
+    "id": "place:central-asia",
+    "label": "Central Asia",
+    "aliases": []
+  },
+  {
+    "id": "place:middle-east",
+    "label": "Middle East",
+    "aliases": []
+  },
+  {
+    "id": "place:europe",
+    "label": "Europe",
+    "aliases": []
+  },
+  {
+    "id": "place:bactria",
+    "label": "Bactria",
+    "aliases": []
+  },
+  {
+    "id": "place:tarim-basin",
+    "label": "Tarim Basin",
+    "aliases": []
+  },
+  {
+    "id": "place:gandhara",
+    "label": "Gandhara",
+    "aliases": []
+  },
+  {
+    "id": "place:kashgar",
+    "label": "Kashgar",
+    "aliases": []
+  },
+  {
+    "id": "place:bukhara",
+    "label": "Bukhara",
+    "aliases": []
   }
 ]

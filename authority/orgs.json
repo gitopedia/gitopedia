@@ -843,5 +843,20 @@
     "id": "org:iwi",
     "label": "iwi (Māori tribes)",
     "aliases": []
+  },
+  {
+    "id": "org:unesco",
+    "label": "UNESCO (United Nations Educational, Scientific, and Cultural Organization)",
+    "aliases": []
+  },
+  {
+    "id": "org:belt-and-road-initiative",
+    "label": "Belt and Road Initiative (BRI)",
+    "aliases": []
+  },
+  {
+    "id": "org:belt-and-road-initiative-1",
+    "label": "Belt and Road Initiative",
+    "aliases": []
   }
 ]

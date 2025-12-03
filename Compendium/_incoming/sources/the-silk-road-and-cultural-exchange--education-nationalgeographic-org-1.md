@@ -1,0 +1,112 @@
+---
+id: 01KBGSNQCNWN5DENPS5H31ADGP
+slug: "the-silk-road-and-cultural-exchange--education-nationalgeographic-org-1"
+title: "Source: The Silk Road - Education"
+url: "https://education.nationalgeographic.org/resource/silk-road/"
+type: source
+related_article: "the-silk-road-and-cultural-exchange"
+created: 2025-12-03T00:26:54Z
+tags: ["topic:silk-road", "topic:black-death-1", "topic:pax-mongolica", "topic:age-of-exploration", "topic:cultural-exchange", "topic:the-silk-road-and-cultural-exchange"]
+people: ["person:marco-polo", "person:ferdinand-von-richthofen"]
+orgs: ["org:unesco"]
+places: ["place:kharanaq", "place:xanadu"]
+summary: "Summarized source material for the-silk-road-and-cultural-exchange"
+model: "code-prefilter"
+language: "en"
+researcher_version: "0.3.3"
+---
+
+# the-silk-road-and-cultural-exchange
+
+- For more than 1,500 years, the network of routes known as the Silk Road contributed to the exchange of goods and ideas among diverse cultures.
+
+- Social Studies, Ancient Civilizations, World History
+
+- A tourist looks around the ancient city of Kharanaq, Iran. Towns such as these played a crucial role in the operation and success of the Silk Road.
+
+- The Silk Road is neither an actual road nor a single route.
+- The term instead refers to a network of routes used by traders for more than 1,500 years, from when the Han dynasty of China opened trade in 130 B.C.E. until 1453 C.E., when the Ottoman Empire closed off trade with the West.
+- German geographer and traveler Ferdinand von Richthofen first used the term “silk road” in 1877 C.E. to describe the well-traveled pathway of goods between Europe and East Asia.
+- The term also serves as a metaphor for the exchange of goods and ideas between diverse cultures.
+- Although the trade network is commonly referred to as the Silk Road, some historians favor the term Silk Routes because it better reflects the many paths taken by traders.
+
+- The Silk Road extended approximately 6,437 kilometers (4,000 miles) across some of the world’s most formidable landscapes, including the Gobi Desert and the Pamir Mountains.
+- With no one government to provide upkeep, the roads were typically in poor condition.
+- To protect themselves, traders joined together in caravans with camels or other pack animals.
+- Over time, large inns called caravanserais cropped up to house travelling merchants.
+- Few people traveled the entire route, giving rise to a host of middlemen and trading posts along the way.
+
+- An abundance of goods traveled along the Silk Road.
+- Merchants carried silk from China to Europe, where it dressed royalty and wealthy patrons.
+- Other favorite commodities from Asia included jade and other precious stones, porcelain, tea, and spices.
+- In exchange, horses, glassware, textiles, and manufactured goods traveled eastward.
+
+- One of the most famous travelers of the Silk Road was Marco Polo (1254 C.E. –1324 C.E.).
+- Born into a family of wealthy merchants in Venice, Italy, Marco traveled with his father to China (then Cathay) when he was just 17 years of age.
+- They traveled for over three years before arriving at Kublai Khan’s palace at Xanadu in 1275 C.E.
+- Marco stayed on at Khan’s court and was sent on missions to parts of Asia never before visited by Europeans.
+- Upon his return, Marco Polo wrote about his adventures, making him—and the routes he traveled—famous.
+
+- It is hard to overstate the importance of the Silk Road on history.
+- Religion and ideas spread along the Silk Road just as fluidly as goods.
+- Towns along the route grew into multicultural cities.
+- The exchange of information gave rise to new technologies and innovations that would change the world.
+- The horses introduced to China contributed to the might of the Mongol Empire, while gunpowder from China changed the very nature of war in Europe and beyond.
+- Diseases also traveled along the Silk Road.
+- Some research suggests that the Black Death, which devastated Europe in the late 1340s C.E., likely spread from Asia along the Silk Road.
+- The Age of Exploration gave rise to faster routes between the East and West, but parts of the Silk Road continued to be critical pathways among varied cultures.
+- Today, parts of the Silk Road are listed on UNESCO’s World Heritage List.
+
+- (1400s-1800s) period during which Europeans traveled the world by ocean in search of trade.
+
+- (1345-1400) plague that devastated Europe, killing a quarter of the population.
+
+- group of people who travel together for safety and companionship through difficult territory.
+
+- inn with a central courtyard often found in the desert that served travelers along the Silk Road in Asia and North Africa
+
+- word or phrase used to represent something else, or an understanding of one concept in terms of another concept.
+
+- soft, strong fiber spun by some moth larvae, spiders, and other animals.
+
+- cloth or other woven fabric.
+
+- path followed by merchants or explorers to exchange goods and services.
+
+- the United Nations Educational, Scientific, and Cultural Organization.
+
+- The audio, illustrations, photos, and videos are credited beneath the media asset, except for promotional images, which generally link to another page that contains the media credit. The Rights Holder for media is the person or group credited.
+
+- If a media asset is downloadable, a download button appears in the corner of the media viewer. If no button appears, you cannot download or save the media.
+
+- Any interactives on this page can only be played while you are visiting our website. You cannot download interactives.
+
+- Connecting the Globe Along the Silk Road
+
+- The Silk Road has connected far-flung peoples and civilizations throughout the world for hundreds of years. Some of those ancient pathways are getting a modern makeover.
+
+- Paul Salopek meets some of the last traditional makers of silk in Uzbekistan. He shares the history of silk cultivation and the immense skill needed to create silk fabric.
+
+- The Pax Mongolica ushered in an era of stability and commerce that successfully connected Europe and East Asia.
+
+- This is an educator idea for teaching the significance of the Silk Roads to cultural development. The idea involves linking a map of the Silk Roads during China's Han Dynasty to Italian explorer Marco Polo’s descriptions of the area and to current-day photographs.
+
+- idea setConnecting the Globe Along the Silk RoadThe Silk Road has connected far-flung peoples and civilizations throughout the world for hundreds of years. Some of those ancient pathways are getting a modern makeover.93
+
+- Connecting the Globe Along the Silk Road
+
+- The Silk Road has connected far-flung peoples and civilizations throughout the world for hundreds of years. Some of those ancient pathways are getting a modern makeover.
+
+- articleCocoon of DaysPaul Salopek meets some of the last traditional makers of silk in Uzbekistan. He shares the history of silk cultivation and the immense skill needed to create silk fabric.10
+
+- Paul Salopek meets some of the last traditional makers of silk in Uzbekistan. He shares the history of silk cultivation and the immense skill needed to create silk fabric.
+
+- encyclopedic entryThe Pax MongolicaThe Pax Mongolica ushered in an era of stability and commerce that successfully connected Europe and East Asia.61
+
+- The Pax Mongolica ushered in an era of stability and commerce that successfully connected Europe and East Asia.
+
+- mapThe Silk RoadsThis is an educator idea for teaching the significance of the Silk Roads to cultural development. The idea involves linking a map of the Silk Roads during China's Han Dynasty to Italian explorer Marco Polo’s descriptions of the area and to current-day photographs.163
+
+- This is an educator idea for teaching the significance of the Silk Roads to cultural development. The idea involves linking a map of the Silk Roads during China's Han Dynasty to Italian explorer Marco Polo’s descriptions of the area and to current-day photographs.
+
+- National Geographic Headquarters 1145 17th Street NW Washington, DC 20036
