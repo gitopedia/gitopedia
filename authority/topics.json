@@ -5953,5 +5953,280 @@
     "id": "topic:cultural-identity",
     "label": "Cultural Identity",
     "aliases": []
+  },
+  {
+    "id": "topic:human-microbiome",
+    "label": "Human Microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:microbiome",
+    "label": "microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:gut-microbiota",
+    "label": "gut microbiota",
+    "aliases": []
+  },
+  {
+    "id": "topic:archaea",
+    "label": "archaea",
+    "aliases": []
+  },
+  {
+    "id": "topic:methanogens",
+    "label": "methanogens",
+    "aliases": []
+  },
+  {
+    "id": "topic:commensal-microbes",
+    "label": "commensal microbes",
+    "aliases": []
+  },
+  {
+    "id": "topic:symbiotic-microbes",
+    "label": "symbiotic microbes",
+    "aliases": []
+  },
+  {
+    "id": "topic:pathogenic-microbes",
+    "label": "pathogenic microbes",
+    "aliases": []
+  },
+  {
+    "id": "topic:normal-flora",
+    "label": "normal flora",
+    "aliases": []
+  },
+  {
+    "id": "topic:gut-microbiome",
+    "label": "gut microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:dysbiosis",
+    "label": "dysbiosis",
+    "aliases": []
+  },
+  {
+    "id": "topic:probiotic",
+    "label": "probiotic",
+    "aliases": []
+  },
+  {
+    "id": "topic:symbiosis",
+    "label": "symbiosis",
+    "aliases": []
+  },
+  {
+    "id": "topic:streptococcus-mutans",
+    "label": "Streptococcus mutans",
+    "aliases": []
+  },
+  {
+    "id": "topic:propionibacterium-acnes",
+    "label": "Propionibacterium acnes",
+    "aliases": []
+  },
+  {
+    "id": "topic:staphylococcus-hominis",
+    "label": "Staphylococcus hominis",
+    "aliases": []
+  },
+  {
+    "id": "topic:staphylococcus-epidermidis",
+    "label": "Staphylococcus epidermidis",
+    "aliases": []
+  },
+  {
+    "id": "topic:lactobacillus",
+    "label": "Lactobacillus",
+    "aliases": []
+  },
+  {
+    "id": "topic:antibiotic",
+    "label": "antibiotic",
+    "aliases": []
+  },
+  {
+    "id": "topic:microbe",
+    "label": "microbe",
+    "aliases": []
+  },
+  {
+    "id": "topic:skin-microbiome",
+    "label": "skin microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:probiotics",
+    "label": "probiotics",
+    "aliases": []
+  },
+  {
+    "id": "topic:prebiotics",
+    "label": "prebiotics",
+    "aliases": []
+  },
+  {
+    "id": "topic:gut-brain-axis",
+    "label": "gut-brain axis",
+    "aliases": []
+  },
+  {
+    "id": "topic:immune-system",
+    "label": "immune system",
+    "aliases": []
+  },
+  {
+    "id": "topic:mental-health",
+    "label": "mental health",
+    "aliases": []
+  },
+  {
+    "id": "topic:antibiotics",
+    "label": "antibiotics",
+    "aliases": []
+  },
+  {
+    "id": "topic:fermented-foods",
+    "label": "fermented foods",
+    "aliases": []
+  },
+  {
+    "id": "topic:fiber",
+    "label": "fiber",
+    "aliases": []
+  },
+  {
+    "id": "topic:polyphenols",
+    "label": "polyphenols",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-skin-microbiome",
+    "label": "human skin microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:cutibacterium-acnes",
+    "label": "Cutibacterium acnes",
+    "aliases": []
+  },
+  {
+    "id": "topic:malassezia",
+    "label": "Malassezia",
+    "aliases": []
+  },
+  {
+    "id": "topic:acne",
+    "label": "acne",
+    "aliases": []
+  },
+  {
+    "id": "topic:eczema",
+    "label": "eczema",
+    "aliases": []
+  },
+  {
+    "id": "topic:psoriasis",
+    "label": "psoriasis",
+    "aliases": []
+  },
+  {
+    "id": "topic:dandruff",
+    "label": "dandruff",
+    "aliases": []
+  },
+  {
+    "id": "topic:seborrheic-dermatitis",
+    "label": "seborrheic dermatitis",
+    "aliases": []
+  },
+  {
+    "id": "topic:microbial-dysbiosis",
+    "label": "microbial dysbiosis",
+    "aliases": []
+  },
+  {
+    "id": "topic:immune-system-modulation",
+    "label": "immune system modulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:microbiome-targeted-treatments",
+    "label": "microbiome-targeted treatments",
+    "aliases": []
+  },
+  {
+    "id": "topic:fmt-success-rates",
+    "label": "FMT success rates",
+    "aliases": []
+  },
+  {
+    "id": "topic:probiotic-efficacy-trials",
+    "label": "probiotic efficacy trials",
+    "aliases": []
+  },
+  {
+    "id": "topic:oral-microbiome",
+    "label": "oral microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:vaginal-microbiome",
+    "label": "vaginal microbiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:thanatomicrobiome",
+    "label": "thanatomicrobiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:necrobiome",
+    "label": "necrobiome",
+    "aliases": []
+  },
+  {
+    "id": "topic:bifidobacterium",
+    "label": "Bifidobacterium",
+    "aliases": []
+  },
+  {
+    "id": "topic:clostridioides-difficile",
+    "label": "Clostridioides difficile",
+    "aliases": []
+  },
+  {
+    "id": "topic:obesity",
+    "label": "obesity",
+    "aliases": []
+  },
+  {
+    "id": "topic:mental-health-disorders",
+    "label": "mental health disorders",
+    "aliases": []
+  },
+  {
+    "id": "topic:irritable-bowel-syndrome",
+    "label": "irritable bowel syndrome",
+    "aliases": []
+  },
+  {
+    "id": "topic:metabolic-disorders",
+    "label": "metabolic disorders",
+    "aliases": []
+  },
+  {
+    "id": "topic:fecal-microbiota-transplants",
+    "label": "fecal microbiota transplants",
+    "aliases": []
+  },
+  {
+    "id": "topic:synthetic-probiotics",
+    "label": "synthetic probiotics",
+    "aliases": []
   }
 ]
