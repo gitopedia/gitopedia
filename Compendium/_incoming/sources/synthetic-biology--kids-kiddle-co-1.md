@@ -1,0 +1,418 @@
+---
+id: 01KBDC06678G2DAD4D1WGWVZD2
+slug: "synthetic-biology--kids-kiddle-co-1"
+title: "Source: Synthetic biology Facts for Kids - Kids encyclopedia"
+url: "https://kids.kiddle.co/Synthetic_biology"
+type: source
+related_article: "synthetic-biology"
+created: 2025-12-02
+tags: ["topic:synthetic-biology"]
+summary: "Summarized source material for Synthetic Biology"
+model: "code-prefilter"
+language: "en"
+---
+
+# Synthetic Biology
+
+- Synthetic biology facts for kids
+
+- Synthetic biology (often called SynBio) is a science field that mixes engineering with biology. It's all about designing and building new biological parts, devices, and systems. It also involves changing existing living systems found in nature for new uses.
+
+- This field uses ideas from many different sciences. These include biochemistry (the chemistry of living things), genetic engineering (changing genes), and molecular biology (studying molecules in cells). It also uses biophysics (physics of living things) and computer engineering.
+
+- Imagine being able to design and build tiny biological machines or even redesign living things. That's what synthetic biology aims to do! It wants to create new things that don't exist in nature. These new systems would have special abilities and work in predictable ways.
+
+- What Synthetic Biology Aims For
+
+- Different Ways to Do Synthetic Biology Bioengineering Synthetic Genomics Protocell Synthetic Biology Unconventional Molecular Biology In Silico Technique
+
+- Protocell Synthetic Biology
+
+- Unconventional Molecular Biology
+
+- Four Ways to Engineer Life Top-down Approach Bottom-up Approach Parallel Approach Orthogonal Approach
+
+- Tools for Synthetic Biology DNA and Gene Synthesis Sequencing Modularity Modeling Microfluidics
+
+- DNA and Gene Synthesis
+
+- What Synthetic Biology Can Do Biosensors Food and Drink Materials Biological Computers Cell Transformation Designed Proteins Designed Nucleic Acid Systems Space Exploration Synthetic Life Drug Delivery Platforms Engineered Bacteria-based Platform Engineered Yeast-based Platform Cell-based Platform Biofuels, Medicines, and Biomaterials CRISPR/Cas9 Regulatory Elements Organoids Bioprinted Organs Other Transplants and Induced Regeneration Nanoparticles, Artificial Cells, and Micro-droplets Electrogenetics
+
+- Designed Nucleic Acid Systems
+
+- Drug Delivery Platforms Engineered Bacteria-based Platform Engineered Yeast-based Platform Cell-based Platform
+
+- Engineered Bacteria-based Platform
+
+- Engineered Yeast-based Platform
+
+- Biofuels, Medicines, and Biomaterials
+
+- Other Transplants and Induced Regeneration
+
+- Nanoparticles, Artificial Cells, and Micro-droplets
+
+- Thinking About Ethics Creating New Life Ethical Support for Synthetic Biology Biosafety and Biocontainment Biosecurity and Bioterrorism European Union United States Opposition
+
+- Ethical Support for Synthetic Biology
+
+- Biosafety and Biocontainment
+
+- Biosecurity and Bioterrorism
+
+- Here are some important moments in the history of synthetic biology:
+
+- 1910: The term synthetic biology was first used by Stéphane Leduc. He wrote about it in his book Théorie physico-chimique de la vie et générations spontanées.
+
+- 1944: Scientist Oswald Avery showed that DNA is the material that makes up genes and chromosomes. This was a huge step for all future gene research.
+
+- 1953: Francis Crick and James Watson figured out the structure of DNA. They published their discovery in the science magazine Nature.
+
+- 1973: The first time DNA was copied and multiplied in a plasmid (a small DNA circle) was published. This was done by Cohen, Boyer, and others. Many people see this as the start of synthetic biology.
+
+- 1978: Scientists won the Nobel Prize in Physiology or Medicine for finding restriction enzymes. These are like tiny scissors that cut DNA. This led to the idea of building new gene arrangements.
+
+- 1988: The polymerase chain reaction (PCR) was improved. This made it much easier to change and build DNA.
+
+- 2000: Scientists reported creating synthetic biological circuits in E. coli cells. These were like tiny genetic switches and clocks.
+
+- 2003: BioBrick plasmids were invented by Tom Knight. These are standardized DNA parts that are now used a lot in the International Genetically Engineered Machine (iGEM) competition.
+
+- 2010: Researchers published the first synthetic bacterial genome. This means they built a whole bacterial DNA from scratch.
+
+- 2012: The CRISPR-Cas9 system was discovered. This technology made it much simpler to edit genes in many organisms.
+
+- 2019: Scientists created the first bacterial genome designed entirely by a computer.
+
+- 2020: The first xenobot was created. This is a programmable synthetic organism made from frog cells and designed by AI.
+
+- 2021: Scientists reported that xenobots can even make copies of themselves!
+
+- What Synthetic Biology Aims For
+
+- Synthetic biology is a field that is always growing. It wants to use the power of nature to solve big problems. These problems are in areas like farming, making things, and medicine.
+
+- The cost of making and reading DNA has gone down a lot. This has helped synthetic biology grow very quickly. In 2016, there were over 350 companies working on synthetic biology. They were worth about $3.9 billion!
+
+- One way to think about it is combining biology and engineering. The goal is to design DNA that has been made in a lab. This DNA can then be used to create organisms with new or better features.
+
+- Some scientists want to build a "toolkit" of biological parts. These parts could be put into living cells to give them new abilities. Others want to build whole new chromosomes or very simple organisms.
+
+- Different Ways to Do Synthetic Biology
+
+- Synthetic biology can be divided into five main areas. Understanding these helps us see the different ways scientists work in this field.
+
+- This area focuses on creating new ways for cells to work and control themselves. It's like building new roads and traffic lights inside a cell. Bioengineering wants to make biotechnology more like a true engineering field.
+
+- For example, traditional genetic engineering might put one new gene into an organism. Bioengineering, however, looks at the whole system. It might create a whole new pathway with many genes working together. This could make a cell produce a special protein at certain times.
+
+- The goal is to use simple, standardized parts that can be easily combined. This makes it easier to predict and control what the new biological systems will do.
+
+- This part of synthetic biology is about making organisms with DNA that has been built in a lab. Thanks to new ways of making DNA, it's now possible to create very long DNA molecules.
+
+- The idea is to build a complete set of DNA (a genome) and put it into a living cell. This new genome would take over and make the cell do new things. Scientists have already made infectious viruses by building their genomes from scratch.
+
+- This area also aims to create "chassis genomes." These are like basic car frames that can be easily added to. They would have only the necessary genes. This makes it easier to add new functions without causing problems with the cell's natural systems.
+
+- Protocell Synthetic Biology
+
+- This area focuses on creating artificial cells in a lab. These "protocells" are like tiny bubbles (lipid vesicles) that contain everything needed to act like a simple cell.
+
+- The ultimate goal is for these synthetic cells to be truly "alive." This means they could copy themselves, keep themselves going, and even evolve. Even simpler protocells can be made to do specific jobs, like making a certain protein.
+
+- This field is like basic research into what makes something alive. But these protocells could also be used to make useful things, like new materials or medicines.
+
+- Unconventional Molecular Biology
+
+- This approach tries to create new kinds of life based on different types of molecules. Imagine changing the basic building blocks of DNA or creating a new genetic code!
+
+- For example, scientists might change parts of DNA or RNA. They could also change the genetic code so that cells use new amino acids (the building blocks of proteins). This would create proteins with unique features.
+
+- Organisms with these new systems would be very different from natural life. This could have benefits, like being resistant to natural viruses. But it could also have risks if they escaped into the environment.
+
+- "In silico" means "done on a computer." This area of synthetic biology uses computers to design complex biological systems. It's like creating a blueprint or a simulation before building the real thing.
+
+- Computers can help predict how new metabolic pathways or synthetic circuits will behave. The long-term goal is to use these computer models to guide the actual building of biological systems in the lab.
+
+- This field is important because designing complex biological systems is very hard. Computer models help scientists explore many ideas and predict outcomes before doing expensive and time-consuming experiments.
+
+- Four Ways to Engineer Life
+
+- Synthetic biology also has four main engineering approaches:
+
+- This approach starts with existing living cells and tries to make them simpler. Scientists use genetic engineering to give these cells new functions. They try to remove genes that are not essential to create a "minimal genome."
+
+- The idea is to understand what the most basic parts of life are. However, making a cell too simple can make it "fragile" and less able to survive.
+
+- This approach is the opposite. It involves building new biological systems from scratch, using non-living parts. The goal is often to create an artificial cell.
+
+- Scientists focus on how things reproduce, copy themselves, and come together. They might create tiny containers (like bubbles made of fats) that can carry out basic life functions. This research helps us understand how life might have started.
+
+- This approach is also called bioengineering. It uses the basic genetic code and standard biological molecules (like DNA and the 20 common amino acids). The goal is to build biological systems for many uses.
+
+- This includes making standardized DNA parts and creating genetic switches or sensors. These can be used in areas like biocomputing (using biology for computing), bioenergy, and medicine. Many of these systems use small, circular DNA pieces called plasmids.
+
+- This approach is also known as "perpendicular engineering" or "chemical synthetic biology." It aims to change or expand the genetic code of living systems. This might involve using artificial DNA bases or new amino acids.
+
+- This field is connected to xenobiology, which studies life based on different chemistry. Scientists have created "xeno" (alien) DNA molecules that can carry genetic information. They have also changed the genetic code to include new amino acids.
+
+- This could lead to new types of life that are resistant to natural viruses. However, it also raises questions about what would happen if these organisms escaped into the environment.
+
+- Tools for Synthetic Biology
+
+- Several new technologies have been key to the success of synthetic biology.
+- These include making biological parts standard and building systems in layers, like building with LEGOs.
+- DNA is like the instruction manual for life.
+- Our ability to read (sequence) and write (synthesize) DNA has changed a lot.
+
+- DNA and Gene Synthesis
+
+- It's now much cheaper and easier to make long pieces of DNA. In 2003, scientists built the entire 5386 base pair genome of a virus in about two weeks! In 2007, companies were making genetic sequences up to 2000 base pairs long for about $1 per base pair.
+
+- The CRISPR/Cas system is also a very important tool for editing genes. It makes gene editing much faster, taking weeks instead of months or years. However, because it's so easy to use, it has raised some ethical concerns.
+
+- DNA sequencing is about figuring out the exact order of the building blocks in a DNA molecule. Synthetic biologists use this in several ways:
+
+- It helps them understand natural organisms.
+
+- It lets them check if the DNA they built is correct.
+
+- It helps them quickly find and identify synthetic systems.
+
+- This means that a part or system can work on its own, without needing to know about its surroundings.
+
+- The most common standardized DNA parts are BioBrick plasmids.
+- These were invented in 2003 and are stored at the Registry of Standard Biological Parts.
+- Many students use BioBricks in the international Genetically Engineered Machine (iGEM) competition.
+- BioBricks are designed so that different parts can be easily swapped in and out.
+
+- Computer models help scientists design biological systems. They can predict how a system will behave before it's actually built. Synthetic biology uses models to understand how molecules interact and how DNA controls cells.
+
+- These models can simulate everything from how genes are turned on and off to how proteins are made. This helps scientists design new systems more accurately.
+
+- Microfluidics is a new tool that uses tiny channels to handle very small amounts of fluids. It's used to build new components and test them. It's especially useful for screening many different biological reactions at once.
+
+- What Synthetic Biology Can Do
+
+- Synthetic biology often aims to change organisms so they can make new materials, like medicines or fuel. Or, it can give them new abilities, like sensing things in the environment. Here are some examples:
+
+- Cleaning up the environment: Using tiny organisms to remove pollution from water, soil, and air.
+
+- Making medicines: Producing complex natural products, like the anti-malaria drug artemisinin, which are hard to get from plants.
+
+- Improving food: Creating rice that makes beta-carotene, which helps prevent vitamin A deficiency in children.
+
+- New scents: Engineering yeast to produce rose oil, a sustainable way to make expensive perfumes.
+
+- A biosensor is an engineered organism, usually a bacterium, that can detect something in its environment. For example, it could sense heavy metals or toxins.
+
+- One sensor was made using bacteria that glow when they detect oil pollutants. Another example is E. coli engineered to glow green when it senses chemicals found in landmines.
+
+- These modified organisms can sense signals and send out signals that can be detected. This helps with diagnosis and monitoring.
+
+- Synthetic biology can also help make new kinds of food and drinks. For example, scientists are working on synthetic coffee. Other areas include:
+
+- Genetically engineered microbial food cultures (like for protein powder).
+
+- Making food ingredients without using whole cells (like starch).
+
+- Scientists have used photosynthetic microbes to help make spider silk in a lab. This could lead to new strong materials.
+
+- A biological computer is a living system engineered to do computer-like tasks. Scientists have built different logic gates (like those in computer chips) inside living cells. They've shown that bacteria can perform both analog and digital calculations.
+
+- In 2011, researchers even used this idea to design a treatment that could find and kill human cancer cells.
+
+- Cells use interacting genes and proteins, called gene circuits, to do many jobs. Synthetic biologists design these circuits to control how genes are expressed.
+
+- This has helped improve how we make things like the anti-malaria drug Artemisinin using E. coli and yeast.
+
+- While whole organisms haven't been built from scratch yet, living cells can be given new DNA. This new DNA gives the cell new abilities. Cell transformation is used to create biological circuits that can be controlled to get desired results.
+
+- By combining synthetic biology with materials science, cells could become tiny factories. They could produce materials whose properties are built into their genes.
+
+- Scientists can design new proteins that work as well as or even better than natural ones. For example, one group made a protein that could bind oxygen like hemoglobin, but didn't bind carbon monoxide.
+
+- Another common area is expanding the natural set of 20 amino acids. Scientists can make cells use new, "non-natural" amino acids. This allows them to create proteins with special new features.
+
+- Researchers also study proteins by reducing the number of amino acids they use. This helps them understand what is essential for a protein to work.
+
+- Synthetic biology helps make industrial enzymes that work very well. These enzymes can improve products like detergents and lactose-free dairy products.
+
+- Designed Nucleic Acid Systems
+
+- Scientists can store digital information on a single strand of synthetic DNA. In 2012, George M. Church stored one of his books in DNA. This was a huge amount of data! Another project stored all of William Shakespeare's sonnets in DNA.
+
+- Many tools and algorithms help design new genetic systems. Technologies have also been made to put "unnatural" building blocks into DNA and proteins. In 2014, researchers put two new artificial nucleotides into bacterial DNA.
+
+- NASA is interested in synthetic biology because it could help astronauts produce resources in space. For example, on Mars, synthetic biology could help make things using local materials. This would make outposts less dependent on supplies from Earth.
+
+- Scientists are also working on plant types that can handle the harsh environment on Mars.
+
+- An important topic in synthetic biology is synthetic life. This means creating organisms in a lab from biological molecules or similar chemicals. These experiments try to understand how life began, study life's properties, or even try to create life from non-living parts.
+
+- Synthetic life aims to create living organisms that can do important jobs. These jobs could range from making medicines to cleaning up polluted land and water. In medicine, it could lead to new treatments and diagnostic tools.
+
+- A "living artificial cell" would be a completely synthetic cell that can get energy, keep its balance, hold large molecules, store information, and even change over time. No one has created such a cell yet.
+
+- In 2010, Craig Venter and his team made a complete synthetic bacterial chromosome. They put it into empty bacterial cells, and the cells were able to grow and copy themselves. This organism, Mycoplasma laboratorium, is the only living thing with a completely engineered genome.
+
+- In 2014, the first living organism with an "artificial" expanded DNA code was created. In 2019, scientists made a new synthetic form of life. It was a type of Escherichia coli with a reduced number of codons (DNA instructions).
+
+- Drug Delivery Platforms
+
+- Synthetic biology has made big steps in medicine. It helps find new ways to treat diseases and deliver medicines.
+
+- Scientists have designed synthetic biology devices to act as treatments.
+- For example, modified viruses and organisms can be controlled to target specific diseases.
+- Researchers have used genetically modified bacteriophages (viruses that infect bacteria) to fight bacteria that are resistant to antibiotics.
+
+- In cancer treatment, traditional medicines often harm healthy tissues too. Artificially created viruses and organisms can be designed to find and target only the diseased cells. For example, adenoviruses were modified to control how they copied themselves based on signals from cancer cells.
+
+- Bacteria have been used in cancer treatment for a long time.
+- Synthetic biologists can now reprogram bacteria to sense and respond to specific cancer conditions.
+- Often, bacteria are used to deliver a therapeutic molecule directly to a tumor.
+- This helps reduce side effects on healthy parts of the body.
+
+- Many types of bacteria are used, like Salmonella typhimurium and Escherichia coli. Each type has its own special features for cancer therapy.
+
+- Synthetic biologists are also developing genetically modified yeast that can deliver medicines. When taken by mouth, these live yeast act like tiny factories. They make therapeutic molecules directly in the gut.
+
+- For example, a modified yeast is being developed to treat a serious gut infection called Clostridioides difficile. This yeast delivers a special anti-toxin right where it's needed.
+
+- The immune system is important in fighting cancer. Cell-based therapies focus on using the immune system, often by engineering T cells.
+
+- Scientists have engineered T cell receptors to find cancer cells. They have also designed "gene switches" to make treatments safer. For example, "kill switches" can be added to stop the therapy if a patient has bad side effects.
+
+- Biofuels, Medicines, and Biomaterials
+
+- Ethanol is a common biofuel, but making it from corn or sugar cane can be costly. Synthetic biology can change microbes to be better at turning plant material into biofuels. These methods need to be cost-effective to compete with current fuels.
+
+- Synthetic biology can also help make expensive medicines more affordable. It can also create new materials and help produce biomaterials using microbes.
+
+- The CRISPR/Cas system is a powerful way to edit genes in many organisms.
+- It's simple, flexible, and can be used on a large scale.
+- A guide RNA (gRNA) directs the CRISPR tool (Cas9) to a specific spot in the DNA.
+- This creates a break in the DNA.
+- Then, the cell's own repair systems can be used to make desired changes, like deleting or adding a gene.
+
+- To build biological systems, controlling parts like regulators and ribosome-binding sites (RBSs) are very important. These parts help control how genes are expressed.
+
+- Scientists are always looking for new ways to find and identify these regulatory elements. This includes looking through genomes, making random changes, and using computer models.
+
+- Synthetic biology has been used to create organoids. These are tiny, lab-grown organs. They are useful for medical research and could one day be used for transplants.
+
+- 3D bioprinting For bioprinted food like meat see #Food and drink. Synthetic biology plays a role in 3D bioprinting. This is a method to create tissues and organs layer by layer, using living cells.
+
+- Other Transplants and Induced Regeneration
+
+- Research is ongoing into using synthetic biology to help humans regenerate tissues and create transplantable artificial organs.
+
+- Nanoparticles, Artificial Cells, and Micro-droplets
+
+- Synthetic biology can be used to create tiny nanoparticles. These can be used for drug delivery and other purposes. Scientists are also creating synthetic cells that act like biological cells.
+
+- For example, tiny designer nanoparticles can make blood cells remove plaque that causes heart attacks. Synthetic micro-droplets could also be used to produce hydrogen as a clean energy source.
+
+- Electrogenetics is a new area where electrical fields are used to control engineered cells. Imagine using your smartphone to control cells that produce medicines! This allows for very small and compact devices.
+
+- For example, cells have been engineered to release insulin based on electrical signals.
+
+- Thinking About Ethics
+
+- The idea of creating new life or changing existing life raises many ethical concerns in synthetic biology. People are actively discussing these questions.
+
+- Common ethical questions include:
+
+- Is it right to change nature?
+
+- Are we "playing God" when we create new life?
+
+- What happens if a synthetic organism accidentally escapes into the environment?
+
+- What if someone uses synthetic biology for harmful purposes, like creating a biological weapon?
+
+- Who will control and benefit from these new technologies?
+
+- Should living organisms or parts of them be patented?
+
+- What if a new creation can feel pain or think? Should it have rights?
+
+- The main ethical points in synthetic biology are biosafety (keeping things safe), biosecurity (preventing harm), and the creation of new life forms. Other issues include how new creations are regulated, how patents are handled, and who benefits.
+
+- Some experts argue that we should not over-regulate synthetic biology. They believe that too many rules could stop new discoveries that could help people.
+
+- One big ethical question is whether it's okay to create new life forms. Right now, new life forms are created on a small scale. The possible benefits and dangers are still being explored.
+
+- Many people believe that creating artificial life forms could bring great value to farming, medicine, and science.
+- It could expand our knowledge far beyond what we know from studying nature.
+- However, some worry that artificial life forms might harm nature's "purity." They also worry that if an artificial life form is released, it could compete with natural species.
+- Another concern is how we would treat new creations if they could feel pain or think.
+
+- Ethical Support for Synthetic Biology
+
+- Many people support synthetic biology because it could help solve big global problems. These include the environmental impact of farming, animal welfare, food security, and human health. It could also reduce the need for human labor and help people live longer, healthier lives.
+
+- Biosafety and Biocontainment
+
+- What is the safest way to work with synthetic life? How can we prevent it from accidentally getting into the natural environment? These are important questions. Biosafety means protecting workers and the public from harmful biological agents.
+
+- Most synthetic biology products are thought to be safe. They are often unable to survive outside the lab because they are "unnatural." Existing safety rules for genetically modified organisms (GMOs) are generally considered enough for synthetic organisms.
+
+- Scientists can also build "intrinsic" safety features into synthetic organisms.
+- These features limit their growth outside a controlled environment.
+- For example, some organisms can be engineered to need a special nutrient that is only found in the lab.
+- This means they can't survive in the wild if they escape.
+
+- Biosecurity and Bioterrorism
+
+- Some ethical issues relate to biosecurity. This is about preventing synthetic biology from being used to cause harm. For example, synthetic biology could make it easier to create biological weapons.
+
+- However, many of these concerns are not new. They were discussed when recombinant DNA and GMO technologies first appeared. Many countries already have strong rules for genetic engineering and pathogen research.
+
+- Some worry that new tools in synthetic biology could make it easier for people with less training to modify harmful organisms. This could increase the risk of bioterrorism.
+
+- The European Union has funded projects like SYNBIOSAFE to study how to manage synthetic biology. These projects look at safety, security, ethics, and how science interacts with society. They also focus on educating the public and encouraging dialogue among scientists, businesses, and governments.
+
+- One report focused on the "dual-use" challenge. This means synthetic biology can be used for good (like making medicines) or for harm (like creating dangerous pathogens). The "biohacking" community (amateur biologists) is a special concern because it's hard to track and regulate.
+
+- The International Association Synthetic Biology has suggested that the industry should regulate itself. This includes specific measures for companies that sell synthetic DNA.
+
+- In the U.S., several groups have studied the public's views, ethics, and policy issues of synthetic biology.
+
+- In 2010, after the first synthetic genome was published, President Barack Obama created the Presidential Commission for the Study of Bioethical Issues.
+- The commission studied synthetic biology and said it was an emerging field with both risks and rewards.
+- They did not recommend big policy changes but called for continued research and public education.
+
+- The commission noted that synthetic biology could lead to new biological weapons. It could also have unforeseen negative impacts on human health or the environment. They suggested that regulating the industry could help avoid these security issues.
+
+- In 2012, over 100 environmental and other groups called for a worldwide stop to the release and commercial use of synthetic organisms. They want stronger rules and safety measures first. They specifically called for a ban on using synthetic biology on the human genome.
+
+- The risks of synthetic biology include safety hazards for workers and the public. There are also biosecurity risks from deliberately engineering organisms to cause harm, and environmental risks.
+
+- Safety risks are similar to other biotechnology fields, like exposure to pathogens or toxic chemicals.
+- However, new synthetic organisms might have new, unknown risks.
+- For biosecurity, there's concern that synthetic organisms could be used for bioterrorism.
+- This could involve recreating known pathogens or making existing ones more dangerous.
+
+- Environmental risks include harm to biodiversity and ecosystems.
+- For example, new agricultural uses of synthetic organisms could change how land is used.
+- Synthetic biology is a "dual-use technology." This means it can be used for good or for bad.
+- Scientists often think about how their research could be misused and try to prevent it.
+
+- Existing risk analysis systems for GMOs are generally thought to be enough for synthetic organisms. However, there might be difficulties for organisms built "bottom-up" from individual genetic sequences. Synthetic biology usually falls under existing rules for GMOs and biotechnology.
+
+- ACS Synthetic Biology (journal)
+
+- Computational biology
+
+- DNA digital data storage
+
+- International Genetically Engineered Machine
+
+- Regenerative medicine
+
+- Synthetic intelligence
+
+- This page was last modified on 17 October 2025, at 10:18. Suggest an edit.
+
+- Enciclopedia Kiddle para niños
