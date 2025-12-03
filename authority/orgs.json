@@ -823,5 +823,75 @@
     "id": "org:pressbooks",
     "label": "Pressbooks",
     "aliases": []
+  },
+  {
+    "id": "org:harvard-university",
+    "label": "Harvard University",
+    "aliases": []
+  },
+  {
+    "id": "org:yale-university",
+    "label": "Yale University",
+    "aliases": []
+  },
+  {
+    "id": "org:northwestern-university",
+    "label": "Northwestern University",
+    "aliases": []
+  },
+  {
+    "id": "org:harvard-magazine",
+    "label": "Harvard Magazine",
+    "aliases": []
+  },
+  {
+    "id": "org:united-nations-framework-convention-on-climate-change",
+    "label": "United Nations Framework Convention on Climate Change (UNFCCC)",
+    "aliases": []
+  },
+  {
+    "id": "org:intergovernmental-panel-on-climate-change",
+    "label": "Intergovernmental Panel on Climate Change (IPCC)",
+    "aliases": []
+  },
+  {
+    "id": "org:food-and-agriculture-organization",
+    "label": "Food and Agriculture Organization (FAO)",
+    "aliases": []
+  },
+  {
+    "id": "org:organisation-for-economic-co-operation-and-development",
+    "label": "Organisation for Economic Co-operation and Development (OECD)",
+    "aliases": []
+  },
+  {
+    "id": "org:european-unions-green-deal",
+    "label": "European Union's Green Deal",
+    "aliases": []
+  },
+  {
+    "id": "org:dutch-ministry-of-infrastructure",
+    "label": "Dutch Ministry of Infrastructure",
+    "aliases": []
+  },
+  {
+    "id": "org:risky-business-project",
+    "label": "Risky Business Project",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte",
+    "label": "Deloitte",
+    "aliases": []
+  },
+  {
+    "id": "org:national-renewable-energy-lab",
+    "label": "National Renewable Energy Lab",
+    "aliases": []
+  },
+  {
+    "id": "org:world-green-building-council",
+    "label": "World Green Building Council",
+    "aliases": []
   }
 ]
