@@ -5883,5 +5883,75 @@
     "id": "topic:persian-empire",
     "label": "Persian Empire",
     "aliases": []
+  },
+  {
+    "id": "topic:the-maya-civilization",
+    "label": "The Maya Civilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:maya-civilization",
+    "label": "Maya civilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-codex",
+    "label": "The Codex",
+    "aliases": []
+  },
+  {
+    "id": "topic:maya-calendar",
+    "label": "Maya calendar",
+    "aliases": []
+  },
+  {
+    "id": "topic:maya-writing-system",
+    "label": "Maya writing system",
+    "aliases": []
+  },
+  {
+    "id": "topic:yucatec-maya",
+    "label": "Yucatec Maya",
+    "aliases": []
+  },
+  {
+    "id": "topic:agricultural-innovations",
+    "label": "Agricultural Innovations",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-and-mathematical-achievements",
+    "label": "Astronomical and Mathematical Achievements",
+    "aliases": []
+  },
+  {
+    "id": "topic:religious-beliefs-and-rituals",
+    "label": "Religious Beliefs and Rituals",
+    "aliases": []
+  },
+  {
+    "id": "topic:urban-planning-and-architecture",
+    "label": "Urban Planning and Architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:writing-system-and-record-keeping",
+    "label": "Writing System and Record-Keeping",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-and-political-organization",
+    "label": "Social and Political Organization",
+    "aliases": []
+  },
+  {
+    "id": "topic:governance",
+    "label": "Governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:cultural-identity",
+    "label": "Cultural Identity",
+    "aliases": []
   }
 ]
