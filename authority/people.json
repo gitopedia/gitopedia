@@ -2743,5 +2743,40 @@
     "id": "person:tienne-jules-marey",
     "label": "Étienne-Jules Marey",
     "aliases": []
+  },
+  {
+    "id": "person:adrien-bilal",
+    "label": "Adrien Bilal (assistant professor of economics)",
+    "aliases": []
+  },
+  {
+    "id": "person:diego-kanzig",
+    "label": "Diego Kanzig (Northwestern University)",
+    "aliases": []
+  },
+  {
+    "id": "person:martin-weitzman",
+    "label": "Martin Weitzman (late research professor of economics)",
+    "aliases": []
+  },
+  {
+    "id": "person:william-nordhaus",
+    "label": "William Nordhaus (Yale)",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-sandel",
+    "label": "Michael Sandel (Harvard Professor)",
+    "aliases": []
+  },
+  {
+    "id": "person:wolfram-schlenker",
+    "label": "Wolfram Schlenker (Harvard Economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-knoll",
+    "label": "Andrew Knoll (paleontologist)",
+    "aliases": []
   }
 ]
