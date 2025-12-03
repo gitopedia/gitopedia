@@ -5788,5 +5788,100 @@
     "id": "topic:resource-management-act",
     "label": "Resource Management Act (1991)",
     "aliases": []
+  },
+  {
+    "id": "topic:black-death-1",
+    "label": "Black Death (1345-1400)",
+    "aliases": []
+  },
+  {
+    "id": "topic:age-of-exploration",
+    "label": "Age of Exploration (1400s-1800s)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cultural-exchange",
+    "label": "cultural exchange",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-silk-road-and-cultural-exchange",
+    "label": "the-silk-road-and-cultural-exchange",
+    "aliases": []
+  },
+  {
+    "id": "topic:religious-exchange",
+    "label": "Religious exchange",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrastructure-development",
+    "label": "Infrastructure development",
+    "aliases": []
+  },
+  {
+    "id": "topic:religious-syncretism",
+    "label": "religious syncretism",
+    "aliases": []
+  },
+  {
+    "id": "topic:culinary-fusion",
+    "label": "culinary fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:artistic-traditions",
+    "label": "artistic traditions",
+    "aliases": []
+  },
+  {
+    "id": "topic:spices",
+    "label": "spices",
+    "aliases": []
+  },
+  {
+    "id": "topic:buddhism",
+    "label": "Buddhism",
+    "aliases": []
+  },
+  {
+    "id": "topic:nestorian-christianity",
+    "label": "Nestorian Christianity",
+    "aliases": []
+  },
+  {
+    "id": "topic:islam",
+    "label": "Islam",
+    "aliases": []
+  },
+  {
+    "id": "topic:zoroastrianism",
+    "label": "Zoroastrianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:manichaeism",
+    "label": "Manichaeism",
+    "aliases": []
+  },
+  {
+    "id": "topic:greco-buddhist-art-of-gandhara",
+    "label": "Greco-Buddhist art of Gandhara (Pakistan/Afghanistan)",
+    "aliases": []
+  },
+  {
+    "id": "topic:trade-history",
+    "label": "Trade History",
+    "aliases": []
+  },
+  {
+    "id": "topic:han-dynasty",
+    "label": "Han Dynasty",
+    "aliases": []
+  },
+  {
+    "id": "topic:persian-empire",
+    "label": "Persian Empire",
+    "aliases": []
   }
 ]
