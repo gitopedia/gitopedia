@@ -1,0 +1,1076 @@
+# Economic Impact of Climate Change
+
+- Your privacy, your choice
+
+- We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+- By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+- Thank you for visiting nature.com.
+- You are using a browser version with limited support for CSS.
+- To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer).
+- In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+
+- Search Search Search articles by subject, keyword or author Show results from All journals This journal Search Advanced search Quick links Explore articles by subject Find a job Guide to authors Editorial policies
+
+- Explore articles by subject
+
+- About the journal About the journal Journal Staff About the Editors Journal Information Journal Metrics Our publishing models Editorial Values Statement Editorial policies Journalistic values statement History of Nature Awards Contact Send a news tip
+
+- Our publishing models
+
+- Editorial Values Statement
+
+- Journalistic values statement
+
+- Publish with us Publish with us For Authors For Referees Language editing services Open access funding Submit manuscript
+
+- Language editing services
+
+- Published: 17 April 2024
+
+- The economic commitment of climate change
+
+- Maximilian Kotz ORCID: orcid.org/0000-0003-2564-50431,2,
+
+- Anders Levermann ORCID: orcid.org/0000-0003-4432-47041,2 &
+
+- Leonie Wenz ORCID: orcid.org/0000-0002-8500-15681,3
+
+- Nature volume 628, pages 551–557 (2024)Cite this article
+
+- 06 November 2024 Editor’s Note: Readers are alerted that the reliability of data and methodology presented in this manuscript is currently in question. Appropriate editorial action will be taken once this matter is resolved.
+
+- Matters Arising to this article was published on 13 August 2025
+
+- Matters Arising to this article was published on 06 August 2025
+
+- An Author Correction to this article was published on 24 June 2024
+
+- This article has been updated
+
+- Global projections of macroeconomic climate-change damages typically consider impacts from average annual and national temperatures over long time horizons1,2,3,4,5,6.
+- Here we use recent empirical findings from more than 1,600 regions worldwide over the past 40 years to project sub-national damages from temperature and precipitation, including daily variability and extremes7,8.
+- Using an empirical approach that provides a robust lower bound on the persistence of impacts on economic growth, we find that the world economy is committed to an income reduction of 19% within the next 26 years independent of future emission choices (relative to a baseline without climate impacts, likely range of 11–29% accounting for physical climate and empirical uncertainty).
+- These damages already outweigh the mitigation costs required to limit global warming to 2 °C by sixfold over this near-term time frame and thereafter diverge strongly dependent on emission choices.
+- Committed damages arise predominantly through changes in average temperature, but accounting for further climatic components raises estimates by approximately 50% and leads to stronger regional heterogeneity.
+- Committed losses are projected for all regions except those at very high latitudes, at which reductions in temperature variability bring benefits.
+- The largest losses are committed at lower latitudes in regions with lower cumulative historical emissions and lower present-day income.
+
+- Similar content being viewed by others
+
+- Climate damage projections beyond annual temperature
+
+- Investment incentive reduced by climate damages can be restored by optimal policy
+
+- Day-to-day temperature variability reduces economic growth
+
+- Projections of the macroeconomic damage caused by future climate change are crucial to informing public and policy debates about adaptation, mitigation and climate justice.
+- On the one hand, adaptation against climate impacts must be justified and planned on the basis of an understanding of their future magnitude and spatial distribution9.
+- This is also of importance in the context of climate justice10, as well as to key societal actors, including governments, central banks and private businesses, which increasingly require the inclusion of climate risks in their macroeconomic forecasts to aid adaptive decision-making11,12.
+- On the other hand, climate mitigation policy such as the Paris Climate Agreement is often evaluated by balancing the costs of its implementation against the benefits of avoiding projected physical damages.
+- This evaluation occurs both formally through cost–benefit analyses1,4,5,6, as well as informally through public perception of mitigation and damage costs13.
+
+- Projections of future damages meet challenges when informing these debates, in particular the human biases relating to uncertainty and remoteness that are raised by long-term perspectives14.
+- Here we aim to overcome such challenges by assessing the extent of economic damages from climate change to which the world is already committed by historical emissions and socio-economic inertia (the range of future emission scenarios that are considered socio-economically plausible15).
+- Such a focus on the near term limits the large uncertainties about diverging future emission trajectories, the resulting long-term climate response and the validity of applying historically observed climate–economic relations over long timescales during which socio-technical conditions may change considerably.
+- As such, this focus aims to simplify the communication and maximize the credibility of projected economic damages from future climate change.
+
+- In projecting the future economic damages from climate change, we make use of recent advances in climate econometrics that provide evidence for impacts on sub-national economic growth from numerous components of the distribution of daily temperature and precipitation3,7,8.
+- Using fixed-effects panel regression models to control for potential confounders, these studies exploit within-region variation in local temperature and precipitation in a panel of more than 1,600 regions worldwide, comprising climate and income data over the past 40 years, to identify the plausibly causal effects of changes in several climate variables on economic productivity16,17.
+- Specifically, macroeconomic impacts have been identified from changing daily temperature variability, total annual precipitation, the annual number of wet days and extreme daily rainfall that occur in addition to those already identified from changing average temperature2,3,18.
+- Moreover, regional heterogeneity in these effects based on the prevailing local climatic conditions has been found using interactions terms.
+- The selection of these climate variables follows micro-level evidence for mechanisms related to the impacts of average temperatures on labour and agricultural productivity2, of temperature variability on agricultural productivity and health7, as well as of precipitation on agricultural productivity, labour outcomes and flood damages8 (see Extended Data Table 1 for an overview, including more detailed references).
+- References 7,8 contain a more detailed motivation for the use of these particular climate variables and provide extensive empirical tests about the robustness and nature of their effects on economic output, which are summarized in Methods.
+- By accounting for these extra climatic variables at the sub-national level, we aim for a more comprehensive description of climate impacts with greater detail across both time and space.
+
+- Constraining the persistence of impacts
+
+- A key determinant and source of discrepancy in estimates of the magnitude of future climate damages is the extent to which the impact of a climate variable on economic growth rates persists.
+- The two extreme cases in which these impacts persist indefinitely or only instantaneously are commonly referred to as growth or level effects19,20 (see Methods section ‘Empirical model specification: fixed-effects distributed lag models’ for mathematical definitions).
+- Recent work shows that future damages from climate change depend strongly on whether growth or level effects are assumed20.
+- Following refs. 2,18, we provide constraints on this persistence by using distributed lag models to test the significance of delayed effects separately for each climate variable.
+- Notably, and in contrast to refs. 2,18, we use climate variables in their first-differenced form following ref. 3, implying a dependence of the growth rate on a change in climate variables.
+- This choice means that a baseline specification without any lags constitutes a model prior of purely level effects, in which a permanent change in the climate has only an instantaneous effect on the growth rate3,19,21.
+- By including lags, one can then test whether any effects may persist further.
+- This is in contrast to the specification used by refs. 2,18, in which climate variables are used without taking the first difference, implying a dependence of the growth rate on the level of climate variables.
+- In this alternative case, the baseline specification without any lags constitutes a model prior of pure growth effects, in which a change in climate has an infinitely persistent effect on the growth rate.
+- Consequently, including further lags in this alternative case tests whether the initial growth impact is recovered18,19,21.
+- Both of these specifications suffer from the limiting possibility that, if too few lags are included, one might falsely accept the model prior.
+- The limitations of including a very large number of lags, including loss of data and increasing statistical uncertainty with an increasing number of parameters, mean that such a possibility is likely.
+- By choosing a specification in which the model prior is one of level effects, our approach is therefore conservative by design, avoiding assumptions of infinite persistence of climate impacts on growth and instead providing a lower bound on this persistence based on what is observable empirically (see Methods section ‘Empirical model specification: fixed-effects distributed lag models’ for further exposition of this framework).
+- The conservative nature of such a choice is probably the reason that ref. 19 finds much greater consistency between the impacts projected by models that use the first difference of climate variables, as opposed to their levels.
+
+- We begin our empirical analysis of the persistence of climate impacts on growth using ten lags of the first-differenced climate variables in fixed-effects distributed lag models.
+- We detect substantial effects on economic growth at time lags of up to approximately 8–10 years for the temperature terms and up to approximately 4 years for the precipitation terms (Extended Data Fig. 1 and Extended Data Table 2).
+- Furthermore, evaluation by means of information criteria indicates that the inclusion of all five climate variables and the use of these numbers of lags provide a preferable trade-off between best-fitting the data and including further terms that could cause overfitting, in comparison with model specifications excluding climate variables or including more or fewer lags (Extended Data Fig. 3, Supplementary Methods Section 1 and Supplementary Table 1).
+- We therefore remove statistically insignificant terms at later lags (Supplementary Figs. 1–3 and Supplementary Tables 2–4).
+- Further tests using Monte Carlo simulations demonstrate that the empirical models are robust to autocorrelation in the lagged climate variables (Supplementary Methods Section 2 and Supplementary Figs. 4 and 5), that information criteria provide an effective indicator for lag selection (Supplementary Methods Section 2 and Supplementary Fig. 6), that the results are robust to concerns of imperfect multicollinearity between climate variables and that including several climate variables is actually necessary to isolate their separate effects (Supplementary Methods Section 3 and Supplementary Fig. 7).
+- We provide a further robustness check using a restricted distributed lag model to limit oscillations in the lagged parameter estimates that may result from autocorrelation, finding that it provides similar estimates of cumulative marginal effects to the unrestricted model (Supplementary Methods Section 4 and Supplementary Figs. 8 and 9).
+- Finally, to explicitly account for any outstanding uncertainty arising from the precise choice of the number of lags, we include empirical models with marginally different numbers of lags in the error-sampling procedure of our projection of future damages.
+- On the basis of the lag-selection procedure (the significance of lagged terms in Extended Data Fig. 1 and Extended Data Table 2, as well as information criteria in Extended Data Fig. 3), we sample from models with eight to ten lags for temperature and four for precipitation (models shown in Supplementary Figs. 1–3 and Supplementary Tables 2–4).
+- In summary, this empirical approach to constrain the persistence of climate impacts on economic growth rates is conservative by design in avoiding assumptions of infinite persistence, but nevertheless provides a lower bound on the extent of impact persistence that is robust to the numerous tests outlined above.
+
+- Committed damages until mid-century
+
+- We combine these empirical economic response functions (Supplementary Figs. 1–3 and Supplementary Tables 2–4) with an ensemble of 21 climate models (see Supplementary Table 5) from the Coupled Model Intercomparison Project Phase 6 (CMIP-6)22 to project the macroeconomic damages from these components of physical climate change (see Methods for further details).
+- Bias-adjusted climate models that provide a highly accurate reproduction of observed climatological patterns with limited uncertainty (Supplementary Table 6) are used to avoid introducing biases in the projections.
+- Following a well-developed literature2,3,19, these projections do not aim to provide a prediction of future economic growth.
+- Instead, they are a projection of the exogenous impact of future climate conditions on the economy relative to the baselines specified by socio-economic projections, based on the plausibly causal relationships inferred by the empirical models and assuming ceteris paribus.
+- Other exogenous factors relevant for the prediction of economic output are purposefully assumed constant.
+
+- A Monte Carlo procedure that samples from climate model projections, empirical models with different numbers of lags and model parameter estimates (obtained by 1,000 block-bootstrap resamples of each of the regressions in Supplementary Figs. 1–3 and Supplementary Tables 2–4) is used to estimate the combined uncertainty from these sources.
+- Given these uncertainty distributions, we find that projected global damages are statistically indistinguishable across the two most extreme emission scenarios until 2049 (at the 5% significance level; Fig. 1).
+- As such, the climate damages occurring before this time constitute those to which the world is already committed owing to the combination of past emissions and the range of future emission scenarios that are considered socio-economically plausible15.
+- These committed damages comprise a permanent income reduction of 19% on average globally (population-weighted average) in comparison with a baseline without climate-change impacts (with a likely range of 11–29%, following the likelihood classification adopted by the Intergovernmental Panel on Climate Change (IPCC); see caption of Fig. 1).
+- Even though levels of income per capita generally still increase relative to those of today, this constitutes a permanent income reduction for most regions, including North America and Europe (each with median income reductions of approximately 11%) and with South Asia and Africa being the most strongly affected (each with median income reductions of approximately 22%; Fig. 1).
+- Under a middle-of-the road scenario of future income development (SSP2, in which SSP stands for Shared Socio-economic Pathway), this corresponds to global annual damages in 2049 of 38 trillion in 2005 international dollars (likely range of 19–59 trillion 2005 international dollars).
+- Compared with empirical specifications that assume pure growth or pure level effects, our preferred specification that provides a robust lower bound on the extent of climate impact persistence produces damages between these two extreme assumptions (Extended Data Fig. 3).
+
+- Estimates of the projected reduction in income per capita from changes in all climate variables based on empirical models of climate impacts on economic output with a robust lower bound on their persistence (Extended Data Fig. 1) under a low-emission scenario compatible with the 2 °C warming target and a high-emission scenario (SSP2-RCP2.6 and SSP5-RCP8.5, respectively) are shown in purple and orange, respectively.
+- Shading represents the 34% and 10% confidence intervals reflecting the likely and very likely ranges, respectively (following the likelihood classification adopted by the IPCC), having estimated uncertainty from a Monte Carlo procedure, which samples the uncertainty from the choice of physical climate models, empirical models with different numbers of lags and bootstrapped estimates of the regression parameters shown in Supplementary Figs. 1–3.
+- Vertical dashed lines show the time at which the climate damages of the two emission scenarios diverge at the 5% and 1% significance levels based on the distribution of differences between emission scenarios arising from the uncertainty sampling discussed above.
+- Note that uncertainty in the difference of the two scenarios is smaller than the combined uncertainty of the two respective scenarios because samples of the uncertainty (climate model and empirical model choice, as well as model parameter bootstrap) are consistent across the two emission scenarios, hence the divergence of damages occurs while the uncertainty bounds of the two separate damage scenarios still overlap.
+- Estimates of global mitigation costs from the three IAMs that provide results for the SSP2 baseline and SSP2-RCP2.6 scenario are shown in light green in the top panel, with the median of these estimates shown in bold.
+
+- Damages already outweigh mitigation costs
+
+- We compare the damages to which the world is committed over the next 25 years to estimates of the mitigation costs required to achieve the Paris Climate Agreement.
+- Taking estimates of mitigation costs from the three integrated assessment models (IAMs) in the IPCC AR6 database23 that provide results under comparable scenarios (SSP2 baseline and SSP2-RCP2.6, in which RCP stands for Representative Concentration Pathway), we find that the median committed climate damages are larger than the median mitigation costs in 2050 (six trillion in 2005 international dollars) by a factor of approximately six (note that estimates of mitigation costs are only provided every 10 years by the IAMs and so a comparison in 2049 is not possible).
+- This comparison simply aims to compare the magnitude of future damages against mitigation costs, rather than to conduct a formal cost–benefit analysis of transitioning from one emission path to another.
+- Formal cost–benefit analyses typically find that the net benefits of mitigation only emerge after 2050 (ref. 5), which may lead some to conclude that physical damages from climate change are simply not large enough to outweigh mitigation costs until the second half of the century.
+- Our simple comparison of their magnitudes makes clear that damages are actually already considerably larger than mitigation costs and the delayed emergence of net mitigation benefits results primarily from the fact that damages across different emission paths are indistinguishable until mid-century (Fig. 1).
+
+- Although these near-term damages constitute those to which the world is already committed, we note that damage estimates diverge strongly across emission scenarios after 2049, conveying the clear benefits of mitigation from a purely economic point of view that have been emphasized in previous studies4,24.
+- As well as the uncertainties assessed in Fig. 1, these conclusions are robust to structural choices, such as the timescale with which changes in the moderating variables of the empirical models are estimated (Supplementary Figs. 10 and 11), as well as the order in which one accounts for the intertemporal and international components of currency comparison (Supplementary Fig. 12; see Methods for further details).
+
+- Damages from variability and extremes
+
+- Committed damages primarily arise through changes in average temperature (Fig. 2).
+- This reflects the fact that projected changes in average temperature are larger than those in other climate variables when expressed as a function of their historical interannual variability (Extended Data Fig. 4).
+- Because the historical variability is that on which the empirical models are estimated, larger projected changes in comparison with this variability probably lead to larger future impacts in a purely statistical sense.
+- From a mechanistic perspective, one may plausibly interpret this result as implying that future changes in average temperature are the most unprecedented from the perspective of the historical fluctuations to which the economy is accustomed and therefore will cause the most damage.
+- This insight may prove useful in terms of guiding adaptation measures to the sources of greatest damage.
+
+- Estimates of the median projected reduction in sub-national income per capita across emission scenarios (SSP2-RCP2.6 and SSP2-RCP8.5) as well as climate model, empirical model and model parameter uncertainty in the year in which climate damages diverge at the 5% level (2049, as identified in Fig. 1). a, Impacts arising from all climate variables. b–f, Impacts arising separately from changes in annual mean temperature (b), daily temperature variability (c), total annual precipitation (d), the annual number of wet days (>1 mm) (e) and extreme daily rainfall (f) (see Methods for further definitions).
+- Data on national administrative boundaries are obtained from the GADM database version 3.6 and are freely available for academic use (https://gadm.org/).
+
+- Nevertheless, future damages based on empirical models that consider changes in annual average temperature only and exclude the other climate variables constitute income reductions of only 13% in 2049 (Extended Data Fig. 5a, likely range 5–21%).
+- This suggests that accounting for the other components of the distribution of temperature and precipitation raises net damages by nearly 50%.
+- This increase arises through the further damages that these climatic components cause, but also because their inclusion reveals a stronger negative economic response to average temperatures (Extended Data Fig. 5b).
+- The latter finding is consistent with our Monte Carlo simulations, which suggest that the magnitude of the effect of average temperature on economic growth is underestimated unless accounting for the impacts of other correlated climate variables (Supplementary Fig. 7).
+
+- In terms of the relative contributions of the different climatic components to overall damages, we find that accounting for daily temperature variability causes the largest increase in overall damages relative to empirical frameworks that only consider changes in annual average temperature (4.9 percentage points, likely range 2.4–8.7 percentage points, equivalent to approximately 10 trillion international dollars).
+- Accounting for precipitation causes smaller increases in overall damages, which are—nevertheless—equivalent to approximately 1.2 trillion international dollars: 0.01 percentage points (−0.37–0.33 percentage points), 0.34 percentage points (0.07–0.90 percentage points) and 0.36 percentage points (0.13–0.65 percentage points) from total annual precipitation, the number of wet days and extreme daily precipitation, respectively.
+- Moreover, climate models seem to underestimate future changes in temperature variability25 and extreme precipitation26,27 in response to anthropogenic forcing as compared with that observed historically, suggesting that the true impacts from these variables may be larger.
+
+- The distribution of committed damages
+
+- The spatial distribution of committed damages (Fig. 2a) reflects a complex interplay between the patterns of future change in several climatic components and those of historical economic vulnerability to changes in those variables.
+- Damages resulting from increasing annual mean temperature (Fig. 2b) are negative almost everywhere globally, and larger at lower latitudes in regions in which temperatures are already higher and economic vulnerability to temperature increases is greatest (see the response heterogeneity to mean temperature embodied in Extended Data Fig. 1a).
+- This occurs despite the amplified warming projected at higher latitudes28, suggesting that regional heterogeneity in economic vulnerability to temperature changes outweighs heterogeneity in the magnitude of future warming (Supplementary Fig. 13a).
+- Economic damages owing to daily temperature variability (Fig. 2c) exhibit a strong latitudinal polarisation, primarily reflecting the physical response of daily variability to greenhouse forcing in which increases in variability across lower latitudes (and Europe) contrast decreases at high latitudes25 (Supplementary Fig. 13b).
+- These two temperature terms are the dominant determinants of the pattern of overall damages (Fig. 2a), which exhibits a strong polarity with damages across most of the globe except at the highest northern latitudes.
+- Future changes in total annual precipitation mainly bring economic benefits except in regions of drying, such as the Mediterranean and central South America (Fig. 2d and Supplementary Fig. 13c), but these benefits are opposed by changes in the number of wet days, which produce damages with a similar pattern of opposite sign (Fig. 2e and Supplementary Fig. 13d).
+- By contrast, changes in extreme daily rainfall produce damages in all regions, reflecting the intensification of daily rainfall extremes over global land areas29,30 (Fig. 2f and Supplementary Fig. 13e).
+
+- The spatial distribution of committed damages implies considerable injustice along two dimensions: culpability for the historical emissions that have caused climate change and pre-existing levels of socio-economic welfare.
+- Spearman’s rank correlations indicate that committed damages are significantly larger in countries with smaller historical cumulative emissions, as well as in regions with lower current income per capita (Fig. 3).
+- This implies that those countries that will suffer the most from the damages already committed are those that are least responsible for climate change and which also have the least resources to adapt to it.
+
+- Estimates of the median projected change in national income per capita across emission scenarios (RCP2.6 and RCP8.5) as well as climate model, empirical model and model parameter uncertainty in the year in which climate damages diverge at the 5% level (2049, as identified in Fig. 1) are plotted against cumulative national emissions per capita in 2020 (from the Global Carbon Project) and coloured by national income per capita in 2020 (from the World Bank) in a and vice versa in b.
+- In each panel, the size of each scatter point is weighted by the national population in 2020 (from the World Bank).
+- Inset numbers indicate the Spearman’s rank correlation ρ and P-values for a hypothesis test whose null hypothesis is of no correlation, as well as the Spearman’s rank correlation weighted by national population.
+
+- To further quantify this heterogeneity, we assess the difference in committed damages between the upper and lower quartiles of regions when ranked by present income levels and historical cumulative emissions (using a population weighting to both define the quartiles and estimate the group averages).
+- On average, the quartile of countries with lower income are committed to an income loss that is 8.9 percentage points (or 61%) greater than the upper quartile (Extended Data Fig. 6), with a likely range of 3.8–14.7 percentage points across the uncertainty sampling of our damage projections (following the likelihood classification adopted by the IPCC).
+- Similarly, the quartile of countries with lower historical cumulative emissions are committed to an income loss that is 6.9 percentage points (or 40%) greater than the upper quartile, with a likely range of 0.27–12 percentage points.
+- These patterns reemphasize the prevalence of injustice in climate impacts31,32,33 in the context of the damages to which the world is already committed by historical emissions and socio-economic inertia.
+
+- Contextualizing the magnitude of damages
+
+- The magnitude of projected economic damages exceeds previous literature estimates2,3, arising from several developments made on previous approaches.
+- Our estimates are larger than those of ref. 2 (see first row of Extended Data Table 3), primarily because of the facts that sub-national estimates typically show a steeper temperature response (see also refs. 3,34) and that accounting for other climatic components raises damage estimates (Extended Data Fig. 5).
+- However, we note that our empirical approach using first-differenced climate variables is conservative compared with that of ref. 2 in regard to the persistence of climate impacts on growth (see introduction and Methods section ‘Empirical model specification: fixed-effects distributed lag models’), an important determinant of the magnitude of long-term damages19,21.
+- Using a similar empirical specification to ref. 2, which assumes infinite persistence while maintaining the rest of our approach (sub-national data and further climate variables), produces considerably larger damages (purple curve of Extended Data Fig. 3).
+- Compared with studies that do take the first difference of climate variables3,35, our estimates are also larger (see second and third rows of Extended Data Table 3).
+- The inclusion of further climate variables (Extended Data Fig. 5) and a sufficient number of lags to more adequately capture the extent of impact persistence (Extended Data Figs. 1 and 2) are the main sources of this difference, as is the use of specifications that capture nonlinearities in the temperature response when compared with ref. 35.
+- In summary, our estimates develop on previous studies by incorporating the latest data and empirical insights7,8, as well as in providing a robust empirical lower bound on the persistence of impacts on economic growth, which constitutes a middle ground between the extremes of the growth-versus-levels debate19,21 (Extended Data Fig. 3).
+
+- Compared with the fraction of variance explained by the empirical models historically (<5%), the projection of reductions in income of 19% may seem large.
+- This arises owing to the fact that projected changes in climatic conditions are much larger than those that were experienced historically, particularly for changes in average temperature (Extended Data Fig. 4).
+- As such, any assessment of future climate-change impacts necessarily requires an extrapolation outside the range of the historical data on which the empirical impact models were evaluated.
+- Nevertheless, these models constitute the most state-of-the-art methods for inference of plausibly causal climate impacts based on observed data.
+- Moreover, we take explicit steps to limit out-of-sample extrapolation by capping the moderating variables of the interaction terms at the 95th percentile of the historical distribution (see Methods).
+- This avoids extrapolating the marginal effects outside what was observed historically.
+- Given the nonlinear response of economic output to annual mean temperature (Extended Data Fig. 1 and Extended Data Table 2), this is a conservative choice that limits the magnitude of damages that we project.
+- Furthermore, back-of-the-envelope calculations indicate that the projected damages are consistent with the magnitude and patterns of historical economic development (see Supplementary Discussion Section 5).
+
+- Missing impacts and spatial spillovers
+
+- Despite assessing several climatic components from which economic impacts have recently been identified3,7,8, this assessment of aggregate climate damages should not be considered comprehensive.
+- Important channels such as impacts from heatwaves31, sea-level rise36, tropical cyclones37 and tipping points38,39, as well as non-market damages such as those to ecosystems40 and human health41, are not considered in these estimates.
+- Sea-level rise is unlikely to be feasibly incorporated into empirical assessments such as this because historical sea-level variability is mostly small.
+- Non-market damages are inherently intractable within our estimates of impacts on aggregate monetary output and estimates of these impacts could arguably be considered as extra to those identified here.
+- Recent empirical work suggests that accounting for these channels would probably raise estimates of these committed damages, with larger damages continuing to arise in the global south31,36,37,38,39,40,41,42.
+
+- Moreover, our main empirical analysis does not explicitly evaluate the potential for impacts in local regions to produce effects that ‘spill over’ into other regions.
+- Such effects may further mitigate or amplify the impacts we estimate, for example, if companies relocate production from one affected region to another or if impacts propagate along supply chains.
+- The current literature indicates that trade plays a substantial role in propagating spillover effects43,44, making their assessment at the sub-national level challenging without available data on sub-national trade dependencies.
+- Studies accounting for only spatially adjacent neighbours indicate that negative impacts in one region induce further negative impacts in neighbouring regions45,46,47,48, suggesting that our projected damages are probably conservative by excluding these effects.
+- In Supplementary Fig. 14, we assess spillovers from neighbouring regions using a spatial-lag model.
+- For simplicity, this analysis excludes temporal lags, focusing only on contemporaneous effects.
+- The results show that accounting for spatial spillovers can amplify the overall magnitude, and also the heterogeneity, of impacts.
+- Consistent with previous literature, this indicates that the overall magnitude (Fig. 1) and heterogeneity (Fig. 3) of damages that we project in our main specification may be conservative without explicitly accounting for spillovers.
+- We note that further analysis that addresses both spatially and trade-connected spillovers, while also accounting for delayed impacts using temporal lags, would be necessary to adequately address this question fully.
+- These approaches offer fruitful avenues for further research but are beyond the scope of this manuscript, which primarily aims to explore the impacts of different climate conditions and their persistence.
+
+- We find that the economic damages resulting from climate change until 2049 are those to which the world economy is already committed and that these greatly outweigh the costs required to mitigate emissions in line with the 2 °C target of the Paris Climate Agreement (Fig. 1).
+- This assessment is complementary to formal analyses of the net costs and benefits associated with moving from one emission path to another, which typically find that net benefits of mitigation only emerge in the second half of the century5.
+- Our simple comparison of the magnitude of damages and mitigation costs makes clear that this is primarily because damages are indistinguishable across emissions scenarios—that is, committed—until mid-century (Fig. 1) and that they are actually already much larger than mitigation costs.
+- For simplicity, and owing to the availability of data, we compare damages to mitigation costs at the global level.
+- Regional estimates of mitigation costs may shed further light on the national incentives for mitigation to which our results already hint, of relevance for international climate policy.
+- Although these damages are committed from a mitigation perspective, adaptation may provide an opportunity to reduce them.
+- Moreover, the strong divergence of damages after mid-century reemphasizes the clear benefits of mitigation from a purely economic perspective, as highlighted in previous studies1,4,6,24.
+
+- Historical climate data
+
+- Historical daily 2-m temperature and precipitation totals (in mm) are obtained for the period 1979–2019 from the W5E5 database.
+- The W5E5 dataset comes from ERA-5, a state-of-the-art reanalysis of historical observations, but has been bias-adjusted by applying version 2.0 of the WATCH Forcing Data to ERA-5 reanalysis data and precipitation data from version 2.3 of the Global Precipitation Climatology Project to better reflect ground-based measurements49,50,51.
+- We obtain these data on a 0.5° × 0.5° grid from the Inter-Sectoral Impact Model Intercomparison Project (ISIMIP) database.
+- Notably, these historical data have been used to bias-adjust future climate projections from CMIP-6 (see the following section), ensuring consistency between the distribution of historical daily weather on which our empirical models were estimated and the climate projections used to estimate future damages.
+- These data are publicly available from the ISIMIP database.
+- See refs. 7,8 for robustness tests of the empirical models to the choice of climate data reanalysis products.
+
+- Daily 2-m temperature and precipitation totals (in mm) are taken from 21 climate models participating in CMIP-6 under a high (RCP8.5) and a low (RCP2.6) greenhouse gas emission scenario from 2015 to 2100.
+- The data have been bias-adjusted and statistically downscaled to a common half-degree grid to reflect the historical distribution of daily temperature and precipitation of the W5E5 dataset using the trend-preserving method developed by the ISIMIP50,52.
+- As such, the climate model data reproduce observed climatological patterns exceptionally well (Supplementary Table 5).
+- Gridded data are publicly available from the ISIMIP database.
+
+- Historical economic data
+
+- Historical economic data come from the DOSE database of sub-national economic output53.
+- We use a recent revision to the DOSE dataset that provides data across 83 countries, 1,660 sub-national regions with varying temporal coverage from 1960 to 2019.
+- Sub-national units constitute the first administrative division below national, for example, states for the USA and provinces for China.
+- Data come from measures of gross regional product per capita (GRPpc) or income per capita in local currencies, reflecting the values reported in national statistical agencies, yearbooks and, in some cases, academic literature.
+- We follow previous literature3,7,8,54 and assess real sub-national output per capita by first converting values from local currencies to US dollars to account for diverging national inflationary tendencies and then account for US inflation using a US deflator.
+- Alternatively, one might first account for national inflation and then convert between currencies.
+- Supplementary Fig. 12 demonstrates that our conclusions are consistent when accounting for price changes in the reversed order, although the magnitude of estimated damages varies.
+- See the documentation of the DOSE dataset for further discussion of these choices.
+- Conversions between currencies are conducted using exchange rates from the FRED database of the Federal Reserve Bank of St.
+- Louis55 and the national deflators from the World Bank56.
+
+- Future socio-economic data
+
+- Baseline gridded gross domestic product (GDP) and population data for the period 2015–2100 are taken from the middle-of-the-road scenario SSP2 (ref. 15).
+- Population data have been downscaled to a half-degree grid by the ISIMIP following the methodologies of refs. 57,58, which we then aggregate to the sub-national level of our economic data using the spatial aggregation procedure described below.
+- Because current methodologies for downscaling the GDP of the SSPs use downscaled population to do so, per-capita estimates of GDP with a realistic distribution at the sub-national level are not readily available for the SSPs.
+- We therefore use national-level GDP per capita (GDPpc) projections for all sub-national regions of a given country, assuming homogeneity within countries in terms of baseline GDPpc.
+- Here we use projections that have been updated to account for the impact of the COVID-19 pandemic on the trajectory of future income, while remaining consistent with the long-term development of the SSPs59.
+- The choice of baseline SSP alters the magnitude of projected climate damages in monetary terms, but when assessed in terms of percentage change from the baseline, the choice of socio-economic scenario is inconsequential.
+- Gridded SSP population data and national-level GDPpc data are publicly available from the ISIMIP database.
+- Sub-national estimates as used in this study are available in the code and data replication files.
+
+- Following recent literature3,7,8, we calculate an array of climate variables for which substantial impacts on macroeconomic output have been identified empirically, supported by further evidence at the micro level for plausible underlying mechanisms.
+- See refs. 7,8 for an extensive motivation for the use of these particular climate variables and for detailed empirical tests on the nature and robustness of their effects on economic output.
+- To summarize, these studies have found evidence for independent impacts on economic growth rates from annual average temperature, daily temperature variability, total annual precipitation, the annual number of wet days and extreme daily rainfall.
+- Assessments of daily temperature variability were motivated by evidence of impacts on agricultural output and human health, as well as macroeconomic literature on the impacts of volatility on growth when manifest in different dimensions, such as government spending, exchange rates and even output itself7.
+- Assessments of precipitation impacts were motivated by evidence of impacts on agricultural productivity, metropolitan labour outcomes and conflict, as well as damages caused by flash flooding8.
+- See Extended Data Table 1 for detailed references to empirical studies of these physical mechanisms.
+- Marked impacts of daily temperature variability, total annual precipitation, the number of wet days and extreme daily rainfall on macroeconomic output were identified robustly across different climate datasets, spatial aggregation schemes, specifications of regional time trends and error-clustering approaches.
+- They were also found to be robust to the consideration of temperature extremes7,8.
+- Furthermore, these climate variables were identified as having independent effects on economic output7,8, which we further explain here using Monte Carlo simulations to demonstrate the robustness of the results to concerns of imperfect multicollinearity between climate variables (Supplementary Methods Section 2), as well as by using information criteria (Supplementary Table 1) to demonstrate that including several lagged climate variables provides a preferable trade-off between optimally describing the data and limiting the possibility of overfitting.
+
+- We calculate these variables from the distribution of daily, d, temperature, Tx,d, and precipitation, Px,d, at the grid-cell, x, level for both the historical and future climate data.
+- As well as annual mean temperature, \({\bar{T}}_{x,y}\), and annual total precipitation, Px,y, we calculate annual, y, measures of daily temperature variability, \({\widetilde{T}}_{x,y}\):
+
+- the number of wet days, Pwdx,y:
+
+- and extreme daily rainfall:
+
+- in which Tx,d,m,y is the grid-cell-specific daily temperature in month m and year y, \({\bar{T}}_{x,m,{y}}\) is the year and grid-cell-specific monthly, m, mean temperature, Dm and Dy the number of days in a given month m or year y, respectively, H the Heaviside step function, 1 mm the threshold used to define wet days and P99.9x is the 99.9th percentile of historical (1979–2019) daily precipitation at the grid-cell level.
+- Units of the climate measures are degrees Celsius for annual mean temperature and daily temperature variability, millimetres for total annual precipitation and extreme daily precipitation, and simply the number of days for the annual number of wet days.
+
+- We also calculated weighted standard deviations of monthly rainfall totals as also used in ref. 8 but do not include them in our projections as we find that, when accounting for delayed effects, their effect becomes statistically indistinct and is better captured by changes in total annual rainfall.
+
+- We aggregate grid-cell-level historical and future climate measures, as well as grid-cell-level future GDPpc and population, to the level of the first administrative unit below national level of the GADM database, using an area-weighting algorithm that estimates the portion of each grid cell falling within an administrative boundary.
+- We use this as our baseline specification following previous findings that the effect of area or population weighting at the sub-national level is negligible7,8.
+
+- Empirical model specification: fixed-effects distributed lag models
+
+- Following a wide range of climate econometric literature16,60, we use panel regression models with a selection of fixed effects and time trends to isolate plausibly exogenous variation with which to maximize confidence in a causal interpretation of the effects of climate on economic growth rates.
+- The use of region fixed effects, μr, accounts for unobserved time-invariant differences between regions, such as prevailing climatic norms and growth rates owing to historical and geopolitical factors.
+- The use of yearly fixed effects, ηy, accounts for regionally invariant annual shocks to the global climate or economy such as the El Niño–Southern Oscillation or global recessions.
+- In our baseline specification, we also include region-specific linear time trends, kry, to exclude the possibility of spurious correlations resulting from common slow-moving trends in climate and growth.
+
+- The persistence of climate impacts on economic growth rates is a key determinant of the long-term magnitude of damages.
+- Methods for inferring the extent of persistence in impacts on growth rates have typically used lagged climate variables to evaluate the presence of delayed effects or catch-up dynamics2,18.
+- For example, consider starting from a model in which a climate condition, Cr,y, (for example, annual mean temperature) affects the growth rate, Δlgrpr,y (the first difference of the logarithm of gross regional product) of region r in year y:
+
+- which we refer to as a ‘pure growth effects’ model in the main text. Typically, further lags are included,
+
+- and the cumulative effect of all lagged terms is evaluated to assess the extent to which climate impacts on growth rates persist. Following ref. 18, in the case that,
+
+- the implication is that impacts on the growth rate persist up to NL years after the initial shock (possibly to a weaker or a stronger extent), whereas if
+
+- then the initial impact on the growth rate is recovered after NL years and the effect is only one on the level of output.
+- However, we note that such approaches are limited by the fact that, when including an insufficient number of lags to detect a recovery of the growth rates, one may find equation (6) to be satisfied and incorrectly assume that a change in climatic conditions affects the growth rate indefinitely.
+- In practice, given a limited record of historical data, including too few lags to confidently conclude in an infinitely persistent impact on the growth rate is likely, particularly over the long timescales over which future climate damages are often projected2,24.
+- To avoid this issue, we instead begin our analysis with a model for which the level of output, lgrpr,y, depends on the level of a climate variable, Cr,y:
+
+- Given the non-stationarity of the level of output, we follow the literature19 and estimate such an equation in first-differenced form as,
+
+- which we refer to as a model of ‘pure level effects’ in the main text.
+- This model constitutes a baseline specification in which a permanent change in the climate variable produces an instantaneous impact on the growth rate and a permanent effect only on the level of output.
+- By including lagged variables in this specification,
+
+- we are able to test whether the impacts on the growth rate persist any further than instantaneously by evaluating whether αL > 0 are statistically significantly different from zero.
+- Even though this framework is also limited by the possibility of including too few lags, the choice of a baseline model specification in which impacts on the growth rate do not persist means that, in the case of including too few lags, the framework reverts to the baseline specification of level effects.
+- As such, this framework is conservative with respect to the persistence of impacts and the magnitude of future damages.
+- It naturally avoids assumptions of infinite persistence and we are able to interpret any persistence that we identify with equation (9) as a lower bound on the extent of climate impact persistence on growth rates.
+- See the main text for further discussion of this specification choice, in particular about its conservative nature compared with previous literature estimates, such as refs. 2,18.
+
+- We allow the response to climatic changes to vary across regions, using interactions of the climate variables with historical average (1979–2019) climatic conditions reflecting heterogenous effects identified in previous work7,8.
+- Following this previous work, the moderating variables of these interaction terms constitute the historical average of either the variable itself or of the seasonal temperature difference, \({\hat{T}}_{r}\), or annual mean temperature, \({\bar{T}}_{r}\), in the case of daily temperature variability7 and extreme daily rainfall, respectively8.
+
+- The resulting regression equation with N and M lagged variables, respectively, reads:
+
+- in which Δlgrpr,y is the annual, regional GRPpc growth rate, measured as the first difference of the logarithm of real GRPpc, following previous work2,3,7,8,18,19. Fixed-effects regressions were run using the fixest package in R (ref. 61).
+
+- Estimates of the coefficients of interest αi,L are shown in Extended Data Fig. 1 for N = M = 10 lags and for our preferred choice of the number of lags in Supplementary Figs. 1–3.
+- In Extended Data Fig. 1, errors are shown clustered at the regional level, but for the construction of damage projections, we block-bootstrap the regressions by region 1,000 times to provide a range of parameter estimates with which to sample the projection uncertainty (following refs. 2,31).
+
+- In Supplementary Fig. 14, we present the results from a spatial-lag model that explores the potential for climate impacts to ‘spill over’ into spatially neighbouring regions.
+- We measure the distance between centroids of each pair of sub-national regions and construct spatial lags that take the average of the first-differenced climate variables and their interaction terms over neighbouring regions that are at distances of 0–500, 500–1,000, 1,000–1,500 and 1,500–2000 km (spatial lags, ‘SL’, 1 to 4).
+- For simplicity, we then assess a spatial-lag model without temporal lags to assess spatial spillovers of contemporaneous climate impacts.
+
+- in which SL indicates the spatial lag of each climate variable and interaction term.
+- In Supplementary Fig. 14, we plot the cumulative marginal effect of each climate variable at different baseline climate conditions by summing the coefficients for each climate variable and interaction term, for example, for average temperature impacts as:
+
+- These cumulative marginal effects can be regarded as the overall spatially dependent impact to an individual region given a one-unit shock to a climate variable in that region and all neighbouring regions at a given value of the moderating variable of the interaction term.
+
+- Constructing projections of economic damage from future climate change
+
+- We construct projections of future climate damages by applying the coefficients estimated in equation (10) and shown in Supplementary Tables 2–4 (when including only lags with statistically significant effects in specifications that limit overfitting; see Supplementary Methods Section 1) to projections of future climate change from the CMIP-6 models.
+- Year-on-year changes in each primary climate variable of interest are calculated to reflect the year-to-year variations used in the empirical models. 30-year moving averages of the moderating variables of the interaction terms are calculated to reflect the long-term average of climatic conditions that were used for the moderating variables in the empirical models.
+- By using moving averages in the projections, we account for the changing vulnerability to climate shocks based on the evolving long-term conditions (Supplementary Figs. 10 and 11 show that the results are robust to the precise choice of the window of this moving average).
+- Although these climate variables are not differenced, the fact that the bias-adjusted climate models reproduce observed climatological patterns across regions for these moderating variables very accurately (Supplementary Table 6) with limited spread across models (<3%) precludes the possibility that any considerable bias or uncertainty is introduced by this methodological choice.
+- However, we impose caps on these moderating variables at the 95th percentile at which they were observed in the historical data to prevent extrapolation of the marginal effects outside the range in which the regressions were estimated.
+- This is a conservative choice that limits the magnitude of our damage projections.
+
+- Time series of primary climate variables and moderating climate variables are then combined with estimates of the empirical model parameters to evaluate the regression coefficients in equation (10), producing a time series of annual GRPpc growth-rate reductions for a given emission scenario, climate model and set of empirical model parameters.
+- The resulting time series of growth-rate impacts reflects those occurring owing to future climate change.
+- By contrast, a future scenario with no climate change would be one in which climate variables do not change (other than with random year-to-year fluctuations) and hence the time-averaged evaluation of equation (10) would be zero.
+- Our approach therefore implicitly compares the future climate-change scenario to this no-climate-change baseline scenario.
+
+- The time series of growth-rate impacts owing to future climate change in region r and year y, δr,y, are then added to the future baseline growth rates, πr,y (in log-diff form), obtained from the SSP2 scenario to yield trajectories of damaged GRPpc growth rates, ρr,y.
+- These trajectories are aggregated over time to estimate the future trajectory of GRPpc with future climate impacts:
+
+- in which GRPpcr,y=2020 is the initial log level of GRPpc. We begin damage estimates in 2020 to reflect the damages occurring since the end of the period for which we estimate the empirical models (1979–2019) and to match the timing of mitigation-cost estimates from most IAMs (see below).
+
+- For each emission scenario, this procedure is repeated 1,000 times while randomly sampling from the selection of climate models, the selection of empirical models with different numbers of lags (shown in Supplementary Figs. 1–3 and Supplementary Tables 2–4) and bootstrapped estimates of the regression parameters.
+- The result is an ensemble of future GRPpc trajectories that reflect uncertainty from both physical climate change and the structural and sampling uncertainty of the empirical models.
+
+- Estimates of mitigation costs
+
+- We obtain IPCC estimates of the aggregate costs of emission mitigation from the AR6 Scenario Explorer and Database hosted by IIASA23.
+- Specifically, we search the AR6 Scenarios Database World v1.1 for IAMs that provided estimates of global GDP and population under both a SSP2 baseline and a SSP2-RCP2.6 scenario to maintain consistency with the socio-economic and emission scenarios of the climate damage projections.
+- We find five IAMs that provide data for these scenarios, namely, MESSAGE-GLOBIOM 1.0, REMIND-MAgPIE 1.5, AIM/GCE 2.0, GCAM 4.2 and WITCH-GLOBIOM 3.1.
+- Of these five IAMs, we use the results only from the first three that passed the IPCC vetting procedure for reproducing historical emission and climate trajectories.
+- We then estimate global mitigation costs as the percentage difference in global per capita GDP between the SSP2 baseline and the SSP2-RCP2.6 emission scenario.
+- In the case of one of these IAMs, estimates of mitigation costs begin in 2020, whereas in the case of two others, mitigation costs begin in 2010.
+- The mitigation cost estimates before 2020 in these two IAMs are mostly negligible, and our choice to begin comparison with damage estimates in 2020 is conservative with respect to the relative weight of climate damages compared with mitigation costs for these two IAMs.
+
+- Data on economic production and ERA-5 climate data are publicly available at https://doi.org/10.5281/zenodo.4681306 (ref. 62) and https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5, respectively.
+- Data on mitigation costs are publicly available at https://data.ene.iiasa.ac.at/ar6/#/downloads.
+- Processed climate and economic data, as well as all other necessary data for reproduction of the results, are available at the public repository https://doi.org/10.5281/zenodo.10562951 (ref. 63).
+
+- All code necessary for reproduction of the results is available at the public repository https://doi.org/10.5281/zenodo.10562951 (ref. 63).
+
+- 06 November 2024Editor’s Note: Readers are alerted that the reliability of data and methodology presented in this manuscript is currently in question. Appropriate editorial action will be taken once this matter is resolved.
+
+- Editor’s Note: Readers are alerted that the reliability of data and methodology presented in this manuscript is currently in question. Appropriate editorial action will be taken once this matter is resolved.
+
+- 24 June 2024A Correction to this paper has been published: https://doi.org/10.1038/s41586-024-07732-2
+
+- A Correction to this paper has been published: https://doi.org/10.1038/s41586-024-07732-2
+
+- Glanemann, N., Willner, S. N. & Levermann, A. Paris Climate Agreement passes the cost-benefit test. Nat. Commun. 11, 110 (2020).Article ADS CAS PubMed Central Google Scholar
+
+- Glanemann, N., Willner, S. N. & Levermann, A. Paris Climate Agreement passes the cost-benefit test. Nat. Commun. 11, 110 (2020).
+
+- Article ADS CAS PubMed Central Google Scholar
+
+- Burke, M., Hsiang, S. M. & Miguel, E. Global non-linear effect of temperature on economic production. Nature 527, 235–239 (2015).Article ADS CAS Google Scholar
+
+- Burke, M., Hsiang, S. M. & Miguel, E. Global non-linear effect of temperature on economic production. Nature 527, 235–239 (2015).
+
+- Article ADS CAS Google Scholar
+
+- Kalkuhl, M. & Wenz, L. The impact of climate conditions on economic production. Evidence from a global panel of regions. J. Environ. Econ. Manag. 103, 102360 (2020).Article Google Scholar
+
+- Kalkuhl, M. & Wenz, L. The impact of climate conditions on economic production. Evidence from a global panel of regions. J. Environ. Econ. Manag. 103, 102360 (2020).
+
+- Article Google Scholar
+
+- Moore, F. C. & Diaz, D. B. Temperature impacts on economic growth warrant stringent mitigation policy. Nat. Clim. Change 5, 127–131 (2015).Article ADS Google Scholar
+
+- Moore, F. C. & Diaz, D. B. Temperature impacts on economic growth warrant stringent mitigation policy. Nat. Clim. Change 5, 127–131 (2015).
+
+- Article ADS Google Scholar
+
+- Drouet, L., Bosetti, V. & Tavoni, M. Net economic benefits of well-below 2°C scenarios and associated uncertainties. Oxf. Open Clim. Change 2, kgac003 (2022).Article Google Scholar
+
+- Drouet, L., Bosetti, V. & Tavoni, M. Net economic benefits of well-below 2°C scenarios and associated uncertainties. Oxf. Open Clim. Change 2, kgac003 (2022).
+
+- Article Google Scholar
+
+- Ueckerdt, F. et al. The economically optimal warming limit of the planet. Earth Syst. Dyn. 10, 741–763 (2019).Article ADS Google Scholar
+
+- Ueckerdt, F. et al. The economically optimal warming limit of the planet. Earth Syst. Dyn. 10, 741–763 (2019).
+
+- Article ADS Google Scholar
+
+- Kotz, M., Wenz, L., Stechemesser, A., Kalkuhl, M. & Levermann, A. Day-to-day temperature variability reduces economic growth. Nat. Clim. Change 11, 319–325 (2021).Article ADS Google Scholar
+
+- Kotz, M., Wenz, L., Stechemesser, A., Kalkuhl, M. & Levermann, A. Day-to-day temperature variability reduces economic growth. Nat. Clim. Change 11, 319–325 (2021).
+
+- Article ADS Google Scholar
+
+- Kotz, M., Levermann, A. & Wenz, L. The effect of rainfall changes on economic production. Nature 601, 223–227 (2022).Article ADS CAS Google Scholar
+
+- Kotz, M., Levermann, A. & Wenz, L. The effect of rainfall changes on economic production. Nature 601, 223–227 (2022).
+
+- Article ADS CAS Google Scholar
+
+- Kousky, C. Informing climate adaptation: a review of the economic costs of natural disasters. Energy Econ. 46, 576–592 (2014).Article Google Scholar
+
+- Kousky, C. Informing climate adaptation: a review of the economic costs of natural disasters. Energy Econ. 46, 576–592 (2014).
+
+- Article Google Scholar
+
+- Harlan, S. L. et al. in Climate Change and Society: Sociological Perspectives (eds Dunlap, R. E. & Brulle, R. J.) 127–163 (Oxford Univ. Press, 2015).
+
+- Harlan, S. L. et al. in Climate Change and Society: Sociological Perspectives (eds Dunlap, R. E. & Brulle, R. J.) 127–163 (Oxford Univ. Press, 2015).
+
+- Bolton, P. et al. The Green Swan (BIS Books, 2020).
+
+- Bolton, P. et al. The Green Swan (BIS Books, 2020).
+
+- Alogoskoufis, S. et al. ECB Economy-wide Climate Stress Test: Methodology and Results European Central Bank, 2021).
+
+- Alogoskoufis, S. et al. ECB Economy-wide Climate Stress Test: Methodology and Results European Central Bank, 2021).
+
+- Weber, E. U. What shapes perceptions of climate change? Wiley Interdiscip. Rev. Clim. Change 1, 332–342 (2010).Article Google Scholar
+
+- Weber, E. U. What shapes perceptions of climate change? Wiley Interdiscip. Rev. Clim. Change 1, 332–342 (2010).
+
+- Article Google Scholar
+
+- Markowitz, E. M. & Shariff, A. F. Climate change and moral judgement. Nat. Clim. Change 2, 243–247 (2012).Article ADS Google Scholar
+
+- Markowitz, E. M. & Shariff, A. F. Climate change and moral judgement. Nat. Clim. Change 2, 243–247 (2012).
+
+- Article ADS Google Scholar
+
+- Riahi, K. et al. The shared socioeconomic pathways and their energy, land use, and greenhouse gas emissions implications: an overview. Glob. Environ. Change 42, 153–168 (2017).Article Google Scholar
+
+- Riahi, K. et al. The shared socioeconomic pathways and their energy, land use, and greenhouse gas emissions implications: an overview. Glob. Environ. Change 42, 153–168 (2017).
+
+- Article Google Scholar
+
+- Auffhammer, M., Hsiang, S. M., Schlenker, W. & Sobel, A. Using weather data and climate model output in economic analyses of climate change. Rev. Environ. Econ. Policy 7, 181–198 (2013).Article Google Scholar
+
+- Auffhammer, M., Hsiang, S. M., Schlenker, W. & Sobel, A. Using weather data and climate model output in economic analyses of climate change. Rev. Environ. Econ. Policy 7, 181–198 (2013).
+
+- Article Google Scholar
+
+- Kolstad, C. D. & Moore, F. C. Estimating the economic impacts of climate change using weather observations. Rev. Environ. Econ. Policy 14, 1–24 (2020).Article Google Scholar
+
+- Kolstad, C. D. & Moore, F. C. Estimating the economic impacts of climate change using weather observations. Rev. Environ. Econ. Policy 14, 1–24 (2020).
+
+- Article Google Scholar
+
+- Dell, M., Jones, B. F. & Olken, B. A. Temperature shocks and economic growth: evidence from the last half century. Am. Econ. J. Macroecon. 4, 66–95 (2012).Article Google Scholar
+
+- Dell, M., Jones, B. F. & Olken, B. A. Temperature shocks and economic growth: evidence from the last half century. Am. Econ. J. Macroecon. 4, 66–95 (2012).
+
+- Article Google Scholar
+
+- Newell, R. G., Prest, B. C. & Sexton, S. E. The GDP-temperature relationship: implications for climate change damages. J. Environ. Econ. Manag. 108, 102445 (2021).Article Google Scholar
+
+- Newell, R. G., Prest, B. C. & Sexton, S. E. The GDP-temperature relationship: implications for climate change damages. J. Environ. Econ. Manag. 108, 102445 (2021).
+
+- Article Google Scholar
+
+- Kikstra, J. S. et al. The social cost of carbon dioxide under climate-economy feedbacks and temperature variability. Environ. Res. Lett. 16, 094037 (2021).Article ADS CAS Google Scholar
+
+- Kikstra, J. S. et al. The social cost of carbon dioxide under climate-economy feedbacks and temperature variability. Environ. Res. Lett. 16, 094037 (2021).
+
+- Article ADS CAS Google Scholar
+
+- Bastien-Olvera, B., Granella, F. & Moore, F. Persistent effect of temperature on GDP identified from lower frequency temperature variability. Environ. Res. Lett. 17, 084038 (2022).Article ADS Google Scholar
+
+- Bastien-Olvera, B., Granella, F. & Moore, F. Persistent effect of temperature on GDP identified from lower frequency temperature variability. Environ. Res. Lett. 17, 084038 (2022).
+
+- Article ADS Google Scholar
+
+- Eyring, V. et al. Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization. Geosci. Model Dev. 9, 1937–1958 (2016).Article ADS Google Scholar
+
+- Eyring, V. et al. Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization. Geosci. Model Dev. 9, 1937–1958 (2016).
+
+- Article ADS Google Scholar
+
+- Byers, E. et al. AR6 scenarios database. Zenodo https://zenodo.org/records/7197970 (2022).
+
+- Byers, E. et al. AR6 scenarios database. Zenodo https://zenodo.org/records/7197970 (2022).
+
+- Burke, M., Davis, W. M. & Diffenbaugh, N. S. Large potential reduction in economic damages under UN mitigation targets. Nature 557, 549–553 (2018).Article ADS CAS Google Scholar
+
+- Burke, M., Davis, W. M. & Diffenbaugh, N. S. Large potential reduction in economic damages under UN mitigation targets. Nature 557, 549–553 (2018).
+
+- Article ADS CAS Google Scholar
+
+- Kotz, M., Wenz, L. & Levermann, A. Footprint of greenhouse forcing in daily temperature variability. Proc. Natl Acad. Sci. 118, e2103294118 (2021).Article CAS PubMed Central Google Scholar
+
+- Kotz, M., Wenz, L. & Levermann, A. Footprint of greenhouse forcing in daily temperature variability. Proc. Natl Acad. Sci. 118, e2103294118 (2021).
+
+- Article CAS PubMed Central Google Scholar
+
+- Myhre, G. et al. Frequency of extreme precipitation increases extensively with event rareness under global warming. Sci. Rep. 9, 16063 (2019).Article ADS CAS PubMed Central Google Scholar
+
+- Myhre, G. et al. Frequency of extreme precipitation increases extensively with event rareness under global warming. Sci. Rep. 9, 16063 (2019).
+
+- Article ADS CAS PubMed Central Google Scholar
+
+- Min, S.-K., Zhang, X., Zwiers, F. W. & Hegerl, G. C. Human contribution to more-intense precipitation extremes. Nature 470, 378–381 (2011).Article ADS CAS Google Scholar
+
+- Min, S.-K., Zhang, X., Zwiers, F. W. & Hegerl, G. C. Human contribution to more-intense precipitation extremes. Nature 470, 378–381 (2011).
+
+- Article ADS CAS Google Scholar
+
+- England, M. R., Eisenman, I., Lutsko, N. J. & Wagner, T. J. The recent emergence of Arctic Amplification. Geophys. Res. Lett. 48, e2021GL094086 (2021).Article ADS Google Scholar
+
+- England, M. R., Eisenman, I., Lutsko, N. J. & Wagner, T. J. The recent emergence of Arctic Amplification. Geophys. Res. Lett. 48, e2021GL094086 (2021).
+
+- Article ADS Google Scholar
+
+- Fischer, E. M. & Knutti, R. Anthropogenic contribution to global occurrence of heavy-precipitation and high-temperature extremes. Nat. Clim. Change 5, 560–564 (2015).Article ADS Google Scholar
+
+- Fischer, E. M. & Knutti, R. Anthropogenic contribution to global occurrence of heavy-precipitation and high-temperature extremes. Nat. Clim. Change 5, 560–564 (2015).
+
+- Article ADS Google Scholar
+
+- Pfahl, S., O’Gorman, P. A. & Fischer, E. M. Understanding the regional pattern of projected future changes in extreme precipitation. Nat. Clim. Change 7, 423–427 (2017).Article ADS Google Scholar
+
+- Pfahl, S., O’Gorman, P. A. & Fischer, E. M. Understanding the regional pattern of projected future changes in extreme precipitation. Nat. Clim. Change 7, 423–427 (2017).
+
+- Article ADS Google Scholar
+
+- Callahan, C. W. & Mankin, J. S. Globally unequal effect of extreme heat on economic growth. Sci. Adv. 8, eadd3726 (2022).Article CAS PubMed Central Google Scholar
+
+- Callahan, C. W. & Mankin, J. S. Globally unequal effect of extreme heat on economic growth. Sci. Adv. 8, eadd3726 (2022).
+
+- Article CAS PubMed Central Google Scholar
+
+- Diffenbaugh, N. S. & Burke, M. Global warming has increased global economic inequality. Proc. Natl Acad. Sci. 116, 9808–9813 (2019).Article ADS CAS PubMed Central Google Scholar
+
+- Diffenbaugh, N. S. & Burke, M. Global warming has increased global economic inequality. Proc. Natl Acad. Sci. 116, 9808–9813 (2019).
+
+- Article ADS CAS PubMed Central Google Scholar
+
+- Callahan, C. W. & Mankin, J. S. National attribution of historical climate damages. Clim. Change 172, 40 (2022).Article ADS Google Scholar
+
+- Callahan, C. W. & Mankin, J. S. National attribution of historical climate damages. Clim. Change 172, 40 (2022).
+
+- Article ADS Google Scholar
+
+- Burke, M. & Tanutama, V. Climatic constraints on aggregate economic output. National Bureau of Economic Research, Working Paper 25779. https://doi.org/10.3386/w25779 (2019).
+
+- Burke, M. & Tanutama, V. Climatic constraints on aggregate economic output. National Bureau of Economic Research, Working Paper 25779. https://doi.org/10.3386/w25779 (2019).
+
+- Kahn, M. E. et al. Long-term macroeconomic effects of climate change: a cross-country analysis. Energy Econ. 104, 105624 (2021).Article Google Scholar
+
+- Kahn, M. E. et al. Long-term macroeconomic effects of climate change: a cross-country analysis. Energy Econ. 104, 105624 (2021).
+
+- Article Google Scholar
+
+- Desmet, K. et al. Evaluating the economic cost of coastal flooding. National Bureau of Economic Research, Working Paper 24918. https://doi.org/10.3386/w24918 (2018).
+
+- Desmet, K. et al. Evaluating the economic cost of coastal flooding. National Bureau of Economic Research, Working Paper 24918. https://doi.org/10.3386/w24918 (2018).
+
+- Hsiang, S. M. & Jina, A. S. The causal effect of environmental catastrophe on long-run economic growth: evidence from 6,700 cyclones. National Bureau of Economic Research, Working Paper 20352. https://doi.org/10.3386/w2035 (2014).
+
+- Hsiang, S. M. & Jina, A. S. The causal effect of environmental catastrophe on long-run economic growth: evidence from 6,700 cyclones. National Bureau of Economic Research, Working Paper 20352. https://doi.org/10.3386/w2035 (2014).
+
+- Ritchie, P. D. et al. Shifts in national land use and food production in Great Britain after a climate tipping point. Nat. Food 1, 76–83 (2020).Article Google Scholar
+
+- Ritchie, P. D. et al. Shifts in national land use and food production in Great Britain after a climate tipping point. Nat. Food 1, 76–83 (2020).
+
+- Article Google Scholar
+
+- Dietz, S., Rising, J., Stoerk, T. & Wagner, G. Economic impacts of tipping points in the climate system. Proc. Natl Acad. Sci. 118, e2103081118 (2021).Article CAS PubMed Central Google Scholar
+
+- Dietz, S., Rising, J., Stoerk, T. & Wagner, G. Economic impacts of tipping points in the climate system. Proc. Natl Acad. Sci. 118, e2103081118 (2021).
+
+- Article CAS PubMed Central Google Scholar
+
+- Bastien-Olvera, B. A. & Moore, F. C. Use and non-use value of nature and the social cost of carbon. Nat. Sustain. 4, 101–108 (2021).Article Google Scholar
+
+- Bastien-Olvera, B. A. & Moore, F. C. Use and non-use value of nature and the social cost of carbon. Nat. Sustain. 4, 101–108 (2021).
+
+- Article Google Scholar
+
+- Carleton, T. et al. Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits. Q. J. Econ. 137, 2037–2105 (2022).Article Google Scholar
+
+- Carleton, T. et al. Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits. Q. J. Econ. 137, 2037–2105 (2022).
+
+- Article Google Scholar
+
+- Bastien-Olvera, B. A. et al. Unequal climate impacts on global values of natural capital. Nature 625, 722–727 (2024).Article ADS CAS Google Scholar
+
+- Bastien-Olvera, B. A. et al. Unequal climate impacts on global values of natural capital. Nature 625, 722–727 (2024).
+
+- Article ADS CAS Google Scholar
+
+- Malik, A. et al. Impacts of climate change and extreme weather on food supply chains cascade across sectors and regions in Australia. Nat. Food 3, 631–643 (2022).Article ADS Google Scholar
+
+- Malik, A. et al. Impacts of climate change and extreme weather on food supply chains cascade across sectors and regions in Australia. Nat. Food 3, 631–643 (2022).
+
+- Article ADS Google Scholar
+
+- Kuhla, K., Willner, S. N., Otto, C., Geiger, T. & Levermann, A. Ripple resonance amplifies economic welfare loss from weather extremes. Environ. Res. Lett. 16, 114010 (2021).Article ADS Google Scholar
+
+- Kuhla, K., Willner, S. N., Otto, C., Geiger, T. & Levermann, A. Ripple resonance amplifies economic welfare loss from weather extremes. Environ. Res. Lett. 16, 114010 (2021).
+
+- Article ADS Google Scholar
+
+- Schleypen, J. R., Mistry, M. N., Saeed, F. & Dasgupta, S. Sharing the burden: quantifying climate change spillovers in the European Union under the Paris Agreement. Spat. Econ. Anal. 17, 67–82 (2022).Article Google Scholar
+
+- Schleypen, J. R., Mistry, M. N., Saeed, F. & Dasgupta, S. Sharing the burden: quantifying climate change spillovers in the European Union under the Paris Agreement. Spat. Econ. Anal. 17, 67–82 (2022).
+
+- Article Google Scholar
+
+- Dasgupta, S., Bosello, F., De Cian, E. & Mistry, M. Global temperature effects on economic activity and equity: a spatial analysis. European Institute on Economics and the Environment, Working Paper 22-1 (2022).
+
+- Dasgupta, S., Bosello, F., De Cian, E. & Mistry, M. Global temperature effects on economic activity and equity: a spatial analysis. European Institute on Economics and the Environment, Working Paper 22-1 (2022).
+
+- Neal, T. The importance of external weather effects in projecting the macroeconomic impacts of climate change. UNSW Economics Working Paper 2023-09 (2023).
+
+- Neal, T. The importance of external weather effects in projecting the macroeconomic impacts of climate change. UNSW Economics Working Paper 2023-09 (2023).
+
+- Deryugina, T. & Hsiang, S. M. Does the environment still matter? Daily temperature and income in the United States. National Bureau of Economic Research, Working Paper 20750. https://doi.org/10.3386/w20750 (2014).
+
+- Deryugina, T. & Hsiang, S. M. Does the environment still matter? Daily temperature and income in the United States. National Bureau of Economic Research, Working Paper 20750. https://doi.org/10.3386/w20750 (2014).
+
+- Hersbach, H. et al. The ERA5 global reanalysis. Q. J. R. Meteorol. Soc. 146, 1999–2049 (2020).Article ADS Google Scholar
+
+- Hersbach, H. et al. The ERA5 global reanalysis. Q. J. R. Meteorol. Soc. 146, 1999–2049 (2020).
+
+- Article ADS Google Scholar
+
+- Cucchi, M. et al. WFDE5: bias-adjusted ERA5 reanalysis data for impact studies. Earth Syst. Sci. Data 12, 2097–2120 (2020).Article ADS Google Scholar
+
+- Cucchi, M. et al. WFDE5: bias-adjusted ERA5 reanalysis data for impact studies. Earth Syst. Sci. Data 12, 2097–2120 (2020).
+
+- Article ADS Google Scholar
+
+- Adler, R. et al. The New Version 2.3 of the Global Precipitation Climatology Project (GPCP) Monthly Analysis Product 1072–1084 (University of Maryland, 2016).
+
+- Adler, R. et al. The New Version 2.3 of the Global Precipitation Climatology Project (GPCP) Monthly Analysis Product 1072–1084 (University of Maryland, 2016).
+
+- Lange, S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci. Model Dev. 12, 3055–3070 (2019).Article ADS Google Scholar
+
+- Lange, S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci. Model Dev. 12, 3055–3070 (2019).
+
+- Article ADS Google Scholar
+
+- Wenz, L., Carr, R. D., Kögel, N., Kotz, M. & Kalkuhl, M. DOSE – global data set of reported sub-national economic output. Sci. Data 10, 425 (2023).Article PubMed Central Google Scholar
+
+- Wenz, L., Carr, R. D., Kögel, N., Kotz, M. & Kalkuhl, M. DOSE – global data set of reported sub-national economic output. Sci. Data 10, 425 (2023).
+
+- Article PubMed Central Google Scholar
+
+- Gennaioli, N., La Porta, R., Lopez De Silanes, F. & Shleifer, A. Growth in regions. J. Econ. Growth 19, 259–309 (2014).Article Google Scholar
+
+- Gennaioli, N., La Porta, R., Lopez De Silanes, F. & Shleifer, A. Growth in regions. J. Econ. Growth 19, 259–309 (2014).
+
+- Article Google Scholar
+
+- Board of Governors of the Federal Reserve System (US). U.S. dollars to euro spot exchange rate. https://fred.stlouisfed.org/series/AEXUSEU (2022).
+
+- Board of Governors of the Federal Reserve System (US). U.S. dollars to euro spot exchange rate. https://fred.stlouisfed.org/series/AEXUSEU (2022).
+
+- World Bank. GDP deflator. https://data.worldbank.org/indicator/NY.GDP.DEFL.ZS (2022).
+
+- World Bank. GDP deflator. https://data.worldbank.org/indicator/NY.GDP.DEFL.ZS (2022).
+
+- Jones, B. & O’Neill, B. C. Spatially explicit global population scenarios consistent with the Shared Socioeconomic Pathways. Environ. Res. Lett. 11, 084003 (2016).Article ADS Google Scholar
+
+- Jones, B. & O’Neill, B. C. Spatially explicit global population scenarios consistent with the Shared Socioeconomic Pathways. Environ. Res. Lett. 11, 084003 (2016).
+
+- Article ADS Google Scholar
+
+- Murakami, D. & Yamagata, Y. Estimation of gridded population and GDP scenarios with spatially explicit statistical downscaling. Sustainability 11, 2106 (2019).Article Google Scholar
+
+- Murakami, D. & Yamagata, Y. Estimation of gridded population and GDP scenarios with spatially explicit statistical downscaling. Sustainability 11, 2106 (2019).
+
+- Article Google Scholar
+
+- Koch, J. & Leimbach, M. Update of SSP GDP projections: capturing recent changes in national accounting, PPP conversion and Covid 19 impacts. Ecol. Econ. 206 (2023).
+
+- Koch, J. & Leimbach, M. Update of SSP GDP projections: capturing recent changes in national accounting, PPP conversion and Covid 19 impacts. Ecol. Econ. 206 (2023).
+
+- Carleton, T. A. & Hsiang, S. M. Social and economic impacts of climate. Science 353, aad9837 (2016).Article Google Scholar
+
+- Carleton, T. A. & Hsiang, S. M. Social and economic impacts of climate. Science 353, aad9837 (2016).
+
+- Article Google Scholar
+
+- Bergé, L. Efficient estimation of maximum likelihood models with multiple fixed-effects: the R package FENmlm. DEM Discussion Paper Series 18-13 (2018).
+
+- Bergé, L. Efficient estimation of maximum likelihood models with multiple fixed-effects: the R package FENmlm. DEM Discussion Paper Series 18-13 (2018).
+
+- Kalkuhl, M., Kotz, M. & Wenz, L. DOSE - The MCC-PIK Database Of Subnational Economic output. Zenodo https://zenodo.org/doi/10.5281/zenodo.4681305 (2021).
+
+- Kalkuhl, M., Kotz, M. & Wenz, L. DOSE - The MCC-PIK Database Of Subnational Economic output. Zenodo https://zenodo.org/doi/10.5281/zenodo.4681305 (2021).
+
+- Kotz, M., Wenz, L. & Levermann, A. Data and code for “The economic commitment of climate change”. Zenodo https://zenodo.org/doi/10.5281/zenodo.10562951 (2024).
+
+- Kotz, M., Wenz, L. & Levermann, A. Data and code for “The economic commitment of climate change”. Zenodo https://zenodo.org/doi/10.5281/zenodo.10562951 (2024).
+
+- Dasgupta, S. et al. Effects of climate change on combined labour productivity and supply: an empirical, multi-model study. Lancet Planet. Health 5, e455–e465 (2021).Article Google Scholar
+
+- Dasgupta, S. et al. Effects of climate change on combined labour productivity and supply: an empirical, multi-model study. Lancet Planet. Health 5, e455–e465 (2021).
+
+- Article Google Scholar
+
+- Lobell, D. B. et al. The critical role of extreme heat for maize production in the United States. Nat. Clim. Change 3, 497–501 (2013).Article ADS Google Scholar
+
+- Lobell, D. B. et al. The critical role of extreme heat for maize production in the United States. Nat. Clim. Change 3, 497–501 (2013).
+
+- Article ADS Google Scholar
+
+- Zhao, C. et al. Temperature increase reduces global yields of major crops in four independent estimates. Proc. Natl Acad. Sci. 114, 9326–9331 (2017).Article ADS CAS PubMed Central Google Scholar
+
+- Zhao, C. et al. Temperature increase reduces global yields of major crops in four independent estimates. Proc. Natl Acad. Sci. 114, 9326–9331 (2017).
+
+- Article ADS CAS PubMed Central Google Scholar
+
+- Wheeler, T. R., Craufurd, P. Q., Ellis, R. H., Porter, J. R. & Prasad, P. V. Temperature variability and the yield of annual crops. Agric. Ecosyst. Environ. 82, 159–167 (2000).Article Google Scholar
+
+- Wheeler, T. R., Craufurd, P. Q., Ellis, R. H., Porter, J. R. & Prasad, P. V. Temperature variability and the yield of annual crops. Agric. Ecosyst. Environ. 82, 159–167 (2000).
+
+- Article Google Scholar
+
+- Rowhani, P., Lobell, D. B., Linderman, M. & Ramankutty, N. Climate variability and crop production in Tanzania. Agric. For. Meteorol. 151, 449–460 (2011).Article ADS Google Scholar
+
+- Rowhani, P., Lobell, D. B., Linderman, M. & Ramankutty, N. Climate variability and crop production in Tanzania. Agric. For. Meteorol. 151, 449–460 (2011).
+
+- Article ADS Google Scholar
+
+- Ceglar, A., Toreti, A., Lecerf, R., Van der Velde, M. & Dentener, F. Impact of meteorological drivers on regional inter-annual crop yield variability in France. Agric. For. Meteorol. 216, 58–67 (2016).Article ADS Google Scholar
+
+- Ceglar, A., Toreti, A., Lecerf, R., Van der Velde, M. & Dentener, F. Impact of meteorological drivers on regional inter-annual crop yield variability in France. Agric. For. Meteorol. 216, 58–67 (2016).
+
+- Article ADS Google Scholar
+
+- Shi, L., Kloog, I., Zanobetti, A., Liu, P. & Schwartz, J. D. Impacts of temperature and its variability on mortality in New England. Nat. Clim. Change 5, 988–991 (2015).Article ADS Google Scholar
+
+- Shi, L., Kloog, I., Zanobetti, A., Liu, P. & Schwartz, J. D. Impacts of temperature and its variability on mortality in New England. Nat. Clim. Change 5, 988–991 (2015).
+
+- Article ADS Google Scholar
+
+- Xue, T., Zhu, T., Zheng, Y. & Zhang, Q. Declines in mental health associated with air pollution and temperature variability in China. Nat. Commun. 10, 2165 (2019).Article ADS PubMed Central Google Scholar
+
+- Xue, T., Zhu, T., Zheng, Y. & Zhang, Q. Declines in mental health associated with air pollution and temperature variability in China. Nat. Commun. 10, 2165 (2019).
+
+- Article ADS PubMed Central Google Scholar
+
+- Liang, X.-Z. et al. Determining climate effects on US total agricultural productivity. Proc. Natl Acad. Sci. 114, E2285–E2292 (2017).Article CAS PubMed Central Google Scholar
+
+- Liang, X.-Z. et al. Determining climate effects on US total agricultural productivity. Proc. Natl Acad. Sci. 114, E2285–E2292 (2017).
+
+- Article CAS PubMed Central Google Scholar
+
+- Desbureaux, S. & Rodella, A.-S. Drought in the city: the economic impact of water scarcity in Latin American metropolitan areas. World Dev. 114, 13–27 (2019).Article Google Scholar
+
+- Desbureaux, S. & Rodella, A.-S. Drought in the city: the economic impact of water scarcity in Latin American metropolitan areas. World Dev. 114, 13–27 (2019).
+
+- Article Google Scholar
+
+- Damania, R. The economics of water scarcity and variability. Oxf. Rev. Econ. Policy 36, 24–44 (2020).Article Google Scholar
+
+- Damania, R. The economics of water scarcity and variability. Oxf. Rev. Econ. Policy 36, 24–44 (2020).
+
+- Article Google Scholar
+
+- Davenport, F. V., Burke, M. & Diffenbaugh, N. S. Contribution of historical precipitation change to US flood damages. Proc. Natl Acad. Sci. 118, e2017524118 (2021).Article CAS PubMed Central Google Scholar
+
+- Davenport, F. V., Burke, M. & Diffenbaugh, N. S. Contribution of historical precipitation change to US flood damages. Proc. Natl Acad. Sci. 118, e2017524118 (2021).
+
+- Article CAS PubMed Central Google Scholar
+
+- Dave, R., Subramanian, S. S. & Bhatia, U. Extreme precipitation induced concurrent events trigger prolonged disruptions in regional road networks. Environ. Res. Lett. 16, 104050 (2021).Article ADS Google Scholar
+
+- Dave, R., Subramanian, S. S. & Bhatia, U. Extreme precipitation induced concurrent events trigger prolonged disruptions in regional road networks. Environ. Res. Lett. 16, 104050 (2021).
+
+- Article ADS Google Scholar
+
+- We gratefully acknowledge financing from the Volkswagen Foundation and the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH on behalf of the Government of the Federal Republic of Germany and Federal Ministry for Economic Cooperation and Development (BMZ).
+
+- Open access funding provided by Potsdam-Institut für Klimafolgenforschung (PIK) e.V.
+
+- Authors and Affiliations
+
+- Research Domain IV, Research Domain IV, Potsdam Institute for Climate Impact Research, Potsdam, GermanyMaximilian Kotz, Anders Levermann & Leonie Wenz
+
+- Research Domain IV, Research Domain IV, Potsdam Institute for Climate Impact Research, Potsdam, Germany
+
+- Maximilian Kotz, Anders Levermann & Leonie Wenz
+
+- Institute of Physics, Potsdam University, Potsdam, GermanyMaximilian Kotz & Anders Levermann
+
+- Institute of Physics, Potsdam University, Potsdam, Germany
+
+- Maximilian Kotz & Anders Levermann
+
+- Mercator Research Institute on Global Commons and Climate Change, Berlin, GermanyLeonie Wenz
+
+- Mercator Research Institute on Global Commons and Climate Change, Berlin, Germany
+
+- Maximilian KotzView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Anders LevermannView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- Leonie WenzView author publicationsSearch author on:PubMed Google Scholar
+
+- Search author on:PubMed Google Scholar
+
+- All authors contributed to the design of the analysis. M.K. conducted the analysis and produced the figures. All authors contributed to the interpretation and presentation of the results. M.K. and L.W. wrote the manuscript.
+
+- Correspondence to Leonie Wenz.
+
+- The authors declare no competing interests.
+
+- Peer review information
+
+- Nature thanks Xin-Zhong Liang, Chad Thackeray and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+- Additional information
+
+- Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+- Extended data figures and tables
+
+- Extended Data Fig. 1 Constraining the persistence of historical climate impacts on economic growth rates.
+
+- The results of a panel-based fixed-effects distributed lag model for the effects of annual mean temperature (a), daily temperature variability (b), total annual precipitation (c), the number of wet days (d) and extreme daily precipitation (e) on sub-national economic growth rates.
+- Point estimates show the effects of a 1 °C or one standard deviation increase (for temperature and precipitation variables, respectively) at the lower quartile, median and upper quartile of the relevant moderating variable (green, orange and purple, respectively) at different lagged periods after the initial shock (note that these are not cumulative effects).
+- Climate variables are used in their first-differenced form (see main text for discussion) and the moderating climate variables are the annual mean temperature, seasonal temperature difference, total annual precipitation, number of wet days and annual mean temperature, respectively, in panels a–e (see Methods for further discussion).
+- Error bars show the 95% confidence intervals having clustered standard errors by region.
+- The within-region R2, Bayesian and Akaike information criteria for the model are shown at the top of the figure.
+- This figure shows results with ten lags for each variable to demonstrate the observed levels of persistence, but our preferred specifications remove later lags based on the statistical significance of terms shown above and the information criteria shown in Extended Data Fig. 2.
+- The resulting models without later lags are shown in Supplementary Figs. 1–3.
+
+- Extended Data Fig. 2 Incremental lag-selection procedure using information criteria and within-region R2.
+
+- Starting from a panel-based fixed-effects distributed lag model estimating the effects of climate on economic growth using the real historical data (as in equation (4)) with ten lags for all climate variables (as shown in Extended Data Fig. 1), lags are incrementally removed for one climate variable at a time.
+- The resulting Bayesian and Akaike information criteria are shown in a–e and f–j, respectively, and the within-region R2 and number of observations in k–o and p–t, respectively.
+- Different rows show the results when removing lags from different climate variables, ordered from top to bottom as annual mean temperature, daily temperature variability, total annual precipitation, the number of wet days and extreme annual precipitation.
+- Information criteria show minima at approximately four lags for precipitation variables and ten to eight for temperature variables, indicating that including these numbers of lags does not lead to overfitting.
+- See Supplementary Table 1 for an assessment using information criteria to determine whether including further climate variables causes overfitting.
+
+- Extended Data Fig. 3 Damages in our preferred specification that provides a robust lower bound on the persistence of climate impacts on economic growth versus damages in specifications of pure growth or pure level effects.
+
+- Estimates of future damages as shown in Fig. 1 but under the emission scenario RCP8.5 for three separate empirical specifications: in orange our preferred specification, which provides an empirical lower bound on the persistence of climate impacts on economic growth rates while avoiding assumptions of infinite persistence (see main text for further discussion); in purple a specification of ‘pure growth effects’ in which the first difference of climate variables is not taken and no lagged climate variables are included (the baseline specification of ref. 2); and in pink a specification of ‘pure level effects’ in which the first difference of climate variables is taken but no lagged terms are included.
+
+- Extended Data Fig. 4 Climate changes in different variables as a function of historical interannual variability.
+
+- Changes in each climate variable of interest from 1979–2019 to 2035–2065 under the high-emission scenario SSP5-RCP8.5, expressed as a percentage of the historical variability of each measure.
+- Historical variability is estimated as the standard deviation of each detrended climate variable over the period 1979–2019 during which the empirical models were identified (detrending is appropriate because of the inclusion of region-specific linear time trends in the empirical models).
+- See Supplementary Fig. 13 for changes expressed in standard units.
+- Data on national administrative boundaries are obtained from the GADM database version 3.6 and are freely available for academic use (https://gadm.org/).
+
+- Extended Data Fig. 5 Contribution of different climate variables to overall committed damages.
+
+- a, Climate damages in 2049 when using empirical models that account for all climate variables, changes in annual mean temperature only or changes in both annual mean temperature and one other climate variable (daily temperature variability, total annual precipitation, the number of wet days and extreme daily precipitation, respectively). b, The cumulative marginal effects of an increase in annual mean temperature of 1 °C, at different baseline temperatures, estimated from empirical models including all climate variables or annual mean temperature only.
+- Estimates and uncertainty bars represent the median and 95% confidence intervals obtained from 1,000 block-bootstrap resamples from each of three different empirical models using eight, nine or ten lags of temperature terms.
+
+- Extended Data Fig. 6 The difference in committed damages between the upper and lower quartiles of countries when ranked by GDP and cumulative historical emissions.
+
+- Quartiles are defined using a population weighting, as are the average committed damages across each quartile group.
+- The violin plots indicate the distribution of differences between quartiles across the two extreme emission scenarios (RCP2.6 and RCP8.5) and the uncertainty sampling procedure outlined in Methods, which accounts for uncertainty arising from the choice of lags in the empirical models, uncertainty in the empirical model parameter estimates, as well as the climate model projections.
+- Bars indicate the median, as well as the 10th and 90th percentiles and upper and lower sixths of the distribution reflecting the very likely and likely ranges following the likelihood classification adopted by the IPCC.
+
+- Supplementary information
+
+- Supplementary Information
+
+- Rights and permissions
+
+- Reprints and permissions
+
+- Kotz, M., Levermann, A. & Wenz, L. The economic commitment of climate change. Nature 628, 551–557 (2024). https://doi.org/10.1038/s41586-024-07219-0
+
+- Received: 25 January 2023
+
+- Received: 25 January 2023
+
+- Accepted: 21 February 2024
+
+- Accepted: 21 February 2024
+
+- Published: 17 April 2024
+
+- Published: 17 April 2024
+
+- Version of record: 17 April 2024
+
+- Version of record: 17 April 2024
+
+- Issue date: 18 April 2024
+
+- Issue date: 18 April 2024
+
+- DOI: https://doi.org/10.1038/s41586-024-07219-0
+
+- DOI: https://doi.org/10.1038/s41586-024-07219-0
+
+- Anyone you share the following link with will be able to read this content:
+
+- Sorry, a shareable link is not currently available for this article.
+
+- Provided by the Springer Nature SharedIt content-sharing initiative
+
+- Environmental economics
+
+- Interdisciplinary studies
+
+- Projection and prediction
+
+- This article is cited by
+
+- Bridging the scale between the local particular and the global universal in climate change assessments of cities Felix CreutzigTimon McPhearsonDiana Ürge-Vorsatz Nature Cities (2025)
+
+- Bridging the scale between the local particular and the global universal in climate change assessments of cities
+
+- Rising cost of disturbances for forestry in Europe under climate change Johannes S. MohrFélix BastitRupert Seidl Nature Climate Change (2025)
+
+- Rising cost of disturbances for forestry in Europe under climate change
+
+- Nature Climate Change (2025)
+
+- Early detection of climate change-induced shallow landslides with IoT-technology Robert HofmannSimon BergerLukas Wimmer Communications Earth & Environment (2025)
+
+- Early detection of climate change-induced shallow landslides with IoT-technology
+
+- Communications Earth & Environment (2025)
+
+- Commoning the weather: weather commons for a post-1.5 °C world Tsuyoshi HatoriChristoph RupprechtAoi Yoshida npj Climate Action (2025)
+
+- Commoning the weather: weather commons for a post-1.5 °C world
+
+- npj Climate Action (2025)
+
+- Quantifying the regional to global climate impacts of individual fossil fuel projects to inform decision-making Nerilie J. AbramNicola MaherWesley Morgan npj Climate Action (2025)
+
+- Quantifying the regional to global climate impacts of individual fossil fuel projects to inform decision-making
+
+- npj Climate Action (2025)
+
+- Commenting on this article is now closed.
+
+- Tim Thomas 23 April 2024, 19:06 I always read with interest articles like this that attempt to compute the impact of climate change on production and productivity, and I very much appreciate the work of the authors in using regional data, so that the units of observation are smaller geographic units than in the cross-country studies.
+- I also appreciate their effort to expand the menu of climate variables which impact output and growth.
+- I was shocked, however, by the magnitude of the damages from climate change the authors estimate, at almost 62% reduction in income by 2100.
+- In digging further, I noticed that 54% of the damages from the average temperature variable (which the authors tells us is responsible for two-thirds of the damages in their analysis) come at the 8th, 9th, and 10th lags.
+- In thinking about this, it seems very unreasonable to have lags growing in magnitude -- they should be tapering and not growing.
+- When lags do grow in magnitude, it seems to suggest a very serious statistical problem: non-stationarity of growth.
+- Even if it were found that there was not an issue with non-stationarity, one wonders that since the lags had been growing in magnitude, why not have an 11th or 12th lag?The other comment I have is that the functional form chosen forces climate change to impact production in a very specific way (their functional form is essentially a quadratic, if you think about it long enough).
+- This is fine for approximations, but for making predictions of damage, this forces places that are hotter to have greater damages (for inverse-U functions).
+- However, there is no reason to believe that this is a reasonable assumption (except most other authors estimate with a quadratic).
+
+- Tim Thomas 23 April 2024, 19:06
+
+- I always read with interest articles like this that attempt to compute the impact of climate change on production and productivity, and I very much appreciate the work of the authors in using regional data, so that the units of observation are smaller geographic units than in the cross-country studies.
+- I also appreciate their effort to expand the menu of climate variables which impact output and growth.
+- I was shocked, however, by the magnitude of the damages from climate change the authors estimate, at almost 62% reduction in income by 2100.
+- In digging further, I noticed that 54% of the damages from the average temperature variable (which the authors tells us is responsible for two-thirds of the damages in their analysis) come at the 8th, 9th, and 10th lags.
+- In thinking about this, it seems very unreasonable to have lags growing in magnitude -- they should be tapering and not growing.
+- When lags do grow in magnitude, it seems to suggest a very serious statistical problem: non-stationarity of growth.
+- Even if it were found that there was not an issue with non-stationarity, one wonders that since the lags had been growing in magnitude, why not have an 11th or 12th lag?
+
+- The other comment I have is that the functional form chosen forces climate change to impact production in a very specific way (their functional form is essentially a quadratic, if you think about it long enough).
+- This is fine for approximations, but for making predictions of damage, this forces places that are hotter to have greater damages (for inverse-U functions).
+- However, there is no reason to believe that this is a reasonable assumption (except most other authors estimate with a quadratic).
+
+- Jed Replied to Tim Thomas 4 August 2024, 09:40 What about the impact of climate change on financial development ? (Not the inverse)
+
+- Jed Replied to Tim Thomas 4 August 2024, 09:40
+
+- What about the impact of climate change on financial development ? (Not the inverse)
+
+- GS Hurd 28 April 2024, 19:00 In 1981 I listened to 3 days of talks about "Climate Change" at the American Association for the Advancement of Science annual meeting.
+- Scientists didn't then think that anybody would be so damn stupid as to ignore the problem.We were wrong.Some reading as to how that occurred;Oreskes, Naomi, Erik M.
+- Conway 2010 "Merchants ofDoubt" Bloomsbury Press.Oreskes, and Conway document that the "American Tobacco Institute" was a fraud from the start with bogus "studies" that "proved" nicotine was not addictive, and did not cause cancer.
+- Then, the fossil fuel industry used the American Petroleum Institute on the same scheme (even some of the same "experts").
+- That gang set out to prove there was no medical threat from leaded gasoline, or smog.
+- It was in the late 1970s and early '80s that climate change was added to the list of disasters that burning coal and petroleum "didn't cause."
+
+- Dr. GS Hurd 28 April 2024, 19:00
+
+- In 1981 I listened to 3 days of talks about "Climate Change" at the American Association for the Advancement of Science annual meeting. Scientists didn't then think that anybody would be so damn stupid as to ignore the problem.
+
+- Some reading as to how that occurred;
+
+- Oreskes, Naomi, Erik M. Conway 2010 "Merchants ofDoubt" Bloomsbury Press.
+
+- Oreskes, and Conway document that the "American Tobacco Institute" was a fraud from the start with bogus "studies" that "proved" nicotine was not addictive, and did not cause cancer.
+- Then, the fossil fuel industry used the American Petroleum Institute on the same scheme (even some of the same "experts").
+- That gang set out to prove there was no medical threat from leaded gasoline, or smog.
+- It was in the late 1970s and early '80s that climate change was added to the list of disasters that burning coal and petroleum "didn't cause."
+
+- Jed 4 August 2024, 09:38 Very interesting academic reference!Waiting for similar studies but focusing on the impacts of climate change on financial development.
+
+- Jed 4 August 2024, 09:38
+
+- Very interesting academic reference!
+
+- Waiting for similar studies but focusing on the impacts of climate change on financial development.
+
+- Climate damage projections beyond annual temperature
+
+- Going beyond averages
+
+- ISSN 1476-4687 (online)
+
+- ISSN 0028-0836 (print)
+
+- About Nature Portfolio
+
+- Nature portfolio policies
+
+- Author & Researcher services
+
+- Reprints & permissions
+
+- Libraries & institutions
+
+- Librarian service & tools
+
+- Advertising & partnerships
+
+- Partnerships & Services
+
+- Professional development
+
+- Your privacy choices/Manage cookies
+
+- Accessibility statement
+
+- Your US state privacy rights
