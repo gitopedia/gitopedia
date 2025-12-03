@@ -1,146 +1,390 @@
 # Integration and Data Flow
 
-This document describes how the four repositories (Gitopedia, Knowledgebase, Researcher, and Website) coordinate with each other. We also clarify the usage of ULIDs for unique identification and how releases are orchestrated across the system.
+This document describes how the four repositories (Gitopedia, Knowledge-Base, Researcher, and Website) coordinate with each other through GitHub Actions, webhooks, and shared data formats.
+
+## System Integration Overview
+
+```mermaid
+flowchart TB
+    subgraph Gitopedia["📚 Gitopedia Repository"]
+        Content["Compendium/<br/>(Articles)"]
+        Sources["_incoming/sources/<br/>(Pending Sources)"]
+        Dispatch["content-dispatch.yml"]
+    end
+
+    subgraph KnowledgeBase["🧠 Knowledge-Base Repository"]
+        Ingest["ingest.yml"]
+        BuildIndex["build-index.yml"]
+        SQLite["knowledge.sqlite"]
+        Qdrant["Qdrant Vectors"]
+    end
+
+    subgraph Researcher["🔬 Researcher Repository"]
+        Agent["Researcher Agent"]
+        PRs["Pull Requests"]
+    end
+
+    subgraph Website["🌐 Website Repository"]
+        SiteBuild["site-build.yml"]
+        Static["Static Site"]
+    end
+
+    Agent -->|"Create PR"| Content
+    Agent -->|"Create Sources"| Sources
+    
+    Content -->|"push to main"| Dispatch
+    Dispatch -->|"repository_dispatch<br/>content-updated"| Ingest
+    Dispatch -->|"repository_dispatch<br/>content-updated"| BuildIndex
+    
+    Ingest -->|"Ingest + Delete"| Sources
+    Ingest -->|"Store"| SQLite
+    Ingest -->|"Embeddings"| Qdrant
+    
+    BuildIndex -->|"Index Articles"| SQLite
+    BuildIndex -->|"Trigger"| SiteBuild
+    
+    Content -->|"Build Pages"| SiteBuild
+    SQLite -->|"Search Data"| SiteBuild
+    SiteBuild -->|"Deploy"| Static
+```
 
 ## Cross-Repository Workflow
 
-The system's operation involves a pipeline that moves from content creation to publication:
+### 1. Content Creation (Researcher → Gitopedia)
 
-1. **Content Update in Gitopedia** – Articles are introduced via a Draft PR: the Researcher stages new or updated Markdown files under a branch-local `_incoming/` directory and opens a Draft PR labeled to trigger the Copilot Organizer. The Copilot Organizer refactors the branch by relocating files into appropriate `Compendium/` categories, validating front matter and authority references, and preparing summarized source websites for Knowledgebase ingestion. When complete, it marks the PR ready. The final (ready) PR merge constitutes the content update for downstream triggers.
+```mermaid
+sequenceDiagram
+    participant Issue as GitHub Issue
+    participant Researcher
+    participant Gitopedia as Gitopedia Repo
+    participant PR as Pull Request
 
-2. **Trigger Knowledgebase Build** – The Gitopedia repository notifies the Knowledgebase repository that content has changed. This can be achieved with a GitHub Action that triggers a repository dispatch event or a `workflow_run`. The payload can include the Git commit SHA of Gitopedia to ensure Knowledgebase knows exactly what version to pull.
-
-3. **Knowledgebase Processing** – The Knowledgebase workflow runs:
-   - It pulls the latest Gitopedia content (at the specific commit SHA).
-   - Regenerates `meta.json` files and the `index.sqlite` full-text search index.
-   - Publishes the updated artifacts (committing meta files, creating/updating a release with the SQLite file, and/or uploading it to S3 as configured).
-
-4. **Trigger Website Rebuild** – Upon successful completion, the Knowledgebase pipeline triggers the Website repository to update:
-   - The trigger can be another repository dispatch (for example, Knowledgebase's Action calls the GitHub API to send an event to the Website repo, including perhaps the Knowledgebase release version or a URL to the new index).
-   - Alternatively, the Website could poll or be scheduled to check for a new index release. A direct trigger is preferred for immediacy.
-
-5. **Website Deployment and Search API** – The Website workflow runs:
-   - It pulls content from Gitopedia (ideally the same commit that was used for the Knowledgebase build, to keep in sync).
-   - Rebuilds the static site and deploys it to S3/CloudFront.
-   - The Search Lambda (deployed via the Solus CDK stack) reads `index.sqlite` directly from the Knowledgebase index S3 bucket on cold start and serves a `/search` HTTP endpoint through API Gateway.
-
-6. **User Facing** – The new content is live on the site and searchable via the updated index served by the Search Lambda.
-
-## CI Automation and GitHub Access
-
-### GitHub App for Cross-Repository Dispatch
-
-For cross-repository workflow triggers (e.g., `repository_dispatch` events), we use a GitHub App (`gitopedia-bot`) with the following permissions:
-
-- **Contents**: Read and Write (for future tag/release operations)
-- **Issues**: Read and Write (for Researcher agent operations)
-- **Pull requests**: Read and Write (for Researcher and Copilot Organizer operations)
-- **Actions**: Write (to trigger workflows via `repository_dispatch`)
-
-**Setup Steps:**
-
-1. **Install the App**: Install `gitopedia-bot` on the three repositories:
-   - `gitopedia/gitopedia`
-   - `gitopedia/knowledge-base`
-   - `gitopedia/website`
-
-2. **Generate Installation Token**: Use the GitHub App's App ID and private key to generate an installation access token. This token is used in CI workflows to authenticate as the app.
-
-3. **Store Token as Secret**: Store the installation access token as an organization secret `KB_DISPATCH_TOKEN` (or similar) that workflows can use to authenticate when calling the GitHub API for `repository_dispatch` events.
-
-**Usage in Workflows:**
-
-Workflows use the installation token to authenticate GitHub API calls:
-```yaml
-- name: Trigger Knowledgebase
-  env:
-    GITHUB_TOKEN: ${{ secrets.KB_DISPATCH_TOKEN }}
-  run: |
-    gh api repos/gitopedia/knowledge-base/dispatches \
-      -X POST \
-      -f event_type=content-updated \
-      -f client_payload='{"ref":"main","sha":"${{ github.sha }}"}'
+    Issue->>Researcher: research-request label
+    Researcher->>Researcher: Research topic
+    Researcher->>Researcher: Generate article
+    Researcher->>Researcher: Create source summaries
+    Researcher->>Gitopedia: Create branch
+    Researcher->>Gitopedia: Add article to Compendium/
+    Researcher->>Gitopedia: Add sources to _incoming/sources/
+    Researcher->>PR: Open PR
+    PR->>Gitopedia: Merge to main
 ```
 
-### SSH Deploy Keys for Git Operations
+### 2. Content Dispatch (Gitopedia → Knowledge-Base)
 
-To enable fully automated git operations (creating branches, committing, pushing), CI workflows are granted GitHub access over SSH:
+When content is pushed to Gitopedia's main branch:
 
-- A dedicated deploy key (SSH keypair) is created for CI. The public key is added as a Deploy Key on the relevant repositories with write access; the private key is stored as an encrypted secret in the CI environment.
-- CI jobs load the private key using `ssh-agent` and configure `known_hosts` for GitHub to prevent MITM prompts.
-- With SSH access, workflows can:
-  - Create and update branches, Draft PRs, and PR labels to trigger the Copilot Organizer
-  - Open GitHub Issues for reporting automation findings or required follow-ups
-  - Push commits made by automation (e.g., Copilot Organizer refactors)
+```yaml
+# gitopedia/.github/workflows/content-dispatch.yml
+name: Dispatch Knowledgebase Build
 
-### Researcher Integration
+on:
+  push:
+    branches: [main]
 
-The Researcher agent operates somewhat independently, but is integrated via GitHub:
+jobs:
+  dispatch-kb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub App token
+        id: app-token
+        uses: tibdex/github-app-token@v2
+        with:
+          app_id: ${{ secrets.GITOPEDIA_APP_ID }}
+          private_key: ${{ secrets.GITOPEDIA_APP_PRIVATE_KEY }}
+          
+      - name: Dispatch to Knowledge-Base
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ steps.app-token.outputs.token }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/gitopedia/knowledge-base/dispatches \
+            -d '{"event_type":"content-updated","client_payload":{"gitopedia_sha":"${{ github.sha }}"}}'
+```
 
-- It monitors Gitopedia issues for content requests.
-- When it creates a Draft PR with staged content under `_incoming/`, the Copilot Organizer performs automated refactoring and preparation. After Copilot completion and PR readiness, that triggers the same chain as above. The Researcher agent is the exclusive source of new article content; all articles are created by the automated agent, not by human contributors.
-- We may add a label or note in the PR to indicate it was AI-generated for transparency, but the pipeline doesn't change.
+### 3. Source Ingestion (Knowledge-Base)
 
-### Error Handling and Sync
+The knowledge-base ingests sources and cleans up the gitopedia repo:
 
-Each step in the pipeline should ideally wait for the previous one to succeed:
+```mermaid
+sequenceDiagram
+    participant Gitopedia
+    participant KBWorkflow as KB Ingest Workflow
+    participant Ollama
+    participant SQLite
+    participant Qdrant
 
-- If Knowledgebase fails to build (e.g., parse error in new Markdown), it should report back (perhaps opening an issue or commenting on the commit/PR) and not trigger the website update. The error can be addressed (the content fixed) and the pipeline re-run.
-- The Website build should only use an index that corresponds to the content it's building. By passing the Git commit and/or a release identifier through the dispatch events, we ensure consistency. For example, Knowledgebase could include `content_sha: <Gitopedia commit>` in the dispatch to Website; the Website action then checks out that commit of Gitopedia to build pages, and uses the index file from the Knowledgebase release tagged with that SHA.
-- This prevents a rare race condition where multiple content updates in quick succession might otherwise cause mismatch (e.g., building site with newer content but older index or vice versa).
+    Gitopedia->>KBWorkflow: repository_dispatch (content-updated)
+    KBWorkflow->>KBWorkflow: Generate GitHub App token
+    KBWorkflow->>Gitopedia: Checkout (with token)
+    
+    alt Has sources in _incoming/sources/
+        KBWorkflow->>Ollama: Start + pull nomic-embed-text
+        
+        loop For each source.md
+            KBWorkflow->>SQLite: Store metadata
+            KBWorkflow->>Ollama: Generate embedding
+            KBWorkflow->>Qdrant: Store vector (ULID→UUID)
+            KBWorkflow->>KBWorkflow: Delete source file
+        end
+        
+        KBWorkflow->>Gitopedia: Commit "remove ingested sources"
+        KBWorkflow->>Gitopedia: Push to main
+    end
+```
+
+### 4. Website Rebuild (Knowledge-Base → Website)
+
+After indexing completes, the website is triggered to rebuild:
+
+```mermaid
+sequenceDiagram
+    participant KB as Knowledge-Base
+    participant Website
+    participant S3
+    participant CloudFront
+
+    KB->>Website: repository_dispatch (index-updated)
+    Website->>Website: Checkout gitopedia content
+    Website->>Website: npm run build
+    Website->>Website: Build search Lambda
+    Website->>S3: Sync static files
+    Website->>CloudFront: Invalidate cache
+```
+
+## GitHub App Authentication
+
+Cross-repository operations use the `gitopedia-bot` GitHub App:
+
+### Permissions
+
+| Permission | Access | Purpose |
+|------------|--------|---------|
+| Contents | Read/Write | Checkout, commit, push |
+| Issues | Read/Write | Monitor research requests |
+| Pull requests | Read/Write | Create and merge PRs |
+| Actions | Write | Trigger workflows via dispatch |
+
+### Token Generation
+
+```yaml
+- name: Generate GitHub App token
+  id: app-token
+  uses: tibdex/github-app-token@v2
+  with:
+    app_id: ${{ secrets.GITOPEDIA_APP_ID }}
+    private_key: ${{ secrets.GITOPEDIA_APP_PRIVATE_KEY }}
+
+- name: Use token
+  env:
+    GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+  run: |
+    # Token is available for API calls and git operations
+```
+
+### Bot Identity
+
+Commits made by workflows use the bot identity:
+
+```yaml
+git config user.name "gitopedia-bot[bot]"
+git config user.email "gitopedia-bot[bot]@users.noreply.github.com"
+```
 
 ## ULIDs for Unified Identification
 
-We use ULIDs as a way to uniquely and consistently identify content across the system:
+All content uses ULIDs (Universally Unique Lexicographically Sortable Identifiers) as primary keys:
 
-- When the Researcher creates a new article, it generates a ULID and places it in the article's front matter (`id` field). This ULID becomes the primary key for that article in the Knowledgebase index and meta.
-- ULIDs are 128-bit lexicographically-sortable unique IDs that include a time component[11]. This means they roughly sort by creation time. We leverage this property in various ways (for example, we could sort articles by ID to get a chronological list without needing a separate timestamp).
-- The Knowledgebase uses the ULID as the stable identifier for each article record. For instance, the `index.sqlite` might have a table of articles keyed by ULID, and FTS results return the ULID of the matching article.
-- The Website can then use this ULID to cross-reference the content. One approach: the site's pages are organized by human-friendly slugs, but we can maintain a mapping of ULID to slug. The Knowledgebase could output a JSON map or include the slug in meta, so that given a ULID we can find the corresponding page.
-- For example, a search result returns `id = 01GX...` and `title = "Quantum Computing Overview"`. The site can map that to `/articles/quantum-computing-overview` (either by a convention of slugifying the title or via a lookup table generated at build time from `meta.json`).
-- ULIDs ensure that even if titles change or slugs are updated, we have a permanent reference. If a title changes, the article's ULID in front matter stays the same, so Knowledgebase can recognize it as an existing entry and update its title. This decouples identity from title or filename.
-- Also, because ULIDs include timestamp, it's easy to visually (or programmatically) detect roughly when an article was added from its ID. This can be used for analytics or ordering.
+### ULID Properties
 
-### Ensuring Uniqueness
+- **128-bit**: Same size as UUID
+- **Lexicographically sortable**: Sorts by creation time
+- **URL-safe**: Base32 encoding (26 characters)
+- **Timestamp embedded**: First 48 bits are millisecond timestamp
 
-The chance of ULID collisions is practically zero, but we will still enforce:
+### Example
 
-- The Researcher will use a well-tested ULID library to generate IDs.
-- The Knowledgebase can double-check that no two articles share the same ULID (if a duplicate is found, log an error or assign a new one if possible, though this situation is unlikely unless someone copied an existing id by mistake).
+```
+ULID: 01KBCVQXJS3QK3JCRGTWBFH2A6
+      ├─────────┼───────────────┤
+      Timestamp   Randomness
+      (48 bits)   (80 bits)
+```
 
-## Release Coordination and Versioning
+### Cross-System Usage
 
-Coordinating releases means ensuring that at any given tagged release or deployment, all components are aligned:
+| System | Usage |
+|--------|-------|
+| Gitopedia | Article frontmatter `id` field |
+| Knowledge-Base | SQLite primary key, Qdrant point ID |
+| Website | Internal reference for search results |
 
-- **Git SHAs**: We plan to capture the Git commit hashes in the workflow as content moves through. For example, Knowledgebase might store the Gitopedia commit hash that it indexed (perhaps in a text file or the release name). The Website could embed the Gitopedia commit hash in the deployed site (for instance, in a comment in the HTML or an `/about` page) to trace exactly what content version it's showing. This traceability is important for debugging or for formal version releases.
+### ULID to UUID Conversion
 
-- **Index Versions**: Each `index.sqlite` could be versioned (even if implicitly by content hash or timestamp). If using GitHub Releases in Knowledgebase, each release could be tagged with an incrementing number or a date (e.g., `index-v2025-11-15`). The Website's deployment action can ensure it grabs the correct version (for example, the latest).
+Qdrant requires UUID format. The knowledge-base converts ULIDs:
 
-- **Docs Tags**: When we reach major milestones (like MVP, Beta, v1.0), we will tag the repositories to mark those points. For instance:
-  - Tag the Gitopedia repo at a commit that forms the content of v1.0 (e.g., `content-v1.0`).
-  - Tag the Knowledgebase repo at the corresponding index release (e.g., `index-v1.0`).
-  - Tag the Website repo for the code that was used in v1.0 (e.g., `site-v1.0`).
-  - These tags allow us to later reproduce that exact state if needed, and serve as reference points in documentation.
-  - The term "docs tags" might also refer to tagging versions of documentation. Since documentation (like these design docs) will evolve, we might tag the main project repository when these docs are updated for a new phase or release. This way, if someone wants to read the docs relevant to version 1.0, they can check out the v1.0 tag of the docs.
+```
+ULID:  01KBCVQXJS3QK3JCRGTWBFH2A6
+UUID:  019ad9bb-f659-1de6-3933-10d716f88946
+```
 
-In practice, much of our deployment will be continuous (new articles go live continuously). Formal versioning is more for major releases or if we package the entire Gitopedia for offline use. Nonetheless, implementing basic version tagging is part of being production-ready.
+Both represent the same 128-bit value, just different string formats.
 
-### Maintaining Sync
+## Data Formats
 
-It's critical that the search index and the website content remain in sync. We handle this by the sequential trigger design above. There should never be a scenario where the website is deployed without the matching index or vice versa. To safeguard:
+### Article Frontmatter
 
-- The Website could perform a sanity check on startup: e.g., load a small manifest from Knowledgebase that contains the last content update ID and compare with what it built. If mismatch, it could warn or even fetch new data.
-- Similarly, the search Lambda could include an identifier for the index (like a version number) and the website could include that in its search requests to ensure it's querying the right version. (This is an advanced check and usually not necessary if the deployment pipeline is robust.)
+```yaml
+---
+id: 01KBCVQXJS3QK3JCRGTWBFH2A6    # ULID
+title: Article Title
+author: Gitopedia Researcher
+summary: Brief description...
+tags: [tag1, tag2, tag3]
+created: 2025-12-03T04:06:38Z      # UTC datetime
+model: qwen3:32b                    # LLM used
+researcher_version: 0.3.5          # Agent version
+---
+```
 
-### Automated Release Process
+### Source Summary Frontmatter
 
-When ready for a formal release (say, moving from Phase 1 MVP to Phase 2 Beta):
+```yaml
+---
+id: 01KBCVV7ZH35494W06HSEE5C17
+title: Source Title
+url: https://example.com/article
+related_article: quantum-mechanics
+language: en
+model: qwen3:14b
+created: 2025-12-03T04:05:00Z
+tags: [physics, quantum]
+---
 
-- We ensure the system is in a stable state (all pipelines green).
-- Create tags on each repo as needed (or use a single script to tag all with the same version label).
-- Possibly generate a changelog or release notes summarizing what content and features were added since the last tag.
-- Continue development beyond that tag for the next iteration.
+Summary content...
+```
 
-## Conclusion
+### Authority Files
 
-Integrating all these pieces creates a cohesive system where each component knows when to act and how to find the data it needs: the Git repositories communicate through Actions, unique IDs tie content together, and version tags mark milestones. This ensures that Gitopedia can continuously evolve with confidence that all parts will remain in lockstep.
+Entity references are stored in JSON authority files:
+
+```json
+// authority/people.json
+{
+  "albert-einstein": {
+    "name": "Albert Einstein",
+    "description": "Theoretical physicist",
+    "articles": ["01KBCVQXJS3QK3JCRGTWBFH2A6"]
+  }
+}
+```
+
+## Merge Conflict Resolution
+
+The researcher automatically resolves conflicts in authority files and category indexes:
+
+```mermaid
+flowchart TB
+    subgraph Detection
+        PR["PR Branch"]
+        Main["Main Branch"]
+        Check{"Mergeable?"}
+    end
+
+    subgraph Resolution
+        FetchMain["Fetch main version"]
+        FetchPR["Fetch PR version"]
+        Merge["Merge JSON objects"]
+        Update["Update PR branch"]
+    end
+
+    subgraph Commit
+        CreateTree["Create Git tree"]
+        CreateCommit["Create merge commit<br/>(two parents)"]
+        UpdateRef["Update branch ref"]
+    end
+
+    PR --> Check
+    Main --> Check
+    Check -->|No| FetchMain
+    FetchMain --> FetchPR
+    FetchPR --> Merge
+    Merge --> Update
+    Update --> CreateTree
+    CreateTree --> CreateCommit
+    CreateCommit --> UpdateRef
+    UpdateRef --> Check
+    Check -->|Yes| Done["Merge PR"]
+```
+
+## Version Coordination
+
+### Researcher Version
+
+- Stored in `researcher/VERSION`
+- Auto-incremented on commit (git hook)
+- Embedded in article frontmatter
+- Displayed on website
+
+### Content Version
+
+- Git commit SHA identifies content state
+- Passed in `repository_dispatch` payload
+- Used to ensure index matches content
+
+### Index Version
+
+- SQLite database timestamp
+- Artifact upload with retention
+- Website fetches latest
+
+## Error Handling
+
+### Pipeline Failures
+
+```mermaid
+flowchart TB
+    subgraph Failure["Failure Scenarios"]
+        IngestFail["Ingest fails"]
+        BuildFail["Build fails"]
+        DeployFail["Deploy fails"]
+    end
+
+    subgraph Recovery["Recovery Actions"]
+        Retry["Retry workflow"]
+        Fix["Fix and re-push"]
+        Rollback["Rollback deployment"]
+    end
+
+    IngestFail -->|"Check logs"| Fix
+    BuildFail -->|"Check logs"| Fix
+    DeployFail -->|"Check logs"| Rollback
+    Fix --> Retry
+```
+
+### Sync Verification
+
+The website build verifies content matches index:
+1. Check gitopedia commit SHA in dispatch payload
+2. Checkout that specific commit
+3. Build with matching index artifact
+
+## Workflow Summary
+
+| Event | Source | Target | Action |
+|-------|--------|--------|--------|
+| Push to main | Gitopedia | Knowledge-Base | Dispatch content-updated |
+| content-updated | Knowledge-Base | Ingest workflow | Ingest sources, delete files |
+| content-updated | Knowledge-Base | Build workflow | Rebuild article index |
+| Index complete | Knowledge-Base | Website | Trigger site rebuild |
+| Site build | Website | S3/CloudFront | Deploy static site |
+
+## Secrets Required
+
+| Repository | Secret | Purpose |
+|------------|--------|---------|
+| All | `GITOPEDIA_APP_ID` | GitHub App ID |
+| All | `GITOPEDIA_APP_PRIVATE_KEY` | GitHub App private key |
+| Website | `AWS_ACCESS_KEY_ID` | S3 deployment |
+| Website | `AWS_SECRET_ACCESS_KEY` | S3 deployment |
+| Website | `CLOUDFRONT_DISTRIBUTION_ID` | Cache invalidation |
