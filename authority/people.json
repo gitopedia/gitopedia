@@ -2783,5 +2783,20 @@
     "id": "person:xuanzang",
     "label": "Xuanzang",
     "aliases": []
+  },
+  {
+    "id": "person:joshua-lederberg",
+    "label": "Joshua Lederberg (scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:ed-yong",
+    "label": "Ed Yong (author of 'I Contain Multitudes')",
+    "aliases": []
+  },
+  {
+    "id": "person:trudie-purdy",
+    "label": "Trudie Purdy",
+    "aliases": []
   }
 ]
