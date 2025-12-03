@@ -983,5 +983,80 @@
     "id": "place:bukhara",
     "label": "Bukhara",
     "aliases": []
+  },
+  {
+    "id": "place:yucatan-peninsula",
+    "label": "Yucatan Peninsula",
+    "aliases": []
+  },
+  {
+    "id": "place:southern-lowlands",
+    "label": "southern lowlands",
+    "aliases": []
+  },
+  {
+    "id": "place:tikal",
+    "label": "Tikal",
+    "aliases": []
+  },
+  {
+    "id": "place:calakmul",
+    "label": "Calakmul",
+    "aliases": []
+  },
+  {
+    "id": "place:copn",
+    "label": "Copán",
+    "aliases": []
+  },
+  {
+    "id": "place:caracol",
+    "label": "Caracol",
+    "aliases": []
+  },
+  {
+    "id": "place:central-america",
+    "label": "Central America",
+    "aliases": []
+  },
+  {
+    "id": "place:guatemala",
+    "label": "Guatemala",
+    "aliases": []
+  },
+  {
+    "id": "place:belize",
+    "label": "Belize",
+    "aliases": []
+  },
+  {
+    "id": "place:mexico",
+    "label": "Mexico",
+    "aliases": []
+  },
+  {
+    "id": "place:honduras",
+    "label": "Honduras",
+    "aliases": []
+  },
+  {
+    "id": "place:el-salvador",
+    "label": "El Salvador",
+    "aliases": []
+  },
+  {
+    "id": "place:palenque",
+    "label": "Palenque",
+    "aliases": []
+  },
+  {
+    "id": "place:chichen-itza",
+    "label": "Chichen Itza",
+    "aliases": []
+  },
+  {
+    "id": "place:mayapan",
+    "label": "Mayapan",
+    "aliases": []
   }
 ]
