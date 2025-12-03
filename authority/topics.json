@@ -5693,5 +5693,95 @@
     "id": "topic:ergonomics",
     "label": "Ergonomics",
     "aliases": []
+  },
+  {
+    "id": "topic:economic-impact-of-climate-change",
+    "label": "economic impact of climate change",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-gdp",
+    "label": "global GDP",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-emissions",
+    "label": "carbon emissions",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-cost-of-carbon",
+    "label": "social cost of carbon",
+    "aliases": []
+  },
+  {
+    "id": "topic:temperature-shocks",
+    "label": "temperature shocks",
+    "aliases": []
+  },
+  {
+    "id": "topic:adaptation-to-climate-change",
+    "label": "adaptation to climate change",
+    "aliases": []
+  },
+  {
+    "id": "topic:mose-barrier-system",
+    "label": "MOSE barrier system",
+    "aliases": []
+  },
+  {
+    "id": "topic:homelessness-in-america",
+    "label": "homelessness in America",
+    "aliases": []
+  },
+  {
+    "id": "topic:electoral-college",
+    "label": "Electoral College",
+    "aliases": []
+  },
+  {
+    "id": "topic:second-wave-feminism",
+    "label": "Second-Wave Feminism",
+    "aliases": []
+  },
+  {
+    "id": "topic:origins-of-europes-most-mysterious-languages",
+    "label": "Origins of Europe’s Most Mysterious Languages",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-impact",
+    "label": "Economic impact",
+    "aliases": []
+  },
+  {
+    "id": "topic:agriculture",
+    "label": "Agriculture",
+    "aliases": []
+  },
+  {
+    "id": "topic:construction",
+    "label": "Construction",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-cost-of-carbon-1",
+    "label": "Social Cost of Carbon (SCC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:resilience-economics",
+    "label": "Resilience Economics",
+    "aliases": []
+  },
+  {
+    "id": "topic:room-for-the-river",
+    "label": "Room for the River (Netherlands)",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-warming-of-1.5c",
+    "label": "Global Warming of 1.5°C",
+    "aliases": []
   }
 ]
