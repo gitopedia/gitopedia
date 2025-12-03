@@ -187,64 +187,66 @@ UUID:  019ad9bb-f659-1de6-3933-10d716f88946
 
 ### Researcher Agent
 
-The AI-powered agent that creates encyclopedia content automatically.
+The AI-powered agent that creates encyclopedia content automatically using a **7-phase iterative pipeline**.
 
 ```mermaid
 flowchart TB
-    subgraph Triggers
-        Issues["GitHub Issues<br/>(research-request label)"]
-        Schedule["Scheduled Run"]
+    subgraph Phase1["Phase 1: Foundation Research"]
+        Search["Web Search"]
+        Fetch["Fetch Pages"]
+        Summarize["Summarize<br/>(qwen3:14b)"]
     end
 
-    subgraph Research["Research Phase"]
-        WebSearch["DuckDuckGo Search"]
-        Fetch["Headless Chrome<br/>Page Fetch"]
-        Summarize["LLM Summarize<br/>(qwen3:14b)"]
+    subgraph Phase2["Phase 2: Outline & Gaps"]
+        Outline["Generate Outline<br/>(qwen3:32b)"]
+        Gaps["Analyze Gaps<br/>(qwen3:14b)"]
     end
 
-    subgraph Generation["Generation Phase"]
-        EntityExtract["Entity Extraction<br/>(qwen3:14b + thinking)"]
-        ArticleGen["Article Generation<br/>(qwen3:32b + thinking)"]
+    subgraph Phase3["Phase 3: Targeted Research"]
+        TargetSearch["Fill Gaps"]
+        NewSources["New Sources"]
+    end
+
+    subgraph Phase4["Phase 4: Section Generation"]
+        Sections["Generate Each Section<br/>(qwen3:32b + RAG)"]
+    end
+
+    subgraph Phase5["Phase 5: Discovery"]
+        Discover["Find New Sections<br/>(qwen3:14b)"]
+    end
+
+    subgraph Phase6["Phase 6: Integration"]
+        Integrate["Polish Article<br/>(qwen3:32b)"]
+    end
+
+    subgraph Phase7["Phase 7: Citations"]
         AddRefs["Add References<br/>(qwen3:14b)"]
     end
 
-    subgraph Output
-        PR["Draft PR"]
-        Sources["Source Summaries<br/>(_incoming/sources/)"]
-        Article["Article<br/>(Compendium/)"]
-    end
-
-    Issues --> Research
-    Schedule --> Research
-
-    WebSearch --> Fetch
-    Fetch --> Summarize
-    Summarize --> EntityExtract
-    EntityExtract --> ArticleGen
-    ArticleGen --> AddRefs
-
-    AddRefs --> PR
-    Summarize --> Sources
-    AddRefs --> Article
+    Search --> Fetch --> Summarize
+    Summarize --> Outline --> Gaps
+    Gaps -->|"Has gaps"| TargetSearch --> NewSources -->|"Re-analyze"| Gaps
+    Gaps -->|"Complete"| Sections
+    Sections --> Discover --> Integrate --> AddRefs
 ```
 
-**Multi-Model Configuration:**
-The researcher uses different models for different task complexities:
+**Multi-Phase Generation:**
 
-| Task | Model | Thinking Mode |
-|------|-------|---------------|
-| Topic Suggestion | qwen3:8b | No |
-| JSON Conversion | qwen3:8b | No |
-| Source Summarization | qwen3:14b | Yes |
-| Entity Extraction | qwen3:14b | Yes |
-| Article Generation | qwen3:32b | Yes |
-| Reference Addition | qwen3:14b | No |
+| Phase | Purpose | Model |
+|-------|---------|-------|
+| 1. Foundation | Gather initial sources from web | qwen3:14b |
+| 2. Outline | Create article structure, identify gaps | qwen3:32b + qwen3:14b |
+| 3. Targeted Research | Fill gaps with focused searches | qwen3:14b |
+| 4. Section Generation | Write each section with RAG | qwen3:32b |
+| 5. Discovery | Find additional sections to add | qwen3:14b |
+| 6. Integration | Polish and merge all sections | qwen3:32b |
+| 7. Citations | Add references from sources only | qwen3:14b |
 
-**Two-Step Article Generation:**
-1. **Content Generation**: LLM generates article without references
-2. **Citation Addition**: Separate LLM call adds footnote references `[^N]` based only on provided sources
-
-This prevents hallucinated references by ensuring citations only come from actual sources.
+**Key Features:**
+- **Iterative gap-filling**: Multiple research rounds until coverage is complete
+- **RAG per section**: Selects most relevant sources for each section
+- **No hallucinated references**: Citations added in separate step using only provided sources
+- **Thinking mode**: Models emit reasoning traces for better instruction following
 
 ### Website
 
