@@ -858,5 +858,15 @@
     "id": "org:belt-and-road-initiative-1",
     "label": "Belt and Road Initiative",
     "aliases": []
+  },
+  {
+    "id": "org:bbc-science-focus-magazine",
+    "label": "BBC Science Focus Magazine",
+    "aliases": []
+  },
+  {
+    "id": "org:elsevier-b.v",
+    "label": "Elsevier B.V.",
+    "aliases": []
   }
 ]
