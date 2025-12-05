@@ -5973,5 +5973,4800 @@
     "id": "topic:deep-space-exploration",
     "label": "deep space exploration",
     "aliases": []
+  },
+  {
+    "id": "topic:information-theory",
+    "label": "Information theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:qubit",
+    "label": "Qubit",
+    "aliases": []
+  },
+  {
+    "id": "topic:rsa",
+    "label": "RSA",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecc",
+    "label": "ECC",
+    "aliases": []
+  },
+  {
+    "id": "topic:qiskit",
+    "label": "Qiskit",
+    "aliases": []
+  },
+  {
+    "id": "topic:cirq",
+    "label": "Cirq",
+    "aliases": []
+  },
+  {
+    "id": "topic:q-sharp",
+    "label": "Q Sharp",
+    "aliases": []
+  },
+  {
+    "id": "topic:openqasm",
+    "label": "OpenQASM",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-programming",
+    "label": "Quantum programming",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-circuit-model",
+    "label": "Quantum circuit model",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-neural-network",
+    "label": "Quantum neural network",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-information-processing",
+    "label": "Quantum information processing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state",
+    "label": "Quantum state",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-circuit",
+    "label": "Quantum circuit",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-turing-machine",
+    "label": "Quantum Turing machine",
+    "aliases": []
+  },
+  {
+    "id": "topic:adiabatic-quantum-computation",
+    "label": "Adiabatic quantum computation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-measurement-problem",
+    "label": "Quantum measurement problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-level",
+    "label": "Energy level",
+    "aliases": []
+  },
+  {
+    "id": "topic:ground-state",
+    "label": "Ground state",
+    "aliases": []
+  },
+  {
+    "id": "topic:wave-function",
+    "label": "Wave function",
+    "aliases": []
+  },
+  {
+    "id": "topic:path-integral-formulation",
+    "label": "Path integral formulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:waveparticle-duality",
+    "label": "Wave–particle duality",
+    "aliases": []
+  },
+  {
+    "id": "topic:schrdingers-cat",
+    "label": "Schrödinger's cat",
+    "aliases": []
+  },
+  {
+    "id": "topic:hidden-variable-theory",
+    "label": "Hidden-variable theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-differential-calculus",
+    "label": "Quantum differential calculus",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-stochastic-calculus",
+    "label": "Quantum stochastic calculus",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-complexity-theory",
+    "label": "Quantum complexity theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-image-processing",
+    "label": "Quantum image processing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-statistical-mechanics",
+    "label": "Quantum statistical mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:relativistic-quantum-mechanics",
+    "label": "Relativistic quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-mechanics",
+    "label": "Classical mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-electromagnetism",
+    "label": "Classical electromagnetism",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-optics",
+    "label": "Classical optics",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermodynamics",
+    "label": "Thermodynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:relativistic-mechanics",
+    "label": "Relativistic mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:atomic-physics",
+    "label": "Atomic physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:condensed-matter-physics",
+    "label": "Condensed matter physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:solid-state-physics",
+    "label": "Solid-state physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:physics-education-research",
+    "label": "Physics education research",
+    "aliases": []
+  },
+  {
+    "id": "topic:timeline-of-physics-discoveries",
+    "label": "Timeline of physics discoveries",
+    "aliases": []
+  },
+  {
+    "id": "topic:philosophy-of-physics",
+    "label": "Philosophy of physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-information",
+    "label": "Quantum information",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-phase-estimation",
+    "label": "Quantum phase estimation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-fourier-transform",
+    "label": "Quantum Fourier transform",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-gate-teleportation",
+    "label": "Quantum gate teleportation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-processors",
+    "label": "Quantum processors",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-quantum-computer",
+    "label": "Topological quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:hamiltonian-quantum-computation",
+    "label": "Hamiltonian quantum computation",
+    "aliases": []
+  },
+  {
+    "id": "topic:one-way-quantum-computer",
+    "label": "One-way quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:entanglement-distillation",
+    "label": "Entanglement distillation",
+    "aliases": []
+  },
+  {
+    "id": "topic:symmetry-in-quantum-mechanics",
+    "label": "Symmetry in quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-sensors",
+    "label": "Quantum sensors",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryptography",
+    "label": "Cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-sensing",
+    "label": "Quantum Sensing",
+    "aliases": []
+  },
+  {
+    "id": "topic:random-numbers",
+    "label": "Random Numbers",
+    "aliases": []
+  },
+  {
+    "id": "topic:microelectronics-technologies",
+    "label": "Microelectronics Technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:alzheimers-disease",
+    "label": "Alzheimer’s disease",
+    "aliases": []
+  },
+  {
+    "id": "topic:parkinsons-disease",
+    "label": "Parkinson’s disease",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-information-science-1",
+    "label": "quantum information science (QIS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:telecommunications",
+    "label": "telecommunications",
+    "aliases": []
+  },
+  {
+    "id": "topic:luna",
+    "label": "LUNA",
+    "aliases": []
+  },
+  {
+    "id": "topic:arpes",
+    "label": "ARPES",
+    "aliases": []
+  },
+  {
+    "id": "topic:hreels",
+    "label": "HREELS",
+    "aliases": []
+  },
+  {
+    "id": "topic:electronic-band-structure",
+    "label": "electronic band structure",
+    "aliases": []
+  },
+  {
+    "id": "topic:ion-trap-quantum-computing",
+    "label": "ion trap quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-fiber",
+    "label": "optical fiber",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-weather",
+    "label": "space weather",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-storms",
+    "label": "solar storms",
+    "aliases": []
+  },
+  {
+    "id": "topic:moores-law",
+    "label": "Moore's Law",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computers",
+    "label": "Quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:encyclopedia-of-complexity-and-systems-science",
+    "label": "Encyclopedia of Complexity and Systems Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-complexity",
+    "label": "Computational complexity",
+    "aliases": []
+  },
+  {
+    "id": "topic:qubits",
+    "label": "Qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:decoherence",
+    "label": "Decoherence",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-information-theory",
+    "label": "quantum information theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-complexity",
+    "label": "quantum complexity",
+    "aliases": []
+  },
+  {
+    "id": "topic:convex-optimization",
+    "label": "convex optimization",
+    "aliases": []
+  },
+  {
+    "id": "topic:exotic-quantum-phases-of-matter",
+    "label": "exotic quantum phases of matter",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-cryptography-1",
+    "label": "quantum cryptography (quantum money)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-control",
+    "label": "quantum control",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-communication-protocols",
+    "label": "Quantum Communication Protocols",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-correction-1",
+    "label": "Quantum Error-Correction",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-discrimination",
+    "label": "Quantum State Discrimination",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-hypothesis-testing",
+    "label": "Quantum Hypothesis Testing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-information-geometry",
+    "label": "Quantum Information Geometry",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-channel-capacity",
+    "label": "Quantum Channel Capacity",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-security",
+    "label": "Quantum Security",
+    "aliases": []
+  },
+  {
+    "id": "topic:uncertainty-principle",
+    "label": "Uncertainty Principle",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-estimation",
+    "label": "Quantum Estimation",
+    "aliases": []
+  },
+  {
+    "id": "topic:information-quantities",
+    "label": "Information Quantities",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-structures-and-information-theory",
+    "label": "Data Structures and Information Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:mathematical-methods-in-physics",
+    "label": "Mathematical Methods in Physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-information-technology",
+    "label": "Quantum Information Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:spintronics",
+    "label": "Spintronics",
+    "aliases": []
+  },
+  {
+    "id": "topic:information-and-communication",
+    "label": "Information and Communication",
+    "aliases": []
+  },
+  {
+    "id": "topic:circuits",
+    "label": "Circuits",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-quantum-channel-coding",
+    "label": "Classical-Quantum Channel Coding",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-channel-coding",
+    "label": "Quantum Channel Coding",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-data-compression",
+    "label": "Quantum Data Compression",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-discrimination-and-estimation",
+    "label": "Quantum State Discrimination and Estimation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-transmission",
+    "label": "Quantum State Transmission",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-entropy",
+    "label": "quantum entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:von-neumann-entropy",
+    "label": "von Neumann entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:superdense-coding",
+    "label": "superdense coding",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-encryption",
+    "label": "quantum encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-coherence",
+    "label": "quantum coherence",
+    "aliases": []
+  },
+  {
+    "id": "topic:uncertainty-relation",
+    "label": "uncertainty relation",
+    "aliases": []
+  },
+  {
+    "id": "topic:group-representation-theory",
+    "label": "group representation theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:su",
+    "label": "SU(2)",
+    "aliases": []
+  },
+  {
+    "id": "topic:su-1",
+    "label": "SU(d)",
+    "aliases": []
+  },
+  {
+    "id": "topic:heisenberg-representation",
+    "label": "Heisenberg representation",
+    "aliases": []
+  },
+  {
+    "id": "topic:squeezing-operation",
+    "label": "squeezing operation",
+    "aliases": []
+  },
+  {
+    "id": "topic:discrete-heisenberg-representation",
+    "label": "Discrete Heisenberg representation",
+    "aliases": []
+  },
+  {
+    "id": "topic:fourier-transform",
+    "label": "Fourier transform",
+    "aliases": []
+  },
+  {
+    "id": "topic:projective-representation",
+    "label": "projective representation",
+    "aliases": []
+  },
+  {
+    "id": "topic:symmetric-group",
+    "label": "symmetric group",
+    "aliases": []
+  },
+  {
+    "id": "topic:angular-momentum",
+    "label": "angular momentum",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-type-hamiltonian",
+    "label": "hydrogen-type Hamiltonian",
+    "aliases": []
+  },
+  {
+    "id": "topic:spin-orbit-interaction",
+    "label": "spin-orbit interaction",
+    "aliases": []
+  },
+  {
+    "id": "topic:quark-model",
+    "label": "quark model",
+    "aliases": []
+  },
+  {
+    "id": "topic:bosonic-system",
+    "label": "Bosonic system",
+    "aliases": []
+  },
+  {
+    "id": "topic:sl",
+    "label": "SL(2,R)",
+    "aliases": []
+  },
+  {
+    "id": "topic:sp",
+    "label": "Sp(2n,R)",
+    "aliases": []
+  },
+  {
+    "id": "topic:deutsch-jozsas-algorithm",
+    "label": "Deutsch-Jozsa's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:noisy-quantum-channel",
+    "label": "noisy quantum channel",
+    "aliases": []
+  },
+  {
+    "id": "topic:local-operation-and-classical-communication",
+    "label": "local operation and classical communication",
+    "aliases": []
+  },
+  {
+    "id": "topic:reverse-shannon-theorem",
+    "label": "reverse Shannon theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:group-symmetry",
+    "label": "group symmetry",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-estimation",
+    "label": "quantum state estimation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-cloning",
+    "label": "quantum state cloning",
+    "aliases": []
+  },
+  {
+    "id": "topic:weyl-heisenberg-groups",
+    "label": "Weyl-Heisenberg groups",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-correcting-code",
+    "label": "quantum error correcting code",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-universal-information-protocols",
+    "label": "quantum universal information protocols",
+    "aliases": []
+  },
+  {
+    "id": "topic:csiszar-korners-universal-coding-theory",
+    "label": "Csiszar-Korner's universal coding theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:group-representation",
+    "label": "group representation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-statistical-inference",
+    "label": "quantum statistical inference",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-public-key-cryptography",
+    "label": "quantum public key cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-steganography",
+    "label": "quantum steganography",
+    "aliases": []
+  },
+  {
+    "id": "topic:photon",
+    "label": "photon",
+    "aliases": []
+  },
+  {
+    "id": "topic:shannon-entropy",
+    "label": "Shannon entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:gibbs-entropy",
+    "label": "Gibbs entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:density-matrix",
+    "label": "density matrix",
+    "aliases": []
+  },
+  {
+    "id": "topic:probability",
+    "label": "probability",
+    "aliases": []
+  },
+  {
+    "id": "topic:hilbert-space",
+    "label": "Hilbert space",
+    "aliases": []
+  },
+  {
+    "id": "topic:pauli-matrices",
+    "label": "Pauli matrices",
+    "aliases": []
+  },
+  {
+    "id": "topic:pure-state",
+    "label": "pure state",
+    "aliases": []
+  },
+  {
+    "id": "topic:mixed-state",
+    "label": "mixed state",
+    "aliases": []
+  },
+  {
+    "id": "topic:wavefunction",
+    "label": "wavefunction",
+    "aliases": []
+  },
+  {
+    "id": "topic:subadditivity",
+    "label": "subadditivity",
+    "aliases": []
+  },
+  {
+    "id": "topic:strong-subadditivity",
+    "label": "strong subadditivity",
+    "aliases": []
+  },
+  {
+    "id": "topic:holevos-theorem",
+    "label": "Holevo's theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:bell-state",
+    "label": "Bell state",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-channel",
+    "label": "quantum channel",
+    "aliases": []
+  },
+  {
+    "id": "topic:gibbs-states",
+    "label": "Gibbs states",
+    "aliases": []
+  },
+  {
+    "id": "topic:boltzmann-constant",
+    "label": "Boltzmann constant",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mutual-information",
+    "label": "quantum mutual information",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-rnyi-entropies",
+    "label": "quantum Rényi entropies",
+    "aliases": []
+  },
+  {
+    "id": "topic:principle-of-maximum-entropy",
+    "label": "principle of maximum entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermodynamic-potential",
+    "label": "thermodynamic potential",
+    "aliases": []
+  },
+  {
+    "id": "topic:ferromagnetism",
+    "label": "ferromagnetism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ising-model",
+    "label": "Ising model",
+    "aliases": []
+  },
+  {
+    "id": "topic:potts-model",
+    "label": "Potts model",
+    "aliases": []
+  },
+  {
+    "id": "topic:heisenberg-model",
+    "label": "Heisenberg model",
+    "aliases": []
+  },
+  {
+    "id": "topic:percolation",
+    "label": "percolation",
+    "aliases": []
+  },
+  {
+    "id": "topic:lennard-jones-potential",
+    "label": "Lennard-Jones potential",
+    "aliases": []
+  },
+  {
+    "id": "topic:mean-field-theory",
+    "label": "mean-field theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:conformal-field-theory",
+    "label": "conformal field theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:critical-exponents",
+    "label": "critical exponents",
+    "aliases": []
+  },
+  {
+    "id": "topic:statistical-field-theory",
+    "label": "statistical field theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:superfluidity",
+    "label": "superfluidity",
+    "aliases": []
+  },
+  {
+    "id": "topic:complex-systems",
+    "label": "complex systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:chaos-theory",
+    "label": "chaos theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:boltzmann-machine",
+    "label": "Boltzmann machine",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanical-entropy",
+    "label": "quantum mechanical entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:josephson-junction",
+    "label": "Josephson junction",
+    "aliases": []
+  },
+  {
+    "id": "topic:cnot-gate",
+    "label": "CNOT gate",
+    "aliases": []
+  },
+  {
+    "id": "topic:fredkin-gate",
+    "label": "Fredkin gate",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-annealing",
+    "label": "quantum annealing",
+    "aliases": []
+  },
+  {
+    "id": "topic:holevo-bound",
+    "label": "Holevo bound",
+    "aliases": []
+  },
+  {
+    "id": "topic:shannon-information-theory",
+    "label": "Shannon information theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:deutschjozsa-algorithm",
+    "label": "Deutsch–Jozsa algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:bernsteinvazirani-algorithm",
+    "label": "Bernstein–Vazirani algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:linear-ion-crystals",
+    "label": "Linear ion crystals",
+    "aliases": []
+  },
+  {
+    "id": "topic:simons-problem",
+    "label": "Simon's problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:deutschs-algorithm",
+    "label": "Deutsch's algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:dual-rail-encoding",
+    "label": "Dual-rail encoding",
+    "aliases": []
+  },
+  {
+    "id": "topic:controlled-not-gate",
+    "label": "controlled NOT gate",
+    "aliases": []
+  },
+  {
+    "id": "topic:trapped-ions",
+    "label": "trapped ions",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-database-search-algorithm",
+    "label": "quantum database search algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:steane-code",
+    "label": "Steane code",
+    "aliases": []
+  },
+  {
+    "id": "topic:divincenzos-criteria",
+    "label": "DiVincenzo's criteria",
+    "aliases": []
+  },
+  {
+    "id": "topic:feynmans-conjecture",
+    "label": "Feynman's conjecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:nmr",
+    "label": "NMR",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-ensembles",
+    "label": "Thermal ensembles",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-magnetic-resonance",
+    "label": "Nuclear magnetic resonance",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-quantum-computation",
+    "label": "Topological quantum computation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-dots",
+    "label": "Quantum dots",
+    "aliases": []
+  },
+  {
+    "id": "topic:deutschs-problem",
+    "label": "Deutsch's problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:silicon-based-quantum-computer",
+    "label": "Silicon-based quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:gottesmanknill-theorem",
+    "label": "Gottesman–Knill theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:no-deleting-theorem",
+    "label": "No-deleting theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-qubit",
+    "label": "Superconducting qubit",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-quantum-computing",
+    "label": "optical quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:measurement-based-quantum-computation",
+    "label": "measurement-based quantum computation",
+    "aliases": []
+  },
+  {
+    "id": "topic:ion-trap-quantum-computer",
+    "label": "ion-trap quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:nmr-quantum-computer",
+    "label": "NMR quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-memories",
+    "label": "quantum memories",
+    "aliases": []
+  },
+  {
+    "id": "topic:buckminsterfullerene",
+    "label": "buckminsterfullerene",
+    "aliases": []
+  },
+  {
+    "id": "topic:zeno-effect",
+    "label": "Zeno Effect",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-telecloning",
+    "label": "quantum telecloning",
+    "aliases": []
+  },
+  {
+    "id": "topic:josephson-junction-computers",
+    "label": "Josephson junction computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:kane-quantum-computer",
+    "label": "Kane quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:electron-quantum-pump",
+    "label": "electron quantum pump",
+    "aliases": []
+  },
+  {
+    "id": "topic:boseeinstein-condensate",
+    "label": "Bose–Einstein condensate",
+    "aliases": []
+  },
+  {
+    "id": "topic:photonic-quantum-computing",
+    "label": "photonic quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:graphene-quantum-dots",
+    "label": "graphene quantum dots",
+    "aliases": []
+  },
+  {
+    "id": "topic:light-pulses",
+    "label": "light pulses",
+    "aliases": []
+  },
+  {
+    "id": "topic:spinorbit-interaction",
+    "label": "spin–orbit interaction",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-random-access-memory",
+    "label": "quantum random access memory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-transistor",
+    "label": "quantum transistor",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-bus",
+    "label": "quantum bus",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-quantum-cable",
+    "label": "superconducting quantum cable",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-register",
+    "label": "quantum register",
+    "aliases": []
+  },
+  {
+    "id": "topic:diamond",
+    "label": "diamond",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-processor",
+    "label": "quantum processor",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-memory",
+    "label": "quantum memory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-algorithm",
+    "label": "quantum algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-logic-gate",
+    "label": "quantum logic gate",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-quantum-computing",
+    "label": "superconducting quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-quantum-computing",
+    "label": "topological quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-detection-code",
+    "label": "quantum error detection code",
+    "aliases": []
+  },
+  {
+    "id": "topic:ion-trap-based-quantum-computer",
+    "label": "ion-trap-based quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:noisy-intermediate-scale-quantum",
+    "label": "noisy intermediate-scale quantum (NISQ) era",
+    "aliases": []
+  },
+  {
+    "id": "topic:triple-photon-form-of-light",
+    "label": "triple-photon form of light",
+    "aliases": []
+  },
+  {
+    "id": "topic:q",
+    "label": "Q#",
+    "aliases": []
+  },
+  {
+    "id": "topic:trapped-ion-quantum-computer",
+    "label": "trapped-ion quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-darwinism",
+    "label": "Quantum Darwinism",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-wiring-problem",
+    "label": "quantum wiring problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:boson-sampling",
+    "label": "boson sampling",
+    "aliases": []
+  },
+  {
+    "id": "topic:spontaneous-parametric-down-conversion",
+    "label": "spontaneous parametric down-conversion",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computer",
+    "label": "quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-volume",
+    "label": "quantum volume",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-as-a-service",
+    "label": "quantum computing as a service",
+    "aliases": []
+  },
+  {
+    "id": "topic:ion-trap-quantum-computer-1",
+    "label": "ion trap quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:photon-quantum-computer",
+    "label": "photon quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-correction-codes",
+    "label": "quantum error-correction codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-tunneling",
+    "label": "quantum tunneling",
+    "aliases": []
+  },
+  {
+    "id": "topic:rydberg-sensor",
+    "label": "Rydberg sensor",
+    "aliases": []
+  },
+  {
+    "id": "topic:boseeinstein-condensates",
+    "label": "Bose–Einstein condensates",
+    "aliases": []
+  },
+  {
+    "id": "topic:rashba-effect",
+    "label": "Rashba effect",
+    "aliases": []
+  },
+  {
+    "id": "topic:perovskites",
+    "label": "perovskites",
+    "aliases": []
+  },
+  {
+    "id": "topic:hartreefock-approximation",
+    "label": "Hartree–Fock approximation",
+    "aliases": []
+  },
+  {
+    "id": "topic:counterfactual-quantum-communication",
+    "label": "counterfactual quantum communication",
+    "aliases": []
+  },
+  {
+    "id": "topic:modular-angular-momentum",
+    "label": "modular angular momentum",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-communication-network",
+    "label": "quantum communication network",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-atoms",
+    "label": "artificial atoms",
+    "aliases": []
+  },
+  {
+    "id": "topic:single-photon-source",
+    "label": "single-photon source",
+    "aliases": []
+  },
+  {
+    "id": "topic:mobile-quantum-networks",
+    "label": "mobile quantum networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryogenic-low-noise-amplifier",
+    "label": "cryogenic low-noise amplifier (LNA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-logic-gates",
+    "label": "quantum logic gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-fibres",
+    "label": "optical fibres",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-tweezers",
+    "label": "optical tweezers",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-quantum-computers",
+    "label": "superconducting quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:photon-based-quantum-computers",
+    "label": "photon-based quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-annealer",
+    "label": "quantum annealer",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-memristive-device",
+    "label": "quantum memristive device",
+    "aliases": []
+  },
+  {
+    "id": "topic:neuromorphic-quantum-computers",
+    "label": "neuromorphic quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-integrated-circuits",
+    "label": "quantum integrated circuits",
+    "aliases": []
+  },
+  {
+    "id": "topic:rydberg-atoms",
+    "label": "Rydberg atoms",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-initialization",
+    "label": "optical initialization",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-spin-qubits",
+    "label": "nuclear spin qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:nmr-1",
+    "label": "NMR (nuclear magnetic resonance)",
+    "aliases": []
+  },
+  {
+    "id": "topic:boson-4",
+    "label": "Boson 4",
+    "aliases": []
+  },
+  {
+    "id": "topic:willow",
+    "label": "Willow",
+    "aliases": []
+  },
+  {
+    "id": "topic:majorana-1",
+    "label": "Majorana 1",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocelot",
+    "label": "Ocelot",
+    "aliases": []
+  },
+  {
+    "id": "topic:error-corrected-quantum-computing",
+    "label": "error-corrected quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-network",
+    "label": "quantum network",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-coin-flipping",
+    "label": "Quantum coin flipping",
+    "aliases": []
+  },
+  {
+    "id": "topic:sarg04",
+    "label": "SARG04",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-secret-sharing",
+    "label": "Quantum secret sharing",
+    "aliases": []
+  },
+  {
+    "id": "topic:amplitude-amplification",
+    "label": "Amplitude amplification",
+    "aliases": []
+  },
+  {
+    "id": "topic:magic-state-distillation",
+    "label": "Magic state distillation",
+    "aliases": []
+  },
+  {
+    "id": "topic:randomized-benchmarking",
+    "label": "Randomized benchmarking",
+    "aliases": []
+  },
+  {
+    "id": "topic:xeb",
+    "label": "XEB",
+    "aliases": []
+  },
+  {
+    "id": "topic:relaxation-times",
+    "label": "Relaxation times",
+    "aliases": []
+  },
+  {
+    "id": "topic:t1",
+    "label": "T1",
+    "aliases": []
+  },
+  {
+    "id": "topic:t2",
+    "label": "T2",
+    "aliases": []
+  },
+  {
+    "id": "topic:continuous-variable-quantum-information",
+    "label": "Continuous-variable quantum information",
+    "aliases": []
+  },
+  {
+    "id": "topic:cluster-state",
+    "label": "cluster state",
+    "aliases": []
+  },
+  {
+    "id": "topic:5-qubit-code",
+    "label": "5 qubit code",
+    "aliases": []
+  },
+  {
+    "id": "topic:css-codes",
+    "label": "CSS codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:gkp-codes",
+    "label": "GKP codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-convolutional-codes",
+    "label": "quantum convolutional codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:stabilizer-codes",
+    "label": "stabilizer codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:shor-code",
+    "label": "Shor code",
+    "aliases": []
+  },
+  {
+    "id": "topic:baconshor-code",
+    "label": "Bacon–Shor code",
+    "aliases": []
+  },
+  {
+    "id": "topic:toric-code",
+    "label": "Toric code",
+    "aliases": []
+  },
+  {
+    "id": "topic:entanglement-assisted-codes",
+    "label": "Entanglement-assisted codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:excited-state",
+    "label": "Excited state",
+    "aliases": []
+  },
+  {
+    "id": "topic:degenerate-levels",
+    "label": "Degenerate levels",
+    "aliases": []
+  },
+  {
+    "id": "topic:zero-point-energy",
+    "label": "Zero-point energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-jump",
+    "label": "quantum jump",
+    "aliases": []
+  },
+  {
+    "id": "topic:collapse",
+    "label": "Collapse",
+    "aliases": []
+  },
+  {
+    "id": "topic:consciousness-causes-collapse",
+    "label": "Consciousness causes collapse",
+    "aliases": []
+  },
+  {
+    "id": "topic:local-superdeterminism",
+    "label": "Local Superdeterminism",
+    "aliases": []
+  },
+  {
+    "id": "topic:delayed-choice-quantum-eraser",
+    "label": "Delayed-choice quantum eraser",
+    "aliases": []
+  },
+  {
+    "id": "topic:machzehnder-interferometer",
+    "label": "Mach–Zehnder interferometer",
+    "aliases": []
+  },
+  {
+    "id": "topic:wheelers-delayed-choice",
+    "label": "Wheeler's delayed choice",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-cellular-automata",
+    "label": "Quantum cellular automata",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-finite-automata",
+    "label": "Quantum finite automata",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-timeline",
+    "label": "Quantum computing Timeline",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-and-communication",
+    "label": "Quantum computing and communication",
+    "aliases": []
+  },
+  {
+    "id": "topic:free-and-open-source-software",
+    "label": "Free and open-source software",
+    "aliases": []
+  },
+  {
+    "id": "topic:programming-languages",
+    "label": "Programming languages",
+    "aliases": []
+  },
+  {
+    "id": "topic:virtualization-development",
+    "label": "Virtualization development",
+    "aliases": []
+  },
+  {
+    "id": "topic:cs1-russian-language-sources",
+    "label": "CS1 Russian-language sources (ru)",
+    "aliases": []
+  },
+  {
+    "id": "topic:all-articles-with-dead-external-links",
+    "label": "All articles with dead external links",
+    "aliases": []
+  },
+  {
+    "id": "topic:articles-with-dead-external-links-from-june-2016",
+    "label": "Articles with dead external links from June 2016",
+    "aliases": []
+  },
+  {
+    "id": "topic:cs1-maint-multiple-names-authors-list",
+    "label": "CS1 maint: multiple names: authors list",
+    "aliases": []
+  },
+  {
+    "id": "topic:cs1-maint-numeric-names-authors-list",
+    "label": "CS1 maint: numeric names: authors list",
+    "aliases": []
+  },
+  {
+    "id": "topic:cs1-maint-article-number-as-page-number",
+    "label": "CS1 maint: article number as page number",
+    "aliases": []
+  },
+  {
+    "id": "topic:cs1-maint-bot-original-url-status-unknown",
+    "label": "CS1 maint: bot: original URL status unknown",
+    "aliases": []
+  },
+  {
+    "id": "topic:cs1-italian-language-sources",
+    "label": "CS1 Italian-language sources (it)",
+    "aliases": []
+  },
+  {
+    "id": "topic:articles-with-short-description",
+    "label": "Articles with short description",
+    "aliases": []
+  },
+  {
+    "id": "topic:short-description-with-empty-wikidata-description",
+    "label": "Short description with empty Wikidata description",
+    "aliases": []
+  },
+  {
+    "id": "topic:incomplete-lists-from-july-2021",
+    "label": "Incomplete lists from July 2021",
+    "aliases": []
+  },
+  {
+    "id": "topic:accuracy-disputes-from-december-2024",
+    "label": "Accuracy disputes from December 2024",
+    "aliases": []
+  },
+  {
+    "id": "topic:use-mdy-dates-from-april-2020",
+    "label": "Use mdy dates from April 2020",
+    "aliases": []
+  },
+  {
+    "id": "topic:all-articles-with-unsourced-statements",
+    "label": "All articles with unsourced statements",
+    "aliases": []
+  },
+  {
+    "id": "topic:articles-with-unsourced-statements-from-may-2022",
+    "label": "Articles with unsourced statements from May 2022",
+    "aliases": []
+  },
+  {
+    "id": "topic:wikipedia-articles-in-need-of-updating-from-september-2025",
+    "label": "Wikipedia articles in need of updating from September 2025",
+    "aliases": []
+  },
+  {
+    "id": "topic:all-wikipedia-articles-in-need-of-updating",
+    "label": "All Wikipedia articles in need of updating",
+    "aliases": []
+  },
+  {
+    "id": "topic:edit-preview-settings",
+    "label": "Edit preview settings",
+    "aliases": []
+  },
+  {
+    "id": "topic:rsa-encryption",
+    "label": "RSA encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:sycamore",
+    "label": "Sycamore",
+    "aliases": []
+  },
+  {
+    "id": "topic:logical-qubits",
+    "label": "logical qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:error-correction",
+    "label": "error-correction",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-processing-unit",
+    "label": "Quantum Processing Unit (QPU)",
+    "aliases": []
+  },
+  {
+    "id": "topic:kiosk-mode",
+    "label": "kiosk mode",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-centers",
+    "label": "data centers",
+    "aliases": []
+  },
+  {
+    "id": "topic:decentralized-data-centers",
+    "label": "decentralized data centers",
+    "aliases": []
+  },
+  {
+    "id": "topic:composable-architecture",
+    "label": "composable architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:esg",
+    "label": "ESG",
+    "aliases": []
+  },
+  {
+    "id": "topic:business-sustainability",
+    "label": "business sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-risk",
+    "label": "climate risk",
+    "aliases": []
+  },
+  {
+    "id": "topic:electrical-grid",
+    "label": "electrical grid",
+    "aliases": []
+  },
+  {
+    "id": "topic:semiconductor-industry",
+    "label": "semiconductor industry",
+    "aliases": []
+  },
+  {
+    "id": "topic:materials-engineering",
+    "label": "materials engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:power-sources",
+    "label": "power sources",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-vehicles",
+    "label": "electric vehicles",
+    "aliases": []
+  },
+  {
+    "id": "topic:supply-chains",
+    "label": "supply chains",
+    "aliases": []
+  },
+  {
+    "id": "topic:chemistry-modeling",
+    "label": "chemistry modeling",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-bayesianism",
+    "label": "Quantum Bayesianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-states",
+    "label": "Quantum states",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-states",
+    "label": "Classical states",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-evolution",
+    "label": "Quantum state evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:nonlocality",
+    "label": "Nonlocality",
+    "aliases": []
+  },
+  {
+    "id": "topic:nonseparability",
+    "label": "Nonseparability",
+    "aliases": []
+  },
+  {
+    "id": "topic:measurement-problem",
+    "label": "Measurement problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-realism",
+    "label": "Quantum state realism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ontological-category",
+    "label": "Ontological category",
+    "aliases": []
+  },
+  {
+    "id": "topic:reconstructions-of-quantum-mechanics",
+    "label": "Reconstructions of quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:hidden-variables-theories",
+    "label": "Hidden-variables theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:collapse-theories",
+    "label": "Collapse theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:schrdinger-equation",
+    "label": "Schrödinger equation",
+    "aliases": []
+  },
+  {
+    "id": "topic:canonical-commutation-relations",
+    "label": "canonical commutation relations",
+    "aliases": []
+  },
+  {
+    "id": "topic:heisenberg-cut",
+    "label": "Heisenberg cut",
+    "aliases": []
+  },
+  {
+    "id": "topic:operators",
+    "label": "operators",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-operators",
+    "label": "quantum operators",
+    "aliases": []
+  },
+  {
+    "id": "topic:hamiltonian",
+    "label": "Hamiltonian",
+    "aliases": []
+  },
+  {
+    "id": "topic:unitary-evolution",
+    "label": "unitary evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:heisenberg-picture",
+    "label": "Heisenberg picture",
+    "aliases": []
+  },
+  {
+    "id": "topic:unitary-operators",
+    "label": "unitary operators",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-collapse",
+    "label": "quantum state collapse",
+    "aliases": []
+  },
+  {
+    "id": "topic:observables",
+    "label": "observables",
+    "aliases": []
+  },
+  {
+    "id": "topic:heisenberg-equation-of-motion",
+    "label": "Heisenberg equation of motion",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-representation",
+    "label": "quantum state representation",
+    "aliases": []
+  },
+  {
+    "id": "topic:psycho-physical-parallelism",
+    "label": "psycho-physical parallelism",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-superposition",
+    "label": "quantum superposition",
+    "aliases": []
+  },
+  {
+    "id": "topic:wave-function-representations",
+    "label": "wave-function representations",
+    "aliases": []
+  },
+  {
+    "id": "topic:operational-quantum-mechanics",
+    "label": "operational quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:product-state",
+    "label": "product state",
+    "aliases": []
+  },
+  {
+    "id": "topic:tensor-product-space",
+    "label": "tensor product space",
+    "aliases": []
+  },
+  {
+    "id": "topic:entangled-state",
+    "label": "entangled state",
+    "aliases": []
+  },
+  {
+    "id": "topic:reduced-state",
+    "label": "reduced state",
+    "aliases": []
+  },
+  {
+    "id": "topic:collapse-postulate",
+    "label": "collapse postulate",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-measurement",
+    "label": "quantum measurement",
+    "aliases": []
+  },
+  {
+    "id": "topic:hidden-variables-theory",
+    "label": "hidden-variables theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:copenhagen-interpretation",
+    "label": "Copenhagen interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:everettian-interpretation",
+    "label": "Everettian interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-wave-function",
+    "label": "quantum wave function",
+    "aliases": []
+  },
+  {
+    "id": "topic:bell-kochen-specker-theorem",
+    "label": "Bell-Kochen-Specker Theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:bohmian-mechanics",
+    "label": "Bohmian mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:modal-interpretations",
+    "label": "modal interpretations",
+    "aliases": []
+  },
+  {
+    "id": "topic:einstein-podolsky-rosen-argument",
+    "label": "Einstein-Podolsky-Rosen argument",
+    "aliases": []
+  },
+  {
+    "id": "topic:everetts-relative-state-formulation",
+    "label": "Everett’s relative-state formulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:stochastic-collapse-theories",
+    "label": "stochastic collapse theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:primitive-ontology",
+    "label": "primitive ontology",
+    "aliases": []
+  },
+  {
+    "id": "topic:many-worlds-interpretation",
+    "label": "Many-Worlds interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:relational-quantum-mechanics",
+    "label": "relational quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-monism",
+    "label": "quantum state monism",
+    "aliases": []
+  },
+  {
+    "id": "topic:wigners-friend-scenarios",
+    "label": "Wigner’s friend scenarios",
+    "aliases": []
+  },
+  {
+    "id": "topic:extended-wigners-friend-scenarios",
+    "label": "Extended Wigner’s friend scenarios",
+    "aliases": []
+  },
+  {
+    "id": "topic:no-go-theorems",
+    "label": "no-go theorems",
+    "aliases": []
+  },
+  {
+    "id": "topic:conscious-observers",
+    "label": "conscious observers",
+    "aliases": []
+  },
+  {
+    "id": "topic:observer-effects",
+    "label": "observer effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:superluminal-signaling",
+    "label": "superluminal signaling",
+    "aliases": []
+  },
+  {
+    "id": "topic:bells-dilemma",
+    "label": "Bell’s dilemma",
+    "aliases": []
+  },
+  {
+    "id": "topic:wigners-friend",
+    "label": "Wigner’s friend",
+    "aliases": []
+  },
+  {
+    "id": "topic:double-slit-experiment",
+    "label": "double-slit experiment",
+    "aliases": []
+  },
+  {
+    "id": "topic:everettian-theories",
+    "label": "Everettian theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:consistent-histories-approach",
+    "label": "consistent histories approach",
+    "aliases": []
+  },
+  {
+    "id": "topic:bohmian-approach",
+    "label": "Bohmian approach",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-formalism",
+    "label": "quantum formalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:relativistic-causal-structure",
+    "label": "relativistic causal structure",
+    "aliases": []
+  },
+  {
+    "id": "topic:de-broglie-bohm-theory",
+    "label": "de Broglie-Bohm theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:beables",
+    "label": "beables",
+    "aliases": []
+  },
+  {
+    "id": "topic:relativistic-locality",
+    "label": "relativistic locality",
+    "aliases": []
+  },
+  {
+    "id": "topic:ontic-model",
+    "label": "ψ-ontic model",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic-model",
+    "label": "ψ-epistemic model",
+    "aliases": []
+  },
+  {
+    "id": "topic:pusey-barrett-and-rudolph",
+    "label": "Pusey, Barrett and Rudolph (PBR) theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:preparation-independence-assumption",
+    "label": "Preparation Independence assumption",
+    "aliases": []
+  },
+  {
+    "id": "topic:ontic-state",
+    "label": "ontic state",
+    "aliases": []
+  },
+  {
+    "id": "topic:epr-question",
+    "label": "EPR question",
+    "aliases": []
+  },
+  {
+    "id": "topic:configuration-space",
+    "label": "configuration space",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-field",
+    "label": "multi-field",
+    "aliases": []
+  },
+  {
+    "id": "topic:de-broglie-bohm-pilot-wave-theory",
+    "label": "de Broglie-Bohm pilot wave theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:bohmian-corpuscles",
+    "label": "Bohmian corpuscles",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-logic",
+    "label": "quantum logic",
+    "aliases": []
+  },
+  {
+    "id": "topic:generalized-probabilistic-model",
+    "label": "generalized probabilistic model",
+    "aliases": []
+  },
+  {
+    "id": "topic:wigners-friend-paradox",
+    "label": "Wigner’s friend paradox",
+    "aliases": []
+  },
+  {
+    "id": "topic:separability",
+    "label": "Separability",
+    "aliases": []
+  },
+  {
+    "id": "topic:ghirardiriminiweber-theory",
+    "label": "Ghirardi–Rimini–Weber theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:axiomatique-quantique",
+    "label": "Axiomatique quantique",
+    "aliases": []
+  },
+  {
+    "id": "topic:on-the-reality-of-the-quantum-state",
+    "label": "On the Reality of the Quantum State",
+    "aliases": []
+  },
+  {
+    "id": "topic:evidence-for-the-epistemic-view-of-quantum-states-a-toy-theory",
+    "label": "Evidence for the Epistemic View of Quantum States: A Toy Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quasi-quantization-classical-statistical-theories-with-an-epistemic-restriction",
+    "label": "Quasi-Quantization: Classical Statistical Theories with an Epistemic Restriction",
+    "aliases": []
+  },
+  {
+    "id": "topic:single-world-theory-of-the-extended-wigners-friend-experiment",
+    "label": "Single-world theory of the Extended Wigner’s Friend Experiment",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-hidden-assumptions-of-frauchiger-and-renner",
+    "label": "The Hidden Assumptions of Frauchiger and Renner",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-nonlocality",
+    "label": "Quantum nonlocality",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-bell-inequality-and-the-many-worlds-interpretation",
+    "label": "The Bell Inequality and the Many-Worlds Interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:mathematische-grundlagen-der-quantenmechanik",
+    "label": "Mathematische Grundlagen der Quantenmechanik",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-emergent-multiverse-quantum-theory-according-to-the-everett-interpretation",
+    "label": "The Emergent Multiverse: Quantum Theory according to the Everett Interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:on-the-plurality-of-quantum-theories-quantum-theory-as-a-framework-and-its-implications-for-the-quantum-measurement-problem",
+    "label": "On the Plurality of Quantum Theories: Quantum Theory as a Framework, and its Implications for the Quantum Measurement Problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:remarks-on-the-mind-body-problem",
+    "label": "Remarks on the Mind-Body Problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:symmetries-and-reflections-scientific-essays-of-eugene-p.-wigner",
+    "label": "Symmetries and Reflections: Scientific Essays of Eugene P. Wigner",
+    "aliases": []
+  },
+  {
+    "id": "topic:physics-and-metaphysics-of-wigners-friends-even-performed-pre-measurements-have-no-results",
+    "label": "Physics and Metaphysics of Wigner’s Friends: Even Performed Pre-measurements Have No Results",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-from-five-reasonable-axioms",
+    "label": "Quantum Theory from Five Reasonable Axioms",
+    "aliases": []
+  },
+  {
+    "id": "topic:interpretations-of-quantum-mechanics",
+    "label": "Interpretations of Quantum Mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:origins-of-quantum-theory",
+    "label": "Origins of Quantum Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-bohmian-mechanics",
+    "label": "Quantum mechanics: Bohmian mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-collapse-theories",
+    "label": "Quantum mechanics: collapse theories",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-consistent-histories-approach",
+    "label": "Quantum mechanics: consistent histories approach",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-copenhagen-interpretation",
+    "label": "Quantum mechanics: Copenhagen interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-everettian",
+    "label": "Quantum mechanics: Everettian",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-kochen-specker-theorem",
+    "label": "Quantum mechanics: Kochen-Specker theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-many-worlds-interpretation",
+    "label": "Quantum mechanics: many-worlds interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-modal-interpretations",
+    "label": "Quantum mechanics: modal interpretations",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-relational",
+    "label": "Quantum mechanics: relational",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-mechanics-the-role-of-decoherence",
+    "label": "Quantum mechanics: the role of decoherence",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-and-consciousness",
+    "label": "Quantum theory: and consciousness",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-and-mathematical-rigor",
+    "label": "Quantum theory: and mathematical rigor",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-quantum-computing",
+    "label": "Quantum theory: quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-quantum-entanglement-and-information",
+    "label": "Quantum theory: quantum entanglement and information",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-quantum-field-theory",
+    "label": "Quantum theory: quantum field theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-quantum-gravity",
+    "label": "Quantum theory: quantum gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-quantum-logic-and-probability-theory",
+    "label": "Quantum theory: quantum logic and probability theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-the-einstein-podolsky-rosen-argument",
+    "label": "Quantum theory: the Einstein-Podolsky-Rosen argument",
+    "aliases": []
+  },
+  {
+    "id": "topic:qbism",
+    "label": "QBism",
+    "aliases": []
+  },
+  {
+    "id": "topic:bayesianism",
+    "label": "Bayesianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:einsteinpodolskyrosen",
+    "label": "Einstein–Podolsky–Rosen (EPR) criterion of reality",
+    "aliases": []
+  },
+  {
+    "id": "topic:born-rule",
+    "label": "Born rule",
+    "aliases": []
+  },
+  {
+    "id": "topic:qbism-the-future-of-quantum-physics",
+    "label": "QBism: The Future of Quantum Physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:structural-realism",
+    "label": "structural realism",
+    "aliases": []
+  },
+  {
+    "id": "topic:phenomenology",
+    "label": "phenomenology",
+    "aliases": []
+  },
+  {
+    "id": "topic:cubism",
+    "label": "Cubism",
+    "aliases": []
+  },
+  {
+    "id": "topic:kantian-philosophy",
+    "label": "Kantian philosophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:instrumentalism",
+    "label": "instrumentalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:bayesian-probability",
+    "label": "Bayesian probability",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic-interpretations",
+    "label": "epistemic interpretations",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-probabilities",
+    "label": "quantum probabilities",
+    "aliases": []
+  },
+  {
+    "id": "topic:spekkens-toy-model",
+    "label": "Spekkens Toy Model",
+    "aliases": []
+  },
+  {
+    "id": "topic:participatory-realism",
+    "label": "participatory realism",
+    "aliases": []
+  },
+  {
+    "id": "topic:personalist-bayesianism",
+    "label": "personalist Bayesianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ramseyde-finetti-school",
+    "label": "Ramsey–de Finetti school",
+    "aliases": []
+  },
+  {
+    "id": "topic:bayesian-networks",
+    "label": "Bayesian networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-tomography",
+    "label": "quantum state tomography",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-process-tomography",
+    "label": "quantum process tomography",
+    "aliases": []
+  },
+  {
+    "id": "topic:maxent-methods",
+    "label": "MaxEnt methods",
+    "aliases": []
+  },
+  {
+    "id": "topic:entanglement-detection",
+    "label": "entanglement detection",
+    "aliases": []
+  },
+  {
+    "id": "topic:de-finetti-theorem",
+    "label": "de Finetti theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:sic-povms",
+    "label": "SIC-POVMs",
+    "aliases": []
+  },
+  {
+    "id": "topic:symmetric-informationally-complete-positive-operator-valued-measures",
+    "label": "symmetric, informationally-complete, positive operator-valued measures",
+    "aliases": []
+  },
+  {
+    "id": "topic:urgleichung",
+    "label": "urgleichung",
+    "aliases": []
+  },
+  {
+    "id": "topic:povms",
+    "label": "POVMs",
+    "aliases": []
+  },
+  {
+    "id": "topic:lders-rule",
+    "label": "Lüders rule",
+    "aliases": []
+  },
+  {
+    "id": "topic:law-of-total-probability",
+    "label": "law of total probability",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-dynamics",
+    "label": "quantum dynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:gdpr",
+    "label": "GDPR",
+    "aliases": []
+  },
+  {
+    "id": "topic:ccpa",
+    "label": "CCPA",
+    "aliases": []
+  },
+  {
+    "id": "topic:intellectual-property-rights",
+    "label": "intellectual property rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:export-controls",
+    "label": "export controls",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-divide",
+    "label": "digital divide",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-private-partnerships",
+    "label": "public-private partnerships",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy",
+    "label": "privacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:trust",
+    "label": "trust",
+    "aliases": []
+  },
+  {
+    "id": "topic:national-security",
+    "label": "national security",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-frameworks",
+    "label": "regulatory frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:cross-border-cooperation",
+    "label": "cross-border cooperation",
+    "aliases": []
+  },
+  {
+    "id": "topic:compliance",
+    "label": "compliance",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-and-information",
+    "label": "Quantum Computing and Information",
+    "aliases": []
+  },
+  {
+    "id": "topic:mathematical-foundations-of-quantum-computing",
+    "label": "Mathematical Foundations of Quantum Computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:dirac-notation",
+    "label": "Dirac notation",
+    "aliases": []
+  },
+  {
+    "id": "topic:tensor-products",
+    "label": "Tensor products",
+    "aliases": []
+  },
+  {
+    "id": "topic:singular-value-decomposition",
+    "label": "Singular Value Decomposition",
+    "aliases": []
+  },
+  {
+    "id": "topic:markov-chains",
+    "label": "Markov Chains",
+    "aliases": []
+  },
+  {
+    "id": "topic:monte-carlo-methods",
+    "label": "Monte Carlo Methods",
+    "aliases": []
+  },
+  {
+    "id": "topic:linear-algebra",
+    "label": "Linear Algebra",
+    "aliases": []
+  },
+  {
+    "id": "topic:stochastic-processes",
+    "label": "Stochastic Processes",
+    "aliases": []
+  },
+  {
+    "id": "topic:wigner-crystals",
+    "label": "Wigner crystals",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-hall-effect",
+    "label": "Quantum Hall effect",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetism",
+    "label": "Magnetism",
+    "aliases": []
+  },
+  {
+    "id": "topic:matrix-analysis",
+    "label": "matrix analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:markov-chain-monte-carlo-simulations",
+    "label": "Markov Chain Monte Carlo simulations",
+    "aliases": []
+  },
+  {
+    "id": "topic:vector-spaces",
+    "label": "vector spaces",
+    "aliases": []
+  },
+  {
+    "id": "topic:dirac",
+    "label": "Dirac (bra–ket) notation",
+    "aliases": []
+  },
+  {
+    "id": "topic:matrix-operations",
+    "label": "matrix operations",
+    "aliases": []
+  },
+  {
+    "id": "topic:change-of-basis",
+    "label": "change of basis",
+    "aliases": []
+  },
+  {
+    "id": "topic:kronecker-product",
+    "label": "Kronecker product",
+    "aliases": []
+  },
+  {
+    "id": "topic:composite-quantum-systems",
+    "label": "composite quantum systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-and-information-a-scaffolding-approach",
+    "label": "Quantum Computing and Information - a Scaffolding Approach",
+    "aliases": []
+  },
+  {
+    "id": "topic:modeling",
+    "label": "Modeling",
+    "aliases": []
+  },
+  {
+    "id": "topic:simulation",
+    "label": "Simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:moral-problems",
+    "label": "moral problems",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-brain",
+    "label": "Human Brain",
+    "aliases": []
+  },
+  {
+    "id": "topic:leadership",
+    "label": "Leadership",
+    "aliases": []
+  },
+  {
+    "id": "topic:womens-leadership-program",
+    "label": "Women's Leadership Program",
+    "aliases": []
+  },
+  {
+    "id": "topic:materials-informatics",
+    "label": "Materials Informatics",
+    "aliases": []
+  },
+  {
+    "id": "topic:u-lab",
+    "label": "u-lab",
+    "aliases": []
+  },
+  {
+    "id": "topic:western-music",
+    "label": "Western Music",
+    "aliases": []
+  },
+  {
+    "id": "topic:python",
+    "label": "Python",
+    "aliases": []
+  },
+  {
+    "id": "topic:chief-digital-officer",
+    "label": "Chief Digital Officer",
+    "aliases": []
+  },
+  {
+    "id": "topic:supply-chain-management",
+    "label": "Supply Chain Management",
+    "aliases": []
+  },
+  {
+    "id": "topic:mechanical-behavior-of-materials",
+    "label": "Mechanical Behavior of Materials",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-analysis",
+    "label": "Data Analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:urban-energy-systems",
+    "label": "Urban Energy Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:algorithms-and-data-structures",
+    "label": "Algorithms and Data Structures",
+    "aliases": []
+  },
+  {
+    "id": "topic:networks-and-security",
+    "label": "Networks and Security",
+    "aliases": []
+  },
+  {
+    "id": "topic:information-qubit",
+    "label": "information qubit",
+    "aliases": []
+  },
+  {
+    "id": "topic:physical-qubit",
+    "label": "physical qubit",
+    "aliases": []
+  },
+  {
+    "id": "topic:conditional-quantum-entropy",
+    "label": "conditional quantum entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:coherent-information",
+    "label": "coherent information",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-relative-entropy",
+    "label": "quantum relative entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-data-processing-inequality",
+    "label": "quantum data-processing inequality",
+    "aliases": []
+  },
+  {
+    "id": "topic:continuity-of-quantum-entropy",
+    "label": "continuity of quantum entropy",
+    "aliases": []
+  },
+  {
+    "id": "topic:advertising",
+    "label": "advertising",
+    "aliases": []
+  },
+  {
+    "id": "topic:cookies",
+    "label": "cookies",
+    "aliases": []
+  },
+  {
+    "id": "topic:online-privacy",
+    "label": "online privacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:targeted-advertising",
+    "label": "targeted advertising",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-drug-discovery",
+    "label": "Quantum Drug Discovery",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-gate-and-circuits-design",
+    "label": "Quantum Gate and Circuits design",
+    "aliases": []
+  },
+  {
+    "id": "topic:nmr-2",
+    "label": "NMR (Nuclear Magnetic Resonance Dev)",
+    "aliases": []
+  },
+  {
+    "id": "topic:semiconductor-quantum-transistor",
+    "label": "Semiconductor Quantum Transistor",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-photonic-chip",
+    "label": "Topological Photonic Chip",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-qubits",
+    "label": "Superconducting Qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:silicon-based-spin-qubit-technology",
+    "label": "Silicon-based spin qubit technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:cold-atoms",
+    "label": "Cold Atoms",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-genome",
+    "label": "Human Genome",
+    "aliases": []
+  },
+  {
+    "id": "topic:ciraczoller-proposal",
+    "label": "Cirac–Zoller proposal",
+    "aliases": []
+  },
+  {
+    "id": "topic:bucky-ball",
+    "label": "bucky ball",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-gate",
+    "label": "quantum gate",
+    "aliases": []
+  },
+  {
+    "id": "topic:spin-based-electronics",
+    "label": "spin-based electronics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-state-exchange",
+    "label": "quantum state exchange",
+    "aliases": []
+  },
+  {
+    "id": "topic:controlled-not-quantum-gates",
+    "label": "controlled-NOT quantum gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:bose-einstein-condensate",
+    "label": "Bose-Einstein condensate",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-ram",
+    "label": "quantum RAM",
+    "aliases": []
+  },
+  {
+    "id": "topic:graphene-quantum-dot-qubits",
+    "label": "graphene quantum dot qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:analog-quantum-computing",
+    "label": "analog quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:entangled-memory",
+    "label": "entangled memory",
+    "aliases": []
+  },
+  {
+    "id": "topic:qubyte",
+    "label": "qubyte",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-magnets",
+    "label": "molecular magnets",
+    "aliases": []
+  },
+  {
+    "id": "topic:electron-spin",
+    "label": "electron spin",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-circuits",
+    "label": "superconducting circuits",
+    "aliases": []
+  },
+  {
+    "id": "topic:amplitude-spectroscopy",
+    "label": "amplitude spectroscopy",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-qubit-memory",
+    "label": "hybrid qubit memory",
+    "aliases": []
+  },
+  {
+    "id": "topic:photons",
+    "label": "photons",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-frequency-comb",
+    "label": "optical frequency comb",
+    "aliases": []
+  },
+  {
+    "id": "topic:atomic-nucleus",
+    "label": "atomic nucleus",
+    "aliases": []
+  },
+  {
+    "id": "topic:coherence-time",
+    "label": "coherence time",
+    "aliases": []
+  },
+  {
+    "id": "topic:ion-traps",
+    "label": "ion traps",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-computers",
+    "label": "optical computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:scalable-quantum-computing",
+    "label": "scalable quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:error-correction-1",
+    "label": "error correction",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-simulator",
+    "label": "quantum simulator",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-insulator",
+    "label": "topological insulator",
+    "aliases": []
+  },
+  {
+    "id": "topic:von-neumann-architecture",
+    "label": "Von Neumann architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:topologically-protected-qubits",
+    "label": "topologically protected qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-spin-hall",
+    "label": "quantum spin Hall",
+    "aliases": []
+  },
+  {
+    "id": "topic:photonic-processors",
+    "label": "photonic processors",
+    "aliases": []
+  },
+  {
+    "id": "topic:lattice-surgery",
+    "label": "lattice surgery",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-detection",
+    "label": "quantum error detection",
+    "aliases": []
+  },
+  {
+    "id": "topic:optically-addressable-nuclear-spins",
+    "label": "optically addressable nuclear spins",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-spins",
+    "label": "nuclear spins",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-molecule",
+    "label": "hydrogen molecule",
+    "aliases": []
+  },
+  {
+    "id": "topic:sneakernet",
+    "label": "Sneakernet",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-13",
+    "label": "carbon-13",
+    "aliases": []
+  },
+  {
+    "id": "topic:room-temperature",
+    "label": "room temperature",
+    "aliases": []
+  },
+  {
+    "id": "topic:isotopically-purified-silicon",
+    "label": "isotopically purified silicon",
+    "aliases": []
+  },
+  {
+    "id": "topic:bell-based-randomness",
+    "label": "Bell-based randomness",
+    "aliases": []
+  },
+  {
+    "id": "topic:fault-tolerant-quantum-computing",
+    "label": "fault-tolerant quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-architecture",
+    "label": "quantum computing architecture",
+    "aliases": []
+  },
+  {
+    "id": "topic:trapped-ion-qubits",
+    "label": "trapped-ion qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:seven-trapped-ion-qubits",
+    "label": "seven trapped-ion qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-pulses",
+    "label": "optical pulses",
+    "aliases": []
+  },
+  {
+    "id": "topic:electrical-pulses",
+    "label": "electrical pulses",
+    "aliases": []
+  },
+  {
+    "id": "topic:four-superconducting-qubits",
+    "label": "four superconducting qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-analog-computer",
+    "label": "classical analog computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-encoding",
+    "label": "quantum encoding",
+    "aliases": []
+  },
+  {
+    "id": "topic:two-qubit-silicon-logic",
+    "label": "two-qubit silicon logic",
+    "aliases": []
+  },
+  {
+    "id": "topic:d-wave-2000q-quantum-annealer",
+    "label": "D-Wave 2000Q quantum annealer",
+    "aliases": []
+  },
+  {
+    "id": "topic:ibm-17-qubit-quantum-computer",
+    "label": "IBM 17-qubit quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:17-qubit-superconducting-test-chip",
+    "label": "17-qubit superconducting test chip",
+    "aliases": []
+  },
+  {
+    "id": "topic:50-qubit-quantum-computer",
+    "label": "50-qubit quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:trapped-ion-technique",
+    "label": "trapped-ion technique",
+    "aliases": []
+  },
+  {
+    "id": "topic:silicon-based-2-spin-qubit-processor",
+    "label": "silicon-based 2-spin-qubit processor",
+    "aliases": []
+  },
+  {
+    "id": "topic:bristlecone",
+    "label": "Bristlecone",
+    "aliases": []
+  },
+  {
+    "id": "topic:49-qubit-superconducting-test-chip",
+    "label": "49-qubit superconducting test chip",
+    "aliases": []
+  },
+  {
+    "id": "topic:tangle-lake",
+    "label": "Tangle Lake",
+    "aliases": []
+  },
+  {
+    "id": "topic:universal-holonomic-quantum-gates",
+    "label": "universal holonomic quantum gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:integrated-photonic-platform",
+    "label": "integrated photonic platform",
+    "aliases": []
+  },
+  {
+    "id": "topic:national-quantum-initiative-act",
+    "label": "National Quantum Initiative Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:ibm-q-system-one",
+    "label": "IBM Q System One",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-variational-quantum-simulation",
+    "label": "hybrid, variational quantum simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:53-qubit-quantum-computer",
+    "label": "53-qubit quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "topic:hot-qubits",
+    "label": "hot qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:noise-cancelling-for-quantum-bits",
+    "label": "noise cancelling for quantum bits",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-nuclear-resonance",
+    "label": "electric nuclear resonance",
+    "aliases": []
+  },
+  {
+    "id": "topic:silicon-quantum-computers",
+    "label": "silicon quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-radar",
+    "label": "quantum radar",
+    "aliases": []
+  },
+  {
+    "id": "topic:qutrit",
+    "label": "qutrit",
+    "aliases": []
+  },
+  {
+    "id": "topic:orbital-state-manipulation",
+    "label": "orbital state manipulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-coherence-protection",
+    "label": "quantum coherence protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:hartree-fock-approximation",
+    "label": "Hartree-Fock approximation",
+    "aliases": []
+  },
+  {
+    "id": "topic:phonon-entanglement",
+    "label": "phonon entanglement",
+    "aliases": []
+  },
+  {
+    "id": "topic:spin-state-manipulation",
+    "label": "spin state manipulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-photonics",
+    "label": "quantum photonics",
+    "aliases": []
+  },
+  {
+    "id": "topic:atom-wave-interferometry",
+    "label": "atom-wave interferometry",
+    "aliases": []
+  },
+  {
+    "id": "topic:orbitronics",
+    "label": "orbitronics",
+    "aliases": []
+  },
+  {
+    "id": "topic:sycamore-1",
+    "label": "Sycamore (quantum chip)",
+    "aliases": []
+  },
+  {
+    "id": "topic:delayed-choice-quantum-erasure",
+    "label": "delayed-choice quantum erasure",
+    "aliases": []
+  },
+  {
+    "id": "topic:trapped-ion-quantum-computing",
+    "label": "trapped-ion quantum computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-communication-networks",
+    "label": "quantum communication networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-coherence-time",
+    "label": "quantum coherence time",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-it",
+    "label": "quantum IT",
+    "aliases": []
+  },
+  {
+    "id": "topic:mechanical-oscillators",
+    "label": "mechanical oscillators",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-quantum-error-correction-codes",
+    "label": "topological quantum error-correction codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-simulations",
+    "label": "quantum simulations",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-applications",
+    "label": "Quantum Applications",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-business-news",
+    "label": "Quantum Business News",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-research-news",
+    "label": "Quantum Research News",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-funding-landscape",
+    "label": "Quantum Funding Landscape",
+    "aliases": []
+  },
+  {
+    "id": "topic:robotics",
+    "label": "Robotics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-features",
+    "label": "Quantum Features",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-cloud",
+    "label": "Quantum Cloud",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-theory-foundations",
+    "label": "Quantum Theory Foundations",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-body-radiation",
+    "label": "Black-body radiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:wave-particle-duality",
+    "label": "Wave-particle duality",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-hardware",
+    "label": "Quantum Computing Hardware",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-parallelism",
+    "label": "Quantum parallelism",
+    "aliases": []
+  },
+  {
+    "id": "topic:bohr-model",
+    "label": "Bohr model",
+    "aliases": []
+  },
+  {
+    "id": "topic:einstein-et-al.-1935",
+    "label": "Einstein et al., 1935",
+    "aliases": []
+  },
+  {
+    "id": "topic:wootters-zurek-1982",
+    "label": "Wootters \u0026 Zurek, 1982",
+    "aliases": []
+  },
+  {
+    "id": "topic:shors-algorithm",
+    "label": "Shor’s algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:grovers-algorithm",
+    "label": "Grover’s algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:zurek-2003",
+    "label": "Zurek, 2003",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-turing-machine-1",
+    "label": "Quantum Turing Machine (QTM)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-correction-codes-1",
+    "label": "Quantum Error Correction Codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:surface-code",
+    "label": "Surface code",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-code",
+    "label": "Topological code",
+    "aliases": []
+  },
+  {
+    "id": "topic:concatenated-code",
+    "label": "Concatenated code",
+    "aliases": []
+  },
+  {
+    "id": "topic:gottesman-kitaev-preskill-code",
+    "label": "Gottesman-Kitaev-Preskill code",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-approximate-optimization-algorithm",
+    "label": "Quantum Approximate Optimization Algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-insulators",
+    "label": "Topological insulators",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-abelian-anyons",
+    "label": "non-Abelian anyons",
+    "aliases": []
+  },
+  {
+    "id": "topic:topological-phases",
+    "label": "topological phases",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-classical-physics-informed-neural-networks",
+    "label": "Quantum-classical Physics-Informed Neural Networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-stochastic-optimization-with-annealing",
+    "label": "Quantum Stochastic Optimization with Annealing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-topological-graph-neural-networks",
+    "label": "Quantum Topological Graph Neural Networks",
+    "aliases": []
+  },
+  {
+    "id": "topic:spiking-quantum-convolutional-neural-network",
+    "label": "Spiking-quantum Convolutional Neural Network",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-federated-learning-framework",
+    "label": "Quantum Federated Learning Framework",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-voting-with-photonic-ghz-states",
+    "label": "Quantum Voting with Photonic GHZ States",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutral-atom-based-quantum-processors",
+    "label": "neutral atom-based quantum processors",
+    "aliases": []
+  },
+  {
+    "id": "topic:gibbs-free-energy",
+    "label": "Gibbs free energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:covalent-bond-cleavage",
+    "label": "covalent bond cleavage",
+    "aliases": []
+  },
+  {
+    "id": "topic:variational-quantum-eigensolver",
+    "label": "Variational Quantum Eigensolver (VQE)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hartree-fock",
+    "label": "Hartree-Fock (HF)",
+    "aliases": []
+  },
+  {
+    "id": "topic:density-functional-theory",
+    "label": "Density Functional Theory (DFT)",
+    "aliases": []
+  },
+  {
+    "id": "topic:polarizable-continuum-model",
+    "label": "polarizable continuum model (PCM)",
+    "aliases": []
+  },
+  {
+    "id": "topic:lapachone",
+    "label": "β-lapachone",
+    "aliases": []
+  },
+  {
+    "id": "topic:kras",
+    "label": "KRAS (Kirsten rat sarcoma viral oncogene)",
+    "aliases": []
+  },
+  {
+    "id": "topic:rasmapk",
+    "label": "RAS/MAPK (Mitogen-Activated Protein Kinase) signaling pathway",
+    "aliases": []
+  },
+  {
+    "id": "topic:sotorasib",
+    "label": "Sotorasib (AMG 510)",
+    "aliases": []
+  },
+  {
+    "id": "topic:g12c-mutation",
+    "label": "G12C mutation",
+    "aliases": []
+  },
+  {
+    "id": "topic:qmmm",
+    "label": "QM/MM (Quantum Mechanics/Molecular Mechanics) simulations",
+    "aliases": []
+  },
+  {
+    "id": "topic:covalent-inhibitors",
+    "label": "covalent inhibitors",
+    "aliases": []
+  },
+  {
+    "id": "topic:drug-design",
+    "label": "drug design",
+    "aliases": []
+  },
+  {
+    "id": "topic:prodrug-activation",
+    "label": "prodrug activation",
+    "aliases": []
+  },
+  {
+    "id": "topic:carboncarbon",
+    "label": "carbon–carbon (C–C) bond cleavage",
+    "aliases": []
+  },
+  {
+    "id": "topic:eta-lapachone",
+    "label": "$\beta$-lapachone",
+    "aliases": []
+  },
+  {
+    "id": "topic:dft",
+    "label": "DFT (Density Functional Theory)",
+    "aliases": []
+  },
+  {
+    "id": "topic:m06-2x-functional",
+    "label": "M06-2X functional",
+    "aliases": []
+  },
+  {
+    "id": "topic:casci",
+    "label": "CASCI (Complete Active Space Configuration Interaction)",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-embedding-methods",
+    "label": "quantum embedding methods",
+    "aliases": []
+  },
+  {
+    "id": "topic:downfolding-methods",
+    "label": "downfolding methods",
+    "aliases": []
+  },
+  {
+    "id": "topic:active-space-approximation",
+    "label": "active space approximation",
+    "aliases": []
+  },
+  {
+    "id": "topic:qubit-hamiltonian",
+    "label": "qubit Hamiltonian",
+    "aliases": []
+  },
+  {
+    "id": "topic:vqe",
+    "label": "VQE (Variational Quantum Eigensolver)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cc-bond-cleavage",
+    "label": "C–C bond cleavage",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-solvation-effects",
+    "label": "water solvation effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:6-311g",
+    "label": "6-311G(d,p) basis set",
+    "aliases": []
+  },
+  {
+    "id": "topic:ddcosmo-model",
+    "label": "ddCOSMO model",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-gibbs-corrections",
+    "label": "thermal Gibbs corrections",
+    "aliases": []
+  },
+  {
+    "id": "topic:hf-level",
+    "label": "HF level",
+    "aliases": []
+  },
+  {
+    "id": "topic:casci-1",
+    "label": "CASCI",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-computational-chemistry",
+    "label": "classical computational chemistry",
+    "aliases": []
+  },
+  {
+    "id": "topic:reaction-barrier-g",
+    "label": "reaction barrier ΔG^†",
+    "aliases": []
+  },
+  {
+    "id": "topic:reaction-gibbs-free-energy-change-g",
+    "label": "reaction Gibbs free energy change ΔG",
+    "aliases": []
+  },
+  {
+    "id": "topic:prodrug-activation-reaction",
+    "label": "prodrug-activation reaction",
+    "aliases": []
+  },
+  {
+    "id": "topic:dft-method",
+    "label": "DFT method",
+    "aliases": []
+  },
+  {
+    "id": "topic:solvation-effect",
+    "label": "solvation effect",
+    "aliases": []
+  },
+  {
+    "id": "topic:vqe-method",
+    "label": "VQE method",
+    "aliases": []
+  },
+  {
+    "id": "topic:near-exact-solutions",
+    "label": "near-exact solutions",
+    "aliases": []
+  },
+  {
+    "id": "topic:medium-sized-chemical-systems",
+    "label": "medium-sized chemical systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:gibbs-free-energy-profile-calculations",
+    "label": "Gibbs free energy profile calculations",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-wall-time",
+    "label": "computational wall time",
+    "aliases": []
+  },
+  {
+    "id": "topic:hf-solution",
+    "label": "HF solution",
+    "aliases": []
+  },
+  {
+    "id": "topic:active-space",
+    "label": "active space",
+    "aliases": []
+  },
+  {
+    "id": "topic:t1-time",
+    "label": "T1 time",
+    "aliases": []
+  },
+  {
+    "id": "topic:measurement-shots",
+    "label": "measurement shots",
+    "aliases": []
+  },
+  {
+    "id": "topic:pauli-operators",
+    "label": "Pauli operators",
+    "aliases": []
+  },
+  {
+    "id": "topic:pauli-strings",
+    "label": "Pauli strings",
+    "aliases": []
+  },
+  {
+    "id": "topic:one-body-reduced-density-matrix",
+    "label": "one-body reduced density matrix",
+    "aliases": []
+  },
+  {
+    "id": "topic:active-space-energy",
+    "label": "active space energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:expectation-value",
+    "label": "expectation value",
+    "aliases": []
+  },
+  {
+    "id": "topic:measurement-groups",
+    "label": "measurement groups",
+    "aliases": []
+  },
+  {
+    "id": "topic:commutation-relations",
+    "label": "commutation relations",
+    "aliases": []
+  },
+  {
+    "id": "topic:paired-unitary-coupled-cluster-ansatz",
+    "label": "paired unitary coupled-cluster ansatz",
+    "aliases": []
+  },
+  {
+    "id": "topic:givens-swap-network",
+    "label": "Givens-SWAP network",
+    "aliases": []
+  },
+  {
+    "id": "topic:double-excitations",
+    "label": "double excitations",
+    "aliases": []
+  },
+  {
+    "id": "topic:two-qubit-gates",
+    "label": "two-qubit gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecule-4",
+    "label": "molecule 4",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecule-5",
+    "label": "molecule 5",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecule-ts",
+    "label": "molecule TS",
+    "aliases": []
+  },
+  {
+    "id": "topic:kras-1",
+    "label": "KRAS (G12C mutation)",
+    "aliases": []
+  },
+  {
+    "id": "topic:covalent-bond-simulation",
+    "label": "covalent bond simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:vqe-algorithm",
+    "label": "VQE algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:qmmm-simulation",
+    "label": "QM/MM simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-resource-estimation",
+    "label": "quantum resource estimation",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-forces-calculation",
+    "label": "molecular forces calculation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-chemistry-computation",
+    "label": "quantum chemistry computation",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-dynamics-simulation",
+    "label": "molecular dynamics simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:reaction-barriers",
+    "label": "reaction barriers",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-classical-hybrid-computing",
+    "label": "quantum-classical hybrid computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:kras-2",
+    "label": "KRAS(G12C)",
+    "aliases": []
+  },
+  {
+    "id": "topic:covalent-inhibitor",
+    "label": "covalent inhibitor",
+    "aliases": []
+  },
+  {
+    "id": "topic:sotorasib-1",
+    "label": "Sotorasib",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-carbon-bond-cleavage",
+    "label": "carbon-carbon bond cleavage",
+    "aliases": []
+  },
+  {
+    "id": "topic:gibbs-energy-change",
+    "label": "Gibbs energy change",
+    "aliases": []
+  },
+  {
+    "id": "topic:ddcosmo-solvation-model",
+    "label": "ddCOSMO solvation model",
+    "aliases": []
+  },
+  {
+    "id": "topic:casci-force-formula",
+    "label": "CASCI force formula",
+    "aliases": []
+  },
+  {
+    "id": "topic:rayleigh-ritz-variational-principle",
+    "label": "Rayleigh-Ritz variational principle",
+    "aliases": []
+  },
+  {
+    "id": "topic:fermion-qubit-mapping",
+    "label": "fermion-qubit mapping",
+    "aliases": []
+  },
+  {
+    "id": "topic:parity-transformation",
+    "label": "parity transformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:frozen-core-approximation",
+    "label": "frozen core approximation",
+    "aliases": []
+  },
+  {
+    "id": "topic:homo-lumo-orbitals",
+    "label": "HOMO-LUMO orbitals",
+    "aliases": []
+  },
+  {
+    "id": "topic:mean-field-level",
+    "label": "mean-field level",
+    "aliases": []
+  },
+  {
+    "id": "topic:ab-initio-hamiltonian",
+    "label": "ab initio Hamiltonian",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-optimization-algorithm",
+    "label": "classical optimization algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-circuit-parameter-initialization",
+    "label": "quantum circuit parameter initialization",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmo",
+    "label": "COSMO (conductor-like screening model)",
+    "aliases": []
+  },
+  {
+    "id": "topic:pcm",
+    "label": "PCM (Polarizable Continuum Model)",
+    "aliases": []
+  },
+  {
+    "id": "topic:solvation-effects",
+    "label": "solvation effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:reaction-field-potential",
+    "label": "reaction-field potential",
+    "aliases": []
+  },
+  {
+    "id": "topic:dielectric-continuum",
+    "label": "dielectric continuum",
+    "aliases": []
+  },
+  {
+    "id": "topic:ddcosmo",
+    "label": "ddCOSMO",
+    "aliases": []
+  },
+  {
+    "id": "topic:domain-decomposition-algorithm",
+    "label": "domain decomposition algorithm",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-forces",
+    "label": "molecular forces",
+    "aliases": []
+  },
+  {
+    "id": "topic:hellmann-feynman-theorem",
+    "label": "Hellmann-Feynman theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:hf",
+    "label": "HF (Hartree-Fock) molecular orbital",
+    "aliases": []
+  },
+  {
+    "id": "topic:density-force",
+    "label": "density force",
+    "aliases": []
+  },
+  {
+    "id": "topic:integral-force",
+    "label": "integral force",
+    "aliases": []
+  },
+  {
+    "id": "topic:ry-ansatz",
+    "label": "Ry ansatz",
+    "aliases": []
+  },
+  {
+    "id": "topic:cnot-gates",
+    "label": "CNOT gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:ry-rotation-gates",
+    "label": "Ry rotation gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:b3lyp-functional",
+    "label": "B3LYP functional",
+    "aliases": []
+  },
+  {
+    "id": "topic:6-31g",
+    "label": "6-31+G(d) basis set",
+    "aliases": []
+  },
+  {
+    "id": "topic:smd-solvation-model",
+    "label": "SMD solvation model",
+    "aliases": []
+  },
+  {
+    "id": "topic:grimmes-d3-dispersion-correction",
+    "label": "Grimme’s D3 dispersion correction",
+    "aliases": []
+  },
+  {
+    "id": "topic:kras-3",
+    "label": "KRAS(G12C) mutation",
+    "aliases": []
+  },
+  {
+    "id": "topic:cysteine",
+    "label": "cysteine",
+    "aliases": []
+  },
+  {
+    "id": "topic:covalent-bonds",
+    "label": "covalent bonds",
+    "aliases": []
+  },
+  {
+    "id": "topic:protein-structure-prediction",
+    "label": "protein structure prediction",
+    "aliases": []
+  },
+  {
+    "id": "topic:protein-folding",
+    "label": "protein folding",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-chemistry",
+    "label": "quantum chemistry",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-molecular-biology",
+    "label": "computational molecular biology",
+    "aliases": []
+  },
+  {
+    "id": "topic:variational-quantum-eigensolver-1",
+    "label": "variational quantum eigensolver",
+    "aliases": []
+  },
+  {
+    "id": "topic:cancer-therapy",
+    "label": "cancer therapy",
+    "aliases": []
+  },
+  {
+    "id": "topic:kras-mutation",
+    "label": "KRAS mutation",
+    "aliases": []
+  },
+  {
+    "id": "topic:kras-g12c-inhibitor",
+    "label": "KRAS G12C inhibitor",
+    "aliases": []
+  },
+  {
+    "id": "topic:ras-mapk-reactivation",
+    "label": "RAS-MAPK reactivation",
+    "aliases": []
+  },
+  {
+    "id": "topic:rason-protein",
+    "label": "RASON protein",
+    "aliases": []
+  },
+  {
+    "id": "topic:prodrug-strategy",
+    "label": "prodrug strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:central-nervous-system",
+    "label": "central nervous system",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-embedding-simulation",
+    "label": "quantum embedding simulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-flow-algorithms",
+    "label": "quantum flow algorithms",
+    "aliases": []
+  },
+  {
+    "id": "topic:unitary-coupled-cluster-wave-functions",
+    "label": "unitary coupled cluster wave functions",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-simulations",
+    "label": "molecular simulations",
+    "aliases": []
+  },
+  {
+    "id": "topic:variational-quantum-algorithms",
+    "label": "variational quantum algorithms",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-mitigation",
+    "label": "quantum error mitigation",
+    "aliases": []
+  },
+  {
+    "id": "topic:electronic-structure-calculations",
+    "label": "electronic structure calculations",
+    "aliases": []
+  },
+  {
+    "id": "topic:hellmann-feynman-forces",
+    "label": "Hellmann-Feynman forces",
+    "aliases": []
+  },
+  {
+    "id": "topic:cancer-research",
+    "label": "cancer research",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-drug-design",
+    "label": "computational drug design",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-inspired-computing",
+    "label": "quantum-inspired computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-quantum-solutions",
+    "label": "post-quantum solutions",
+    "aliases": []
+  },
+  {
+    "id": "topic:visual-analytics",
+    "label": "visual analytics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-ai",
+    "label": "quantum AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:financial-modeling",
+    "label": "financial modeling",
+    "aliases": []
+  },
+  {
+    "id": "topic:weather-forecasting",
+    "label": "weather forecasting",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-resistant-algorithms",
+    "label": "quantum-resistant algorithms",
+    "aliases": []
+  },
+  {
+    "id": "topic:majorana-1-chip",
+    "label": "Majorana 1 Chip",
+    "aliases": []
+  },
+  {
+    "id": "topic:monte-carlo-model",
+    "label": "Monte Carlo model",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-classical-hybrid",
+    "label": "quantum-classical hybrid",
+    "aliases": []
+  },
+  {
+    "id": "topic:entangling-qubits",
+    "label": "entangling qubits",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-resistant-encryption",
+    "label": "quantum-resistant encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:drug-development",
+    "label": "drug development",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-vehicle-manufacturing",
+    "label": "electric vehicle manufacturing",
+    "aliases": []
+  },
+  {
+    "id": "topic:battery-chemistry",
+    "label": "battery chemistry",
+    "aliases": []
+  },
+  {
+    "id": "topic:traveling-salesman-problem",
+    "label": "traveling salesman problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-fuel",
+    "label": "hydrogen fuel",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-atomic-clock",
+    "label": "quantum atomic clock",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-pattern-recognition",
+    "label": "data pattern recognition",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-bayesianism-1",
+    "label": "quantum-Bayesianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:pragmatism",
+    "label": "pragmatism",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-atom",
+    "label": "hydrogen atom",
+    "aliases": []
+  },
+  {
+    "id": "topic:radioactive-decay",
+    "label": "radioactive decay",
+    "aliases": []
+  },
+  {
+    "id": "topic:interpreations-of-quantum-mechanics",
+    "label": "interpreations of quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-interpretation",
+    "label": "quantum interpretation",
+    "aliases": []
+  },
+  {
+    "id": "topic:subjective-bayesianism",
+    "label": "Subjective Bayesianism",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic-state",
+    "label": "epistemic state",
+    "aliases": []
+  },
+  {
+    "id": "topic:interpretations-of-probability",
+    "label": "interpretations of probability",
+    "aliases": []
+  },
+  {
+    "id": "topic:bayesian-coherence",
+    "label": "Bayesian coherence",
+    "aliases": []
+  },
+  {
+    "id": "topic:born-probabilities",
+    "label": "Born probabilities",
+    "aliases": []
+  },
+  {
+    "id": "topic:subjective-probability",
+    "label": "subjective probability",
+    "aliases": []
+  },
+  {
+    "id": "topic:sic",
+    "label": "SIC (symmetric informationally complete)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hamiltonian-operator",
+    "label": "Hamiltonian operator",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-bayesian-coherence",
+    "label": "quantum Bayesian coherence",
+    "aliases": []
+  },
+  {
+    "id": "topic:newtons-second-law",
+    "label": "Newton’s second law",
+    "aliases": []
+  },
+  {
+    "id": "topic:action-at-a-distance",
+    "label": "action at a distance",
+    "aliases": []
+  },
+  {
+    "id": "topic:cbism",
+    "label": "CBism",
+    "aliases": []
+  },
+  {
+    "id": "topic:reflection-principle",
+    "label": "Reflection Principle",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-time",
+    "label": "space-time",
+    "aliases": []
+  },
+  {
+    "id": "topic:solipsism",
+    "label": "Solipsism",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-realism",
+    "label": "scientific realism",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-explanation",
+    "label": "scientific explanation",
+    "aliases": []
+  },
+  {
+    "id": "topic:sics",
+    "label": "SICs",
+    "aliases": []
+  },
+  {
+    "id": "topic:non-locality",
+    "label": "non-locality",
+    "aliases": []
+  },
+  {
+    "id": "topic:subjectivism",
+    "label": "subjectivism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ontic",
+    "label": "ontic",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic",
+    "label": "epistemic",
+    "aliases": []
+  },
+  {
+    "id": "topic:nonlocal-influence",
+    "label": "nonlocal influence",
+    "aliases": []
+  },
+  {
+    "id": "topic:epr",
+    "label": "EPR",
+    "aliases": []
+  },
+  {
+    "id": "topic:bells-term",
+    "label": "Bell’s term",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-indeterminism",
+    "label": "quantum indeterminism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ontological-models-framework",
+    "label": "ontological models framework",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-debate",
+    "label": "quantum debate",
+    "aliases": []
+  },
+  {
+    "id": "topic:berkeleyan-idealism",
+    "label": "Berkeleyan idealism",
+    "aliases": []
+  },
+  {
+    "id": "topic:convivial-solipsism",
+    "label": "Convivial Solipsism",
+    "aliases": []
+  },
+  {
+    "id": "topic:qbists",
+    "label": "QBists",
+    "aliases": []
+  },
+  {
+    "id": "topic:classical-american-pragmatism",
+    "label": "classical American pragmatism",
+    "aliases": []
+  },
+  {
+    "id": "topic:measurement",
+    "label": "measurement",
+    "aliases": []
+  },
+  {
+    "id": "topic:block-universe",
+    "label": "block-universe",
+    "aliases": []
+  },
+  {
+    "id": "topic:subjective",
+    "label": "subjective",
+    "aliases": []
+  },
+  {
+    "id": "topic:objective",
+    "label": "objective",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-measurements",
+    "label": "quantum measurements",
+    "aliases": []
+  },
+  {
+    "id": "topic:operationalism",
+    "label": "operationalism",
+    "aliases": []
+  },
+  {
+    "id": "topic:relational-quantum-states",
+    "label": "relational quantum states",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic-policy",
+    "label": "epistemic policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:inferentialist-pragmatism",
+    "label": "inferentialist pragmatism",
+    "aliases": []
+  },
+  {
+    "id": "topic:copenhagen-interpretation-of-quantum-theory",
+    "label": "Copenhagen interpretation of quantum theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:pragmatic-definition",
+    "label": "pragmatic definition",
+    "aliases": []
+  },
+  {
+    "id": "topic:microscopic-system",
+    "label": "microscopic system",
+    "aliases": []
+  },
+  {
+    "id": "topic:philosophy-of-science",
+    "label": "philosophy of science",
+    "aliases": []
+  },
+  {
+    "id": "topic:realism",
+    "label": "realism",
+    "aliases": []
+  },
+  {
+    "id": "topic:anti-realism",
+    "label": "anti-realism",
+    "aliases": []
+  },
+  {
+    "id": "topic:chances",
+    "label": "chances",
+    "aliases": []
+  },
+  {
+    "id": "topic:probabilities",
+    "label": "Probabilities",
+    "aliases": []
+  },
+  {
+    "id": "topic:bell-inequalities",
+    "label": "Bell inequalities",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-decoherence",
+    "label": "Quantum decoherence",
+    "aliases": []
+  },
+  {
+    "id": "topic:kochen-specker-theorem",
+    "label": "Kochen-Specker theorem",
+    "aliases": []
+  },
+  {
+    "id": "topic:counterfactual-inferences",
+    "label": "Counterfactual inferences",
+    "aliases": []
+  },
+  {
+    "id": "topic:physical-magnitudes",
+    "label": "Physical magnitudes",
+    "aliases": []
+  },
+  {
+    "id": "topic:probabilistic-phenomena",
+    "label": "Probabilistic phenomena",
+    "aliases": []
+  },
+  {
+    "id": "topic:local-action",
+    "label": "Local action",
+    "aliases": []
+  },
+  {
+    "id": "topic:ontic-1",
+    "label": "ψ-ontic",
+    "aliases": []
+  },
+  {
+    "id": "topic:epistemic-1",
+    "label": "ψ-epistemic",
+    "aliases": []
+  },
+  {
+    "id": "topic:therapeutic-approach",
+    "label": "therapeutic approach",
+    "aliases": []
+  },
+  {
+    "id": "topic:constitutive-rules",
+    "label": "constitutive rules",
+    "aliases": []
+  },
+  {
+    "id": "topic:counterfactuals",
+    "label": "counterfactuals",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-and-time",
+    "label": "space and time",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-risks",
+    "label": "ethical risks",
+    "aliases": []
+  },
+  {
+    "id": "topic:encryption-protocols",
+    "label": "encryption protocols",
+    "aliases": []
+  },
+  {
+    "id": "topic:postquantum-cryptography",
+    "label": "postquantum cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:deep-learning",
+    "label": "deep learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:explainability",
+    "label": "explainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-tensions",
+    "label": "global tensions",
+    "aliases": []
+  },
+  {
+    "id": "topic:health-care",
+    "label": "health care",
+    "aliases": []
+  },
+  {
+    "id": "topic:genetic-diseases",
+    "label": "genetic diseases",
+    "aliases": []
+  },
+  {
+    "id": "topic:materials",
+    "label": "Materials",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-capture",
+    "label": "Carbon capture",
+    "aliases": []
+  },
+  {
+    "id": "topic:chemical-production",
+    "label": "Chemical production",
+    "aliases": []
+  },
+  {
+    "id": "topic:ddt",
+    "label": "DDT",
+    "aliases": []
+  },
+  {
+    "id": "topic:plastics",
+    "label": "Plastics",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulations",
+    "label": "Regulations",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-cybersecurity",
+    "label": "quantum cybersecurity",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-business",
+    "label": "quantum business",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-funding",
+    "label": "quantum funding",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-ownership",
+    "label": "data ownership",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-framework",
+    "label": "ethical framework",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulation",
+    "label": "regulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:fault-tolerant-architectures",
+    "label": "fault-tolerant architectures",
+    "aliases": []
+  },
+  {
+    "id": "topic:materials-science",
+    "label": "materials science",
+    "aliases": []
+  },
+  {
+    "id": "topic:control-engineering",
+    "label": "control engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:job-displacement",
+    "label": "job displacement",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-reactors",
+    "label": "nuclear reactors",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-and-economic-implications",
+    "label": "social and economic implications",
+    "aliases": []
+  },
+  {
+    "id": "topic:civil-liberties",
+    "label": "civil liberties",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-collection",
+    "label": "data collection",
+    "aliases": []
+  },
+  {
+    "id": "topic:surveillance",
+    "label": "surveillance",
+    "aliases": []
+  },
+  {
+    "id": "topic:mass-surveillance",
+    "label": "mass surveillance",
+    "aliases": []
+  },
+  {
+    "id": "topic:government-regulation",
+    "label": "government regulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-research",
+    "label": "scientific research",
+    "aliases": []
+  },
+  {
+    "id": "topic:transparency",
+    "label": "transparency",
+    "aliases": []
+  },
+  {
+    "id": "topic:open-source-code",
+    "label": "open-source code",
+    "aliases": []
+  },
+  {
+    "id": "topic:reproducibility",
+    "label": "reproducibility",
+    "aliases": []
+  },
+  {
+    "id": "topic:standardization",
+    "label": "standardization",
+    "aliases": []
+  },
+  {
+    "id": "topic:symmetric-key-encryption",
+    "label": "symmetric-key encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:lattice-based-cryptography",
+    "label": "lattice-based cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:mceliece-cryptosystem",
+    "label": "McEliece cryptosystem",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-encryption",
+    "label": "hybrid encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-key-encryption",
+    "label": "public-key encryption",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-resistant-cryptography",
+    "label": "quantum-resistant cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:code-based-cryptography",
+    "label": "code-based cryptography",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-economic-systems",
+    "label": "global economic systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-access-issues",
+    "label": "quantum access issues",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-error-correcting-codes",
+    "label": "quantum error-correcting codes",
+    "aliases": []
+  },
+  {
+    "id": "topic:neuromorphic-computing",
+    "label": "Neuromorphic Computing",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computing-applications",
+    "label": "quantum computing applications",
+    "aliases": []
   }
 ]
