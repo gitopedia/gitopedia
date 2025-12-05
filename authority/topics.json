@@ -5973,5 +5973,4290 @@
     "id": "topic:deep-space-exploration",
     "label": "deep space exploration",
     "aliases": []
+  },
+  {
+    "id": "topic:infrared-astronomy",
+    "label": "infrared astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:gold-plated-beryllium",
+    "label": "gold-plated beryllium",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacecraft",
+    "label": "Spacecraft (Bus and Sunshield)",
+    "aliases": []
+  },
+  {
+    "id": "topic:integrated-science-instrument-module",
+    "label": "Integrated Science Instrument Module",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-telescope-element",
+    "label": "Optical Telescope Element",
+    "aliases": []
+  },
+  {
+    "id": "topic:micrometeoroid-strikes",
+    "label": "Micrometeoroid strikes",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanets",
+    "label": "exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:first-stars",
+    "label": "First stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:first-galaxies",
+    "label": "first galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:transit-and-structural-deployment",
+    "label": "Transit and structural deployment",
+    "aliases": []
+  },
+  {
+    "id": "topic:commissioning-and-testing",
+    "label": "Commissioning and testing",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-release-science-program",
+    "label": "Early Release Science program",
+    "aliases": []
+  },
+  {
+    "id": "topic:general-observer-program",
+    "label": "General Observer Program",
+    "aliases": []
+  },
+  {
+    "id": "topic:redshift",
+    "label": "redshift",
+    "aliases": []
+  },
+  {
+    "id": "topic:three-mirror-anastigmat",
+    "label": "three-mirror anastigmat",
+    "aliases": []
+  },
+  {
+    "id": "topic:nircam",
+    "label": "NIRCam",
+    "aliases": []
+  },
+  {
+    "id": "topic:nirspec",
+    "label": "NIRSpec",
+    "aliases": []
+  },
+  {
+    "id": "topic:miri",
+    "label": "MIRI",
+    "aliases": []
+  },
+  {
+    "id": "topic:fgsniriss",
+    "label": "FGS/NIRISS",
+    "aliases": []
+  },
+  {
+    "id": "topic:webb-space-telescope",
+    "label": "Webb Space Telescope (JWST)",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope",
+    "label": "space telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-telescope",
+    "label": "infrared telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrazine",
+    "label": "hydrazine",
+    "aliases": []
+  },
+  {
+    "id": "topic:dinitrogen-tetroxide",
+    "label": "dinitrogen tetroxide",
+    "aliases": []
+  },
+  {
+    "id": "topic:javascript",
+    "label": "JavaScript",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecmascript",
+    "label": "ECMAScript",
+    "aliases": []
+  },
+  {
+    "id": "topic:nirspec-project-scientist",
+    "label": "NIRSpec project scientist",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-spectroscopy",
+    "label": "infrared spectroscopy",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-object-spectroscopy",
+    "label": "multi-object spectroscopy",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-imaging",
+    "label": "astronomical imaging",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacecraft-propulsion",
+    "label": "spacecraft propulsion",
+    "aliases": []
+  },
+  {
+    "id": "topic:flight-software",
+    "label": "flight software",
+    "aliases": []
+  },
+  {
+    "id": "topic:wavefront-sensing",
+    "label": "wavefront sensing",
+    "aliases": []
+  },
+  {
+    "id": "topic:attitude-control",
+    "label": "attitude control",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryocooler",
+    "label": "cryocooler",
+    "aliases": []
+  },
+  {
+    "id": "topic:javascript-interpreter",
+    "label": "JavaScript interpreter",
+    "aliases": []
+  },
+  {
+    "id": "topic:c-programming-language",
+    "label": "C++ programming language",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-launch",
+    "label": "space launch",
+    "aliases": []
+  },
+  {
+    "id": "topic:spitzer-space-telescope",
+    "label": "Spitzer Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:wide-field-infrared-survey-explorer",
+    "label": "Wide-field Infrared Survey Explorer",
+    "aliases": []
+  },
+  {
+    "id": "topic:nicmos-instrument",
+    "label": "NICMOS instrument",
+    "aliases": []
+  },
+  {
+    "id": "topic:l2-lagrange-point",
+    "label": "L2 Lagrange point",
+    "aliases": []
+  },
+  {
+    "id": "topic:halo-orbit",
+    "label": "halo orbit",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-servicing-mission",
+    "label": "space servicing mission",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-sensor",
+    "label": "infrared sensor",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy",
+    "label": "astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope-technology",
+    "label": "space telescope technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-research",
+    "label": "exoplanet research",
+    "aliases": []
+  },
+  {
+    "id": "topic:segmented-optics",
+    "label": "segmented optics",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-mission-cost-overruns",
+    "label": "space mission cost overruns",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope-development",
+    "label": "space telescope development",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-origins",
+    "label": "cosmic origins",
+    "aliases": []
+  },
+  {
+    "id": "topic:big-data",
+    "label": "big data",
+    "aliases": []
+  },
+  {
+    "id": "topic:budget-overruns",
+    "label": "budget overruns",
+    "aliases": []
+  },
+  {
+    "id": "topic:project-management",
+    "label": "project management",
+    "aliases": []
+  },
+  {
+    "id": "topic:critical-design-review",
+    "label": "critical design review",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-collaboration",
+    "label": "scientific collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-bench-assembly",
+    "label": "Optical Bench Assembly",
+    "aliases": []
+  },
+  {
+    "id": "topic:fine-guidance-sensor",
+    "label": "fine guidance sensor",
+    "aliases": []
+  },
+  {
+    "id": "topic:nirspec-instrument",
+    "label": "NIRSpec instrument",
+    "aliases": []
+  },
+  {
+    "id": "topic:miri-instrument",
+    "label": "MIRI instrument",
+    "aliases": []
+  },
+  {
+    "id": "topic:near-infrared-imager-slitless-spectrograph",
+    "label": "Near-Infrared Imager Slitless Spectrograph",
+    "aliases": []
+  },
+  {
+    "id": "topic:universe-origin",
+    "label": "universe origin",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-formation",
+    "label": "star formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:planet-formation",
+    "label": "planet formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmological-redshift",
+    "label": "cosmological redshift",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-atmospheres",
+    "label": "exoplanet atmospheres",
+    "aliases": []
+  },
+  {
+    "id": "topic:methane-biosignatures",
+    "label": "Methane biosignatures",
+    "aliases": []
+  },
+  {
+    "id": "topic:lagrange-points",
+    "label": "Lagrange points (L2)",
+    "aliases": []
+  },
+  {
+    "id": "topic:micrometeoroids",
+    "label": "micrometeoroids",
+    "aliases": []
+  },
+  {
+    "id": "topic:sunshield",
+    "label": "sunshield",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescopes",
+    "label": "space telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:lissajous-orbit",
+    "label": "Lissajous orbit",
+    "aliases": []
+  },
+  {
+    "id": "topic:orbit-maintenance",
+    "label": "orbit maintenance",
+    "aliases": []
+  },
+  {
+    "id": "topic:mirror-actuator",
+    "label": "mirror actuator",
+    "aliases": []
+  },
+  {
+    "id": "topic:hd-84406",
+    "label": "HD 84406",
+    "aliases": []
+  },
+  {
+    "id": "topic:2mass-j175540426551277",
+    "label": "2MASS J17554042+6551277",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrophysical-phenomena",
+    "label": "astrophysical phenomena",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmological-phenomena",
+    "label": "cosmological phenomena",
+    "aliases": []
+  },
+  {
+    "id": "topic:gravitational-lenses",
+    "label": "gravitational lenses",
+    "aliases": []
+  },
+  {
+    "id": "topic:quasars",
+    "label": "quasars",
+    "aliases": []
+  },
+  {
+    "id": "topic:physical-cosmology",
+    "label": "Physical cosmology",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-microwave-background",
+    "label": "cosmic microwave background",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-space-telescope-first-deep-field",
+    "label": "James Webb Space Telescope First Deep Field",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-galaxy",
+    "label": "early galaxy",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-spectroscopy",
+    "label": "astronomical spectroscopy",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-web",
+    "label": "cosmic web",
+    "aliases": []
+  },
+  {
+    "id": "topic:lagrangian-points",
+    "label": "Lagrangian points",
+    "aliases": []
+  },
+  {
+    "id": "topic:libration-point-orbit",
+    "label": "libration point orbit",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-bus",
+    "label": "satellite bus",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacecraft-thermal-control",
+    "label": "spacecraft thermal control",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacecraft-attitude-control",
+    "label": "spacecraft attitude control",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-panels",
+    "label": "solar panels",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-instrumentation",
+    "label": "astronomical instrumentation",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-surveys",
+    "label": "astronomical surveys",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-missions",
+    "label": "astronomy missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-space-telescope-timeline",
+    "label": "James Webb Space Telescope timeline",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-space-telescope-launch",
+    "label": "James Webb Space Telescope launch",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-space-telescope-deployment",
+    "label": "James Webb Space Telescope deployment",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-data-analysis",
+    "label": "astronomical data analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:habitable-zone",
+    "label": "habitable zone",
+    "aliases": []
+  },
+  {
+    "id": "topic:2021-in-french-guiana",
+    "label": "2021 in French Guiana",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-satellites-at-earth-sun-lagrange-points",
+    "label": "Artificial satellites at Earth-Sun Lagrange points",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-observatory",
+    "label": "infrared observatory",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-systems",
+    "label": "planetary systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-detectors",
+    "label": "infrared detectors",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryogenic-operating-temperatures",
+    "label": "cryogenic operating temperatures",
+    "aliases": []
+  },
+  {
+    "id": "topic:application-specific-integrated-circuit",
+    "label": "Application-Specific Integrated Circuit",
+    "aliases": []
+  },
+  {
+    "id": "topic:kapton-e",
+    "label": "Kapton E",
+    "aliases": []
+  },
+  {
+    "id": "topic:microshutters",
+    "label": "microshutters",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacecraft-engineering",
+    "label": "spacecraft engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:asteroids",
+    "label": "Asteroids",
+    "aliases": []
+  },
+  {
+    "id": "topic:betelgeuse",
+    "label": "Betelgeuse",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetic-reconnection",
+    "label": "Magnetic Reconnection",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-redshift-galaxies",
+    "label": "High-Redshift Galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:gamma-ray-bursts",
+    "label": "Gamma-Ray Bursts",
+    "aliases": []
+  },
+  {
+    "id": "topic:protoplanetary-disks",
+    "label": "Protoplanetary Disks",
+    "aliases": []
+  },
+  {
+    "id": "topic:fast-radio-bursts",
+    "label": "Fast Radio Bursts (FRBs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:antares",
+    "label": "Antares",
+    "aliases": []
+  },
+  {
+    "id": "topic:vega",
+    "label": "Vega",
+    "aliases": []
+  },
+  {
+    "id": "topic:anticipated-cosmic-events",
+    "label": "Anticipated Cosmic Events",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-comet-3iatlas",
+    "label": "Interstellar Comet 3I/ATLAS",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-events",
+    "label": "cosmic events",
+    "aliases": []
+  },
+  {
+    "id": "topic:organic-molecules",
+    "label": "organic molecules",
+    "aliases": []
+  },
+  {
+    "id": "topic:galactic-evolution",
+    "label": "galactic evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-nebula",
+    "label": "Planetary Nebula",
+    "aliases": []
+  },
+  {
+    "id": "topic:methane-clouds",
+    "label": "Methane clouds",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-ice-on-titan",
+    "label": "Water ice on Titan",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-observation",
+    "label": "Exoplanet observation",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellar-nursery",
+    "label": "Stellar nursery",
+    "aliases": []
+  },
+  {
+    "id": "topic:galactic-collision",
+    "label": "Galactic collision",
+    "aliases": []
+  },
+  {
+    "id": "topic:brown-dwarf",
+    "label": "Brown dwarf",
+    "aliases": []
+  },
+  {
+    "id": "topic:auroras-on-jupiter",
+    "label": "Auroras on Jupiter",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-composition",
+    "label": "Molecular composition",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-universe",
+    "label": "Early universe",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetic-field-effects",
+    "label": "Magnetic field effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellar-formation",
+    "label": "stellar formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-evolution",
+    "label": "galaxy evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-hole-research",
+    "label": "black hole research",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-detection-in-space",
+    "label": "water detection in space",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmosphere-composition-analysis",
+    "label": "atmosphere composition analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-dust",
+    "label": "interstellar dust",
+    "aliases": []
+  },
+  {
+    "id": "topic:universe-expansion",
+    "label": "universe expansion",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-cluster-formation",
+    "label": "star cluster formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:northern-lights",
+    "label": "Northern Lights",
+    "aliases": []
+  },
+  {
+    "id": "topic:pleiades-meteor-shower",
+    "label": "Pleiades Meteor Shower",
+    "aliases": []
+  },
+  {
+    "id": "topic:shooting-stars",
+    "label": "Shooting Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-eclipse",
+    "label": "Solar Eclipse",
+    "aliases": []
+  },
+  {
+    "id": "topic:meteors",
+    "label": "Meteors",
+    "aliases": []
+  },
+  {
+    "id": "topic:meteor-showers",
+    "label": "Meteor Showers",
+    "aliases": []
+  },
+  {
+    "id": "topic:aurora-borealis",
+    "label": "Aurora Borealis",
+    "aliases": []
+  },
+  {
+    "id": "topic:annular-solar-eclipse",
+    "label": "Annular Solar Eclipse",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-vapor",
+    "label": "Water vapor",
+    "aliases": []
+  },
+  {
+    "id": "topic:habitable-exoplanets",
+    "label": "Habitable exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:kepler-186f",
+    "label": "Kepler 186f",
+    "aliases": []
+  },
+  {
+    "id": "topic:trappist-1e",
+    "label": "Trappist-1e",
+    "aliases": []
+  },
+  {
+    "id": "topic:toi-1075-b",
+    "label": "TOI-1075 b",
+    "aliases": []
+  },
+  {
+    "id": "topic:gj-486-b",
+    "label": "GJ 486 b",
+    "aliases": []
+  },
+  {
+    "id": "topic:kepler-452b",
+    "label": "Kepler-452b",
+    "aliases": []
+  },
+  {
+    "id": "topic:trappist-1-c",
+    "label": "TRAPPIST-1 c",
+    "aliases": []
+  },
+  {
+    "id": "topic:wasp-15b",
+    "label": "Wasp-15b",
+    "aliases": []
+  },
+  {
+    "id": "topic:gj-9827d",
+    "label": "GJ 9827d",
+    "aliases": []
+  },
+  {
+    "id": "topic:gliese-12-b",
+    "label": "Gliese 12 b",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmospheric-composition",
+    "label": "atmospheric composition",
+    "aliases": []
+  },
+  {
+    "id": "topic:hot-jupiters",
+    "label": "Hot Jupiters",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrophotography",
+    "label": "astrophotography",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope",
+    "label": "telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescopes",
+    "label": "telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:dobsonian-telescope",
+    "label": "Dobsonian telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:go-to-telescopes",
+    "label": "Go-To telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:newtonian-telescopes",
+    "label": "Newtonian telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:refractor-telescopes",
+    "label": "refractor telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:reflector-telescopes",
+    "label": "reflector telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:binoculars",
+    "label": "binoculars",
+    "aliases": []
+  },
+  {
+    "id": "topic:eyepieces",
+    "label": "eyepieces",
+    "aliases": []
+  },
+  {
+    "id": "topic:equatorial-mounts",
+    "label": "equatorial mounts",
+    "aliases": []
+  },
+  {
+    "id": "topic:image-stabilization",
+    "label": "image stabilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:light-pollution",
+    "label": "light pollution",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrophotography-cameras",
+    "label": "astrophotography cameras",
+    "aliases": []
+  },
+  {
+    "id": "topic:stargazing",
+    "label": "Stargazing",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-buying-guide",
+    "label": "Telescope Buying Guide",
+    "aliases": []
+  },
+  {
+    "id": "topic:safe-solar-imaging",
+    "label": "Safe Solar Imaging",
+    "aliases": []
+  },
+  {
+    "id": "topic:four-types-of-astronomy",
+    "label": "Four Types of Astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:3d-printer",
+    "label": "3D Printer",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestial-objects",
+    "label": "Celestial Objects",
+    "aliases": []
+  },
+  {
+    "id": "topic:night-sky",
+    "label": "Night Sky",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-coatings",
+    "label": "Optical Coatings",
+    "aliases": []
+  },
+  {
+    "id": "topic:portable-telescopes",
+    "label": "Portable Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:dobsonian-telescopes",
+    "label": "Dobsonian telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:aperture",
+    "label": "Aperture",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-filters",
+    "label": "Telescope Filters",
+    "aliases": []
+  },
+  {
+    "id": "topic:spectrum",
+    "label": "Spectrum (Astronomy)",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-instruments",
+    "label": "Astronomical Instruments",
+    "aliases": []
+  },
+  {
+    "id": "topic:naked-eye-astronomy",
+    "label": "Naked Eye Astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:goto-alignment",
+    "label": "GoTo Alignment",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnification",
+    "label": "Magnification",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-imperfections",
+    "label": "Optical Imperfections",
+    "aliases": []
+  },
+  {
+    "id": "topic:collimation",
+    "label": "Collimation",
+    "aliases": []
+  },
+  {
+    "id": "topic:mounts-for-telescopes",
+    "label": "Mounts for Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestron-telescopes",
+    "label": "Celestron Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-maintenance",
+    "label": "Telescope Maintenance",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-accessories",
+    "label": "Telescope Accessories",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-lenses",
+    "label": "Telescope Lenses",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-telescopes",
+    "label": "Solar Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-tripods",
+    "label": "Telescope Tripods",
+    "aliases": []
+  },
+  {
+    "id": "topic:imaging-sensors-for-telescopes",
+    "label": "Imaging Sensors for Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:quick-release-mounts",
+    "label": "Quick-Release Mounts",
+    "aliases": []
+  },
+  {
+    "id": "topic:wide-field-eyepieces",
+    "label": "Wide Field Eyepieces",
+    "aliases": []
+  },
+  {
+    "id": "topic:variable-stars",
+    "label": "Variable Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:zooniverse",
+    "label": "Zooniverse (Citizen Science)",
+    "aliases": []
+  },
+  {
+    "id": "topic:modern-astronomy-techniques",
+    "label": "Modern Astronomy Techniques",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-for-amateurs",
+    "label": "Astronomy for Amateurs",
+    "aliases": []
+  },
+  {
+    "id": "topic:mental-health-benefits",
+    "label": "Mental Health Benefits",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-equipment",
+    "label": "Astronomy Equipment",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-budget",
+    "label": "Telescope Budget",
+    "aliases": []
+  },
+  {
+    "id": "topic:personal-observatory",
+    "label": "Personal Observatory",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-directory",
+    "label": "Telescope Directory",
+    "aliases": []
+  },
+  {
+    "id": "topic:dew-shields",
+    "label": "Dew Shields",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-techniques",
+    "label": "Astronomy Techniques",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-design",
+    "label": "Telescope Design",
+    "aliases": []
+  },
+  {
+    "id": "topic:remote-control-features",
+    "label": "Remote Control Features",
+    "aliases": []
+  },
+  {
+    "id": "topic:wireless-control",
+    "label": "Wireless Control",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-quality",
+    "label": "Telescope Quality",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-filters",
+    "label": "Solar Filters",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-performance",
+    "label": "Telescope Performance",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-education",
+    "label": "Astronomy Education",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestial-imaging",
+    "label": "Celestial Imaging",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-history",
+    "label": "Telescope History",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-portability",
+    "label": "Telescope Portability",
+    "aliases": []
+  },
+  {
+    "id": "topic:barlow-lens",
+    "label": "Barlow lens",
+    "aliases": []
+  },
+  {
+    "id": "topic:diy",
+    "label": "DIY",
+    "aliases": []
+  },
+  {
+    "id": "topic:geocaching",
+    "label": "geocaching",
+    "aliases": []
+  },
+  {
+    "id": "topic:additive-manufacturing",
+    "label": "additive manufacturing",
+    "aliases": []
+  },
+  {
+    "id": "topic:bioprinting",
+    "label": "bioprinting",
+    "aliases": []
+  },
+  {
+    "id": "topic:computer-aided-design",
+    "label": "Computer-Aided Design (CAD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-fiber-filament",
+    "label": "carbon fiber filament",
+    "aliases": []
+  },
+  {
+    "id": "topic:dlp-3d-printers",
+    "label": "DLP 3D printers",
+    "aliases": []
+  },
+  {
+    "id": "topic:dual-extrusion-3d-printing",
+    "label": "dual-extrusion 3D printing",
+    "aliases": []
+  },
+  {
+    "id": "topic:anisotropy-in-3d-printing",
+    "label": "anisotropy in 3D printing",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-technology",
+    "label": "space technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutrinos",
+    "label": "neutrinos",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetars",
+    "label": "magnetars",
+    "aliases": []
+  },
+  {
+    "id": "topic:ultra-diffuse-galaxies",
+    "label": "ultra-diffuse galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:baryon-acoustic-oscillations",
+    "label": "baryon acoustic oscillations",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-protection-systems",
+    "label": "thermal protection systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestron-nexstar-8se-telescope",
+    "label": "Celestron NexStar 8SE Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:planets",
+    "label": "planets",
+    "aliases": []
+  },
+  {
+    "id": "topic:saturn",
+    "label": "Saturn",
+    "aliases": []
+  },
+  {
+    "id": "topic:jupiter",
+    "label": "Jupiter",
+    "aliases": []
+  },
+  {
+    "id": "topic:stephans-quintet",
+    "label": "Stephan's Quintet",
+    "aliases": []
+  },
+  {
+    "id": "topic:microscope",
+    "label": "microscope",
+    "aliases": []
+  },
+  {
+    "id": "topic:stem",
+    "label": "STEM",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestron-nexstar",
+    "label": "Celestron NexStar",
+    "aliases": []
+  },
+  {
+    "id": "topic:hubble-telescope",
+    "label": "Hubble Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:cassegrain-telescopes",
+    "label": "Cassegrain Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-telescopes",
+    "label": "Smart Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:zhumell-z130",
+    "label": "Zhumell Z130",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestron-astromaster-130eq",
+    "label": "Celestron AstroMaster 130EQ",
+    "aliases": []
+  },
+  {
+    "id": "topic:vaonis-vespera-telescope",
+    "label": "Vaonis Vespera Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:leapfrog-magic-adventures-telescope",
+    "label": "LeapFrog Magic Adventures Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-telescopes",
+    "label": "Optical Telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-drake-equation",
+    "label": "The Drake Equation",
+    "aliases": []
+  },
+  {
+    "id": "topic:daylight-saving-time",
+    "label": "Daylight Saving Time",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-wars-movies",
+    "label": "Star Wars Movies",
+    "aliases": []
+  },
+  {
+    "id": "topic:fermi-paradox",
+    "label": "Fermi Paradox",
+    "aliases": []
+  },
+  {
+    "id": "topic:winter-solstice",
+    "label": "Winter Solstice",
+    "aliases": []
+  },
+  {
+    "id": "topic:photons",
+    "label": "Photons",
+    "aliases": []
+  },
+  {
+    "id": "topic:lunar-new-year",
+    "label": "Lunar New Year",
+    "aliases": []
+  },
+  {
+    "id": "topic:chatgpt",
+    "label": "ChatGPT",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutron-stars",
+    "label": "Neutron Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:time-crystal",
+    "label": "Time Crystal",
+    "aliases": []
+  },
+  {
+    "id": "topic:hertzsprung-russell-diagram",
+    "label": "Hertzsprung-Russell Diagram",
+    "aliases": []
+  },
+  {
+    "id": "topic:leap-year",
+    "label": "Leap Year",
+    "aliases": []
+  },
+  {
+    "id": "topic:pulsars",
+    "label": "Pulsars",
+    "aliases": []
+  },
+  {
+    "id": "topic:kardashev-scale",
+    "label": "Kardashev Scale",
+    "aliases": []
+  },
+  {
+    "id": "topic:theory-of-relativity",
+    "label": "Theory of Relativity",
+    "aliases": []
+  },
+  {
+    "id": "topic:three-body-problem",
+    "label": "Three Body Problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:earth-day",
+    "label": "Earth Day",
+    "aliases": []
+  },
+  {
+    "id": "topic:observable-universe",
+    "label": "Observable Universe",
+    "aliases": []
+  },
+  {
+    "id": "topic:dyson-spheres",
+    "label": "Dyson Spheres",
+    "aliases": []
+  },
+  {
+    "id": "topic:subsonic-boom",
+    "label": "Subsonic Boom",
+    "aliases": []
+  },
+  {
+    "id": "topic:proton",
+    "label": "Proton",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-superposition",
+    "label": "Quantum Superposition",
+    "aliases": []
+  },
+  {
+    "id": "topic:drake-equation",
+    "label": "Drake Equation",
+    "aliases": []
+  },
+  {
+    "id": "topic:pi",
+    "label": "Pi",
+    "aliases": []
+  },
+  {
+    "id": "topic:search-for-extraterrestrial-life",
+    "label": "Search for Extraterrestrial Life",
+    "aliases": []
+  },
+  {
+    "id": "topic:search-for-dark-matter",
+    "label": "Search for Dark Matter",
+    "aliases": []
+  },
+  {
+    "id": "topic:supernova-1",
+    "label": "supernova (stellar explosion)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ptolemaic-model",
+    "label": "Ptolemaic model (celestial mechanics)",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetars-1",
+    "label": "magnetars (magnetized neutron stars)",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-travel",
+    "label": "interstellar travel",
+    "aliases": []
+  },
+  {
+    "id": "topic:white-dwarf",
+    "label": "White Dwarf",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-hole",
+    "label": "Black Hole",
+    "aliases": []
+  },
+  {
+    "id": "topic:white-hole",
+    "label": "White Hole",
+    "aliases": []
+  },
+  {
+    "id": "topic:shooting-star",
+    "label": "Shooting Star",
+    "aliases": []
+  },
+  {
+    "id": "topic:newtons-laws-of-motion",
+    "label": "Newton's Laws of Motion",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-gravity",
+    "label": "Artificial Gravity",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-technology",
+    "label": "Satellite Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellites",
+    "label": "Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-orbits",
+    "label": "Satellite Orbits",
+    "aliases": []
+  },
+  {
+    "id": "topic:orbital-mechanics",
+    "label": "Orbital Mechanics",
+    "aliases": []
+  },
+  {
+    "id": "topic:cubesats",
+    "label": "CubeSats",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-situational-awareness",
+    "label": "Space Situational Awareness (SSA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-satellites",
+    "label": "Artificial Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:earth-observation-satellites",
+    "label": "Earth Observation Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:communications-satellites",
+    "label": "Communications Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:imaging-satellites",
+    "label": "Imaging Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:weather-satellites",
+    "label": "Weather Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:navigation-satellites",
+    "label": "Navigation Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-throughput-satellites",
+    "label": "High-Throughput Satellites (HTS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:geostationary-satellites",
+    "label": "Geostationary Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:low-earth-orbit",
+    "label": "Low Earth Orbit (LEO) Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-internet-services",
+    "label": "Satellite Internet Services",
+    "aliases": []
+  },
+  {
+    "id": "topic:electromagnetic-interference",
+    "label": "Electromagnetic Interference (EMI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:downlink-and-uplink",
+    "label": "Downlink and Uplink",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-power-systems",
+    "label": "Satellite Power Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:attitude-control-systems",
+    "label": "Attitude Control Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:orbital-debris",
+    "label": "Orbital Debris",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-junk",
+    "label": "Space Junk",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-protection-for-satellites",
+    "label": "Thermal Protection for Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:vehicle-tracking-satellites",
+    "label": "Vehicle Tracking Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:broadcasting-satellites",
+    "label": "Broadcasting Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:military-satellites",
+    "label": "Military Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:gps",
+    "label": "GPS",
+    "aliases": []
+  },
+  {
+    "id": "topic:glonass",
+    "label": "GLONASS",
+    "aliases": []
+  },
+  {
+    "id": "topic:galileo",
+    "label": "Galileo (navigation system)",
+    "aliases": []
+  },
+  {
+    "id": "topic:dart",
+    "label": "DART (NASA's planetary defense test mission)",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite-internet",
+    "label": "Satellite Internet",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-situational-awareness-1",
+    "label": "Space Situational Awareness",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrovirology",
+    "label": "Astrovirology",
+    "aliases": []
+  },
+  {
+    "id": "topic:uy-scuti",
+    "label": "UY Scuti",
+    "aliases": []
+  },
+  {
+    "id": "topic:yagi-antennas",
+    "label": "Yagi Antennas",
+    "aliases": []
+  },
+  {
+    "id": "topic:remote-sensing-satellites",
+    "label": "Remote Sensing Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:polar-orbits",
+    "label": "Polar Orbits",
+    "aliases": []
+  },
+  {
+    "id": "topic:microwave-cosmic-background-radiation",
+    "label": "Microwave Cosmic Background Radiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:unidentified-anomalous-phenomena",
+    "label": "Unidentified Anomalous Phenomena (UAP)",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-redshift-einstein-ring",
+    "label": "High-Redshift Einstein Ring",
+    "aliases": []
+  },
+  {
+    "id": "topic:trappist-1",
+    "label": "Trappist 1",
+    "aliases": []
+  },
+  {
+    "id": "topic:toi-836",
+    "label": "ToI-836",
+    "aliases": []
+  },
+  {
+    "id": "topic:wasp-17",
+    "label": "WASP-17",
+    "aliases": []
+  },
+  {
+    "id": "topic:lp-791-18-d",
+    "label": "LP 791-18 d",
+    "aliases": []
+  },
+  {
+    "id": "topic:eblm-j0555-57ab",
+    "label": "EBLM J0555-57Ab",
+    "aliases": []
+  },
+  {
+    "id": "topic:einstein-ring",
+    "label": "Einstein Ring",
+    "aliases": []
+  },
+  {
+    "id": "topic:asdap-j1832-0911",
+    "label": "ASDAP J1832-0911",
+    "aliases": []
+  },
+  {
+    "id": "topic:repeating-fast-radio-burst-20220912a",
+    "label": "Repeating Fast Radio Burst 20220912A",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-storms",
+    "label": "Solar Storms",
+    "aliases": []
+  },
+  {
+    "id": "topic:hungry-baby-planet",
+    "label": "Hungry Baby Planet",
+    "aliases": []
+  },
+  {
+    "id": "topic:fast-radio-bursts-1",
+    "label": "Fast Radio Bursts",
+    "aliases": []
+  },
+  {
+    "id": "topic:protoplanetary-disk",
+    "label": "Protoplanetary Disk",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-discoveries",
+    "label": "astronomical discoveries",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxies",
+    "label": "galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:nebulae",
+    "label": "nebulae",
+    "aliases": []
+  },
+  {
+    "id": "topic:observational-astronomy",
+    "label": "observational astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-mergers",
+    "label": "Galaxy mergers",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-nebulae",
+    "label": "Planetary nebulae",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-evolution",
+    "label": "Cosmic evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:galactic-filament-830-million-year-old",
+    "label": "Galactic Filament 830-Million-Year-Old",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-rich-dust-grains",
+    "label": "Carbon-Rich Dust Grains",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-vapor-detection",
+    "label": "Water Vapor Detection",
+    "aliases": []
+  },
+  {
+    "id": "topic:methane-in-exoplanet-atmospheres",
+    "label": "Methane in Exoplanet Atmospheres",
+    "aliases": []
+  },
+  {
+    "id": "topic:supernova-research",
+    "label": "Supernova Research",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmospheric-dynamics-on-exoplanets",
+    "label": "Atmospheric Dynamics on Exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-universe-transformation",
+    "label": "Early Universe Transformation",
+    "aliases": []
+  },
+  {
+    "id": "topic:inflated-exoplanets",
+    "label": "Inflated Exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:primordial-gas-in-gn-z11",
+    "label": "Primordial Gas in GN-z11",
+    "aliases": []
+  },
+  {
+    "id": "topic:universes-expansion-rate",
+    "label": "Universe's Expansion Rate",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-molecule-in-planet-forming-disc",
+    "label": "Carbon Molecule in Planet-Forming Disc",
+    "aliases": []
+  },
+  {
+    "id": "topic:quasar-host-galaxies",
+    "label": "Quasar Host Galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-habitability",
+    "label": "Exoplanet Habitability",
+    "aliases": []
+  },
+  {
+    "id": "topic:auroral-activity-on-brown-dwarfs",
+    "label": "Auroral Activity on Brown Dwarfs",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-dust-factories",
+    "label": "Cosmic Dust Factories",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-speed-jet-stream-in-jupiters-atmosphere",
+    "label": "High-Speed Jet Stream in Jupiters Atmosphere",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellar-birth-in-hh-211",
+    "label": "Stellar Birth in HH 211",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-formation-processes",
+    "label": "Planetary Formation Processes",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-lens-g165",
+    "label": "Cosmic Lens G165",
+    "aliases": []
+  },
+  {
+    "id": "topic:triply-lensed-supernova",
+    "label": "Triply-Lensed Supernova",
+    "aliases": []
+  },
+  {
+    "id": "topic:tellurium-element-formation",
+    "label": "Tellurium Element Formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:gas-eruptions-in-comets",
+    "label": "Gas Eruptions in Comets (29P)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cold-gas-in-early-universe-galaxies",
+    "label": "Cold Gas in Early Universe Galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-birth-in-digel-cloud-2s",
+    "label": "Star Birth in Digel Cloud 2S",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutron-star-in-supernova-remnant-sn-1987a",
+    "label": "Neutron Star in Supernova Remnant SN 1987A",
+    "aliases": []
+  },
+  {
+    "id": "topic:massive-star-cluster-westerlund-1",
+    "label": "Massive Star Cluster Westerlund 1",
+    "aliases": []
+  },
+  {
+    "id": "topic:hidden-galaxies-in-spiderweb-cluster",
+    "label": "Hidden Galaxies in Spiderweb Cluster",
+    "aliases": []
+  },
+  {
+    "id": "topic:light-echo-in-cassiopeia-a",
+    "label": "Light Echo in Cassiopeia A",
+    "aliases": []
+  },
+  {
+    "id": "topic:unusual-starless-super-jupiters",
+    "label": "Unusual Starless Super-Jupiters",
+    "aliases": []
+  },
+  {
+    "id": "topic:neon-chemistry-in-protoplanetary-disk",
+    "label": "Neon Chemistry in Protoplanetary Disk",
+    "aliases": []
+  },
+  {
+    "id": "topic:auroras-in-the-milky-way-black-hole-region",
+    "label": "Auroras in the Milky Way Black Hole Region",
+    "aliases": []
+  },
+  {
+    "id": "topic:hidden-cities-of-stars-in-messier-82",
+    "label": "Hidden Cities of Stars in Messier 82",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-dawn",
+    "label": "Cosmic Dawn (Oldest Galaxy)",
+    "aliases": []
+  },
+  {
+    "id": "topic:universes-expansion-paradox",
+    "label": "Universe's Expansion Paradox",
+    "aliases": []
+  },
+  {
+    "id": "topic:quartz-nanocrystals-in-exoplanet-atmospheres",
+    "label": "Quartz Nanocrystals in Exoplanet Atmospheres",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-molecule-in-planet-forming-discs",
+    "label": "Carbon Molecule in Planet-Forming Discs",
+    "aliases": []
+  },
+  {
+    "id": "topic:hubble-constant-discrepancy",
+    "label": "Hubble Constant Discrepancy",
+    "aliases": []
+  },
+  {
+    "id": "topic:hidden-details-of-elliptical-galaxies",
+    "label": "Hidden Details of Elliptical Galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:brown-dwarfs-beyond-the-milky-way",
+    "label": "Brown Dwarfs Beyond the Milky Way",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-disk-longevity",
+    "label": "Planetary Disk Longevity",
+    "aliases": []
+  },
+  {
+    "id": "topic:tiny-asteroid-populations-in-the-main-belt",
+    "label": "Tiny Asteroid Populations in the Main Belt",
+    "aliases": []
+  },
+  {
+    "id": "topic:light-echo-in-supernova-cassiopeia-a",
+    "label": "Light Echo in Supernova Cassiopeia A",
+    "aliases": []
+  },
+  {
+    "id": "topic:celestial-events",
+    "label": "Celestial Events",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-object-study",
+    "label": "Interstellar Object Study",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-science",
+    "label": "Space Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-system-exploration",
+    "label": "Solar System Exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-system-development",
+    "label": "planetary system development",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-history",
+    "label": "cosmic history",
+    "aliases": []
+  },
+  {
+    "id": "topic:apollo-program",
+    "label": "Apollo program",
+    "aliases": []
+  },
+  {
+    "id": "topic:next-generation-space-telescope",
+    "label": "Next Generation Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:ariane-5-rocket",
+    "label": "Ariane 5 rocket",
+    "aliases": []
+  },
+  {
+    "id": "topic:near-infrared-camera",
+    "label": "Near-Infrared Camera (NIRCam)",
+    "aliases": []
+  },
+  {
+    "id": "topic:mid-infrared-instrument",
+    "label": "Mid-Infrared Instrument (MIRI)",
+    "aliases": []
+  },
+  {
+    "id": "topic:integrated-science-instrument-module-1",
+    "label": "Integrated Science Instrument Module (ISIM)",
+    "aliases": []
+  },
+  {
+    "id": "topic:niriss",
+    "label": "NIRISS",
+    "aliases": []
+  },
+  {
+    "id": "topic:near-infrared-spectrograph",
+    "label": "Near-Infrared Spectrograph (NIRSpec)",
+    "aliases": []
+  },
+  {
+    "id": "topic:smacs-0723",
+    "label": "SMACS 0723",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-assembly",
+    "label": "Galaxy assembly",
+    "aliases": []
+  },
+  {
+    "id": "topic:southern-ring-nebula",
+    "label": "Southern Ring Nebula",
+    "aliases": []
+  },
+  {
+    "id": "topic:wasp-96-b",
+    "label": "WASP-96 b",
+    "aliases": []
+  },
+  {
+    "id": "topic:remote-diagnostics",
+    "label": "remote diagnostics",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-management",
+    "label": "thermal management",
+    "aliases": []
+  },
+  {
+    "id": "topic:nobel-prize-in-chemistry-2025",
+    "label": "Nobel Prize in Chemistry 2025",
+    "aliases": []
+  },
+  {
+    "id": "topic:nobel-prize-in-medicine-2025",
+    "label": "Nobel Prize in Medicine 2025",
+    "aliases": []
+  },
+  {
+    "id": "topic:nobel-prize-in-physics-2025",
+    "label": "Nobel Prize in Physics 2025",
+    "aliases": []
+  },
+  {
+    "id": "topic:raichu",
+    "label": "Raichu",
+    "aliases": []
+  },
+  {
+    "id": "topic:pokmon",
+    "label": "Pokémon",
+    "aliases": []
+  },
+  {
+    "id": "topic:pikachu",
+    "label": "Pikachu",
+    "aliases": []
+  },
+  {
+    "id": "topic:pokmon-red-and-blue",
+    "label": "Pokémon Red and Blue",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-system",
+    "label": "Solar System",
+    "aliases": []
+  },
+  {
+    "id": "topic:stars-and-their-environments",
+    "label": "Stars and Their Environments",
+    "aliases": []
+  },
+  {
+    "id": "topic:hst-repair-contingency-plans",
+    "label": "HST Repair Contingency Plans",
+    "aliases": []
+  },
+  {
+    "id": "topic:phase-i-proposals",
+    "label": "Phase I Proposals",
+    "aliases": []
+  },
+  {
+    "id": "topic:phase-ii-proposals",
+    "label": "Phase II Proposals",
+    "aliases": []
+  },
+  {
+    "id": "topic:cte",
+    "label": "CTE (Charge Transfer Efficiency)",
+    "aliases": []
+  },
+  {
+    "id": "topic:guidestars",
+    "label": "Guidestars",
+    "aliases": []
+  },
+  {
+    "id": "topic:dragons-breath-and-edge-glow",
+    "label": "Dragon's Breath and Edge Glow",
+    "aliases": []
+  },
+  {
+    "id": "topic:anomalies-and-artifacts",
+    "label": "Anomalies and Artifacts",
+    "aliases": []
+  },
+  {
+    "id": "topic:photometric-calibration",
+    "label": "Photometric Calibration",
+    "aliases": []
+  },
+  {
+    "id": "topic:dither-strategies",
+    "label": "Dither Strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:proposing-strategies",
+    "label": "Proposing Strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:calibration-plans",
+    "label": "Calibration Plans",
+    "aliases": []
+  },
+  {
+    "id": "topic:aperture-corrections",
+    "label": "Aperture Corrections",
+    "aliases": []
+  },
+  {
+    "id": "topic:distortion",
+    "label": "Distortion",
+    "aliases": []
+  },
+  {
+    "id": "topic:dq-flag-definitions",
+    "label": "DQ Flag Definitions",
+    "aliases": []
+  },
+  {
+    "id": "topic:pixel-area-maps",
+    "label": "Pixel Area Maps",
+    "aliases": []
+  },
+  {
+    "id": "topic:system-throughputs",
+    "label": "System Throughputs",
+    "aliases": []
+  },
+  {
+    "id": "topic:zeropoints",
+    "label": "Zeropoints",
+    "aliases": []
+  },
+  {
+    "id": "topic:calibration-tools",
+    "label": "Calibration Tools",
+    "aliases": []
+  },
+  {
+    "id": "topic:analysis-tools",
+    "label": "Analysis Tools",
+    "aliases": []
+  },
+  {
+    "id": "topic:reference-files",
+    "label": "Reference Files",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-catalogs",
+    "label": "Astronomical Catalogs",
+    "aliases": []
+  },
+  {
+    "id": "topic:brown-dwarfs-and-substellar-objects",
+    "label": "Brown Dwarfs and Substellar Objects",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-nebula-spectra",
+    "label": "Planetary Nebula Spectra",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-system-objects-spectra",
+    "label": "Solar System Objects Spectra",
+    "aliases": []
+  },
+  {
+    "id": "topic:grism-data-analysis",
+    "label": "Grism Data Analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-31-calibration-plan",
+    "label": "Cycle 31 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-30-calibration-plan",
+    "label": "Cycle 30 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-29-calibration-plan",
+    "label": "Cycle 29 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-28-calibration-plan",
+    "label": "Cycle 28 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-27-calibration-plan",
+    "label": "Cycle 27 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-26-calibration-plan",
+    "label": "Cycle 26 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-25-calibration-plan",
+    "label": "Cycle 25 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-24-calibration-plan",
+    "label": "Cycle 24 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-23-calibration-plan",
+    "label": "Cycle 23 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-22-calibration-plan",
+    "label": "Cycle 22 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-21-calibration-plan",
+    "label": "Cycle 21 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-20-calibration-plan",
+    "label": "Cycle 20 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-19-calibration-plan",
+    "label": "Cycle 19 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-18-calibration-plan",
+    "label": "Cycle 18 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:cycle-17-calibration-plan",
+    "label": "Cycle 17 Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:grism-resources",
+    "label": "Grism Resources",
+    "aliases": []
+  },
+  {
+    "id": "topic:wfc3-g141-calibrations",
+    "label": "WFC3 G141 Calibrations",
+    "aliases": []
+  },
+  {
+    "id": "topic:wfc3-g280-calibrations",
+    "label": "WFC3 G280 Calibrations",
+    "aliases": []
+  },
+  {
+    "id": "topic:wfc3-g102-calibrations",
+    "label": "WFC3 G102 Calibrations",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-system-programs",
+    "label": "Solar System Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-programs",
+    "label": "Exoplanet Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:nearby-galaxies-programs",
+    "label": "Nearby Galaxies Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:distant-galaxies-and-cosmology-programs",
+    "label": "Distant Galaxies and Cosmology Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:instrumentation-calibration-programs",
+    "label": "Instrumentation Calibration Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:observation-calibration-programs",
+    "label": "Observation Calibration Programs",
+    "aliases": []
+  },
+  {
+    "id": "topic:synphot-throughput-tables",
+    "label": "Synphot Throughput Tables",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmo-2020-atmosphere-models",
+    "label": "ATMO 2020 Atmosphere Models",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-bruzual-charlot-atlas",
+    "label": "The Bruzual-Charlot Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:castelli-and-kurucz-atlas",
+    "label": "Castelli and Kurucz Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:composite-qso-spectra-for-nir",
+    "label": "Composite QSO Spectra for NIR",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-galactic-emission-line-object-atlas",
+    "label": "The Galactic Emission Line Object Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-extinction-curves",
+    "label": "Interstellar Extinction Curves",
+    "aliases": []
+  },
+  {
+    "id": "topic:phoenix-models",
+    "label": "Phoenix Models",
+    "aliases": []
+  },
+  {
+    "id": "topic:trds-brown19-spectra-of-agns",
+    "label": "TRDS Brown19 Spectra of AGNs",
+    "aliases": []
+  },
+  {
+    "id": "topic:design-reference-mission",
+    "label": "Design Reference Mission (DRM)",
+    "aliases": []
+  },
+  {
+    "id": "topic:science-operations-design-reference-mission",
+    "label": "Science Operations Design Reference Mission (SODRM)",
+    "aliases": []
+  },
+  {
+    "id": "topic:psf-simulation-tool",
+    "label": "PSF Simulation Tool",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-sciences",
+    "label": "planetary sciences",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-science",
+    "label": "exoplanet science",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-formation-and-evolution",
+    "label": "galaxy formation and evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:near-infrared-camera-1",
+    "label": "Near Infrared Camera (NIRCam)",
+    "aliases": []
+  },
+  {
+    "id": "topic:supermassive-black-holes",
+    "label": "supermassive black holes",
+    "aliases": []
+  },
+  {
+    "id": "topic:moon-forming-disc",
+    "label": "moon-forming disc",
+    "aliases": []
+  },
+  {
+    "id": "topic:jupiters-auroras",
+    "label": "Jupiter's auroras",
+    "aliases": []
+  },
+  {
+    "id": "topic:cloud-convection-on-titan",
+    "label": "cloud convection on Titan",
+    "aliases": []
+  },
+  {
+    "id": "topic:supermassive-black-hole",
+    "label": "supermassive black hole",
+    "aliases": []
+  },
+  {
+    "id": "topic:active-galactic-nucleus",
+    "label": "active galactic nucleus (AGN)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-emission",
+    "label": "hydrogen emission",
+    "aliases": []
+  },
+  {
+    "id": "topic:auroral-activity",
+    "label": "auroral activity",
+    "aliases": []
+  },
+  {
+    "id": "topic:protostellar-outflow",
+    "label": "protostellar outflow",
+    "aliases": []
+  },
+  {
+    "id": "topic:gas-giant-planets",
+    "label": "gas giant planets",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-light",
+    "label": "infrared light",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-dawn-1",
+    "label": "cosmic dawn",
+    "aliases": []
+  },
+  {
+    "id": "topic:hubble-tension",
+    "label": "Hubble Tension",
+    "aliases": []
+  },
+  {
+    "id": "topic:asteroid-bennu",
+    "label": "asteroid Bennu",
+    "aliases": []
+  },
+  {
+    "id": "topic:little-red-dots",
+    "label": "Little Red Dots",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-sulfide",
+    "label": "hydrogen sulfide",
+    "aliases": []
+  },
+  {
+    "id": "topic:ammonia",
+    "label": "ammonia",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-dioxide",
+    "label": "carbon dioxide",
+    "aliases": []
+  },
+  {
+    "id": "topic:methane",
+    "label": "methane",
+    "aliases": []
+  },
+  {
+    "id": "topic:sulfur-dioxide",
+    "label": "sulfur dioxide",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-monoxide",
+    "label": "carbon monoxide",
+    "aliases": []
+  },
+  {
+    "id": "topic:red-giant",
+    "label": "red giant",
+    "aliases": []
+  },
+  {
+    "id": "topic:stars",
+    "label": "Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:observatories",
+    "label": "Observatories",
+    "aliases": []
+  },
+  {
+    "id": "topic:uranus",
+    "label": "Uranus",
+    "aliases": []
+  },
+  {
+    "id": "topic:red-dwarf-stars",
+    "label": "Red Dwarf Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:science-policy",
+    "label": "Science Policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-policy",
+    "label": "space policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:budget-cuts",
+    "label": "budget cuts",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope-operations",
+    "label": "space telescope operations",
+    "aliases": []
+  },
+  {
+    "id": "topic:lgbtq",
+    "label": "LGBTQ",
+    "aliases": []
+  },
+  {
+    "id": "topic:national-academy-of-engineerings-grand-challenges",
+    "label": "National Academy of Engineering's Grand Challenges",
+    "aliases": []
+  },
+  {
+    "id": "topic:technological-determinism",
+    "label": "technological determinism",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-engineering",
+    "label": "ethical engineering",
+    "aliases": []
+  },
+  {
+    "id": "topic:engineering-double-standard",
+    "label": "engineering double standard",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-media",
+    "label": "social media",
+    "aliases": []
+  },
+  {
+    "id": "topic:virtual-reality",
+    "label": "virtual reality",
+    "aliases": []
+  },
+  {
+    "id": "topic:reverse-engineering-the-brain",
+    "label": "reverse-engineering the brain",
+    "aliases": []
+  },
+  {
+    "id": "topic:grand-challenges",
+    "label": "Grand Challenges",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-colors",
+    "label": "artificial colors",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-additives",
+    "label": "artificial additives",
+    "aliases": []
+  },
+  {
+    "id": "topic:cloud-service-providers",
+    "label": "cloud service providers",
+    "aliases": []
+  },
+  {
+    "id": "topic:ctx310",
+    "label": "CTX310",
+    "aliases": []
+  },
+  {
+    "id": "topic:hereditary-disease",
+    "label": "hereditary disease",
+    "aliases": []
+  },
+  {
+    "id": "topic:optimus",
+    "label": "Optimus (humanoid robot)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-1",
+    "label": "AI (Artificial Intelligence)",
+    "aliases": []
+  },
+  {
+    "id": "topic:humanoid-robots",
+    "label": "humanoid robots",
+    "aliases": []
+  },
+  {
+    "id": "topic:tilly-norwood",
+    "label": "Tilly Norwood",
+    "aliases": []
+  },
+  {
+    "id": "topic:asteroid",
+    "label": "Asteroid",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet",
+    "label": "Exoplanet",
+    "aliases": []
+  },
+  {
+    "id": "topic:artemis-mission",
+    "label": "Artemis Mission",
+    "aliases": []
+  },
+  {
+    "id": "topic:fast-radio-burst-frb-20220912a",
+    "label": "Fast Radio Burst FRB 20220912A",
+    "aliases": []
+  },
+  {
+    "id": "topic:dark-stars",
+    "label": "Dark Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:uap",
+    "label": "UAP (Unidentified Anomalous Phenomena)",
+    "aliases": []
+  },
+  {
+    "id": "topic:fast-star-explosion",
+    "label": "Fast Star Explosion (AT2021lwx)",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy",
+    "label": "Galaxy",
+    "aliases": []
+  },
+  {
+    "id": "topic:nebula",
+    "label": "Nebula",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon",
+    "label": "Carbon",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-gaze",
+    "label": "Infrared Gaze",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-atmosphere",
+    "label": "exoplanet atmosphere",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-clouds",
+    "label": "molecular clouds",
+    "aliases": []
+  },
+  {
+    "id": "topic:supernova-remnants",
+    "label": "supernova remnants",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-chemistry",
+    "label": "interstellar chemistry",
+    "aliases": []
+  },
+  {
+    "id": "topic:quasar",
+    "label": "Quasar",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-molecule",
+    "label": "Carbon molecule",
+    "aliases": []
+  },
+  {
+    "id": "topic:supernovae",
+    "label": "Supernovae",
+    "aliases": []
+  },
+  {
+    "id": "topic:galaxy-cluster",
+    "label": "Galaxy cluster",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-dust",
+    "label": "Cosmic dust",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-imaging",
+    "label": "Infrared imaging",
+    "aliases": []
+  },
+  {
+    "id": "topic:universe-expansion-rate",
+    "label": "Universe expansion rate",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmosphere-of-exoplanets",
+    "label": "Atmosphere of exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutron-star",
+    "label": "Neutron star",
+    "aliases": []
+  },
+  {
+    "id": "topic:2024-total-solar-eclipse",
+    "label": "2024 Total Solar Eclipse",
+    "aliases": []
+  },
+  {
+    "id": "topic:trappist-1-1",
+    "label": "TRAPPIST-1",
+    "aliases": []
+  },
+  {
+    "id": "topic:binoculars-vs-telescopes",
+    "label": "binoculars vs telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:computerized-telescopes",
+    "label": "computerized telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:debris-shields",
+    "label": "debris shields",
+    "aliases": []
+  },
+  {
+    "id": "topic:filters-for-telescopes",
+    "label": "filters for telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:focal-length",
+    "label": "focal length",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-brands",
+    "label": "telescope brands",
+    "aliases": []
+  },
+  {
+    "id": "topic:xenon",
+    "label": "xenon",
+    "aliases": []
+  },
+  {
+    "id": "topic:zoom-eyepieces",
+    "label": "zoom eyepieces",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-system-imagers",
+    "label": "solar system imagers",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-in-astrology",
+    "label": "AI in astrology",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrological-houses",
+    "label": "astrological houses",
+    "aliases": []
+  },
+  {
+    "id": "topic:astrological-aspects",
+    "label": "astrological aspects",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-mounts",
+    "label": "telescope mounts",
+    "aliases": []
+  },
+  {
+    "id": "topic:filters",
+    "label": "filters",
+    "aliases": []
+  },
+  {
+    "id": "topic:imaging-sensors",
+    "label": "imaging sensors",
+    "aliases": []
+  },
+  {
+    "id": "topic:500-rule",
+    "label": "500 rule",
+    "aliases": []
+  },
+  {
+    "id": "topic:shutter-speed",
+    "label": "shutter speed",
+    "aliases": []
+  },
+  {
+    "id": "topic:post-processing-astrophotography",
+    "label": "post processing astrophotography",
+    "aliases": []
+  },
+  {
+    "id": "topic:mental-health",
+    "label": "mental health",
+    "aliases": []
+  },
+  {
+    "id": "topic:exercise-bike",
+    "label": "exercise bike",
+    "aliases": []
+  },
+  {
+    "id": "topic:money-saving",
+    "label": "money saving",
+    "aliases": []
+  },
+  {
+    "id": "topic:robotics",
+    "label": "robotics",
+    "aliases": []
+  },
+  {
+    "id": "topic:ufo-sightings",
+    "label": "UFO sightings",
+    "aliases": []
+  },
+  {
+    "id": "topic:microscopes",
+    "label": "microscopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:spy-gear",
+    "label": "spy gear",
+    "aliases": []
+  },
+  {
+    "id": "topic:refractor-telescope",
+    "label": "Refractor Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:reflector-telescope",
+    "label": "Reflector Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:smart-telescope",
+    "label": "Smart Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:cassegrain-telescope",
+    "label": "Cassegrain Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-filter",
+    "label": "Solar Filter",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-chart-app",
+    "label": "Star Chart App",
+    "aliases": []
+  },
+  {
+    "id": "topic:eyepiece-set",
+    "label": "Eyepiece Set",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-mount",
+    "label": "Telescope Mount",
+    "aliases": []
+  },
+  {
+    "id": "topic:optical-telescope",
+    "label": "Optical Telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:concave-mirror",
+    "label": "Concave Mirror",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-background-radiation",
+    "label": "Cosmic Background Radiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:lunar-new-year-2024",
+    "label": "Lunar New Year 2024",
+    "aliases": []
+  },
+  {
+    "id": "topic:agni-v-missile",
+    "label": "Agni V Missile",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-kardashev-scale",
+    "label": "The Kardashev Scale",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-three-body-problem",
+    "label": "The Three-Body Problem",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-oort-cloud",
+    "label": "The Oort Cloud",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-large-magellanic-cloud",
+    "label": "The Large Magellanic Cloud",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiolytic-habitable-zone",
+    "label": "Radiolytic Habitable Zone",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-orion",
+    "label": "The Orion",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-theory-of-relativity",
+    "label": "The Theory of Relativity",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-life-cycle-of-stars",
+    "label": "The Life Cycle of Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-search-for-extraterrestrial-life",
+    "label": "The Search for Extraterrestrial Life",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-search-for-habitable-exoplanets",
+    "label": "The Search for Habitable Exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:asassn-15lh",
+    "label": "ASASSN-15lh",
+    "aliases": []
+  },
+  {
+    "id": "topic:snr-0509-67.5",
+    "label": "SNR 0509-67.5",
+    "aliases": []
+  },
+  {
+    "id": "topic:universe",
+    "label": "Universe (the cosmos)",
+    "aliases": []
+  },
+  {
+    "id": "topic:summer",
+    "label": "Summer (season)",
+    "aliases": []
+  },
+  {
+    "id": "topic:african-anomaly-waves",
+    "label": "African Anomaly Waves",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-prominences",
+    "label": "Solar Prominences",
+    "aliases": []
+  },
+  {
+    "id": "topic:extraterrestrial-life",
+    "label": "Extraterrestrial Life",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-hole-bomb",
+    "label": "Black Hole Bomb",
+    "aliases": []
+  },
+  {
+    "id": "topic:moonlight-cycles",
+    "label": "Moonlight Cycles",
+    "aliases": []
+  },
+  {
+    "id": "topic:china-moon-laser-targeting",
+    "label": "China Moon Laser Targeting",
+    "aliases": []
+  },
+  {
+    "id": "topic:wolf-rayet-stars",
+    "label": "Wolf-Rayet Stars",
+    "aliases": []
+  },
+  {
+    "id": "topic:at2021lwx",
+    "label": "AT2021lwx",
+    "aliases": []
+  },
+  {
+    "id": "topic:white-dwarfs",
+    "label": "White Dwarfs",
+    "aliases": []
+  },
+  {
+    "id": "topic:white-holes",
+    "label": "White Holes",
+    "aliases": []
+  },
+  {
+    "id": "topic:constellation",
+    "label": "constellation",
+    "aliases": []
+  },
+  {
+    "id": "topic:zodiac-signs",
+    "label": "zodiac signs",
+    "aliases": []
+  },
+  {
+    "id": "topic:carina-nebula",
+    "label": "Carina Nebula",
+    "aliases": []
+  },
+  {
+    "id": "topic:light-year",
+    "label": "light year",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-formation",
+    "label": "planetary formation",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-explosions",
+    "label": "cosmic explosions",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-explosion",
+    "label": "cosmic explosion",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellar-nurseries",
+    "label": "stellar nurseries",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydraulics",
+    "label": "hydraulics",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-fiber",
+    "label": "carbon fiber",
+    "aliases": []
+  },
+  {
+    "id": "topic:great-silence",
+    "label": "Great Silence",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-distance",
+    "label": "Cosmic Distance",
+    "aliases": []
+  },
+  {
+    "id": "topic:bernal-sphere",
+    "label": "Bernal Sphere",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-satellites",
+    "label": "Quantum Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:low-earth-orbit-1",
+    "label": "Low Earth Orbit (LEO)",
+    "aliases": []
+  },
+  {
+    "id": "topic:satellite",
+    "label": "satellite",
+    "aliases": []
+  },
+  {
+    "id": "topic:remote-sensing",
+    "label": "remote sensing",
+    "aliases": []
+  },
+  {
+    "id": "topic:extrasolar-planets",
+    "label": "extrasolar planets",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-debris",
+    "label": "space debris",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiofrequency",
+    "label": "radiofrequency",
+    "aliases": []
+  },
+  {
+    "id": "topic:synthetic-aperture-radar",
+    "label": "synthetic aperture radar (SAR)",
+    "aliases": []
+  },
+  {
+    "id": "topic:collier-trophy",
+    "label": "Collier Trophy",
+    "aliases": []
+  },
+  {
+    "id": "topic:extradimensional-research",
+    "label": "Extradimensional Research",
+    "aliases": []
+  },
+  {
+    "id": "topic:black-hole-mergers",
+    "label": "Black Hole Mergers",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-objects",
+    "label": "Interstellar Objects",
+    "aliases": []
+  },
+  {
+    "id": "topic:fast-radio-bursts-2",
+    "label": "Fast Radio Bursts (FRB 20220912A)",
+    "aliases": []
+  },
+  {
+    "id": "topic:unanswered-questions-of-the-universe",
+    "label": "Unanswered Questions of the Universe",
+    "aliases": []
+  },
+  {
+    "id": "topic:supernovas",
+    "label": "Supernovas",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-intelligence-1",
+    "label": "Artificial Intelligence (AI) in Astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-storm-prediction",
+    "label": "Solar Storm Prediction",
+    "aliases": []
+  },
+  {
+    "id": "topic:mars-exploration",
+    "label": "Mars Exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:asteroid-sample-return-missions",
+    "label": "Asteroid Sample Return Missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-missions",
+    "label": "Space Missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:einstein-rings",
+    "label": "Einstein Rings",
+    "aliases": []
+  },
+  {
+    "id": "topic:mystery-signals-from-space",
+    "label": "Mystery Signals from Space",
+    "aliases": []
+  },
+  {
+    "id": "topic:ufo-authenticity",
+    "label": "UFO Authenticity",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-phenomena",
+    "label": "cosmic phenomena",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomical-observations",
+    "label": "astronomical observations",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellar-evolution",
+    "label": "stellar evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:chemical-composition-of-exoplanets",
+    "label": "chemical composition of exoplanets",
+    "aliases": []
+  },
+  {
+    "id": "topic:organic-molecules-in-space",
+    "label": "organic molecules in space",
+    "aliases": []
+  },
+  {
+    "id": "topic:intergalactic-structures",
+    "label": "intergalactic structures",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-astrophysics",
+    "label": "molecular astrophysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:brown-dwarfs",
+    "label": "brown dwarfs",
+    "aliases": []
+  },
+  {
+    "id": "topic:interstellar-comets",
+    "label": "interstellar comets",
+    "aliases": []
+  },
+  {
+    "id": "topic:pre-stellar-ice-chemistry",
+    "label": "pre-stellar ice chemistry",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellar-birth",
+    "label": "stellar birth",
+    "aliases": []
+  },
+  {
+    "id": "topic:galactic-collisions",
+    "label": "galactic collisions",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-absorption",
+    "label": "hydrogen absorption",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-molecules",
+    "label": "carbon molecules",
+    "aliases": []
+  },
+  {
+    "id": "topic:methane-detection",
+    "label": "methane detection",
+    "aliases": []
+  },
+  {
+    "id": "topic:atmospheric-dynamics",
+    "label": "atmospheric dynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:galactic-structure",
+    "label": "galactic structure",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-astrophysics",
+    "label": "planetary astrophysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:gas-emissions",
+    "label": "gas emissions",
+    "aliases": []
+  },
+  {
+    "id": "topic:molecular-cloud-dynamics",
+    "label": "molecular cloud dynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:protostellar-evolution",
+    "label": "protostellar evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-speed-jet-streams",
+    "label": "high-speed jet streams",
+    "aliases": []
+  },
+  {
+    "id": "topic:ariane-5",
+    "label": "Ariane 5",
+    "aliases": []
+  },
+  {
+    "id": "topic:artemis",
+    "label": "Artemis",
+    "aliases": []
+  },
+  {
+    "id": "topic:kardashev-type-ii-civilization",
+    "label": "Kardashev Type II civilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:kardashev-type-iii-civilization",
+    "label": "Kardashev Type III civilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:dyson-sphere",
+    "label": "Dyson sphere",
+    "aliases": []
+  },
+  {
+    "id": "topic:apollo-8-mission",
+    "label": "Apollo 8 mission",
+    "aliases": []
+  },
+  {
+    "id": "topic:apollo-17",
+    "label": "Apollo 17",
+    "aliases": []
+  },
+  {
+    "id": "topic:earthrise",
+    "label": "Earthrise",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-blue-marble",
+    "label": "The Blue Marble",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmos",
+    "label": "cosmos",
+    "aliases": []
+  },
+  {
+    "id": "topic:extraterrestrial-intelligence",
+    "label": "extraterrestrial intelligence",
+    "aliases": []
+  },
+  {
+    "id": "topic:pale-blue-dot",
+    "label": "Pale Blue Dot",
+    "aliases": []
+  },
+  {
+    "id": "topic:spacefaring-civilization",
+    "label": "spacefaring civilization",
+    "aliases": []
+  },
+  {
+    "id": "topic:drones",
+    "label": "drones",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronaut-research",
+    "label": "astronaut research",
+    "aliases": []
+  },
+  {
+    "id": "topic:stem-education",
+    "label": "STEM education",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-rays",
+    "label": "cosmic rays",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryogenics",
+    "label": "cryogenics",
+    "aliases": []
+  },
+  {
+    "id": "topic:supercomputers",
+    "label": "supercomputers",
+    "aliases": []
+  },
+  {
+    "id": "topic:temperature-scales",
+    "label": "temperature scales",
+    "aliases": []
+  },
+  {
+    "id": "topic:mathematical-models",
+    "label": "mathematical models",
+    "aliases": []
+  },
+  {
+    "id": "topic:scale-model",
+    "label": "Scale model",
+    "aliases": []
+  },
+  {
+    "id": "topic:angular-measure",
+    "label": "angular measure",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-notation",
+    "label": "scientific notation",
+    "aliases": []
+  },
+  {
+    "id": "topic:k-6-education",
+    "label": "K-6 education",
+    "aliases": []
+  },
+  {
+    "id": "topic:grades-3-9-education",
+    "label": "grades 3-9 education",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope-deployment",
+    "label": "space telescope deployment",
+    "aliases": []
+  },
+  {
+    "id": "topic:risk-management-in-aerospace",
+    "label": "risk management in aerospace",
+    "aliases": []
+  },
+  {
+    "id": "topic:automated-systems-in-space-missions",
+    "label": "automated systems in space missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:interagency-collaboration",
+    "label": "interagency collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:observational-astrophysics",
+    "label": "observational astrophysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-telescope",
+    "label": "James Webb Telescope (JWST)",
+    "aliases": []
+  },
+  {
+    "id": "topic:van-allen-radiation-belts",
+    "label": "Van Allen radiation belts",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-radiation",
+    "label": "cosmic radiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:solar-shield",
+    "label": "solar shield",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiation-hardened-components",
+    "label": "radiation-hardened components",
+    "aliases": []
+  },
+  {
+    "id": "topic:poirot",
+    "label": "POIROT",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiative-cooling",
+    "label": "radiative cooling",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope-design",
+    "label": "Space telescope design",
+    "aliases": []
+  },
+  {
+    "id": "topic:jwst",
+    "label": "JWST (James Webb Space Telescope)",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-observatory-design",
+    "label": "space observatory design",
+    "aliases": []
+  },
+  {
+    "id": "topic:large-aperture-telescopes",
+    "label": "large-aperture telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:bahcall-committee",
+    "label": "Bahcall Committee",
+    "aliases": []
+  },
+  {
+    "id": "topic:decadal-survey",
+    "label": "Decadal Survey",
+    "aliases": []
+  },
+  {
+    "id": "topic:ir-space-missions",
+    "label": "IR space missions",
+    "aliases": []
+  },
+  {
+    "id": "topic:jwst-1",
+    "label": "JWST",
+    "aliases": []
+  },
+  {
+    "id": "topic:edison",
+    "label": "Edison",
+    "aliases": []
+  },
+  {
+    "id": "topic:sirtf",
+    "label": "SIRTF",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-space-observatories",
+    "label": "infrared space observatories",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermal-model",
+    "label": "thermal model",
+    "aliases": []
+  },
+  {
+    "id": "topic:open-optics-designs",
+    "label": "open optics designs",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-layer-radiation-shield",
+    "label": "multi-layer radiation shield",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryogenic-cooling",
+    "label": "cryogenic cooling",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiativemechanical-cooling",
+    "label": "radiative/mechanical cooling",
+    "aliases": []
+  },
+  {
+    "id": "topic:bely-et-al",
+    "label": "Bely et al.",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-observatories",
+    "label": "space observatories",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-policy-in-science",
+    "label": "public policy in science",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-community-collaboration",
+    "label": "scientific community collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-space-observatory",
+    "label": "infrared space observatory",
+    "aliases": []
+  },
+  {
+    "id": "topic:next-generation-space-telescope-1",
+    "label": "next-generation space telescope",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiatively-cooled-telescopes",
+    "label": "radiatively cooled telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-space-astronomy",
+    "label": "infrared space astronomy",
+    "aliases": []
+  },
+  {
+    "id": "topic:universe-at-high-redshifts",
+    "label": "Universe at high redshifts",
+    "aliases": []
+  },
+  {
+    "id": "topic:free-knowledge",
+    "label": "free knowledge",
+    "aliases": []
+  },
+  {
+    "id": "topic:deep-sky",
+    "label": "Deep Sky (2023 documentary)",
+    "aliases": []
+  },
+  {
+    "id": "topic:unknown-cosmic-time-machine",
+    "label": "Unknown: Cosmic Time Machine (2023 documentary)",
+    "aliases": []
+  },
+  {
+    "id": "topic:l2-halo-orbit",
+    "label": "L2 halo orbit",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-analysis-toolbox",
+    "label": "Data Analysis Toolbox",
+    "aliases": []
+  },
+  {
+    "id": "topic:cte-information",
+    "label": "CTE Information",
+    "aliases": []
+  },
+  {
+    "id": "topic:pixel-based-cte-corrections",
+    "label": "Pixel-Based CTE Corrections",
+    "aliases": []
+  },
+  {
+    "id": "topic:exception-reports",
+    "label": "Exception Reports",
+    "aliases": []
+  },
+  {
+    "id": "topic:photometric-transformations",
+    "label": "Photometric Transformations",
+    "aliases": []
+  },
+  {
+    "id": "topic:acs-etcdither-strategies",
+    "label": "ACS ETCDither Strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:acs-instrument-handbook",
+    "label": "ACS Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:instrument-science-reports",
+    "label": "Instrument Science Reports (ISRs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:stsci-analysis-newsletter",
+    "label": "STScI Analysis Newsletter (STAN)",
+    "aliases": []
+  },
+  {
+    "id": "topic:acs-imaging-etc",
+    "label": "ACS Imaging ETC",
+    "aliases": []
+  },
+  {
+    "id": "topic:acs-spectroscopic-etc",
+    "label": "ACS Spectroscopic ETC",
+    "aliases": []
+  },
+  {
+    "id": "topic:cosmic-origins-spectrograph",
+    "label": "Cosmic Origins Spectrograph (COS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cos-instrument-handbook",
+    "label": "COS Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:cos-data-handbook",
+    "label": "COS Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:exception-report-instructions",
+    "label": "Exception Report Instructions",
+    "aliases": []
+  },
+  {
+    "id": "topic:fine-guidance-sensors",
+    "label": "Fine Guidance Sensors (FGS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-telescope-imaging-spectrograph",
+    "label": "Space Telescope Imaging Spectrograph (STIS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:stis-instrument-handbook",
+    "label": "STIS Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:stis-data-handbook",
+    "label": "STIS Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:wide-field-camera-3",
+    "label": "Wide Field Camera 3 (WFC3)",
+    "aliases": []
+  },
+  {
+    "id": "topic:wfc3-instrument-handbook",
+    "label": "WFC3 Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:wfc3-data-handbook",
+    "label": "WFC3 Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "topic:calcos",
+    "label": "CalCOS",
+    "aliases": []
+  },
+  {
+    "id": "topic:grism-spectroscopy",
+    "label": "Grism Spectroscopy",
+    "aliases": []
+  },
+  {
+    "id": "topic:exposure-time-calculators",
+    "label": "Exposure Time Calculators",
+    "aliases": []
+  },
+  {
+    "id": "topic:instrument-design",
+    "label": "Instrument Design",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-analysis",
+    "label": "Data Analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:software-tools",
+    "label": "Software Tools",
+    "aliases": []
+  },
+  {
+    "id": "topic:calibration-plan",
+    "label": "Calibration Plan",
+    "aliases": []
+  },
+  {
+    "id": "topic:hst-proposing",
+    "label": "HST Proposing",
+    "aliases": []
+  },
+  {
+    "id": "topic:cos2025-policies",
+    "label": "COS2025 Policies",
+    "aliases": []
+  },
+  {
+    "id": "topic:observing-strategies",
+    "label": "Observing Strategies",
+    "aliases": []
+  },
+  {
+    "id": "topic:wavelength-tool",
+    "label": "Wavelength Tool",
+    "aliases": []
+  },
+  {
+    "id": "topic:pipeline",
+    "label": "Pipeline",
+    "aliases": []
+  },
+  {
+    "id": "topic:pixel-based-cti",
+    "label": "Pixel Based CTI",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-contrast-coronagraphy",
+    "label": "High Contrast Coronagraphy",
+    "aliases": []
+  },
+  {
+    "id": "topic:bar5",
+    "label": "BAR5",
+    "aliases": []
+  },
+  {
+    "id": "topic:psf-search",
+    "label": "PSF Search",
+    "aliases": []
+  },
+  {
+    "id": "topic:distortion-calibration",
+    "label": "Distortion Calibration",
+    "aliases": []
+  },
+  {
+    "id": "topic:bruzual-charlot-atlas",
+    "label": "Bruzual-Charlot Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:galactic-emission-line-object-atlas",
+    "label": "Galactic Emission Line Object Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:gunn-stryker-atlas",
+    "label": "Gunn-Stryker Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:jacoby-hunter-christian-atlas",
+    "label": "Jacoby-Hunter-Christian Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:kinney-calzetti-spectral-atlas",
+    "label": "Kinney-Calzetti Spectral Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:simple-stellar-population-atlas",
+    "label": "Simple Stellar Population Atlas",
+    "aliases": []
+  },
+  {
+    "id": "topic:james-webb-space-telescope-1",
+    "label": "James Webb Space Telescope (JWST)",
+    "aliases": []
+  },
+  {
+    "id": "topic:calibration-reference-data-system",
+    "label": "Calibration Reference Data System (CRDS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:nicmos-instrument-science-reports",
+    "label": "NICMOS Instrument Science Reports (ISRs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:wfpc2-instrument-science-reports",
+    "label": "WFPC2 Instrument Science Reports (ISRs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:webb-first-image-observations",
+    "label": "Webb First Image Observations",
+    "aliases": []
+  },
+  {
+    "id": "topic:laboratory-astrophysics-resources",
+    "label": "Laboratory Astrophysics Resources",
+    "aliases": []
+  },
+  {
+    "id": "topic:guaranteed-time-observations",
+    "label": "Guaranteed Time Observations",
+    "aliases": []
+  },
+  {
+    "id": "topic:giacconi-fellowship",
+    "label": "Giacconi Fellowship",
+    "aliases": []
+  },
+  {
+    "id": "topic:lasker-fellowship",
+    "label": "Lasker Fellowship",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-science-fellowship",
+    "label": "Exoplanet Science Fellowship",
+    "aliases": []
+  },
+  {
+    "id": "topic:stsci-postdoctoral-fellowship",
+    "label": "STScI Postdoctoral Fellowship",
+    "aliases": []
+  },
+  {
+    "id": "topic:exoplanet-and-planetary-science",
+    "label": "Exoplanet and Planetary Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:planet-discovery-and-demographics",
+    "label": "Planet Discovery and Demographics",
+    "aliases": []
+  },
+  {
+    "id": "topic:planet-characterization",
+    "label": "Planet Characterization",
+    "aliases": []
+  },
+  {
+    "id": "topic:planetary-system-formation-and-evolution",
+    "label": "Planetary System Formation and Evolution",
+    "aliases": []
+  },
+  {
+    "id": "topic:archives-and-high-level-data-products",
+    "label": "Archives and High Level Data Products",
+    "aliases": []
+  },
+  {
+    "id": "topic:hst-exoplanet-and-planetary-science",
+    "label": "HST Exoplanet and Planetary Science",
+    "aliases": []
+  },
+  {
+    "id": "topic:hubble-publication-statistics",
+    "label": "Hubble Publication Statistics",
+    "aliases": []
+  },
+  {
+    "id": "topic:webb-publication-statistics",
+    "label": "Webb Publication Statistics",
+    "aliases": []
+  },
+  {
+    "id": "topic:davidsen-fellowship",
+    "label": "Davidsen Fellowship",
+    "aliases": []
+  },
+  {
+    "id": "topic:fellowships",
+    "label": "Fellowships",
+    "aliases": []
+  },
+  {
+    "id": "topic:next-generation-space-telescope-2",
+    "label": "Next Generation Space Telescope (NGST)",
+    "aliases": []
+  },
+  {
+    "id": "topic:dust-particles",
+    "label": "dust particles",
+    "aliases": []
+  },
+  {
+    "id": "topic:interplanetary-travel",
+    "label": "interplanetary travel",
+    "aliases": []
+  },
+  {
+    "id": "topic:telescope-technology",
+    "label": "telescope technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:webbs-science-observations",
+    "label": "Webb's science observations",
+    "aliases": []
+  },
+  {
+    "id": "topic:spiral-galaxy",
+    "label": "spiral galaxy",
+    "aliases": []
+  },
+  {
+    "id": "topic:disk-galaxies",
+    "label": "disk galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-computers",
+    "label": "Quantum Computers",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-warming",
+    "label": "Global Warming",
+    "aliases": []
+  },
+  {
+    "id": "topic:educational-psychology",
+    "label": "Educational Psychology",
+    "aliases": []
+  },
+  {
+    "id": "topic:observatory-operations",
+    "label": "observatory operations",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-and-astrophysics",
+    "label": "astronomy and astrophysics",
+    "aliases": []
+  },
+  {
+    "id": "topic:federal-budget",
+    "label": "federal budget",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-trek",
+    "label": "Star Trek",
+    "aliases": []
+  },
+  {
+    "id": "topic:star-wars",
+    "label": "Star Wars",
+    "aliases": []
+  },
+  {
+    "id": "topic:dark-universe",
+    "label": "Dark Universe",
+    "aliases": []
+  },
+  {
+    "id": "topic:dwarf-planets",
+    "label": "Dwarf Planets",
+    "aliases": []
+  },
+  {
+    "id": "topic:eclipses",
+    "label": "Eclipses",
+    "aliases": []
+  },
+  {
+    "id": "topic:live-4k-video-from-space",
+    "label": "Live 4K video from space",
+    "aliases": []
+  },
+  {
+    "id": "topic:weather",
+    "label": "Weather",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-movies-shows",
+    "label": "Space Movies \u0026 Shows",
+    "aliases": []
+  },
+  {
+    "id": "topic:space-games",
+    "label": "Space Games",
+    "aliases": []
+  },
+  {
+    "id": "topic:redshift-13-galaxies",
+    "label": "Redshift 13 galaxies",
+    "aliases": []
+  },
+  {
+    "id": "topic:m-dwarf-planets",
+    "label": "M-dwarf planets",
+    "aliases": []
+  },
+  {
+    "id": "topic:inflation",
+    "label": "inflation",
+    "aliases": []
+  },
+  {
+    "id": "topic:science-funding",
+    "label": "science funding",
+    "aliases": []
+  },
+  {
+    "id": "topic:grant-funding",
+    "label": "grant funding",
+    "aliases": []
+  },
+  {
+    "id": "topic:astronomy-data",
+    "label": "astronomy data",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-outreach",
+    "label": "public outreach",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-research",
+    "label": "scientific research",
+    "aliases": []
+  },
+  {
+    "id": "topic:argonaut-moon-lander",
+    "label": "Argonaut moon lander",
+    "aliases": []
+  },
+  {
+    "id": "topic:starship-megarocket",
+    "label": "Starship megarocket",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrared-observations",
+    "label": "infrared observations",
+    "aliases": []
+  },
+  {
+    "id": "topic:budget-cuts-for-space-telescopes",
+    "label": "budget cuts for space telescopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-collaboration-in-space-exploration",
+    "label": "international collaboration in space exploration",
+    "aliases": []
+  },
+  {
+    "id": "topic:early-universe-structures",
+    "label": "early universe structures",
+    "aliases": []
+  },
+  {
+    "id": "topic:human-psychology-impact",
+    "label": "human psychology impact",
+    "aliases": []
   }
 ]
