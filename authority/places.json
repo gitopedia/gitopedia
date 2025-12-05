@@ -1078,5 +1078,360 @@
     "id": "place:international-space-station-1",
     "label": "International Space Station (ISS)",
     "aliases": []
+  },
+  {
+    "id": "place:university-of-southern-california",
+    "label": "University of Southern California",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-new-mexico",
+    "label": "University of New Mexico",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-arizona",
+    "label": "University of Arizona",
+    "aliases": []
+  },
+  {
+    "id": "place:national-university-of-singapore",
+    "label": "National University of Singapore",
+    "aliases": []
+  },
+  {
+    "id": "place:louisiana-state-university",
+    "label": "Louisiana State University",
+    "aliases": []
+  },
+  {
+    "id": "place:tu-delft",
+    "label": "TU Delft",
+    "aliases": []
+  },
+  {
+    "id": "place:imperial-college-london",
+    "label": "Imperial College London",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-leeds",
+    "label": "University of Leeds",
+    "aliases": []
+  },
+  {
+    "id": "place:mumbai",
+    "label": "Mumbai",
+    "aliases": []
+  },
+  {
+    "id": "place:new-york-1",
+    "label": "New York (USA)",
+    "aliases": []
+  },
+  {
+    "id": "place:larkspur",
+    "label": "Larkspur (CA, USA)",
+    "aliases": []
+  },
+  {
+    "id": "place:endicott-house",
+    "label": "Endicott House",
+    "aliases": []
+  },
+  {
+    "id": "place:massachusetts-institute-of-technology",
+    "label": "Massachusetts Institute of Technology (MIT)",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-oxford",
+    "label": "University of Oxford",
+    "aliases": []
+  },
+  {
+    "id": "place:garching",
+    "label": "Garching",
+    "aliases": []
+  },
+  {
+    "id": "place:boulder",
+    "label": "Boulder",
+    "aliases": []
+  },
+  {
+    "id": "place:quebec",
+    "label": "Quebec",
+    "aliases": []
+  },
+  {
+    "id": "place:canada",
+    "label": "Canada",
+    "aliases": []
+  },
+  {
+    "id": "place:new-jersey",
+    "label": "New Jersey",
+    "aliases": []
+  },
+  {
+    "id": "place:gaithersburg",
+    "label": "Gaithersburg",
+    "aliases": []
+  },
+  {
+    "id": "place:maryland",
+    "label": "Maryland",
+    "aliases": []
+  },
+  {
+    "id": "place:ciudad-real",
+    "label": "Ciudad Real",
+    "aliases": []
+  },
+  {
+    "id": "place:tucson",
+    "label": "Tucson",
+    "aliases": []
+  },
+  {
+    "id": "place:colorado",
+    "label": "Colorado",
+    "aliases": []
+  },
+  {
+    "id": "place:new-mexico",
+    "label": "New Mexico",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-waterloo",
+    "label": "University of Waterloo",
+    "aliases": []
+  },
+  {
+    "id": "place:waterloo",
+    "label": "Waterloo",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-innsbruck",
+    "label": "University of Innsbruck",
+    "aliases": []
+  },
+  {
+    "id": "place:innsbruck",
+    "label": "Innsbruck",
+    "aliases": []
+  },
+  {
+    "id": "place:vienna",
+    "label": "Vienna",
+    "aliases": []
+  },
+  {
+    "id": "place:oxford-university",
+    "label": "Oxford University",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-york",
+    "label": "University of York",
+    "aliases": []
+  },
+  {
+    "id": "place:university-of-illinois-urbana-champaign",
+    "label": "University of Illinois Urbana-Champaign",
+    "aliases": []
+  },
+  {
+    "id": "place:harvard-university",
+    "label": "Harvard University",
+    "aliases": []
+  },
+  {
+    "id": "place:porto",
+    "label": "Porto",
+    "aliases": []
+  },
+  {
+    "id": "place:denmark",
+    "label": "Denmark",
+    "aliases": []
+  },
+  {
+    "id": "place:espoo",
+    "label": "Espoo",
+    "aliases": []
+  },
+  {
+    "id": "place:bristol",
+    "label": "Bristol",
+    "aliases": []
+  },
+  {
+    "id": "place:innsbruck-1",
+    "label": "Innsbruck (Austria)",
+    "aliases": []
+  },
+  {
+    "id": "place:jlich",
+    "label": "Jülich (Germany)",
+    "aliases": []
+  },
+  {
+    "id": "place:nasas-ames-research-center",
+    "label": "NASA’s Ames Research Center",
+    "aliases": []
+  },
+  {
+    "id": "place:london-1",
+    "label": "London (United Kingdom)",
+    "aliases": []
+  },
+  {
+    "id": "place:solvay-conference",
+    "label": "Solvay Conference (1927)",
+    "aliases": []
+  },
+  {
+    "id": "place:united-states-1",
+    "label": "United States (U.S.)",
+    "aliases": []
+  },
+  {
+    "id": "place:united-kingdom-1",
+    "label": "United Kingdom (U.K.)",
+    "aliases": []
+  },
+  {
+    "id": "place:gcc",
+    "label": "GCC",
+    "aliases": []
+  },
+  {
+    "id": "place:433-eros",
+    "label": "433 Eros",
+    "aliases": []
+  },
+  {
+    "id": "place:germany-1",
+    "label": "Germany (Technical University of Munich)",
+    "aliases": []
+  },
+  {
+    "id": "place:haiti",
+    "label": "Haiti",
+    "aliases": []
+  },
+  {
+    "id": "place:usa",
+    "label": "USA",
+    "aliases": []
+  },
+  {
+    "id": "place:d1d-fab",
+    "label": "D1D Fab",
+    "aliases": []
+  },
+  {
+    "id": "place:austria",
+    "label": "Austria",
+    "aliases": []
+  },
+  {
+    "id": "place:bristol-1",
+    "label": "Bristol (England)",
+    "aliases": []
+  },
+  {
+    "id": "place:wyoming",
+    "label": "Wyoming (U.S. state)",
+    "aliases": []
+  },
+  {
+    "id": "place:shenzhen",
+    "label": "Shenzhen (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:nanjing",
+    "label": "Nanjing (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:ningbo",
+    "label": "Ningbo (China)",
+    "aliases": []
+  },
+  {
+    "id": "place:armonk",
+    "label": "Armonk (New York)",
+    "aliases": []
+  },
+  {
+    "id": "place:new-york-2",
+    "label": "New York (New York)",
+    "aliases": []
+  },
+  {
+    "id": "place:redmond",
+    "label": "Redmond (Washington)",
+    "aliases": []
+  },
+  {
+    "id": "place:berkeley",
+    "label": "Berkeley (California)",
+    "aliases": []
+  },
+  {
+    "id": "place:london-2",
+    "label": "London (England)",
+    "aliases": []
+  },
+  {
+    "id": "place:toronto",
+    "label": "Toronto (Ontario)",
+    "aliases": []
+  },
+  {
+    "id": "place:stuttgart-germany",
+    "label": "Stuttgart, Germany",
+    "aliases": []
+  },
+  {
+    "id": "place:wolfsburg-germany",
+    "label": "Wolfsburg, Germany",
+    "aliases": []
+  },
+  {
+    "id": "place:college-park",
+    "label": "College Park (Maryland)",
+    "aliases": []
+  },
+  {
+    "id": "place:beijing",
+    "label": "Beijing",
+    "aliases": []
+  },
+  {
+    "id": "place:barcelona",
+    "label": "Barcelona",
+    "aliases": []
+  },
+  {
+    "id": "place:lisbon",
+    "label": "Lisbon",
+    "aliases": []
+  },
+  {
+    "id": "place:boulder-colorado",
+    "label": "Boulder, Colorado",
+    "aliases": []
+  },
+  {
+    "id": "place:broomfield-colorado",
+    "label": "Broomfield, Colorado",
+    "aliases": []
   }
 ]
