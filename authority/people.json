@@ -2783,5 +2783,3330 @@
     "id": "person:xuanzang",
     "label": "Xuanzang",
     "aliases": []
+  },
+  {
+    "id": "person:peter-shor",
+    "label": "Peter Shor",
+    "aliases": []
+  },
+  {
+    "id": "person:ankit-singh",
+    "label": "Ankit Singh",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-takahiro-hashimoto",
+    "label": "Dr. Takahiro Hashimoto",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-anders-hahlin",
+    "label": "Dr. Anders Hahlin",
+    "aliases": []
+  },
+  {
+    "id": "person:joseph-f.-traub",
+    "label": "Joseph F. Traub",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-a.-meyers",
+    "label": "Robert A. Meyers (Editor-in-Chief)",
+    "aliases": []
+  },
+  {
+    "id": "person:soonwon-choi",
+    "label": "Soonwon Choi (MIT CTP-LI)",
+    "aliases": []
+  },
+  {
+    "id": "person:aram-harrow",
+    "label": "Aram Harrow (MIT CTP-LI)",
+    "aliases": []
+  },
+  {
+    "id": "person:isaac-chuang",
+    "label": "Isaac Chuang (EECS/physics, MIT)",
+    "aliases": []
+  },
+  {
+    "id": "person:seth-lloyd",
+    "label": "Seth Lloyd (Mechanical Engineering, MIT)",
+    "aliases": []
+  },
+  {
+    "id": "person:anand-natarajan",
+    "label": "Anand Natarajan (EECS, MIT)",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-shor-1",
+    "label": "Peter Shor (Math, MIT)",
+    "aliases": []
+  },
+  {
+    "id": "person:eddie-farhi",
+    "label": "Eddie Farhi (emeritus)",
+    "aliases": []
+  },
+  {
+    "id": "person:jeffrey-goldstone",
+    "label": "Jeffrey Goldstone (emeritus)",
+    "aliases": []
+  },
+  {
+    "id": "person:jeff-shapiro",
+    "label": "Jeff Shapiro (EECS, MIT, emeritus)",
+    "aliases": []
+  },
+  {
+    "id": "person:masahito-hayashi",
+    "label": "Masahito Hayashi",
+    "aliases": []
+  },
+  {
+    "id": "person:satoshi-ishizaka",
+    "label": "Satoshi Ishizaka",
+    "aliases": []
+  },
+  {
+    "id": "person:akinori-kawachi",
+    "label": "Akinori Kawachi",
+    "aliases": []
+  },
+  {
+    "id": "person:gen-kimura",
+    "label": "Gen Kimura",
+    "aliases": []
+  },
+  {
+    "id": "person:tomohiro-ogawa",
+    "label": "Tomohiro Ogawa",
+    "aliases": []
+  },
+  {
+    "id": "person:hiroshi-imai",
+    "label": "Hiroshi Imai",
+    "aliases": []
+  },
+  {
+    "id": "person:holevo",
+    "label": "Holevo",
+    "aliases": []
+  },
+  {
+    "id": "person:helstrom",
+    "label": "Helstrom",
+    "aliases": []
+  },
+  {
+    "id": "person:karl-kraus",
+    "label": "Karl Kraus",
+    "aliases": []
+  },
+  {
+    "id": "person:gerhart-lders",
+    "label": "Gerhart Lüders",
+    "aliases": []
+  },
+  {
+    "id": "person:von-neumann",
+    "label": "von Neumann",
+    "aliases": []
+  },
+  {
+    "id": "person:lev-landau",
+    "label": "Lev Landau",
+    "aliases": []
+  },
+  {
+    "id": "person:leo-szilard",
+    "label": "Leo Szilard",
+    "aliases": []
+  },
+  {
+    "id": "person:max-delbrck",
+    "label": "Max Delbrück",
+    "aliases": []
+  },
+  {
+    "id": "person:gert-molire",
+    "label": "Gert Molière",
+    "aliases": []
+  },
+  {
+    "id": "person:hisaharu-umegaki",
+    "label": "Hisaharu Umegaki",
+    "aliases": []
+  },
+  {
+    "id": "person:huzihiro-araki",
+    "label": "Huzihiro Araki",
+    "aliases": []
+  },
+  {
+    "id": "person:elliott-h.-lieb",
+    "label": "Elliott H. Lieb",
+    "aliases": []
+  },
+  {
+    "id": "person:oscar-lanford",
+    "label": "Oscar Lanford",
+    "aliases": []
+  },
+  {
+    "id": "person:derek-robinson",
+    "label": "Derek Robinson",
+    "aliases": []
+  },
+  {
+    "id": "person:mary-beth-ruskai",
+    "label": "Mary Beth Ruskai",
+    "aliases": []
+  },
+  {
+    "id": "person:bengtsson-ingemar",
+    "label": "Bengtsson, Ingemar",
+    "aliases": []
+  },
+  {
+    "id": "person:yczkowski-karol",
+    "label": "Życzkowski, Karol",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-s.-holevo",
+    "label": "Alexander S. Holevo",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-a.-nielsen",
+    "label": "Michael A. Nielsen",
+    "aliases": []
+  },
+  {
+    "id": "person:isaac-l.-chuang",
+    "label": "Isaac L. Chuang",
+    "aliases": []
+  },
+  {
+    "id": "person:asher-peres",
+    "label": "Asher Peres",
+    "aliases": []
+  },
+  {
+    "id": "person:jochen-rau",
+    "label": "Jochen Rau",
+    "aliases": []
+  },
+  {
+    "id": "person:eleanor-rieffel",
+    "label": "Eleanor Rieffel",
+    "aliases": []
+  },
+  {
+    "id": "person:wolfgang-polak",
+    "label": "Wolfgang Polak",
+    "aliases": []
+  },
+  {
+    "id": "person:mark-m.-wilde",
+    "label": "Mark M. Wilde",
+    "aliases": []
+  },
+  {
+    "id": "person:barton-zwiebach",
+    "label": "Barton Zwiebach",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-wiesner",
+    "label": "Stephen Wiesner",
+    "aliases": []
+  },
+  {
+    "id": "person:park",
+    "label": "Park (Washington State University, Pullman)",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-holevo",
+    "label": "Alexander Holevo",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-h.-bennett",
+    "label": "Charles H. Bennett",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-p.-poplavskii",
+    "label": "R. P. Poplavskii",
+    "aliases": []
+  },
+  {
+    "id": "person:roman-stanisaw-ingarden",
+    "label": "Roman Stanisław Ingarden",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-benioff",
+    "label": "Paul Benioff",
+    "aliases": []
+  },
+  {
+    "id": "person:yuri-manin",
+    "label": "Yuri Manin",
+    "aliases": []
+  },
+  {
+    "id": "person:tommaso-toffoli",
+    "label": "Tommaso Toffoli",
+    "aliases": []
+  },
+  {
+    "id": "person:william-wootters",
+    "label": "William Wootters",
+    "aliases": []
+  },
+  {
+    "id": "person:wojciech-h.-zurek",
+    "label": "Wojciech H. Zurek",
+    "aliases": []
+  },
+  {
+    "id": "person:dennis-dieks",
+    "label": "Dennis Dieks",
+    "aliases": []
+  },
+  {
+    "id": "person:john-clarke",
+    "label": "John Clarke",
+    "aliases": []
+  },
+  {
+    "id": "person:michel-devoret",
+    "label": "Michel Devoret",
+    "aliases": []
+  },
+  {
+    "id": "person:john-m.-martinis",
+    "label": "John M. Martinis",
+    "aliases": []
+  },
+  {
+    "id": "person:igeta",
+    "label": "Igeta",
+    "aliases": []
+  },
+  {
+    "id": "person:gerard-j.-milburn",
+    "label": "Gerard J. Milburn",
+    "aliases": []
+  },
+  {
+    "id": "person:bikas-chakrabarti",
+    "label": "Bikas Chakrabarti",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-jozsa",
+    "label": "Richard Jozsa",
+    "aliases": []
+  },
+  {
+    "id": "person:ethan-bernstein",
+    "label": "Ethan Bernstein",
+    "aliases": []
+  },
+  {
+    "id": "person:umesh-vazirani",
+    "label": "Umesh Vazirani",
+    "aliases": []
+  },
+  {
+    "id": "person:simon",
+    "label": "Simon",
+    "aliases": []
+  },
+  {
+    "id": "person:isaac-chuang-1",
+    "label": "Isaac Chuang",
+    "aliases": []
+  },
+  {
+    "id": "person:yoshihisa-yamamoto",
+    "label": "Yoshihisa Yamamoto",
+    "aliases": []
+  },
+  {
+    "id": "person:ignacio-cirac",
+    "label": "Ignacio Cirac",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-zoller",
+    "label": "Peter Zoller",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-m.-bowden",
+    "label": "Charles M. Bowden",
+    "aliases": []
+  },
+  {
+    "id": "person:jonathan-dowling",
+    "label": "Jonathan Dowling",
+    "aliases": []
+  },
+  {
+    "id": "person:henry-o.-everitt",
+    "label": "Henry O. Everitt",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-monroe",
+    "label": "Christopher Monroe",
+    "aliases": []
+  },
+  {
+    "id": "person:david-j.-wineland",
+    "label": "David J. Wineland",
+    "aliases": []
+  },
+  {
+    "id": "person:subhash-kak",
+    "label": "Subhash Kak",
+    "aliases": []
+  },
+  {
+    "id": "person:ronald-chrisley",
+    "label": "Ronald Chrisley",
+    "aliases": []
+  },
+  {
+    "id": "person:lov-grover",
+    "label": "Lov Grover",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-steane",
+    "label": "Andrew Steane",
+    "aliases": []
+  },
+  {
+    "id": "person:david-divincenzo",
+    "label": "David DiVincenzo",
+    "aliases": []
+  },
+  {
+    "id": "person:seth-lloyd-1",
+    "label": "Seth Lloyd",
+    "aliases": []
+  },
+  {
+    "id": "person:cory",
+    "label": "Cory",
+    "aliases": []
+  },
+  {
+    "id": "person:amr-fahmy",
+    "label": "Amr Fahmy",
+    "aliases": []
+  },
+  {
+    "id": "person:timothy-havel",
+    "label": "Timothy Havel",
+    "aliases": []
+  },
+  {
+    "id": "person:neil-gershenfeld",
+    "label": "Neil Gershenfeld",
+    "aliases": []
+  },
+  {
+    "id": "person:alexei-kitaev",
+    "label": "Alexei Kitaev",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-loss",
+    "label": "Daniel Loss",
+    "aliases": []
+  },
+  {
+    "id": "person:jonathan-a.-jones",
+    "label": "Jonathan A. Jones",
+    "aliases": []
+  },
+  {
+    "id": "person:michele-mosca",
+    "label": "Michele Mosca",
+    "aliases": []
+  },
+  {
+    "id": "person:mark-kubinec",
+    "label": "Mark Kubinec",
+    "aliases": []
+  },
+  {
+    "id": "person:bruce-kane",
+    "label": "Bruce Kane",
+    "aliases": []
+  },
+  {
+    "id": "person:hidetoshi-nishimori",
+    "label": "Hidetoshi Nishimori",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-gottesman",
+    "label": "Daniel Gottesman",
+    "aliases": []
+  },
+  {
+    "id": "person:emanuel-knill",
+    "label": "Emanuel Knill",
+    "aliases": []
+  },
+  {
+    "id": "person:gabriel-aeppli",
+    "label": "Gabriel Aeppli",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-rosenbaum",
+    "label": "Thomas Rosenbaum",
+    "aliases": []
+  },
+  {
+    "id": "person:yasunobu-nakamura",
+    "label": "Yasunobu Nakamura",
+    "aliases": []
+  },
+  {
+    "id": "person:jaw-shen-tsai",
+    "label": "Jaw-Shen Tsai",
+    "aliases": []
+  },
+  {
+    "id": "person:braunstein",
+    "label": "Braunstein",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-nielsen",
+    "label": "Michael Nielsen",
+    "aliases": []
+  },
+  {
+    "id": "person:noah-linden",
+    "label": "Noah Linden",
+    "aliases": []
+  },
+  {
+    "id": "person:sandu-popescu",
+    "label": "Sandu Popescu",
+    "aliases": []
+  },
+  {
+    "id": "person:raymond-laflamme",
+    "label": "Raymond Laflamme",
+    "aliases": []
+  },
+  {
+    "id": "person:gerard-milburn",
+    "label": "Gerard Milburn",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-raussendorf",
+    "label": "Robert Raussendorf",
+    "aliases": []
+  },
+  {
+    "id": "person:hans-jrgen-briegel",
+    "label": "Hans Jürgen Briegel",
+    "aliases": []
+  },
+  {
+    "id": "person:mike-lazaridis",
+    "label": "Mike Lazaridis",
+    "aliases": []
+  },
+  {
+    "id": "person:gerhard-birkl",
+    "label": "Gerhard Birkl",
+    "aliases": []
+  },
+  {
+    "id": "person:todd-d.-pittman",
+    "label": "Todd D. Pittman",
+    "aliases": []
+  },
+  {
+    "id": "person:jeremy-obrien",
+    "label": "Jeremy O'Brien",
+    "aliases": []
+  },
+  {
+    "id": "person:rainer-blatt",
+    "label": "Rainer Blatt",
+    "aliases": []
+  },
+  {
+    "id": "person:anton-zeilinger",
+    "label": "Anton Zeilinger",
+    "aliases": []
+  },
+  {
+    "id": "person:pan-jianwei",
+    "label": "Pan Jianwei",
+    "aliases": []
+  },
+  {
+    "id": "person:vlatko-vedral",
+    "label": "Vlatko Vedral",
+    "aliases": []
+  },
+  {
+    "id": "person:tai-chang-chiang",
+    "label": "Tai-Chang Chiang",
+    "aliases": []
+  },
+  {
+    "id": "person:cristophe-boehme",
+    "label": "Cristophe Boehme",
+    "aliases": []
+  },
+  {
+    "id": "person:aaronson",
+    "label": "Aaronson",
+    "aliases": []
+  },
+  {
+    "id": "person:arkhipov",
+    "label": "Arkhipov",
+    "aliases": []
+  },
+  {
+    "id": "person:edward-snowden",
+    "label": "Edward Snowden",
+    "aliases": []
+  },
+  {
+    "id": "person:donald-trump",
+    "label": "Donald Trump",
+    "aliases": []
+  },
+  {
+    "id": "person:misha-lukin",
+    "label": "Misha Lukin",
+    "aliases": []
+  },
+  {
+    "id": "person:john-vincent-atanasoff",
+    "label": "John Vincent Atanasoff",
+    "aliases": []
+  },
+  {
+    "id": "person:klra-dn-von-neumann",
+    "label": "Klára Dán von Neumann",
+    "aliases": []
+  },
+  {
+    "id": "person:dave-wineland",
+    "label": "Dave Wineland",
+    "aliases": []
+  },
+  {
+    "id": "person:george-lawton",
+    "label": "George Lawton",
+    "aliases": []
+  },
+  {
+    "id": "person:leah-zitter",
+    "label": "Leah Zitter (Ph.D.)",
+    "aliases": []
+  },
+  {
+    "id": "person:kinza-yasar",
+    "label": "Kinza Yasar",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-bigelow",
+    "label": "Stephen Bigelow",
+    "aliases": []
+  },
+  {
+    "id": "person:david-essex",
+    "label": "David Essex",
+    "aliases": []
+  },
+  {
+    "id": "person:basque-country",
+    "label": "Basque Country (region)",
+    "aliases": []
+  },
+  {
+    "id": "person:knox",
+    "label": "Knox (editor)",
+    "aliases": []
+  },
+  {
+    "id": "person:wilson",
+    "label": "Wilson (editor)",
+    "aliases": []
+  },
+  {
+    "id": "person:freire",
+    "label": "Freire (editor)",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-dirac",
+    "label": "Paul Dirac",
+    "aliases": []
+  },
+  {
+    "id": "person:eugene-wigner",
+    "label": "Eugene Wigner",
+    "aliases": []
+  },
+  {
+    "id": "person:friedrich-london",
+    "label": "Friedrich London (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:herbert-bauer",
+    "label": "Herbert Bauer (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-s.-bell",
+    "label": "John S. Bell (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-bell",
+    "label": "John Bell (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:albert-einstein-1",
+    "label": "Albert Einstein (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:boris-podolsky-1",
+    "label": "Boris Podolsky (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:nathan-rosen-1",
+    "label": "Nathan Rosen (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:louis-de-broglie",
+    "label": "Louis de Broglie (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:david-bohm",
+    "label": "David Bohm (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:hugh-everett-iii",
+    "label": "Hugh Everett III",
+    "aliases": []
+  },
+  {
+    "id": "person:bell",
+    "label": "Bell",
+    "aliases": []
+  },
+  {
+    "id": "person:egg",
+    "label": "Egg",
+    "aliases": []
+  },
+  {
+    "id": "person:william-myrvold",
+    "label": "William Myrvold",
+    "aliases": []
+  },
+  {
+    "id": "person:david-wallace",
+    "label": "David Wallace",
+    "aliases": []
+  },
+  {
+    "id": "person:wigner",
+    "label": "Wigner",
+    "aliases": []
+  },
+  {
+    "id": "person:frauchiger",
+    "label": "Frauchiger",
+    "aliases": []
+  },
+  {
+    "id": "person:renner",
+    "label": "Renner",
+    "aliases": []
+  },
+  {
+    "id": "person:bruno",
+    "label": "Bruno",
+    "aliases": []
+  },
+  {
+    "id": "person:bong",
+    "label": "Bong",
+    "aliases": []
+  },
+  {
+    "id": "person:gurin",
+    "label": "Guérin",
+    "aliases": []
+  },
+  {
+    "id": "person:david-sudbery",
+    "label": "David Sudbery",
+    "aliases": []
+  },
+  {
+    "id": "person:ronald-n.-giere",
+    "label": "Ronald N. Giere (as mentioned in Healey's works)",
+    "aliases": []
+  },
+  {
+    "id": "person:miguel-losada",
+    "label": "Miguel Losada",
+    "aliases": []
+  },
+  {
+    "id": "person:tomasz-i.-tylec",
+    "label": "Tomasz I. Tylec (as possibly associated with Dascal)",
+    "aliases": []
+  },
+  {
+    "id": "person:alexander-r.-h.-smith",
+    "label": "Alexander R. H. Smith (as possibly associated with Evans)",
+    "aliases": []
+  },
+  {
+    "id": "person:olimpia-lombardi",
+    "label": "Olimpia Lombardi",
+    "aliases": []
+  },
+  {
+    "id": "person:ruth-kastner",
+    "label": "Ruth Kastner",
+    "aliases": []
+  },
+  {
+    "id": "person:arturo-toirac",
+    "label": "Arturo Toirac",
+    "aliases": []
+  },
+  {
+    "id": "person:jeffrey-bub",
+    "label": "Jeffrey Bub",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-g.-cavalcanti",
+    "label": "E. G. Cavalcanti",
+    "aliases": []
+  },
+  {
+    "id": "person:howard-m.-wiseman",
+    "label": "Howard M. Wiseman",
+    "aliases": []
+  },
+  {
+    "id": "person:marcin-pawowski",
+    "label": "Marcin Pawłowski",
+    "aliases": []
+  },
+  {
+    "id": "person:janusz-g.-kowol",
+    "label": "Janusz G. Kowol",
+    "aliases": []
+  },
+  {
+    "id": "person:simon-saunders",
+    "label": "Simon Saunders",
+    "aliases": []
+  },
+  {
+    "id": "person:myrvold",
+    "label": "Myrvold (2021)",
+    "aliases": []
+  },
+  {
+    "id": "person:berndl-et-al",
+    "label": "Berndl et al. (1996)",
+    "aliases": []
+  },
+  {
+    "id": "person:fleming",
+    "label": "Fleming (2016)",
+    "aliases": []
+  },
+  {
+    "id": "person:maudlin",
+    "label": "Maudlin (2016)",
+    "aliases": []
+  },
+  {
+    "id": "person:myrvold-1",
+    "label": "Myrvold (2016)",
+    "aliases": []
+  },
+  {
+    "id": "person:vaidman",
+    "label": "Vaidman (1994)",
+    "aliases": []
+  },
+  {
+    "id": "person:bacciagaluppi",
+    "label": "Bacciagaluppi (2002)",
+    "aliases": []
+  },
+  {
+    "id": "person:wallace",
+    "label": "Wallace (2012)",
+    "aliases": []
+  },
+  {
+    "id": "person:tipler",
+    "label": "Tipler (2014)",
+    "aliases": []
+  },
+  {
+    "id": "person:vaidman-1",
+    "label": "Vaidman (2016)",
+    "aliases": []
+  },
+  {
+    "id": "person:brown",
+    "label": "Brown (2016)",
+    "aliases": []
+  },
+  {
+    "id": "person:timpson",
+    "label": "Timpson (2016)",
+    "aliases": []
+  },
+  {
+    "id": "person:harrigan-and-spekkens",
+    "label": "Harrigan and Spekkens (2010)",
+    "aliases": []
+  },
+  {
+    "id": "person:pusey-barrett-and-rudolph",
+    "label": "Pusey, Barrett and Rudolph (2012)",
+    "aliases": []
+  },
+  {
+    "id": "person:leifer",
+    "label": "Leifer (2014)",
+    "aliases": []
+  },
+  {
+    "id": "person:myrvold-2",
+    "label": "Myrvold (2020)",
+    "aliases": []
+  },
+  {
+    "id": "person:albert",
+    "label": "Albert (1996)",
+    "aliases": []
+  },
+  {
+    "id": "person:albert-1",
+    "label": "Albert (2013)",
+    "aliases": []
+  },
+  {
+    "id": "person:loewer",
+    "label": "Loewer (1996)",
+    "aliases": []
+  },
+  {
+    "id": "person:lewis",
+    "label": "Lewis (2004)",
+    "aliases": []
+  },
+  {
+    "id": "person:ney",
+    "label": "Ney (2012)",
+    "aliases": []
+  },
+  {
+    "id": "person:ney-1",
+    "label": "Ney (2013a,b)",
+    "aliases": []
+  },
+  {
+    "id": "person:ney-2",
+    "label": "Ney (2021)",
+    "aliases": []
+  },
+  {
+    "id": "person:north",
+    "label": "North (2013)",
+    "aliases": []
+  },
+  {
+    "id": "person:myrvold-3",
+    "label": "Myrvold (2015)",
+    "aliases": []
+  },
+  {
+    "id": "person:spekkens",
+    "label": "Spekkens (2015)",
+    "aliases": []
+  },
+  {
+    "id": "person:bell-1",
+    "label": "Bell (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:allori-valia",
+    "label": "Allori, Valia",
+    "aliases": []
+  },
+  {
+    "id": "person:albert-david-z",
+    "label": "Albert, David Z.",
+    "aliases": []
+  },
+  {
+    "id": "person:bub-jeffrey",
+    "label": "Bub, Jeffrey",
+    "aliases": []
+  },
+  {
+    "id": "person:belot-gordon",
+    "label": "Belot, Gordon",
+    "aliases": []
+  },
+  {
+    "id": "person:hubert",
+    "label": "Hubert (name from the text)",
+    "aliases": []
+  },
+  {
+    "id": "person:romano",
+    "label": "Romano (name from the text)",
+    "aliases": []
+  },
+  {
+    "id": "person:drr-detlef",
+    "label": "Dürr, Detlef",
+    "aliases": []
+  },
+  {
+    "id": "person:goldstein-sheldon",
+    "label": "Goldstein, Sheldon",
+    "aliases": []
+  },
+  {
+    "id": "person:zangh-nino",
+    "label": "Zanghì, Nino",
+    "aliases": []
+  },
+  {
+    "id": "person:masanes-llus",
+    "label": "Masanes, Lluís",
+    "aliases": []
+  },
+  {
+    "id": "person:mller-marcus-p",
+    "label": "Müller, Marcus P.",
+    "aliases": []
+  },
+  {
+    "id": "person:chiribella-giulio",
+    "label": "Chiribella, Giulio",
+    "aliases": []
+  },
+  {
+    "id": "person:dariano-giacomo-mauro",
+    "label": "D’Ariano, Giacomo Mauro",
+    "aliases": []
+  },
+  {
+    "id": "person:perinotti-paolo",
+    "label": "Perinotti, Paolo",
+    "aliases": []
+  },
+  {
+    "id": "person:spekkens-robert-w",
+    "label": "Spekkens, Robert W.",
+    "aliases": []
+  },
+  {
+    "id": "person:bacciagaluppi-guido",
+    "label": "Bacciagaluppi, Guido",
+    "aliases": []
+  },
+  {
+    "id": "person:valentini-antony",
+    "label": "Valentini, Antony",
+    "aliases": []
+  },
+  {
+    "id": "person:bong-kok-wei",
+    "label": "Bong, Kok-Wei",
+    "aliases": []
+  },
+  {
+    "id": "person:cavalcanti-eric",
+    "label": "Cavalcanti, Eric",
+    "aliases": []
+  },
+  {
+    "id": "person:wiseman-howard-m",
+    "label": "Wiseman, Howard M.",
+    "aliases": []
+  },
+  {
+    "id": "person:brukner-aslav",
+    "label": "Brukner, Časlav",
+    "aliases": []
+  },
+  {
+    "id": "person:timpson-christopher-g",
+    "label": "Timpson, Christopher G.",
+    "aliases": []
+  },
+  {
+    "id": "person:brown-harvey-r",
+    "label": "Brown, Harvey R.",
+    "aliases": []
+  },
+  {
+    "id": "person:berndl-karin",
+    "label": "Berndl, Karin",
+    "aliases": []
+  },
+  {
+    "id": "person:mackey-george-w",
+    "label": "Mackey, George W.",
+    "aliases": []
+  },
+  {
+    "id": "person:ludwig-gnther",
+    "label": "Ludwig, Günther",
+    "aliases": []
+  },
+  {
+    "id": "person:piron-constantin",
+    "label": "Piron, Constantin",
+    "aliases": []
+  },
+  {
+    "id": "person:birkhoff-garrett",
+    "label": "Birkhoff, Garrett",
+    "aliases": []
+  },
+  {
+    "id": "person:von-neumann-john",
+    "label": "von Neumann, John",
+    "aliases": []
+  },
+  {
+    "id": "person:hardy-lucien",
+    "label": "Hardy, Lucien",
+    "aliases": []
+  },
+  {
+    "id": "person:giulio-chiribella",
+    "label": "Giulio Chiribella",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-w.-spekkens",
+    "label": "Robert W. Spekkens",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-dascal",
+    "label": "Michael Dascal",
+    "aliases": []
+  },
+  {
+    "id": "person:patrick-hayden",
+    "label": "Patrick Hayden",
+    "aliases": []
+  },
+  {
+    "id": "person:o.-lombardi",
+    "label": "O. Lombardi",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-fortin",
+    "label": "S. Fortin",
+    "aliases": []
+  },
+  {
+    "id": "person:c.-lopez",
+    "label": "C. Lopez",
+    "aliases": []
+  },
+  {
+    "id": "person:p.a.m.-dirac",
+    "label": "P.A.M. Dirac",
+    "aliases": []
+  },
+  {
+    "id": "person:detlef-drr",
+    "label": "Detlef Dürr",
+    "aliases": []
+  },
+  {
+    "id": "person:sheldon-goldstein",
+    "label": "Sheldon Goldstein",
+    "aliases": []
+  },
+  {
+    "id": "person:nino-zangh",
+    "label": "Nino Zanghì",
+    "aliases": []
+  },
+  {
+    "id": "person:matthias-egg",
+    "label": "Matthias Egg",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-w.-evans",
+    "label": "Peter W. Evans",
+    "aliases": []
+  },
+  {
+    "id": "person:gordon-n.-fleming",
+    "label": "Gordon N. Fleming",
+    "aliases": []
+  },
+  {
+    "id": "person:sebastian-fortin",
+    "label": "Sebastian Fortin",
+    "aliases": []
+  },
+  {
+    "id": "person:daniela-frauchiger",
+    "label": "Daniela Frauchiger",
+    "aliases": []
+  },
+  {
+    "id": "person:renato-renner",
+    "label": "Renato Renner",
+    "aliases": []
+  },
+  {
+    "id": "person:olival-freire-jr",
+    "label": "Olival Freire Jr.",
+    "aliases": []
+  },
+  {
+    "id": "person:guido-bacciagaluppi",
+    "label": "Guido Bacciagaluppi",
+    "aliases": []
+  },
+  {
+    "id": "person:olivier-darrigol",
+    "label": "Olivier Darrigol",
+    "aliases": []
+  },
+  {
+    "id": "person:thiago-hartz",
+    "label": "Thiago Hartz",
+    "aliases": []
+  },
+  {
+    "id": "person:christian-joas",
+    "label": "Christian Joas",
+    "aliases": []
+  },
+  {
+    "id": "person:alexei-kojevnikov",
+    "label": "Alexei Kojevnikov",
+    "aliases": []
+  },
+  {
+    "id": "person:osvaldo-pessoa-jr",
+    "label": "Osvaldo Pessoa Jr.",
+    "aliases": []
+  },
+  {
+    "id": "person:steven-french",
+    "label": "Steven French",
+    "aliases": []
+  },
+  {
+    "id": "person:juha-saatsi",
+    "label": "Juha Saatsi",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-a.-fuchs",
+    "label": "Christopher A. Fuchs",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-david-mermin",
+    "label": "N. David Mermin",
+    "aliases": []
+  },
+  {
+    "id": "person:rdiger-schack",
+    "label": "Rüdiger Schack",
+    "aliases": []
+  },
+  {
+    "id": "person:shan-gao",
+    "label": "Shan Gao",
+    "aliases": []
+  },
+  {
+    "id": "person:philippe-allard-gurin",
+    "label": "Philippe Allard Guérin",
+    "aliases": []
+  },
+  {
+    "id": "person:veronika-baumann",
+    "label": "Veronika Baumann",
+    "aliases": []
+  },
+  {
+    "id": "person:flavio-del-santo",
+    "label": "Flavio Del Santo",
+    "aliases": []
+  },
+  {
+    "id": "person:don-howard",
+    "label": "Don Howard",
+    "aliases": []
+  },
+  {
+    "id": "person:mario-hubert",
+    "label": "Mario Hubert",
+    "aliases": []
+  },
+  {
+    "id": "person:davide-romano",
+    "label": "Davide Romano",
+    "aliases": []
+  },
+  {
+    "id": "person:eleanor-knox",
+    "label": "Eleanor Knox",
+    "aliases": []
+  },
+  {
+    "id": "person:alastair-wilson",
+    "label": "Alastair Wilson",
+    "aliases": []
+  },
+  {
+    "id": "person:simon-kochen",
+    "label": "Simon Kochen",
+    "aliases": []
+  },
+  {
+    "id": "person:ernst-specker",
+    "label": "Ernst Specker",
+    "aliases": []
+  },
+  {
+    "id": "person:dustin-lazarovici",
+    "label": "Dustin Lazarovici",
+    "aliases": []
+  },
+  {
+    "id": "person:matthew-saul-leifer",
+    "label": "Matthew Saul Leifer",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-j.-lewis",
+    "label": "Peter J. Lewis",
+    "aliases": []
+  },
+  {
+    "id": "person:b.-loewer",
+    "label": "B. Loewer",
+    "aliases": []
+  },
+  {
+    "id": "person:fritz-london",
+    "label": "Fritz London",
+    "aliases": []
+  },
+  {
+    "id": "person:edmond-bauer",
+    "label": "Edmond Bauer",
+    "aliases": []
+  },
+  {
+    "id": "person:marcelo-losada",
+    "label": "Marcelo Losada",
+    "aliases": []
+  },
+  {
+    "id": "person:roberto-laura",
+    "label": "Roberto Laura",
+    "aliases": []
+  },
+  {
+    "id": "person:g.-ludwig",
+    "label": "G. Ludwig",
+    "aliases": []
+  },
+  {
+    "id": "person:george-w.-mackey",
+    "label": "George W. Mackey",
+    "aliases": []
+  },
+  {
+    "id": "person:llus-masanes",
+    "label": "Lluís Masanes",
+    "aliases": []
+  },
+  {
+    "id": "person:markus-p.-mller",
+    "label": "Markus P. Müller",
+    "aliases": []
+  },
+  {
+    "id": "person:tim-maudlin",
+    "label": "Tim Maudlin",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-mucio",
+    "label": "R. Muciño",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-okon",
+    "label": "E. Okon",
+    "aliases": []
+  },
+  {
+    "id": "person:wayne-c.-myrvold",
+    "label": "Wayne C. Myrvold",
+    "aliases": []
+  },
+  {
+    "id": "person:alyssa-ney",
+    "label": "Alyssa Ney",
+    "aliases": []
+  },
+  {
+    "id": "person:david-z.-albert",
+    "label": "David Z. Albert",
+    "aliases": []
+  },
+  {
+    "id": "person:jill-north",
+    "label": "Jill North",
+    "aliases": []
+  },
+  {
+    "id": "person:constantin-piron",
+    "label": "Constantin Piron",
+    "aliases": []
+  },
+  {
+    "id": "person:matthew-f.-pusey",
+    "label": "Matthew F. Pusey",
+    "aliases": []
+  },
+  {
+    "id": "person:jonathan-barrett",
+    "label": "Jonathan Barrett",
+    "aliases": []
+  },
+  {
+    "id": "person:terry-rudolph",
+    "label": "Terry Rudolph",
+    "aliases": []
+  },
+  {
+    "id": "person:anthony-sudbery",
+    "label": "Anthony Sudbery",
+    "aliases": []
+  },
+  {
+    "id": "person:frank-j.-tipler",
+    "label": "Frank J. Tipler",
+    "aliases": []
+  },
+  {
+    "id": "person:lev-vaidman",
+    "label": "Lev Vaidman",
+    "aliases": []
+  },
+  {
+    "id": "person:eugene-p.-wigner",
+    "label": "Eugene P. Wigner",
+    "aliases": []
+  },
+  {
+    "id": "person:marek-ukowski",
+    "label": "Marek Żukowski",
+    "aliases": []
+  },
+  {
+    "id": "person:marcin-markiewicz",
+    "label": "Marcin Markiewicz",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-feynman",
+    "label": "R. Feynman",
+    "aliases": []
+  },
+  {
+    "id": "person:lucien-hardy",
+    "label": "Lucien Hardy",
+    "aliases": []
+  },
+  {
+    "id": "person:john-norton",
+    "label": "John Norton",
+    "aliases": []
+  },
+  {
+    "id": "person:wayne-myrvold",
+    "label": "Wayne Myrvold",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-fuchs",
+    "label": "Christopher Fuchs",
+    "aliases": []
+  },
+  {
+    "id": "person:pablo-picasso",
+    "label": "Pablo Picasso",
+    "aliases": []
+  },
+  {
+    "id": "person:jean-metzinger",
+    "label": "Jean Metzinger (painter Gris)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-stachel-1",
+    "label": "John Stachel (QBism)",
+    "aliases": []
+  },
+  {
+    "id": "person:david-mermin",
+    "label": "David Mermin",
+    "aliases": []
+  },
+  {
+    "id": "person:ruediger-schack",
+    "label": "Ruediger Schack",
+    "aliases": []
+  },
+  {
+    "id": "person:bacciagaluppi-1",
+    "label": "Bacciagaluppi",
+    "aliases": []
+  },
+  {
+    "id": "person:gregg-jaeger",
+    "label": "Gregg Jaeger",
+    "aliases": []
+  },
+  {
+    "id": "person:ole-jensen",
+    "label": "Ole Jensen (Nauenberg)",
+    "aliases": []
+  },
+  {
+    "id": "person:allen-stairs",
+    "label": "Allen Stairs",
+    "aliases": []
+  },
+  {
+    "id": "person:chris-timpson",
+    "label": "Chris Timpson",
+    "aliases": []
+  },
+  {
+    "id": "person:robin-hendry",
+    "label": "Robin Hendry (Mohrhoff)",
+    "aliases": []
+  },
+  {
+    "id": "person:michele-dalla-chiara",
+    "label": "Michele Dalla Chiara (Marchildon)",
+    "aliases": []
+  },
+  {
+    "id": "person:marcelo-losada-1",
+    "label": "Marcelo Losada (Barnum)",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-a.-appleby",
+    "label": "Michael A. Appleby",
+    "aliases": []
+  },
+  {
+    "id": "person:louis-de-broglie-1",
+    "label": "Louis de Broglie (Bohmian interpretation)",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-nauenberg",
+    "label": "Michael Nauenberg",
+    "aliases": []
+  },
+  {
+    "id": "person:harry-ballentine",
+    "label": "Harry Ballentine",
+    "aliases": []
+  },
+  {
+    "id": "person:von-weizscker",
+    "label": "von Weizsäcker (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-b.-fuchs",
+    "label": "Richard B. Fuchs",
+    "aliases": []
+  },
+  {
+    "id": "person:itamar-pitowsky",
+    "label": "Itamar Pitowsky",
+    "aliases": []
+  },
+  {
+    "id": "person:christian-w.-brukner",
+    "label": "Christian W. Brukner",
+    "aliases": []
+  },
+  {
+    "id": "person:caves-fuchs-and-schack",
+    "label": "Caves, Fuchs, and Schack",
+    "aliases": []
+  },
+  {
+    "id": "person:strmer",
+    "label": "Størmer",
+    "aliases": []
+  },
+  {
+    "id": "person:john-baez",
+    "label": "John Baez",
+    "aliases": []
+  },
+  {
+    "id": "person:nina-youssef",
+    "label": "Nina Youssef",
+    "aliases": []
+  },
+  {
+    "id": "person:roger-balian",
+    "label": "Roger Balian",
+    "aliases": []
+  },
+  {
+    "id": "person:blake-stacey",
+    "label": "Blake Stacey",
+    "aliases": []
+  },
+  {
+    "id": "person:robin-blume-kohout",
+    "label": "Robin Blume-Kohout",
+    "aliases": []
+  },
+  {
+    "id": "person:matthew-leifer",
+    "label": "Matthew Leifer",
+    "aliases": []
+  },
+  {
+    "id": "person:rudolf-streater",
+    "label": "Rudolf Streater",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-cabello",
+    "label": "Andrew Cabello",
+    "aliases": []
+  },
+  {
+    "id": "person:rudolf-tnjes",
+    "label": "Rudolf Tönjes",
+    "aliases": []
+  },
+  {
+    "id": "person:mark-s.-leifer",
+    "label": "Mark S. Leifer",
+    "aliases": []
+  },
+  {
+    "id": "person:alastair-rae",
+    "label": "Alastair Rae",
+    "aliases": []
+  },
+  {
+    "id": "person:arthur-fine",
+    "label": "Arthur Fine",
+    "aliases": []
+  },
+  {
+    "id": "person:heisenberg",
+    "label": "Heisenberg",
+    "aliases": []
+  },
+  {
+    "id": "person:adn-cabello",
+    "label": "Adán Cabello",
+    "aliases": []
+  },
+  {
+    "id": "person:leonard-kahn",
+    "label": "Leonard Kahn (Professor and Chair, Department of Physics, University of Rhode Island)",
+    "aliases": []
+  },
+  {
+    "id": "person:ying-nian-wu",
+    "label": "Ying Nian Wu (Professor, Department of Statistics and Data Science, University of California in Los Angeles)",
+    "aliases": []
+  },
+  {
+    "id": "person:lee",
+    "label": "Lee (Ph.D. in Electrical Engineering from Princeton University)",
+    "aliases": []
+  },
+  {
+    "id": "person:yu",
+    "label": "Yu (Ph.D. in Mechanical Engineering from Rutgers University at New Brunswick)",
+    "aliases": []
+  },
+  {
+    "id": "person:ran-cheng",
+    "label": "Ran Cheng (Ph.D. in Physics from the University of Texas at Austin)",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-kent",
+    "label": "Andrew Kent",
+    "aliases": []
+  },
+  {
+    "id": "person:steven-frankel",
+    "label": "Steven Frankel",
+    "aliases": []
+  },
+  {
+    "id": "person:tony-holdroyd",
+    "label": "Tony Holdroyd",
+    "aliases": []
+  },
+  {
+    "id": "person:yamamoto-fujio",
+    "label": "Yamamoto Fujio",
+    "aliases": []
+  },
+  {
+    "id": "person:arun-pati",
+    "label": "Arun Pati (quantum information)",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-cleve",
+    "label": "Richard Cleve",
+    "aliases": []
+  },
+  {
+    "id": "person:chiara-macchiavello",
+    "label": "Chiara Macchiavello",
+    "aliases": []
+  },
+  {
+    "id": "person:jeremy-l.-obrien",
+    "label": "Jeremy L. O'Brien",
+    "aliases": []
+  },
+  {
+    "id": "person:rudolf-grimm",
+    "label": "Rudolf Grimm",
+    "aliases": []
+  },
+  {
+    "id": "person:jian-wei-pan",
+    "label": "Jian-Wei Pan",
+    "aliases": []
+  },
+  {
+    "id": "person:vlatko-vedral-1",
+    "label": "Vlatko Vedral (University of Leeds)",
+    "aliases": []
+  },
+  {
+    "id": "person:samuel-l.-braunstein",
+    "label": "Samuel L. Braunstein (University of York)",
+    "aliases": []
+  },
+  {
+    "id": "person:tai-chang-chiang-1",
+    "label": "Tai-Chang Chiang (University of Illinois at Urbana–Champaign)",
+    "aliases": []
+  },
+  {
+    "id": "person:cristophe-boehme-1",
+    "label": "Cristophe Boehme (University of Utah)",
+    "aliases": []
+  },
+  {
+    "id": "person:klaus-von-klitzing",
+    "label": "Klaus von Klitzing",
+    "aliases": []
+  },
+  {
+    "id": "person:novak-djokovic",
+    "label": "Novak Djokovic",
+    "aliases": []
+  },
+  {
+    "id": "person:kazi-saabique-ahmed",
+    "label": "Kazi Saabique Ahmed",
+    "aliases": []
+  },
+  {
+    "id": "person:david-deutsch-1",
+    "label": "David Deutsch (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:lov-grover-1",
+    "label": "Lov Grover (computer scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:max-planck-1",
+    "label": "Max Planck (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:niels-bohr-1",
+    "label": "Niels Bohr (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:erwin-schrdinger",
+    "label": "Erwin Schrödinger (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:werner-heisenberg-1",
+    "label": "Werner Heisenberg (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-feynman-1",
+    "label": "Richard Feynman (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-benioff-1",
+    "label": "Paul Benioff (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:edward-farhi",
+    "label": "Edward Farhi",
+    "aliases": []
+  },
+  {
+    "id": "person:kitaev",
+    "label": "Kitaev",
+    "aliases": []
+  },
+  {
+    "id": "person:alexei-kitaev-1",
+    "label": "Alexei Kitaev (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:sotorasib",
+    "label": "Sotorasib (inhibitor)",
+    "aliases": []
+  },
+  {
+    "id": "person:f.-arute",
+    "label": "F. Arute",
+    "aliases": []
+  },
+  {
+    "id": "person:h.-s.-zhong",
+    "label": "H.-S. Zhong",
+    "aliases": []
+  },
+  {
+    "id": "person:y.-kim",
+    "label": "Y. Kim",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-d.-durrant",
+    "label": "J. D. Durrant",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-a.-mccammon",
+    "label": "J. A. McCammon",
+    "aliases": []
+  },
+  {
+    "id": "person:g.-sliwoski",
+    "label": "G. Sliwoski",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-kothiwale",
+    "label": "S. Kothiwale",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-meiler",
+    "label": "J. Meiler",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-w.-lowe",
+    "label": "E. W. Lowe",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-s.-ou-yang",
+    "label": "S.-S. Ou-Yang",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-dara",
+    "label": "S. Dara",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-dhamercherla",
+    "label": "S. Dhamercherla",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-s.-jadav",
+    "label": "S. S. Jadav",
+    "aliases": []
+  },
+  {
+    "id": "person:c.-m.-babu",
+    "label": "C. M. Babu",
+    "aliases": []
+  },
+  {
+    "id": "person:m.-j.-ahsan",
+    "label": "M. J. Ahsan",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-wong",
+    "label": "R. Wong",
+    "aliases": []
+  },
+  {
+    "id": "person:w.-l.-chang",
+    "label": "W.-L. Chang",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-robert",
+    "label": "A. Robert",
+    "aliases": []
+  },
+  {
+    "id": "person:p.-k.-barkoutsos",
+    "label": "P. K. Barkoutsos",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-woerner",
+    "label": "S. Woerner",
+    "aliases": []
+  },
+  {
+    "id": "person:i.-tavernelli",
+    "label": "I. Tavernelli",
+    "aliases": []
+  },
+  {
+    "id": "person:k.-batra",
+    "label": "K. Batra",
+    "aliases": []
+  },
+  {
+    "id": "person:c.-outeiral",
+    "label": "C. Outeiral",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-tilly",
+    "label": "J. Tilly",
+    "aliases": []
+  },
+  {
+    "id": "person:i.-n.-levine",
+    "label": "I. N. Levine",
+    "aliases": []
+  },
+  {
+    "id": "person:d.-h.-busch",
+    "label": "D. H. Busch",
+    "aliases": []
+  },
+  {
+    "id": "person:h.-shull",
+    "label": "H. Shull",
+    "aliases": []
+  },
+  {
+    "id": "person:w.-kohn",
+    "label": "W. Kohn",
+    "aliases": []
+  },
+  {
+    "id": "person:l.-j.-sham",
+    "label": "L. J. Sham",
+    "aliases": []
+  },
+  {
+    "id": "person:k.-a.-dill",
+    "label": "K. A. Dill",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-l.-maccallum",
+    "label": "J. L. MacCallum",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-perdomo-ortiz",
+    "label": "A. Perdomo-Ortiz",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-dickson",
+    "label": "N. Dickson",
+    "aliases": []
+  },
+  {
+    "id": "person:m.-drew-brook",
+    "label": "M. Drew-Brook",
+    "aliases": []
+  },
+  {
+    "id": "person:g.-rose",
+    "label": "G. Rose",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-aspuru-guzik",
+    "label": "A. Aspuru-Guzik",
+    "aliases": []
+  },
+  {
+    "id": "person:d.-marchand",
+    "label": "D. Marchand",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-santagati",
+    "label": "R. Santagati",
+    "aliases": []
+  },
+  {
+    "id": "person:m.-otten",
+    "label": "M. Otten",
+    "aliases": []
+  },
+  {
+    "id": "person:b.-lau",
+    "label": "B. Lau",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-gircha",
+    "label": "A. Gircha",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-boev",
+    "label": "A. Boev",
+    "aliases": []
+  },
+  {
+    "id": "person:k.-avchaciov",
+    "label": "K. Avchaciov",
+    "aliases": []
+  },
+  {
+    "id": "person:p.-fedichev",
+    "label": "P. Fedichev",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-fedorov",
+    "label": "A. Fedorov",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-s.-blunt",
+    "label": "N. S. Blunt",
+    "aliases": []
+  },
+  {
+    "id": "person:y.-h.-lam",
+    "label": "Y.-H. Lam",
+    "aliases": []
+  },
+  {
+    "id": "person:q.-gong",
+    "label": "Q. Gong",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-zhou",
+    "label": "S. Zhou",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-rautio",
+    "label": "J. Rautio",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-a.-meanwell",
+    "label": "N. A. Meanwell",
+    "aliases": []
+  },
+  {
+    "id": "person:l.-di",
+    "label": "L. Di",
+    "aliases": []
+  },
+  {
+    "id": "person:m.-j.-hageman",
+    "label": "M. J. Hageman",
+    "aliases": []
+  },
+  {
+    "id": "person:y.-dong",
+    "label": "Y. Dong",
+    "aliases": []
+  },
+  {
+    "id": "person:l.-liu",
+    "label": "L. Liu",
+    "aliases": []
+  },
+  {
+    "id": "person:x.-luo",
+    "label": "X. Luo",
+    "aliases": []
+  },
+  {
+    "id": "person:c.-weng",
+    "label": "C. Weng",
+    "aliases": []
+  },
+  {
+    "id": "person:l.-shen",
+    "label": "L. Shen",
+    "aliases": []
+  },
+  {
+    "id": "person:w.-h.-ang",
+    "label": "W. H. Ang",
+    "aliases": []
+  },
+  {
+    "id": "person:chang-t.-c",
+    "label": "Chang, T.-C.",
+    "aliases": []
+  },
+  {
+    "id": "person:vong-k",
+    "label": "Vong, K.",
+    "aliases": []
+  },
+  {
+    "id": "person:yamamoto-t",
+    "label": "Yamamoto, T.",
+    "aliases": []
+  },
+  {
+    "id": "person:tanaka-k",
+    "label": "Tanaka, K.",
+    "aliases": []
+  },
+  {
+    "id": "person:huang-l",
+    "label": "Huang, L.",
+    "aliases": []
+  },
+  {
+    "id": "person:guo-z",
+    "label": "Guo, Z.",
+    "aliases": []
+  },
+  {
+    "id": "person:fu-l",
+    "label": "Fu, L.",
+    "aliases": []
+  },
+  {
+    "id": "person:zhang-z",
+    "label": "Zhang, Z.",
+    "aliases": []
+  },
+  {
+    "id": "person:kim-d",
+    "label": "Kim, D.",
+    "aliases": []
+  },
+  {
+    "id": "person:nikolaev-s.-i",
+    "label": "Nikolaev, S. I.",
+    "aliases": []
+  },
+  {
+    "id": "person:pan-p",
+    "label": "Pan, P.",
+    "aliases": []
+  },
+  {
+    "id": "person:canon-j",
+    "label": "Canon, J.",
+    "aliases": []
+  },
+  {
+    "id": "person:lanman-b.-a",
+    "label": "Lanman, B. A.",
+    "aliases": []
+  },
+  {
+    "id": "person:nagasaka-m",
+    "label": "Nagasaka, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:fell-j.-b",
+    "label": "Fell, J. B.",
+    "aliases": []
+  },
+  {
+    "id": "person:wang-x",
+    "label": "Wang, X.",
+    "aliases": []
+  },
+  {
+    "id": "person:nakayama-a",
+    "label": "Nakayama, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:tanaka-n",
+    "label": "Tanaka, N.",
+    "aliases": []
+  },
+  {
+    "id": "person:cheng-r",
+    "label": "Cheng, R.",
+    "aliases": []
+  },
+  {
+    "id": "person:ferrara-s.-j",
+    "label": "Ferrara, S. J.",
+    "aliases": []
+  },
+  {
+    "id": "person:scanlan-t.-s",
+    "label": "Scanlan, T. S.",
+    "aliases": []
+  },
+  {
+    "id": "person:xia-x",
+    "label": "Xia, X.",
+    "aliases": []
+  },
+  {
+    "id": "person:zhou-y",
+    "label": "Zhou, Y.",
+    "aliases": []
+  },
+  {
+    "id": "person:gao-h",
+    "label": "Gao, H.",
+    "aliases": []
+  },
+  {
+    "id": "person:li-w",
+    "label": "Li, W.",
+    "aliases": []
+  },
+  {
+    "id": "person:kowalski-k",
+    "label": "Kowalski, K.",
+    "aliases": []
+  },
+  {
+    "id": "person:bauman-n.-p",
+    "label": "Bauman, N. P.",
+    "aliases": []
+  },
+  {
+    "id": "person:lee-j",
+    "label": "Lee, J.",
+    "aliases": []
+  },
+  {
+    "id": "person:huggins-w.-j",
+    "label": "Huggins, W. J.",
+    "aliases": []
+  },
+  {
+    "id": "person:head-gordon-m",
+    "label": "Head-Gordon, M.",
+    "aliases": []
+  },
+  {
+    "id": "person:whaley-k.-b",
+    "label": "Whaley, K. B.",
+    "aliases": []
+  },
+  {
+    "id": "person:h.-r.-grimsley",
+    "label": "H. R. Grimsley",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-e.-economou",
+    "label": "S. E. Economou",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-barnes",
+    "label": "E. Barnes",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-j.-mayhall",
+    "label": "N. J. Mayhall",
+    "aliases": []
+  },
+  {
+    "id": "person:l.-zhao",
+    "label": "L. Zhao",
+    "aliases": []
+  },
+  {
+    "id": "person:t.-e.-obrien",
+    "label": "T. E. O’Brien",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-liu",
+    "label": "J. Liu",
+    "aliases": []
+  },
+  {
+    "id": "person:y.-fan",
+    "label": "Y. Fan",
+    "aliases": []
+  },
+  {
+    "id": "person:z.-li",
+    "label": "Z. Li",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-yang",
+    "label": "J. Yang",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-romero",
+    "label": "J. Romero",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-jain",
+    "label": "N. Jain",
+    "aliases": []
+  },
+  {
+    "id": "person:b.-coyle",
+    "label": "B. Coyle",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-kashefi",
+    "label": "E. Kashefi",
+    "aliases": []
+  },
+  {
+    "id": "person:n.-kumar",
+    "label": "N. Kumar",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-delgado",
+    "label": "A. Delgado",
+    "aliases": []
+  },
+  {
+    "id": "person:k.-sugisaki",
+    "label": "K. Sugisaki",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-lai",
+    "label": "J. Lai",
+    "aliases": []
+  },
+  {
+    "id": "person:q.-fu",
+    "label": "Q. Fu",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-x.-zhang",
+    "label": "S.-X. Zhang",
+    "aliases": []
+  },
+  {
+    "id": "person:z.-x.-shang",
+    "label": "Z.-X. Shang",
+    "aliases": []
+  },
+  {
+    "id": "person:m.-c.-chen",
+    "label": "M.-C. Chen",
+    "aliases": []
+  },
+  {
+    "id": "person:x.-yuan",
+    "label": "X. Yuan",
+    "aliases": []
+  },
+  {
+    "id": "person:c.-y.-lu",
+    "label": "C.-Y. Lu",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-w.-pan",
+    "label": "J.-W. Pan",
+    "aliases": []
+  },
+  {
+    "id": "person:h.-ma",
+    "label": "H. Ma",
+    "aliases": []
+  },
+  {
+    "id": "person:u.-schollwck",
+    "label": "U. Schollwöck",
+    "aliases": []
+  },
+  {
+    "id": "person:z.-shuai",
+    "label": "Z. Shuai",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-tomasi",
+    "label": "J. Tomasi",
+    "aliases": []
+  },
+  {
+    "id": "person:b.-mennucci",
+    "label": "B. Mennucci",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-cammi",
+    "label": "R. Cammi",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-miertu",
+    "label": "S. Miertuš",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-scrocco",
+    "label": "E. Scrocco",
+    "aliases": []
+  },
+  {
+    "id": "person:d.-castaldo",
+    "label": "D. Castaldo",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-jahangiri",
+    "label": "S. Jahangiri",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-corni",
+    "label": "S. Corni",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-klamt",
+    "label": "A. Klamt",
+    "aliases": []
+  },
+  {
+    "id": "person:g.-schrmann",
+    "label": "G. Schüürmann",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-cancs",
+    "label": "E. Cancès",
+    "aliases": []
+  },
+  {
+    "id": "person:y.-maday",
+    "label": "Y. Maday",
+    "aliases": []
+  },
+  {
+    "id": "person:b.-stamm",
+    "label": "B. Stamm",
+    "aliases": []
+  },
+  {
+    "id": "person:f.-lipparini",
+    "label": "F. Lipparini",
+    "aliases": []
+  },
+  {
+    "id": "person:t.-helgaker",
+    "label": "T. Helgaker",
+    "aliases": []
+  },
+  {
+    "id": "person:p.-jrgensen",
+    "label": "P. Jørgensen",
+    "aliases": []
+  },
+  {
+    "id": "person:p.-r.-taylor",
+    "label": "P. R. Taylor",
+    "aliases": []
+  },
+  {
+    "id": "person:weitang-li",
+    "label": "Weitang Li (Tencent Quantum Lab)",
+    "aliases": []
+  },
+  {
+    "id": "person:zhi-yin",
+    "label": "Zhi Yin (AceMapAI Biotechnology)",
+    "aliases": []
+  },
+  {
+    "id": "person:xiaoran-li",
+    "label": "Xiaoran Li (AceMapAI Biotechnology)",
+    "aliases": []
+  },
+  {
+    "id": "person:dongqiang-ma",
+    "label": "Dongqiang Ma (AceMapAI Biotechnology)",
+    "aliases": []
+  },
+  {
+    "id": "person:shuang-yi",
+    "label": "Shuang Yi (AceMapAI Biotechnology)",
+    "aliases": []
+  },
+  {
+    "id": "person:shengyu-zhang",
+    "label": "Shengyu Zhang",
+    "aliases": []
+  },
+  {
+    "id": "person:zhi-yin-1",
+    "label": "Zhi Yin",
+    "aliases": []
+  },
+  {
+    "id": "person:xiaojin-zhang",
+    "label": "Xiaojin Zhang",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-yang",
+    "label": "Andrew Yang",
+    "aliases": []
+  },
+  {
+    "id": "person:ray-johnson",
+    "label": "Ray Johnson (former CTO at Lockheed Martin)",
+    "aliases": []
+  },
+  {
+    "id": "person:scott-aaronson",
+    "label": "Scott Aaronson (theoretical computer scientist)",
+    "aliases": []
+  },
+  {
+    "id": "person:deborah-franke",
+    "label": "Deborah Franke",
+    "aliases": []
+  },
+  {
+    "id": "person:vern-brownell",
+    "label": "Vern Brownell",
+    "aliases": []
+  },
+  {
+    "id": "person:matthew-urwin",
+    "label": "Matthew Urwin",
+    "aliases": []
+  },
+  {
+    "id": "person:c.m",
+    "label": "C.M.",
+    "aliases": []
+  },
+  {
+    "id": "person:fuchs",
+    "label": "Fuchs",
+    "aliases": []
+  },
+  {
+    "id": "person:mermin",
+    "label": "Mermin",
+    "aliases": []
+  },
+  {
+    "id": "person:schack",
+    "label": "Schack",
+    "aliases": []
+  },
+  {
+    "id": "person:bruno-de-finetti",
+    "label": "Bruno de Finetti",
+    "aliases": []
+  },
+  {
+    "id": "person:wolfgang-pauli",
+    "label": "Wolfgang Pauli",
+    "aliases": []
+  },
+  {
+    "id": "person:j.a",
+    "label": "J.A.",
+    "aliases": []
+  },
+  {
+    "id": "person:caves",
+    "label": "Caves",
+    "aliases": []
+  },
+  {
+    "id": "person:stacey",
+    "label": "Stacey",
+    "aliases": []
+  },
+  {
+    "id": "person:stapp",
+    "label": "Stapp",
+    "aliases": []
+  },
+  {
+    "id": "person:bchtold",
+    "label": "Bächtold",
+    "aliases": []
+  },
+  {
+    "id": "person:healey",
+    "label": "Healey",
+    "aliases": []
+  },
+  {
+    "id": "person:friederich",
+    "label": "Friederich",
+    "aliases": []
+  },
+  {
+    "id": "person:brukner",
+    "label": "Brukner",
+    "aliases": []
+  },
+  {
+    "id": "person:zeilinger",
+    "label": "Zeilinger",
+    "aliases": []
+  },
+  {
+    "id": "person:david-lewis",
+    "label": "David Lewis",
+    "aliases": []
+  },
+  {
+    "id": "person:podolsky",
+    "label": "Podolsky",
+    "aliases": []
+  },
+  {
+    "id": "person:rosen",
+    "label": "Rosen",
+    "aliases": []
+  },
+  {
+    "id": "person:dirac",
+    "label": "Dirac",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-fuchs",
+    "label": "Richard Fuchs",
+    "aliases": []
+  },
+  {
+    "id": "person:bas-van-fraassen",
+    "label": "Bas van Fraassen",
+    "aliases": []
+  },
+  {
+    "id": "person:timpson-1",
+    "label": "Timpson (2008)",
+    "aliases": []
+  },
+  {
+    "id": "person:bacciagaluppi-2",
+    "label": "Bacciagaluppi (2014)",
+    "aliases": []
+  },
+  {
+    "id": "person:brown-1",
+    "label": "Brown (2019)",
+    "aliases": []
+  },
+  {
+    "id": "person:fuchs-and-schack",
+    "label": "Fuchs and Schack (2015)",
+    "aliases": []
+  },
+  {
+    "id": "person:debrota",
+    "label": "DeBrota",
+    "aliases": []
+  },
+  {
+    "id": "person:stairs",
+    "label": "Stairs (2011)",
+    "aliases": []
+  },
+  {
+    "id": "person:myrvold-4",
+    "label": "Myrvold (2020a,b)",
+    "aliases": []
+  },
+  {
+    "id": "person:pusey",
+    "label": "Pusey",
+    "aliases": []
+  },
+  {
+    "id": "person:barrett",
+    "label": "Barrett",
+    "aliases": []
+  },
+  {
+    "id": "person:rudolph",
+    "label": "Rudolph",
+    "aliases": []
+  },
+  {
+    "id": "person:harrigan",
+    "label": "Harrigan",
+    "aliases": []
+  },
+  {
+    "id": "person:spekkens-1",
+    "label": "Spekkens",
+    "aliases": []
+  },
+  {
+    "id": "person:barzegar",
+    "label": "Barzegar (2020)",
+    "aliases": []
+  },
+  {
+    "id": "person:zwirn",
+    "label": "Zwirn",
+    "aliases": []
+  },
+  {
+    "id": "person:debrota-and-stacey",
+    "label": "DeBrota and Stacey (2019)",
+    "aliases": []
+  },
+  {
+    "id": "person:charles-sanders-peirce",
+    "label": "Charles Sanders Peirce",
+    "aliases": []
+  },
+  {
+    "id": "person:john-dewey",
+    "label": "John Dewey",
+    "aliases": []
+  },
+  {
+    "id": "person:william-james",
+    "label": "William James (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:heinz-bchtold",
+    "label": "Heinz Bächtold",
+    "aliases": []
+  },
+  {
+    "id": "person:alain-peres",
+    "label": "Alain Peres",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-randell-healey",
+    "label": "Andrew Randell Healey",
+    "aliases": []
+  },
+  {
+    "id": "person:huw-price",
+    "label": "Huw Price",
+    "aliases": []
+  },
+  {
+    "id": "person:michael-stairs",
+    "label": "Michael Stairs",
+    "aliases": []
+  },
+  {
+    "id": "person:de-finetti",
+    "label": "de Finetti",
+    "aliases": []
+  },
+  {
+    "id": "person:jansson",
+    "label": "Jansson (2020)",
+    "aliases": []
+  },
+  {
+    "id": "person:lewis-1",
+    "label": "Lewis (2020)",
+    "aliases": []
+  },
+  {
+    "id": "person:healey-1",
+    "label": "Healey (2017a)",
+    "aliases": []
+  },
+  {
+    "id": "person:healey-2",
+    "label": "Healey (2020)",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-healey",
+    "label": "Richard Healey",
+    "aliases": []
+  },
+  {
+    "id": "person:nino-harrigan",
+    "label": "Nino Harrigan",
+    "aliases": []
+  },
+  {
+    "id": "person:roger-colbeck",
+    "label": "Roger Colbeck",
+    "aliases": []
+  },
+  {
+    "id": "person:sabine-hossenfelder",
+    "label": "Sabine Hossenfelder",
+    "aliases": []
+  },
+  {
+    "id": "person:bouwmeester",
+    "label": "Bouwmeester (Brukner)",
+    "aliases": []
+  },
+  {
+    "id": "person:carl-friedrich-von-weizscker",
+    "label": "Carl Friedrich von Weizsäcker",
+    "aliases": []
+  },
+  {
+    "id": "person:manuel-bchtold",
+    "label": "Manuel Bächtold",
+    "aliases": []
+  },
+  {
+    "id": "person:eric-g.-cavalcanti",
+    "label": "Eric G. Cavalcanti",
+    "aliases": []
+  },
+  {
+    "id": "person:raymond-lal",
+    "label": "Raymond Lal",
+    "aliases": []
+  },
+  {
+    "id": "person:owen-j.e.-maroney",
+    "label": "Owen J.E. Maroney",
+    "aliases": []
+  },
+  {
+    "id": "person:ali-barzegar",
+    "label": "Ali Barzegar",
+    "aliases": []
+  },
+  {
+    "id": "person:john-s.-bell-1",
+    "label": "John S. Bell",
+    "aliases": []
+  },
+  {
+    "id": "person:ingemaar-bengtsson",
+    "label": "Ingemaar Bengtsson",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-b.-brandom",
+    "label": "Robert B. Brandom",
+    "aliases": []
+  },
+  {
+    "id": "person:harvey-r.-brown",
+    "label": "Harvey R. Brown",
+    "aliases": []
+  },
+  {
+    "id": "person:aslav-brukner",
+    "label": "Časlav Brukner",
+    "aliases": []
+  },
+  {
+    "id": "person:rudolph-carnap",
+    "label": "Rudolph Carnap",
+    "aliases": []
+  },
+  {
+    "id": "person:carlton-m.-caves",
+    "label": "Carlton M. Caves",
+    "aliases": []
+  },
+  {
+    "id": "person:john-b.-debrota",
+    "label": "John B. DeBrota",
+    "aliases": []
+  },
+  {
+    "id": "person:jacques-l.-pienaar",
+    "label": "Jacques L. Pienaar",
+    "aliases": []
+  },
+  {
+    "id": "person:blake-c.-stacey",
+    "label": "Blake C. Stacey",
+    "aliases": []
+  },
+  {
+    "id": "person:paul-a.m.-dirac",
+    "label": "Paul A.M. Dirac",
+    "aliases": []
+  },
+  {
+    "id": "person:simon-friederich",
+    "label": "Simon Friederich",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-a.-fuchs-1",
+    "label": "Christopher A. Fuchs (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:nicholas-harrigan",
+    "label": "Nicholas Harrigan",
+    "aliases": []
+  },
+  {
+    "id": "person:lina-jansson",
+    "label": "Lina Jansson",
+    "aliases": []
+  },
+  {
+    "id": "person:l.d.-landau",
+    "label": "L.D. Landau",
+    "aliases": []
+  },
+  {
+    "id": "person:e.m.-lifshitz",
+    "label": "E.M. Lifshitz",
+    "aliases": []
+  },
+  {
+    "id": "person:david-k.-lewis",
+    "label": "David K. Lewis",
+    "aliases": []
+  },
+  {
+    "id": "person:david-lewis-1",
+    "label": "David Lewis (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:meir-hemmo",
+    "label": "Meir Hemmo",
+    "aliases": []
+  },
+  {
+    "id": "person:orly-shenker",
+    "label": "Orly Shenker",
+    "aliases": []
+  },
+  {
+    "id": "person:steven-french-1",
+    "label": "Steven French (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:juha-saatsi-1",
+    "label": "Juha Saatsi (philosopher)",
+    "aliases": []
+  },
+  {
+    "id": "person:e.m.-rasel",
+    "label": "E.M. Rasel",
+    "aliases": []
+  },
+  {
+    "id": "person:w.p.-schleich",
+    "label": "W.P. Schleich",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-wlk",
+    "label": "S. Wölk",
+    "aliases": []
+  },
+  {
+    "id": "person:bertlmann",
+    "label": "Bertlmann (author)",
+    "aliases": []
+  },
+  {
+    "id": "person:quantum-theory-as-a-subject",
+    "label": "Quantum theory as a subject",
+    "aliases": []
+  },
+  {
+    "id": "person:cambridge-university",
+    "label": "Cambridge University (publisher)",
+    "aliases": []
+  },
+  {
+    "id": "person:oxford-university-press",
+    "label": "Oxford University Press (publisher)",
+    "aliases": []
+  },
+  {
+    "id": "person:springer-nature-switzerland",
+    "label": "Springer Nature Switzerland (publisher)",
+    "aliases": []
+  },
+  {
+    "id": "person:quantum-bayesianism",
+    "label": "Quantum Bayesianism",
+    "aliases": []
+  },
+  {
+    "id": "person:qbism",
+    "label": "QBism",
+    "aliases": []
+  },
+  {
+    "id": "person:pragmatism-in-quantum-theory",
+    "label": "Pragmatism in quantum theory",
+    "aliases": []
+  },
+  {
+    "id": "person:objective-information-in-quantum-physics",
+    "label": "Objective information in quantum physics",
+    "aliases": []
+  },
+  {
+    "id": "person:scientific-realism",
+    "label": "Scientific realism",
+    "aliases": []
+  },
+  {
+    "id": "person:quantum-state-realism",
+    "label": "Quantum state realism",
+    "aliases": []
+  },
+  {
+    "id": "person:copenhagen-interpretation",
+    "label": "Copenhagen interpretation",
+    "aliases": []
+  },
+  {
+    "id": "person:subjectivists-in-quantum-theory",
+    "label": "Subjectivists in quantum theory",
+    "aliases": []
+  },
+  {
+    "id": "person:quantum-theory",
+    "label": "Quantum theory (discipline)",
+    "aliases": []
+  },
+  {
+    "id": "person:quantum-mechanics",
+    "label": "Quantum mechanics",
+    "aliases": []
+  },
+  {
+    "id": "person:mario-bunge",
+    "label": "Mario Bunge",
+    "aliases": []
+  },
+  {
+    "id": "person:matthew-pusey",
+    "label": "Matthew Pusey",
+    "aliases": []
+  },
+  {
+    "id": "person:joseph-m.-renes",
+    "label": "Joseph M. Renes",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-james-scott",
+    "label": "Andrew James Scott",
+    "aliases": []
+  },
+  {
+    "id": "person:christopher-timpson",
+    "label": "Christopher Timpson",
+    "aliases": []
+  },
+  {
+    "id": "person:bryan-de-vries",
+    "label": "Bryan de Vries (Bas van Fraassen)",
+    "aliases": []
+  },
+  {
+    "id": "person:hans-christian-von-baeyer",
+    "label": "Hans Christian von Baeyer",
+    "aliases": []
+  },
+  {
+    "id": "person:herv-zwirn",
+    "label": "Hervé Zwirn",
+    "aliases": []
+  },
+  {
+    "id": "person:john-debrota",
+    "label": "John DeBrota",
+    "aliases": []
+  },
+  {
+    "id": "person:scott-buchholz",
+    "label": "Scott Buchholz (Managing Director, Deloitte Consulting LLP)",
+    "aliases": []
+  },
+  {
+    "id": "person:beena",
+    "label": "Beena (Executive Director, Deloitte Global AI Institute)",
+    "aliases": []
+  },
+  {
+    "id": "person:scott-buchholz-1",
+    "label": "Scott Buchholz (Deloitte Consulting)",
+    "aliases": []
+  },
+  {
+    "id": "person:beena-ammanath",
+    "label": "Beena Ammanath (Deloitte AI Institute)",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-solovay",
+    "label": "Robert Solovay (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-shor-2",
+    "label": "Peter Shor (mathematician)",
+    "aliases": []
+  },
+  {
+    "id": "person:frank-arute",
+    "label": "Frank Arute (Google Researcher)",
+    "aliases": []
+  },
+  {
+    "id": "person:vadim-lyubashevsky",
+    "label": "Vadim Lyubashevsky (cryptographer)",
+    "aliases": []
+  },
+  {
+    "id": "person:mceliece",
+    "label": "McEliece (cryptographer)",
+    "aliases": []
+  },
+  {
+    "id": "person:ciaran-gillman",
+    "label": "Ciaran Gillman",
+    "aliases": []
+  },
+  {
+    "id": "person:kane",
+    "label": "Kane (researcher)",
+    "aliases": []
+  },
+  {
+    "id": "person:david-gidney",
+    "label": "David Gidney (researcher)",
+    "aliases": []
+  },
+  {
+    "id": "person:martin-eker",
+    "label": "Martin Ekerå (researcher)",
+    "aliases": []
+  },
+  {
+    "id": "person:harrigan-1",
+    "label": "Harrigan (researcher)",
+    "aliases": []
+  },
+  {
+    "id": "person:erik-brynjolfsson",
+    "label": "Erik Brynjolfsson (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:andrew-mcafee",
+    "label": "Andrew McAfee (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:arute-f",
+    "label": "Arute, F.",
+    "aliases": []
+  },
+  {
+    "id": "person:aspuru-guzik-a",
+    "label": "Aspuru-Guzik, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:biamonte-j",
+    "label": "Biamonte, J.",
+    "aliases": []
+  },
+  {
+    "id": "person:bremnes-h",
+    "label": "Bremnes, H.",
+    "aliases": []
+  },
+  {
+    "id": "person:bennett-c.-h",
+    "label": "Bennett, C. H.",
+    "aliases": []
+  },
+  {
+    "id": "person:brassard-g",
+    "label": "Brassard, G.",
+    "aliases": []
+  },
+  {
+    "id": "person:gisin-n",
+    "label": "Gisin, N.",
+    "aliases": []
+  },
+  {
+    "id": "person:grover-l.-k",
+    "label": "Grover, L. K.",
+    "aliases": []
+  },
+  {
+    "id": "person:kandala-a",
+    "label": "Kandala, A.",
+    "aliases": []
+  },
+  {
+    "id": "person:kane-r.-m",
+    "label": "Kane, R. M.",
+    "aliases": []
+  },
+  {
+    "id": "person:lidar-d.-a",
+    "label": "Lidar, D. A.",
+    "aliases": []
+  },
+  {
+    "id": "person:kumar-p",
+    "label": "Kumar, P.",
+    "aliases": []
+  },
+  {
+    "id": "person:lyubashevsky-v",
+    "label": "Lyubashevsky, V.",
+    "aliases": []
+  },
+  {
+    "id": "person:e.-schrdinger",
+    "label": "E. Schrödinger",
+    "aliases": []
+  },
+  {
+    "id": "person:p.-w.-shor",
+    "label": "P. W. Shor",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-m.-solovay",
+    "label": "R. M. Solovay",
+    "aliases": []
   }
 ]
