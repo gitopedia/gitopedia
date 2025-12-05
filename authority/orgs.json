@@ -883,5 +883,2105 @@
     "id": "org:northrop-grumman",
     "label": "Northrop Grumman",
     "aliases": []
+  },
+  {
+    "id": "org:google",
+    "label": "Google",
+    "aliases": []
+  },
+  {
+    "id": "org:cqist-center-for-quantum-information-science-technology",
+    "label": "CQIST Center for Quantum Information Science \u0026 Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:cquic-center-for-quantum-information-and-control",
+    "label": "CQuIC Center for Quantum Information and Control",
+    "aliases": []
+  },
+  {
+    "id": "org:cqt-centre-for-quantum-technologies",
+    "label": "CQT Centre for Quantum Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:cqc2t-centre-for-quantum-computation-and-communication-technology",
+    "label": "CQC2T Centre for Quantum Computation and Communication Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:qstlsu-quantum-science-and-technologies-group",
+    "label": "QST@LSU Quantum Science and Technologies Group",
+    "aliases": []
+  },
+  {
+    "id": "org:qisttu-delft-msc-programme",
+    "label": "QIST@TU Delft MSc programme",
+    "aliases": []
+  },
+  {
+    "id": "org:qiic-quantum-information-imperial-college-london",
+    "label": "QIIC – Quantum Information, Imperial College London",
+    "aliases": []
+  },
+  {
+    "id": "org:qip-quantum-information-group-university-of-leeds",
+    "label": "QIP – Quantum Information Group, University of Leeds",
+    "aliases": []
+  },
+  {
+    "id": "org:mathqi-research-group-on-mathematics-and-quantum-information",
+    "label": "mathQI Research Group on Mathematics and Quantum Information",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-government",
+    "label": "United States government",
+    "aliases": []
+  },
+  {
+    "id": "org:national-quantum-initiative",
+    "label": "National Quantum Initiative",
+    "aliases": []
+  },
+  {
+    "id": "org:jila",
+    "label": "JILA",
+    "aliases": []
+  },
+  {
+    "id": "org:joint-quantum-institute",
+    "label": "Joint Quantum Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-colorado",
+    "label": "University of Colorado",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-maryland",
+    "label": "University of Maryland",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-economic-development-consortium",
+    "label": "Quantum Economic Development Consortium",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-nebraska-lincoln",
+    "label": "University of Nebraska-Lincoln",
+    "aliases": []
+  },
+  {
+    "id": "org:osprey",
+    "label": "Osprey",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon-web-services",
+    "label": "Amazon Web Services",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon-braket",
+    "label": "Amazon Braket",
+    "aliases": []
+  },
+  {
+    "id": "org:rigetti-computing",
+    "label": "Rigetti Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:ionq",
+    "label": "IonQ",
+    "aliases": []
+  },
+  {
+    "id": "org:qiskit",
+    "label": "Qiskit",
+    "aliases": []
+  },
+  {
+    "id": "org:sycamore",
+    "label": "Sycamore",
+    "aliases": []
+  },
+  {
+    "id": "org:azoquantum",
+    "label": "AZoQuantum",
+    "aliases": []
+  },
+  {
+    "id": "org:esa",
+    "label": "ESA",
+    "aliases": []
+  },
+  {
+    "id": "org:vigil",
+    "label": "Vigil",
+    "aliases": []
+  },
+  {
+    "id": "org:sidekick-qcl-controller",
+    "label": "SideKick QCL Controller",
+    "aliases": []
+  },
+  {
+    "id": "org:labone-q",
+    "label": "LabOne Q",
+    "aliases": []
+  },
+  {
+    "id": "org:zurich-instruments",
+    "label": "Zurich Instruments",
+    "aliases": []
+  },
+  {
+    "id": "org:warwick",
+    "label": "Warwick",
+    "aliases": []
+  },
+  {
+    "id": "org:national-research-council-of-canada",
+    "label": "National Research Council of Canada",
+    "aliases": []
+  },
+  {
+    "id": "org:columbia-university",
+    "label": "Columbia University",
+    "aliases": []
+  },
+  {
+    "id": "org:ramtech-limited",
+    "label": "RAMTECH LIMITED",
+    "aliases": []
+  },
+  {
+    "id": "org:springer",
+    "label": "Springer",
+    "aliases": []
+  },
+  {
+    "id": "org:mit",
+    "label": "MIT",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-center-for-theoretical-physics",
+    "label": "MIT Center for Theoretical Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:leinweber-institute",
+    "label": "Leinweber Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-center-for-theoretical-physics-a-leinweber-institute",
+    "label": "MIT Center for Theoretical Physics — a Leinweber Institute (CTP-LI)",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-laboratory-for-nuclear-science",
+    "label": "MIT Laboratory for Nuclear Science (LNS)",
+    "aliases": []
+  },
+  {
+    "id": "org:nagoya-university",
+    "label": "Nagoya University",
+    "aliases": []
+  },
+  {
+    "id": "org:kyoto-university",
+    "label": "Kyoto University",
+    "aliases": []
+  },
+  {
+    "id": "org:riken",
+    "label": "RIKEN",
+    "aliases": []
+  },
+  {
+    "id": "org:japan-science-and-technology-agency",
+    "label": "Japan Science and Technology Agency (JST)",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-tokyo",
+    "label": "University of Tokyo",
+    "aliases": []
+  },
+  {
+    "id": "org:national-university-of-singapore",
+    "label": "National University of Singapore",
+    "aliases": []
+  },
+  {
+    "id": "org:tohoku-university",
+    "label": "Tohoku University",
+    "aliases": []
+  },
+  {
+    "id": "org:graduate-texts-in-physics",
+    "label": "Graduate Texts in Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:springer-berlin-heidelberg",
+    "label": "Springer Berlin, Heidelberg",
+    "aliases": []
+  },
+  {
+    "id": "org:springer-verlag",
+    "label": "Springer-Verlag",
+    "aliases": []
+  },
+  {
+    "id": "org:world-scientific-publishing",
+    "label": "World Scientific Publishing",
+    "aliases": []
+  },
+  {
+    "id": "org:arxiv",
+    "label": "arXiv",
+    "aliases": []
+  },
+  {
+    "id": "org:arxivlabs",
+    "label": "arXivLabs",
+    "aliases": []
+  },
+  {
+    "id": "org:wikipedia",
+    "label": "Wikipedia",
+    "aliases": []
+  },
+  {
+    "id": "org:wikimedia-foundation",
+    "label": "Wikimedia Foundation",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-press",
+    "label": "MIT Press",
+    "aliases": []
+  },
+  {
+    "id": "org:oxford-university-press",
+    "label": "Oxford University Press",
+    "aliases": []
+  },
+  {
+    "id": "org:saha-institute-of-nuclear-physics",
+    "label": "Saha Institute of Nuclear Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:max-planck-institute-of-quantum-optics",
+    "label": "Max Planck Institute of Quantum Optics",
+    "aliases": []
+  },
+  {
+    "id": "org:universit-de-montral",
+    "label": "Université de Montréal",
+    "aliases": []
+  },
+  {
+    "id": "org:atts-bell-labs",
+    "label": "AT\u0026T's Bell Labs",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-castillala-mancha",
+    "label": "University of Castilla–La Mancha",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-innsbruck",
+    "label": "University of Innsbruck",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-department-of-defense",
+    "label": "United States Department of Defense",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-army",
+    "label": "United States Army",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-arizona",
+    "label": "University of Arizona",
+    "aliases": []
+  },
+  {
+    "id": "org:bell-labs",
+    "label": "Bell Labs",
+    "aliases": []
+  },
+  {
+    "id": "org:army-research-office",
+    "label": "Army Research Office",
+    "aliases": []
+  },
+  {
+    "id": "org:army-research-laboratory",
+    "label": "Army Research Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:national-security-agency",
+    "label": "National Security Agency",
+    "aliases": []
+  },
+  {
+    "id": "org:oxford-university",
+    "label": "Oxford University",
+    "aliases": []
+  },
+  {
+    "id": "org:ibms-almaden-research-center",
+    "label": "IBM's Almaden Research Center",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-california-berkeley",
+    "label": "University of California, Berkeley",
+    "aliases": []
+  },
+  {
+    "id": "org:stanford-university",
+    "label": "Stanford University",
+    "aliases": []
+  },
+  {
+    "id": "org:massachusetts-institute-of-technology",
+    "label": "Massachusetts Institute of Technology (MIT)",
+    "aliases": []
+  },
+  {
+    "id": "org:tokyo-institute-of-technology",
+    "label": "Tokyo Institute of Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:technical-university-of-munich",
+    "label": "Technical University of Munich",
+    "aliases": []
+  },
+  {
+    "id": "org:los-alamos-national-laboratory",
+    "label": "Los Alamos National Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-information-science-and-technology-roadmapping-project",
+    "label": "Quantum Information Science and Technology Roadmapping Project",
+    "aliases": []
+  },
+  {
+    "id": "org:institute-for-quantum-computing",
+    "label": "Institute for Quantum Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:tu-darmstadt",
+    "label": "TU Darmstadt",
+    "aliases": []
+  },
+  {
+    "id": "org:johns-hopkins-university",
+    "label": "Johns Hopkins University",
+    "aliases": []
+  },
+  {
+    "id": "org:applied-physics-laboratory",
+    "label": "Applied Physics Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-queensland",
+    "label": "University of Queensland",
+    "aliases": []
+  },
+  {
+    "id": "org:darpa-quantum-network",
+    "label": "DARPA Quantum Network",
+    "aliases": []
+  },
+  {
+    "id": "org:institute-for-quantum-optics-and-quantum-information",
+    "label": "Institute for Quantum Optics and Quantum Information (IQOQI)",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-science-and-technology-of-china",
+    "label": "University of Science and Technology of China",
+    "aliases": []
+  },
+  {
+    "id": "org:georgia-institute-of-technology",
+    "label": "Georgia Institute of Technology (US)",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-leeds",
+    "label": "University of Leeds",
+    "aliases": []
+  },
+  {
+    "id": "org:japan-science-and-technology-agency-1",
+    "label": "Japan Science and Technology Agency",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-sheffield",
+    "label": "University of Sheffield",
+    "aliases": []
+  },
+  {
+    "id": "org:perimeter-institute-for-theoretical-physics",
+    "label": "Perimeter Institute for Theoretical Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-bonn",
+    "label": "University of Bonn",
+    "aliases": []
+  },
+  {
+    "id": "org:delft-university-of-technology",
+    "label": "Delft University of Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-arkansas",
+    "label": "University of Arkansas",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-copenhagen",
+    "label": "University of Copenhagen",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-camerino",
+    "label": "University of Camerino",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-utah",
+    "label": "University of Utah",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-cambridge",
+    "label": "University of Cambridge",
+    "aliases": []
+  },
+  {
+    "id": "org:d-wave-systems",
+    "label": "D-Wave Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-bristol",
+    "label": "University of Bristol (U.K.)",
+    "aliases": []
+  },
+  {
+    "id": "org:1qb-information-technologies",
+    "label": "1QB Information Technologies (1QBit)",
+    "aliases": []
+  },
+  {
+    "id": "org:d-wave-systems-incorporated",
+    "label": "D-Wave Systems Incorporated",
+    "aliases": []
+  },
+  {
+    "id": "org:martinis-group",
+    "label": "Martinis group",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-california-santa-barbara",
+    "label": "University of California, Santa Barbara (UCSB)",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-experience",
+    "label": "Quantum Experience",
+    "aliases": []
+  },
+  {
+    "id": "org:azure",
+    "label": "Azure",
+    "aliases": []
+  },
+  {
+    "id": "org:qutech",
+    "label": "QuTech",
+    "aliases": []
+  },
+  {
+    "id": "org:national-quantum-initiative-act",
+    "label": "National Quantum Initiative Act",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-q-system-one",
+    "label": "IBM Q System One",
+    "aliases": []
+  },
+  {
+    "id": "org:goppion",
+    "label": "Goppion",
+    "aliases": []
+  },
+  {
+    "id": "org:intel",
+    "label": "Intel",
+    "aliases": []
+  },
+  {
+    "id": "org:tangle-lake",
+    "label": "Tangle Lake",
+    "aliases": []
+  },
+  {
+    "id": "org:d1d",
+    "label": "D1D",
+    "aliases": []
+  },
+  {
+    "id": "org:unsw-sydney",
+    "label": "UNSW Sydney",
+    "aliases": []
+  },
+  {
+    "id": "org:googles-sycamore",
+    "label": "Google's Sycamore",
+    "aliases": []
+  },
+  {
+    "id": "org:iqm",
+    "label": "IQM",
+    "aliases": []
+  },
+  {
+    "id": "org:honeywell",
+    "label": "Honeywell",
+    "aliases": []
+  },
+  {
+    "id": "org:xanadu",
+    "label": "Xanadu",
+    "aliases": []
+  },
+  {
+    "id": "org:azure-quantum",
+    "label": "Azure Quantum",
+    "aliases": []
+  },
+  {
+    "id": "org:cold-atom-laboratory",
+    "label": "Cold Atom Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:bmw",
+    "label": "BMW",
+    "aliases": []
+  },
+  {
+    "id": "org:imec",
+    "label": "IMEC",
+    "aliases": []
+  },
+  {
+    "id": "org:chalmers-university-of-technology",
+    "label": "Chalmers University of Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:google-sycamore-quantum-computer",
+    "label": "Google Sycamore quantum computer",
+    "aliases": []
+  },
+  {
+    "id": "org:jiuzhang",
+    "label": "Jiuzhang",
+    "aliases": []
+  },
+  {
+    "id": "org:seti",
+    "label": "SETI",
+    "aliases": []
+  },
+  {
+    "id": "org:toshiba",
+    "label": "Toshiba",
+    "aliases": []
+  },
+  {
+    "id": "org:rigetti",
+    "label": "Rigetti",
+    "aliases": []
+  },
+  {
+    "id": "org:chinese-researchers",
+    "label": "Chinese researchers",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-waterloo",
+    "label": "University of Waterloo",
+    "aliases": []
+  },
+  {
+    "id": "org:quantinuum",
+    "label": "Quantinuum",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-new-south-wales",
+    "label": "University of New South Wales",
+    "aliases": []
+  },
+  {
+    "id": "org:max-planck-institute-for-quantum-optics",
+    "label": "Max Planck Institute for Quantum Optics",
+    "aliases": []
+  },
+  {
+    "id": "org:alpine-quantum-technologies",
+    "label": "Alpine Quantum Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:atom-computing",
+    "label": "Atom Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:harvard-university",
+    "label": "Harvard University",
+    "aliases": []
+  },
+  {
+    "id": "org:jiuzhang-2",
+    "label": "Jiuzhang 2",
+    "aliases": []
+  },
+  {
+    "id": "org:zuchongzhi-2",
+    "label": "Zuchongzhi 2",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-eagle",
+    "label": "IBM Eagle",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-osprey",
+    "label": "IBM Osprey",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-condor",
+    "label": "IBM Condor",
+    "aliases": []
+  },
+  {
+    "id": "org:ucl",
+    "label": "UCL",
+    "aliases": []
+  },
+  {
+    "id": "org:california-institute-of-technology",
+    "label": "California Institute of Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:epfl",
+    "label": "EPFL",
+    "aliases": []
+  },
+  {
+    "id": "org:alice-bob",
+    "label": "Alice \u0026 Bob",
+    "aliases": []
+  },
+  {
+    "id": "org:paul-scherrer-institute",
+    "label": "Paul Scherrer Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:photonic",
+    "label": "Photonic",
+    "aliases": []
+  },
+  {
+    "id": "org:brown-university",
+    "label": "Brown University",
+    "aliases": []
+  },
+  {
+    "id": "org:northwestern-university",
+    "label": "Northwestern University",
+    "aliases": []
+  },
+  {
+    "id": "org:empa",
+    "label": "Empa",
+    "aliases": []
+  },
+  {
+    "id": "org:oak-ridge-national-laboratory",
+    "label": "Oak Ridge National Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-tennessee",
+    "label": "University of Tennessee",
+    "aliases": []
+  },
+  {
+    "id": "org:osaka-metropolitan-university",
+    "label": "Osaka Metropolitan University",
+    "aliases": []
+  },
+  {
+    "id": "org:jpmorganchase",
+    "label": "JPMorganChase",
+    "aliases": []
+  },
+  {
+    "id": "org:openqasm",
+    "label": "OpenQASM",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-qx",
+    "label": "IBM QX",
+    "aliases": []
+  },
+  {
+    "id": "org:quil",
+    "label": "Quil",
+    "aliases": []
+  },
+  {
+    "id": "org:forest",
+    "label": "Forest",
+    "aliases": []
+  },
+  {
+    "id": "org:rigetti-qcs",
+    "label": "Rigetti QCS",
+    "aliases": []
+  },
+  {
+    "id": "org:dos",
+    "label": "DOS",
+    "aliases": []
+  },
+  {
+    "id": "org:windows",
+    "label": "Windows",
+    "aliases": []
+  },
+  {
+    "id": "org:linux",
+    "label": "Linux",
+    "aliases": []
+  },
+  {
+    "id": "org:nec",
+    "label": "NEC",
+    "aliases": []
+  },
+  {
+    "id": "org:quera",
+    "label": "QuEra",
+    "aliases": []
+  },
+  {
+    "id": "org:aws",
+    "label": "AWS",
+    "aliases": []
+  },
+  {
+    "id": "org:unity-technologies",
+    "label": "Unity Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:dell-technologies",
+    "label": "Dell Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:hpe",
+    "label": "HPE",
+    "aliases": []
+  },
+  {
+    "id": "org:computerweekly.com",
+    "label": "ComputerWeekly.com",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-melbourne",
+    "label": "University of Melbourne",
+    "aliases": []
+  },
+  {
+    "id": "org:swedish-researchers",
+    "label": "Swedish researchers",
+    "aliases": []
+  },
+  {
+    "id": "org:microsoft-azure",
+    "label": "Microsoft Azure",
+    "aliases": []
+  },
+  {
+    "id": "org:cloudformation",
+    "label": "CloudFormation",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-quantum-network",
+    "label": "IBM Quantum Network",
+    "aliases": []
+  },
+  {
+    "id": "org:qiskit-ecosystem",
+    "label": "Qiskit ecosystem",
+    "aliases": []
+  },
+  {
+    "id": "org:cleveland-clinic",
+    "label": "Cleveland Clinic",
+    "aliases": []
+  },
+  {
+    "id": "org:cloudflare",
+    "label": "Cloudflare",
+    "aliases": []
+  },
+  {
+    "id": "org:stanford-encyclopedia-of-philosophy",
+    "label": "Stanford Encyclopedia of Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "org:the-routledge-companion-to-philosophy-of-physics",
+    "label": "The Routledge Companion to Philosophy of Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:the-oxford-handbook-of-the-history-of-quantum-interpretations",
+    "label": "The Oxford Handbook of the History of Quantum Interpretations",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-cambridge-1",
+    "label": "University of Cambridge (Dirac's affiliation)",
+    "aliases": []
+  },
+  {
+    "id": "org:studies-in-history-and-philosophy-of-modern-physics",
+    "label": "Studies in History and Philosophy of Modern Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:proceedings-of-the-royal-society-of-london-a",
+    "label": "Proceedings of the Royal Society of London A",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-statistical-physics",
+    "label": "Journal of Statistical Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:kluwer-academic-publishers",
+    "label": "Kluwer Academic Publishers",
+    "aliases": []
+  },
+  {
+    "id": "org:physical-review",
+    "label": "Physical Review",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-the-franklin-institute",
+    "label": "Journal of the Franklin Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:open-court",
+    "label": "Open Court",
+    "aliases": []
+  },
+  {
+    "id": "org:dialectica",
+    "label": "Dialectica",
+    "aliases": []
+  },
+  {
+    "id": "org:crown-publishers-inc",
+    "label": "Crown Publishers, Inc.",
+    "aliases": []
+  },
+  {
+    "id": "org:european-journal-for-philosophy-of-science",
+    "label": "European Journal for Philosophy of Science",
+    "aliases": []
+  },
+  {
+    "id": "org:bell-and-gao",
+    "label": "Bell and Gao",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-communications",
+    "label": "Nature Communications",
+    "aliases": []
+  },
+  {
+    "id": "org:american-journal-of-physics",
+    "label": "American Journal of Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:communications-in-mathematical-physics",
+    "label": "Communications in Mathematical Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:philosophy-of-science",
+    "label": "Philosophy of Science",
+    "aliases": []
+  },
+  {
+    "id": "org:routledge",
+    "label": "Routledge",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-mathematics-and-mechanics",
+    "label": "Journal of Mathematics and Mechanics",
+    "aliases": []
+  },
+  {
+    "id": "org:quanta",
+    "label": "Quanta",
+    "aliases": []
+  },
+  {
+    "id": "org:the-british-journal-for-the-philosophy-of-science",
+    "label": "The British Journal for the Philosophy of Science",
+    "aliases": []
+  },
+  {
+    "id": "org:philosophical-topics",
+    "label": "Philosophical Topics",
+    "aliases": []
+  },
+  {
+    "id": "org:hermann",
+    "label": "Hermann",
+    "aliases": []
+  },
+  {
+    "id": "org:physical-review-a",
+    "label": "Physical Review A",
+    "aliases": []
+  },
+  {
+    "id": "org:zeitschrift-fr-physik",
+    "label": "Zeitschrift für Physik",
+    "aliases": []
+  },
+  {
+    "id": "org:american-mathematical-monthly",
+    "label": "American Mathematical Monthly",
+    "aliases": []
+  },
+  {
+    "id": "org:w.a.-benjamin",
+    "label": "W.A. Benjamin",
+    "aliases": []
+  },
+  {
+    "id": "org:new-journal-of-physics",
+    "label": "New Journal of Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:synthese",
+    "label": "Synthese",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-physics",
+    "label": "Nature Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:foundations-of-physics",
+    "label": "Foundations of Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:international-journal-of-quantum-foundations",
+    "label": "International Journal of Quantum Foundations",
+    "aliases": []
+  },
+  {
+    "id": "org:proceedings-of-the-national-academy-of-sciences",
+    "label": "Proceedings of the National Academy of Sciences",
+    "aliases": []
+  },
+  {
+    "id": "org:helvetica-physica-acta",
+    "label": "Helvetica Physica Acta",
+    "aliases": []
+  },
+  {
+    "id": "org:nos",
+    "label": "Noûs",
+    "aliases": []
+  },
+  {
+    "id": "org:the-wave-function-essays-on-the-metaphysics-of-quantum-mechanics",
+    "label": "The Wave Function: Essays on the Metaphysics of Quantum Mechanics",
+    "aliases": []
+  },
+  {
+    "id": "org:many-worlds-everett-quantum-theory-and-reality",
+    "label": "Many Worlds? Everett, Quantum Theory, and Reality",
+    "aliases": []
+  },
+  {
+    "id": "org:phet-interactive-simulations",
+    "label": "PhET Interactive Simulations",
+    "aliases": []
+  },
+  {
+    "id": "org:library-of-congress",
+    "label": "Library of Congress",
+    "aliases": []
+  },
+  {
+    "id": "org:internet-encyclopedia-of-philosophy",
+    "label": "Internet Encyclopedia of Philosophy",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-colorado-boulder",
+    "label": "University of Colorado Boulder",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-sydney",
+    "label": "University of Sydney",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-amsterdam",
+    "label": "University of Amsterdam",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-western-ontario",
+    "label": "University of Western Ontario",
+    "aliases": []
+  },
+  {
+    "id": "org:qbists",
+    "label": "QBists",
+    "aliases": []
+  },
+  {
+    "id": "org:physics-today",
+    "label": "Physics Today",
+    "aliases": []
+  },
+  {
+    "id": "org:new-scientist",
+    "label": "New Scientist",
+    "aliases": []
+  },
+  {
+    "id": "org:scientific-american",
+    "label": "Scientific American",
+    "aliases": []
+  },
+  {
+    "id": "org:nature",
+    "label": "Nature",
+    "aliases": []
+  },
+  {
+    "id": "org:science-news",
+    "label": "Science News",
+    "aliases": []
+  },
+  {
+    "id": "org:fqxi-community",
+    "label": "FQXi Community",
+    "aliases": []
+  },
+  {
+    "id": "org:quanta-magazine",
+    "label": "Quanta Magazine",
+    "aliases": []
+  },
+  {
+    "id": "org:aeon",
+    "label": "Aeon",
+    "aliases": []
+  },
+  {
+    "id": "org:discover",
+    "label": "Discover",
+    "aliases": []
+  },
+  {
+    "id": "org:nautilus-quarterly",
+    "label": "Nautilus Quarterly",
+    "aliases": []
+  },
+  {
+    "id": "org:big-think",
+    "label": "Big Think",
+    "aliases": []
+  },
+  {
+    "id": "org:harvard-university-press",
+    "label": "Harvard University Press",
+    "aliases": []
+  },
+  {
+    "id": "org:enrico-fermi-summer-school",
+    "label": "Enrico Fermi Summer School",
+    "aliases": []
+  },
+  {
+    "id": "org:frankfurter-allgemeine-zeitung",
+    "label": "Frankfurter Allgemeine Zeitung",
+    "aliases": []
+  },
+  {
+    "id": "org:stellenbosch-institute-for-advanced-study",
+    "label": "Stellenbosch Institute for Advanced Study",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-konstanz",
+    "label": "University of Konstanz",
+    "aliases": []
+  },
+  {
+    "id": "org:fqxi-foundational-questions-institute",
+    "label": "FQXi: Foundational Questions Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:the-conversation",
+    "label": "The Conversation",
+    "aliases": []
+  },
+  {
+    "id": "org:the-consultant-global",
+    "label": "The Consultant Global",
+    "aliases": []
+  },
+  {
+    "id": "org:the-consultant",
+    "label": "The Consultant (consultancy company)",
+    "aliases": []
+  },
+  {
+    "id": "org:hitheconsultantglobal.com",
+    "label": "hi@theconsultantglobal.com",
+    "aliases": []
+  },
+  {
+    "id": "org:polaris-qci-publishing",
+    "label": "Polaris QCI Publishing",
+    "aliases": []
+  },
+  {
+    "id": "org:princeton-university",
+    "label": "Princeton University",
+    "aliases": []
+  },
+  {
+    "id": "org:rutgers-university-at-new-brunswick",
+    "label": "Rutgers University at New Brunswick",
+    "aliases": []
+  },
+  {
+    "id": "org:fei-tian-college-middletown",
+    "label": "Fei Tian College, Middletown",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-texas-at-austin",
+    "label": "University of Texas at Austin",
+    "aliases": []
+  },
+  {
+    "id": "org:carnegie-mellon-university",
+    "label": "Carnegie Mellon University",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-california-riverside",
+    "label": "University of California, Riverside",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-rhode-island",
+    "label": "University of Rhode Island",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-california-in-los-angeles",
+    "label": "University of California in Los Angeles",
+    "aliases": []
+  },
+  {
+    "id": "org:new-york-university",
+    "label": "New York University",
+    "aliases": []
+  },
+  {
+    "id": "org:israel-institute-of-technology",
+    "label": "Israel Institute of Technology (Technion)",
+    "aliases": []
+  },
+  {
+    "id": "org:kanagawa-institute-of-technology",
+    "label": "Kanagawa Institute of Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:department-of-physics",
+    "label": "Department of Physics (MIT)",
+    "aliases": []
+  },
+  {
+    "id": "org:mitx",
+    "label": "MITx",
+    "aliases": []
+  },
+  {
+    "id": "org:open-learning-library",
+    "label": "Open Learning Library",
+    "aliases": []
+  },
+  {
+    "id": "org:louisiana-state-university",
+    "label": "Louisiana State University",
+    "aliases": []
+  },
+  {
+    "id": "org:quantumcure-innovations",
+    "label": "QuantumCURE Innovations",
+    "aliases": []
+  },
+  {
+    "id": "org:microsoft-topological-platform",
+    "label": "Microsoft topological platform",
+    "aliases": []
+  },
+  {
+    "id": "org:near-shoemaker",
+    "label": "NEAR Shoemaker",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-almaden-research-center",
+    "label": "IBM Almaden Research Center",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-1",
+    "label": "Nature (journal)",
+    "aliases": []
+  },
+  {
+    "id": "org:institute-for-quantum-computing-1",
+    "label": "Institute for Quantum Computing (University of Waterloo)",
+    "aliases": []
+  },
+  {
+    "id": "org:johns-hopkins-university-applied-physics-laboratory",
+    "label": "Johns Hopkins University Applied Physics Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-york",
+    "label": "University of York",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-illinois-at-urbanachampaign",
+    "label": "University of Illinois at Urbana–Champaign",
+    "aliases": []
+  },
+  {
+    "id": "org:institute-for-quantum-optics-and-quantum-information-1",
+    "label": "Institute for Quantum Optics and Quantum Information",
+    "aliases": []
+  },
+  {
+    "id": "org:georgia-institute-of-technology-1",
+    "label": "Georgia Institute of Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-1",
+    "label": "MIT (Massachusetts Institute of Technology)",
+    "aliases": []
+  },
+  {
+    "id": "org:innsbruck-in-austria",
+    "label": "Innsbruck in Austria",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-bristol-1",
+    "label": "University of Bristol",
+    "aliases": []
+  },
+  {
+    "id": "org:nist-1",
+    "label": "NIST (National Institute of Standards and Technology)",
+    "aliases": []
+  },
+  {
+    "id": "org:apple-computer",
+    "label": "Apple Computer",
+    "aliases": []
+  },
+  {
+    "id": "org:d-wave-systems-inc",
+    "label": "D-Wave Systems Inc.",
+    "aliases": []
+  },
+  {
+    "id": "org:d-wave-one",
+    "label": "D-Wave One",
+    "aliases": []
+  },
+  {
+    "id": "org:1qb-information-technologies-1",
+    "label": "1QB Information Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:1qbit",
+    "label": "1QBit",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-california-santa-barbara-1",
+    "label": "University of California, Santa Barbara",
+    "aliases": []
+  },
+  {
+    "id": "org:darpa",
+    "label": "DARPA",
+    "aliases": []
+  },
+  {
+    "id": "org:quail",
+    "label": "QuAIL",
+    "aliases": []
+  },
+  {
+    "id": "org:oxford",
+    "label": "Oxford",
+    "aliases": []
+  },
+  {
+    "id": "org:map-project-office",
+    "label": "Map Project Office",
+    "aliases": []
+  },
+  {
+    "id": "org:universal-design-studio",
+    "label": "Universal Design Studio",
+    "aliases": []
+  },
+  {
+    "id": "org:us-army-laboratory",
+    "label": "US Army laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:cold-atom-laboratory-1",
+    "label": "Cold Atom Laboratory (International Space Station)",
+    "aliases": []
+  },
+  {
+    "id": "org:chinese-researchers-1",
+    "label": "Chinese researchers (physics and quantum technologies)",
+    "aliases": []
+  },
+  {
+    "id": "org:jiuzhang-1",
+    "label": "Jiuzhang (quantum computer system)",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-oxford",
+    "label": "University of Oxford",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-company-navigator",
+    "label": "Quantum Company Navigator",
+    "aliases": []
+  },
+  {
+    "id": "org:international-journal-of-theoretical-physics",
+    "label": "International Journal of Theoretical Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:proceedings-of-the-royal-society-a",
+    "label": "Proceedings of the Royal Society A",
+    "aliases": []
+  },
+  {
+    "id": "org:proceedings-of-the-35th-annual-symposium-on-foundations-of-computer-science",
+    "label": "Proceedings of the 35th Annual Symposium on Foundations of Computer Science",
+    "aliases": []
+  },
+  {
+    "id": "org:proceedings-of-the-28th-annual-acm-symposium-on-theory-of-computing",
+    "label": "Proceedings of the 28th Annual ACM Symposium on Theory of Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:ursin-et-al",
+    "label": "Ursin et al.",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-zeitgeist",
+    "label": "Quantum Zeitgeist",
+    "aliases": []
+  },
+  {
+    "id": "org:system-model-h2",
+    "label": "System Model H2",
+    "aliases": []
+  },
+  {
+    "id": "org:willow-processor",
+    "label": "Willow processor",
+    "aliases": []
+  },
+  {
+    "id": "org:hadron-llc",
+    "label": "Hadron LLC",
+    "aliases": []
+  },
+  {
+    "id": "org:loihi-2",
+    "label": "Loihi 2",
+    "aliases": []
+  },
+  {
+    "id": "org:hadamard-llc",
+    "label": "Hadamard LLC",
+    "aliases": []
+  },
+  {
+    "id": "org:scientific-reports",
+    "label": "Scientific Reports",
+    "aliases": []
+  },
+  {
+    "id": "org:nature.com",
+    "label": "Nature.com",
+    "aliases": []
+  },
+  {
+    "id": "org:tencirchem",
+    "label": "TenCirChem",
+    "aliases": []
+  },
+  {
+    "id": "org:gaussian",
+    "label": "Gaussian (computational tool)",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-computers",
+    "label": "quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "org:qpu",
+    "label": "QPU",
+    "aliases": []
+  },
+  {
+    "id": "org:cpu",
+    "label": "CPU",
+    "aliases": []
+  },
+  {
+    "id": "org:superconducting-quantum-computers",
+    "label": "superconducting quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "org:trapped-ion-quantum-computers",
+    "label": "trapped-ion quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "org:digital-quantum-computers",
+    "label": "digital quantum computers",
+    "aliases": []
+  },
+  {
+    "id": "org:pyscf",
+    "label": "PySCF",
+    "aliases": []
+  },
+  {
+    "id": "org:gaussian-16",
+    "label": "Gaussian 16",
+    "aliases": []
+  },
+  {
+    "id": "org:tensorcircuit",
+    "label": "TensorCircuit",
+    "aliases": []
+  },
+  {
+    "id": "org:scipy",
+    "label": "SciPy",
+    "aliases": []
+  },
+  {
+    "id": "org:acemapai",
+    "label": "AceMapAI",
+    "aliases": []
+  },
+  {
+    "id": "org:science",
+    "label": "Science",
+    "aliases": []
+  },
+  {
+    "id": "org:bmc-bioinformatics",
+    "label": "BMC Bioinformatics",
+    "aliases": []
+  },
+  {
+    "id": "org:pharmacological-reviews",
+    "label": "Pharmacological Reviews",
+    "aliases": []
+  },
+  {
+    "id": "org:acta-pharmacologica-sinica",
+    "label": "Acta Pharmacologica Sinica",
+    "aliases": []
+  },
+  {
+    "id": "org:artificial-intelligence-review",
+    "label": "Artificial Intelligence Review",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-parallel-and-distributed-computing",
+    "label": "Journal of Parallel and Distributed Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:npj-quantum-information",
+    "label": "npj Quantum Information",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-chemical-information-and-modeling",
+    "label": "Journal of Chemical Information and Modeling",
+    "aliases": []
+  },
+  {
+    "id": "org:wiley-interdisciplinary-reviews-computational-molecular-science",
+    "label": "Wiley Interdisciplinary Reviews: Computational Molecular Science",
+    "aliases": []
+  },
+  {
+    "id": "org:organic-process-research-development",
+    "label": "Organic Process Research \u0026 Development",
+    "aliases": []
+  },
+  {
+    "id": "org:angewandte-chemie-international-edition",
+    "label": "Angewandte Chemie International Edition",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-reviews-drug-discovery",
+    "label": "Nature Reviews Drug Discovery",
+    "aliases": []
+  },
+  {
+    "id": "org:angew.-chem.-int.-ed",
+    "label": "Angew. Chem. Int. Ed.",
+    "aliases": []
+  },
+  {
+    "id": "org:signal-transduct.-target.-ther",
+    "label": "Signal Transduct. Target. Ther.",
+    "aliases": []
+  },
+  {
+    "id": "org:acs-cent.-sci",
+    "label": "ACS Cent. Sci.",
+    "aliases": []
+  },
+  {
+    "id": "org:n.-engl.-j.-med",
+    "label": "N. Engl. J. Med.",
+    "aliases": []
+  },
+  {
+    "id": "org:j.-cereb.-blood-flow-metab",
+    "label": "J. Cereb. Blood Flow Metab.",
+    "aliases": []
+  },
+  {
+    "id": "org:cancer-treat.-rev",
+    "label": "Cancer Treat. Rev.",
+    "aliases": []
+  },
+  {
+    "id": "org:j.-med.-chem",
+    "label": "J. Med. Chem.",
+    "aliases": []
+  },
+  {
+    "id": "org:br.-j.-cancer",
+    "label": "Br. J. Cancer",
+    "aliases": []
+  },
+  {
+    "id": "org:cancer-discov",
+    "label": "Cancer Discov.",
+    "aliases": []
+  },
+  {
+    "id": "org:cell-res",
+    "label": "Cell Res.",
+    "aliases": []
+  },
+  {
+    "id": "org:chem.-commun",
+    "label": "Chem. Commun.",
+    "aliases": []
+  },
+  {
+    "id": "org:chem.-sci",
+    "label": "Chem. Sci.",
+    "aliases": []
+  },
+  {
+    "id": "org:phys.-rev.-lett",
+    "label": "Phys. Rev. Lett.",
+    "aliases": []
+  },
+  {
+    "id": "org:j.-chem.-theory-comput",
+    "label": "J. Chem. Theory Comput.",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-publishing-group",
+    "label": "Nature Publishing Group (Nat. Commun., Nat. Phys.)",
+    "aliases": []
+  },
+  {
+    "id": "org:institute-of-physics",
+    "label": "Institute of Physics (IOP Science, npj Quantum Inf., Phys. Rev. A, Phys. Rev. Res., J. Phys. Chem. Lett.)",
+    "aliases": []
+  },
+  {
+    "id": "org:american-chemical-society",
+    "label": "American Chemical Society (ACS, J. Chem. Phys., J. Chem. Theory Comput., J. Comput. Chem.)",
+    "aliases": []
+  },
+  {
+    "id": "org:elsevier",
+    "label": "Elsevier (Chem. Rev., Adv. Quantum Chem.)",
+    "aliases": []
+  },
+  {
+    "id": "org:tencent-quantum-lab",
+    "label": "Tencent Quantum Lab (Shenzhen)",
+    "aliases": []
+  },
+  {
+    "id": "org:acemapai-biotechnology",
+    "label": "AceMapAI Biotechnology (Suzhou)",
+    "aliases": []
+  },
+  {
+    "id": "org:china-pharmaceutical-university",
+    "label": "China Pharmaceutical University (Nanjing)",
+    "aliases": []
+  },
+  {
+    "id": "org:ningbo-university-of-technology",
+    "label": "Ningbo University of Technology (Ningbo)",
+    "aliases": []
+  },
+  {
+    "id": "org:openmm",
+    "label": "OpenMM",
+    "aliases": []
+  },
+  {
+    "id": "org:springer-nature",
+    "label": "Springer Nature",
+    "aliases": []
+  },
+  {
+    "id": "org:sci-rep",
+    "label": "Sci Rep",
+    "aliases": []
+  },
+  {
+    "id": "org:discover-computing",
+    "label": "Discover Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-molecular-modeling",
+    "label": "Journal of Molecular Modeling",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-medical-systems",
+    "label": "Journal of Medical Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:archives-of-computational-methods-in-engineering",
+    "label": "Archives of Computational Methods in Engineering",
+    "aliases": []
+  },
+  {
+    "id": "org:discover-applied-sciences",
+    "label": "Discover Applied Sciences",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-portfolio",
+    "label": "Nature Portfolio",
+    "aliases": []
+  },
+  {
+    "id": "org:national-institute-of-standards-and-technology",
+    "label": "National Institute of Standards and Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-technology-review",
+    "label": "MIT Technology Review",
+    "aliases": []
+  },
+  {
+    "id": "org:post-quantum",
+    "label": "Post-Quantum",
+    "aliases": []
+  },
+  {
+    "id": "org:proteinqure",
+    "label": "ProteinQure",
+    "aliases": []
+  },
+  {
+    "id": "org:sri-international",
+    "label": "SRI International",
+    "aliases": []
+  },
+  {
+    "id": "org:astrazeneca",
+    "label": "AstraZeneca",
+    "aliases": []
+  },
+  {
+    "id": "org:daimler-ag",
+    "label": "Daimler AG",
+    "aliases": []
+  },
+  {
+    "id": "org:mercedes-benz",
+    "label": "Mercedes-Benz",
+    "aliases": []
+  },
+  {
+    "id": "org:volkswagen",
+    "label": "Volkswagen",
+    "aliases": []
+  },
+  {
+    "id": "org:d-wave",
+    "label": "D-Wave",
+    "aliases": []
+  },
+  {
+    "id": "org:infleqtion",
+    "label": "Infleqtion",
+    "aliases": []
+  },
+  {
+    "id": "org:coldquanta",
+    "label": "ColdQuanta",
+    "aliases": []
+  },
+  {
+    "id": "org:researchgate",
+    "label": "ResearchGate",
+    "aliases": []
+  },
+  {
+    "id": "org:scientific-community",
+    "label": "scientific community",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte",
+    "label": "Deloitte",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte-insights",
+    "label": "Deloitte Insights",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte-consulting-llp",
+    "label": "Deloitte Consulting LLP",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte-global-ai-institute",
+    "label": "Deloitte Global AI Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:bitcoin",
+    "label": "Bitcoin",
+    "aliases": []
+  },
+  {
+    "id": "org:international-data-corporation",
+    "label": "International Data Corporation",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-patent-and-trademark-office",
+    "label": "United States Patent and Trademark Office",
+    "aliases": []
+  },
+  {
+    "id": "org:anitab.org",
+    "label": "AnitaB.org",
+    "aliases": []
+  },
+  {
+    "id": "org:world-economic-forum-1",
+    "label": "World Economic Forum (WEF)",
+    "aliases": []
+  },
+  {
+    "id": "org:aacsb",
+    "label": "AACSB",
+    "aliases": []
+  },
+  {
+    "id": "org:cal-poly-college-of-engineering",
+    "label": "Cal Poly College of Engineering",
+    "aliases": []
+  },
+  {
+    "id": "org:cornell-university",
+    "label": "Cornell University",
+    "aliases": []
+  },
+  {
+    "id": "org:national-defense",
+    "label": "National Defense (publication)",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte-touche-tohmatsu-limited",
+    "label": "Deloitte Touche Tohmatsu Limited",
+    "aliases": []
+  },
+  {
+    "id": "org:dttl",
+    "label": "DTTL (Deloitte Touche Tohmatsu Limited)",
+    "aliases": []
+  },
+  {
+    "id": "org:deloitte-global",
+    "label": "Deloitte Global",
+    "aliases": []
+  },
+  {
+    "id": "org:u.s.-national-quantum-initiative",
+    "label": "U.S. National Quantum Initiative",
+    "aliases": []
+  },
+  {
+    "id": "org:nature-quantum-information",
+    "label": "Nature Quantum Information",
+    "aliases": []
+  },
+  {
+    "id": "org:physical-review-x",
+    "label": "Physical Review X",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum",
+    "label": "Quantum",
+    "aliases": []
+  },
+  {
+    "id": "org:ieee-global-initiative-on-ethics-of-autonomous-and-intelligent-systems",
+    "label": "IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:electronic-frontier-foundation",
+    "label": "Electronic Frontier Foundation (EFF)",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-cleaner-production",
+    "label": "Journal of Cleaner Production",
+    "aliases": []
+  },
+  {
+    "id": "org:center-for-strategic-and-international-studies",
+    "label": "Center for Strategic and International Studies (CSIS)",
+    "aliases": []
+  },
+  {
+    "id": "org:intellectual-property-watch",
+    "label": "Intellectual Property Watch (IPW)",
+    "aliases": []
+  },
+  {
+    "id": "org:mckinsey-global-institute",
+    "label": "McKinsey Global Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:idc",
+    "label": "IDC",
+    "aliases": []
+  },
+  {
+    "id": "org:unctad",
+    "label": "UNCTAD",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-communication",
+    "label": "Journal of Communication",
+    "aliases": []
+  },
+  {
+    "id": "org:pew-research-center",
+    "label": "Pew Research Center",
+    "aliases": []
+  },
+  {
+    "id": "org:brookings-institution",
+    "label": "Brookings Institution",
+    "aliases": []
+  },
+  {
+    "id": "org:national-quantum-initiative-1",
+    "label": "National Quantum Initiative (NQI)",
+    "aliases": []
+  },
+  {
+    "id": "org:quantum-flagship",
+    "label": "Quantum Flagship",
+    "aliases": []
+  },
+  {
+    "id": "org:science-magazines",
+    "label": "Science Magazines",
+    "aliases": []
+  },
+  {
+    "id": "org:siam-journal-on-computing",
+    "label": "SIAM Journal On Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-the-acm",
+    "label": "Journal Of The ACM",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-mathematical-physics",
+    "label": "Journal Of Mathematical Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:the-quantum-computing-report",
+    "label": "The Quantum Computing Report",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-physics",
+    "label": "MIT Physics",
+    "aliases": []
+  },
+  {
+    "id": "org:ibm-quantum-computing",
+    "label": "IBM Quantum Computing",
+    "aliases": []
+  },
+  {
+    "id": "org:springerlink",
+    "label": "SpringerLink",
+    "aliases": []
+  },
+  {
+    "id": "org:the-quantum-insider",
+    "label": "The Quantum Insider",
+    "aliases": []
   }
 ]
