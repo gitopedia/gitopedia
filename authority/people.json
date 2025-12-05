@@ -2783,5 +2783,570 @@
     "id": "person:xuanzang",
     "label": "Xuanzang",
     "aliases": []
+  },
+  {
+    "id": "person:james-e.-webb",
+    "label": "James E. Webb",
+    "aliases": []
+  },
+  {
+    "id": "person:james-webb",
+    "label": "James Webb",
+    "aliases": []
+  },
+  {
+    "id": "person:guido-horn-darturo",
+    "label": "Guido Horn d'Arturo",
+    "aliases": []
+  },
+  {
+    "id": "person:marcia-j",
+    "label": "Marcia J.",
+    "aliases": []
+  },
+  {
+    "id": "person:pierre-ferruit",
+    "label": "Pierre Ferruit",
+    "aliases": []
+  },
+  {
+    "id": "person:george-rieke",
+    "label": "George Rieke",
+    "aliases": []
+  },
+  {
+    "id": "person:gillian-wright",
+    "label": "Gillian Wright",
+    "aliases": []
+  },
+  {
+    "id": "person:john-hutchings",
+    "label": "John Hutchings",
+    "aliases": []
+  },
+  {
+    "id": "person:ren-doyon",
+    "label": "René Doyon",
+    "aliases": []
+  },
+  {
+    "id": "person:thomas-zurbuchen",
+    "label": "Thomas Zurbuchen",
+    "aliases": []
+  },
+  {
+    "id": "person:dan-goldin",
+    "label": "Dan Goldin",
+    "aliases": []
+  },
+  {
+    "id": "person:james-e.-webb-1",
+    "label": "James E. Webb (NASA administrator)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-c.-mather",
+    "label": "John C. Mather",
+    "aliases": []
+  },
+  {
+    "id": "person:barbara-mikulski",
+    "label": "Barbara Mikulski",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-casani",
+    "label": "J. Casani (JPL)",
+    "aliases": []
+  },
+  {
+    "id": "person:robinson",
+    "label": "Robinson",
+    "aliases": []
+  },
+  {
+    "id": "person:sean-okeefe",
+    "label": "Sean O'Keefe",
+    "aliases": []
+  },
+  {
+    "id": "person:randy-kimble",
+    "label": "Randy Kimble",
+    "aliases": []
+  },
+  {
+    "id": "person:joe-biden",
+    "label": "Joe Biden",
+    "aliases": []
+  },
+  {
+    "id": "person:jonathan-fortney",
+    "label": "Jonathan Fortney",
+    "aliases": []
+  },
+  {
+    "id": "person:dennis-j.-andrucyk",
+    "label": "Dennis J. Andrucyk",
+    "aliases": []
+  },
+  {
+    "id": "person:anne-l.-kinney",
+    "label": "Anne L. Kinney",
+    "aliases": []
+  },
+  {
+    "id": "person:christyl-johnson",
+    "label": "Christyl Johnson",
+    "aliases": []
+  },
+  {
+    "id": "person:ray-rubilotta",
+    "label": "Ray Rubilotta",
+    "aliases": []
+  },
+  {
+    "id": "person:suni-williams",
+    "label": "Suni Williams",
+    "aliases": []
+  },
+  {
+    "id": "person:butch-wilmore",
+    "label": "Butch Wilmore",
+    "aliases": []
+  },
+  {
+    "id": "person:dave-tosteson",
+    "label": "Dave Tosteson",
+    "aliases": []
+  },
+  {
+    "id": "person:dave-tosteson-1",
+    "label": "Dave Tosteson (pioneer in Minnesota Astronomy)",
+    "aliases": []
+  },
+  {
+    "id": "person:amelia-earhart",
+    "label": "Amelia Earhart",
+    "aliases": []
+  },
+  {
+    "id": "person:milie-du-chtelet",
+    "label": "Émilie Du Châtelet",
+    "aliases": []
+  },
+  {
+    "id": "person:tycho-brahe",
+    "label": "Tycho Brahe",
+    "aliases": []
+  },
+  {
+    "id": "person:cleopatra",
+    "label": "Cleopatra",
+    "aliases": []
+  },
+  {
+    "id": "person:oppenheimer",
+    "label": "Oppenheimer",
+    "aliases": []
+  },
+  {
+    "id": "person:isaac-newton-1",
+    "label": "Isaac Newton (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-hawking-1",
+    "label": "Stephen Hawking (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:cleopatra-1",
+    "label": "Cleopatra (Egyptian ruler)",
+    "aliases": []
+  },
+  {
+    "id": "person:oppenheimer-1",
+    "label": "Oppenheimer (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:elon-musk",
+    "label": "Elon Musk",
+    "aliases": []
+  },
+  {
+    "id": "person:elon-musk-1",
+    "label": "Elon Musk (founder of SpaceX)",
+    "aliases": []
+  },
+  {
+    "id": "person:alan-dressler",
+    "label": "Alan Dressler",
+    "aliases": []
+  },
+  {
+    "id": "person:president-joe-biden",
+    "label": "President Joe Biden",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-sabia",
+    "label": "Stephen Sabia",
+    "aliases": []
+  },
+  {
+    "id": "person:riccardo-giacconi",
+    "label": "Riccardo Giacconi",
+    "aliases": []
+  },
+  {
+    "id": "person:g.-illingworth",
+    "label": "G. Illingworth",
+    "aliases": []
+  },
+  {
+    "id": "person:atsuko-nishida",
+    "label": "Atsuko Nishida",
+    "aliases": []
+  },
+  {
+    "id": "person:ken-sugimori",
+    "label": "Ken Sugimori",
+    "aliases": []
+  },
+  {
+    "id": "person:alpha-centauri",
+    "label": "Alpha Centauri (stellar system)",
+    "aliases": []
+  },
+  {
+    "id": "person:jonny-kim",
+    "label": "Jonny Kim (NASA Astronaut)",
+    "aliases": []
+  },
+  {
+    "id": "person:astronomers",
+    "label": "astronomers",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-macarena-garcia-marin",
+    "label": "Dr. Macarena Garcia Marin",
+    "aliases": []
+  },
+  {
+    "id": "person:margaret-w.-carruthers",
+    "label": "Margaret W. Carruthers",
+    "aliases": []
+  },
+  {
+    "id": "person:laura-betz",
+    "label": "Laura Betz",
+    "aliases": []
+  },
+  {
+    "id": "person:christine-pulliam",
+    "label": "Christine Pulliam",
+    "aliases": []
+  },
+  {
+    "id": "person:jeff-foust",
+    "label": "Jeff Foust",
+    "aliases": []
+  },
+  {
+    "id": "person:jennifer-lotz",
+    "label": "Jennifer Lotz",
+    "aliases": []
+  },
+  {
+    "id": "person:macarena-garcia-marin",
+    "label": "Macarena Garcia Marin",
+    "aliases": []
+  },
+  {
+    "id": "person:tom-brown",
+    "label": "Tom Brown",
+    "aliases": []
+  },
+  {
+    "id": "person:jane-rigby",
+    "label": "Jane Rigby",
+    "aliases": []
+  },
+  {
+    "id": "person:clifford-l.-norton",
+    "label": "Clifford L. Norton",
+    "aliases": []
+  },
+  {
+    "id": "person:james-webb-1",
+    "label": "James Webb (NASA administrator)",
+    "aliases": []
+  },
+  {
+    "id": "person:karen-fox",
+    "label": "Karen Fox",
+    "aliases": []
+  },
+  {
+    "id": "person:aryan-shah",
+    "label": "Aryan Shah",
+    "aliases": []
+  },
+  {
+    "id": "person:branden-leong",
+    "label": "Branden Leong",
+    "aliases": []
+  },
+  {
+    "id": "person:erin-cech",
+    "label": "Erin Cech",
+    "aliases": []
+  },
+  {
+    "id": "person:eline-van-der-velden",
+    "label": "Eline Van der Velden",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-robert-oppenheimer",
+    "label": "J. Robert Oppenheimer (physicist)",
+    "aliases": []
+  },
+  {
+    "id": "person:bill-ochs",
+    "label": "Bill Ochs",
+    "aliases": []
+  },
+  {
+    "id": "person:gregory-l.-robinson",
+    "label": "Gregory L. Robinson",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-sooy",
+    "label": "Peter Sooy",
+    "aliases": []
+  },
+  {
+    "id": "person:seth-shostak",
+    "label": "Seth Shostak",
+    "aliases": []
+  },
+  {
+    "id": "person:copernicus",
+    "label": "Copernicus",
+    "aliases": []
+  },
+  {
+    "id": "person:brian-clegg",
+    "label": "Brian Clegg",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-zubrin",
+    "label": "Robert Zubrin",
+    "aliases": []
+  },
+  {
+    "id": "person:neil-degrasse-tyson",
+    "label": "Neil deGrasse Tyson",
+    "aliases": []
+  },
+  {
+    "id": "person:stephen-webb",
+    "label": "Stephen Webb",
+    "aliases": []
+  },
+  {
+    "id": "person:brian-greene",
+    "label": "Brian Greene",
+    "aliases": []
+  },
+  {
+    "id": "person:guy-p.-harrison",
+    "label": "Guy P. Harrison",
+    "aliases": []
+  },
+  {
+    "id": "person:quyen-hart",
+    "label": "Quyen Hart",
+    "aliases": []
+  },
+  {
+    "id": "person:jonny-kim-1",
+    "label": "Jonny Kim",
+    "aliases": []
+  },
+  {
+    "id": "person:sten-odenwald",
+    "label": "Sten Odenwald",
+    "aliases": []
+  },
+  {
+    "id": "person:ryan-hannahoe",
+    "label": "Ryan Hannahoe",
+    "aliases": []
+  },
+  {
+    "id": "person:peter-detterline",
+    "label": "Peter Detterline",
+    "aliases": []
+  },
+  {
+    "id": "person:harley-thronson",
+    "label": "Harley Thronson",
+    "aliases": []
+  },
+  {
+    "id": "person:malcolm-longair",
+    "label": "Malcolm Longair",
+    "aliases": []
+  },
+  {
+    "id": "person:timothy-hawarden",
+    "label": "Timothy Hawarden",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-penny",
+    "label": "Dr. Penny",
+    "aliases": []
+  },
+  {
+    "id": "person:larry-caroff",
+    "label": "Larry Caroff",
+    "aliases": []
+  },
+  {
+    "id": "person:farquhar",
+    "label": "Farquhar",
+    "aliases": []
+  },
+  {
+    "id": "person:dunham",
+    "label": "Dunham",
+    "aliases": []
+  },
+  {
+    "id": "person:farrow",
+    "label": "Farrow",
+    "aliases": []
+  },
+  {
+    "id": "person:rottner",
+    "label": "Rottner",
+    "aliases": []
+  },
+  {
+    "id": "person:bell-burnell",
+    "label": "Bell Burnell",
+    "aliases": []
+  },
+  {
+    "id": "person:davies",
+    "label": "Davies",
+    "aliases": []
+  },
+  {
+    "id": "person:stobie",
+    "label": "Stobie",
+    "aliases": []
+  },
+  {
+    "id": "person:j.-k.-davies",
+    "label": "J. K. Davies",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-smith",
+    "label": "R. Smith",
+    "aliases": []
+  },
+  {
+    "id": "person:pierre-bely",
+    "label": "Pierre Bely",
+    "aliases": []
+  },
+  {
+    "id": "person:john-davies",
+    "label": "John Davies (astronomer)",
+    "aliases": []
+  },
+  {
+    "id": "person:garth-illingworth",
+    "label": "Garth Illingworth",
+    "aliases": []
+  },
+  {
+    "id": "person:harley-a.-thronson",
+    "label": "Harley A. Thronson",
+    "aliases": []
+  },
+  {
+    "id": "person:tom-g.-hawarden",
+    "label": "Tom G. Hawarden",
+    "aliases": []
+  },
+  {
+    "id": "person:c.-m.-mountain",
+    "label": "C. M. Mountain",
+    "aliases": []
+  },
+  {
+    "id": "person:marty-mccoy",
+    "label": "Marty McCoy",
+    "aliases": []
+  },
+  {
+    "id": "person:rashi-jain",
+    "label": "Rashi Jain",
+    "aliases": []
+  },
+  {
+    "id": "person:yogesh-wadadekar",
+    "label": "Yogesh Wadadekar",
+    "aliases": []
+  },
+  {
+    "id": "person:president-donald-trump",
+    "label": "President Donald Trump",
+    "aliases": []
+  },
+  {
+    "id": "person:jared-isaacman",
+    "label": "Jared Isaacman",
+    "aliases": []
+  },
+  {
+    "id": "person:janet-petro",
+    "label": "Janet Petro",
+    "aliases": []
+  },
+  {
+    "id": "person:trump",
+    "label": "Trump (U.S. president)",
+    "aliases": []
+  },
+  {
+    "id": "person:neill-reid",
+    "label": "Neill Reid",
+    "aliases": []
+  },
+  {
+    "id": "person:bill-nye",
+    "label": "Bill Nye",
+    "aliases": []
+  },
+  {
+    "id": "person:james-e.-reid",
+    "label": "James E. Reid",
+    "aliases": []
+  },
+  {
+    "id": "person:monisha-ravisetti",
+    "label": "Monisha Ravisetti",
+    "aliases": []
   }
 ]
