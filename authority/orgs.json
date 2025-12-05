@@ -883,5 +883,2100 @@
     "id": "org:northrop-grumman",
     "label": "Northrop Grumman",
     "aliases": []
+  },
+  {
+    "id": "org:ariane-5",
+    "label": "Ariane 5",
+    "aliases": []
+  },
+  {
+    "id": "org:national-aeronautics-and-space-administration",
+    "label": "National Aeronautics and Space Administration",
+    "aliases": []
+  },
+  {
+    "id": "org:canadian-space-agency-1",
+    "label": "Canadian Space Agency",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa-goddard-space-flight-center",
+    "label": "NASA Goddard Space Flight Center",
+    "aliases": []
+  },
+  {
+    "id": "org:space-telescope-science-institute",
+    "label": "Space Telescope Science Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:johns-hopkins-university",
+    "label": "Johns Hopkins University",
+    "aliases": []
+  },
+  {
+    "id": "org:james-webb-space-telescope",
+    "label": "James Webb Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble-space-telescope",
+    "label": "Hubble Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:kapton-e-film",
+    "label": "Kapton E film",
+    "aliases": []
+  },
+  {
+    "id": "org:keck-telescopes",
+    "label": "Keck telescopes",
+    "aliases": []
+  },
+  {
+    "id": "org:ariane-5-rocket",
+    "label": "Ariane 5 rocket",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-arizona",
+    "label": "University of Arizona",
+    "aliases": []
+  },
+  {
+    "id": "org:estec",
+    "label": "ESTEC (European Space Research and Technology Centre)",
+    "aliases": []
+  },
+  {
+    "id": "org:airbus-defence-and-space",
+    "label": "Airbus Defence and Space",
+    "aliases": []
+  },
+  {
+    "id": "org:goddard-space-flight-center",
+    "label": "Goddard Space Flight Center",
+    "aliases": []
+  },
+  {
+    "id": "org:cole-normale-suprieure-de-lyon",
+    "label": "École normale supérieure de Lyon",
+    "aliases": []
+  },
+  {
+    "id": "org:uk-astronomy-technology-centre",
+    "label": "UK Astronomy Technology Centre",
+    "aliases": []
+  },
+  {
+    "id": "org:herzberg-astronomy-and-astrophysics-research-centre",
+    "label": "Herzberg Astronomy and Astrophysics Research Centre",
+    "aliases": []
+  },
+  {
+    "id": "org:universit-de-montral",
+    "label": "Université de Montréal",
+    "aliases": []
+  },
+  {
+    "id": "org:webb",
+    "label": "Webb",
+    "aliases": []
+  },
+  {
+    "id": "org:northrop-grumman-aerospace-systems",
+    "label": "Northrop Grumman Aerospace Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:ball-aerospace-technologies",
+    "label": "Ball Aerospace \u0026 Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:trw",
+    "label": "TRW",
+    "aliases": []
+  },
+  {
+    "id": "org:lockheed-martin",
+    "label": "Lockheed Martin",
+    "aliases": []
+  },
+  {
+    "id": "org:nexus-precursor-telescope-mission",
+    "label": "NEXUS precursor telescope mission",
+    "aliases": []
+  },
+  {
+    "id": "org:hi-z-telescope-concept",
+    "label": "Hi-Z telescope concept",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-national-research-council",
+    "label": "United States National Research Council",
+    "aliases": []
+  },
+  {
+    "id": "org:next-generation-space-telescope",
+    "label": "Next Generation Space Telescope (NGST)",
+    "aliases": []
+  },
+  {
+    "id": "org:hst-beyond-committee",
+    "label": "HST \u0026 Beyond Committee",
+    "aliases": []
+  },
+  {
+    "id": "org:esa",
+    "label": "ESA",
+    "aliases": []
+  },
+  {
+    "id": "org:csa",
+    "label": "CSA",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-house-of-representatives",
+    "label": "United States House of Representatives",
+    "aliases": []
+  },
+  {
+    "id": "org:american-astronomical-society",
+    "label": "American Astronomical Society",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble-telescope",
+    "label": "Hubble telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:ariane-5-eca-launcher",
+    "label": "Ariane 5 ECA launcher",
+    "aliases": []
+  },
+  {
+    "id": "org:spitzer-space-telescope",
+    "label": "Spitzer Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:wilkinson-microwave-anisotropy-probe",
+    "label": "Wilkinson Microwave Anisotropy Probe",
+    "aliases": []
+  },
+  {
+    "id": "org:miri-instrument",
+    "label": "MIRI instrument",
+    "aliases": []
+  },
+  {
+    "id": "org:nircam",
+    "label": "NIRCam",
+    "aliases": []
+  },
+  {
+    "id": "org:james-webb-space-telescope-1",
+    "label": "James Webb Space Telescope (JWST)",
+    "aliases": []
+  },
+  {
+    "id": "org:fine-guidance-sensor",
+    "label": "Fine Guidance Sensor (FGS)",
+    "aliases": []
+  },
+  {
+    "id": "org:general-observers",
+    "label": "General Observers (GO) program",
+    "aliases": []
+  },
+  {
+    "id": "org:guaranteed-time-observations",
+    "label": "Guaranteed Time Observations (GTO) program",
+    "aliases": []
+  },
+  {
+    "id": "org:directors-discretionary-early-release-science",
+    "label": "Director's Discretionary Early Release Science (DD-ERS) program",
+    "aliases": []
+  },
+  {
+    "id": "org:time-allocation-committee",
+    "label": "Time Allocation Committee (TAC)",
+    "aliases": []
+  },
+  {
+    "id": "org:directors-discretionary-time",
+    "label": "Director's Discretionary Time (DDT) program",
+    "aliases": []
+  },
+  {
+    "id": "org:nancy-grace-roman-space-telescope",
+    "label": "Nancy Grace Roman Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:esa-1",
+    "label": "ESA (European Space Agency)",
+    "aliases": []
+  },
+  {
+    "id": "org:space-science-reviews",
+    "label": "Space Science Reviews",
+    "aliases": []
+  },
+  {
+    "id": "org:miri",
+    "label": "MIRI",
+    "aliases": []
+  },
+  {
+    "id": "org:niriss",
+    "label": "NIRISS",
+    "aliases": []
+  },
+  {
+    "id": "org:nirspec",
+    "label": "NIRSpec",
+    "aliases": []
+  },
+  {
+    "id": "org:stsci",
+    "label": "STScI (Space Telescope Science Institute)",
+    "aliases": []
+  },
+  {
+    "id": "org:collier-trophy",
+    "label": "Collier Trophy",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-advanced-deep-extragalactic-survey",
+    "label": "JWST Advanced Deep Extragalactic Survey (JADES)",
+    "aliases": []
+  },
+  {
+    "id": "org:deep-space-network",
+    "label": "Deep Space Network",
+    "aliases": []
+  },
+  {
+    "id": "org:great-observatories-program",
+    "label": "Great Observatories program",
+    "aliases": []
+  },
+  {
+    "id": "org:international-space-station",
+    "label": "International Space Station",
+    "aliases": []
+  },
+  {
+    "id": "org:james-webb-telescope",
+    "label": "JAMES WEBB TELESCOPE",
+    "aliases": []
+  },
+  {
+    "id": "org:kepler-space-telescope",
+    "label": "Kepler space telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:chandra-x-ray-observatory",
+    "label": "Chandra X-ray Observatory",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-reconnaissance-orbiter",
+    "label": "Mars Reconnaissance Orbiter",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-2020-perseverance-rover",
+    "label": "Mars 2020 Perseverance rover",
+    "aliases": []
+  },
+  {
+    "id": "org:curiosity-rover",
+    "label": "Curiosity rover",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-exploration-rover",
+    "label": "Mars Exploration Rover",
+    "aliases": []
+  },
+  {
+    "id": "org:lunar-reconnaissance-orbiter",
+    "label": "Lunar Reconnaissance Orbiter",
+    "aliases": []
+  },
+  {
+    "id": "org:lunar-sample-laboratory",
+    "label": "Lunar Sample Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:solar-dynamics-observatory",
+    "label": "Solar Dynamics Observatory",
+    "aliases": []
+  },
+  {
+    "id": "org:hinode",
+    "label": "Hinode (Solar-B)",
+    "aliases": []
+  },
+  {
+    "id": "org:solar-orbiter",
+    "label": "Solar Orbiter",
+    "aliases": []
+  },
+  {
+    "id": "org:iss-cream",
+    "label": "ISS-CREAM",
+    "aliases": []
+  },
+  {
+    "id": "org:xmm-newton",
+    "label": "XMM-Newton",
+    "aliases": []
+  },
+  {
+    "id": "org:integral",
+    "label": "INTEGRAL",
+    "aliases": []
+  },
+  {
+    "id": "org:spektr-rg",
+    "label": "Spektr-RG",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble",
+    "label": "Hubble (2010 documentary)",
+    "aliases": []
+  },
+  {
+    "id": "org:deep-sky",
+    "label": "Deep Sky (2023 documentary)",
+    "aliases": []
+  },
+  {
+    "id": "org:unknown-cosmic-time-machine",
+    "label": "Unknown: Cosmic Time Machine (2023 documentary)",
+    "aliases": []
+  },
+  {
+    "id": "org:johnson-space-center",
+    "label": "Johnson Space Center",
+    "aliases": []
+  },
+  {
+    "id": "org:kennedy-space-center",
+    "label": "Kennedy Space Center",
+    "aliases": []
+  },
+  {
+    "id": "org:vehicle-assembly-building",
+    "label": "Vehicle Assembly Building",
+    "aliases": []
+  },
+  {
+    "id": "org:launch-control-center",
+    "label": "Launch Control Center",
+    "aliases": []
+  },
+  {
+    "id": "org:wallops-flight-facility",
+    "label": "Wallops Flight Facility",
+    "aliases": []
+  },
+  {
+    "id": "org:goddard-institute-for-space-studies",
+    "label": "Goddard Institute for Space Studies",
+    "aliases": []
+  },
+  {
+    "id": "org:list-of-space-telescopes",
+    "label": "List of space telescopes",
+    "aliases": []
+  },
+  {
+    "id": "org:european-data-relay-system",
+    "label": "European Data Relay System",
+    "aliases": []
+  },
+  {
+    "id": "org:hipparcos",
+    "label": "Hipparcos",
+    "aliases": []
+  },
+  {
+    "id": "org:herschel",
+    "label": "Herschel",
+    "aliases": []
+  },
+  {
+    "id": "org:cheops",
+    "label": "CHEOPS",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst",
+    "label": "JWST (James Webb Space Telescope)",
+    "aliases": []
+  },
+  {
+    "id": "org:euclid",
+    "label": "Euclid",
+    "aliases": []
+  },
+  {
+    "id": "org:meteosat-first-generation",
+    "label": "Meteosat First Generation",
+    "aliases": []
+  },
+  {
+    "id": "org:meteosat-second-generation",
+    "label": "Meteosat Second Generation",
+    "aliases": []
+  },
+  {
+    "id": "org:envisat",
+    "label": "Envisat",
+    "aliases": []
+  },
+  {
+    "id": "org:double-star",
+    "label": "Double Star",
+    "aliases": []
+  },
+  {
+    "id": "org:metop",
+    "label": "MetOp",
+    "aliases": []
+  },
+  {
+    "id": "org:smos",
+    "label": "SMOS",
+    "aliases": []
+  },
+  {
+    "id": "org:cryosat-2",
+    "label": "CryoSat-2",
+    "aliases": []
+  },
+  {
+    "id": "org:swarm",
+    "label": "Swarm",
+    "aliases": []
+  },
+  {
+    "id": "org:copernicus",
+    "label": "Copernicus",
+    "aliases": []
+  },
+  {
+    "id": "org:sentinel",
+    "label": "Sentinel",
+    "aliases": []
+  },
+  {
+    "id": "org:tiangong-space-station",
+    "label": "Tiangong space station",
+    "aliases": []
+  },
+  {
+    "id": "org:oneweb",
+    "label": "OneWeb",
+    "aliases": []
+  },
+  {
+    "id": "org:starlink",
+    "label": "Starlink",
+    "aliases": []
+  },
+  {
+    "id": "org:exoplanet-search-projects",
+    "label": "Exoplanet search projects",
+    "aliases": []
+  },
+  {
+    "id": "org:european-launcher-challenge",
+    "label": "European Launcher Challenge",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-sample-return",
+    "label": "Mars Sample Return",
+    "aliases": []
+  },
+  {
+    "id": "org:ariane-rocket-family",
+    "label": "Ariane rocket family",
+    "aliases": []
+  },
+  {
+    "id": "org:hope-mars-mission",
+    "label": "Hope Mars mission",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-2020",
+    "label": "Mars 2020",
+    "aliases": []
+  },
+  {
+    "id": "org:tianwen-1",
+    "label": "Tianwen-1",
+    "aliases": []
+  },
+  {
+    "id": "org:fgsniriss",
+    "label": "FGS/NIRISS",
+    "aliases": []
+  },
+  {
+    "id": "org:webb-telescope",
+    "label": "Webb Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-1",
+    "label": "JWST",
+    "aliases": []
+  },
+  {
+    "id": "org:cassiopeia-a-supernova-remnant",
+    "label": "Cassiopeia A supernova remnant",
+    "aliases": []
+  },
+  {
+    "id": "org:crab-nebula",
+    "label": "Crab Nebula",
+    "aliases": []
+  },
+  {
+    "id": "org:ngc-5068",
+    "label": "NGC 5068",
+    "aliases": []
+  },
+  {
+    "id": "org:ngc-346",
+    "label": "NGC 346",
+    "aliases": []
+  },
+  {
+    "id": "org:orion-nebula",
+    "label": "Orion Nebula",
+    "aliases": []
+  },
+  {
+    "id": "org:perseus-molecular-cloud",
+    "label": "Perseus Molecular Cloud",
+    "aliases": []
+  },
+  {
+    "id": "org:ring-nebula",
+    "label": "Ring Nebula",
+    "aliases": []
+  },
+  {
+    "id": "org:westerlund-1-star-cluster",
+    "label": "Westerlund 1 star cluster",
+    "aliases": []
+  },
+  {
+    "id": "org:saturn",
+    "label": "Saturn",
+    "aliases": []
+  },
+  {
+    "id": "org:jupiter",
+    "label": "Jupiter",
+    "aliases": []
+  },
+  {
+    "id": "org:uranus",
+    "label": "Uranus",
+    "aliases": []
+  },
+  {
+    "id": "org:ganymede",
+    "label": "Ganymede",
+    "aliases": []
+  },
+  {
+    "id": "org:europa",
+    "label": "Europa (Jupiter's moon)",
+    "aliases": []
+  },
+  {
+    "id": "org:enceladus",
+    "label": "Enceladus (Saturn's moon)",
+    "aliases": []
+  },
+  {
+    "id": "org:el-gordo-galaxy-cluster",
+    "label": "El Gordo galaxy cluster",
+    "aliases": []
+  },
+  {
+    "id": "org:ngc-6822",
+    "label": "NGC 6822",
+    "aliases": []
+  },
+  {
+    "id": "org:ngc-1559",
+    "label": "NGC 1559",
+    "aliases": []
+  },
+  {
+    "id": "org:macs0416-galaxy",
+    "label": "MACS0416 galaxy",
+    "aliases": []
+  },
+  {
+    "id": "org:sombrero-galaxy",
+    "label": "Sombrero Galaxy",
+    "aliases": []
+  },
+  {
+    "id": "org:i-zwicky-18",
+    "label": "I Zwicky 18",
+    "aliases": []
+  },
+  {
+    "id": "org:ngc-604",
+    "label": "NGC 604",
+    "aliases": []
+  },
+  {
+    "id": "org:rx-j1131-1231",
+    "label": "RX J1131-1231",
+    "aliases": []
+  },
+  {
+    "id": "org:horsehead-nebula",
+    "label": "Horsehead Nebula",
+    "aliases": []
+  },
+  {
+    "id": "org:m-106-galaxy",
+    "label": "M 106 galaxy",
+    "aliases": []
+  },
+  {
+    "id": "org:sagittarius-c",
+    "label": "Sagittarius C",
+    "aliases": []
+  },
+  {
+    "id": "org:serena-nebula",
+    "label": "Serena Nebula",
+    "aliases": []
+  },
+  {
+    "id": "org:spiderweb-protocluster",
+    "label": "Spiderweb Protocluster",
+    "aliases": []
+  },
+  {
+    "id": "org:wasp-18-b",
+    "label": "WASP-18 b",
+    "aliases": []
+  },
+  {
+    "id": "org:wasp-107-b",
+    "label": "WASP-107 b",
+    "aliases": []
+  },
+  {
+    "id": "org:wasp-39-b",
+    "label": "WASP-39 b",
+    "aliases": []
+  },
+  {
+    "id": "org:k2-18-b",
+    "label": "K2-18 b",
+    "aliases": []
+  },
+  {
+    "id": "org:w1935",
+    "label": "W1935",
+    "aliases": []
+  },
+  {
+    "id": "org:55-cancri-e",
+    "label": "55 Cancri e",
+    "aliases": []
+  },
+  {
+    "id": "org:gj-367b",
+    "label": "GJ 367b",
+    "aliases": []
+  },
+  {
+    "id": "org:29p-centaur",
+    "label": "29P Centaur",
+    "aliases": []
+  },
+  {
+    "id": "org:comet-238pread",
+    "label": "Comet 238P/Read",
+    "aliases": []
+  },
+  {
+    "id": "org:quasar-host-galaxies",
+    "label": "Quasar Host Galaxies",
+    "aliases": []
+  },
+  {
+    "id": "org:beta-pictoris-system",
+    "label": "Beta Pictoris System",
+    "aliases": []
+  },
+  {
+    "id": "org:m51-galaxy",
+    "label": "M51 galaxy",
+    "aliases": []
+  },
+  {
+    "id": "org:herbig-haro-4647",
+    "label": "Herbig-Haro 46/47",
+    "aliases": []
+  },
+  {
+    "id": "org:hh-211",
+    "label": "HH 211",
+    "aliases": []
+  },
+  {
+    "id": "org:sn-1987a",
+    "label": "SN 1987A",
+    "aliases": []
+  },
+  {
+    "id": "org:egsy8p7",
+    "label": "EGSY8p7",
+    "aliases": []
+  },
+  {
+    "id": "org:indian-scientists",
+    "label": "Indian Scientists",
+    "aliases": []
+  },
+  {
+    "id": "org:chandrayaan-3",
+    "label": "Chandrayaan-3",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble-1",
+    "label": "Hubble",
+    "aliases": []
+  },
+  {
+    "id": "org:new-horizons",
+    "label": "New Horizons",
+    "aliases": []
+  },
+  {
+    "id": "org:polaris-dawn",
+    "label": "Polaris Dawn",
+    "aliases": []
+  },
+  {
+    "id": "org:psyche-mission",
+    "label": "Psyche Mission",
+    "aliases": []
+  },
+  {
+    "id": "org:vera-c.-rubin-observatory",
+    "label": "Vera C. Rubin Observatory",
+    "aliases": []
+  },
+  {
+    "id": "org:xrism",
+    "label": "XRISM",
+    "aliases": []
+  },
+  {
+    "id": "org:jaxa",
+    "label": "JAXA",
+    "aliases": []
+  },
+  {
+    "id": "org:tess",
+    "label": "TESS (Transiting Exoplanet Survey Satellite)",
+    "aliases": []
+  },
+  {
+    "id": "org:tess-1",
+    "label": "TESS",
+    "aliases": []
+  },
+  {
+    "id": "org:apple-vision-pro",
+    "label": "Apple Vision Pro",
+    "aliases": []
+  },
+  {
+    "id": "org:astronomy-club",
+    "label": "Astronomy club",
+    "aliases": []
+  },
+  {
+    "id": "org:elegoo-neptune-3-plus",
+    "label": "Elegoo Neptune 3 Plus",
+    "aliases": []
+  },
+  {
+    "id": "org:cal-poly-pomona",
+    "label": "Cal Poly Pomona",
+    "aliases": []
+  },
+  {
+    "id": "org:celestron",
+    "label": "Celestron (telescope brand)",
+    "aliases": []
+  },
+  {
+    "id": "org:apple-inc",
+    "label": "Apple Inc.",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon",
+    "label": "Amazon",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon-prime",
+    "label": "Amazon Prime",
+    "aliases": []
+  },
+  {
+    "id": "org:hyperzon",
+    "label": "Hyperzon",
+    "aliases": []
+  },
+  {
+    "id": "org:celestron-1",
+    "label": "Celestron",
+    "aliases": []
+  },
+  {
+    "id": "org:lego",
+    "label": "LEGO",
+    "aliases": []
+  },
+  {
+    "id": "org:celestron-2",
+    "label": "Celestron (company)",
+    "aliases": []
+  },
+  {
+    "id": "org:orion",
+    "label": "Orion (telescope brand)",
+    "aliases": []
+  },
+  {
+    "id": "org:meade",
+    "label": "Meade (telescope brand)",
+    "aliases": []
+  },
+  {
+    "id": "org:vaonis",
+    "label": "Vaonis (technology company)",
+    "aliases": []
+  },
+  {
+    "id": "org:artemis-program",
+    "label": "Artemis Program",
+    "aliases": []
+  },
+  {
+    "id": "org:voyager-program",
+    "label": "Voyager Program",
+    "aliases": []
+  },
+  {
+    "id": "org:international-space-station-1",
+    "label": "International Space Station (ISS)",
+    "aliases": []
+  },
+  {
+    "id": "org:iss",
+    "label": "ISS",
+    "aliases": []
+  },
+  {
+    "id": "org:agni-v-missile",
+    "label": "Agni V Missile",
+    "aliases": []
+  },
+  {
+    "id": "org:seti",
+    "label": "SETI",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa-1",
+    "label": "NASA (National Aeronautics and Space Administration)",
+    "aliases": []
+  },
+  {
+    "id": "org:jaxa-1",
+    "label": "JAXA (Japan Aerospace Exploration Agency)",
+    "aliases": []
+  },
+  {
+    "id": "org:gps",
+    "label": "GPS (Global Positioning System)",
+    "aliases": []
+  },
+  {
+    "id": "org:celestron-3",
+    "label": "Celestron (telescope manufacturer)",
+    "aliases": []
+  },
+  {
+    "id": "org:artemis-mission",
+    "label": "Artemis Mission",
+    "aliases": []
+  },
+  {
+    "id": "org:mars-rover",
+    "label": "Mars Rover",
+    "aliases": []
+  },
+  {
+    "id": "org:osiris-rex",
+    "label": "Osiris-Rex",
+    "aliases": []
+  },
+  {
+    "id": "org:kepler",
+    "label": "Kepler",
+    "aliases": []
+  },
+  {
+    "id": "org:starship",
+    "label": "Starship",
+    "aliases": []
+  },
+  {
+    "id": "org:euclid-telescope",
+    "label": "Euclid Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:next-generation-space-telescope-1",
+    "label": "Next Generation Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:ngst",
+    "label": "NGST",
+    "aliases": []
+  },
+  {
+    "id": "org:fgs-niriss",
+    "label": "FGS-NIRISS",
+    "aliases": []
+  },
+  {
+    "id": "org:ariane-5-eca",
+    "label": "Ariane 5 ECA",
+    "aliases": []
+  },
+  {
+    "id": "org:ariane-6",
+    "label": "Ariane 6",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa-science",
+    "label": "NASA Science",
+    "aliases": []
+  },
+  {
+    "id": "org:stsci-1",
+    "label": "STScI",
+    "aliases": []
+  },
+  {
+    "id": "org:esahubble-wordbank",
+    "label": "ESA/Hubble Wordbank",
+    "aliases": []
+  },
+  {
+    "id": "org:space-telescope-science-institute-1",
+    "label": "Space Telescope Science Institute (STScI)",
+    "aliases": []
+  },
+  {
+    "id": "org:ball-aerospace",
+    "label": "Ball Aerospace",
+    "aliases": []
+  },
+  {
+    "id": "org:kodak",
+    "label": "Kodak",
+    "aliases": []
+  },
+  {
+    "id": "org:atk",
+    "label": "ATK",
+    "aliases": []
+  },
+  {
+    "id": "org:arianespace",
+    "label": "Arianespace",
+    "aliases": []
+  },
+  {
+    "id": "org:nintendo",
+    "label": "Nintendo",
+    "aliases": []
+  },
+  {
+    "id": "org:game-freak",
+    "label": "Game Freak",
+    "aliases": []
+  },
+  {
+    "id": "org:space-telescope-users-committee",
+    "label": "Space Telescope Users Committee",
+    "aliases": []
+  },
+  {
+    "id": "org:advanced-camera-for-surveys",
+    "label": "Advanced Camera for Surveys",
+    "aliases": []
+  },
+  {
+    "id": "org:cosmic-origins-spectrograph",
+    "label": "Cosmic Origins Spectrograph",
+    "aliases": []
+  },
+  {
+    "id": "org:fine-guidance-sensors",
+    "label": "Fine Guidance Sensors",
+    "aliases": []
+  },
+  {
+    "id": "org:space-telescope-imaging-spectrograph",
+    "label": "Space Telescope Imaging Spectrograph",
+    "aliases": []
+  },
+  {
+    "id": "org:wide-field-camera-3",
+    "label": "Wide Field Camera 3",
+    "aliases": []
+  },
+  {
+    "id": "org:nicmos",
+    "label": "NICMOS",
+    "aliases": []
+  },
+  {
+    "id": "org:wfpc2",
+    "label": "WFPC2",
+    "aliases": []
+  },
+  {
+    "id": "org:data-analysis-toolbox",
+    "label": "Data Analysis Toolbox",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble-legacy-archive",
+    "label": "Hubble Legacy Archive",
+    "aliases": []
+  },
+  {
+    "id": "org:mast",
+    "label": "MAST (Mikulski Archive for Space Telescopes)",
+    "aliases": []
+  },
+  {
+    "id": "org:acs",
+    "label": "ACS (Advanced Camera for Surveys)",
+    "aliases": []
+  },
+  {
+    "id": "org:cos",
+    "label": "COS (Cosmic Origins Spectrograph)",
+    "aliases": []
+  },
+  {
+    "id": "org:wfc3",
+    "label": "WFC3 (Wide Field Camera 3)",
+    "aliases": []
+  },
+  {
+    "id": "org:instrument-science-reports",
+    "label": "Instrument Science Reports (ISRs)",
+    "aliases": []
+  },
+  {
+    "id": "org:hst",
+    "label": "HST (Hubble Space Telescope)",
+    "aliases": []
+  },
+  {
+    "id": "org:sbc-pr110l-and-pr130l",
+    "label": "SBC PR110L and PR130L",
+    "aliases": []
+  },
+  {
+    "id": "org:wfc-g800l",
+    "label": "WFC G800L",
+    "aliases": []
+  },
+  {
+    "id": "org:hrc-g800l",
+    "label": "HRC G800L",
+    "aliases": []
+  },
+  {
+    "id": "org:hrc-pr200l",
+    "label": "HRC PR200L",
+    "aliases": []
+  },
+  {
+    "id": "org:stis",
+    "label": "STIS (Space Telescope Imaging Spectrograph)",
+    "aliases": []
+  },
+  {
+    "id": "org:wfpc2-1",
+    "label": "WFPC2 (Wide Field and Planetary Camera 2)",
+    "aliases": []
+  },
+  {
+    "id": "org:crds",
+    "label": "CRDS (Calibration Reference Data System)",
+    "aliases": []
+  },
+  {
+    "id": "org:acs-instrument-handbook",
+    "label": "ACS Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:acs-data-handbook",
+    "label": "ACS Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:stsci-analysis-newsletter",
+    "label": "STScI Analysis Newsletter (STAN)",
+    "aliases": []
+  },
+  {
+    "id": "org:acs-spectroscopic-etc",
+    "label": "ACS Spectroscopic ETC",
+    "aliases": []
+  },
+  {
+    "id": "org:cos-instrument-handbook",
+    "label": "COS Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:cos-data-handbook",
+    "label": "COS Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:calcos-release-notes",
+    "label": "CalCOS Release Notes",
+    "aliases": []
+  },
+  {
+    "id": "org:stis-instrument-handbook",
+    "label": "STIS Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:stis-data-handbook",
+    "label": "STIS Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:wfc3-instrument-handbook",
+    "label": "WFC3 Instrument Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:wfc3-data-handbook",
+    "label": "WFC3 Data Handbook",
+    "aliases": []
+  },
+  {
+    "id": "org:calibration-reference-data-system",
+    "label": "Calibration Reference Data System (CRDS)",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-users-committee",
+    "label": "JWST Users Committee",
+    "aliases": []
+  },
+  {
+    "id": "org:mikulski-archive-for-space-telescopes",
+    "label": "Mikulski Archive for Space Telescopes (MAST)",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-telescope-scientist-team",
+    "label": "JWST Telescope Scientist Team",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa-hubble-fellowship-program",
+    "label": "NASA Hubble Fellowship Program",
+    "aliases": []
+  },
+  {
+    "id": "org:russell-b.-makidon-optics-laboratory",
+    "label": "Russell B. Makidon Optics Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:institute-for-planets-and-life",
+    "label": "Institute for Planets and Life",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble-space-telescope-1",
+    "label": "Hubble Space Telescope (HST)",
+    "aliases": []
+  },
+  {
+    "id": "org:northrop-grumman-space-technology",
+    "label": "Northrop Grumman Space Technology",
+    "aliases": []
+  },
+  {
+    "id": "org:ball-aerospace-technologies-corp",
+    "label": "Ball Aerospace \u0026 Technologies Corp.",
+    "aliases": []
+  },
+  {
+    "id": "org:auras-space-telescope-science-institute",
+    "label": "AURA’s Space Telescope Science Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:mid-infrared-instrument",
+    "label": "Mid-Infrared Instrument",
+    "aliases": []
+  },
+  {
+    "id": "org:near-infrared-imager-and-slitless-spectrograph",
+    "label": "Near-Infrared Imager and Slitless Spectrograph",
+    "aliases": []
+  },
+  {
+    "id": "org:fine-guidance-sensor-1",
+    "label": "Fine Guidance Sensor",
+    "aliases": []
+  },
+  {
+    "id": "org:near-infrared-camera",
+    "label": "Near Infrared Camera",
+    "aliases": []
+  },
+  {
+    "id": "org:near-infrared-spectrograph",
+    "label": "Near Infrared Spectrograph",
+    "aliases": []
+  },
+  {
+    "id": "org:integrated-science-instrument-module",
+    "label": "Integrated Science Instrument Module",
+    "aliases": []
+  },
+  {
+    "id": "org:optical-telescope-element",
+    "label": "Optical Telescope Element",
+    "aliases": []
+  },
+  {
+    "id": "org:csa-1",
+    "label": "CSA (Canadian Space Agency)",
+    "aliases": []
+  },
+  {
+    "id": "org:keck-ii-telescope",
+    "label": "Keck II telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:mid-infrared-instrument-1",
+    "label": "Mid-Infrared Instrument (MIRI)",
+    "aliases": []
+  },
+  {
+    "id": "org:enciso-systems",
+    "label": "Enciso Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:habitable-worlds-observatory",
+    "label": "Habitable Worlds Observatory",
+    "aliases": []
+  },
+  {
+    "id": "org:double-asteroid-redirection-test",
+    "label": "Double Asteroid Redirection Test (DART) mission",
+    "aliases": []
+  },
+  {
+    "id": "org:cassini-mission",
+    "label": "Cassini mission",
+    "aliases": []
+  },
+  {
+    "id": "org:national-aeronautics-and-space-administration-1",
+    "label": "National Aeronautics and Space Administration (NASA)",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-project",
+    "label": "JWST project",
+    "aliases": []
+  },
+  {
+    "id": "org:national-academy-of-engineering",
+    "label": "National Academy of Engineering",
+    "aliases": []
+  },
+  {
+    "id": "org:national-academy-of-engineering-1",
+    "label": "National Academy of Engineering (NAE)",
+    "aliases": []
+  },
+  {
+    "id": "org:amazon-web-services",
+    "label": "Amazon Web Services (AWS)",
+    "aliases": []
+  },
+  {
+    "id": "org:cleveland-clinic",
+    "label": "Cleveland Clinic",
+    "aliases": []
+  },
+  {
+    "id": "org:preventive",
+    "label": "Preventive",
+    "aliases": []
+  },
+  {
+    "id": "org:xicoia",
+    "label": "Xicoia",
+    "aliases": []
+  },
+  {
+    "id": "org:alaknanda",
+    "label": "Alaknanda (discovery)",
+    "aliases": []
+  },
+  {
+    "id": "org:xrism-telescope",
+    "label": "XRISM Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:cura",
+    "label": "Cura (software)",
+    "aliases": []
+  },
+  {
+    "id": "org:destini-ai",
+    "label": "Destini AI",
+    "aliases": []
+  },
+  {
+    "id": "org:cura-1",
+    "label": "Cura",
+    "aliases": []
+  },
+  {
+    "id": "org:celestron-nexstar-8se-telescope",
+    "label": "Celestron NexStar 8SE Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:gskyer-telescope",
+    "label": "Gskyer Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:orion-1",
+    "label": "Orion",
+    "aliases": []
+  },
+  {
+    "id": "org:sky-watcher",
+    "label": "Sky-Watcher",
+    "aliases": []
+  },
+  {
+    "id": "org:meade-1",
+    "label": "Meade",
+    "aliases": []
+  },
+  {
+    "id": "org:vaonis-vespera-telescope",
+    "label": "Vaonis Vespera Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:zhumell",
+    "label": "Zhumell",
+    "aliases": []
+  },
+  {
+    "id": "org:agnieszka",
+    "label": "Agnieszka",
+    "aliases": []
+  },
+  {
+    "id": "org:the-international-space-station",
+    "label": "The International Space Station",
+    "aliases": []
+  },
+  {
+    "id": "org:the-griffith-observatory",
+    "label": "The Griffith Observatory",
+    "aliases": []
+  },
+  {
+    "id": "org:artemis-program-1",
+    "label": "Artemis Program (NASA)",
+    "aliases": []
+  },
+  {
+    "id": "org:voyager-program-1",
+    "label": "Voyager Program (NASA)",
+    "aliases": []
+  },
+  {
+    "id": "org:seti-1",
+    "label": "SETI (Search for Extraterrestrial Intelligence)",
+    "aliases": []
+  },
+  {
+    "id": "org:telescope",
+    "label": "telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:radio-telescopes",
+    "label": "radio telescopes",
+    "aliases": []
+  },
+  {
+    "id": "org:refractor-telescope",
+    "label": "refractor telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:chinas-artificial-sun-tokamak",
+    "label": "China's Artificial Sun Tokamak",
+    "aliases": []
+  },
+  {
+    "id": "org:einstein-ring",
+    "label": "Einstein Ring",
+    "aliases": []
+  },
+  {
+    "id": "org:rho-ophiuchi",
+    "label": "Rho Ophiuchi",
+    "aliases": []
+  },
+  {
+    "id": "org:hubble-2",
+    "label": "Hubble (telescope)",
+    "aliases": []
+  },
+  {
+    "id": "org:celestron-nexstar-8se",
+    "label": "Celestron NexStar 8SE",
+    "aliases": []
+  },
+  {
+    "id": "org:gps-1",
+    "label": "GPS",
+    "aliases": []
+  },
+  {
+    "id": "org:galileo",
+    "label": "Galileo (satellite navigation system)",
+    "aliases": []
+  },
+  {
+    "id": "org:glonass",
+    "label": "GLONASS",
+    "aliases": []
+  },
+  {
+    "id": "org:tiktok",
+    "label": "TikTok",
+    "aliases": []
+  },
+  {
+    "id": "org:guapos-project",
+    "label": "GUAPOS Project",
+    "aliases": []
+  },
+  {
+    "id": "org:artemis-mission-crew",
+    "label": "Artemis Mission Crew",
+    "aliases": []
+  },
+  {
+    "id": "org:roman-space-telescope",
+    "label": "Roman Space Telescope",
+    "aliases": []
+  },
+  {
+    "id": "org:x-59",
+    "label": "X-59",
+    "aliases": []
+  },
+  {
+    "id": "org:seti-institute",
+    "label": "SETI Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:psychology-today",
+    "label": "Psychology Today",
+    "aliases": []
+  },
+  {
+    "id": "org:sussex-publishers-llc",
+    "label": "Sussex Publishers, LLC",
+    "aliases": []
+  },
+  {
+    "id": "org:therapists",
+    "label": "therapists",
+    "aliases": []
+  },
+  {
+    "id": "org:treatment-centers",
+    "label": "Treatment Centers",
+    "aliases": []
+  },
+  {
+    "id": "org:roman-observatory",
+    "label": "Roman Observatory",
+    "aliases": []
+  },
+  {
+    "id": "org:nasas-mars-habitat",
+    "label": "NASA’s Mars Habitat",
+    "aliases": []
+  },
+  {
+    "id": "org:chapea-crew",
+    "label": "CHAPEA Crew",
+    "aliases": []
+  },
+  {
+    "id": "org:nasas-jet-propulsion-lab",
+    "label": "NASA's Jet Propulsion Lab",
+    "aliases": []
+  },
+  {
+    "id": "org:cool-cosmos",
+    "label": "Cool Cosmos",
+    "aliases": []
+  },
+  {
+    "id": "org:starchild",
+    "label": "StarChild",
+    "aliases": []
+  },
+  {
+    "id": "org:space-math",
+    "label": "Space Math",
+    "aliases": []
+  },
+  {
+    "id": "org:near-infrared-camera-1",
+    "label": "Near-Infrared Camera (NIRCam)",
+    "aliases": []
+  },
+  {
+    "id": "org:near-infrared-spectrograph-1",
+    "label": "Near-Infrared Spectrograph (NIRSpec)",
+    "aliases": []
+  },
+  {
+    "id": "org:fine-guidance-sensornear-infrared-imager-and-slitless-spectrograph",
+    "label": "Fine Guidance Sensor/Near InfraRed Imager and Slitless Spectrograph (FGS/NIRISS)",
+    "aliases": []
+  },
+  {
+    "id": "org:infrared-astronomical-satellite",
+    "label": "Infrared Astronomical Satellite (IRAS)",
+    "aliases": []
+  },
+  {
+    "id": "org:japanese-exploration-agency",
+    "label": "Japanese Exploration Agency (JAXA)",
+    "aliases": []
+  },
+  {
+    "id": "org:space-infrared-telescope-facility",
+    "label": "Space Infrared Telescope Facility (SIRTF)",
+    "aliases": []
+  },
+  {
+    "id": "org:cosmic-background-explorer",
+    "label": "Cosmic Background Explorer (COBE)",
+    "aliases": []
+  },
+  {
+    "id": "org:infrared-space-observatory",
+    "label": "Infrared Space Observatory (ISO)",
+    "aliases": []
+  },
+  {
+    "id": "org:national-academies",
+    "label": "National Academies",
+    "aliases": []
+  },
+  {
+    "id": "org:roe",
+    "label": "ROE",
+    "aliases": []
+  },
+  {
+    "id": "org:royal-observatory-edinburgh",
+    "label": "Royal Observatory Edinburgh (ROE)",
+    "aliases": []
+  },
+  {
+    "id": "org:cobe",
+    "label": "COBE",
+    "aliases": []
+  },
+  {
+    "id": "org:rutherford-appleton-laboratory",
+    "label": "Rutherford Appleton Laboratory (RAL)",
+    "aliases": []
+  },
+  {
+    "id": "org:eastman-kodak",
+    "label": "Eastman Kodak",
+    "aliases": []
+  },
+  {
+    "id": "org:ral",
+    "label": "RAL",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-wyoming",
+    "label": "University of Wyoming",
+    "aliases": []
+  },
+  {
+    "id": "org:association-of-universities-for-research-in-astronomy",
+    "label": "Association of Universities for Research in Astronomy (AURA)",
+    "aliases": []
+  },
+  {
+    "id": "org:ral-1",
+    "label": "RAL (Rutherford Appleton Laboratory)",
+    "aliases": []
+  },
+  {
+    "id": "org:roe-1",
+    "label": "ROE (Royal Observatory Edinburgh)",
+    "aliases": []
+  },
+  {
+    "id": "org:edison-team",
+    "label": "Edison team",
+    "aliases": []
+  },
+  {
+    "id": "org:dressler-committee",
+    "label": "Dressler Committee",
+    "aliases": []
+  },
+  {
+    "id": "org:the-american-astronautical-society",
+    "label": "The American Astronautical Society",
+    "aliases": []
+  },
+  {
+    "id": "org:high-z-mission",
+    "label": "High-Z mission",
+    "aliases": []
+  },
+  {
+    "id": "org:poirot-mission",
+    "label": "POIROT mission",
+    "aliases": []
+  },
+  {
+    "id": "org:fiso-seminar-series",
+    "label": "FISO Seminar Series",
+    "aliases": []
+  },
+  {
+    "id": "org:the-space-review",
+    "label": "The Space Review",
+    "aliases": []
+  },
+  {
+    "id": "org:edison",
+    "label": "EDISON",
+    "aliases": []
+  },
+  {
+    "id": "org:spitzer-infrared-telescope-facility",
+    "label": "Spitzer Infrared Telescope Facility",
+    "aliases": []
+  },
+  {
+    "id": "org:spitzer",
+    "label": "Spitzer",
+    "aliases": []
+  },
+  {
+    "id": "org:fuse",
+    "label": "FUSE",
+    "aliases": []
+  },
+  {
+    "id": "org:swas",
+    "label": "SWAS",
+    "aliases": []
+  },
+  {
+    "id": "org:esa-herschel",
+    "label": "ESA Herschel",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa-history-office",
+    "label": "NASA History Office",
+    "aliases": []
+  },
+  {
+    "id": "org:national-research-council",
+    "label": "National Research Council (NRC)",
+    "aliases": []
+  },
+  {
+    "id": "org:rutherford-appleton-laboratories",
+    "label": "Rutherford Appleton Laboratories",
+    "aliases": []
+  },
+  {
+    "id": "org:kluwer-academic-publishers",
+    "label": "Kluwer Academic Publishers",
+    "aliases": []
+  },
+  {
+    "id": "org:spie",
+    "label": "SPIE",
+    "aliases": []
+  },
+  {
+    "id": "org:iau-colloquium",
+    "label": "IAU Colloquium",
+    "aliases": []
+  },
+  {
+    "id": "org:integrated-science-instrument-module-1",
+    "label": "Integrated Science Instrument Module (ISIM)",
+    "aliases": []
+  },
+  {
+    "id": "org:optical-telescope-element-1",
+    "label": "Optical Telescope Element (OTE)",
+    "aliases": []
+  },
+  {
+    "id": "org:space-environment-simulator",
+    "label": "Space Environment Simulator",
+    "aliases": []
+  },
+  {
+    "id": "org:wikipedia",
+    "label": "Wikipedia",
+    "aliases": []
+  },
+  {
+    "id": "org:wikimedia-foundation",
+    "label": "Wikimedia Foundation",
+    "aliases": []
+  },
+  {
+    "id": "org:donor-advised-fund",
+    "label": "Donor-Advised Fund (DAF)",
+    "aliases": []
+  },
+  {
+    "id": "org:ariane",
+    "label": "Ariane",
+    "aliases": []
+  },
+  {
+    "id": "org:cos-1",
+    "label": "COS",
+    "aliases": []
+  },
+  {
+    "id": "org:wfc3-1",
+    "label": "WFC3",
+    "aliases": []
+  },
+  {
+    "id": "org:stis-1",
+    "label": "STIS",
+    "aliases": []
+  },
+  {
+    "id": "org:acs-1",
+    "label": "ACS",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-advisory-committee",
+    "label": "JWST Advisory Committee (JSTAC)",
+    "aliases": []
+  },
+  {
+    "id": "org:jwst-science-working-group",
+    "label": "JWST Science Working Group",
+    "aliases": []
+  },
+  {
+    "id": "org:hstpromo-group",
+    "label": "HSTPROMO Group",
+    "aliases": []
+  },
+  {
+    "id": "org:nasa-hubble-fellowship-program-1",
+    "label": "NASA Hubble Fellowship Program (NHFP)",
+    "aliases": []
+  },
+  {
+    "id": "org:transient-science-space-telescope-group",
+    "label": "Transient Science @ Space Telescope Group",
+    "aliases": []
+  },
+  {
+    "id": "org:post-starburst-galaxies-group",
+    "label": "Post-Starburst Galaxies Group",
+    "aliases": []
+  },
+  {
+    "id": "org:star-and-planet-formation-group",
+    "label": "Star and Planet Formation Group",
+    "aliases": []
+  },
+  {
+    "id": "org:galaxies-and-the-cgm-group",
+    "label": "Galaxies and the CGM Group",
+    "aliases": []
+  },
+  {
+    "id": "org:reionization-and-emission-line-galaxies-group",
+    "label": "Reionization and Emission Line Galaxies Group",
+    "aliases": []
+  },
+  {
+    "id": "org:milky-way-halo-group",
+    "label": "Milky Way Halo Group",
+    "aliases": []
+  },
+  {
+    "id": "org:transiting-exoplanets-group",
+    "label": "Transiting Exoplanets Group",
+    "aliases": []
+  },
+  {
+    "id": "org:active-galactic-nuclei-research-group",
+    "label": "Active Galactic Nuclei Research Group",
+    "aliases": []
+  },
+  {
+    "id": "org:extrasolar-planetary-systems-imaging-group",
+    "label": "Extrasolar Planetary Systems Imaging Group",
+    "aliases": []
+  },
+  {
+    "id": "org:galaxy-clusters-science-group",
+    "label": "Galaxy Clusters Science Group",
+    "aliases": []
+  },
+  {
+    "id": "org:interstellar-medium-group",
+    "label": "Interstellar Medium* Group",
+    "aliases": []
+  },
+  {
+    "id": "org:caroline-herschel-visitor-program",
+    "label": "Caroline Herschel Visitor Program",
+    "aliases": []
+  },
+  {
+    "id": "org:brinson-prize-fellowship-program",
+    "label": "Brinson Prize Fellowship Program",
+    "aliases": []
+  },
+  {
+    "id": "org:stsci-library-and-institutional-archive",
+    "label": "STScI Library and Institutional Archive",
+    "aliases": []
+  },
+  {
+    "id": "org:aura",
+    "label": "AURA",
+    "aliases": []
+  },
+  {
+    "id": "org:space-telescope-institute-council",
+    "label": "Space Telescope Institute Council (STIC)",
+    "aliases": []
+  },
+  {
+    "id": "org:science-working-group",
+    "label": "Science Working Group",
+    "aliases": []
+  },
+  {
+    "id": "org:chapae",
+    "label": "CHAPAE",
+    "aliases": []
+  },
+  {
+    "id": "org:southwest-research-institute",
+    "label": "Southwest Research Institute (SwRI)",
+    "aliases": []
+  },
+  {
+    "id": "org:national-centre-for-radio-astrophysics-of-the-tata-institute-of-fundamental-research",
+    "label": "National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research (NCRA-TIFR)",
+    "aliases": []
+  },
+  {
+    "id": "org:astronomy-astrophysics",
+    "label": "Astronomy \u0026 Astrophysics",
+    "aliases": []
+  },
+  {
+    "id": "org:atacama-large-millimeter-array",
+    "label": "Atacama Large Millimeter Array (ALMA)",
+    "aliases": []
+  },
+  {
+    "id": "org:tata-institute-of-fundamental-research",
+    "label": "Tata Institute of Fundamental Research",
+    "aliases": []
+  },
+  {
+    "id": "org:american-astronomical-society-1",
+    "label": "American Astronomical Society (AAS)",
+    "aliases": []
+  },
+  {
+    "id": "org:department-of-government-efficiency",
+    "label": "Department of Government Efficiency (DOGE)",
+    "aliases": []
+  },
+  {
+    "id": "org:united-states-government",
+    "label": "United States government",
+    "aliases": []
+  },
+  {
+    "id": "org:blue-origin",
+    "label": "Blue Origin",
+    "aliases": []
+  },
+  {
+    "id": "org:virgin-galactic",
+    "label": "Virgin Galactic",
+    "aliases": []
+  },
+  {
+    "id": "org:united-launch-alliance",
+    "label": "United Launch Alliance",
+    "aliases": []
+  },
+  {
+    "id": "org:planetary-society",
+    "label": "Planetary Society",
+    "aliases": []
+  },
+  {
+    "id": "org:juno",
+    "label": "Juno (spacecraft)",
+    "aliases": []
+  },
+  {
+    "id": "org:comet-3iatlas",
+    "label": "Comet 3I/Atlas",
+    "aliases": []
+  },
+  {
+    "id": "org:aas",
+    "label": "AAS (American Astronomical Society)",
+    "aliases": []
+  },
+  {
+    "id": "org:universe-of-learning",
+    "label": "Universe of Learning",
+    "aliases": []
+  },
+  {
+    "id": "org:noaa",
+    "label": "NOAA (National Oceanic and Atmospheric Administration)",
+    "aliases": []
+  },
+  {
+    "id": "org:trump-administration",
+    "label": "Trump administration",
+    "aliases": []
+  },
+  {
+    "id": "org:biden-administration",
+    "label": "Biden administration",
+    "aliases": []
+  },
+  {
+    "id": "org:3europe",
+    "label": "3Europe",
+    "aliases": []
+  },
+  {
+    "id": "org:air-force",
+    "label": "Air Force",
+    "aliases": []
+  },
+  {
+    "id": "org:future-us-inc",
+    "label": "Future US Inc",
+    "aliases": []
   }
 ]
