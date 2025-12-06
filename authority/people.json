@@ -3348,5 +3348,180 @@
     "id": "person:monisha-ravisetti",
     "label": "Monisha Ravisetti",
     "aliases": []
+  },
+  {
+    "id": "person:einstein-1",
+    "label": "Einstein (mass-energy equivalence)",
+    "aliases": []
+  },
+  {
+    "id": "person:lyman-spitzer",
+    "label": "Lyman Spitzer (stellarator concept)",
+    "aliases": []
+  },
+  {
+    "id": "person:john-d.-lawson",
+    "label": "John D. Lawson",
+    "aliases": []
+  },
+  {
+    "id": "person:richard-thaler",
+    "label": "Richard Thaler (economist)",
+    "aliases": []
+  },
+  {
+    "id": "person:donald-trump",
+    "label": "Donald Trump",
+    "aliases": []
+  },
+  {
+    "id": "person:mahmoud-refaat",
+    "label": "Mahmoud Refaat",
+    "aliases": []
+  },
+  {
+    "id": "person:t.a.-heppenheimer",
+    "label": "T.A. Heppenheimer",
+    "aliases": []
+  },
+  {
+    "id": "person:robert-bussard",
+    "label": "Robert Bussard",
+    "aliases": []
+  },
+  {
+    "id": "person:bob-guccione",
+    "label": "Bob Guccione",
+    "aliases": []
+  },
+  {
+    "id": "person:zylstra",
+    "label": "Zylstra",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-f.-brunner",
+    "label": "Daniel F. Brunner (Commonwealth Fusion Systems)",
+    "aliases": []
+  },
+  {
+    "id": "person:edlyn-v.-levine",
+    "label": "Edlyn V. Levine (MIT Sloan)",
+    "aliases": []
+  },
+  {
+    "id": "person:fiona-e.-murray",
+    "label": "Fiona E. Murray (MIT)",
+    "aliases": []
+  },
+  {
+    "id": "person:rory-burke",
+    "label": "Rory Burke (ARPA-E)",
+    "aliases": []
+  },
+  {
+    "id": "person:professor-steven-cowley",
+    "label": "Professor Steven Cowley",
+    "aliases": []
+  },
+  {
+    "id": "person:jennifer-granholm",
+    "label": "Jennifer Granholm",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-arati-prabhakar",
+    "label": "Dr. Arati Prabhakar",
+    "aliases": []
+  },
+  {
+    "id": "person:kimberly-s.-budil",
+    "label": "Kimberly S. Budil",
+    "aliases": []
+  },
+  {
+    "id": "person:daniel-jassby",
+    "label": "Daniel Jassby",
+    "aliases": []
+  },
+  {
+    "id": "person:chris-wright",
+    "label": "Chris Wright (U.S. Secretary of Energy)",
+    "aliases": []
+  },
+  {
+    "id": "person:ralph-cooney",
+    "label": "Ralph Cooney (Professor Emeritus)",
+    "aliases": []
+  },
+  {
+    "id": "person:margo-white",
+    "label": "Margo White",
+    "aliases": []
+  },
+  {
+    "id": "person:oliver-buck",
+    "label": "Oliver Buck (founder of ITM Isotope Technologies)",
+    "aliases": []
+  },
+  {
+    "id": "person:pete-hutton",
+    "label": "Pete Hutton (former ARM President of Product Group)",
+    "aliases": []
+  },
+  {
+    "id": "person:talmon-firestone",
+    "label": "Talmon Firestone (CEO and co-founder of Astral Systems)",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-tom-wallace-smith",
+    "label": "Dr. Tom Wallace-Smith (Technical lead of Astral Systems)",
+    "aliases": []
+  },
+  {
+    "id": "person:rick-hao",
+    "label": "Rick Hao (Speedinvest partner)",
+    "aliases": []
+  },
+  {
+    "id": "person:s.-meschini",
+    "label": "S. Meschini",
+    "aliases": []
+  },
+  {
+    "id": "person:f.-laviano",
+    "label": "F. Laviano",
+    "aliases": []
+  },
+  {
+    "id": "person:f.-ledda",
+    "label": "F. Ledda",
+    "aliases": []
+  },
+  {
+    "id": "person:d.-pettinari",
+    "label": "D. Pettinari",
+    "aliases": []
+  },
+  {
+    "id": "person:r.-testoni",
+    "label": "R. Testoni",
+    "aliases": []
+  },
+  {
+    "id": "person:d.-torsello",
+    "label": "D. Torsello",
+    "aliases": []
+  },
+  {
+    "id": "person:b.-panella",
+    "label": "B. Panella",
+    "aliases": []
+  },
+  {
+    "id": "person:john-doe",
+    "label": "John Doe",
+    "aliases": []
   }
 ]
