@@ -2978,5 +2978,535 @@
     "id": "org:future-us-inc",
     "label": "Future US Inc",
     "aliases": []
+  },
+  {
+    "id": "org:iter",
+    "label": "ITER (International Thermonuclear Experimental Reactor)",
+    "aliases": []
+  },
+  {
+    "id": "org:national-ignition-facility",
+    "label": "National Ignition Facility (NIF)",
+    "aliases": []
+  },
+  {
+    "id": "org:energy-encyclopedia",
+    "label": "Energy Encyclopedia (EE)",
+    "aliases": []
+  },
+  {
+    "id": "org:iaea",
+    "label": "IAEA (International Atomic Energy Agency)",
+    "aliases": []
+  },
+  {
+    "id": "org:tokamak-energy",
+    "label": "Tokamak Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:general-fusion",
+    "label": "General Fusion",
+    "aliases": []
+  },
+  {
+    "id": "org:jet",
+    "label": "JET (Joint European Torus)",
+    "aliases": []
+  },
+  {
+    "id": "org:nif",
+    "label": "NIF (National Ignition Facility)",
+    "aliases": []
+  },
+  {
+    "id": "org:asdex-upgrade",
+    "label": "ASDEX Upgrade",
+    "aliases": []
+  },
+  {
+    "id": "org:joint-european-torus",
+    "label": "Joint European Torus (JET)",
+    "aliases": []
+  },
+  {
+    "id": "org:tae-technologies",
+    "label": "TAE Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:commonwealth-fusion-systems",
+    "label": "Commonwealth Fusion Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:minecraft",
+    "label": "Minecraft",
+    "aliases": []
+  },
+  {
+    "id": "org:iter-1",
+    "label": "ITER",
+    "aliases": []
+  },
+  {
+    "id": "org:european-institute-for-international-law-and-international-relations",
+    "label": "European Institute for International Law and International Relations (EIIR)",
+    "aliases": []
+  },
+  {
+    "id": "org:eu",
+    "label": "EU (European Union)",
+    "aliases": []
+  },
+  {
+    "id": "org:taliban",
+    "label": "Taliban",
+    "aliases": []
+  },
+  {
+    "id": "org:iaea-1",
+    "label": "IAEA",
+    "aliases": []
+  },
+  {
+    "id": "org:small-modular-reactors",
+    "label": "Small Modular Reactors (SMR) Platform",
+    "aliases": []
+  },
+  {
+    "id": "org:nuclear-harmonization-and-standardization-initiative",
+    "label": "Nuclear Harmonization and Standardization Initiative (NHSI)",
+    "aliases": []
+  },
+  {
+    "id": "org:international-project-on-innovative-nuclear-reactors-and-fuel-cycles",
+    "label": "International Project on Innovative Nuclear Reactors and Fuel Cycles (INPRO)",
+    "aliases": []
+  },
+  {
+    "id": "org:zoonotic-disease-integrated-action",
+    "label": "Zoonotic Disease Integrated Action (ZODIAC)",
+    "aliases": []
+  },
+  {
+    "id": "org:comprehensive-capacity-building-initiative",
+    "label": "Comprehensive Capacity-Building Initiative (COMPASS)",
+    "aliases": []
+  },
+  {
+    "id": "org:women-in-nuclear",
+    "label": "Women in Nuclear (WIN)",
+    "aliases": []
+  },
+  {
+    "id": "org:international-nuclear-information-system",
+    "label": "International Nuclear Information System (INIS)",
+    "aliases": []
+  },
+  {
+    "id": "org:power-reactor-information-system",
+    "label": "Power Reactor Information System (PRIS)",
+    "aliases": []
+  },
+  {
+    "id": "org:advanced-reactors-information-system",
+    "label": "Advanced Reactors Information System (ARIS)",
+    "aliases": []
+  },
+  {
+    "id": "org:integrated-nuclear-fuel-cycle-information-system",
+    "label": "Integrated Nuclear Fuel Cycle Information System (iNFCIS)",
+    "aliases": []
+  },
+  {
+    "id": "org:united-nations-1",
+    "label": "United Nations (UN)",
+    "aliases": []
+  },
+  {
+    "id": "org:atoms4food",
+    "label": "Atoms4Food",
+    "aliases": []
+  },
+  {
+    "id": "org:peaceful-uses-initiative",
+    "label": "Peaceful Uses Initiative (PUI)",
+    "aliases": []
+  },
+  {
+    "id": "org:nuclear-data-services",
+    "label": "Nuclear Data Services (NDS)",
+    "aliases": []
+  },
+  {
+    "id": "org:research-reactor-database",
+    "label": "Research Reactor Database (RRDB)",
+    "aliases": []
+  },
+  {
+    "id": "org:tokamak-fusion-test-reactor",
+    "label": "Tokamak Fusion Test Reactor (TFTR)",
+    "aliases": []
+  },
+  {
+    "id": "org:japanese-jt-60",
+    "label": "Japanese JT-60",
+    "aliases": []
+  },
+  {
+    "id": "org:international-thermonuclear-experimental-reactor",
+    "label": "International Thermonuclear Experimental Reactor (ITER)",
+    "aliases": []
+  },
+  {
+    "id": "org:princeton-plasma-physics-laboratory",
+    "label": "Princeton Plasma Physics Laboratory",
+    "aliases": []
+  },
+  {
+    "id": "org:kurchatov-institute",
+    "label": "Kurchatov Institute",
+    "aliases": []
+  },
+  {
+    "id": "org:penthouse",
+    "label": "Penthouse",
+    "aliases": []
+  },
+  {
+    "id": "org:t-20-tokamak",
+    "label": "T-20 Tokamak",
+    "aliases": []
+  },
+  {
+    "id": "org:u.s.-department-of-energy",
+    "label": "U.S. Department of Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:russian-federation",
+    "label": "Russian Federation",
+    "aliases": []
+  },
+  {
+    "id": "org:soviet-union",
+    "label": "Soviet Union",
+    "aliases": []
+  },
+  {
+    "id": "org:iter-organization",
+    "label": "ITER Organization",
+    "aliases": []
+  },
+  {
+    "id": "org:infused-program",
+    "label": "INFUSED program",
+    "aliases": []
+  },
+  {
+    "id": "org:indirect-drive-icf-collaboration",
+    "label": "Indirect Drive ICF Collaboration",
+    "aliases": []
+  },
+  {
+    "id": "org:experimental-advanced-superconducting-tokamak",
+    "label": "Experimental Advanced Superconducting Tokamak (EAST)",
+    "aliases": []
+  },
+  {
+    "id": "org:european-union-1",
+    "label": "European Union (EU)",
+    "aliases": []
+  },
+  {
+    "id": "org:wendelstein-7-x",
+    "label": "Wendelstein 7-X (W7-X)",
+    "aliases": []
+  },
+  {
+    "id": "org:korea-superconducting-tokamak-advanced-research",
+    "label": "Korea Superconducting Tokamak Advanced Research (KSTAR)",
+    "aliases": []
+  },
+  {
+    "id": "org:china-fusion-engineering-test-reactor",
+    "label": "China Fusion Engineering Test Reactor (CFETR)",
+    "aliases": []
+  },
+  {
+    "id": "org:international-fusion-materials-irradiation-facility",
+    "label": "International Fusion Materials Irradiation Facility (IFMIF)",
+    "aliases": []
+  },
+  {
+    "id": "org:neutral-beam-test-facility",
+    "label": "Neutral Beam Test Facility (NTBF)",
+    "aliases": []
+  },
+  {
+    "id": "org:lawrence-livermore-national-laboratory",
+    "label": "Lawrence Livermore National Laboratory (USA)",
+    "aliases": []
+  },
+  {
+    "id": "org:east",
+    "label": "EAST (Experimental Advanced Superconducting Tokamak)",
+    "aliases": []
+  },
+  {
+    "id": "org:kstar",
+    "label": "KSTAR (Korea Superconducting Tokamak Advanced Research)",
+    "aliases": []
+  },
+  {
+    "id": "org:large-helical-device",
+    "label": "Large Helical Device (LHD)",
+    "aliases": []
+  },
+  {
+    "id": "org:tore-supra",
+    "label": "Tore Supra",
+    "aliases": []
+  },
+  {
+    "id": "org:omega",
+    "label": "OMEGA (USA)",
+    "aliases": []
+  },
+  {
+    "id": "org:lmj",
+    "label": "LMJ (France)",
+    "aliases": []
+  },
+  {
+    "id": "org:z-machine",
+    "label": "Z machine",
+    "aliases": []
+  },
+  {
+    "id": "org:sandia-national-laboratories",
+    "label": "Sandia National Laboratories (USA)",
+    "aliases": []
+  },
+  {
+    "id": "org:jet-1",
+    "label": "JET (UK)",
+    "aliases": []
+  },
+  {
+    "id": "org:joint-european-torus-1",
+    "label": "Joint European Torus (JET Facility)",
+    "aliases": []
+  },
+  {
+    "id": "org:eurofusion",
+    "label": "EUROfusion",
+    "aliases": []
+  },
+  {
+    "id": "org:demo",
+    "label": "DEMO (Demonstration Power Plant)",
+    "aliases": []
+  },
+  {
+    "id": "org:technology-collaboration-programmes",
+    "label": "Technology Collaboration Programmes (TCPs)",
+    "aliases": []
+  },
+  {
+    "id": "org:esefp-tcp",
+    "label": "ESEFP TCP (Environmental, Safety, and Economic Aspects of Fusion Power)",
+    "aliases": []
+  },
+  {
+    "id": "org:international-energy-agency-1",
+    "label": "International Energy Agency (IEA)",
+    "aliases": []
+  },
+  {
+    "id": "org:iter-project",
+    "label": "ITER Project",
+    "aliases": []
+  },
+  {
+    "id": "org:demo-reactor",
+    "label": "DEMO Reactor",
+    "aliases": []
+  },
+  {
+    "id": "org:eurofusion-consortium",
+    "label": "EUROfusion consortium",
+    "aliases": []
+  },
+  {
+    "id": "org:iea",
+    "label": "IEA (International Energy Agency)",
+    "aliases": []
+  },
+  {
+    "id": "org:mit",
+    "label": "MIT (Massachusetts Institute of Technology)",
+    "aliases": []
+  },
+  {
+    "id": "org:arpa-e",
+    "label": "ARPA-E (Advanced Research Projects Agency - Energy)",
+    "aliases": []
+  },
+  {
+    "id": "org:nato-innovation-fund",
+    "label": "NATO Innovation Fund",
+    "aliases": []
+  },
+  {
+    "id": "org:linde-engineering",
+    "label": "Linde Engineering",
+    "aliases": []
+  },
+  {
+    "id": "org:air-liquide",
+    "label": "Air Liquide",
+    "aliases": []
+  },
+  {
+    "id": "org:cfetr",
+    "label": "CFETR (China Fusion Engineering Test Reactor)",
+    "aliases": []
+  },
+  {
+    "id": "org:wendelstein-7-x-1",
+    "label": "Wendelstein 7-X",
+    "aliases": []
+  },
+  {
+    "id": "org:shenguang-laser",
+    "label": "Shenguang Laser",
+    "aliases": []
+  },
+  {
+    "id": "org:interplanix",
+    "label": "Interplanix",
+    "aliases": []
+  },
+  {
+    "id": "org:edfuturetech",
+    "label": "EdFutureTech",
+    "aliases": []
+  },
+  {
+    "id": "org:lawrence-livermore-national-laboratory-1",
+    "label": "Lawrence Livermore National Laboratory (LLNL)",
+    "aliases": []
+  },
+  {
+    "id": "org:west",
+    "label": "WEST (W Environment in Steady-state Tokamak)",
+    "aliases": []
+  },
+  {
+    "id": "org:massachusetts-institute-of-technology",
+    "label": "Massachusetts Institute of Technology (MIT)",
+    "aliases": []
+  },
+  {
+    "id": "org:google",
+    "label": "Google",
+    "aliases": []
+  },
+  {
+    "id": "org:climeworks",
+    "label": "Climeworks",
+    "aliases": []
+  },
+  {
+    "id": "org:1pointfive",
+    "label": "1PointFive",
+    "aliases": []
+  },
+  {
+    "id": "org:university-of-auckland",
+    "label": "University of Auckland",
+    "aliases": []
+  },
+  {
+    "id": "org:newsroom",
+    "label": "Newsroom",
+    "aliases": []
+  },
+  {
+    "id": "org:astral-systems",
+    "label": "Astral Systems",
+    "aliases": []
+  },
+  {
+    "id": "org:speedinvest",
+    "label": "Speedinvest",
+    "aliases": []
+  },
+  {
+    "id": "org:playfair",
+    "label": "Playfair",
+    "aliases": []
+  },
+  {
+    "id": "org:itm-isotope-technologies",
+    "label": "ITM Isotope Technologies",
+    "aliases": []
+  },
+  {
+    "id": "org:arm",
+    "label": "ARM (company)",
+    "aliases": []
+  },
+  {
+    "id": "org:european-tech-ecosystem",
+    "label": "European tech ecosystem",
+    "aliases": []
+  },
+  {
+    "id": "org:laser-megajoule",
+    "label": "Laser Megajoule",
+    "aliases": []
+  },
+  {
+    "id": "org:helion-energy",
+    "label": "Helion Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:step",
+    "label": "STEP (Steam Plant for Energy from Thermonuclear)",
+    "aliases": []
+  },
+  {
+    "id": "org:journal-of-fusion-energy",
+    "label": "Journal of Fusion Energy",
+    "aliases": []
+  },
+  {
+    "id": "org:international-atomic-energy-agency",
+    "label": "International Atomic Energy Agency",
+    "aliases": []
+  },
+  {
+    "id": "org:world-nuclear-association",
+    "label": "World Nuclear Association",
+    "aliases": []
+  },
+  {
+    "id": "org:european-institute-for",
+    "label": "European Institute for ... (geopolitics)",
+    "aliases": []
+  },
+  {
+    "id": "org:mit-technology-review",
+    "label": "MIT Technology Review",
+    "aliases": []
+  },
+  {
+    "id": "org:iter-organization-1",
+    "label": "ITER Organization (iter.org)",
+    "aliases": []
   }
 ]

@@ -10258,5 +10258,1250 @@
     "id": "topic:human-psychology-impact",
     "label": "human psychology impact",
     "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fusion",
+    "label": "nuclear fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:deuterium-tritium",
+    "label": "deuterium-tritium (D-T) reaction",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetic-confinement",
+    "label": "magnetic confinement",
+    "aliases": []
+  },
+  {
+    "id": "topic:inertial-confinement",
+    "label": "inertial confinement",
+    "aliases": []
+  },
+  {
+    "id": "topic:tokamak",
+    "label": "Tokamak",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellarator",
+    "label": "Stellarator",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusion-ignition",
+    "label": "fusion ignition",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fusion-technology",
+    "label": "Nuclear Fusion Technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-physics",
+    "label": "nuclear physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-power",
+    "label": "nuclear power",
+    "aliases": []
+  },
+  {
+    "id": "topic:thermodynamics",
+    "label": "thermodynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:quantum-thermodynamics",
+    "label": "quantum thermodynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiation",
+    "label": "radiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-reactor",
+    "label": "nuclear reactor",
+    "aliases": []
+  },
+  {
+    "id": "topic:protonproton-chain",
+    "label": "proton–proton chain",
+    "aliases": []
+  },
+  {
+    "id": "topic:spheromak",
+    "label": "spheromak",
+    "aliases": []
+  },
+  {
+    "id": "topic:dense-plasma-focus",
+    "label": "dense plasma focus",
+    "aliases": []
+  },
+  {
+    "id": "topic:field-reversed-configuration",
+    "label": "field-reversed configuration",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetic-mirror",
+    "label": "magnetic mirror",
+    "aliases": []
+  },
+  {
+    "id": "topic:molten-salt-reactor",
+    "label": "molten-salt reactor",
+    "aliases": []
+  },
+  {
+    "id": "topic:pressurized-water-reactor",
+    "label": "pressurized water reactor",
+    "aliases": []
+  },
+  {
+    "id": "topic:boiling-water-reactor",
+    "label": "boiling water reactor",
+    "aliases": []
+  },
+  {
+    "id": "topic:fast-breeder-reactor",
+    "label": "fast breeder reactor",
+    "aliases": []
+  },
+  {
+    "id": "topic:radioisotope-thermoelectric-generator",
+    "label": "radioisotope thermoelectric generator",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-meltdown",
+    "label": "nuclear meltdown",
+    "aliases": []
+  },
+  {
+    "id": "topic:wigner-effect",
+    "label": "Wigner effect",
+    "aliases": []
+  },
+  {
+    "id": "topic:plasma",
+    "label": "plasma",
+    "aliases": []
+  },
+  {
+    "id": "topic:scientific-energy-gain",
+    "label": "scientific energy gain",
+    "aliases": []
+  },
+  {
+    "id": "topic:confinement",
+    "label": "confinement",
+    "aliases": []
+  },
+  {
+    "id": "topic:tokamaks",
+    "label": "tokamaks",
+    "aliases": []
+  },
+  {
+    "id": "topic:demo",
+    "label": "DEMO (Demonstration Power Plant)",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusion-energy",
+    "label": "fusion energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:tritium-breeding",
+    "label": "tritium breeding",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutron-management",
+    "label": "neutron management",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-safety",
+    "label": "nuclear safety",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-waste-management",
+    "label": "nuclear waste management",
+    "aliases": []
+  },
+  {
+    "id": "topic:low-carbon-energy",
+    "label": "low-carbon energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:inis",
+    "label": "INIS (International Nuclear Information System)",
+    "aliases": []
+  },
+  {
+    "id": "topic:pris",
+    "label": "PRIS (Power Reactor Information System)",
+    "aliases": []
+  },
+  {
+    "id": "topic:nds",
+    "label": "NDS (Nuclear Data Services)",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fusion-journal",
+    "label": "Nuclear Fusion Journal",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-fusion-energy-conference",
+    "label": "International Fusion Energy Conference",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusdis",
+    "label": "FusDIS (Fusion Devices Database)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-isotopes",
+    "label": "hydrogen isotopes",
+    "aliases": []
+  },
+  {
+    "id": "topic:deuterium",
+    "label": "deuterium",
+    "aliases": []
+  },
+  {
+    "id": "topic:tritium",
+    "label": "tritium",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-magnets",
+    "label": "superconducting magnets",
+    "aliases": []
+  },
+  {
+    "id": "topic:plasma-instability",
+    "label": "plasma instability",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-and-machine-learning",
+    "label": "ai and machine learning",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-emissions",
+    "label": "carbon emissions",
+    "aliases": []
+  },
+  {
+    "id": "topic:lawson-criterion",
+    "label": "Lawson Criterion",
+    "aliases": []
+  },
+  {
+    "id": "topic:tokamak-design",
+    "label": "tokamak design",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-independence",
+    "label": "energy independence",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-collaboration",
+    "label": "international collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:commercial-reactors",
+    "label": "commercial reactors",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-perception",
+    "label": "public perception",
+    "aliases": []
+  },
+  {
+    "id": "topic:educational-outreach",
+    "label": "educational outreach",
+    "aliases": []
+  },
+  {
+    "id": "topic:deuterium-tritium-1",
+    "label": "deuterium-tritium (D-T) fusion reaction",
+    "aliases": []
+  },
+  {
+    "id": "topic:helium-4",
+    "label": "helium-4 (⁴He)",
+    "aliases": []
+  },
+  {
+    "id": "topic:einsteins-equation",
+    "label": "Einstein's equation (E = mc²)",
+    "aliases": []
+  },
+  {
+    "id": "topic:inertial-confinement-systems",
+    "label": "inertial confinement systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-power-generation",
+    "label": "sustainable power generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:greenhouse-gas-emissions",
+    "label": "greenhouse gas emissions",
+    "aliases": []
+  },
+  {
+    "id": "topic:fossil-fuels",
+    "label": "fossil fuels",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-equity",
+    "label": "energy equity",
+    "aliases": []
+  },
+  {
+    "id": "topic:lithium",
+    "label": "lithium",
+    "aliases": []
+  },
+  {
+    "id": "topic:tungsten",
+    "label": "tungsten",
+    "aliases": []
+  },
+  {
+    "id": "topic:cobalt",
+    "label": "cobalt",
+    "aliases": []
+  },
+  {
+    "id": "topic:mercury",
+    "label": "mercury",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fission",
+    "label": "nuclear fission",
+    "aliases": []
+  },
+  {
+    "id": "topic:seawater",
+    "label": "seawater",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitical-tensions",
+    "label": "geopolitical tensions",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-security",
+    "label": "energy security",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-justice",
+    "label": "environmental justice",
+    "aliases": []
+  },
+  {
+    "id": "topic:disaster-preparedness",
+    "label": "disaster preparedness",
+    "aliases": []
+  },
+  {
+    "id": "topic:autistic-children",
+    "label": "autistic children",
+    "aliases": []
+  },
+  {
+    "id": "topic:animal-welfare",
+    "label": "animal welfare",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-responsibility",
+    "label": "environmental responsibility",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitical-competition",
+    "label": "geopolitical competition",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-equity",
+    "label": "social equity",
+    "aliases": []
+  },
+  {
+    "id": "topic:intergenerational-energy-justice",
+    "label": "intergenerational energy justice",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-safety-governance",
+    "label": "nuclear safety governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-collaborations",
+    "label": "International Collaborations",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-stewardship",
+    "label": "environmental stewardship",
+    "aliases": []
+  },
+  {
+    "id": "topic:resource-allocation",
+    "label": "resource allocation",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-trust",
+    "label": "public trust",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-literacy",
+    "label": "digital literacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-decision-making",
+    "label": "ethical decision-making",
+    "aliases": []
+  },
+  {
+    "id": "topic:adaptive-governance",
+    "label": "adaptive governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainability-satellites",
+    "label": "Sustainability Satellites",
+    "aliases": []
+  },
+  {
+    "id": "topic:sroi",
+    "label": "SROI (Social Return on Investment)",
+    "aliases": []
+  },
+  {
+    "id": "topic:source-attribution-analysis",
+    "label": "Source Attribution Analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:healthcare-environmental-stewardship",
+    "label": "Healthcare Environmental Stewardship",
+    "aliases": []
+  },
+  {
+    "id": "topic:core-principles-of-sustainability",
+    "label": "Core Principles of Sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:license-and-attribution",
+    "label": "license and attribution",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-change-negotiations",
+    "label": "Climate change negotiations",
+    "aliases": []
+  },
+  {
+    "id": "topic:arms-control-treaties",
+    "label": "arms control treaties",
+    "aliases": []
+  },
+  {
+    "id": "topic:digital-tools",
+    "label": "digital tools",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-frameworks",
+    "label": "ethical frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:financial-investment",
+    "label": "financial investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-equity",
+    "label": "global equity",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-reactors",
+    "label": "nuclear reactors",
+    "aliases": []
+  },
+  {
+    "id": "topic:d-d-fusion-cycles",
+    "label": "D-D fusion cycles",
+    "aliases": []
+  },
+  {
+    "id": "topic:d-he3-fusion",
+    "label": "D-He3 fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:waste-management",
+    "label": "waste management",
+    "aliases": []
+  },
+  {
+    "id": "topic:technical-uncertainty",
+    "label": "technical uncertainty",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-engagement",
+    "label": "public engagement",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-responsibility",
+    "label": "ethical responsibility",
+    "aliases": []
+  },
+  {
+    "id": "topic:policy-governance",
+    "label": "policy governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:ethical-innovation",
+    "label": "ethical innovation",
+    "aliases": []
+  },
+  {
+    "id": "topic:precautionary-principles",
+    "label": "precautionary principles",
+    "aliases": []
+  },
+  {
+    "id": "topic:stewardship",
+    "label": "stewardship",
+    "aliases": []
+  },
+  {
+    "id": "topic:socioeconomic-equity",
+    "label": "socioeconomic equity",
+    "aliases": []
+  },
+  {
+    "id": "topic:solidarity4all-project",
+    "label": "Solidarity4All Project (2024–2026)",
+    "aliases": []
+  },
+  {
+    "id": "topic:regional-disparities",
+    "label": "regional disparities",
+    "aliases": []
+  },
+  {
+    "id": "topic:russian-ukrainian-war",
+    "label": "Russian-Ukrainian War",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitical-issues",
+    "label": "geopolitical issues",
+    "aliases": []
+  },
+  {
+    "id": "topic:u.s.-china-competition",
+    "label": "U.S.-China competition",
+    "aliases": []
+  },
+  {
+    "id": "topic:chinas-influence-in-africa",
+    "label": "China’s influence in Africa",
+    "aliases": []
+  },
+  {
+    "id": "topic:sahel-crisis",
+    "label": "Sahel crisis",
+    "aliases": []
+  },
+  {
+    "id": "topic:eu-enlargement-fatigue",
+    "label": "EU enlargement fatigue",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-policy",
+    "label": "energy policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:legal-and-strategic-frameworks",
+    "label": "legal and strategic frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:childrens-rights",
+    "label": "children's rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-cooperation",
+    "label": "global cooperation",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-technology",
+    "label": "nuclear technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-systems",
+    "label": "energy systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:safety-protocols",
+    "label": "safety protocols",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiation-protection",
+    "label": "radiation protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-energy",
+    "label": "nuclear energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-governance",
+    "label": "international governance",
+    "aliases": []
+  },
+  {
+    "id": "topic:radioactive-waste",
+    "label": "radioactive waste",
+    "aliases": []
+  },
+  {
+    "id": "topic:emergency-preparedness",
+    "label": "emergency preparedness",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-safeguards",
+    "label": "nuclear safeguards",
+    "aliases": []
+  },
+  {
+    "id": "topic:plasma-confinement",
+    "label": "plasma confinement",
+    "aliases": []
+  },
+  {
+    "id": "topic:material-durability",
+    "label": "material durability",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-action",
+    "label": "climate action",
+    "aliases": []
+  },
+  {
+    "id": "topic:prison-energy-crisis",
+    "label": "prison energy crisis",
+    "aliases": []
+  },
+  {
+    "id": "topic:superconducting-tokamaks",
+    "label": "superconducting tokamaks",
+    "aliases": []
+  },
+  {
+    "id": "topic:plasma-behavior",
+    "label": "plasma behavior",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-energy-gain",
+    "label": "net energy gain",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiation-resistant-materials",
+    "label": "radiation-resistant materials",
+    "aliases": []
+  },
+  {
+    "id": "topic:riggatron",
+    "label": "Riggatron",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutral-beam-injection",
+    "label": "neutral beam injection",
+    "aliases": []
+  },
+  {
+    "id": "topic:radiofrequency-heating",
+    "label": "radiofrequency heating",
+    "aliases": []
+  },
+  {
+    "id": "topic:plasma-stability",
+    "label": "plasma stability",
+    "aliases": []
+  },
+  {
+    "id": "topic:materials-science",
+    "label": "materials science",
+    "aliases": []
+  },
+  {
+    "id": "topic:plasma-physics",
+    "label": "plasma physics",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutron-radiation",
+    "label": "neutron radiation",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fusion-research",
+    "label": "nuclear fusion research",
+    "aliases": []
+  },
+  {
+    "id": "topic:inertial-confinement-fusion",
+    "label": "inertial confinement fusion (ICF)",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetic-confinement-fusion",
+    "label": "magnetic confinement fusion (MCF)",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-temperature-superconducting",
+    "label": "high-temperature superconducting (HTS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:field-reversed-configurations",
+    "label": "Field-Reversed Configurations (FRC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:dense-plasma-focus-1",
+    "label": "Dense Plasma Focus (DPF)",
+    "aliases": []
+  },
+  {
+    "id": "topic:stellarators",
+    "label": "Stellarators",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetic-confinement-fusion-1",
+    "label": "magnetic confinement fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:inertial-confinement-fusion-1",
+    "label": "inertial confinement fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:field-reversed-configuration-1",
+    "label": "Field-Reversed Configuration (FRC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusor",
+    "label": "Fusor",
+    "aliases": []
+  },
+  {
+    "id": "topic:polywell",
+    "label": "Polywell",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-gain-factor",
+    "label": "energy gain factor (Q)",
+    "aliases": []
+  },
+  {
+    "id": "topic:reversed-field-pinch",
+    "label": "reversed field pinch (RFP)",
+    "aliases": []
+  },
+  {
+    "id": "topic:muon-catalyzed-fusion",
+    "label": "muon-catalyzed fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-zones",
+    "label": "industrial zones",
+    "aliases": []
+  },
+  {
+    "id": "topic:high-temperature-superconductors",
+    "label": "high-temperature superconductors",
+    "aliases": []
+  },
+  {
+    "id": "topic:wind-turbines",
+    "label": "wind turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-justice",
+    "label": "energy justice",
+    "aliases": []
+  },
+  {
+    "id": "topic:diffusion-of-innovations-theory",
+    "label": "Diffusion of Innovations Theory",
+    "aliases": []
+  },
+  {
+    "id": "topic:social-construction-of-technology",
+    "label": "Social Construction of Technology (SCOT)",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-literacy",
+    "label": "energy literacy",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fusion-energy",
+    "label": "nuclear fusion energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-acceptance",
+    "label": "public acceptance",
+    "aliases": []
+  },
+  {
+    "id": "topic:world-energy-outlook-2025",
+    "label": "World Energy Outlook 2025",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-technology-perspectives-2024",
+    "label": "Energy Technology Perspectives 2024",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-and-ai",
+    "label": "Energy and AI",
+    "aliases": []
+  },
+  {
+    "id": "topic:oil-market-report",
+    "label": "Oil Market Report",
+    "aliases": []
+  },
+  {
+    "id": "topic:fuel-report",
+    "label": "Fuel Report",
+    "aliases": []
+  },
+  {
+    "id": "topic:cop28-tracking-the-energy-outcomes",
+    "label": "COP28: Tracking the Energy Outcomes",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-innovation-investment",
+    "label": "Energy Innovation Investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:fossil-fuel-subsidies",
+    "label": "Fossil Fuel Subsidies",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-and-water-saving",
+    "label": "Energy and Water Saving",
+    "aliases": []
+  },
+  {
+    "id": "topic:iea-data-explorers",
+    "label": "IEA Data Explorers",
+    "aliases": []
+  },
+  {
+    "id": "topic:policies-database",
+    "label": "Policies Database",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-research-and-development",
+    "label": "Energy Research and Development",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology-collaboration",
+    "label": "Technology Collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusion-energy-initiatives",
+    "label": "Fusion Energy Initiatives",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-energy-partnerships",
+    "label": "Global Energy Partnerships",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-transition",
+    "label": "energy transition",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-zero-emissions-pathways",
+    "label": "Net-Zero Emissions Pathways",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-innovation",
+    "label": "Energy Innovation",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-modernization",
+    "label": "grid modernization",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitics",
+    "label": "geopolitics",
+    "aliases": []
+  },
+  {
+    "id": "topic:supply-chain",
+    "label": "supply chain",
+    "aliases": []
+  },
+  {
+    "id": "topic:rebco",
+    "label": "REBCO (Rare Earth Barium Copper Oxide)",
+    "aliases": []
+  },
+  {
+    "id": "topic:beryllium",
+    "label": "beryllium",
+    "aliases": []
+  },
+  {
+    "id": "topic:molten-salts",
+    "label": "molten salts",
+    "aliases": []
+  },
+  {
+    "id": "topic:electric-vehicles",
+    "label": "electric vehicles",
+    "aliases": []
+  },
+  {
+    "id": "topic:policy-innovation",
+    "label": "policy innovation",
+    "aliases": []
+  },
+  {
+    "id": "topic:thin-film-processing",
+    "label": "thin-film processing",
+    "aliases": []
+  },
+  {
+    "id": "topic:blanket-technologies",
+    "label": "blanket technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:cryo-plant-production",
+    "label": "cryo-plant production",
+    "aliases": []
+  },
+  {
+    "id": "topic:industrial-production",
+    "label": "industrial production",
+    "aliases": []
+  },
+  {
+    "id": "topic:power-electronics",
+    "label": "power electronics",
+    "aliases": []
+  },
+  {
+    "id": "topic:fuel-processing",
+    "label": "fuel processing",
+    "aliases": []
+  },
+  {
+    "id": "topic:demand-side-investment",
+    "label": "demand-side investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:risk-mitigation",
+    "label": "risk mitigation",
+    "aliases": []
+  },
+  {
+    "id": "topic:long-term-planning",
+    "label": "long-term planning",
+    "aliases": []
+  },
+  {
+    "id": "topic:cross-industry-collaboration",
+    "label": "cross-industry collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-private-partnerships",
+    "label": "public-private partnerships",
+    "aliases": []
+  },
+  {
+    "id": "topic:tritium-self-sufficiency",
+    "label": "tritium self-sufficiency",
+    "aliases": []
+  },
+  {
+    "id": "topic:heat-exhaust",
+    "label": "heat exhaust",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-viability",
+    "label": "economic viability",
+    "aliases": []
+  },
+  {
+    "id": "topic:dual-use-technology",
+    "label": "dual-use technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:arms-control",
+    "label": "arms control",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-free-energy",
+    "label": "carbon-free energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:tokamak-reactors",
+    "label": "tokamak reactors",
+    "aliases": []
+  },
+  {
+    "id": "topic:laser-driven-fusion",
+    "label": "laser-driven fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:co2-emissions",
+    "label": "CO2 emissions",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-energy-markets",
+    "label": "global energy markets",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitical-implications",
+    "label": "geopolitical implications",
+    "aliases": []
+  },
+  {
+    "id": "topic:deuterium-tritium-fusion",
+    "label": "deuterium-tritium fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:tritium-breeding-blankets",
+    "label": "tritium breeding blankets",
+    "aliases": []
+  },
+  {
+    "id": "topic:baseload-power",
+    "label": "baseload power",
+    "aliases": []
+  },
+  {
+    "id": "topic:burning-plasma",
+    "label": "burning plasma",
+    "aliases": []
+  },
+  {
+    "id": "topic:private-sector-investment",
+    "label": "private sector investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-sector-research",
+    "label": "public sector research",
+    "aliases": []
+  },
+  {
+    "id": "topic:remote-handling-technologies",
+    "label": "remote handling technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydro-energy",
+    "label": "hydro energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:multistate-fusion",
+    "label": "multistate fusion (MSF) technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-isotope-production",
+    "label": "medical isotope production",
+    "aliases": []
+  },
+  {
+    "id": "topic:cancer-treatment",
+    "label": "cancer treatment",
+    "aliases": []
+  },
+  {
+    "id": "topic:technetium-99m",
+    "label": "technetium-99m",
+    "aliases": []
+  },
+  {
+    "id": "topic:decentralized-isotope-production",
+    "label": "decentralized isotope production",
+    "aliases": []
+  },
+  {
+    "id": "topic:point-of-care-accessibility",
+    "label": "point-of-care accessibility",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-nuclear-energy",
+    "label": "hybrid nuclear energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:healthtech-investment",
+    "label": "healthtech investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:venture-capital-funding",
+    "label": "venture capital funding",
+    "aliases": []
+  },
+  {
+    "id": "topic:commercial-fusion-projects",
+    "label": "commercial fusion projects",
+    "aliases": []
+  },
+  {
+    "id": "topic:magnetized-target-fusion",
+    "label": "Magnetized Target Fusion (MTF)",
+    "aliases": []
+  },
+  {
+    "id": "topic:aneutronic-fusion",
+    "label": "aneutronic fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:direct-energy-conversion",
+    "label": "direct energy conversion",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusion-energy-ethics",
+    "label": "Fusion Energy Ethics",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-attitudes-toward-fusion-energy",
+    "label": "public attitudes toward fusion energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitics-of-nuclear-fusion",
+    "label": "geopolitics of nuclear fusion",
+    "aliases": []
+  },
+  {
+    "id": "topic:fusion-energy-commercialization",
+    "label": "fusion energy commercialization",
+    "aliases": []
+  },
+  {
+    "id": "topic:medical-applications-of-fusion-energy",
+    "label": "medical applications of fusion energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:nuclear-fusion-in-industrial-zones",
+    "label": "nuclear fusion in industrial zones",
+    "aliases": []
+  },
+  {
+    "id": "topic:neutron-emission-from-water-activation",
+    "label": "neutron emission from water activation",
+    "aliases": []
   }
 ]

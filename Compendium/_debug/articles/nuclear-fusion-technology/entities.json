@@ -1,0 +1,114 @@
+{
+  "extracted": [
+    {
+      "name": "nuclear fusion",
+      "type": "topic"
+    },
+    {
+      "name": "International Atomic Energy Agency",
+      "type": "org"
+    },
+    {
+      "name": "World Nuclear Association",
+      "type": "org"
+    },
+    {
+      "name": "Fusion Energy Ethics",
+      "type": "topic"
+    },
+    {
+      "name": "European Institute for ... (geopolitics)",
+      "type": "org"
+    },
+    {
+      "name": "Astral Systems",
+      "type": "org"
+    },
+    {
+      "name": "MIT Technology Review",
+      "type": "org"
+    },
+    {
+      "name": "energy security",
+      "type": "topic"
+    },
+    {
+      "name": "ITER Organization (iter.org)",
+      "type": "org"
+    },
+    {
+      "name": "John Doe",
+      "type": "person"
+    },
+    {
+      "name": "public attitudes toward fusion energy",
+      "type": "topic"
+    },
+    {
+      "name": "geopolitics of nuclear fusion",
+      "type": "topic"
+    },
+    {
+      "name": "fusion energy commercialization",
+      "type": "topic"
+    },
+    {
+      "name": "nuclear fusion technology",
+      "type": "topic"
+    },
+    {
+      "name": "medical applications of fusion energy",
+      "type": "topic"
+    },
+    {
+      "name": "sustainability",
+      "type": "topic"
+    },
+    {
+      "name": "nuclear fusion in industrial zones",
+      "type": "topic"
+    },
+    {
+      "name": "neutron emission from water activation",
+      "type": "topic"
+    },
+    {
+      "name": "Sustainable Energy",
+      "type": "topic"
+    },
+    {
+      "name": "Nuclear Fusion Technology",
+      "type": "topic"
+    }
+  ],
+  "resolved": {
+    "org": [
+      "org:international-atomic-energy-agency",
+      "org:world-nuclear-association",
+      "org:european-institute-for",
+      "org:astral-systems",
+      "org:mit-technology-review",
+      "org:iter-organization-1"
+    ],
+    "person": [
+      "person:john-doe"
+    ],
+    "topic": [
+      "topic:nuclear-fusion",
+      "topic:fusion-energy-ethics",
+      "topic:energy-security",
+      "topic:public-attitudes-toward-fusion-energy",
+      "topic:geopolitics-of-nuclear-fusion",
+      "topic:fusion-energy-commercialization",
+      "topic:nuclear-fusion-technology",
+      "topic:medical-applications-of-fusion-energy",
+      "topic:sustainability",
+      "topic:nuclear-fusion-in-industrial-zones",
+      "topic:neutron-emission-from-water-activation",
+      "topic:sustainable-energy",
+      "topic:nuclear-fusion-technology"
+    ]
+  },
+  "slug": "nuclear-fusion-technology",
+  "topic": "Nuclear Fusion Technology"
+}
