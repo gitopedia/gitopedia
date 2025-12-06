@@ -2998,5 +2998,120 @@
     "id": "place:twa-7-b",
     "label": "TWA 7 b",
     "aliases": []
+  },
+  {
+    "id": "place:afghanistan",
+    "label": "Afghanistan",
+    "aliases": []
+  },
+  {
+    "id": "place:indigenous-lands",
+    "label": "indigenous lands",
+    "aliases": []
+  },
+  {
+    "id": "place:belgium",
+    "label": "Belgium",
+    "aliases": []
+  },
+  {
+    "id": "place:ukraine",
+    "label": "Ukraine",
+    "aliases": []
+  },
+  {
+    "id": "place:greenland",
+    "label": "Greenland",
+    "aliases": []
+  },
+  {
+    "id": "place:sahel",
+    "label": "Sahel",
+    "aliases": []
+  },
+  {
+    "id": "place:balkan",
+    "label": "Balkan",
+    "aliases": []
+  },
+  {
+    "id": "place:russia-1",
+    "label": "Russia (Ukraine war)",
+    "aliases": []
+  },
+  {
+    "id": "place:culham-uk",
+    "label": "Culham, UK",
+    "aliases": []
+  },
+  {
+    "id": "place:moscow",
+    "label": "Moscow",
+    "aliases": []
+  },
+  {
+    "id": "place:united-states-of-america",
+    "label": "United States of America (USA)",
+    "aliases": []
+  },
+  {
+    "id": "place:united-kingdom-1",
+    "label": "United Kingdom (UK)",
+    "aliases": []
+  },
+  {
+    "id": "place:korea",
+    "label": "Korea",
+    "aliases": []
+  },
+  {
+    "id": "place:cadarache",
+    "label": "Cadarache (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:princeton",
+    "label": "Princeton (USA)",
+    "aliases": []
+  },
+  {
+    "id": "place:republic-of-korea",
+    "label": "Republic of Korea",
+    "aliases": []
+  },
+  {
+    "id": "place:saudi-arabia",
+    "label": "Saudi Arabia",
+    "aliases": []
+  },
+  {
+    "id": "place:iraq",
+    "label": "Iraq",
+    "aliases": []
+  },
+  {
+    "id": "place:iran",
+    "label": "Iran",
+    "aliases": []
+  },
+  {
+    "id": "place:chesterfield-county",
+    "label": "Chesterfield County (Virginia)",
+    "aliases": []
+  },
+  {
+    "id": "place:bristol",
+    "label": "Bristol",
+    "aliases": []
+  },
+  {
+    "id": "place:canada",
+    "label": "Canada",
+    "aliases": []
+  },
+  {
+    "id": "place:usa",
+    "label": "USA (United States)",
+    "aliases": []
   }
 ]
