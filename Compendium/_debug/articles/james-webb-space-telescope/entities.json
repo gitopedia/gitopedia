@@ -1,0 +1,184 @@
+{
+  "extracted": [
+    {
+      "name": "James Webb Space Telescope",
+      "type": "org"
+    },
+    {
+      "name": "NASA",
+      "type": "org"
+    },
+    {
+      "name": "ESA",
+      "type": "org"
+    },
+    {
+      "name": "CSA",
+      "type": "org"
+    },
+    {
+      "name": "Ariane 5",
+      "type": "org"
+    },
+    {
+      "name": "Carina Nebula",
+      "type": "place"
+    },
+    {
+      "name": "Pismis 24 star-forming region",
+      "type": "place"
+    },
+    {
+      "name": "Titan (moon)",
+      "type": "place"
+    },
+    {
+      "name": "Jupiter",
+      "type": "place"
+    },
+    {
+      "name": "Sombrero Galaxy",
+      "type": "place"
+    },
+    {
+      "name": "Cat's Paw Nebula",
+      "type": "place"
+    },
+    {
+      "name": "TRAPPIST-1 d",
+      "type": "place"
+    },
+    {
+      "name": "TRAPPIST-1 e",
+      "type": "place"
+    },
+    {
+      "name": "TWA 7 b",
+      "type": "place"
+    },
+    {
+      "name": "GN-z11",
+      "type": "place"
+    },
+    {
+      "name": "infrared observations",
+      "type": "topic"
+    },
+    {
+      "name": "exoplanets",
+      "type": "topic"
+    },
+    {
+      "name": "cosmic evolution",
+      "type": "topic"
+    },
+    {
+      "name": "stellar formation",
+      "type": "topic"
+    },
+    {
+      "name": "planetary formation",
+      "type": "topic"
+    },
+    {
+      "name": "astronomy",
+      "type": "topic"
+    },
+    {
+      "name": "dark matter",
+      "type": "topic"
+    },
+    {
+      "name": "supermassive black holes",
+      "type": "topic"
+    },
+    {
+      "name": "James Webb Space Telescope",
+      "type": "topic"
+    },
+    {
+      "name": "Hubble Space Telescope",
+      "type": "topic"
+    },
+    {
+      "name": "budget cuts for space telescopes",
+      "type": "topic"
+    },
+    {
+      "name": "international collaboration in space exploration",
+      "type": "topic"
+    },
+    {
+      "name": "early universe structures",
+      "type": "topic"
+    },
+    {
+      "name": "human psychology impact",
+      "type": "topic"
+    },
+    {
+      "name": "European Space Agency (ESA)",
+      "type": "org"
+    },
+    {
+      "name": "Space Telescope Science Institute (STScI)",
+      "type": "org"
+    },
+    {
+      "name": "Britain",
+      "type": "place"
+    },
+    {
+      "name": "Space Exploration",
+      "type": "topic"
+    },
+    {
+      "name": "James Webb Space Telescope",
+      "type": "topic"
+    }
+  ],
+  "resolved": {
+    "org": [
+      "org:james-webb-space-telescope",
+      "org:nasa",
+      "org:esa",
+      "org:csa",
+      "org:ariane-5",
+      "org:european-space-agency-1",
+      "org:space-telescope-science-institute-1"
+    ],
+    "place": [
+      "place:carina-nebula",
+      "place:pismis-24-star-forming-region",
+      "place:titan-2",
+      "place:jupiter",
+      "place:sombrero-galaxy",
+      "place:cats-paw-nebula",
+      "place:trappist-1-d",
+      "place:trappist-1-e",
+      "place:twa-7-b",
+      "place:gn-z11",
+      "place:britain"
+    ],
+    "topic": [
+      "topic:infrared-observations",
+      "topic:exoplanets",
+      "topic:cosmic-evolution",
+      "topic:stellar-formation",
+      "topic:planetary-formation",
+      "topic:astronomy",
+      "topic:dark-matter",
+      "topic:supermassive-black-holes",
+      "topic:james-webb-space-telescope",
+      "topic:hubble-space-telescope",
+      "topic:budget-cuts-for-space-telescopes",
+      "topic:international-collaboration-in-space-exploration",
+      "topic:early-universe-structures",
+      "topic:human-psychology-impact",
+      "topic:space-exploration",
+      "topic:james-webb-space-telescope"
+    ]
+  },
+  "slug": "james-webb-space-telescope",
+  "topic": "James Webb Space Telescope"
+}
