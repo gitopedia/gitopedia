@@ -3113,5 +3113,650 @@
     "id": "place:usa",
     "label": "USA (United States)",
     "aliases": []
+  },
+  {
+    "id": "place:la-rance",
+    "label": "La Rance",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-lake",
+    "label": "Sihwa Lake",
+    "aliases": []
+  },
+  {
+    "id": "place:wales",
+    "label": "Wales",
+    "aliases": []
+  },
+  {
+    "id": "place:rance-river",
+    "label": "Rance River",
+    "aliases": []
+  },
+  {
+    "id": "place:hvammsfjrur",
+    "label": "Hvammsfjörður (Iceland)",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-lake-tidal-plant",
+    "label": "Sihwa Lake Tidal Plant (South Korea)",
+    "aliases": []
+  },
+  {
+    "id": "place:meygen",
+    "label": "MeyGen (Scotland)",
+    "aliases": []
+  },
+  {
+    "id": "place:severn-barrage",
+    "label": "Severn Barrage (UK)",
+    "aliases": []
+  },
+  {
+    "id": "place:uk-1",
+    "label": "UK",
+    "aliases": []
+  },
+  {
+    "id": "place:swansea-bay",
+    "label": "Swansea Bay (UK)",
+    "aliases": []
+  },
+  {
+    "id": "place:cardiff",
+    "label": "Cardiff (UK)",
+    "aliases": []
+  },
+  {
+    "id": "place:nova-scotia",
+    "label": "Nova Scotia",
+    "aliases": []
+  },
+  {
+    "id": "place:first-nations",
+    "label": "First Nations (Canada)",
+    "aliases": []
+  },
+  {
+    "id": "place:british-columbia",
+    "label": "British Columbia",
+    "aliases": []
+  },
+  {
+    "id": "place:eswatini",
+    "label": "Eswatini",
+    "aliases": []
+  },
+  {
+    "id": "place:rance-tidal-power-station",
+    "label": "Rance Tidal Power Station (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-lake-tidal-power-station",
+    "label": "Sihwa Lake Tidal Power Station (South Korea)",
+    "aliases": []
+  },
+  {
+    "id": "place:european-marine-energy-centre",
+    "label": "European Marine Energy Centre (Scotland)",
+    "aliases": []
+  },
+  {
+    "id": "place:usa-1",
+    "label": "USA",
+    "aliases": []
+  },
+  {
+    "id": "place:pentland-firth",
+    "label": "Pentland Firth",
+    "aliases": []
+  },
+  {
+    "id": "place:bay-of-fundy",
+    "label": "Bay of Fundy",
+    "aliases": []
+  },
+  {
+    "id": "place:piscataqua-river",
+    "label": "Piscataqua River",
+    "aliases": []
+  },
+  {
+    "id": "place:mississippi-river",
+    "label": "Mississippi River",
+    "aliases": []
+  },
+  {
+    "id": "place:ansan-city",
+    "label": "Ansan City",
+    "aliases": []
+  },
+  {
+    "id": "place:gyeonggi-do",
+    "label": "Gyeonggi-do",
+    "aliases": []
+  },
+  {
+    "id": "place:gyeonggi-bay",
+    "label": "Gyeonggi Bay",
+    "aliases": []
+  },
+  {
+    "id": "place:west-sea",
+    "label": "West Sea",
+    "aliases": []
+  },
+  {
+    "id": "place:incheon-bay",
+    "label": "Incheon Bay",
+    "aliases": []
+  },
+  {
+    "id": "place:yeongjongdo-island",
+    "label": "Yeongjongdo Island",
+    "aliases": []
+  },
+  {
+    "id": "place:ganghwado-island",
+    "label": "Ganghwado Island",
+    "aliases": []
+  },
+  {
+    "id": "place:garolim-bay",
+    "label": "Garolim Bay",
+    "aliases": []
+  },
+  {
+    "id": "place:la-rance-tidal-power-station",
+    "label": "La Rance Tidal Power Station",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-embankment",
+    "label": "Sihwa embankment",
+    "aliases": []
+  },
+  {
+    "id": "place:bay-of-biscay",
+    "label": "Bay of Biscay",
+    "aliases": []
+  },
+  {
+    "id": "place:brittany",
+    "label": "Brittany",
+    "aliases": []
+  },
+  {
+    "id": "place:wadden-sea",
+    "label": "Wadden Sea",
+    "aliases": []
+  },
+  {
+    "id": "place:southeast-asia",
+    "label": "Southeast Asia",
+    "aliases": []
+  },
+  {
+    "id": "place:maine",
+    "label": "Maine (U.S. state)",
+    "aliases": []
+  },
+  {
+    "id": "place:new-brunswick",
+    "label": "New Brunswick (province)",
+    "aliases": []
+  },
+  {
+    "id": "place:passamaquoddy-bay",
+    "label": "Passamaquoddy Bay",
+    "aliases": []
+  },
+  {
+    "id": "place:chignetco-bay",
+    "label": "Chignetco Bay",
+    "aliases": []
+  },
+  {
+    "id": "place:minas-basin",
+    "label": "Minas Basin",
+    "aliases": []
+  },
+  {
+    "id": "place:rance-estuary",
+    "label": "Rance Estuary",
+    "aliases": []
+  },
+  {
+    "id": "place:st.-malo",
+    "label": "St. Malo (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-lake-1",
+    "label": "Sihwa Lake (South Korea)",
+    "aliases": []
+  },
+  {
+    "id": "place:orkney",
+    "label": "Orkney",
+    "aliases": []
+  },
+  {
+    "id": "place:north-atlantic",
+    "label": "North Atlantic",
+    "aliases": []
+  },
+  {
+    "id": "place:pacific-ocean",
+    "label": "Pacific Ocean",
+    "aliases": []
+  },
+  {
+    "id": "place:sun-1",
+    "label": "Sun",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-lake-tidal-power-station-1",
+    "label": "Sihwa Lake Tidal Power Station",
+    "aliases": []
+  },
+  {
+    "id": "place:annapolis-tidal-power-project",
+    "label": "Annapolis Tidal Power Project",
+    "aliases": []
+  },
+  {
+    "id": "place:portugal",
+    "label": "Portugal",
+    "aliases": []
+  },
+  {
+    "id": "place:denmark",
+    "label": "Denmark",
+    "aliases": []
+  },
+  {
+    "id": "place:sub-saharan-africa",
+    "label": "Sub-Saharan Africa",
+    "aliases": []
+  },
+  {
+    "id": "place:philippines",
+    "label": "Philippines",
+    "aliases": []
+  },
+  {
+    "id": "place:indonesia",
+    "label": "Indonesia",
+    "aliases": []
+  },
+  {
+    "id": "place:norway",
+    "label": "Norway",
+    "aliases": []
+  },
+  {
+    "id": "place:brazil",
+    "label": "Brazil",
+    "aliases": []
+  },
+  {
+    "id": "place:tembe-river",
+    "label": "Tembe River",
+    "aliases": []
+  },
+  {
+    "id": "place:orkney-islands",
+    "label": "Orkney Islands",
+    "aliases": []
+  },
+  {
+    "id": "place:tohoku",
+    "label": "Tohoku",
+    "aliases": []
+  },
+  {
+    "id": "place:south-africa",
+    "label": "South Africa",
+    "aliases": []
+  },
+  {
+    "id": "place:gulf-of-california",
+    "label": "Gulf of California",
+    "aliases": []
+  },
+  {
+    "id": "place:busan",
+    "label": "Busan",
+    "aliases": []
+  },
+  {
+    "id": "place:maputo-river",
+    "label": "Maputo River",
+    "aliases": []
+  },
+  {
+    "id": "place:la-ventana-tidal-farm",
+    "label": "La Ventana Tidal Farm",
+    "aliases": []
+  },
+  {
+    "id": "place:sines-tidal-energy-project",
+    "label": "Sines tidal energy project",
+    "aliases": []
+  },
+  {
+    "id": "place:lombok-tidal-demonstration-project",
+    "label": "Lombok Tidal Demonstration Project",
+    "aliases": []
+  },
+  {
+    "id": "place:meygen-tidal-project",
+    "label": "MeyGen tidal project",
+    "aliases": []
+  },
+  {
+    "id": "place:sihwa-lake-tidal-plant-1",
+    "label": "Sihwa Lake Tidal Plant",
+    "aliases": []
+  },
+  {
+    "id": "place:kamaishi-tidal-project",
+    "label": "Kamaishi Tidal Project",
+    "aliases": []
+  },
+  {
+    "id": "place:swansea-bay-tidal-lagoon",
+    "label": "Swansea Bay Tidal Lagoon",
+    "aliases": []
+  },
+  {
+    "id": "place:mozambique",
+    "label": "Mozambique",
+    "aliases": []
+  },
+  {
+    "id": "place:komati-river-tidal-project",
+    "label": "Komati River Tidal Project",
+    "aliases": []
+  },
+  {
+    "id": "place:baja-california-peninsula",
+    "label": "Baja California Peninsula",
+    "aliases": []
+  },
+  {
+    "id": "place:java-sea",
+    "label": "Java Sea",
+    "aliases": []
+  },
+  {
+    "id": "place:oregon",
+    "label": "Oregon",
+    "aliases": []
+  },
+  {
+    "id": "place:cumbria",
+    "label": "Cumbria",
+    "aliases": []
+  },
+  {
+    "id": "place:north-sea",
+    "label": "North Sea",
+    "aliases": []
+  },
+  {
+    "id": "place:tamil-nadu",
+    "label": "Tamil Nadu",
+    "aliases": []
+  },
+  {
+    "id": "place:western-australia",
+    "label": "Western Australia",
+    "aliases": []
+  },
+  {
+    "id": "place:galway-bay",
+    "label": "Galway Bay",
+    "aliases": []
+  },
+  {
+    "id": "place:taean-strait",
+    "label": "Taean Strait",
+    "aliases": []
+  },
+  {
+    "id": "place:namibia",
+    "label": "Namibia",
+    "aliases": []
+  },
+  {
+    "id": "place:bangladesh",
+    "label": "Bangladesh",
+    "aliases": []
+  },
+  {
+    "id": "place:orkney-1",
+    "label": "Orkney (Scotland)",
+    "aliases": []
+  },
+  {
+    "id": "place:ireland",
+    "label": "Ireland",
+    "aliases": []
+  },
+  {
+    "id": "place:kagoshima",
+    "label": "Kagoshima",
+    "aliases": []
+  },
+  {
+    "id": "place:baja-california",
+    "label": "Baja California",
+    "aliases": []
+  },
+  {
+    "id": "place:suldalsfjorden",
+    "label": "Suldalsfjorden",
+    "aliases": []
+  },
+  {
+    "id": "place:fremantle",
+    "label": "Fremantle",
+    "aliases": []
+  },
+  {
+    "id": "place:maldives",
+    "label": "Maldives",
+    "aliases": []
+  },
+  {
+    "id": "place:tuvalu",
+    "label": "Tuvalu",
+    "aliases": []
+  },
+  {
+    "id": "place:gulf-of-kutch",
+    "label": "Gulf of Kutch",
+    "aliases": []
+  },
+  {
+    "id": "place:caribbean",
+    "label": "Caribbean",
+    "aliases": []
+  },
+  {
+    "id": "place:pacific",
+    "label": "Pacific",
+    "aliases": []
+  },
+  {
+    "id": "place:atlantic-coast",
+    "label": "Atlantic coast",
+    "aliases": []
+  },
+  {
+    "id": "place:west-africa",
+    "label": "West Africa",
+    "aliases": []
+  },
+  {
+    "id": "place:india-ocean",
+    "label": "India Ocean",
+    "aliases": []
+  },
+  {
+    "id": "place:aguadoura-wave-farm",
+    "label": "Aguçadoura Wave Farm",
+    "aliases": []
+  },
+  {
+    "id": "place:meygen-tidal-array",
+    "label": "MeyGen tidal array",
+    "aliases": []
+  },
+  {
+    "id": "place:pacwave-south",
+    "label": "PacWave South",
+    "aliases": []
+  },
+  {
+    "id": "place:sulu-sea",
+    "label": "Sulu Sea",
+    "aliases": []
+  },
+  {
+    "id": "place:strangford-lough-tidal-array",
+    "label": "Strangford Lough Tidal Array",
+    "aliases": []
+  },
+  {
+    "id": "place:andaman-and-nicobar-islands",
+    "label": "Andaman and Nicobar Islands",
+    "aliases": []
+  },
+  {
+    "id": "place:neart-na-gaoithe-tidal-array",
+    "label": "Neart na Gaoithe tidal array",
+    "aliases": []
+  },
+  {
+    "id": "place:manukau-heads-tidal-energy-project",
+    "label": "Manukau Heads Tidal Energy Project",
+    "aliases": []
+  },
+  {
+    "id": "place:baha-de-los-ngeles-tidal-project",
+    "label": "Bahía de Los Ángeles Tidal Project",
+    "aliases": []
+  },
+  {
+    "id": "place:jiangxia-tidal-power-station",
+    "label": "Jiangxia Tidal Power Station",
+    "aliases": []
+  },
+  {
+    "id": "place:donghai-bridge-offshore-wind-tidal-hybrid-project",
+    "label": "Donghai Bridge Offshore Wind-Tidal Hybrid Project",
+    "aliases": []
+  },
+  {
+    "id": "place:lamu-county",
+    "label": "Lamu County (Kenya)",
+    "aliases": []
+  },
+  {
+    "id": "place:oaxaca",
+    "label": "Oaxaca (Mexico)",
+    "aliases": []
+  },
+  {
+    "id": "place:oregon-1",
+    "label": "Oregon (United States)",
+    "aliases": []
+  },
+  {
+    "id": "place:scotland-1",
+    "label": "Scotland (United Kingdom)",
+    "aliases": []
+  },
+  {
+    "id": "place:european-union",
+    "label": "European Union",
+    "aliases": []
+  },
+  {
+    "id": "place:pongolapoort-dam",
+    "label": "Pongolapoort Dam (Eswatini)",
+    "aliases": []
+  },
+  {
+    "id": "place:lamu-county-1",
+    "label": "Lamu County",
+    "aliases": []
+  },
+  {
+    "id": "place:oaxaca-1",
+    "label": "Oaxaca",
+    "aliases": []
+  },
+  {
+    "id": "place:agulhas-current",
+    "label": "Agulhas Current",
+    "aliases": []
+  },
+  {
+    "id": "place:kiel",
+    "label": "Kiel",
+    "aliases": []
+  },
+  {
+    "id": "place:austria",
+    "label": "Austria",
+    "aliases": []
+  },
+  {
+    "id": "place:czech-republic",
+    "label": "Czech Republic",
+    "aliases": []
+  },
+  {
+    "id": "place:mozambique-channel",
+    "label": "Mozambique Channel",
+    "aliases": []
+  },
+  {
+    "id": "place:gulf-of-mexico",
+    "label": "Gulf of Mexico",
+    "aliases": []
+  },
+  {
+    "id": "place:nova-scotia-1",
+    "label": "Nova Scotia (Canada)",
+    "aliases": []
+  },
+  {
+    "id": "place:kiel-1",
+    "label": "Kiel (Germany)",
+    "aliases": []
+  },
+  {
+    "id": "place:shetland",
+    "label": "Shetland (United Kingdom)",
+    "aliases": []
+  },
+  {
+    "id": "place:la-rance-tidal-power-station-1",
+    "label": "La Rance Tidal Power Station (France)",
+    "aliases": []
+  },
+  {
+    "id": "place:annapolis-royal-generating-station",
+    "label": "Annapolis Royal Generating Station (Canada)",
+    "aliases": []
   }
 ]
