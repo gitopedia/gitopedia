@@ -11503,5 +11503,1590 @@
     "id": "topic:neutron-emission-from-water-activation",
     "label": "neutron emission from water activation",
     "aliases": []
+  },
+  {
+    "id": "topic:tidal-energy",
+    "label": "tidal energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-ecosystems",
+    "label": "marine ecosystems",
+    "aliases": []
+  },
+  {
+    "id": "topic:blue-economy",
+    "label": "blue economy",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-energy-technologies",
+    "label": "Tidal Energy Technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-stream",
+    "label": "tidal stream",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-barrage",
+    "label": "tidal barrage",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-lagoon",
+    "label": "tidal lagoon",
+    "aliases": []
+  },
+  {
+    "id": "topic:dynamic-tidal-power",
+    "label": "Dynamic Tidal Power (DTP)",
+    "aliases": []
+  },
+  {
+    "id": "topic:fish-migration",
+    "label": "fish migration",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbine",
+    "label": "turbine",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-bore",
+    "label": "tidal bore",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-range",
+    "label": "tidal range",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-current",
+    "label": "tidal current",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-power",
+    "label": "tidal power",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-energy-systems",
+    "label": "tidal energy systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:sediment-transport",
+    "label": "sediment transport",
+    "aliases": []
+  },
+  {
+    "id": "topic:fish-friendly-turbines",
+    "label": "fish-friendly turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:bypass-channels",
+    "label": "bypass channels",
+    "aliases": []
+  },
+  {
+    "id": "topic:legal-framework",
+    "label": "legal framework",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-rights",
+    "label": "water rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:payback-periods",
+    "label": "payback periods",
+    "aliases": []
+  },
+  {
+    "id": "topic:infrastructure",
+    "label": "infrastructure",
+    "aliases": []
+  },
+  {
+    "id": "topic:government-collaboration",
+    "label": "government collaboration",
+    "aliases": []
+  },
+  {
+    "id": "topic:national-energy-grids",
+    "label": "national energy grids",
+    "aliases": []
+  },
+  {
+    "id": "topic:technical-challenges",
+    "label": "technical challenges",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-barrages",
+    "label": "Tidal Barrages",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-stream-generators",
+    "label": "Tidal Stream Generators",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-lagoons",
+    "label": "Tidal Lagoons",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-zero",
+    "label": "Net Zero",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-tides",
+    "label": "ocean tides",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-stream-systems",
+    "label": "tidal stream systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-range-systems",
+    "label": "tidal range systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:dynamic-tidal-power-1",
+    "label": "dynamic tidal power",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-density",
+    "label": "energy density",
+    "aliases": []
+  },
+  {
+    "id": "topic:intermittency",
+    "label": "intermittency",
+    "aliases": []
+  },
+  {
+    "id": "topic:fossil-fuel-depletion",
+    "label": "fossil fuel depletion",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-transition",
+    "label": "renewable energy transition",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-pricing-mechanisms",
+    "label": "carbon pricing mechanisms",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-conservation-planning",
+    "label": "marine conservation planning",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-renewable-energy",
+    "label": "marine renewable energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-impact",
+    "label": "ecological impact",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-impact-assessments",
+    "label": "environmental impact assessments (EIAs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrodynamic-impact",
+    "label": "hydrodynamic impact",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-biodiversity",
+    "label": "marine biodiversity",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-quality",
+    "label": "water quality",
+    "aliases": []
+  },
+  {
+    "id": "topic:coastal-erosion",
+    "label": "coastal erosion",
+    "aliases": []
+  },
+  {
+    "id": "topic:seabird-behavior",
+    "label": "seabird behavior",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-criteria-decision-analysis",
+    "label": "multi-criteria decision analysis (MCDA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-energy",
+    "label": "Ocean energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-and-coastal-access-act",
+    "label": "Marine and Coastal Access Act (2009)",
+    "aliases": []
+  },
+  {
+    "id": "topic:offshore-wind-energy",
+    "label": "offshore wind energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:wave-energy",
+    "label": "wave energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-frameworks",
+    "label": "Regulatory frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-change-adaptation",
+    "label": "climate change adaptation",
+    "aliases": []
+  },
+  {
+    "id": "topic:vertical-farming",
+    "label": "vertical farming",
+    "aliases": []
+  },
+  {
+    "id": "topic:data-analytics-in-waste-management",
+    "label": "data analytics in waste management",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-law",
+    "label": "international law",
+    "aliases": []
+  },
+  {
+    "id": "topic:wave-and-tidal-energy",
+    "label": "wave and tidal energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:coastal-communities",
+    "label": "coastal communities",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-mitigation",
+    "label": "climate mitigation",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-energy",
+    "label": "marine energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:gdp-growth",
+    "label": "GDP growth",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-diversification",
+    "label": "economic diversification",
+    "aliases": []
+  },
+  {
+    "id": "topic:technology-transfer",
+    "label": "technology transfer",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-south",
+    "label": "Global South",
+    "aliases": []
+  },
+  {
+    "id": "topic:coastal-zone-management-law",
+    "label": "Coastal Zone Management Law",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-impact-assessment",
+    "label": "Environmental Impact Assessment (EIA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:exclusive-economic-zones",
+    "label": "Exclusive Economic Zones (EEZs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-development",
+    "label": "renewable energy development",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-compliance",
+    "label": "regulatory compliance",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-treaties",
+    "label": "international treaties",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-participation",
+    "label": "public participation",
+    "aliases": []
+  },
+  {
+    "id": "topic:community-engagement",
+    "label": "community engagement",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-protection",
+    "label": "environmental protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-integrity",
+    "label": "ecological integrity",
+    "aliases": []
+  },
+  {
+    "id": "topic:jurisdictional-disputes",
+    "label": "jurisdictional disputes",
+    "aliases": []
+  },
+  {
+    "id": "topic:safety-standards",
+    "label": "safety standards",
+    "aliases": []
+  },
+  {
+    "id": "topic:insurance-requirements",
+    "label": "insurance requirements",
+    "aliases": []
+  },
+  {
+    "id": "topic:liability",
+    "label": "liability",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-challenges",
+    "label": "regulatory challenges",
+    "aliases": []
+  },
+  {
+    "id": "topic:jurisdictional-overlaps",
+    "label": "jurisdictional overlaps",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-impact-assessments-1",
+    "label": "environmental impact assessments",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-policies",
+    "label": "renewable energy policies",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-conservation",
+    "label": "marine conservation",
+    "aliases": []
+  },
+  {
+    "id": "topic:electricity-generation",
+    "label": "Electricity Generation",
+    "aliases": []
+  },
+  {
+    "id": "topic:gravitational-forces",
+    "label": "Gravitational Forces",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbine-installation",
+    "label": "Turbine Installation",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydrogen-production",
+    "label": "Hydrogen Production",
+    "aliases": []
+  },
+  {
+    "id": "topic:vanadium-flow-batteries",
+    "label": "Vanadium Flow Batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:lifepo4-batteries",
+    "label": "LiFePO4 Batteries",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-integration",
+    "label": "Grid Integration",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-assessment",
+    "label": "Environmental Assessment",
+    "aliases": []
+  },
+  {
+    "id": "topic:floating-tidal-systems",
+    "label": "Floating Tidal Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:underwater-kites",
+    "label": "Underwater Kites",
+    "aliases": []
+  },
+  {
+    "id": "topic:deep-green",
+    "label": "Deep Green",
+    "aliases": []
+  },
+  {
+    "id": "topic:ducted-turbines",
+    "label": "Ducted Turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:contracts-for-difference",
+    "label": "Contracts for Difference",
+    "aliases": []
+  },
+  {
+    "id": "topic:offshore-wind",
+    "label": "offshore wind",
+    "aliases": []
+  },
+  {
+    "id": "topic:power-purchase-agreements",
+    "label": "Power Purchase Agreements",
+    "aliases": []
+  },
+  {
+    "id": "topic:levelized-cost-of-energy",
+    "label": "Levelized Cost of Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:capacity-factor",
+    "label": "Capacity Factor",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbine-availability-rate",
+    "label": "Turbine Availability Rate",
+    "aliases": []
+  },
+  {
+    "id": "topic:mean-time-between-failures",
+    "label": "Mean Time Between Failures",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-profit-margin",
+    "label": "Net Profit Margin",
+    "aliases": []
+  },
+  {
+    "id": "topic:owner-earnings",
+    "label": "Owner Earnings",
+    "aliases": []
+  },
+  {
+    "id": "topic:hydropower",
+    "label": "hydropower",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-portfolio-standards",
+    "label": "Renewable Portfolio Standards (RPS)",
+    "aliases": []
+  },
+  {
+    "id": "topic:eco-tourism",
+    "label": "eco-tourism",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-dioxide-1",
+    "label": "carbon dioxide (CO₂)",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-power-station",
+    "label": "tidal power station",
+    "aliases": []
+  },
+  {
+    "id": "topic:chemical-oxygen-demand",
+    "label": "chemical oxygen demand (COD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:aquatic-life",
+    "label": "aquatic life",
+    "aliases": []
+  },
+  {
+    "id": "topic:sluice-gates",
+    "label": "sluice gates",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbines",
+    "label": "turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:predictable-energy-sources",
+    "label": "predictable energy sources",
+    "aliases": []
+  },
+  {
+    "id": "topic:land-reclamation",
+    "label": "land reclamation",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-life",
+    "label": "marine life",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-stream-turbines",
+    "label": "tidal stream turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:sedimentation",
+    "label": "sedimentation",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-preservation",
+    "label": "ecological preservation",
+    "aliases": []
+  },
+  {
+    "id": "topic:habitat-alteration",
+    "label": "habitat alteration",
+    "aliases": []
+  },
+  {
+    "id": "topic:noise-pollution",
+    "label": "noise pollution",
+    "aliases": []
+  },
+  {
+    "id": "topic:artificial-reefs",
+    "label": "artificial reefs",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-monitoring",
+    "label": "environmental monitoring",
+    "aliases": []
+  },
+  {
+    "id": "topic:acoustic-deterrents",
+    "label": "acoustic deterrents",
+    "aliases": []
+  },
+  {
+    "id": "topic:adaptive-management",
+    "label": "adaptive management",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-ecosystems",
+    "label": "tidal ecosystems",
+    "aliases": []
+  },
+  {
+    "id": "topic:mangroves",
+    "label": "mangroves",
+    "aliases": []
+  },
+  {
+    "id": "topic:salt-marshes",
+    "label": "salt marshes",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-invertebrates",
+    "label": "marine invertebrates",
+    "aliases": []
+  },
+  {
+    "id": "topic:sediment-dynamics",
+    "label": "sediment dynamics",
+    "aliases": []
+  },
+  {
+    "id": "topic:citizen-science",
+    "label": "citizen science",
+    "aliases": []
+  },
+  {
+    "id": "topic:traditional-ecological-knowledge",
+    "label": "Traditional Ecological Knowledge (TEK)",
+    "aliases": []
+  },
+  {
+    "id": "topic:natura-2000",
+    "label": "Natura 2000",
+    "aliases": []
+  },
+  {
+    "id": "topic:water-framework-directive",
+    "label": "Water Framework Directive (WFD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:habitats-directive",
+    "label": "Habitats Directive",
+    "aliases": []
+  },
+  {
+    "id": "topic:cumulative-effects",
+    "label": "cumulative effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-act-2004",
+    "label": "Energy Act 2004",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-and-coastal-access-act-2009",
+    "label": "Marine and Coastal Access Act 2009",
+    "aliases": []
+  },
+  {
+    "id": "topic:eco-sensitive-zone",
+    "label": "Eco-Sensitive Zone (ESZ)",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-renewable-energy-certificates",
+    "label": "International Renewable Energy Certificates (I-RECs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:living-lab-concept",
+    "label": "Living Lab concept",
+    "aliases": []
+  },
+  {
+    "id": "topic:multi-agency-coordination",
+    "label": "multi-agency coordination",
+    "aliases": []
+  },
+  {
+    "id": "topic:offshore-renewable-energy-act-2024",
+    "label": "Offshore Renewable Energy Act 2024",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-power-projects",
+    "label": "tidal power projects",
+    "aliases": []
+  },
+  {
+    "id": "topic:oceanic-current-turbines",
+    "label": "oceanic current turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbine-design",
+    "label": "turbine design",
+    "aliases": []
+  },
+  {
+    "id": "topic:horizontal-axis-turbines",
+    "label": "Horizontal-Axis Turbines (HATs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:vertical-axis-turbines",
+    "label": "Vertical-Axis Turbines (VATs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:computational-fluid-dynamics",
+    "label": "computational fluid dynamics (CFD)",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-conversion-systems",
+    "label": "energy conversion systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-driven-predictive-maintenance",
+    "label": "AI-driven predictive maintenance",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-energy-systems",
+    "label": "hybrid energy systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:nanomaterials",
+    "label": "nanomaterials",
+    "aliases": []
+  },
+  {
+    "id": "topic:corrosion-resistant-alloys",
+    "label": "corrosion-resistant alloys",
+    "aliases": []
+  },
+  {
+    "id": "topic:policy-and-regulatory-frameworks",
+    "label": "policy and regulatory frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:feed-in-tariffs",
+    "label": "feed-in tariffs",
+    "aliases": []
+  },
+  {
+    "id": "topic:darrieus-design",
+    "label": "Darrieus design",
+    "aliases": []
+  },
+  {
+    "id": "topic:entropy-based-energy-loss-analysis",
+    "label": "entropy-based energy loss analysis",
+    "aliases": []
+  },
+  {
+    "id": "topic:reverse-power-operations",
+    "label": "reverse power operations",
+    "aliases": []
+  },
+  {
+    "id": "topic:whole-systems-modeling",
+    "label": "whole-systems modeling",
+    "aliases": []
+  },
+  {
+    "id": "topic:wave-power",
+    "label": "wave power",
+    "aliases": []
+  },
+  {
+    "id": "topic:floating-wave-energy-converters",
+    "label": "floating wave energy converters",
+    "aliases": []
+  },
+  {
+    "id": "topic:hybrid-renewable-energy-systems",
+    "label": "hybrid renewable energy systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:corrosion-resistant-materials",
+    "label": "corrosion-resistant materials",
+    "aliases": []
+  },
+  {
+    "id": "topic:oscillating-water-columns",
+    "label": "oscillating water columns",
+    "aliases": []
+  },
+  {
+    "id": "topic:point-absorbers",
+    "label": "point absorbers",
+    "aliases": []
+  },
+  {
+    "id": "topic:biofouling",
+    "label": "biofouling",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-effects",
+    "label": "ecological effects",
+    "aliases": []
+  },
+  {
+    "id": "topic:geothermal-power",
+    "label": "geothermal power",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-development-goals",
+    "label": "Sustainable development goals",
+    "aliases": []
+  },
+  {
+    "id": "topic:affordable-and-clean-energy",
+    "label": "affordable and clean energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:biodiversity",
+    "label": "biodiversity",
+    "aliases": []
+  },
+  {
+    "id": "topic:job-creation",
+    "label": "job creation",
+    "aliases": []
+  },
+  {
+    "id": "topic:technological-innovations",
+    "label": "technological innovations",
+    "aliases": []
+  },
+  {
+    "id": "topic:floating-tidal-platforms",
+    "label": "floating tidal platforms",
+    "aliases": []
+  },
+  {
+    "id": "topic:policy-support",
+    "label": "policy support",
+    "aliases": []
+  },
+  {
+    "id": "topic:2030",
+    "label": "2030",
+    "aliases": []
+  },
+  {
+    "id": "topic:terms-of-service",
+    "label": "terms of service",
+    "aliases": []
+  },
+  {
+    "id": "topic:privacy-policy",
+    "label": "privacy policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:user-agreements",
+    "label": "user agreements",
+    "aliases": []
+  },
+  {
+    "id": "topic:service-restrictions",
+    "label": "service restrictions",
+    "aliases": []
+  },
+  {
+    "id": "topic:disclaimer-clauses",
+    "label": "disclaimer clauses",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-turbines",
+    "label": "tidal turbines",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-migration",
+    "label": "marine migration",
+    "aliases": []
+  },
+  {
+    "id": "topic:sediment-displacement",
+    "label": "sediment displacement",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecosystem-renewability",
+    "label": "ecosystem renewability",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-tidal-energy-development",
+    "label": "Sustainable tidal energy development",
+    "aliases": []
+  },
+  {
+    "id": "topic:fish",
+    "label": "fish",
+    "aliases": []
+  },
+  {
+    "id": "topic:salmon",
+    "label": "salmon",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-mammals",
+    "label": "marine mammals",
+    "aliases": []
+  },
+  {
+    "id": "topic:benthic-communities",
+    "label": "benthic communities",
+    "aliases": []
+  },
+  {
+    "id": "topic:floating-platforms",
+    "label": "floating platforms",
+    "aliases": []
+  },
+  {
+    "id": "topic:dynamic-tidal-power-systems",
+    "label": "dynamic tidal power systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:underwater-monitoring-systems",
+    "label": "underwater monitoring systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:oscillating-hydrofoils",
+    "label": "oscillating hydrofoils",
+    "aliases": []
+  },
+  {
+    "id": "topic:clean-energy-goals",
+    "label": "clean energy goals",
+    "aliases": []
+  },
+  {
+    "id": "topic:intertidal-zones",
+    "label": "intertidal zones",
+    "aliases": []
+  },
+  {
+    "id": "topic:sediment-accumulation",
+    "label": "sediment accumulation",
+    "aliases": []
+  },
+  {
+    "id": "topic:tide-energy",
+    "label": "tide energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-prices",
+    "label": "energy prices",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-impact-assessments-2",
+    "label": "environmental impact assessments (EIA)",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-health",
+    "label": "public health",
+    "aliases": []
+  },
+  {
+    "id": "topic:indigenous-consultation",
+    "label": "indigenous consultation",
+    "aliases": []
+  },
+  {
+    "id": "topic:sines-tidal-energy-project",
+    "label": "Sines tidal energy project",
+    "aliases": []
+  },
+  {
+    "id": "topic:meygen-tidal-project",
+    "label": "MeyGen tidal project",
+    "aliases": []
+  },
+  {
+    "id": "topic:sihwa-lake-tidal-plant",
+    "label": "Sihwa Lake Tidal Plant",
+    "aliases": []
+  },
+  {
+    "id": "topic:green-deal",
+    "label": "Green Deal",
+    "aliases": []
+  },
+  {
+    "id": "topic:kamaishi-tidal-project",
+    "label": "Kamaishi Tidal Project",
+    "aliases": []
+  },
+  {
+    "id": "topic:lombok-tidal-demonstration-project",
+    "label": "Lombok Tidal Demonstration Project",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-energy-for-developing-nations-initiative",
+    "label": "Marine Energy for Developing Nations initiative",
+    "aliases": []
+  },
+  {
+    "id": "topic:iec-62600",
+    "label": "IEC 62600",
+    "aliases": []
+  },
+  {
+    "id": "topic:hyperion-project",
+    "label": "HYPERION project",
+    "aliases": []
+  },
+  {
+    "id": "topic:scottish-pelamis-wave-energy-converter",
+    "label": "Scottish Pelamis Wave Energy Converter",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-obligation-certificates",
+    "label": "Renewable Obligation Certificates (ROC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:swansea-bay-tidal-lagoon",
+    "label": "Swansea Bay Tidal Lagoon",
+    "aliases": []
+  },
+  {
+    "id": "topic:canadas-marine-renewable-energy-act",
+    "label": "Canada’s Marine Renewable Energy Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:atlantic-salmon",
+    "label": "Atlantic salmon",
+    "aliases": []
+  },
+  {
+    "id": "topic:co-reduction",
+    "label": "CO₂ reduction",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-resilience",
+    "label": "economic resilience",
+    "aliases": []
+  },
+  {
+    "id": "topic:local-economies",
+    "label": "local economies",
+    "aliases": []
+  },
+  {
+    "id": "topic:biodiversity-protection",
+    "label": "biodiversity protection",
+    "aliases": []
+  },
+  {
+    "id": "topic:rural-economic-development",
+    "label": "rural economic development",
+    "aliases": []
+  },
+  {
+    "id": "topic:iec-62600-series",
+    "label": "IEC 62600 series",
+    "aliases": []
+  },
+  {
+    "id": "topic:pelamis-wave-converter",
+    "label": "Pelamis Wave Converter",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbine-efficiency",
+    "label": "turbine efficiency",
+    "aliases": []
+  },
+  {
+    "id": "topic:biomimetic-turbine-designs",
+    "label": "biomimetic turbine designs",
+    "aliases": []
+  },
+  {
+    "id": "topic:capacity-factors",
+    "label": "capacity factors",
+    "aliases": []
+  },
+  {
+    "id": "topic:traditional-ecological-knowledge-1",
+    "label": "traditional ecological knowledge",
+    "aliases": []
+  },
+  {
+    "id": "topic:revenue-sharing-agreements",
+    "label": "revenue-sharing agreements",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-infrastructure",
+    "label": "grid infrastructure",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-strategy-framework-directive",
+    "label": "Marine Strategy Framework Directive",
+    "aliases": []
+  },
+  {
+    "id": "topic:ai-driven-grid-integration",
+    "label": "AI-driven grid integration",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-energy-park",
+    "label": "Marine Energy Park",
+    "aliases": []
+  },
+  {
+    "id": "topic:2050-net-zero-roadmap",
+    "label": "2050 net-zero roadmap",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-sources-act",
+    "label": "Renewable Energy Sources Act (EEG)",
+    "aliases": []
+  },
+  {
+    "id": "topic:indigenous-communities",
+    "label": "Indigenous communities",
+    "aliases": []
+  },
+  {
+    "id": "topic:national-energy-strategy",
+    "label": "National Energy Strategy (Mexico)",
+    "aliases": []
+  },
+  {
+    "id": "topic:economic-impacts",
+    "label": "economic impacts",
+    "aliases": []
+  },
+  {
+    "id": "topic:gdp",
+    "label": "GDP",
+    "aliases": []
+  },
+  {
+    "id": "topic:well-being-of-coastal-communities",
+    "label": "well-being of coastal communities",
+    "aliases": []
+  },
+  {
+    "id": "topic:diesel-generators",
+    "label": "diesel generators",
+    "aliases": []
+  },
+  {
+    "id": "topic:biden-administration",
+    "label": "Biden administration",
+    "aliases": []
+  },
+  {
+    "id": "topic:geopolitical-risks",
+    "label": "geopolitical risks",
+    "aliases": []
+  },
+  {
+    "id": "topic:private-investment",
+    "label": "private investment",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-monitoring",
+    "label": "ecological monitoring",
+    "aliases": []
+  },
+  {
+    "id": "topic:cost-efficiency",
+    "label": "cost efficiency",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-obligation-certificates-1",
+    "label": "Renewable Obligation Certificates (ROCs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:air-pollution",
+    "label": "air pollution",
+    "aliases": []
+  },
+  {
+    "id": "topic:international-journal-of-cleaner-production",
+    "label": "International Journal of Cleaner Production",
+    "aliases": []
+  },
+  {
+    "id": "topic:irena-report",
+    "label": "IRENA report",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-goals",
+    "label": "climate goals",
+    "aliases": []
+  },
+  {
+    "id": "topic:levelized-costs",
+    "label": "levelized costs",
+    "aliases": []
+  },
+  {
+    "id": "topic:feed-in-tariff",
+    "label": "feed-in tariff (FiT) system",
+    "aliases": []
+  },
+  {
+    "id": "topic:uks-climate-change-act",
+    "label": "UK’s Climate Change Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:ceto-system",
+    "label": "CETO system",
+    "aliases": []
+  },
+  {
+    "id": "topic:climate-change-act",
+    "label": "Climate Change Act",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-energy-systems",
+    "label": "Ocean Energy Systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:united-kingdoms-marine-energy-strategy",
+    "label": "United Kingdom's Marine Energy Strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:uks-renewable-obligation",
+    "label": "UK’s Renewable Obligation",
+    "aliases": []
+  },
+  {
+    "id": "topic:u.s.-production-tax-credit",
+    "label": "U.S. Production Tax Credit (PTC)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-energy-strategy",
+    "label": "Ocean Energy Strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:modular-turbine-designs",
+    "label": "Modular turbine designs",
+    "aliases": []
+  },
+  {
+    "id": "topic:uk-renewable-obligation",
+    "label": "UK Renewable Obligation",
+    "aliases": []
+  },
+  {
+    "id": "topic:global-partnerships",
+    "label": "global partnerships",
+    "aliases": []
+  },
+  {
+    "id": "topic:cost-benefit-analysis-1",
+    "label": "cost-benefit analysis (energy)",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-market-stability",
+    "label": "energy market stability",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-impact-assessment",
+    "label": "ecological impact assessment",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-infrastructure",
+    "label": "energy infrastructure",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-energy-directive",
+    "label": "Renewable Energy Directive (RED II)",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-energy-strategy",
+    "label": "Marine Energy Strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-sustainability",
+    "label": "Environmental Sustainability",
+    "aliases": []
+  },
+  {
+    "id": "topic:offshore-energy",
+    "label": "Offshore Energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:united-kingdom",
+    "label": "United Kingdom (UK) 2023 Net Zero Strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:aguadoura-wave-park",
+    "label": "Aguçadoura Wave Park (Portugal)",
+    "aliases": []
+  },
+  {
+    "id": "topic:sihwa-lake-tidal-power-plant",
+    "label": "Sihwa Lake Tidal Power Plant (South Korea)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-renewable-energy-act",
+    "label": "Ocean Renewable Energy Act (Canada)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-energy-systems-1",
+    "label": "Ocean Energy Systems (OES)",
+    "aliases": []
+  },
+  {
+    "id": "topic:horizon-2020-program",
+    "label": "Horizon 2020 program (European Union)",
+    "aliases": []
+  },
+  {
+    "id": "topic:yaquina-bay-project",
+    "label": "Yaquina Bay project (United States)",
+    "aliases": []
+  },
+  {
+    "id": "topic:strangford-lough-tidal-array",
+    "label": "Strangford Lough Tidal Array (United Kingdom)",
+    "aliases": []
+  },
+  {
+    "id": "topic:ceto-6-system",
+    "label": "CETO 6 system (Australia)",
+    "aliases": []
+  },
+  {
+    "id": "topic:renewable-obligation-certificates-2",
+    "label": "Renewable Obligation Certificates (UK)",
+    "aliases": []
+  },
+  {
+    "id": "topic:feed-in-tariffs-1",
+    "label": "feed-in tariffs (FiTs)",
+    "aliases": []
+  },
+  {
+    "id": "topic:the-paris-agreement",
+    "label": "The Paris Agreement (2015)",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-storage-systems",
+    "label": "grid storage systems",
+    "aliases": []
+  },
+  {
+    "id": "topic:floating-tidal-arrays",
+    "label": "floating tidal arrays",
+    "aliases": []
+  },
+  {
+    "id": "topic:turbine-durability-tests",
+    "label": "turbine durability tests",
+    "aliases": []
+  },
+  {
+    "id": "topic:capacity-building",
+    "label": "capacity building",
+    "aliases": []
+  },
+  {
+    "id": "topic:typhoons",
+    "label": "typhoons",
+    "aliases": []
+  },
+  {
+    "id": "topic:fossil-fuel-supply-chains",
+    "label": "fossil fuel supply chains",
+    "aliases": []
+  },
+  {
+    "id": "topic:fish-migration-patterns",
+    "label": "fish migration patterns",
+    "aliases": []
+  },
+  {
+    "id": "topic:sustainable-adoption",
+    "label": "sustainable adoption",
+    "aliases": []
+  },
+  {
+    "id": "topic:eco-friendly-energy",
+    "label": "eco-friendly energy",
+    "aliases": []
+  },
+  {
+    "id": "topic:net-zero-strategy",
+    "label": "Net Zero Strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:paris-agreement-1",
+    "label": "Paris Agreement (2015)",
+    "aliases": []
+  },
+  {
+    "id": "topic:uks-net-zero-strategy",
+    "label": "UK’s Net Zero Strategy",
+    "aliases": []
+  },
+  {
+    "id": "topic:ocean-renewable-energy-act-1",
+    "label": "Ocean Renewable Energy Act (2019 - Canada)",
+    "aliases": []
+  },
+  {
+    "id": "topic:nigeria-2024-energy-policy",
+    "label": "Nigeria 2024 energy policy",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-impact-assessment-1",
+    "label": "environmental impact assessment",
+    "aliases": []
+  },
+  {
+    "id": "topic:environmental-benefits",
+    "label": "environmental benefits",
+    "aliases": []
+  },
+  {
+    "id": "topic:technological-barriers",
+    "label": "technological barriers",
+    "aliases": []
+  },
+  {
+    "id": "topic:policy-frameworks",
+    "label": "policy frameworks",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-environments",
+    "label": "regulatory environments",
+    "aliases": []
+  },
+  {
+    "id": "topic:marine-energy-technologies",
+    "label": "marine energy technologies",
+    "aliases": []
+  },
+  {
+    "id": "topic:co-emissions-reduction",
+    "label": "CO₂ emissions reduction",
+    "aliases": []
+  },
+  {
+    "id": "topic:fossil-fuel-replacement",
+    "label": "fossil fuel replacement",
+    "aliases": []
+  },
+  {
+    "id": "topic:public-consultation-in-energy-projects",
+    "label": "public consultation in energy projects",
+    "aliases": []
+  },
+  {
+    "id": "topic:mori-land-rights",
+    "label": "Māori land rights",
+    "aliases": []
+  },
+  {
+    "id": "topic:regulatory-harmonization",
+    "label": "regulatory harmonization",
+    "aliases": []
+  },
+  {
+    "id": "topic:levelized-cost-of-energy-1",
+    "label": "levelized cost of energy (LCOE)",
+    "aliases": []
+  },
+  {
+    "id": "topic:cross-border-energy-infrastructure",
+    "label": "cross-border energy infrastructure",
+    "aliases": []
+  },
+  {
+    "id": "topic:carbon-neutrality",
+    "label": "carbon neutrality",
+    "aliases": []
+  },
+  {
+    "id": "topic:grid-reliability",
+    "label": "grid reliability",
+    "aliases": []
+  },
+  {
+    "id": "topic:tidal-range-technology",
+    "label": "tidal range technology",
+    "aliases": []
+  },
+  {
+    "id": "topic:ecological-planning",
+    "label": "ecological planning",
+    "aliases": []
+  },
+  {
+    "id": "topic:energy-sustainability",
+    "label": "energy sustainability",
+    "aliases": []
   }
 ]
