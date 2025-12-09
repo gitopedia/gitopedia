@@ -13,6 +13,8 @@ places: ["place:carthage-(ancient-city)", "place:constantinople-(now-istanbul)",
 summary: "Summarized source material for The Fall of the Roman Empire"
 model: "code-prefilter"
 language: "en"
+used_status: "rejected: The section focuses on historical events and cultural topics (e.g., fall of the Roman Empire, witch trials, Oscar Wilde's trials) rather than core philosophical concepts, research methods, or theoretical frameworks. It is tangential to a general encyclopedia article about 'Research: Philosophy'."
+used_at: 2025-12-09T15:03:49+13:00
 ---
 
 # The Fall of the Roman Empire
