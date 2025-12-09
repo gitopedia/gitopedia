@@ -12,6 +12,8 @@ orgs: ["org:james-webb-space-telescope-1", "org:nasa", "org:european-space-agenc
 places: ["place:french-guiana", "place:l2-lagrange-point"]
 summary: "Summarized source material for James Webb Space Telescope"
 researcher_version: "0.3.7"
+used_status: "integrated"
+used_at: 2025-12-09T14:26:20+13:00
 ---
 
 # Sources lack detailed coverage of the 1990–2000 development phase and early challenges
