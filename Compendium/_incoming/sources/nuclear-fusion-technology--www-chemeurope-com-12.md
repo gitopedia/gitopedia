@@ -11,6 +11,8 @@ orgs: ["org:iter", "org:national-ignition-facility", "org:lawrence-livermore-nat
 places: ["place:cadarache", "place:princeton", "place:china", "place:republic-of-korea", "place:japan", "place:united-states", "place:united-kingdom", "place:france", "place:russia"]
 summary: "Summarized source material for Nuclear Fusion Technology"
 researcher_version: "0.3.8"
+used_status: "rejected: The section is specific to nuclear fusion research milestones and technological advancements, which are technical details of a single scientific field. It does not discuss core philosophical concepts of research (e.g., epistemology, methodology, ethics) or provide broadly applicable examples relevant to the philosophy of research."
+used_at: 2025-12-09T14:48:57+13:00
 ---
 
 **Timeline of Nuclear Fusion Research: A Comprehensive Overview**
