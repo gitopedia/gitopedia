@@ -3523,5 +3523,75 @@
     "id": "person:john-doe",
     "label": "John Doe",
     "aliases": []
+  },
+  {
+    "id": "person:nels-sveinsson",
+    "label": "Níels Sveinsson",
+    "aliases": []
+  },
+  {
+    "id": "person:georges-lespes",
+    "label": "Georges Lespes (engineer)",
+    "aliases": []
+  },
+  {
+    "id": "person:dr.-alexander-tabibi",
+    "label": "Dr. Alexander Tabibi",
+    "aliases": []
+  },
+  {
+    "id": "person:entrepreneurs",
+    "label": "entrepreneurs",
+    "aliases": []
+  },
+  {
+    "id": "person:a.-m.-a-struben",
+    "label": "A. M. A Struben",
+    "aliases": []
+  },
+  {
+    "id": "person:dexter-cooper",
+    "label": "Dexter Cooper",
+    "aliases": []
+  },
+  {
+    "id": "person:zhou-et-al",
+    "label": "Zhou et al. (2017)",
+    "aliases": []
+  },
+  {
+    "id": "person:wang-et-al",
+    "label": "Wang et al. (2020)",
+    "aliases": []
+  },
+  {
+    "id": "person:ukoba-et-al",
+    "label": "Ukoba et al. (2024)",
+    "aliases": []
+  },
+  {
+    "id": "person:zhang-et-al",
+    "label": "Zhang et al. (2022)",
+    "aliases": []
+  },
+  {
+    "id": "person:stegman-et-al",
+    "label": "Stegman et al. (2017)",
+    "aliases": []
+  },
+  {
+    "id": "person:wang-et-al-1",
+    "label": "Wang et al. (2011)",
+    "aliases": []
+  },
+  {
+    "id": "person:brian-barton",
+    "label": "Brian Barton",
+    "aliases": []
+  },
+  {
+    "id": "person:germany",
+    "label": "Germany",
+    "aliases": []
   }
 ]

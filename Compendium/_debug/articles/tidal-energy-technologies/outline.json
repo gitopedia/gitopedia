@@ -1,0 +1,336 @@
+{
+  "title": "Tidal Energy Technologies",
+  "summary": "Tidal energy technologies harness the kinetic and potential energy of ocean tides to generate electricity, offering a predictable and renewable energy source. This article explores its historical development, technical mechanisms, global applications, challenges, and future potential.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 2,
+      "points": [
+        "Define tidal energy as a renewable energy source derived from tidal movements caused by gravitational forces of the moon and sun.",
+        "Highlight its significance as a reliable and predictable alternative to intermittent energy sources like solar and wind.",
+        "Outline the scope of the article, covering technologies, history, applications, and future prospects.",
+        "Mention the global shift toward sustainable energy and tidal energy's role in decarbonizing power systems."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "heading": "History and Development",
+      "level": 2,
+      "points": [
+        "Trace the origins from ancient tidal mills used by the Romans for mechanical tasks.",
+        "Discuss 17th–18th century European advancements in tidal technology, particularly in France and England.",
+        "Highlight the 20th-century breakthroughs, including Georges Lespes' tidal power proposals and the 1966 La Rance Tidal Power Plant in France.",
+        "Examine modern developments, such as the Sihwa Lake Tidal Plant in South Korea (2004) and recent innovations in tidal turbine technology."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        2,
+        3,
+        5
+      ],
+      "subsections": [
+        {
+          "heading": "Early History",
+          "level": 3,
+          "points": [
+            "Ancient Roman tidal mills for grain processing.",
+            "17th-century experiments with tidal-powered machinery in Europe.",
+            "Georges Lespes' 1916 proposal for the Rance Estuary project."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            5
+          ]
+        },
+        {
+          "heading": "Modern Developments",
+          "level": 3,
+          "points": [
+            "Construction of the La Rance Tidal Plant (1966) as the first large-scale commercial project.",
+            "Emergence of tidal stream generators and open-sea turbines in the 21st century.",
+            "Recent projects like the MeyGen tidal array in Scotland (2016)."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Key Concepts and Fundamentals",
+      "level": 2,
+      "points": [
+        "Explain tidal range (difference between high and low tides) and tidal currents as energy sources.",
+        "Describe gravitational forces of the moon and sun as the primary drivers of tidal movements.",
+        "Outline the three main technologies: tidal barrages, tidal stream generators, and tidal lagoons.",
+        "Differentiate between potential energy (from tidal range) and kinetic energy (from tidal currents)."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        1,
+        3,
+        4
+      ],
+      "subsections": [
+        {
+          "heading": "Core Principles",
+          "level": 3,
+          "points": [
+            "Gravitational pull of celestial bodies creates tidal bulges and currents.",
+            "Tidal energy is harnessed through mechanical or electrical systems.",
+            "Predictability of tides ensures consistent energy output."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            4
+          ]
+        },
+        {
+          "heading": "Technologies",
+          "level": 3,
+          "points": [
+            "Tidal barrages: Dams with turbines that capture energy from tidal range.",
+            "Tidal stream generators: Underwater turbines that exploit tidal currents.",
+            "Tidal lagoons: Enclosed coastal areas that generate power through tidal flow."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Applications and Uses",
+      "level": 2,
+      "points": [
+        "Primary use in electricity generation for coastal regions with high tidal ranges.",
+        "Integration into hybrid energy systems (e.g., combining tidal with wind or solar).",
+        "Potential for desalination and water treatment via tidal energy-powered processes.",
+        "Case studies of operational projects, such as the Sihwa Lake Plant and the Annapolis Royal Generating Station."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        3,
+        4,
+        5
+      ],
+      "subsections": [
+        {
+          "heading": "Electricity Generation",
+          "level": 3,
+          "points": [
+            "Tidal barrages (e.g., La Rance, Sihwa Lake).",
+            "Tidal stream farms (e.g., MeyGen in Scotland).",
+            "Lagoons (e.g., proposed Swansea Bay project)."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            3,
+            5
+          ]
+        },
+        {
+          "heading": "Hybrid Systems",
+          "level": 3,
+          "points": [
+            "Combining tidal energy with offshore wind for grid stability.",
+            "Using tidal energy to power desalination plants in arid coastal regions.",
+            "Storing excess tidal energy in batteries for later use."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Current Status and Future Directions",
+      "level": 2,
+      "points": [
+        "Global capacity as of 2023, with France, South Korea, and the UK leading installations.",
+        "Ongoing research into floating tidal turbines and modular barrage designs.",
+        "Government policies and international collaborations (e.g., European Marine Energy Centre).",
+        "Projected growth in tidal energy adoption by 2030–2050 under net-zero targets."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        2,
+        3,
+        5
+      ],
+      "subsections": [
+        {
+          "heading": "Global Projects",
+          "level": 3,
+          "points": [
+            "La Rance (240 MW) and Sihwa Lake (254 MW) as flagship projects.",
+            "MeyGen (20 MW operational, 398 MW planned) in Scotland.",
+            "Emerging projects in Canada, Australia, and China."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            2,
+            3
+          ]
+        },
+        {
+          "heading": "Technological Innovations",
+          "level": 3,
+          "points": [
+            "Advancements in turbine efficiency and materials.",
+            "AI-driven predictive maintenance for tidal systems.",
+            "Floating tidal platforms for deeper water deployment."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Challenges and Controversies",
+      "level": 2,
+      "points": [
+        "High initial capital costs and limited suitable sites.",
+        "Environmental impacts on marine ecosystems and sediment patterns.",
+        "Technological limitations in turbine durability and efficiency.",
+        "Regulatory and permitting hurdles for coastal projects."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        1,
+        3,
+        5
+      ],
+      "subsections": [
+        {
+          "heading": "Environmental Concerns",
+          "level": 3,
+          "points": [
+            "Disruption of fish migration and habitat changes.",
+            "Altered tidal flow affecting coastal erosion.",
+            "Noise pollution from turbines impacting marine life."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            1
+          ]
+        },
+        {
+          "heading": "Economic and Technical Barriers",
+          "level": 3,
+          "points": [
+            "High upfront investment compared to other renewables.",
+            "Challenges in maintaining equipment in harsh marine environments.",
+            "Limited global expertise in tidal energy engineering."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            3,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Impact and Significance",
+      "level": 2,
+      "points": [
+        "Contribution to reducing greenhouse gas emissions in energy sectors.",
+        "Enhancing energy security for island and coastal nations.",
+        "Economic opportunities in manufacturing, installation, and maintenance.",
+        "Role in achieving international climate goals (e.g., Paris Agreement)."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        1,
+        3,
+        5
+      ],
+      "subsections": [
+        {
+          "heading": "Sustainability Benefits",
+          "level": 3,
+          "points": [
+            "Zero greenhouse gas emissions during operation.",
+            "Low land use compared to terrestrial renewables.",
+            "Complementing intermittent energy sources with predictable output."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            1
+          ]
+        },
+        {
+          "heading": "Economic and Social Impact",
+          "level": 3,
+          "points": [
+            "Job creation in coastal communities.",
+            "Stimulating innovation in marine engineering.",
+            "Reducing reliance on fossil fuel imports."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Case Studies",
+      "level": 2,
+      "points": [
+        "La Rance Tidal Plant: Successes and lessons in large-scale tidal energy.",
+        "Sihwa Lake Plant: Asia's largest tidal project and its performance.",
+        "MeyGen Array: Pioneering tidal stream technology in the Pentland Firth.",
+        "Annapolis Royal Generating Station: Canada's first tidal power station."
+      ],
+      "word_target": 0,
+      "relevant_sources": [
+        2,
+        3,
+        5
+      ],
+      "subsections": [
+        {
+          "heading": "La Rance Tidal Plant",
+          "level": 3,
+          "points": [
+            "Operational since 1966, generating 500 GWh annually.",
+            "Demonstration of long-term viability of tidal barrages.",
+            "Environmental trade-offs observed over decades."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            2
+          ]
+        },
+        {
+          "heading": "MeyGen Tidal Array",
+          "level": 3,
+          "points": [
+            "World's largest tidal stream project with 20 MW operational.",
+            "Proven scalability of underwater turbines.",
+            "Challenges in grid integration and maintenance."
+          ],
+          "word_target": 0,
+          "relevant_sources": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "total_word_target": 0
+}
