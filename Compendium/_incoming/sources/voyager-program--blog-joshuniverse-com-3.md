@@ -12,6 +12,8 @@ places: ["place:jupiter", "place:saturn", "place:uranus", "place:neptune"]
 summary: "Summarized source material for Voyager Program"
 model: "code-prefilter"
 language: "en"
+used_status: "rejected: The section focuses on space exploration, engineering, and scientific missions (Voyager program) rather than philosophical concepts, methodologies, or research theories. It is specific to a NASA initiative and tangential to the topic of 'Research: Philosophy'."
+used_at: 2025-12-09T15:06:31+13:00
 ---
 
 # Voyager Program
