@@ -13,6 +13,8 @@ summary: "Summarized source material for Biomechanics"
 model: "code-prefilter"
 language: "en"
 researcher_version: "0.3.0"
+used_status: "integrated"
+used_at: 2025-12-09T14:13:09+13:00
 ---
 
 # Biomechanics
