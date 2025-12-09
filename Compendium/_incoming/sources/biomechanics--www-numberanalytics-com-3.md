@@ -12,6 +12,8 @@ summary: "Summarized source material for Biomechanics"
 model: "code-prefilter"
 language: "en"
 researcher_version: "0.3.0"
+used_status: "rejected: The section focuses on biomechanics, a scientific discipline combining biology, physics, and engineering, rather than philosophical research or concepts. While it mentions historical figures like Aristotle (a philosopher), the content is centered on the development of biomechanics as a scientific field, not on philosophical inquiry or its methodologies. The section's examples and applications (e.g., motion capture systems, medical devices) are specific to biomechanics and unrelated to the core concepts of philosophy research."
+used_at: 2025-12-09T14:57:49+13:00
 ---
 
 # Biomechanics
