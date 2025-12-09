@@ -11,6 +11,8 @@ people: ["person:albert-einstein"]
 summary: "Summarized source material for String Theory"
 model: "code-prefilter"
 language: "en"
+used_status: "rejected: The section is focused on explaining string theory, a concept in theoretical physics, and does not discuss economic impacts, climate change, or related topics. It is unrelated to the topic of economic impacts of climate change."
+used_at: 2025-12-09T13:33:30+13:00
 ---
 
 # String Theory
