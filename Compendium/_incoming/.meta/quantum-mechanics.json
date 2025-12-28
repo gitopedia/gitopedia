@@ -18,6 +18,12 @@
       "timestamp": "2025-12-28T21:36:54.1173927Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Mechanics Key Concepts",
+      "timestamp": "2025-12-28T21:49:39.0724217Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -35,6 +41,11 @@
       "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/quantum-mechanics",
       "domain": "www.sciencedirect.com",
       "title": "Quantum Mechanics - an overview | ScienceDirect Topics"
+    },
+    {
+      "url": "https://www.wolframphysics.org/technical-introduction/potential-relation-to-physics/basic-concepts-of-quantum-mechanics/",
+      "domain": "www.wolframphysics.org",
+      "title": "Basic Concepts of Quantum Mechanics - Wolfram Physics Project"
     }
   ],
   "sources_skipped": [
