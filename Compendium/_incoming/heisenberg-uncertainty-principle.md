@@ -7,7 +7,7 @@ tags: ["topic:heisenberg-uncertainty-principle", "topic:heisenberg-uncertainty-p
 people: ["person:werner-heisenberg"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 0
+iterations: 1
 summary: "Initial overview based on 7.3: The Heisenberg Uncertainty Principle - Physics LibreTexts"
 ---
 
@@ -25,18 +25,26 @@ The principle primarily applies to pairs of quantities such as position and mome
 
 This relationship implies that a precise measurement of one quantity (e.g., position) necessarily leads to increased uncertainty in the related quantity (e.g., momentum).
 
-## Mathematical Formulation
-The uncertainty principle can be mathematically expressed for various pairs of conjugate variables:
+## Mathematical Formulation  
+The Heisenberg Uncertainty Principle can be mathematically expressed for various pairs of conjugate variables:
 
-1. **Position and Momentum**:
+1. **Position and Momentum**:  
    \[
    \Delta x \cdot \Delta p \geq \frac{\hbar}{2}
+   \]  
+   The canonical commutation relation \([x, p] = i\hbar\) implies that the lower bound \(B\) for the uncertainty relation \(\sigma_x \sigma_p^2 \geq B\) is given by:  
+   \[
+   B = \frac{\hbar^2}{4}
+   \]  
+   Substituting this into the generalized Heisenberg Uncertainty Principle leads to the well-known form:  
+   \[
+   \sigma_x \sigma_p \geq \frac{\hbar}{2}
    \]
-   
-2. **Energy and Time**:
+
+2. **Energy and Time**:  
    \[
    \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
-   \]
+   \]  
 
 These inequalities are not just experimental limitations but fundamental restrictions on the nature of quantum systems.
 
@@ -81,3 +89,4 @@ The Heisenberg Uncertainty Principle underscores the inherent limitations in mea
 ## References
 
 [^1]: [7.3: The Heisenberg Uncertainty Principle - Physics LibreTexts](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.03%3A_The_Heisenberg_Uncertainty_Principle)
+[^2]: [Heisenberg Uncertainty Principle | Brilliant Math & Science Wiki](https://brilliant.org/wiki/heisenberg-uncertainty-principle/)
