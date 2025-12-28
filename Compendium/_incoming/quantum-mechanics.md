@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:quantum-mechanics"]
 places: ["place:north-america"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 1
+iterations: 2
 summary: "Initial overview based on Quantum Physics - an overview | ScienceDirect Topics"
 ---
 
@@ -21,6 +21,11 @@ It is unfortunately not possible to generate an encyclopedic article on Quantum 
 - **Superposition**: A quantum system can exist in multiple states until observed, as illustrated by Schrödinger's cat thought experiment.
 - **Quantum Entanglement**: Particles become linked so that the state of one instantly influences the other, regardless of distance.
 - **Observer Effect**: The act of observation affects the behavior of a quantum system.
+
+
+## Applications in Technology
+
+Quantum mechanics underpins technologies like transistors, lasers, MRI machines, quantum cryptography for secure communication, and promises advancements in quantum computing for complex problem-solving.
 
 ## References
 
