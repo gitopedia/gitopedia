@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:heisenberg-uncertainty-principle"]
 people: ["person:werner-heisenberg"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 1
+iterations: 2
 summary: "Initial overview based on What Is the Uncertainty Principle? Heisenberg Uncertainty Principle ..."
 ---
 
@@ -15,6 +15,11 @@ summary: "Initial overview based on What Is the Uncertainty Principle? Heisenber
 
 ## Overview
 The Heisenberg Uncertainty Principle is a fundamental concept in quantum physics introduced by Werner Heisenberg in 1927. It states that it is impossible to simultaneously know both the position and speed (or momentum) of a particle with perfect accuracy. This principle underscores the inherent limitations in measuring certain pairs of complementary properties in the quantum realm.
+
+
+## History
+
+Formulated by Werner Heisenberg in 1927, this principle is one of the foundational pillars of quantum mechanics. It emerged from the realization that the act of measurement at the microscopic level disturbs the system being observed, making simultaneous precise knowledge of certain pairs of variables impossible.
 
 ## Key Concepts
 The uncertainty principle highlights the wave-particle duality of quantum objects, which exhibit both particle-like and wave-like behavior. Unlike classical objects, where precise measurements of position and speed are straightforward, quantum particles present a unique challenge. 
