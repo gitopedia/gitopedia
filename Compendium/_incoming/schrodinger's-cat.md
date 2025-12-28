@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:schrodingers-cat"]
 people: ["person:erwin-schrdinger", "person:albert-einstein"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 0
+iterations: 1
 summary: "Initial overview based on Here's How Schrodinger's Cat Works - ThoughtCo"
 ---
 
@@ -26,6 +26,12 @@ Schrödinger's Cat demonstrates superposition, where the cat is in an undefined 
 
 ### Wave Function Collapse
 The experiment also introduces the concept of wave function collapse. Upon measurement (opening the box), the probabilistic wave function collapses into a single definite state, determining the cat's actual state.
+
+
+## Related Theories and Principles
+
+- **Copenhagen Interpretation**: This dominant interpretation of quantum mechanics posits that wave-function collapse occurs upon measurement, aligning with the outcome of Schrödinger's experiment.
+- **Many-Worlds Interpretation**: A more speculative theory suggests that every possible outcome of a quantum measurement branches into separate universes. However, this was not part of Schrödinger's original thought experiment.
 
 ## How It Works
 1. **Setup**: A cat is placed in a box with a radioactive atom, a Geiger counter, and cyanide.
