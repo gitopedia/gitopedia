@@ -18,6 +18,12 @@
       "timestamp": "2025-12-28T21:42:44.2350284Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function Applications",
+      "timestamp": "2025-12-28T21:46:16.2155279Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -35,6 +41,11 @@
       "url": "https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions",
       "domain": "www.pearson.com",
       "title": "Wave Functions Explained: Definition, Examples, Practice ... - Pearson"
+    },
+    {
+      "url": "https://www.vedantu.com/physics/wave-function",
+      "domain": "www.vedantu.com",
+      "title": "Understanding the Wave Function: Concepts and Applications in Quantum ..."
     }
   ],
   "sources_skipped": [
