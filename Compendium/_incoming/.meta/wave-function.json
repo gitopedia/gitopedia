@@ -1,0 +1,32 @@
+{
+  "article_slug": "wave-function",
+  "searches": [
+    {
+      "query": "Wave Function encyclopedia overview",
+      "timestamp": "2025-12-28T21:23:47.8632233Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/wave-function",
+      "domain": "www.sciencedirect.com",
+      "title": "Wave Function - an overview | ScienceDirect Topics"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wave_function",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/wave-function",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}
