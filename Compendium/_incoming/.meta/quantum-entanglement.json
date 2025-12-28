@@ -24,6 +24,11 @@
       "url": "https://science.nasa.gov/what-is-the-spooky-science-of-quantum-entanglement/",
       "domain": "science.nasa.gov",
       "title": "What is Quantum Entanglement? NASA Science"
+    },
+    {
+      "url": "https://quantum.microsoft.com/en-us/insights/education/concepts/entanglement",
+      "domain": "quantum.microsoft.com",
+      "title": "Microsoft Quantum | Entanglement"
     }
   ],
   "sources_skipped": [
