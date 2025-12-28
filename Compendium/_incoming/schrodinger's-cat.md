@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:schrodingers-cat"]
 people: ["person:erwin-schrdinger", "person:albert-einstein"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 2
+iterations: 3
 summary: "Initial overview based on Here's How Schrodinger's Cat Works - ThoughtCo"
 ---
 
@@ -27,6 +27,11 @@ Schrödinger's Cat demonstrates superposition, where the cat is in an undefined 
 ### Wave Function Collapse
 The experiment also introduces the concept of wave function collapse. Upon measurement (opening the box), the probabilistic wave function collapses into a single definite state, determining the cat's actual state.
 
+
+
+## Interpretations
+
+The thought experiment underscores the limitations of the Copenhagen Interpretation by highlighting observer-related issues. The Many-Worlds Interpretation offers a solution by proposing multiple parallel worlds, each reflecting a possible outcome of the experiment.
 
 ## Related Theories and Principles
 
