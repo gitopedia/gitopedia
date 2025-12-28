@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:wave-particle-duality", "topic:uncertai
 people: ["person:max-planck", "person:albert-einstein", "person:louis-de-broglie", "person:werner-heisenberg", "person:erwin-schrdinger"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 0
+iterations: 1
 summary: "Initial overview based on What is Quantum Mechanics? Explained Simply"
 ---
 
