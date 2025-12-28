@@ -12,6 +12,12 @@
       "timestamp": "2025-12-28T21:38:19.4874005Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function Key Concepts",
+      "timestamp": "2025-12-28T21:42:44.2350284Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -24,6 +30,11 @@
       "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.02%3A_Wavefunctions",
       "domain": "phys.libretexts.org",
       "title": "7.2: Wave functions - Physics LibreTexts"
+    },
+    {
+      "url": "https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions",
+      "domain": "www.pearson.com",
+      "title": "Wave Functions Explained: Definition, Examples, Practice ... - Pearson"
     }
   ],
   "sources_skipped": [
