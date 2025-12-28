@@ -6,6 +6,12 @@
       "timestamp": "2025-12-28T22:24:35.6561984Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Heisenberg Uncertainty Principle Mathematical Formulation",
+      "timestamp": "2025-12-28T22:29:31.6353743Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -13,7 +19,19 @@
       "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.03%3A_The_Heisenberg_Uncertainty_Principle",
       "domain": "phys.libretexts.org",
       "title": "7.3: The Heisenberg Uncertainty Principle - Physics LibreTexts"
+    },
+    {
+      "url": "https://brilliant.org/wiki/heisenberg-uncertainty-principle/",
+      "domain": "brilliant.org",
+      "title": "Heisenberg Uncertainty Principle | Brilliant Math \u0026 Science Wiki"
     }
   ],
-  "sources_skipped": []
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uncertainty_principle",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
 }
