@@ -1,0 +1,38 @@
+{
+  "article_slug": "quantum-mechanics",
+  "searches": [
+    {
+      "query": "Quantum Mechanics encyclopedia overview",
+      "timestamp": "2025-12-28T21:32:25.7551423Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/quantum-physics",
+      "domain": "www.sciencedirect.com",
+      "title": "Quantum Physics - an overview | ScienceDirect Topics"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/quantum-mechanics-physics",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/qm/",
+      "domain": "plato.stanford.edu",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}
