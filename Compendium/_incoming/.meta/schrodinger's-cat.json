@@ -1,0 +1,26 @@
+{
+  "article_slug": "schrodinger's-cat",
+  "searches": [
+    {
+      "query": "Schrodinger's Cat explained",
+      "timestamp": "2025-12-28T22:18:43.0165215Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://www.sciencing.com/schrodingers-cat-simplified-what-is-it-why-is-important-13722577/",
+      "domain": "www.sciencing.com",
+      "title": "Schrodinger's Cat (Simplified): What Is It \u0026 Why Is It Important?"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}
