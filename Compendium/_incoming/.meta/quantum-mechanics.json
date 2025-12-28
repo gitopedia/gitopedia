@@ -1,0 +1,32 @@
+{
+  "article_slug": "quantum-mechanics",
+  "searches": [
+    {
+      "query": "Quantum Mechanics explained",
+      "timestamp": "2025-12-28T22:22:48.8411126Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://www.sciencenewstoday.org/what-is-quantum-mechanics-understanding-the-basics-and-its-impact-on-modern-science",
+      "domain": "www.sciencenewstoday.org",
+      "title": "What is Quantum Mechanics? Understanding the Basics and Its Impact on ..."
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/quantum-mechanics-physics",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}
