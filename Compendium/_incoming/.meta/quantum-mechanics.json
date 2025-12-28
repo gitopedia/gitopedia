@@ -6,6 +6,12 @@
       "timestamp": "2025-12-28T21:32:25.7551423Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Mechanics encyclopedia overview",
+      "timestamp": "2025-12-28T21:33:58.1718167Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -13,6 +19,11 @@
       "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/quantum-physics",
       "domain": "www.sciencedirect.com",
       "title": "Quantum Physics - an overview | ScienceDirect Topics"
+    },
+    {
+      "url": "https://www.sciencenewstoday.org/what-is-quantum-mechanics-explained-simply",
+      "domain": "www.sciencenewstoday.org",
+      "title": "What is Quantum Mechanics? Explained Simply"
     }
   ],
   "sources_skipped": [
@@ -31,6 +42,12 @@
     {
       "url": "https://plato.stanford.edu/entries/qm/",
       "domain": "plato.stanford.edu",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://iep.utm.edu/int-qm/",
+      "domain": "iep.utm.edu",
       "reason": "encyclopedia",
       "detected_by": "llm"
     }
