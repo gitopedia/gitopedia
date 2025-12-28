@@ -12,6 +12,12 @@
       "timestamp": "2025-12-28T21:33:58.1718167Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Mechanics Overview",
+      "timestamp": "2025-12-28T21:36:54.1173927Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -24,6 +30,11 @@
       "url": "https://www.sciencenewstoday.org/what-is-quantum-mechanics-explained-simply",
       "domain": "www.sciencenewstoday.org",
       "title": "What is Quantum Mechanics? Explained Simply"
+    },
+    {
+      "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/quantum-mechanics",
+      "domain": "www.sciencedirect.com",
+      "title": "Quantum Mechanics - an overview | ScienceDirect Topics"
     }
   ],
   "sources_skipped": [
