@@ -6,6 +6,12 @@
       "timestamp": "2025-12-28T21:25:44.3570957Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Heisenberg Uncertainty Principle Overview",
+      "timestamp": "2025-12-28T21:29:29.0767459Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -13,6 +19,11 @@
       "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.03%3A_The_Heisenberg_Uncertainty_Principle",
       "domain": "phys.libretexts.org",
       "title": "7.3: The Heisenberg Uncertainty Principle - Physics LibreTexts"
+    },
+    {
+      "url": "https://www.thoughtco.com/the-heisenberg-uncertainty-principle-2699357",
+      "domain": "www.thoughtco.com",
+      "title": "Understanding the Heisenberg Uncertainty Principle - ThoughtCo"
     }
   ],
   "sources_skipped": [
