@@ -7,7 +7,7 @@ tags: ["topic:wave-function", "topic:quantum-mechanics", "topic:copenhagen-inter
 people: ["person:niels-bohr"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 1
+iterations: 2
 summary: "Initial overview based on 7.2: Wave functions - Physics LibreTexts"
 ---
 
@@ -93,15 +93,21 @@ This merged section provides a comprehensive understanding of wave functions, th
 ## Applications
 
 ### Confined Particles
-- For a particle confined to [0, L], the wave function is \( \psi(x,t) = A e^{-iEt/\hbar} \sin(\pi x / L) \), with normalization constant A = 2/L.
+A wave function describes a particle confined within a specific region, such as between 0 and L. For such a system, the wave function is given by \( \psi(x,t) = A e^{-iEt/\hbar} \sin(\pi x / L) \), where A is the normalization constant equal to \( 2/L \). This ensures the wave function adheres to boundary conditions, typically requiring it to be zero at the boundaries.
 
 ### Expectation Values
-- **Position**: Symmetric wave functions yield ⟨x⟩ = 0.
-- **Momentum**: Zero due to symmetry.
-- **Kinetic Energy**: Non-zero, calculated as \( \langle K \rangle = \frac{\hbar^2}{8mL^2} \).
+- **Position**: For symmetric wave functions, the expectation value of position ⟨x⟩ is zero due to symmetry.
+- **Momentum**: The expectation value of momentum is also zero because the wave function's symmetry implies no net directional bias.
+- **Kinetic Energy**: Calculated using \( \langle K \rangle = \frac{\hbar^2}{8mL^2} \), this value represents the average kinetic energy of the particle.
 
 ### Probability of Detection
-- The probability of finding a particle between 0 and L/4 involves integrating the probability density over this interval.
+The probability of finding a particle within a specific interval, such as between 0 and L/4, is determined by integrating the probability density \( |\psi(x,t)|^2 \) over that interval. This process quantifies the likelihood of detecting the particle in a given region.
+
+### Other Applications
+- **Free Particles**: The wave function for a free particle often appears as a plane wave, \( \psi(x,t) = A e^{i(kx - \omega t)} \), where k is the wave number and ω is the angular frequency.
+- **Atomic Orbitals**: In quantum mechanics, the shapes of atomic orbitals are derived from the probability density of electrons' wave functions, illustrating the spatial distribution of electrons around a nucleus.
+
+These applications highlight the versatility and foundational role of wave functions in quantum mechanics, enabling predictions about particle behavior across various physical scenarios.
 
 ## Correspondence Principle
 Niels Bohr's principle asserts that quantum mechanics aligns with classical mechanics for macroscopic systems, underscoring that classical physics is an approximation of quantum principles at large scales.
