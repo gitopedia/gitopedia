@@ -1,0 +1,78 @@
+name: Update Ignored Domains
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  update-ignore-list:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      
+      - name: Extract and update ignored domains
+        run: |
+          #!/bin/bash
+          set -e
+          
+          IGNORE_FILE="Compendium/_config/ignored-domains.txt"
+          META_DIR="Compendium/_incoming/.meta"
+          
+          # Ensure ignore file exists
+          if [ ! -f "$IGNORE_FILE" ]; then
+            echo "# Global list of encyclopedia domains to skip" > "$IGNORE_FILE"
+            echo "# Updated automatically by GitHub Action on PR merge" >> "$IGNORE_FILE"
+            echo "" >> "$IGNORE_FILE"
+          fi
+          
+          # Find all .meta/*.json files and extract LLM-detected encyclopedia domains
+          if [ -d "$META_DIR" ]; then
+            NEW_DOMAINS=""
+            
+            for meta_file in "$META_DIR"/*.json; do
+              if [ -f "$meta_file" ]; then
+                # Extract domains where detected_by="llm" and reason="encyclopedia"
+                domains=$(jq -r '.sources_skipped[]? | select(.detected_by == "llm" and .reason == "encyclopedia") | .domain' "$meta_file" 2>/dev/null || true)
+                if [ -n "$domains" ]; then
+                  NEW_DOMAINS="$NEW_DOMAINS
+          $domains"
+                fi
+              fi
+            done
+            
+            if [ -n "$NEW_DOMAINS" ]; then
+              # Get unique domains not already in the ignore file
+              echo "$NEW_DOMAINS" | sort -u | while read -r domain; do
+                if [ -n "$domain" ] && ! grep -qxF "$domain" "$IGNORE_FILE"; then
+                  echo "Adding domain: $domain"
+                  echo "$domain" >> "$IGNORE_FILE"
+                fi
+              done
+            fi
+          fi
+          
+          echo "Current ignored domains list:"
+          cat "$IGNORE_FILE"
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet Compendium/_config/ignored-domains.txt || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Compendium/_config/ignored-domains.txt
+          git commit -m "Update ignored domains from PR #${{ github.event.pull_request.number }}"
+          git push
+

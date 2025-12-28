@@ -1,0 +1,11 @@
+# Global list of encyclopedia domains to skip
+# These domains are automatically filtered before LLM detection
+# Updated automatically by GitHub Action on PR merge
+
+en.wikipedia.org
+www.britannica.com
+plato.stanford.edu
+www.encyclopedia.com
+encyclopedia.pub
+facts.net
+
