@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:schrodingers-cat"]
 people: ["person:erwin-schrdinger", "person:albert-einstein"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 1
+iterations: 2
 summary: "Initial overview based on Here's How Schrodinger's Cat Works - ThoughtCo"
 ---
 
@@ -46,6 +46,12 @@ Critics, like Albert Einstein, argue against the probabilistic universe suggeste
 
 ## Legacy
 Schrödinger's Cat has become a iconic symbol of quantum mechanics' paradoxes, used widely in education and popular culture to explain quantum principles. Its lasting impact lies in its ability to convey complex concepts intuitively.
+
+
+## Related Thought Experiments
+
+- **EPR Paradox**: Demonstrates quantum entanglement, influencing Bell's theorem.
+- **Schrödinger Equation**: Governs the evolution of quantum states over time.
 
 ## References
 
