@@ -29,12 +29,29 @@
       "url": "https://facts.net/science/chemistry/11-astounding-facts-about-uncertainty-principle/",
       "domain": "facts.net",
       "title": "11 Astounding Facts About Uncertainty Principle"
+    },
+    {
+      "url": "https://www.thoughtco.com/the-heisenberg-uncertainty-principle-2699357",
+      "domain": "www.thoughtco.com",
+      "title": "Understanding the Heisenberg Uncertainty Principle - ThoughtCo"
     }
   ],
   "sources_skipped": [
     {
       "url": "https://en.wikipedia.org/wiki/Uncertainty_principle",
       "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/uncertainty-principle",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/qt-uncertainty/",
+      "domain": "plato.stanford.edu",
       "reason": "encyclopedia",
       "detected_by": "llm"
     }
