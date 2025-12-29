@@ -1,0 +1,26 @@
+{
+  "article_slug": "wave-function",
+  "searches": [
+    {
+      "query": "Wave Function explained",
+      "timestamp": "2025-12-29T23:56:19.3876727Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.02%3A_Wavefunctions",
+      "domain": "phys.libretexts.org",
+      "title": "7.2: Wave functions - Physics LibreTexts"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wave_function",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}
