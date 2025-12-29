@@ -18,6 +18,12 @@
       "timestamp": "2025-12-29T23:30:01.0618629Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Heisenberg Uncertainty Principle Experimental Confirmation",
+      "timestamp": "2025-12-29T23:54:48.3663111Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -55,6 +61,11 @@
       "url": "https://brilliant.org/wiki/heisenberg-uncertainty-principle/",
       "domain": "brilliant.org",
       "title": "Heisenberg Uncertainty Principle | Brilliant Math \u0026 Science Wiki"
+    },
+    {
+      "url": "https://academy.recforge.com/course/understanding-the-uncertainty-principle-a-deep-dive-into-heisenbergs-legacy-758/level-6-advanced-topics-and-current-research/experimental-verification-and-challenges",
+      "domain": "academy.recforge.com",
+      "title": "Experimental Verification and Challenges | Understanding the ..."
     }
   ],
   "sources_skipped": [
