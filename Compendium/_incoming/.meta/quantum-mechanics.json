@@ -83,6 +83,11 @@
       "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/quantum-mechanics",
       "domain": "www.sciencedirect.com",
       "title": "Quantum Mechanics - an overview | ScienceDirect Topics"
+    },
+    {
+      "url": "https://quantumexplainer.com/quantum-zeno-effect/",
+      "domain": "quantumexplainer.com",
+      "title": "Quantum Zeno Effect - quantumexplainer.com"
     }
   ],
   "sources_skipped": [
