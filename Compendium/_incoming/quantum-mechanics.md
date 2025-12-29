@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:wave-particle-duality", "topic:uncertai
 people: ["person:max-planck", "person:albert-einstein", "person:niels-bohr", "person:werner-heisenberg", "person:erwin-schrdinger", "person:paul-dirac"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 2
+iterations: 3
 summary: "Initial overview based on What is Quantum Mechanics? Understanding the Basics and Its Impact on ..."
 ---
 
@@ -30,11 +30,31 @@ Quantum mechanics is underpinned by several fundamental principles:
 ### Wave-Particle Duality
 Particles such as electrons exhibit both wave-like and particle-like behavior. This duality is famously demonstrated in the double-slit experiment.
 
+
+### Planck's Quantum Theory
+
+Max Planck introduced the concept of energy quanta in 1900 to explain blackbody radiation, challenging the classical view of continuous energy distribution. This discovery laid the groundwork for quantum mechanics.
+
 ### Uncertainty Principle
 Formulated by Werner Heisenberg, this principle states that certain pairs of properties, like position and momentum, cannot be precisely measured simultaneously.
 
 ### Superposition
 A quantum system can exist in multiple states until observed, as illustrated by Schrödinger’s cat thought experiment, which is either alive, dead, or both.
+
+
+### Pauli Exclusion Principle
+
+No two fermions can occupy the same quantum state, explaining atomic structure and the periodic table.
+
+
+### Zero-Point Energy
+
+Even at absolute zero, particles retain energy due to quantum fluctuations, preventing atoms from collapsing.
+
+
+### The Born Rule
+
+Interprets wave functions as probabilities, linking quantum mechanics to observable phenomena.
 
 ### Quantum Entanglement
 Particles become linked so the state of one affects the other, regardless of distance, a phenomenon Einstein referred to as "spooky action."
@@ -100,8 +120,24 @@ Pankaj Sharan, a retired professor from Jamia Millia Islamia, brings over four d
 
 This structured approach ensures a comprehensive understanding of quantum mechanics, highlighting its historical development, key principles, real-world applications, and future potential.
 
+
+## Bell Inequalities
+
+Confirmed non-locality in quantum mechanics, challenging classical notions of locality.
+
+
+## Decoherence
+
+Explains the transition from quantum to classical states, crucial for practical applications like quantum computing.
+
+
+## Quantum Zeno Effect
+
+Frequent measurements can freeze a quantum system, offering insights into quantum control and measurement effects.
+
 ## References
 
 [^1]: [What is Quantum Mechanics? Understanding the Basics and Its Impact on ...](https://www.sciencenewstoday.org/what-is-quantum-mechanics-understanding-the-basics-and-its-impact-on-modern-science)
 [^2]: [Some Unusual Topics in Quantum Mechanics - Springer](https://link.springer.com/book/10.1007/978-3-031-35962-0)
 [^3]: [The Next Quantum Revolution - MIT for a Better World](https://betterworld.mit.edu/spectrum/issues/2024-spring/the-next-quantum-revolution/)
+[^4]: [Top 20 Proven Facts About Quantum Mechanics You Must Know](https://blueheadline.com/tech-breakthroughs/facts-about-quantum-mechanics/)
