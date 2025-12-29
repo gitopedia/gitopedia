@@ -18,6 +18,12 @@
       "timestamp": "2025-12-29T22:53:17.6735335Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Mechanics details facts",
+      "timestamp": "2025-12-29T22:56:02.3533716Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -35,6 +41,11 @@
       "url": "https://betterworld.mit.edu/spectrum/issues/2024-spring/the-next-quantum-revolution/",
       "domain": "betterworld.mit.edu",
       "title": "The Next Quantum Revolution - MIT for a Better World"
+    },
+    {
+      "url": "https://blueheadline.com/tech-breakthroughs/facts-about-quantum-mechanics/",
+      "domain": "blueheadline.com",
+      "title": "Top 20 Proven Facts About Quantum Mechanics You Must Know"
     }
   ],
   "sources_skipped": [
@@ -47,6 +58,12 @@
     {
       "url": "https://www.britannica.com/science/quantum-mechanics-physics",
       "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://facts.net/tech-and-sciences/computing/38-facts-about-quantum/",
+      "domain": "facts.net",
       "reason": "encyclopedia",
       "detected_by": "llm"
     }
