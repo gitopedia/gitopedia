@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:wave-function"]
 people: ["person:erwin-schrdinger", "person:niels-bohr"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 9
+iterations: 10
 summary: "Initial overview based on 7.2: Wave functions - Physics LibreTexts"
 ---
 
@@ -190,7 +190,14 @@ Schrödinger's cat thought experiment illustrates the concept of superposition i
 Understanding wave functions is crucial for analyzing wave motion and solving wave-related problems in physics. They provide essential information about wave behavior, including amplitude, wavelength, frequency, and velocity. By utilizing relationships between angular frequency, wave number, and propagation velocity, we can efficiently calculate wave properties without deriving them separately.
 
 ## Correspondence Principle
-Niels Bohr’s principle asserts that quantum mechanics must align with classical mechanics for macroscopic systems, ensuring consistency between quantum theory and observable phenomena at large scales.
+
+Niels Bohr’s correspondence principle asserts that quantum mechanics must align with classical mechanics for macroscopic systems, ensuring consistency between quantum theory and observable phenomena at large scales. This principle is particularly evident in the behavior of the quantum harmonic oscillator, where quantum descriptions converge with classical predictions as the quantum number \( n \) increases.
+
+For the ground state (\( n=0 \)), the most probable location of the quantum harmonic oscillator is at \( x=0 \), contrasting with the classical prediction where the mass-on-a-spring spends most time near the endpoints due to maximum speed there. As \( n \) increases, the most probable location shifts towards the outside of the well, aligning more closely with classical predictions. The probability distribution for higher \( n \) states exhibits smaller gaps between peaks, making them indistinguishable without altering the oscillator's state due to the uncertainty principle.
+
+The quantum probability distribution extends into the classically forbidden region, with exponential tails that diminish as \( n \) increases. At high energy levels (e.g., \( n=10,000 \)), the quantum mechanical radiation frequency approaches classical predictions closely, differing by only 0.01%. This convergence demonstrates Bohr's expectation that atomic radiative behavior would approach classical predictions at high quantum states.
+
+In summary, the correspondence principle is illustrated through the quantum harmonic oscillator, where increasing \( n \) leads to a smoother probability distribution resembling classical behavior, while still accounting for quantum mechanical features such as penetration into forbidden regions.
 
 ## Conclusion
 
@@ -234,3 +241,4 @@ The wave function is central to quantum mechanics, offering insights into micros
 [^8]: [Wave functions - University of Tennessee](http://labman.phys.utk.edu/phys222core/modules/m10/wave_functions.html)
 [^9]: [3.1 Wave Functions - BCIT Phys8400: Modern Physics](https://pressbooks.bccampus.ca/bcitphys8400/chapter/3-1-wave-functions/)
 [^10]: [What Is a Wavefunction? Physics Definition - ThoughtCo](https://www.thoughtco.com/definition-of-wavefunction-605790)
+[^11]: [Quantum Harmonic Oscillator - HyperPhysics](http://www.hyperphysics.phy-astr.gsu.edu/hbase/quantum/hosc6.html)
