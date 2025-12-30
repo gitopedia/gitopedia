@@ -30,6 +30,12 @@
       "timestamp": "2025-12-30T00:31:17.5879565Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Schrodinger's Cat Bell’s Theorem and Experimental Results",
+      "timestamp": "2025-12-30T00:38:58.5040802Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -62,6 +68,11 @@
       "url": "https://biolecta.com/articles/understanding-schrodingers-cat-quantum-paradox/",
       "domain": "biolecta.com",
       "title": "Understanding Schrödinger's Cat: A Quantum Paradox"
+    },
+    {
+      "url": "https://brilliant.org/wiki/schrodingers-cat/",
+      "domain": "brilliant.org",
+      "title": "Schrödinger's Cat | Brilliant Math \u0026 Science Wiki"
     }
   ],
   "sources_skipped": [
