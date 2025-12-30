@@ -36,6 +36,12 @@
       "timestamp": "2025-12-30T00:38:58.5040802Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Schrodinger's Cat Schrödinger’s Cat Thought Experiment",
+      "timestamp": "2025-12-30T00:42:23.7508737Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -73,6 +79,11 @@
       "url": "https://brilliant.org/wiki/schrodingers-cat/",
       "domain": "brilliant.org",
       "title": "Schrödinger's Cat | Brilliant Math \u0026 Science Wiki"
+    },
+    {
+      "url": "https://quantummechanicsstreet.com/schrodingers-cat-the-thought-experiment-that-redefined-reality/",
+      "domain": "quantummechanicsstreet.com",
+      "title": "Schrödinger's Cat: The Thought Experiment That Redefined Reality"
     }
   ],
   "sources_skipped": [
