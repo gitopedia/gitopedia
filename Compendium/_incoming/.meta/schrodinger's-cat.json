@@ -95,6 +95,11 @@
       "url": "https://about-science.org/schrodingers-cat/",
       "domain": "about-science.org",
       "title": "Schrödinger's Cat: The Famous Feline That Changed Physics"
+    },
+    {
+      "url": "https://www.newscientist.com/definition/schrodingers-cat/",
+      "domain": "www.newscientist.com",
+      "title": "What is Schrodinger's cat? | New Scientist"
     }
   ],
   "sources_skipped": [
