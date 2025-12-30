@@ -18,6 +18,12 @@
       "timestamp": "2025-12-30T00:01:03.9941565Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function details facts",
+      "timestamp": "2025-12-30T00:02:58.6874681Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -35,12 +41,23 @@
       "url": "https://www.sciencenewstoday.org/what-is-a-wave-function-in-quantum-physics",
       "domain": "www.sciencenewstoday.org",
       "title": "What Is a Wave Function in Quantum Physics?"
+    },
+    {
+      "url": "https://www.sciencelearn.org.nz/resources/119-fundamentals-of-waves",
+      "domain": "www.sciencelearn.org.nz",
+      "title": "Fundamentals of waves - Science Learning Hub"
     }
   ],
   "sources_skipped": [
     {
       "url": "https://en.wikipedia.org/wiki/Wave_function",
       "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/wave-function",
+      "domain": "www.britannica.com",
       "reason": "encyclopedia",
       "detected_by": "llm"
     }
