@@ -30,6 +30,12 @@
       "timestamp": "2025-12-30T00:10:21.7126261Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function Mathematical Formulation",
+      "timestamp": "2025-12-30T00:13:18.8756625Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -67,6 +73,11 @@
       "url": "https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions",
       "domain": "www.pearson.com",
       "title": "Wave Functions Explained: Definition, Examples, Practice ... - Pearson"
+    },
+    {
+      "url": "https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/16-2-mathematics-of-waves/",
+      "domain": "courses.lumenlearning.com",
+      "title": "16.2 Mathematics of Waves | University Physics Volume 1"
     }
   ],
   "sources_skipped": [
