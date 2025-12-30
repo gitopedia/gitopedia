@@ -1,0 +1,19 @@
+{
+  "article_slug": "quantum-entanglement",
+  "searches": [
+    {
+      "query": "Quantum Entanglement explained",
+      "timestamp": "2025-12-30T00:56:16.8259038Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement",
+      "domain": "scienceexchange.caltech.edu",
+      "title": "What Is Quantum Entanglement? Quantum Entanglement Explained in Simple ..."
+    }
+  ],
+  "sources_skipped": []
+}
