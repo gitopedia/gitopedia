@@ -6,6 +6,12 @@
       "timestamp": "2025-12-30T00:56:16.8259038Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Entanglement details facts",
+      "timestamp": "2025-12-30T00:58:28.6490707Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -13,7 +19,19 @@
       "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement",
       "domain": "scienceexchange.caltech.edu",
       "title": "What Is Quantum Entanglement? Quantum Entanglement Explained in Simple ..."
+    },
+    {
+      "url": "https://science.nasa.gov/what-is-the-spooky-science-of-quantum-entanglement/",
+      "domain": "science.nasa.gov",
+      "title": "What is Quantum Entanglement? NASA Science"
     }
   ],
-  "sources_skipped": []
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_entanglement",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
 }
