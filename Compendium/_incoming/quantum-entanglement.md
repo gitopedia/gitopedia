@@ -7,7 +7,7 @@ tags: ["topic:quantum-entanglement", "topic:quantum-mechanics", "topic:quantum-p
 people: ["person:albert-einstein", "person:john-bell"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 7
+iterations: 8
 summary: "Initial overview based on What Is Quantum Entanglement? Quantum Entanglement Explained in Simple ..."
 ---
 
@@ -60,14 +60,15 @@ Quantum entanglement faces significant challenges such as decoherence, where ent
 
 NASA is actively engaged in quantum mechanics research, particularly focusing on quantum entanglement. These efforts aim to advance quantum communication and computing, with projects including:
 
-- **SEAQUE (Space Entanglement and Annealing Quantum Experiment)**: Aiming to explore quantum annealing in space, this experiment seeks to enable quantum-level communication across significant distances.
+- **SEAQUE (Space Entanglement and Annealing Quantum Experiment)**: This experiment arrived at the International Space Station (ISS) on November 5 aboard a SpaceX Dragon cargo spacecraft. SEAQUE aims to demonstrate quantum entanglement, where two subatomic particles are connected regardless of distance. The instrument includes an entanglement source to generate entangled photons and detectors to count them and their quantum states. It will be installed on the exterior of the ISS using a Materials International Space Station Experiment (MISSE) mounting location. If successful, SEAQUE could enable quantum-level communication in space and allow quantum computers to communicate regardless of distance. Additionally, it will test photon detector self-healing from radiation damage using laser annealing.
+
 - **Cold Atom Lab**: Conducting experiments to study how atoms behave under extreme conditions, defying gravity. This research contributes to understanding quantum phenomena in unique environments.
+
 - **Quantum Sensor Development**: NASA achieved a milestone by demonstrating an 'ultra-cool' quantum sensor in space, marking a significant step forward in quantum technology.
 
 The research has potential Earth applications, such as connecting quantum networks globally over thousands of miles and measuring subtle changes in gravity to gain new insights about Earth's position in the universe. In space, it could enhance communication between distant technologies, lay the groundwork for quantum cloud computing, and develop self-healing nodes resilient against radiation damage.
 
-Dr. Paul Kwiat from the University of Illinois, Urbana-Champaign leads this research. NASA’s Biological and Physical Sciences Division plays a pivotal role by leveraging space environments to conduct investigations unfeasible on Earth, advancing fundamental scientific knowledge essential for deep-space exploration while also benefiting life on our planet.
-
+Dr. Paul Kwiat from the University of Illinois, Urbana-Champaign leads this research. NASA’s Biological and Physical Sciences Division plays a pivotal role by leveraging space environments to conduct investigations unfeasible on Earth, advancing fundamental scientific knowledge essential for deep-space exploration while also benefiting life on our planet. Makan Mohageg, SEAQUE co-investigator at NASA’s Jet Propulsion Laboratory, stated that demonstrating these technologies builds the foundation for future global quantum networks connecting quantum computers hundreds or thousands of miles apart.
 
 ## Future Prospects
 
@@ -134,3 +135,4 @@ Entanglement offers metaphors for interconnectedness, such as human relationship
 [^6]: [Quantum Entanglement: Everything You Need to Know [2025]](https://www.spinquanta.com/news-detail/understanding-quantum-entanglement-the-ultimate-expert-guide)
 [^7]: [Entanglement accelerates quantum simulation - Nature Physics](https://www.nature.com/articles/s41567-025-02945-2)
 [^8]: [What Quantum Entanglement Really Means in Everyday Terms](https://www.sciencenewstoday.org/what-quantum-entanglement-really-means-in-everyday-terms)
+[^9]: [NASA instrument arrives at ISS to demonstrate quantum entanglement](https://spaceandtelescope.com/nasa-instrument-arrives-at-iss-to-demonstrate-quantum-entanglement/)
