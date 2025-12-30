@@ -18,6 +18,12 @@
       "timestamp": "2025-12-30T01:00:17.0149786Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Entanglement Quantum Entanglement Research at NASA",
+      "timestamp": "2025-12-30T01:04:35.9117975Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -40,6 +46,11 @@
       "url": "https://biologyinsights.com/what-are-quantum-entanglements-how-do-they-work/",
       "domain": "biologyinsights.com",
       "title": "What Are Quantum Entanglements \u0026 How Do They Work?"
+    },
+    {
+      "url": "https://science.nasa.gov/biological-physical/investigations/seaque-space-entanglement-and-annealing-quantum-experiment/",
+      "domain": "science.nasa.gov",
+      "title": "SEAQUE (Space Entanglement and Annealing QUantum Experiment) - Science@NASA"
     }
   ],
   "sources_skipped": [
