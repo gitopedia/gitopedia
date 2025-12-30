@@ -18,6 +18,12 @@
       "timestamp": "2025-12-30T00:27:04.6121489Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Schrodinger's Cat Key Concepts",
+      "timestamp": "2025-12-30T00:28:01.0510623Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -35,6 +41,11 @@
       "url": "https://www.thephilroom.com/blog/2024/10/16/schrodingers-cat/",
       "domain": "www.thephilroom.com",
       "title": "Schrodinger's Cat - The Philosophy Room - thephilroom.com"
+    },
+    {
+      "url": "https://www.sciencenewstoday.org/schrodingers-cat-explained-quantum-mechanics-and-paradoxes",
+      "domain": "www.sciencenewstoday.org",
+      "title": "Schrödinger's Cat Explained: Quantum Mechanics and Paradoxes"
     }
   ],
   "sources_skipped": [
