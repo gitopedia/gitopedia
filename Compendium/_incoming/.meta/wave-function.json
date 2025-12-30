@@ -24,6 +24,12 @@
       "timestamp": "2025-12-30T00:02:58.6874681Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function Applications and Examples",
+      "timestamp": "2025-12-30T00:10:21.7126261Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -56,6 +62,11 @@
       "url": "https://modern-physics.org/wave-function/",
       "domain": "modern-physics.org",
       "title": "Wave Function | Quantum Theory, Probability \u0026 Analysis"
+    },
+    {
+      "url": "https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions",
+      "domain": "www.pearson.com",
+      "title": "Wave Functions Explained: Definition, Examples, Practice ... - Pearson"
     }
   ],
   "sources_skipped": [
