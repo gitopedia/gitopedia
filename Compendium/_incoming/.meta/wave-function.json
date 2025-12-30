@@ -94,6 +94,11 @@
       "url": "http://labman.phys.utk.edu/phys222core/modules/m10/wave_functions.html",
       "domain": "labman.phys.utk.edu",
       "title": "Wave functions - University of Tennessee"
+    },
+    {
+      "url": "https://pressbooks.bccampus.ca/bcitphys8400/chapter/3-1-wave-functions/",
+      "domain": "pressbooks.bccampus.ca",
+      "title": "3.1 Wave Functions - BCIT Phys8400: Modern Physics"
     }
   ],
   "sources_skipped": [
