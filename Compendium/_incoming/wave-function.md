@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:wave-function"]
 people: ["person:erwin-schrdinger", "person:niels-bohr"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 4
+iterations: 5
 summary: "Initial overview based on 7.2: Wave functions - Physics LibreTexts"
 ---
 
@@ -84,11 +84,76 @@ This density peaks at x = L/2 and is zero at x = 0 and x = L.
 
 ## Applications and Examples
 
-### Two-State Systems
-In quantum computing, a qubit exists in a superposition of states, unlike classical bits which are binary. This allows quantum computers to perform certain calculations more efficiently than classical computers.
+### Introduction to Wave Functions
+The wave function in physics, denoted as \( y(x,t) \), is a mathematical description of an oscillating wave. It provides the displacement of a particle on the wave at a given position (\( x \)) and time (\( t \)). The general form of the wave function is:
+
+\[
+y(x,t) = A \sin(kx \pm \omega t + \phi)
+\]
+
+or
+
+\[
+y(x,t) = A \cos(kx \pm \omega t + \phi)
+\]
+
+where:
+- \( A \): Amplitude (maximum displacement).
+- \( k \): Wave number (\( k = \frac{2\pi}{\lambda} \)).
+- \( \omega \): Angular frequency (\( \omega = 2\pi f \)).
+
+### Calculating Wave Speed
+The wave speed (\( v \)) can be calculated using the formula:
+
+\[
+v = \frac{\omega}{k}
+\]
+
+where:
+- \( k \) is related to wavelength (\( \lambda \)) by \( k = \frac{2\pi}{\lambda} \).
+- \( \omega \) is related to frequency (\( f \)) by \( \omega = 2\pi f \).
+
+### Direction of Propagation
+The sign in the wave function determines the direction of propagation:
+- A positive sign (\(+ \omega t\)) indicates a wave moving in the positive \( x \)-direction.
+- A negative sign (\(- \omega t\)) indicates a wave moving in the negative \( x \)-direction.
+
+### Transverse Velocity
+The transverse velocity at any point is given by:
+
+\[
+v_{\text{transverse}} = -A \omega \cos(kx - \omega t)
+\]
+
+The maximum transverse velocity is:
+
+\[
+v_{\text{max}} = A \omega
+\]
+
+### Example Problem
+**Problem**: Given the wave function \( y(x,t) = 0.5 \sin(2\pi x - 100t) \), calculate the propagation velocity and the transverse velocity at \( x = 0.1 \, \text{m} \) and \( t = 0.05 \, \text{s} \).
+
+**Solution**:
+- Propagation velocity:
+
+\[
+v = \frac{\omega}{k} = \frac{100}{2\pi} \approx 15.915 \, \text{m/s}
+\]
+
+- Transverse velocity:
+
+\[
+v_{\text{transverse}} = -0.5 \times 100 \cos(2\pi \times 0.1 - 100 \times 0.05) \approx 49.95 \, \text{m/s}
+\]
+
+### Applications in Quantum Computing
+In quantum computing, wave functions describe the superposition of states. For example, qubits utilize superposition to perform calculations more efficiently than classical computers.
 
 ### Schrödinger's Thought Experiment
-Schrödinger's cat illustrates the concept of superposition, where a cat is considered both alive and dead until observed. This thought experiment highlights the probabilistic nature of quantum mechanics.
+Schrödinger's cat thought experiment illustrates the concept of superposition in quantum mechanics, where a particle can be in multiple states simultaneously until measured.
+
+Understanding wave functions is crucial for analyzing wave motion and solving wave-related problems in physics. They provide essential information about wave behavior, including amplitude, wavelength, frequency, and velocity. By utilizing relationships between angular frequency, wave number, and propagation velocity, we can efficiently calculate wave properties without deriving them separately.
 
 ## Correspondence Principle
 Niels Bohr’s principle asserts that quantum mechanics must align with classical mechanics for macroscopic systems, ensuring consistency between quantum theory and observable phenomena at large scales.
@@ -128,3 +193,4 @@ The wave function is central to quantum mechanics, offering insights into micros
 [^3]: [What Is a Wave Function in Quantum Physics?](https://www.sciencenewstoday.org/what-is-a-wave-function-in-quantum-physics)
 [^4]: [Wave Function in Quantum Mechanics: Equation, Collapse, and Meaning](https://www.vedantu.com/physics/wave-function)
 [^5]: [Wave Function | Quantum Theory, Probability & Analysis](https://modern-physics.org/wave-function/)
+[^6]: [Wave Functions Explained: Definition, Examples, Practice ... - Pearson](https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions)
