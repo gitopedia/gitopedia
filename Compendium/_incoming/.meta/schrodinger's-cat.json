@@ -12,6 +12,12 @@
       "timestamp": "2025-12-30T00:25:10.8685712Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Schrodinger's Cat Philosophical Implications",
+      "timestamp": "2025-12-30T00:27:04.6121489Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -24,6 +30,11 @@
       "url": "https://www.thoughtco.com/what-is-schrodingers-cat-2699362",
       "domain": "www.thoughtco.com",
       "title": "Here's How Schrodinger's Cat Works - ThoughtCo"
+    },
+    {
+      "url": "https://www.thephilroom.com/blog/2024/10/16/schrodingers-cat/",
+      "domain": "www.thephilroom.com",
+      "title": "Schrodinger's Cat - The Philosophy Room - thephilroom.com"
     }
   ],
   "sources_skipped": [
