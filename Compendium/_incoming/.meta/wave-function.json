@@ -12,6 +12,12 @@
       "timestamp": "2025-12-29T23:58:19.8575907Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function Conclusion",
+      "timestamp": "2025-12-30T00:01:03.9941565Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -24,6 +30,11 @@
       "url": "https://pressbooks.online.ucf.edu/osuniversityphysics3/chapter/wave-functions/",
       "domain": "pressbooks.online.ucf.edu",
       "title": "Wave Functions - University Physics Volume 3"
+    },
+    {
+      "url": "https://www.sciencenewstoday.org/what-is-a-wave-function-in-quantum-physics",
+      "domain": "www.sciencenewstoday.org",
+      "title": "What Is a Wave Function in Quantum Physics?"
     }
   ],
   "sources_skipped": [
