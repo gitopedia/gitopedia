@@ -6,6 +6,12 @@
       "timestamp": "2025-12-30T00:23:40.5019147Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Schrodinger's Cat Overview",
+      "timestamp": "2025-12-30T00:25:10.8685712Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -13,12 +19,23 @@
       "url": "https://www.sciencing.com/schrodingers-cat-simplified-what-is-it-why-is-important-13722577/",
       "domain": "www.sciencing.com",
       "title": "Schrodinger's Cat (Simplified): What Is It \u0026 Why Is It Important?"
+    },
+    {
+      "url": "https://www.thoughtco.com/what-is-schrodingers-cat-2699362",
+      "domain": "www.thoughtco.com",
+      "title": "Here's How Schrodinger's Cat Works - ThoughtCo"
     }
   ],
   "sources_skipped": [
     {
       "url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat",
       "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/Schrodingers-cat",
+      "domain": "www.britannica.com",
       "reason": "encyclopedia",
       "detected_by": "llm"
     }
