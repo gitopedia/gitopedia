@@ -100,6 +100,11 @@
       "url": "https://www.newscientist.com/definition/schrodingers-cat/",
       "domain": "www.newscientist.com",
       "title": "What is Schrodinger's cat? | New Scientist"
+    },
+    {
+      "url": "https://www.sciencefocus.com/science/what-is-schrodingers-cat",
+      "domain": "www.sciencefocus.com",
+      "title": "What is Schrödinger's Cat? - BBC Science Focus Magazine"
     }
   ],
   "sources_skipped": [
