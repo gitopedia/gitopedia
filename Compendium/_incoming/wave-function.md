@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:wave-function"]
 people: ["person:erwin-schrdinger", "person:niels-bohr"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 5
+iterations: 6
 summary: "Initial overview based on 7.2: Wave functions - Physics LibreTexts"
 ---
 
@@ -66,21 +66,55 @@ Wave functions can be even (ψ(x) = ψ(−x)) or odd (ψ(x) = −ψ(−x)). The 
 
 ### General Wave Function
 The wave function for a free particle is typically expressed as:
-Ψ(x,t) = A cos(kx - ωt) + iA sin(kx - ωt)
+\[ \Psi(x,t) = A e^{i(kx - \omega t)} \]
 where:
-- A is the amplitude,
-- k is the wave number,
-- ω is the angular frequency.
+- \( A \) is the amplitude,
+- \( k \) is the wave number (\( 2\pi/\lambda \)),
+- \( \omega \) is the angular frequency (\( 2\pi/T \)).
+
+This function can also be written using sine and cosine functions, as shown in the Current Version.
 
 ### Normalization
-Wave functions must be normalized such that the integral of |Ψ|² over all space equals 1, ensuring probabilities sum to one. For example, in a particle confined between 0 and L:
-ψ(x,t) = A e^{-iEt/ħ} sin(πx/L)
-The normalization constant A is determined by solving ∫₀ᴸ |ψ|² dx = 1.
+Wave functions must be normalized such that the integral of \( |\Psi|^2 \) over all space equals 1:
+\[ \int |\Psi(x,t)|^2 dx = 1 \]
+For a particle confined between 0 and \( L \):
+\[ \psi(x,t) = A e^{-iEt/\hbar} \sin\left(\frac{\pi x}{L}\right) \]
+The normalization constant \( A \) is determined by solving:
+\[ \int_0^L |\psi(x,t)|^2 dx = 1 \]
 
-### Probability Density
-For a particle in a box (confined between 0 and L), the probability density is given by:
-|\psi(x,t)|² = (2/L) sin²(πx/L)
-This density peaks at x = L/2 and is zero at x = 0 and x = L.
+### Key Parameters and Derivatives
+- **Velocity of the medium**: The velocity \( v_y \) can be found by taking the partial derivative of the wave function with respect to time:
+  \[ v_y = \frac{\partial y}{\partial t} \]
+  For a sinusoidal wave, the maximum velocity is:
+  \[ |v_{y,\text{max}}| = A\omega \]
+
+- **Acceleration of the medium**: The acceleration \( a_y \) can be found by taking the second partial derivative with respect to time:
+  \[ a_y = \frac{\partial^2 y}{\partial t^2} \]
+  The maximum acceleration is:
+  \[ |a_{y,\text{max}}| = A\omega^2 \]
+
+### Linear Wave Equation
+The linear wave equation governs the propagation of waves and is given by:
+\[ \nabla^2 y = \frac{1}{v^2} \frac{\partial^2 y}{\partial t^2} \]
+where \( v \) is the wave speed. For a wave function of the form \( y(x,t) = f(x \mp vt) \), this equation holds true, and the wave speed is related to angular frequency and wave number by:
+\[ v = \frac{\omega}{k} \]
+
+### Principle of Superposition
+The principle of superposition states that if two wave functions \( y_1(x,t) \) and \( y_2(x,t) \) are solutions to the linear wave equation, their sum is also a solution. This applies to all types of waves, including sound and electromagnetic waves.
+
+### Example Calculations
+- **Example 1**: A wave modeled by:
+  \[ y(x,t) = (0.25\,m)\cos(0.30\,m^{-1}x - 0.90\,s^{-1}t + \frac{\pi}{3}) \]
+  has an amplitude \( A = 0.25\,m \), wave number \( k = 0.30\,m^{-1} \), angular frequency \( \omega = 0.90\,s^{-1} \), and wave speed \( v = 3.0\,m/s \).
+
+- **Example 2**: A surface ocean wave with amplitude \( 0.60\,m \) and wavelength \( 8.00\,m \) moving at \( 1.50\,m/s \) is described by:
+  \[ y(x,t) = (0.60\,m)\sin(6.28\,m^{-1}x - 1.50\,s^{-1}t) \]
+
+### Particle Motion
+Each particle on the string moves a distance of \( 4A \) each period. For example, an observer would see \( 12000 \) crests passing by in \( 2.00\,minutes \), and the wave would travel \( 37680\,m \).
+
+### Conclusion
+The principles of superposition and interference are fundamental to understanding wave behavior. The linear wave equation governs the propagation of waves, and key parameters such as amplitude, wavelength, and wave speed can be derived from the wave function.
 
 ## Applications and Examples
 
@@ -194,3 +228,4 @@ The wave function is central to quantum mechanics, offering insights into micros
 [^4]: [Wave Function in Quantum Mechanics: Equation, Collapse, and Meaning](https://www.vedantu.com/physics/wave-function)
 [^5]: [Wave Function | Quantum Theory, Probability & Analysis](https://modern-physics.org/wave-function/)
 [^6]: [Wave Functions Explained: Definition, Examples, Practice ... - Pearson](https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions)
+[^7]: [16.2 Mathematics of Waves | University Physics Volume 1](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/16-2-mathematics-of-waves/)
