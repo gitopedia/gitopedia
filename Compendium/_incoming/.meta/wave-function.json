@@ -42,6 +42,12 @@
       "timestamp": "2025-12-30T00:18:56.4462927Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Wave Function What Is a Wave Function?",
+      "timestamp": "2025-12-30T01:34:14.6425573Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -99,6 +105,11 @@
       "url": "https://pressbooks.bccampus.ca/bcitphys8400/chapter/3-1-wave-functions/",
       "domain": "pressbooks.bccampus.ca",
       "title": "3.1 Wave Functions - BCIT Phys8400: Modern Physics"
+    },
+    {
+      "url": "https://www.thoughtco.com/definition-of-wavefunction-605790",
+      "domain": "www.thoughtco.com",
+      "title": "What Is a Wavefunction? Physics Definition - ThoughtCo"
     }
   ],
   "sources_skipped": [
