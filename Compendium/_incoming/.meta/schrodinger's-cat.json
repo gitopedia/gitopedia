@@ -24,6 +24,12 @@
       "timestamp": "2025-12-30T00:28:01.0510623Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Schrodinger's Cat Schrödinger's Cat Thought Experiment",
+      "timestamp": "2025-12-30T00:31:17.5879565Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -46,6 +52,11 @@
       "url": "https://www.sciencenewstoday.org/schrodingers-cat-explained-quantum-mechanics-and-paradoxes",
       "domain": "www.sciencenewstoday.org",
       "title": "Schrödinger's Cat Explained: Quantum Mechanics and Paradoxes"
+    },
+    {
+      "url": "https://learningbreeze.com/physics/schrodingers-cat-thought-experiment-explained-removing-the-famous-quantum-physics-paradox/",
+      "domain": "learningbreeze.com",
+      "title": "Schrödinger's Cat Thought Experiment Explained"
     }
   ],
   "sources_skipped": [
@@ -58,6 +69,12 @@
     {
       "url": "https://www.britannica.com/science/Schrodingers-cat",
       "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://brilliant.org/wiki/schrodingers-cat/",
+      "domain": "brilliant.org",
       "reason": "encyclopedia",
       "detected_by": "llm"
     }
