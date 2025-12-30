@@ -30,6 +30,12 @@
       "timestamp": "2025-12-30T01:08:18.8729975Z",
       "results_found": 10,
       "page": 0
+    },
+    {
+      "query": "Quantum Entanglement Quantum Entanglement in Nature",
+      "timestamp": "2025-12-30T01:09:40.7467372Z",
+      "results_found": 10,
+      "page": 0
     }
   ],
   "sources_used": [
@@ -67,6 +73,11 @@
       "url": "https://www.spinquanta.com/news-detail/understanding-quantum-entanglement-the-ultimate-expert-guide",
       "domain": "www.spinquanta.com",
       "title": "Quantum Entanglement: Everything You Need to Know [2025]"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41567-025-02945-2",
+      "domain": "www.nature.com",
+      "title": "Entanglement accelerates quantum simulation - Nature Physics"
     }
   ],
   "sources_skipped": [
