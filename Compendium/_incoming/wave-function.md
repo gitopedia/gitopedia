@@ -7,7 +7,7 @@ tags: ["topic:quantum-mechanics", "topic:wave-function"]
 people: ["person:erwin-schrdinger", "person:niels-bohr"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
-iterations: 6
+iterations: 7
 summary: "Initial overview based on 7.2: Wave functions - Physics LibreTexts"
 ---
 
@@ -229,3 +229,4 @@ The wave function is central to quantum mechanics, offering insights into micros
 [^5]: [Wave Function | Quantum Theory, Probability & Analysis](https://modern-physics.org/wave-function/)
 [^6]: [Wave Functions Explained: Definition, Examples, Practice ... - Pearson](https://www.pearson.com/channels/physics/learn/patrick/18-waves-and-sound/wave-functions)
 [^7]: [16.2 Mathematics of Waves | University Physics Volume 1](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/16-2-mathematics-of-waves/)
+[^8]: [Wave functions - University of Tennessee](http://labman.phys.utk.edu/phys222core/modules/m10/wave_functions.html)
