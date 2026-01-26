@@ -1,0 +1,172 @@
+{
+  "article_slug": "quantum-harmonic-oscillator",
+  "searches": [
+    {
+      "query": "Quantum Harmonic Oscillator explained",
+      "timestamp": "2026-01-26T08:39:05.8080988Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator",
+      "timestamp": "2026-01-26T08:41:22.9003619Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator Quantum Field Theory Applications",
+      "timestamp": "2026-01-26T08:45:49.6551254Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator Zero-Point Energy",
+      "timestamp": "2026-01-26T08:59:11.5083108Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator Applications in Molecular Vibrations and Solid-State Physics",
+      "timestamp": "2026-01-26T09:00:44.0597159Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator Coherent States",
+      "timestamp": "2026-01-26T09:02:50.2710919Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator",
+      "timestamp": "2026-01-26T09:04:14.3602886Z",
+      "results_found": 10,
+      "page": 1
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator",
+      "timestamp": "2026-01-26T09:04:17.2883517Z",
+      "results_found": 10,
+      "page": 2
+    },
+    {
+      "query": "Science Physics Quantum Harmonic Oscillator Statistical Mechanics",
+      "timestamp": "2026-01-26T09:07:30.8920159Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.06%3A_The_Quantum_Harmonic_Oscillator",
+      "domain": "phys.libretexts.org",
+      "title": "7.6: The Quantum Harmonic Oscillator - Physics LibreTexts"
+    },
+    {
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-5-the-quantum-harmonic-oscillator",
+      "domain": "openstax.org",
+      "title": "7.5 The Quantum Harmonic Oscillator - University Physics ... - OpenStax"
+    },
+    {
+      "url": "https://paulskrzypczyk.github.io/qm-lecture-notes/harmonic-oscillator",
+      "domain": "paulskrzypczyk.github.io",
+      "title": "Chapter 11: The Quantum Harmonic Oscillator - GitHub Pages"
+    },
+    {
+      "url": "http://www.hyperphysics.phy-astr.gsu.edu/hbase/quantum/hosc.html",
+      "domain": "www.hyperphysics.phy-astr.gsu.edu",
+      "title": "Quantum Harmonic Oscillator - HyperPhysics"
+    },
+    {
+      "url": "https://brilliant.org/wiki/quantum-harmonic-oscillator/",
+      "domain": "brilliant.org",
+      "title": "Quantum Harmonic Oscillator | Brilliant Math \u0026 Science Wiki"
+    },
+    {
+      "url": "https://pressbooks.online.ucf.edu/osuniversityphysics3/chapter/the-quantum-harmonic-oscillator/",
+      "domain": "pressbooks.online.ucf.edu",
+      "title": "The Quantum Harmonic Oscillator - University Physics Volume 3"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/395695112_The_Quantum_Harmonic_Oscillator_Mathematical_Framework_and_Applications_in_Modern_Physics",
+      "domain": "www.researchgate.net",
+      "title": "The Quantum Harmonic Oscillator: Mathematical Framework and ..."
+    },
+    {
+      "url": "https://quantumpositioned.com/quantum-harmonic/",
+      "domain": "quantumpositioned.com",
+      "title": "The Quantum Harmonic Oscillator - An ... - Quantum Positioned"
+    },
+    {
+      "url": "https://physics.stackexchange.com/questions/78073/simple-harmonic-oscillator-zero-point-energy",
+      "domain": "physics.stackexchange.com",
+      "title": "quantum mechanics - Simple harmonic oscillator: zero point energy ..."
+    },
+    {
+      "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/05%3A_The_Harmonic_Oscillator_and_the_Rigid_Rotor/5.03%3A_The_Harmonic_Oscillator_Approximates_Molecular_Vibrations",
+      "domain": "chem.libretexts.org",
+      "title": "5.3: The Harmonic Oscillator Approximates Molecular Vibrations"
+    },
+    {
+      "url": "https://www.mdpi.com/2624-8174/2/4/31",
+      "domain": "www.mdpi.com",
+      "title": "A Full-Fledged Analytical Solution to the Quantum Harmonic Oscillator ..."
+    },
+    {
+      "url": "https://www.physicsflow.com/g/4.1.3",
+      "domain": "www.physicsflow.com",
+      "title": "Quantum harmonic oscillator and coherent states"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/resources/lecture-8/",
+      "domain": "ocw.mit.edu",
+      "title": "Lecture 8: Quantum Harmonic Oscillator | Quantum Physics I | Physics ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1kY6MKfzfx4",
+      "domain": "www.youtube.com",
+      "title": "9. Zero-point energy of a harmonic oscillator - YouTube"
+    },
+    {
+      "url": "https://your-physicist.com/quantum-harmonic-oscillator/",
+      "domain": "your-physicist.com",
+      "title": "Quantum harmonic oscillator | Description, Example \u0026 Application"
+    },
+    {
+      "url": "https://fiveable.me/statistical-mechanics/unit-4/quantum-harmonic-oscillators/study-guide/MSQCUchG8Ps11Iew",
+      "domain": "fiveable.me",
+      "title": "Quantum harmonic oscillators | Statistical Mechanics Class Notes"
+    },
+    {
+      "url": "https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Quantum_Mechanics_III_(Chong)/06%3A_Appendices/6.05%3A_E-_Coherent_States",
+      "domain": "phys.libretexts.org",
+      "title": "6.5: E- Coherent States - Physics LibreTexts"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_harmonic_oscillator",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zero-point_energy",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coherent_state",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/zero-point-energy",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}

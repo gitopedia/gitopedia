@@ -1,0 +1,115 @@
+{
+  "article_slug": "pauli-exclusion-principle",
+  "searches": [
+    {
+      "query": "Pauli Exclusion Principle explained",
+      "timestamp": "2026-01-26T15:21:03.8336623Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Pauli Exclusion Principle Mathematical Formulation",
+      "timestamp": "2026-01-26T15:22:41.7222159Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Pauli Exclusion Principle",
+      "timestamp": "2026-01-26T15:24:29.6147882Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Pauli Exclusion Principle Spin-Statistics Theorem",
+      "timestamp": "2026-01-26T15:59:08.4690787Z",
+      "results_found": 10,
+      "page": 0
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electronic_Structure_of_Atoms_and_Molecules/Electronic_Configurations/Pauli_Exclusion_Principle",
+      "domain": "chem.libretexts.org",
+      "title": "Pauli Exclusion Principle - Chemistry LibreTexts"
+    },
+    {
+      "url": "https://thephysicsjournal.substack.com/p/the-pauli-exclusion-principle",
+      "domain": "thephysicsjournal.substack.com",
+      "title": "The Pauli Exclusion Principle - by Dr. Manhattan"
+    },
+    {
+      "url": "https://courses.lumenlearning.com/suny-physics/chapter/30-9-the-pauli-exclusion-principle/",
+      "domain": "courses.lumenlearning.com",
+      "title": "The Pauli Exclusion Principle | Physics - Lumen Learning"
+    },
+    {
+      "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/pauli-exclusion-principle",
+      "domain": "www.sciencedirect.com",
+      "title": "Pauli Exclusion Principle - an overview | ScienceDirect Topics"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/science/exclusion-principle",
+      "domain": "www.ebsco.com",
+      "title": "Exclusion Principle | Research Starters - EBSCO"
+    },
+    {
+      "url": "https://openstax.org/books/college-physics-2e/pages/30-9-the-pauli-exclusion-principle",
+      "domain": "openstax.org",
+      "title": "30.9 The Pauli Exclusion Principle - College Physics 2e | OpenStax"
+    },
+    {
+      "url": "https://www.physicsoftheuniverse.com/topics_quantum_spin.html",
+      "domain": "www.physicsoftheuniverse.com",
+      "title": "Spin and the Pauli Exclusion Principle - Physics of the Universe"
+    },
+    {
+      "url": "https://perimeterinstitute.ca/news/pauli-exclusion-principle-100-years-later",
+      "domain": "perimeterinstitute.ca",
+      "title": "The Pauli Exclusion Principle, 100 Years Later | PI News"
+    },
+    {
+      "url": "https://www.nature.com/articles/s42254-025-00886-6",
+      "domain": "www.nature.com",
+      "title": "Nobel 1945: the exclusion principle | Nature Reviews Physics"
+    },
+    {
+      "url": "https://www.vedantu.com/physics/pauli-exclusion-principle",
+      "domain": "www.vedantu.com",
+      "title": "Pauli Exclusion Principle: Physics Explained with Examples - Vedantu"
+    },
+    {
+      "url": "https://galileo-unbound.blog/2024/12/11/100-years-of-quantum-physics-paulis-exclusion-principle-1924/",
+      "domain": "galileo-unbound.blog",
+      "title": "100 Years of Quantum Physics: Pauli's Exclusion Principle (1924)"
+    },
+    {
+      "url": "https://www.sciencealert.com/what-is-the-pauli-exclusion-principle",
+      "domain": "www.sciencealert.com",
+      "title": "What Is The Pauli Exclusion Principle? - ScienceAlert"
+    },
+    {
+      "url": "https://books.google.com/books/about/Pauli_And_The_Spin_statistics_Theorem.html?id=_A7tCgAAQBAJ",
+      "domain": "books.google.com",
+      "title": "Pauli And The Spin-statistics Theorem - Google Books"
+    },
+    {
+      "url": "https://scienceinfo.com/pauli-exclusion-principle-statement/",
+      "domain": "scienceinfo.com",
+      "title": "Pauli Exclusion Principle: Statement, Examples, Importance - Science Info"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pauli_exclusion_principle",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/Pauli-exclusion-principle",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}

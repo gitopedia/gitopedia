@@ -1,0 +1,38 @@
+{
+  "category": "Science",
+  "extraction": {
+    "iconic_imagery": [
+      "Earth's rotation vs orbital motion analogy",
+      "Spin-statistics theorem in relativistic quantum field theory"
+    ],
+    "key_concepts": [
+      "Intrinsic spin as a quantum property of particles",
+      "Spin-statistics theorem linking spin to particle statistics",
+      "Quantum fields as the origin of spin"
+    ],
+    "math_elements": [
+      "Spin-statistics theorem (relativistic derivation)",
+      "Spin quantum number notation (½)"
+    ],
+    "notable_figures": [
+      "Otto Stern",
+      "Walther Gerlach",
+      "Wolfgang Pauli",
+      "Hendrik Lorentz"
+    ],
+    "specific_phenomena": [
+      "Stern-Gerlach experiment",
+      "Pauli exclusion principle"
+    ]
+  },
+  "generated_at": "2026-01-26T11:26:27Z",
+  "style_config": {
+    "color_mood": "dark matter deep purple",
+    "selected_styles": [
+      "quantum visualization art",
+      "wave interference patterns"
+    ]
+  },
+  "subcategory": "Physics",
+  "topic": "Spin (Physics)"
+}

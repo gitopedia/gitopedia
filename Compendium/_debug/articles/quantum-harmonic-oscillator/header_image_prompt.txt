@@ -1,0 +1,36 @@
+# Header Image Prompt for: Quantum Harmonic Oscillator
+# Category: Science > Physics
+# Styles: particle physics aesthetic, abstract energy visualization
+# Color Mood: dark matter deep purple
+# Generated: 2026-01-26T09:12:14Z
+# Model: deepseek-r1:14b
+# Extracted Elements:
+#   Key Concepts: Quantized energy levels (n=0,1,2,...), Wavefunctions described by Hermite polynomials, Zero-point energy (non-zero ground state energy), Classical vs quantum probability distributions, Partition function for thermodynamic properties
+#   Phenomena: Zero-point energy effect, Correspondence principle (classical limit at high n)
+#   Iconic Imagery: Sinusoidal classical oscillator motion, Potential well with quantum probability cloud, Wave packet localization in quantum optics
+#   Math Elements: Energy levels: E_n = (n + 1/2)ħω, Wavefunction: ψ_n(x) = N H_n(αx) e^{-α²x²/2}, Partition function: Z = ∑_{n=0}^∞ e^{-β(n + 1/2)ħω}, Correspondence principle limit: n → ∞
+# LLM Reasoning:
+#   Alright, so I need to create a header image prompt for an encyclopedia article about the Quantum Harmonic Oscillator. The user has provided specific guidelines, so let me break this down step by step.
+#   
+#   First, the article is about the quantum harmonic oscillator, which is a fundamental concept in quantum mechanics. It's different from the classical version because it involves quantized energy levels and wavefunctions. The key concepts include things like quantized energy levels (n=0,1,2,...), wavefunctions described by Hermite polynomials, zero-point energy, and so on.
+#   
+#   The user wants a prompt that incorporates at least two or three of the extracted elements specifically mentioned in the article. So I should look into the Named Phenomena and Iconic Imagery sections provided. From there, I see things like the Zero-point energy effect, Correspondence principle, sinusoidal classical oscillator motion, potential well with quantum probability cloud, wave packet localization, etc.
+#   
+#   The artistic style required is particle physics aesthetic and abstract energy visualization. The color mood should be dark matter deep purple, which suggests a dark background with purples as the dominant colors.
+#   
+#   I need to make sure the prompt is specific to this article and not generic. So I should reference the named phenomena by name, like Zero-point energy effect or Correspondence principle.
+#   
+#   The image should be 1920x1080, which means it's a wide aspect ratio, so the prompt should visualize something that spreads across such dimensions. It should avoid text and focus on visual elements only.
+#   
+#   Given all this, I should construct a prompt that includes at least two or three specific references from the article. Let me think about how to integrate these elements.
+#   
+#   Perhaps starting with an abstract visualization of quantized energy levels since they are a core concept. Then, incorporating the zero-point energy effect, which is another key point. The wavefunctions can be represented through mathematical elements, maybe using the sinusoidal lines or patterns that represent them.
+#   
+#   I also need to ensure the style is particle physics aesthetic, so things like glowing particles or dynamic energy fields could work. Since the color is dark matter deep purple, I should use dark backgrounds with purples and light elements standing out.
+#   
+#   Putting it all together, I can describe a scene where abstract shapes representing energy levels glow in a dark purple void, with mathematical patterns hinting at wavefunctions. Maybe include some dynamic lines that show motion, symbolizing the quantum nature of the oscillator.
+#   
+#   I should make sure the prompt is concise, 2-4 sentences, and highly specific, mentioning the phenomena by name.
+#   
+
+An abstract visualization of quantized energy levels glowing in a dark purple void, with sinusoidal waveforms intertwining to represent the quantum harmonic oscillator's probability distributions. Incorporate mathematical patterns hinting at Hermite polynomials, while subtle glows depict the zero-point energy effect and the correspondence principle transitioning between classical and quantum realms.

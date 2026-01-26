@@ -1,0 +1,165 @@
+{
+  "article_slug": "quantum-superposition",
+  "searches": [
+    {
+      "query": "Quantum Superposition explained",
+      "timestamp": "2026-01-26T09:12:17.8685082Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Superposition",
+      "timestamp": "2026-01-26T09:13:38.9222711Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Superposition Quantum Interference Phenomena",
+      "timestamp": "2026-01-26T09:21:47.5603138Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Superposition Mathematical Formalism",
+      "timestamp": "2026-01-26T09:33:14.7865105Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Superposition Decoherence",
+      "timestamp": "2026-01-26T09:34:46.4380767Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Quantum Superposition",
+      "timestamp": "2026-01-26T09:49:38.5458184Z",
+      "results_found": 10,
+      "page": 1
+    },
+    {
+      "query": "Science Physics Quantum Superposition",
+      "timestamp": "2026-01-26T09:50:26.6627838Z",
+      "results_found": 10,
+      "page": 2
+    },
+    {
+      "query": "Science Physics Quantum Superposition",
+      "timestamp": "2026-01-26T09:51:14.8007028Z",
+      "results_found": 10,
+      "page": 3
+    },
+    {
+      "query": "Science Physics Quantum Superposition",
+      "timestamp": "2026-01-26T09:52:03.0122572Z",
+      "results_found": 10,
+      "page": 4
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/quantum-superposition",
+      "domain": "scienceexchange.caltech.edu",
+      "title": "What Is Quantum Superposition? - Caltech Science Exchange"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/quantum-physicists-just-supersized-schroedingers-cat/",
+      "domain": "www.scientificamerican.com",
+      "title": "Quantum physicists just supersized Schrödinger's cat | Scientific American"
+    },
+    {
+      "url": "https://about-science.org/what-is-quantum-superposition/",
+      "domain": "about-science.org",
+      "title": "What is quantum superposition? - ABOUT SCIENCE"
+    },
+    {
+      "url": "https://www.physicsoftheuniverse.com/topics_quantum_superposition.html",
+      "domain": "www.physicsoftheuniverse.com",
+      "title": "Superposition, Interference and Decoherence - Quantum Theory and the ..."
+    },
+    {
+      "url": "https://mybrainrewired.com/quantum-physics/superposition-principle-explained-simply/",
+      "domain": "mybrainrewired.com",
+      "title": "Understanding the Superposition Principle Made Easy"
+    },
+    {
+      "url": "https://mybrainrewired.com/quantum-physics/superposition-principle-key-insights/",
+      "domain": "mybrainrewired.com",
+      "title": "Superposition Principle Explained: 7 Key Insights - My Brain Rewired"
+    },
+    {
+      "url": "https://www.sciencedirect.com/topics/engineering/quantum-superposition",
+      "domain": "www.sciencedirect.com",
+      "title": "Quantum Superposition - an overview | ScienceDirect Topics"
+    },
+    {
+      "url": "https://www.nist.gov/video/what-superposition",
+      "domain": "www.nist.gov",
+      "title": "What is Superposition? | NIST"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10699-017-9541-z",
+      "domain": "link.springer.com",
+      "title": "Quantum Superpositions and the Representation of Physical Reality ..."
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/qm-decoherence/",
+      "domain": "plato.stanford.edu",
+      "title": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "url": "https://quantumatlas.umd.edu/entry/superposition/",
+      "domain": "quantumatlas.umd.edu",
+      "title": "The Quantum Atlas | Quantum Superposition"
+    },
+    {
+      "url": "https://biolecta.com/articles/understanding-quantum-superposition-theory-impact/",
+      "domain": "biolecta.com",
+      "title": "Understanding Quantum Superposition: Theory and Impact"
+    },
+    {
+      "url": "https://modern-physics.org/quantum-superposition/",
+      "domain": "modern-physics.org",
+      "title": "Quantum Superposition | Theory, Applications \u0026 Impact"
+    },
+    {
+      "url": "https://www.livescience.com/technology/computing/what-is-quantum-superposition-and-what-does-it-mean-for-quantum-computing",
+      "domain": "www.livescience.com",
+      "title": "What is quantum superposition? | Live Science"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-61601-4_1",
+      "domain": "link.springer.com",
+      "title": "Introduction to Superposition | Springer Nature Link"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/resources/lecture-1/",
+      "domain": "ocw.mit.edu",
+      "title": "Lecture 1: Introduction to Superposition | Quantum Physics I | Physics ..."
+    },
+    {
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/PhysRevLett.128.160402/fulltext",
+      "domain": "harvest.aps.org",
+      "title": "Entanglement and Superposition Are Equivalent Concepts in Any Physical ..."
+    },
+    {
+      "url": "https://learn.utopiacircle.org/quantum-superposition-a-simplified-guide/",
+      "domain": "learn.utopiacircle.org",
+      "title": "Quantum Superposition: A Simplified Guide » The Learning Hub"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_superposition",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_decoherence",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}

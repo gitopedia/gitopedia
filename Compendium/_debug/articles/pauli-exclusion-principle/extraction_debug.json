@@ -1,0 +1,40 @@
+{
+  "category": "Science",
+  "extraction": {
+    "iconic_imagery": [
+      "Electrons as 'ghosts' via probability wave metaphors",
+      "Zweideutigkeit (ambiguity) concept visualized as spin duality"
+    ],
+    "key_concepts": [
+      "Four quantum numbers (n, l, m_l, m_s) defining electron states",
+      "Antisymmetry of fermion wavefunctions (ψ_i(x) ≠ ψ_j(x))",
+      "Electron configuration filling order via Aufbau Principle",
+      "Electron spin-statistics relationship (Zweideutigkeit)"
+    ],
+    "math_elements": [
+      "ψ_i(x) ≠ ψ_j(x) (distinct wavefunction states)",
+      "Quantum number notation (n, l, m_l, m_s)"
+    ],
+    "notable_figures": [
+      "Wolfgang Pauli",
+      "Ralph Kronig",
+      "George Uhlenbeck",
+      "Samuel Goudsmit",
+      "Paul Dirac"
+    ],
+    "specific_phenomena": [
+      "Anomalous Zeeman effect (1897)",
+      "Stern-Gerlach experiment (1922)"
+    ]
+  },
+  "generated_at": "2026-01-26T16:03:56Z",
+  "style_config": {
+    "color_mood": "dark field with electromagnetic spectrum traces",
+    "selected_styles": [
+      "bauhaus design with physics motifs",
+      "abstract energy visualization"
+    ]
+  },
+  "subcategory": "Physics",
+  "topic": "Pauli Exclusion Principle"
+}

@@ -1,0 +1,149 @@
+{
+  "article_slug": "heisenberg-uncertainty-principle",
+  "searches": [
+    {
+      "query": "Heisenberg Uncertainty Principle explained",
+      "timestamp": "2026-01-26T13:45:52.0593661Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle",
+      "timestamp": "2026-01-26T13:47:01.1832548Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle Energy-Time Uncertainty Relation",
+      "timestamp": "2026-01-26T13:53:41.3917059Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle Mathematical Formulation",
+      "timestamp": "2026-01-26T14:02:54.8979925Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle Robertson-Schrödinger Uncertainty Relation",
+      "timestamp": "2026-01-26T14:05:16.1691295Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle Energy-Time Uncertainty Relation",
+      "timestamp": "2026-01-26T14:38:18.3431859Z",
+      "results_found": 10,
+      "page": 1
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle Energy-Time Uncertainty Relation",
+      "timestamp": "2026-01-26T14:39:06.5488754Z",
+      "results_found": 10,
+      "page": 2
+    },
+    {
+      "query": "Science Physics Heisenberg Uncertainty Principle Energy-Time Uncertainty Relation",
+      "timestamp": "2026-01-26T14:39:54.9730222Z",
+      "results_found": 10,
+      "page": 3
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.03%3A_The_Heisenberg_Uncertainty_Principle",
+      "domain": "phys.libretexts.org",
+      "title": "7.3: The Heisenberg Uncertainty Principle - Physics LibreTexts"
+    },
+    {
+      "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/uncertainty-principle",
+      "domain": "scienceexchange.caltech.edu",
+      "title": "What Is the Uncertainty Principle? Heisenberg Uncertainty Principle ..."
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/qt-uncertainty/",
+      "domain": "plato.stanford.edu",
+      "title": "The Uncertainty Principle - Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "url": "https://math.ucr.edu/home/baez/uncertainty.html",
+      "domain": "math.ucr.edu",
+      "title": "The Time-Energy Uncertainty Relation"
+    },
+    {
+      "url": "https://www.thoughtco.com/the-heisenberg-uncertainty-principle-2699357",
+      "domain": "www.thoughtco.com",
+      "title": "Understanding the Heisenberg Uncertainty Principle - ThoughtCo"
+    },
+    {
+      "url": "https://www.mathsisfun.com/physics/heisenberg-uncertainty.html",
+      "domain": "www.mathsisfun.com",
+      "title": "Heisenberg's Uncertainty Principle - Math is Fun"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/physics/heisenberg-uncertainty-principle-definition-equation-significance/",
+      "domain": "www.geeksforgeeks.org",
+      "title": "Heisenberg Uncertainty Principle - GeeksforGeeks"
+    },
+    {
+      "url": "https://brilliant.org/wiki/heisenberg-uncertainty-principle/",
+      "domain": "brilliant.org",
+      "title": "Heisenberg Uncertainty Principle | Brilliant Math \u0026 Science Wiki"
+    },
+    {
+      "url": "https://www.newworldencyclopedia.org/entry/Uncertainty_principle",
+      "domain": "www.newworldencyclopedia.org",
+      "title": "Uncertainty principle - New World Encyclopedia"
+    },
+    {
+      "url": "https://prep4uni.online/stem/science/physics/modern-physics/quantum-mechanics/heisenbergs-uncertainty-principle/",
+      "domain": "prep4uni.online",
+      "title": "Heisenberg's Uncertainty Principle - prep4uni.online"
+    },
+    {
+      "url": "https://physicsexplained.org/what-is-the-uncertainty-principle",
+      "domain": "physicsexplained.org",
+      "title": "What Is the Uncertainty Principle? Heisenberg Uncertainty Explained ..."
+    },
+    {
+      "url": "https://academic.oup.com/book/40571/chapter/347982810",
+      "domain": "academic.oup.com",
+      "title": "Heisenberg, Bohr, Robertson, and the Uncertainty Principle: The ..."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0370157307003481",
+      "domain": "www.sciencedirect.com",
+      "title": "Heisenberg's uncertainty principle - ScienceDirect"
+    },
+    {
+      "url": "https://physicsbook.gatech.edu/Heisenberg_Uncertainty_Principle",
+      "domain": "physicsbook.gatech.edu",
+      "title": "Heisenberg Uncertainty Principle - Physics Book"
+    },
+    {
+      "url": "https://pressbooks.bccampus.ca/bcitphys8400/chapter/3-2-the-heisenberg-uncertainty-principle/",
+      "domain": "pressbooks.bccampus.ca",
+      "title": "3.2 The Heisenberg Uncertainty Principle - BCIT Phys8400: Modern Physics"
+    },
+    {
+      "url": "https://history.aip.org/history/exhibits/heisenberg/uncertainty-principle.html",
+      "domain": "history.aip.org",
+      "title": "The Uncertainty Principle - Heisenberg Web Exhibit"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uncertainty_principle",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://www.britannica.com/science/uncertainty-principle",
+      "domain": "www.britannica.com",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}

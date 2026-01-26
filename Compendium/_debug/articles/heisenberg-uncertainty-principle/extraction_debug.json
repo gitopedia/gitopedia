@@ -1,0 +1,44 @@
+{
+  "category": "Science",
+  "extraction": {
+    "iconic_imagery": [
+      "Wave-particle duality metaphor",
+      "Fourier transform relationship between time and frequency domains",
+      "De Broglie wavelength visualization"
+    ],
+    "key_concepts": [
+      "Position-momentum uncertainty",
+      "Energy-time uncertainty",
+      "Wave-particle duality",
+      "Ground-state energy estimation"
+    ],
+    "math_elements": [
+      "ΔxΔp ≥ ħ/2",
+      "ΔEΔt ≥ ħ/2",
+      "λ = h/p (De Broglie equation)",
+      "Ground-state energy estimation formula"
+    ],
+    "notable_figures": [
+      "Werner Heisenberg",
+      "Aharonov",
+      "Boynstein",
+      "Lange",
+      "John von Neumann",
+      "Asher Peres"
+    ],
+    "specific_phenomena": [
+      "Neutron interferometry experiments",
+      "Fullerene molecule quantum effects"
+    ]
+  },
+  "generated_at": "2026-01-26T14:45:06Z",
+  "style_config": {
+    "color_mood": "midnight wave interference patterns",
+    "selected_styles": [
+      "bauhaus design with physics motifs",
+      "quantum visualization art"
+    ]
+  },
+  "subcategory": "Physics",
+  "topic": "Heisenberg Uncertainty Principle"
+}

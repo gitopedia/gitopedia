@@ -1,0 +1,41 @@
+{
+  "category": "Science",
+  "extraction": {
+    "iconic_imagery": [
+      "Cosmic expansion patterns",
+      "3D dark matter map"
+    ],
+    "key_concepts": [
+      "Dark Energy",
+      "Lambda-Cold Dark Matter (ΛCDM) model",
+      "Dark Energy Survey (DES)",
+      "Vera C. Rubin Observatory's LSST",
+      "Time-dependent dark energy"
+    ],
+    "math_elements": [
+      "Statistical significance (3.9 sigma, 4.2 sigma)",
+      "Cosmological constant (Λ) equation"
+    ],
+    "notable_figures": [
+      "David Wiltshire",
+      "Ryan Ridden-Harper",
+      "Zachary Lane",
+      "Antonia Seifert",
+      "Marco Galoppo"
+    ],
+    "specific_phenomena": [
+      "Dark Energy Survey (DES)",
+      "New Zealand study's 'dark energy doesn't exist' hypothesis"
+    ]
+  },
+  "generated_at": "2026-01-26T13:45:47Z",
+  "style_config": {
+    "color_mood": "dark void with particle collision sparks",
+    "selected_styles": [
+      "particle physics aesthetic",
+      "wave interference patterns"
+    ]
+  },
+  "subcategory": "Physics",
+  "topic": "Dark Energy"
+}

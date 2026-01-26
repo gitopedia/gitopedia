@@ -1,0 +1,204 @@
+{
+  "article_slug": "dirac-equation",
+  "searches": [
+    {
+      "query": "Dirac Equation explained",
+      "timestamp": "2026-01-26T10:08:10.037626Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation",
+      "timestamp": "2026-01-26T10:09:35.2773935Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Antimatter Prediction",
+      "timestamp": "2026-01-26T10:10:56.9526577Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Prediction and Discovery of Antimatter",
+      "timestamp": "2026-01-26T10:13:30.0011537Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Derivation of the Dirac Equation",
+      "timestamp": "2026-01-26T10:27:22.9879716Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Dirac Sea and Hole Theory",
+      "timestamp": "2026-01-26T10:31:14.6598756Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation",
+      "timestamp": "2026-01-26T10:33:39.0497267Z",
+      "results_found": 10,
+      "page": 1
+    },
+    {
+      "query": "Science Physics Dirac Equation Experimental Verification of Antimatter Prediction",
+      "timestamp": "2026-01-26T10:35:44.5493435Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Spinor Representation",
+      "timestamp": "2026-01-26T10:39:12.5528669Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Prediction of Antimatter",
+      "timestamp": "2026-01-26T10:45:43.5274188Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Spinor Structure",
+      "timestamp": "2026-01-26T10:49:18.5895659Z",
+      "results_found": 10,
+      "page": 0
+    },
+    {
+      "query": "Science Physics Dirac Equation Spinor Structure",
+      "timestamp": "2026-01-26T10:49:21.4981592Z",
+      "results_found": 10,
+      "page": 1
+    }
+  ],
+  "sources_used": [
+    {
+      "url": "https://everything.explained.today/Dirac_equation/",
+      "domain": "everything.explained.today",
+      "title": "Dirac equation explained"
+    },
+    {
+      "url": "https://physics.aps.org/articles/v18/20",
+      "domain": "physics.aps.org",
+      "title": "Physics - Quantum Milestones, 1928: The Dirac Equation Unifies Quantum ..."
+    },
+    {
+      "url": "https://www.wondersofphysics.com/2020/07/this-is-how-dirac-predicted-antimatter.html",
+      "domain": "www.wondersofphysics.com",
+      "title": "This Is How Dirac Predicted Antimatter | Wonders of Physics: A Blog ..."
+    },
+    {
+      "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/dirac-equation",
+      "domain": "www.sciencedirect.com",
+      "title": "Dirac Equation - an overview | ScienceDirect Topics"
+    },
+    {
+      "url": "https://scienceinsights.org/what-is-the-dirac-equation-and-what-did-it-predict/",
+      "domain": "scienceinsights.org",
+      "title": "What Is the Dirac Equation and What Did It Predict?"
+    },
+    {
+      "url": "https://www.vedantu.com/physics/dirac-equation",
+      "domain": "www.vedantu.com",
+      "title": "Dirac Equation: Formula, Theory \u0026 Applications Explained - Vedantu"
+    },
+    {
+      "url": "https://www.examples.com/physics/dirac-equation.html",
+      "domain": "www.examples.com",
+      "title": "Dirac Equation - Equation, Formula, Examples, and FAQs"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/physics/dirac-equation",
+      "domain": "www.ebsco.com",
+      "title": "Dirac Equation | Research Starters | EBSCO Research"
+    },
+    {
+      "url": "https://cirosantilli.com/derivation-of-the-dirac-equation",
+      "domain": "cirosantilli.com",
+      "title": "Derivation of the Dirac equation - Ciro Santilli"
+    },
+    {
+      "url": "https://science.topicget.com/en/quantum-mechanics-study/dirac-equation-overview",
+      "domain": "science.topicget.com",
+      "title": "Unlocking Quantum Secrets: Paul Dirac's Equation Explained"
+    },
+    {
+      "url": "https://webhome.phy.duke.edu/~kolena/modern/deaton.html",
+      "domain": "webhome.phy.duke.edu",
+      "title": "The Dirac Equation and the Positron - Duke University"
+    },
+    {
+      "url": "https://chem.libretexts.org/Courses/New_York_University/G25.2666%3A_Quantum_Chemistry_and_Dynamics/2%3A_General_theory_of_spin/2.5%3A_Introduction_to_the_Dirac_Equation",
+      "domain": "chem.libretexts.org",
+      "title": "2.5: Introduction to the Dirac Equation - Chemistry LibreTexts"
+    },
+    {
+      "url": "https://timeline.web.cern.ch/diracs-equation-predicts-antiparticles",
+      "domain": "timeline.web.cern.ch",
+      "title": "Dirac's equation predicts antiparticles | timeline.web.cern.ch"
+    },
+    {
+      "url": "https://home.cern/science/physics/antimatter",
+      "domain": "home.cern",
+      "title": "Antimatter - CERN"
+    },
+    {
+      "url": "https://www.physicsforums.com/threads/the-dirac-equation-understanding-spinors-and-approximations.986418/",
+      "domain": "www.physicsforums.com",
+      "title": "The Dirac Equation: Understanding Spinors and Approximations"
+    },
+    {
+      "url": "https://www.helmholtz.de/en/newsroom/article/teil-02-eine-gleichung-fuer-die-antiteilchen/",
+      "domain": "www.helmholtz.de",
+      "title": "Part #02: How an equation predicted antimatter - Helmholtz ..."
+    },
+    {
+      "url": "https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics",
+      "domain": "www.aps.org",
+      "title": "January 1928: The Dirac equation unifies quantum mechanics and special ..."
+    },
+    {
+      "url": "https://modern-physics.org/dirac-equation/",
+      "domain": "modern-physics.org",
+      "title": "Dirac Equation | Quantum Mechanics, Relativity \u0026 Spin"
+    },
+    {
+      "url": "https://www.newscientist.com/article/dn17111-how-dirac-predicted-antimatter/",
+      "domain": "www.newscientist.com",
+      "title": "How Dirac predicted antimatter - New Scientist"
+    },
+    {
+      "url": "https://biologyinsights.com/what-is-the-dirac-equation-and-why-is-it-important/",
+      "domain": "biologyinsights.com",
+      "title": "What Is the Dirac Equation and Why Is It Important?"
+    },
+    {
+      "url": "https://everything.explained.today/Dirac_spinor/",
+      "domain": "everything.explained.today",
+      "title": "Dirac spinor explained"
+    }
+  ],
+  "sources_skipped": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dirac_equation",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dirac_sea",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dirac_spinor",
+      "domain": "en.wikipedia.org",
+      "reason": "encyclopedia",
+      "detected_by": "llm"
+    }
+  ]
+}

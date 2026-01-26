@@ -1,0 +1,29 @@
+# Header Image Prompt for: Double-Slit Experiment
+# Category: Science > Physics
+# Styles: abstract energy visualization, bauhaus design with physics motifs
+# Color Mood: midnight wave interference patterns
+# Generated: 2026-01-26T12:28:58Z
+# Model: deepseek-r1:14b
+# Extracted Elements:
+#   Key Concepts: Wave-particle duality, Quantum superposition, Observer effect and wave function collapse
+#   Phenomena: Double-slit experiment, Quantum eraser, Delayed choice experiment
+#   Iconic Imagery: Light/particle passing through double slits creating interference pattern, Quantum eraser metaphor (removing path information to restore interference), Observer effect metaphor (measurement altering quantum state)
+#   Notable Figures: Niels Bohr, Albert Einstein
+#   Math Elements: Uncertainty principle equation: ΔxΔp ≥ ħ/2
+# LLM Reasoning:
+#   Alright, I need to create a vivid image generation prompt for the Double-Slit Experiment article header. The user provided detailed instructions and specific elements to include.
+#   
+#   First, I should focus on incorporating at least two of the named phenomena: Quantum Eraser and Delayed Choice Experiment. These are key to the article and must be referenced by name.
+#   
+#   Next, I need to visualize these concepts abstractly. For the Quantum Eraser, maybe depict a situation where path information is obscured, showing interference patterns reappearing. This can be done with glowing lines or symbols that overlap.
+#   
+#   The Delayed Choice Experiment involves choices affecting past events, so perhaps using fractal-like structures that symbolize this paradoxical nature. These elements should stand out against the dark background as per the style requirements.
+#   
+#   I must avoid any text and ensure the image is abstract and symbolic, fitting a wide aspect ratio for a banner. Using a dark background with deep blacks or blues will align with the midnight aesthetic.
+#   
+#   Incorporating mathematical elements artistically, maybe using subtle glowing equations in the background, but not too distracting. Bauhaus design principles suggest geometric shapes and clean lines, so I'll include angular forms alongside the wave patterns.
+#   
+#   Lastly, I need to tie everything together cohesively, ensuring it's specific to this article and not generic. Mentioning Niels Bohr or Einstein could add depth, but they might be optional if the other elements are strong enough.
+#   
+
+A dark, abstract visualization of the double-slit experiment, featuring glowing interference patterns emerging from hidden quantum pathways. Incorporate the iconic "quantum eraser" concept with subtle overlapping light trails symbolizing the removal of path information, alongside fragmented geometric forms referencing the delayed choice experiment. Use deep blue and black tones with bright, ethereal accents to create a midnight aesthetic, rendered in an abstract energy visualization style with bauhaus-inspired shapes and motifs.
