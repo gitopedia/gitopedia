@@ -6,7 +6,6 @@ url: "https://scienceinfo.com/pauli-exclusion-principle-statement/"
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T16:03:19Z
-tags: [""]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

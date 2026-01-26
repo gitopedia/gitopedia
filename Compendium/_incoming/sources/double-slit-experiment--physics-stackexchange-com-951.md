@@ -6,7 +6,6 @@ url: "https://physics.stackexchange.com/questions/468142/what-is-the-detector-in
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T11:55:32Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

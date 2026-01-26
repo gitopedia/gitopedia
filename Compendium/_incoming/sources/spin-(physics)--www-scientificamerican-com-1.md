@@ -6,9 +6,6 @@ url: "https://www.scientificamerican.com/article/what-exactly-is-the-spin/"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T10:52:29Z
-tags: ["topic:spin", "topic:quantum-mechanics", "topic:fetal-tissue-research", "topic:superconductivity", "topic:bose-einstein-condensation", "topic:pauli-exclusion-principle", "topic:symmetry-breaking", "topic:quark-isospin", "topic:spin"]
-people: ["person:otto-stern", "person:walther-gerlach", "person:jeffrey-epstein"]
-orgs: ["org:national-institutes-of-health", "org:harvard-university"]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://quantumzeitgeist.com/the-double-slit-experiment-the-most-important
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T11:33:52Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

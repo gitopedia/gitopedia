@@ -6,7 +6,6 @@ url: "https://www.ucl.ac.uk/news/2026/jan/dark-energy-survey-scientists-release-
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:12:19Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

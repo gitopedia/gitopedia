@@ -6,7 +6,6 @@ url: "https://mybrainrewired.com/quantum-physics/superposition-principle-key-ins
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:30:21Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

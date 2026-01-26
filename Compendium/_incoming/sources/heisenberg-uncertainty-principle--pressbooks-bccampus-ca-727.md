@@ -6,7 +6,6 @@ url: "https://pressbooks.bccampus.ca/bcitphys8400/chapter/3-2-the-heisenberg-unc
 type: source
 related_article: "heisenberg-uncertainty-principle"
 created: 2026-01-26T14:42:09Z
-tags: [""]
 summary: "Summarized source material for Heisenberg Uncertainty Principle"
 researcher_version: "0.3.29"
 ---

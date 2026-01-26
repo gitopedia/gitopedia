@@ -3,7 +3,6 @@ id: 01KFX4HGA5V0PF5QD8BJ0QB066
 title: "Quantum Tunneling"
 slug: "quantum-tunneling"
 created: 2026-01-26T12:30:30Z
-tags: ["topic:quantum-tunneling", "topic:nanotechnology", "topic:semiconductor-devices", "topic:quantum-dots", "topic:quantum-tunneling"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 5

@@ -6,7 +6,6 @@ url: "https://medium.com/sss-quantum/the-double-slit-experiment-how-light-reveal
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T11:59:38Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

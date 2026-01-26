@@ -3,8 +3,6 @@ id: 01KFX0Y5T61KHTV9VX1ZV3HM37
 title: "Double-Slit Experiment"
 slug: "double-slit-experiment"
 created: 2026-01-26T11:27:31Z
-tags: ["topic:quantum-mechanics", "topic:wave-particle-duality", "topic:copenhagen-interpretation", "topic:double-slit-experiment"]
-people: ["person:thomas-young", "person:richard-feynman"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 8

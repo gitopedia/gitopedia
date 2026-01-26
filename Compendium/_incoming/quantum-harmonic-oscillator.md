@@ -3,7 +3,6 @@ id: 01KFWQDFKEJ7T9HSZF41RTKE9V
 title: "Quantum Harmonic Oscillator"
 slug: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:41:07Z
-tags: ["topic:quantum-harmonic-oscillator", "topic:quantum-mechanics", "topic:quantum-harmonic-oscillator"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 5

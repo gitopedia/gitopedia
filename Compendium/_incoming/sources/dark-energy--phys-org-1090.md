@@ -6,7 +6,6 @@ url: "https://phys.org/tags/dark-energy/"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:29:28Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

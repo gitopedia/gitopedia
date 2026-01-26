@@ -6,7 +6,6 @@ url: "https://openstax.org/books/university-physics-volume-3/pages/7-5-the-quant
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:45:32Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.popularmechanics.com/space/deep-space/a64410292/string-theory-
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:31:37Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

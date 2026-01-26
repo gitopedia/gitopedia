@@ -6,7 +6,6 @@ url: "https://www.livescience.com/physics-mathematics/quantum-physics/scientists
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:25:41Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

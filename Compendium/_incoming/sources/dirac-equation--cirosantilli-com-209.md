@@ -6,7 +6,6 @@ url: "https://cirosantilli.com/derivation-of-the-dirac-equation"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:28:14Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://webhome.phy.duke.edu/~kolena/modern/deaton.html"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:32:47Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

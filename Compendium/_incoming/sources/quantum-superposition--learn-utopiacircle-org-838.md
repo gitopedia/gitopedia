@@ -6,7 +6,6 @@ url: "https://learn.utopiacircle.org/quantum-superposition-a-simplified-guide/"
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T10:07:23Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

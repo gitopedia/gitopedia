@@ -6,7 +6,6 @@ url: "https://www.nature.com/articles/s41550-025-02549-z"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:06:29Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.quera.com/glossary/double-slit-experiment"
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T11:45:30Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

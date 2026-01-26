@@ -6,7 +6,6 @@ url: "https://www.vedantu.com/physics/dirac-equation"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:18:54Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

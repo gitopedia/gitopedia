@@ -6,7 +6,6 @@ url: "https://science.nasa.gov/what-is-the-spooky-science-of-quantum-entanglemen
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T14:56:48Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

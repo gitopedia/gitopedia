@@ -6,7 +6,6 @@ url: "https://timeline.web.cern.ch/diracs-equation-predicts-antiparticles"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:37:11Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

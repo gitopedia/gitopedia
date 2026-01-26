@@ -6,7 +6,6 @@ url: "https://phys.libretexts.org/Bookshelves/University_Physics/University_Phys
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:40:31Z
-tags: ["topic:quantum-harmonic-oscillator", "topic:vibrational-energy-levels", "topic:hermite-polynomials", "topic:energy-spacing", "topic:force-constant", "topic:correspondence-principle", "topic:symmetry-considerations", "topic:expectation-values", "topic:quantum-harmonic-oscillator"]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

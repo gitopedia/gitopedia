@@ -6,7 +6,6 @@ url: "https://www.sciencealert.com/quantum-tunneling-experiments-earn-team-the-n
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:32:59Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

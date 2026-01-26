@@ -6,7 +6,6 @@ url: "https://www.researchgate.net/publication/373759291_Experimental_Verificati
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T14:54:10Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

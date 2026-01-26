@@ -6,7 +6,6 @@ url: "https://harvest.aps.org/v2/journals/articles/10.1103/PhysRevLett.128.16040
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T10:06:06Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

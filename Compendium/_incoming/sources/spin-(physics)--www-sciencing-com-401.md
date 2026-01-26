@@ -6,7 +6,6 @@ url: "https://www.sciencing.com/spin-quantum-number-definition-how-to-calculate-
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:26:01Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

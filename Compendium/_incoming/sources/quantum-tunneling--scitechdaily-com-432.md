@@ -6,7 +6,6 @@ url: "https://scitechdaily.com/century-old-quantum-mystery-solved-scientists-fin
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:57:22Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

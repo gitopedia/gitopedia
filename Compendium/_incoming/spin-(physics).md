@@ -3,8 +3,6 @@ id: 01KFWYYKMHJDSQFCJAP3S4004S
 title: "Spin (Physics)"
 slug: "spin-(physics)"
 created: 2026-01-26T10:52:48Z
-tags: ["topic:spin", "topic:pauli-exclusion-principle", "topic:spin"]
-people: ["person:otto-stern", "person:walther-gerlach"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 7

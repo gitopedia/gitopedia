@@ -6,7 +6,6 @@ url: "https://www.youtube.com/watch?v=pYeRS5a3HbE"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T10:55:22Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

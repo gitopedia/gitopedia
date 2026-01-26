@@ -6,7 +6,6 @@ url: "https://arxiv.org/pdf/2508.21633v1"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T10:54:42Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://qubit.guide/5.7-bell-states"
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T15:05:09Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

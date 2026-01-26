@@ -6,7 +6,6 @@ url: "https://physics.aps.org/articles/v18/170"
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:52:54Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

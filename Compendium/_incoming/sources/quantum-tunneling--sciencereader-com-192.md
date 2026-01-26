@@ -6,7 +6,6 @@ url: "https://sciencereader.com/the-2025-physics-nobel-prize-macroscopic-quantum
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:41:54Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

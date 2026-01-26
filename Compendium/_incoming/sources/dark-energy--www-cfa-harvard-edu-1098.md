@@ -6,7 +6,6 @@ url: "https://www.cfa.harvard.edu/research/topic/dark-energy-and-dark-matter"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:19:25Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

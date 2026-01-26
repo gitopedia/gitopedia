@@ -6,7 +6,6 @@ url: "https://www.researchgate.net/publication/395695112_The_Quantum_Harmonic_Os
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:57:48Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

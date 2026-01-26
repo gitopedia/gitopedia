@@ -6,7 +6,6 @@ url: "https://www.wondersofphysics.com/2020/07/this-is-how-dirac-predicted-antim
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:11:40Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

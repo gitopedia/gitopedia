@@ -6,7 +6,6 @@ url: "https://about-science.org/what-is-quantum-superposition/"
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:21:25Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

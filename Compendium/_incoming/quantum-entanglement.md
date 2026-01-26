@@ -3,9 +3,6 @@ id: 01KFXCA0A1GE2AM3M7Y22E03E6
 title: "Quantum Entanglement"
 slug: "quantum-entanglement"
 created: 2026-01-26T14:46:13Z
-tags: ["topic:quantum-entanglement", "topic:quantum-mechanics", "topic:quantum-entanglement"]
-people: ["person:albert-einstein", "person:john-bell", "person:john-clauser"]
-orgs: ["org:caltech"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 7

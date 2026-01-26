@@ -6,7 +6,6 @@ url: "https://phys.libretexts.org/Courses/University_of_California_Davis/Physics
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:24:07Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

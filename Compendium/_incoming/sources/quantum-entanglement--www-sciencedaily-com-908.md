@@ -6,7 +6,6 @@ url: "https://www.sciencedaily.com/releases/2026/01/260126075842.htm"
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T14:53:02Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

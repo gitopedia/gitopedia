@@ -6,7 +6,6 @@ url: "https://ncatlab.org/nlab/show/spin-statistics+theorem"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:00:19Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

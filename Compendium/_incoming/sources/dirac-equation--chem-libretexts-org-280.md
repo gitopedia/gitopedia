@@ -6,7 +6,6 @@ url: "https://chem.libretexts.org/Courses/New_York_University/G25.2666%3A_Quantu
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:35:17Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

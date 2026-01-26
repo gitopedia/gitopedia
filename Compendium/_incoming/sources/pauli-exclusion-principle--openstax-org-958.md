@@ -6,7 +6,6 @@ url: "https://openstax.org/books/college-physics-2e/pages/30-9-the-pauli-exclusi
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T15:37:18Z
-tags: [""]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

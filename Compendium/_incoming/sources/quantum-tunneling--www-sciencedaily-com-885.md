@@ -6,7 +6,6 @@ url: "https://www.sciencedaily.com/releases/2025/07/250727235835.htm"
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:42:55Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

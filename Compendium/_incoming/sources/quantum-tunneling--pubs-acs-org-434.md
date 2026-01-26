@@ -6,7 +6,6 @@ url: "https://pubs.acs.org/doi/pdf/10.1021/acsnano.5c17715"
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:48:39Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

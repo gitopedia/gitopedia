@@ -6,7 +6,6 @@ url: "https://brilliant.org/wiki/quantum-harmonic-oscillator/"
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:53:27Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

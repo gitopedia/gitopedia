@@ -6,7 +6,6 @@ url: "https://courses.lumenlearning.com/suny-physics/chapter/30-9-the-pauli-excl
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T15:27:18Z
-tags: [""]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.nature.com/articles/s42254-025-00886-6"
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T15:47:38Z
-tags: [""]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

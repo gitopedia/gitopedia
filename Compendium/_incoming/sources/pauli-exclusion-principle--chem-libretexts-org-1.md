@@ -6,7 +6,6 @@ url: "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T15:21:31Z
-tags: ["topic:pauli-exclusion-principle", "topic:quantum-mechanics", "topic:pauli-exclusion-principle"]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

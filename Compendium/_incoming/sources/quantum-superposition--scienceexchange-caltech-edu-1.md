@@ -6,7 +6,6 @@ url: "https://scienceexchange.caltech.edu/topics/quantum-science-explained/quant
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:13:07Z
-tags: ["topic:quantum-superposition", "topic:wave-particle-duality", "topic:two-slit-experiment", "topic:macroscopic-quantum-phenomena", "topic:quantum-superposition"]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

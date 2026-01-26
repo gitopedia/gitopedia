@@ -6,7 +6,6 @@ url: "https://www.thoughtco.com/epr-paradox-in-physics-2699186"
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T15:06:21Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

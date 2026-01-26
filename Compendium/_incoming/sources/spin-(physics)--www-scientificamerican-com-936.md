@@ -6,7 +6,6 @@ url: "https://www.scientificamerican.com/article/quantum-particles-arent-spinnin
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:03:05Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

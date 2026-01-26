@@ -6,7 +6,6 @@ url: "https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T15:20:19Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

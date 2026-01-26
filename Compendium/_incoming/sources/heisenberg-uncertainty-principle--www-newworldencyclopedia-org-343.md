@@ -6,7 +6,6 @@ url: "https://www.newworldencyclopedia.org/entry/Uncertainty_principle"
 type: source
 related_article: "heisenberg-uncertainty-principle"
 created: 2026-01-26T14:07:26Z
-tags: [""]
 summary: "Summarized source material for Heisenberg Uncertainty Principle"
 researcher_version: "0.3.29"
 ---

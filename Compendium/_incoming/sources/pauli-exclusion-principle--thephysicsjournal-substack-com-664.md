@@ -6,7 +6,6 @@ url: "https://thephysicsjournal.substack.com/p/the-pauli-exclusion-principle"
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T15:24:26Z
-tags: [""]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

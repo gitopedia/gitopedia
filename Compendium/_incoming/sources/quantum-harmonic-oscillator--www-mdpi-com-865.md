@@ -6,7 +6,6 @@ url: "https://www.mdpi.com/2624-8174/2/4/31"
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T09:02:34Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.rochester.edu/newscenter/quantum-tunneling-urochester-explains
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:36:09Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

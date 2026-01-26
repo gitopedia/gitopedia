@@ -6,7 +6,6 @@ url: "https://www.sciencedirect.com/topics/physics-and-astronomy/dirac-equation"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:13:08Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://plus.maths.org/content/physics-minute-double-slit-experiment"
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T12:24:19Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

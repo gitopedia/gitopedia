@@ -6,7 +6,6 @@ url: "https://www.examples.com/physics/dirac-equation.html"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:23:07Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

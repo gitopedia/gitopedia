@@ -3,8 +3,6 @@ id: 01KFX8X6BADZ0XJ64X2QEMSQPB
 title: "Heisenberg Uncertainty Principle"
 slug: "heisenberg-uncertainty-principle"
 created: 2026-01-26T13:46:48Z
-tags: ["topic:quantum-mechanics", "topic:heisenberg-uncertainty-principle", "topic:energy-time-uncertainty-principle", "topic:ground-state-energy", "topic:heisenberg-uncertainty-principle"]
-people: ["person:werner-heisenberg", "person:max-planck"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 4

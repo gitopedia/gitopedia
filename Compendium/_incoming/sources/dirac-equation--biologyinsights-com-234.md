@@ -6,7 +6,6 @@ url: "https://biologyinsights.com/what-is-the-dirac-equation-and-why-is-it-impor
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:48:59Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

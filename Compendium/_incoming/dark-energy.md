@@ -3,9 +3,6 @@ id: 01KFX69FBSGH45X4K78RBXJW9R
 title: "Dark Energy"
 slug: "dark-energy"
 created: 2026-01-26T13:01:04Z
-tags: ["topic:dark-energy", "topic:dark-matter", "topic:euclid-mission", "topic:nancy-grace-roman-space-telescope", "topic:vera-c.-rubin-observatory", "topic:james-webb-space-telescope", "topic:spherex-mission", "topic:dark-energy"]
-people: ["person:henrietta-swan-leavitt", "person:vesto-slipher", "person:alexander-friedmann", "person:georges-lematre", "person:edwin-hubble", "person:milton-humason-1", "person:adam-riess-1", "person:saul-perlmutter-1", "person:brian-schmidt-1"]
-orgs: ["org:european-space-agency"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 6

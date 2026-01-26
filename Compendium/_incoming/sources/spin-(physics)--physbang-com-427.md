@@ -6,7 +6,6 @@ url: "https://physbang.com/2024/11/24/what-is-spin/"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:21:04Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

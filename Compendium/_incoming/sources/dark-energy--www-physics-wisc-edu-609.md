@@ -6,7 +6,6 @@ url: "https://www.physics.wisc.edu/2026/01/22/dark-energy-survey-scientists-rele
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:44:36Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

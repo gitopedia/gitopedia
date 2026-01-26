@@ -6,7 +6,6 @@ url: "https://link.springer.com/article/10.1007/s40766-024-00062-z"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:13:21Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

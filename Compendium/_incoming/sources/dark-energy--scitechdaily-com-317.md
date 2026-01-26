@@ -6,7 +6,6 @@ url: "https://scitechdaily.com/what-is-dark-energy-the-hidden-force-driving-the-
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:12:49Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

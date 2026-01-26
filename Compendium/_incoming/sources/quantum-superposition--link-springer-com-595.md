@@ -6,7 +6,6 @@ url: "https://link.springer.com/chapter/10.1007/978-3-030-61601-4_1"
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T10:04:11Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

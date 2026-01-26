@@ -6,7 +6,6 @@ url: "https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-m
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:43:50Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

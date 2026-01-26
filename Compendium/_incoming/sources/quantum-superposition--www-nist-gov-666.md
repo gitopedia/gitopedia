@@ -6,7 +6,6 @@ url: "https://www.nist.gov/video/what-superposition"
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:32:59Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

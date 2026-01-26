@@ -6,7 +6,6 @@ url: "https://www.physicsbook.gatech.edu/Quantum_Tunneling_through_Potential_Bar
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:44:46Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

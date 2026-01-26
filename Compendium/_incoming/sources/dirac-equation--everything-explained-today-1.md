@@ -6,8 +6,6 @@ url: "https://everything.explained.today/Dirac_equation/"
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:09:05Z
-tags: ["topic:quantum-field-theory", "topic:quantum-mechanics", "topic:particle-physics", "topic:fermions", "topic:dirac-equation"]
-people: ["person:paul-dirac"]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.space.com/31933-quantum-entanglement-action-at-a-distance.html
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T15:03:17Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

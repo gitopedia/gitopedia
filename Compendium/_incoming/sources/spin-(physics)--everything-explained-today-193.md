@@ -6,7 +6,6 @@ url: "https://everything.explained.today/Spin_(physics)/"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:24:12Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

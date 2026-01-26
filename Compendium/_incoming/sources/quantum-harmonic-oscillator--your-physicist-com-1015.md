@@ -6,7 +6,6 @@ url: "https://your-physicist.com/quantum-harmonic-oscillator/"
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T09:07:08Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

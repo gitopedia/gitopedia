@@ -6,7 +6,6 @@ url: "https://www.physicsflow.com/g/4.1.3"
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T09:04:08Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

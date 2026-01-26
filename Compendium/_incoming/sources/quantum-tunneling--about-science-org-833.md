@@ -6,7 +6,6 @@ url: "https://about-science.org/what-is-quantum-tunneling/"
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:47:03Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

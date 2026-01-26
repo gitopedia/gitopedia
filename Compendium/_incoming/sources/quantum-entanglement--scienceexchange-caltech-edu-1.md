@@ -6,9 +6,6 @@ url: "https://scienceexchange.caltech.edu/topics/quantum-science-explained/entan
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T14:45:52Z
-tags: ["topic:quantum-mechanics", "topic:quantum-entanglement"]
-people: ["person:rana-adhikari", "person:xie-chen", "person:manuel-endres", "person:john-preskill", "person:albert-einstein", "person:john-bell", "person:john-clauser", "person:thomas-vidick"]
-orgs: ["org:caltech"]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

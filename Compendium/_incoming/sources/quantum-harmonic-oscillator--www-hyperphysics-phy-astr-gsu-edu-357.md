@@ -6,7 +6,6 @@ url: "http://www.hyperphysics.phy-astr.gsu.edu/hbase/quantum/hosc.html"
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:50:15Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

@@ -3,7 +3,6 @@ id: 01KFWS8H7X9S5CFYH94B639FXX
 title: "Quantum Superposition"
 slug: "quantum-superposition"
 created: 2026-01-26T09:13:22Z
-tags: ["topic:quantum-superposition", "topic:quantum-mechanics", "topic:particle-physics", "topic:wave-particle-duality", "topic:two-slit-experiment", "topic:schrdingers-cat", "topic:quantum-computing", "topic:quantum-superposition"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 8

@@ -6,7 +6,6 @@ url: "https://biolecta.com/articles/understanding-quantum-superposition-theory-i
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:43:16Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

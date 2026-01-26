@@ -6,7 +6,6 @@ url: "https://www.livescience.com/technology/computing/what-is-quantum-superposi
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:52:56Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

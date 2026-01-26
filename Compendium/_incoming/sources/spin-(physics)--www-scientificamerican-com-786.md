@@ -6,7 +6,6 @@ url: "https://www.scientificamerican.com/article/100-years-ago-a-quantum-experim
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:23:06Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://astro.fnal.gov/science/dark-energy/"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:22:39Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

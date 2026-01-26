@@ -6,10 +6,6 @@ url: "https://science.nasa.gov/dark-energy/"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:00:44Z
-tags: ["topic:dark-energy", "topic:dark-matter", "topic:cepheid-variables", "topic:redshift", "topic:general-relativity", "topic:type-1a-supernovae", "topic:dark-energy"]
-people: ["person:albert-einstein", "person:henrietta-swan-leavitt", "person:vesto-slipher", "person:alexander-friedmann", "person:georges-lematre", "person:edwin-hubble", "person:milton-humason", "person:adam-riess", "person:saul-perlmutter", "person:brian-schmidt"]
-orgs: ["org:nasa", "org:european-space-agency"]
-places: ["place:vera-c.-rubin-observatory"]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

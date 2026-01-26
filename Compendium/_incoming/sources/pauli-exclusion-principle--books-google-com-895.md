@@ -6,7 +6,6 @@ url: "https://books.google.com/books/about/Pauli_And_The_Spin_statistics_Theorem
 type: source
 related_article: "pauli-exclusion-principle"
 created: 2026-01-26T16:00:09Z
-tags: [""]
 summary: "Summarized source material for Pauli Exclusion Principle"
 researcher_version: "0.3.29"
 ---

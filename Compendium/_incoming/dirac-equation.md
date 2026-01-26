@@ -3,8 +3,6 @@ id: 01KFWWF5BP9HNQGBTXX9JQJF48
 title: "Dirac Equation"
 slug: "dirac-equation"
 created: 2026-01-26T10:09:25Z
-tags: ["topic:quantum-field-theory", "topic:special-relativity", "topic:dirac-equation", "topic:antimatter", "topic:fermions", "topic:electrons", "topic:spinors", "topic:dirac-equation"]
-people: ["person:paul-dirac"]
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 6

@@ -6,7 +6,6 @@ url: "https://www.physicsforums.com/insights/quantum-mechanics-and-the-famous-do
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T12:08:24Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

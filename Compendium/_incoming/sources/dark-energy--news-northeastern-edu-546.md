@@ -6,7 +6,6 @@ url: "https://news.northeastern.edu/2026/01/23/dark-energy-survey/"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:04:07Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

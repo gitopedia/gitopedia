@@ -6,7 +6,6 @@ url: "https://www.physicsforums.com/threads/understanding-spin-a-basic-explanati
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:10:35Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

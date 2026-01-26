@@ -6,7 +6,6 @@ url: "https://www.sciencedaily.com/terms/spin_(physics).htm"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:11:45Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

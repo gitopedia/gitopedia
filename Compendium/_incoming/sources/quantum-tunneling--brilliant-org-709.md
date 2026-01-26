@@ -6,7 +6,6 @@ url: "https://brilliant.org/wiki/quantum-tunneling/"
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:50:13Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.sciencefacts.net/double-slit-experiment.html"
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T12:12:57Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://theconversation.com/what-is-quantum-entanglement-a-physicist-expla
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T15:12:26Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

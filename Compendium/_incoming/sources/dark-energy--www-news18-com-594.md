@@ -6,7 +6,6 @@ url: "https://www.news18.com/explainers/what-is-dark-energy-the-invisible-force-
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:45:23Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

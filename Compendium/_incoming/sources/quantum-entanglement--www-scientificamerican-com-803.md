@@ -6,7 +6,6 @@ url: "https://www.scientificamerican.com/article/quantum-entanglement-isnt-all-t
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T14:59:39Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

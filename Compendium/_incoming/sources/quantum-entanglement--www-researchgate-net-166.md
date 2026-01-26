@@ -6,7 +6,6 @@ url: "https://www.researchgate.net/publication/395694399_Quantum_Entanglement_an
 type: source
 related_article: "quantum-entanglement"
 created: 2026-01-26T15:09:27Z
-tags: [""]
 summary: "Summarized source material for Quantum Entanglement"
 researcher_version: "0.3.29"
 ---

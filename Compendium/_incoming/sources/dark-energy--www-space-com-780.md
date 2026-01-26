@@ -6,7 +6,6 @@ url: "https://www.space.com/dark-energy-what-is-it"
 type: source
 related_article: "dark-energy"
 created: 2026-01-26T13:26:35Z
-tags: [""]
 summary: "Summarized source material for Dark Energy"
 researcher_version: "0.3.29"
 ---

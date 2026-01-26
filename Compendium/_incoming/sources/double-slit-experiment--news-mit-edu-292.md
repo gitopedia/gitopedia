@@ -6,7 +6,6 @@ url: "https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-strippe
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T11:31:21Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

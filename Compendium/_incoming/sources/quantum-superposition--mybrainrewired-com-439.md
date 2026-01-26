@@ -6,7 +6,6 @@ url: "https://mybrainrewired.com/quantum-physics/superposition-principle-explain
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:26:59Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

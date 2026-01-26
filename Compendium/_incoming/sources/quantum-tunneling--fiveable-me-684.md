@@ -6,7 +6,6 @@ url: "https://fiveable.me/key-terms/principles-of-physics-iv/transmission-coeffi
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:54:32Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

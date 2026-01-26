@@ -6,7 +6,6 @@ url: "https://quantumpositioned.com/quantum-harmonic/"
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:58:53Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://www.researchgate.net/publication/395695446_Quantum_Tunneling_in_Ph
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:46:07Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

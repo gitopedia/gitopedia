@@ -6,7 +6,6 @@ url: "https://brilliant.org/wiki/spin/"
 type: source
 related_article: "spin-(physics)"
 created: 2026-01-26T11:09:19Z
-tags: [""]
 summary: "Summarized source material for Spin (Physics)"
 researcher_version: "0.3.29"
 ---

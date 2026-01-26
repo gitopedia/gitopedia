@@ -6,7 +6,6 @@ url: "https://www.sciencenewstoday.org/quantum-tunneling-how-particles-slip-thro
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:52:13Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

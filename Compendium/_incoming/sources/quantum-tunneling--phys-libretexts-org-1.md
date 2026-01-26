@@ -6,7 +6,6 @@ url: "https://phys.libretexts.org/Bookshelves/University_Physics/University_Phys
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:30:12Z
-tags: ["topic:quantum-tunneling", "topic:field-emission", "topic:scanning-tunneling-microscope", "topic:quantum-dots", "topic:resonant-tunneling-diodes", "topic:tunnel-diodes", "topic:quantum-tunneling"]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

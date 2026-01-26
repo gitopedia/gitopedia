@@ -6,7 +6,6 @@ url: "https://interestingengineering.com/science/what-is-the-double-slit-experim
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T12:06:55Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://scitechdaily.com/quantum-tunneling-explained-with-40-year-old-math
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:51:26Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

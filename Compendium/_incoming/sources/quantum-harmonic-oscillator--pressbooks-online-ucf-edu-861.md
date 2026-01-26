@@ -6,7 +6,6 @@ url: "https://pressbooks.online.ucf.edu/osuniversityphysics3/chapter/the-quantum
 type: source
 related_article: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:57:24Z
-tags: [""]
 summary: "Summarized source material for Quantum Harmonic Oscillator"
 researcher_version: "0.3.29"
 ---

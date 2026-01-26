@@ -6,7 +6,6 @@ url: "https://modern-physics.org/quantum-superposition/"
 type: source
 related_article: "quantum-superposition"
 created: 2026-01-26T09:44:46Z
-tags: [""]
 summary: "Summarized source material for Quantum Superposition"
 researcher_version: "0.3.29"
 ---

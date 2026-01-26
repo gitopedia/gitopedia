@@ -6,8 +6,6 @@ url: "https://phys.libretexts.org/Bookshelves/University_Physics/University_Phys
 type: source
 related_article: "heisenberg-uncertainty-principle"
 created: 2026-01-26T13:46:33Z
-tags: ["topic:quantum-mechanics", "topic:momentum", "topic:position-uncertainty-principle", "topic:energy-time-uncertainty-principle", "topic:wavefunction", "topic:wave-packet", "topic:gaussian-function", "topic:heisenberg-uncertainty-principle"]
-people: ["person:werner-heisenberg", "person:electron"]
 summary: "Summarized source material for Heisenberg Uncertainty Principle"
 researcher_version: "0.3.29"
 ---

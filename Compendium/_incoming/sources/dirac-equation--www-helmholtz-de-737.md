@@ -6,7 +6,6 @@ url: "https://www.helmholtz.de/en/newsroom/article/teil-02-eine-gleichung-fuer-d
 type: source
 related_article: "dirac-equation"
 created: 2026-01-26T10:42:38Z
-tags: [""]
 summary: "Summarized source material for Dirac Equation"
 researcher_version: "0.3.29"
 ---

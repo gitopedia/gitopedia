@@ -6,7 +6,6 @@ url: "https://www.nature.com/articles/d41586-025-02110-y"
 type: source
 related_article: "quantum-tunneling"
 created: 2026-01-26T12:56:31Z
-tags: [""]
 summary: "Summarized source material for Quantum Tunneling"
 researcher_version: "0.3.29"
 ---

@@ -6,7 +6,6 @@ url: "https://sciencedemonstrations.fas.harvard.edu/resource/singlephotonpaperpd
 type: source
 related_article: "double-slit-experiment"
 created: 2026-01-26T11:53:39Z
-tags: [""]
 summary: "Summarized source material for Double-Slit Experiment"
 researcher_version: "0.3.29"
 ---
