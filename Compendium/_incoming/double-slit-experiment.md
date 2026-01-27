@@ -4,6 +4,7 @@ article: "Double-Slit Experiment"
 domain: "Science"
 category: "Physics"
 topic: "Quantum Mechanics"
+github_issue_ids: [126, 127, 124, 121]
 slug: "double-slit-experiment"
 created: 2026-01-26T11:27:31Z
 researcher_version: "1"

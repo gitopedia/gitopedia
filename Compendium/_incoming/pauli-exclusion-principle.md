@@ -4,6 +4,7 @@ article: "Pauli Exclusion Principle"
 domain: "Science"
 category: "Physics"
 topic: "Quantum Mechanics"
+github_issue_ids: [126, 127, 124, 121]
 slug: "pauli-exclusion-principle"
 created: 2026-01-26T15:21:45Z
 researcher_version: "1"

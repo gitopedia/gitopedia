@@ -4,6 +4,7 @@ article: "Spin (Physics)"
 domain: "Science"
 category: "Physics"
 topic: "Quantum Mechanics"
+github_issue_ids: [126, 127, 124, 121]
 slug: "spin-(physics)"
 created: 2026-01-26T10:52:48Z
 researcher_version: "1"

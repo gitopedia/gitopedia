@@ -4,6 +4,7 @@ article: "Dirac Equation"
 domain: "Science"
 category: "Physics"
 topic: "Quantum Mechanics"
+github_issue_ids: [126, 127, 124, 121]
 slug: "dirac-equation"
 created: 2026-01-26T10:09:25Z
 researcher_version: "1"
