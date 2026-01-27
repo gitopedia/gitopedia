@@ -16,7 +16,7 @@ model: "deepseek-r1:14b"
 iterations: 6
 ---
 
-![Header](dirac-equation_header.png)
+![Header](img/dirac-equation_header.png)
 
 The Dirac equation is a fundamental equation in quantum field theory that describes the behavior of fermions, such as electrons, while adhering to both special relativity and quantum mechanics. Formulated by British physicist Paul Dirac in 1928, it has profoundly influenced modern physics.
 

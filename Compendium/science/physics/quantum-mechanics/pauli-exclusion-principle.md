@@ -16,7 +16,7 @@ model: "deepseek-r1:14b"
 iterations: 11
 ---
 
-![Header](pauli-exclusion-principle_header.png)
+![Header](img/pauli-exclusion-principle_header.png)
 
 The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers (n, l, m_l, m_s), ensuring each electron occupies a unique quantum state. This principle is fundamental to understanding atomic structure and electronic configurations.
 

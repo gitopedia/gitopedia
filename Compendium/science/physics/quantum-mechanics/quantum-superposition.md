@@ -16,7 +16,7 @@ model: "deepseek-r1:14b"
 iterations: 8
 ---
 
-![Header](quantum-superposition_header.png)
+![Header](img/quantum-superposition_header.png)
 
 ## Overview
 
