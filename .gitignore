@@ -1,3 +1,5 @@
-# Debug artifacts from researcher
+# Researcher artifacts (staging area and debug)
+_incoming/
+*/_incoming/
 _debug/
 */_debug/
