@@ -1,6 +1,9 @@
 ---
 id: 01KFWQDFKEJ7T9HSZF41RTKE9V
-title: "Quantum Harmonic Oscillator"
+article: "Quantum Harmonic Oscillator"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:41:07Z
 researcher_version: "1"

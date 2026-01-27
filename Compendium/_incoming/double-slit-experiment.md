@@ -1,6 +1,9 @@
 ---
 id: 01KFX0Y5T61KHTV9VX1ZV3HM37
-title: "Double-Slit Experiment"
+article: "Double-Slit Experiment"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "double-slit-experiment"
 created: 2026-01-26T11:27:31Z
 researcher_version: "1"

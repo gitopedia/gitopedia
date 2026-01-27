@@ -1,6 +1,9 @@
 ---
 id: 01KFXEB2K9DQPHFC7D89GRS5T2
-title: "Pauli Exclusion Principle"
+article: "Pauli Exclusion Principle"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "pauli-exclusion-principle"
 created: 2026-01-26T15:21:45Z
 researcher_version: "1"

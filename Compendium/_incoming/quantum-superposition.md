@@ -1,6 +1,9 @@
 ---
 id: 01KFWS8H7X9S5CFYH94B639FXX
-title: "Quantum Superposition"
+article: "Quantum Superposition"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "quantum-superposition"
 created: 2026-01-26T09:13:22Z
 researcher_version: "1"

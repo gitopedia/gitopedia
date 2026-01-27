@@ -1,6 +1,9 @@
 ---
 id: 01KFXCA0A1GE2AM3M7Y22E03E6
-title: "Quantum Entanglement"
+article: "Quantum Entanglement"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "quantum-entanglement"
 created: 2026-01-26T14:46:13Z
 researcher_version: "1"

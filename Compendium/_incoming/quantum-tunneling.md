@@ -1,6 +1,9 @@
 ---
 id: 01KFX4HGA5V0PF5QD8BJ0QB066
-title: "Quantum Tunneling"
+article: "Quantum Tunneling"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "quantum-tunneling"
 created: 2026-01-26T12:30:30Z
 researcher_version: "1"

@@ -1,6 +1,9 @@
 ---
 id: 01KFX8X6BADZ0XJ64X2QEMSQPB
-title: "Heisenberg Uncertainty Principle"
+article: "Heisenberg Uncertainty Principle"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "heisenberg-uncertainty-principle"
 created: 2026-01-26T13:46:48Z
 researcher_version: "1"

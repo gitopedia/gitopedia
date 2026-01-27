@@ -1,6 +1,9 @@
 ---
 id: 01KFX69FBSGH45X4K78RBXJW9R
-title: "Dark Energy"
+article: "Dark Energy"
+domain: "Science"
+category: "Physics"
+topic: "Cosmology"
 slug: "dark-energy"
 created: 2026-01-26T13:01:04Z
 researcher_version: "1"

@@ -1,6 +1,9 @@
 ---
 id: 01KFWYYKMHJDSQFCJAP3S4004S
-title: "Spin (Physics)"
+article: "Spin (Physics)"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "spin-(physics)"
 created: 2026-01-26T10:52:48Z
 researcher_version: "1"

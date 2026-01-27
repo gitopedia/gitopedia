@@ -1,6 +1,9 @@
 ---
 id: 01KFWWF5BP9HNQGBTXX9JQJF48
-title: "Dirac Equation"
+article: "Dirac Equation"
+domain: "Science"
+category: "Physics"
+topic: "Quantum Mechanics"
 slug: "dirac-equation"
 created: 2026-01-26T10:09:25Z
 researcher_version: "1"
