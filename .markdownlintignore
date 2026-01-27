@@ -1,9 +1,1 @@
-# Ignore incoming directory - temporary staging for KB ingestion
 Compendium/_incoming/**
-
-
-
-
-
-
-
