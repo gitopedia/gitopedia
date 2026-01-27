@@ -14,7 +14,6 @@ created: 2026-01-26T13:46:48Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 4
-summary: "Initial overview based on 7.3: The Heisenberg Uncertainty Principle - Physics LibreTexts"
 ---
 
 ![Header](heisenberg-uncertainty-principle_header.png)

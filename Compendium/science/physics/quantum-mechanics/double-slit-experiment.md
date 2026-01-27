@@ -14,7 +14,6 @@ created: 2026-01-26T11:27:31Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 8
-summary: "Initial overview based on Young's Double Slit Experiment: A Simple Explanation"
 ---
 
 ![Header](double-slit-experiment_header.png)

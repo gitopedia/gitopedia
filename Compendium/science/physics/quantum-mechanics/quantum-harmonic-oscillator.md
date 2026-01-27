@@ -14,7 +14,6 @@ created: 2026-01-26T08:41:07Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 5
-summary: "Initial overview based on 7.6: The Quantum Harmonic Oscillator - Physics LibreTexts"
 ---
 
 ![Header](quantum-harmonic-oscillator_header.png)

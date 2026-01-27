@@ -14,7 +14,6 @@ created: 2026-01-26T15:21:45Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 11
-summary: "Initial overview based on Pauli Exclusion Principle - Chemistry LibreTexts"
 ---
 
 ![Header](pauli-exclusion-principle_header.png)

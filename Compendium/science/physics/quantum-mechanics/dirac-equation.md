@@ -14,7 +14,6 @@ created: 2026-01-26T10:09:25Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 6
-summary: "Initial overview based on Dirac equation explained"
 ---
 
 ![Header](dirac-equation_header.png)

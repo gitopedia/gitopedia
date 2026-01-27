@@ -14,7 +14,6 @@ created: 2026-01-26T12:30:30Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 5
-summary: "Initial overview based on 7.7: Quantum Tunneling of Particles through Potential Barriers"
 ---
 
 ![Header](quantum-tunneling_header.png)

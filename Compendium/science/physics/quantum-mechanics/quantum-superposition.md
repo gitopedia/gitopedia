@@ -14,7 +14,6 @@ created: 2026-01-26T09:13:22Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 8
-summary: "Initial overview based on What Is Quantum Superposition? - Caltech Science Exchange"
 ---
 
 ![Header](quantum-superposition_header.png)

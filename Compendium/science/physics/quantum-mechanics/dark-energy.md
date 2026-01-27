@@ -14,7 +14,6 @@ created: 2026-01-26T13:01:04Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 6
-summary: "Initial overview based on What is Dark Energy? Inside Our Accelerating, Expanding Universe - NASA ..."
 ---
 
 ![Header](dark-energy_header.png)

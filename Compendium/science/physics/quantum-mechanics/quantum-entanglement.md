@@ -13,7 +13,6 @@ github_pr_ids: [139]
 created: 2026-01-26T14:46:13Z
 model: "deepseek-r1:14b"
 iterations: 7
-summary: "Initial overview based on What Is Quantum Entanglement? Quantum Entanglement Explained in Simple ..."
 ---
 
 ![Header](quantum-entanglement_header.png)
