@@ -11,14 +11,11 @@ article-slug: "dirac-equation"
 github_issue_ids: [126, 127, 124, 121]
 github_pr_ids: [139]
 created: 2026-01-26T10:09:25Z
-researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 6
 ---
 
 ![Header](img/dirac-equation_header.png)
-
-The Dirac equation is a fundamental equation in quantum field theory that describes the behavior of fermions, such as electrons, while adhering to both special relativity and quantum mechanics. Formulated by British physicist Paul Dirac in 1928, it has profoundly influenced modern physics.
 
 ## Overview
 The Dirac equation addresses the challenge of reconciling quantum mechanics with special relativity. It successfully describes the dynamics of fermions, particles with half-integer spin, including electrons. The equation's unique feature is its prediction of antimatter, which has been experimentally confirmed and revolutionized particle physics.

@@ -11,14 +11,11 @@ article-slug: "pauli-exclusion-principle"
 github_issue_ids: [126, 127, 124, 121]
 github_pr_ids: [139]
 created: 2026-01-26T15:21:45Z
-researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 11
 ---
 
 ![Header](img/pauli-exclusion-principle_header.png)
-
-The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers (n, l, m_l, m_s), ensuring each electron occupies a unique quantum state. This principle is fundamental to understanding atomic structure and electronic configurations.
 
 ## Overview
 
@@ -79,14 +76,6 @@ In 1940, Wolfgang Pauli expanded his Exclusion Principle beyond electrons to all
 
 ### Impact
 The Pauli Exclusion Principle has had a profound impact on modern physics, providing insights into the behavior of matter at both microscopic and macroscopic scales. It is fundamental to understanding quantum systems, chemical bonding, and the properties of materials.
-
-## History
-
-Wolfgang Pauli, born in 1900, made significant contributions to quantum mechanics early in his career. Before beginning his studies at Munich University with Arnold Sommerfeld, he had already read works by Einstein on relativity and Emil Jordan on functional analysis. By 1921, at the age of 21, Pauli published a comprehensive encyclopedia article on relativity. In 1922, Pauli turned his attention to the anomalous Zeeman effect, which involved the splitting of optical transitions in atoms under magnetic fields. His work revealed that electrons could have half-integer angular momenta, challenging Bohr's model of quantized integer angular momentum. This led him to explore relativistic effects on atomic structure. By 1924, Pauli formulated his exclusion principle, which introduced a new quantum number (m₂) and established that no two electrons in an atom can share the same set of quantum numbers. This breakthrough connected Bohr's model to the periodic table's structure and explained noble gas cores' role in atomic behavior.
-
-## Key Concepts
-
-The Pauli Exclusion Principle is mathematically expressed as: $$ \text{If } i \neq j, \text{ then } \psi_i(x) \neq \psi_j(x) $$ This principle implies that electrons must occupy distinct states within an atom, leading to the periodic table's arrangement based on differences of squares (2, 8, 18). The concept of "Zweideutigkeit" introduced by Pauli was later identified as electron spin by Ralph Kronig, George Uhlenbeck, and Samuel Goudsmit in 1925. This spin-statistics relationship, further formalized by Dirac in 1926, underpins the antisymmetry of wavefunctions for fermions.
 
 ## Historical Timeline
 

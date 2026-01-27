@@ -11,12 +11,13 @@ article-slug: "quantum-harmonic-oscillator"
 github_issue_ids: [126, 127, 124, 121]
 github_pr_ids: [139]
 created: 2026-01-26T08:41:07Z
-researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 5
 ---
 
 ![Header](img/quantum-harmonic-oscillator_header.png)
+
+## Overview
 
 The quantum harmonic oscillator is a fundamental concept in quantum mechanics that describes the quantized motion of a particle undergoing harmonic oscillation. It is analogous to the classical harmonic oscillator, which consists of a mass attached to a spring that experiences a linear restoring force. However, the quantum version introduces discrete energy levels and wavefunctions that reflect the probabilistic nature of quantum states.
 

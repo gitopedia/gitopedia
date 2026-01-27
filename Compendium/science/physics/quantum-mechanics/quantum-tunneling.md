@@ -11,7 +11,6 @@ article-slug: "quantum-tunneling"
 github_issue_ids: [126, 127, 124, 121]
 github_pr_ids: [139]
 created: 2026-01-26T12:30:30Z
-researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 5
 ---

@@ -11,7 +11,6 @@ article-slug: "heisenberg-uncertainty-principle"
 github_issue_ids: [126, 127, 124, 121]
 github_pr_ids: [139]
 created: 2026-01-26T13:46:48Z
-researcher_version: "1"
 model: "deepseek-r1:14b"
 iterations: 4
 ---
