@@ -1,11 +1,14 @@
 ---
 id: 01KFXEB2K9DQPHFC7D89GRS5T2
-article: "Pauli Exclusion Principle"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Pauli Exclusion Principle"
+article-slug: "pauli-exclusion-principle"
 github_issue_ids: [126, 127, 124, 121]
-slug: "pauli-exclusion-principle"
 created: 2026-01-26T15:21:45Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

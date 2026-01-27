@@ -1,11 +1,14 @@
 ---
 id: 01KFWYYKMHJDSQFCJAP3S4004S
-article: "Spin (Physics)"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Spin (Physics)"
+article-slug: "spin-(physics)"
 github_issue_ids: [126, 127, 124, 121]
-slug: "spin-(physics)"
 created: 2026-01-26T10:52:48Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

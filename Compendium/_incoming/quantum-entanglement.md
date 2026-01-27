@@ -1,11 +1,14 @@
 ---
 id: 01KFXCA0A1GE2AM3M7Y22E03E6
-article: "Quantum Entanglement"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Quantum Entanglement"
+article-slug: "quantum-entanglement"
 github_issue_ids: [126, 127, 124, 121]
-slug: "quantum-entanglement"
 created: 2026-01-26T14:46:13Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

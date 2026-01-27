@@ -1,11 +1,14 @@
 ---
 id: 01KFX4HGA5V0PF5QD8BJ0QB066
-article: "Quantum Tunneling"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Quantum Tunneling"
+article-slug: "quantum-tunneling"
 github_issue_ids: [126, 127, 124, 121]
-slug: "quantum-tunneling"
 created: 2026-01-26T12:30:30Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

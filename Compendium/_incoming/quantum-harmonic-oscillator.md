@@ -1,11 +1,14 @@
 ---
 id: 01KFWQDFKEJ7T9HSZF41RTKE9V
-article: "Quantum Harmonic Oscillator"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Quantum Harmonic Oscillator"
+article-slug: "quantum-harmonic-oscillator"
 github_issue_ids: [126, 127, 124, 121]
-slug: "quantum-harmonic-oscillator"
 created: 2026-01-26T08:41:07Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

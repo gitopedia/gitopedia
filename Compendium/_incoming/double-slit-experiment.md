@@ -1,11 +1,14 @@
 ---
 id: 01KFX0Y5T61KHTV9VX1ZV3HM37
-article: "Double-Slit Experiment"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Double-Slit Experiment"
+article-slug: "double-slit-experiment"
 github_issue_ids: [126, 127, 124, 121]
-slug: "double-slit-experiment"
 created: 2026-01-26T11:27:31Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

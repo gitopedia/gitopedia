@@ -1,11 +1,14 @@
 ---
 id: 01KFWS8H7X9S5CFYH94B639FXX
-article: "Quantum Superposition"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Quantum Superposition"
+article-slug: "quantum-superposition"
 github_issue_ids: [126, 127, 124, 121]
-slug: "quantum-superposition"
 created: 2026-01-26T09:13:22Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

@@ -1,11 +1,14 @@
 ---
 id: 01KFX69FBSGH45X4K78RBXJW9R
-article: "Dark Energy"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Dark Energy"
+article-slug: "dark-energy"
 github_issue_ids: [126, 127, 124, 121]
-slug: "dark-energy"
 created: 2026-01-26T13:01:04Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

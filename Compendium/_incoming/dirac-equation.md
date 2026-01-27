@@ -1,11 +1,14 @@
 ---
 id: 01KFWWF5BP9HNQGBTXX9JQJF48
-article: "Dirac Equation"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Dirac Equation"
+article-slug: "dirac-equation"
 github_issue_ids: [126, 127, 124, 121]
-slug: "dirac-equation"
 created: 2026-01-26T10:09:25Z
 researcher_version: "1"
 model: "deepseek-r1:14b"

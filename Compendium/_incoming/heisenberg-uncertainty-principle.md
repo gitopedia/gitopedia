@@ -1,11 +1,14 @@
 ---
 id: 01KFX8X6BADZ0XJ64X2QEMSQPB
-article: "Heisenberg Uncertainty Principle"
 domain: "Science"
+domain-slug: "science"
 category: "Physics"
+category-slug: "physics"
 topic: "Quantum Mechanics"
+topic-slug: "quantum-mechanics"
+article: "Heisenberg Uncertainty Principle"
+article-slug: "heisenberg-uncertainty-principle"
 github_issue_ids: [126, 127, 124, 121]
-slug: "heisenberg-uncertainty-principle"
 created: 2026-01-26T13:46:48Z
 researcher_version: "1"
 model: "deepseek-r1:14b"
