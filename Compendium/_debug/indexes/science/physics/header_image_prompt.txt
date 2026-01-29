@@ -1,0 +1,9 @@
+# Index Header Image Prompt for: Physics
+# Index Type: category
+# Domain: Science
+# Child Items: quantum-mechanics
+# Style: categorical science map, field of science visualization
+# Color Mood: balanced and harmonious
+# Model: deepseek-r1:14b
+
+A vast, interconnected network of glowing nodes and abstract shapes suspended in deep space, symbolizing the intricate relationships within Physics. Subtle hints of quantum mechanics emerge as faint, shimmering waves and particles dance among the connections, while soft halos of light glow against a dark cosmic background. The design combines flowing lines, geometric patterns, and luminous colors to evoke curiosity and exploration.
