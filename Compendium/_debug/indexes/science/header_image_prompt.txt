@@ -1,0 +1,8 @@
+# Index Header Image Prompt for: Science
+# Index Type: domain
+# Child Items: physics
+# Style: tree of scientific knowledge, interconnected sciences abstract
+# Color Mood: balanced and harmonious
+# Model: deepseek-r1:14b
+
+A vast, abstract visualization of the "Tree of Scientific Knowledge" on a deep black background, where intricate, glowing branches and nodes symbolize the interconnectedness of physics and other scientific disciplines. Luminous streams of energy and abstract shapes flow between the branches, representing the dynamic relationships and discoveries within the domain. The image is dominated by soft yet vibrant colors—blue, green, and purple highlights against deep blacks and dark blues, creating a harmonious balance that evokes exploration and intellectual curiosity.
