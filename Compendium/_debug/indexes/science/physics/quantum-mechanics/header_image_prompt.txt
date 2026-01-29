@@ -1,0 +1,10 @@
+# Index Header Image Prompt for: Quantum Mechanics
+# Index Type: topic
+# Domain: Science
+# Category: Physics
+# Child Items: dark-energy, dirac-equation, double-slit-experiment, heisenberg-uncertainty-principle, pauli-exclusion-principle, quantum-entanglement, quantum-harmonic-oscillator, quantum-superposition, quantum-tunneling
+# Style: fundamental forces visualization, physics concept constellation
+# Color Mood: balanced and harmonious
+# Model: deepseek-r1:14b
+
+A wide-angle abstract visualization of quantum principles, featuring interconnected glowing nodes floating in deep space, surrounded by subtle light trails and shimmering energy fields. The scene incorporates hints of wave-particle duality, superposition states, and entanglement through flowing patterns and pulsating constellations, all set against a rich dark blue background with soft white and golden highlights.
