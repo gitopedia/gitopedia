@@ -5,7 +5,7 @@ domain-slug: "science"
 github_issue_ids: [126, 127]
 ---
 
-![Header](science_header.png)
+![Header](img/science_header.png)
 
 # Science
 

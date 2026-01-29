@@ -7,7 +7,7 @@ category-slug: "physics"
 github_issue_ids: [126, 127, 124]
 ---
 
-![Header](physics_header.png)
+![Header](img/physics_header.png)
 
 # Physics
 
