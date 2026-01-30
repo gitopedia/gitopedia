@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 7
 ---
 
-![Header](img/quantum-entanglement_header.png)
+![Header](_img/quantum-entanglement_header.png)
 
 ## Overview  
 Quantum entanglement is a fundamental phenomenon in quantum physics where two or more particles become linked such that the state of one particle instantly influences the state of another, regardless of the distance separating them. This connection occurs when a system splits into parts with opposite properties, such as total spin zero, ensuring each part must have opposite states to maintain balance. This linkage challenges classical notions of locality and realism, much like how coordinated dancers in a ballet contribute to a unified performance through individual actions.

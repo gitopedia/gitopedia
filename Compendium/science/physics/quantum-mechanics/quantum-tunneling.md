@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 5
 ---
 
-![Header](img/quantum-tunneling_header.png)
+![Header](_img/quantum-tunneling_header.png)
 
 ## Overview
 Quantum tunneling is a fundamental phenomenon in quantum mechanics where particles, such as electrons, pass through potential barriers that they classically shouldn't be able to overcome. This effect challenges classical physics by demonstrating that probability plays a role in particle movement at the quantum level. The concept has numerous applications in nanotechnology, including the scanning tunneling microscope (STM), semiconductor devices, and understanding nuclear decay processes.

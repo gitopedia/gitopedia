@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 11
 ---
 
-![Header](img/pauli-exclusion-principle_header.png)
+![Header](_img/pauli-exclusion-principle_header.png)
 
 ## Overview
 

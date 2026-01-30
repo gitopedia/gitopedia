@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 8
 ---
 
-![Header](img/double-slit-experiment_header.png)
+![Header](_img/double-slit-experiment_header.png)
 
 ## Overview
 The double-slit experiment is a foundational demonstration in quantum mechanics that illustrates the duality of light and matter. It demonstrates how particles such as electrons or photons can exhibit both wave-like and particle-like behavior depending on how they are observed and measured.

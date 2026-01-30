@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 4
 ---
 
-![Header](img/heisenberg-uncertainty-principle_header.png)
+![Header](_img/heisenberg-uncertainty-principle_header.png)
 
 ## Overview
 

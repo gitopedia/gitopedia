@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 6
 ---
 
-![Header](img/dirac-equation_header.png)
+![Header](_img/dirac-equation_header.png)
 
 ## Overview
 The Dirac equation addresses the challenge of reconciling quantum mechanics with special relativity. It successfully describes the dynamics of fermions, particles with half-integer spin, including electrons. The equation's unique feature is its prediction of antimatter, which has been experimentally confirmed and revolutionized particle physics.
