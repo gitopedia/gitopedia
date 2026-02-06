@@ -1,9 +1,0 @@
-# Index Header Image Prompt for: Physics
-# Index Type: category
-# Domain: Science
-# Child Items: quantum-mechanics
-# Style: scientific domain overview, scientific discipline branches
-# Color Mood: balanced and harmonious
-# Model: deepseek-r1:14b
-
-A futuristic, abstract visualization of physics concepts in vibrant hues of blue, purple, and teal against a dark background, featuring flowing energy fields and intersecting lines that symbolize the interconnected nature of physical phenomena. At the center, glowing quantum particles emerge from a luminous core, surrounded by concentric waves representing universal forces, evoking exploration and discovery within the scientific discipline.

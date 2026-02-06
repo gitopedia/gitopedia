@@ -1,8 +1,0 @@
-# Index Header Image Prompt for: Science
-# Index Type: domain
-# Child Items: physics
-# Style: universal scientific method visualization, scientific discovery constellation
-# Color Mood: balanced and harmonious
-# Model: deepseek-r1:14b
-
-A luminous expanse blending galaxies and atoms, connected by intricate networks of light, symbolizing the interconnectedness of scientific knowledge. The scene features glowing constellations and elements from various disciplines like physics and biology, set against a harmonious palette of deep blues and purples to evoke exploration and discovery.
