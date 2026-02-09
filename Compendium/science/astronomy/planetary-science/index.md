@@ -9,7 +9,7 @@ topic-slug: "planetary-science"
 github_issue_ids: [126, 127, 142, 150]
 ---
 
-![Header](_img/science--astronomy--planetary-science_header.avif)
+![Header](_img/planetary-science_header.avif)
 
 # Planetary Science
 

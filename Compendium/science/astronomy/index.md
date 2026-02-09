@@ -7,7 +7,7 @@ category-slug: "astronomy"
 github_issue_ids: [126, 127, 142]
 ---
 
-![Header](_img/science--astronomy_header.avif)
+![Header](_img/astronomy_header.avif)
 
 # Astronomy
 
