@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 1
 ---
 
+![Header](_img/endoplasmic-reticulum_header.avif)
+
 ## Overview
 The endoplasmic reticulum (ER) is a highly specialized cellular organelle found in most eukaryotic cells, excluding erythrocytes, egg cells, and embryonic cells. It forms an extensive network of membrane-limited channels within the cytoplasm, resembling a "net" under light microscopy. The ER plays a critical role in various cellular functions, including protein synthesis, lipid metabolism, and detoxification.
 

@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 2
 ---
 
+![Header](_img/cell-division_header.avif)
+
 ## Overview
 Cell division is a fundamental biological process that allows organisms to grow, repair tissues, and reproduce. It involves the division of a parent cell into two or more daughter cells through a series of tightly regulated stages known as the cell cycle. This process ensures genetic continuity and cellular reproduction.
 

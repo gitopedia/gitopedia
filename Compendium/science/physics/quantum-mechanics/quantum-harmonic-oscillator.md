@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 5
 ---
 
-![Header](_img/quantum-harmonic-oscillator_header.png)
+![Header](_img/quantum-harmonic-oscillator_header.avif)
 
 ## Overview
 

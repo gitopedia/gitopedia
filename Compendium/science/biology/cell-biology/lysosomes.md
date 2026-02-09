@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 4
 ---
 
+![Header](_img/lysosomes_header.avif)
+
 # Lysosomes
 
 ## Overview

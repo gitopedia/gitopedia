@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 0
 ---
 
+![Header](_img/cell-theory_header.avif)
+
 ## Overview
 Cell Theory is a foundational principle in biology that provides insights into the nature and role of cells. It asserts that all living organisms are composed of one or more cells, which serve as the basic structural and functional units of life.
 

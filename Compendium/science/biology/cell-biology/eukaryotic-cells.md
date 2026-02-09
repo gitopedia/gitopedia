@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 4
 ---
 
+![Header](_img/eukaryotic-cells_header.avif)
+
 ## Overview
 
 Eukaryotic cells are complex organisms characterized by a nucleus and various organelles, and they play a central role in biological systems. However, as these cells age, they undergo a process known as senescence, which is closely linked to the aging of tissues and organisms. Senescence involves irreversible cell cycle arrest, leading to functional decline and contributing to age-related diseases.

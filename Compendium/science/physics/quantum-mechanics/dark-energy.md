@@ -15,7 +15,7 @@ model: "deepseek-r1:14b"
 iterations: 6
 ---
 
-![Header](_img/dark-energy_header.png)
+![Header](_img/dark-energy_header.avif)
 
 ## Overview
 Dark energy is a hypothetical force proposed to explain the observed accelerated expansion of the universe. It is considered one of the most significant discoveries in cosmology and constitutes approximately 68-70% of the universe's total energy content.

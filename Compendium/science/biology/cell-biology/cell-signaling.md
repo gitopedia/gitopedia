@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 5
 ---
 
+![Header](_img/cell-signaling_header.avif)
+
 ## Overview
 
 Cell signaling is a critical process that allows cells to communicate with their surroundings and other cells. This communication is facilitated by the cell membrane, which plays a central role in detecting and transmitting signals. The membrane's structure and composition enable it to perform these functions through specialized proteins and other components.

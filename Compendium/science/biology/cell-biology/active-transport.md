@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 2
 ---
 
+![Header](_img/active-transport_header.avif)
+
 ## Overview
 
 Active transport is a biological process essential for moving various substances within cells. It facilitates the transportation of nutrients, oxygen, water, macromolecules, and aids in waste elimination. This process maintains stability within the cell, ensuring its functionality.

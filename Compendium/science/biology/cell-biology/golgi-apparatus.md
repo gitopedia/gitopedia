@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 1
 ---
 
+![Header](_img/golgi-apparatus_header.avif)
+
 ## Overview
 
 The Golgi apparatus undergoes significant changes during cell division, such as disassembly or remodeling, distribution, and reformation. These transformations ensure proper segregation of cellular components between daughter cells.

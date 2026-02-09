@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 3
 ---
 
+![Header](_img/cytoskeleton_header.avif)
+
 ## Overview  
 The cytoskeleton is a complex network of protein filaments found in the cytoplasm of all cells. It plays a critical role in maintaining cell structure, facilitating movement, and organizing cellular components. The term "cytoskeleton" was first introduced by Nikolai K. Koltsov in 1903.
 

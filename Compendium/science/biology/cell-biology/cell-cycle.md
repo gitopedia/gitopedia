@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 0
 ---
 
+![Header](_img/cell-cycle_header.avif)
+
 # Cell Cycle
 
 ## Overview

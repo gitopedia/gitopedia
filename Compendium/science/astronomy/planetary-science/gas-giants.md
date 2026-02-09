@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 5
 ---
 
+![Header](_img/gas-giants_header.avif)
+
 ## Overview
 
 Gas giants are massive planets primarily composed of hydrogen and helium, distinguishing them from rocky terrestrial worlds. They play a crucial role in shaping planetary systems by influencing orbital dynamics and protecting inner rocky planets from asteroid impacts.

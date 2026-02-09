@@ -9,7 +9,7 @@ topic-slug: "quantum-mechanics"
 github_issue_ids: [126, 127, 124, 121]
 ---
 
-![Header](_img/quantum-mechanics_header.png)
+![Header](_img/quantum-mechanics_header.avif)
 
 # Quantum Mechanics
 

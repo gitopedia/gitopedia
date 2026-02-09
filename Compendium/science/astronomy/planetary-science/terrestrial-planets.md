@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 8
 ---
 
+![Header](_img/terrestrial-planets_header.avif)
+
 ## Overview
 
 Terrestrial planets are differentiated celestial bodies within the solar system, characterized by a layered internal structure resulting from planetary differentiation. This process involves the separation of materials based on density and chemical properties due to heat, leading to distinct layers such as the core, mantle, and crust.

@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 3
 ---
 
+![Header](_img/cell-nucleus_header.avif)
+
 ## Overview  
 The cell nucleus is a defining feature of eukaryotic cells, serving as the central repository for most of the cell's genetic material (DNA) and playing a critical role in coordinating cellular activities such as protein synthesis, cell division, and gene expression. Its structure and components are essential for maintaining cellular organization and function.
 

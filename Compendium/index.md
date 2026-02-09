@@ -1,11 +1,11 @@
 ---
-title: "Index"
+title: "Encyclopedia Index"
 github_issue_ids: [126]
 ---
 
-![Header](_img/index_header.png)
+![Header](_img/index_header.avif)
 
-# Index
+# Encyclopedia
 
 ## Domains
 

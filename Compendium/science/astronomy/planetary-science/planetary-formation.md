@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 5
 ---
 
+![Header](_img/planetary-formation_header.avif)
+
 ## Overview
 
 Planetary formation is the process by which planets are created through the accretion of smaller particles called planetesimals. This process leads to the development of a layered structure within the planet due to processes like differentiation.

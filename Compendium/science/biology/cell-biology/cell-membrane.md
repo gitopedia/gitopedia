@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 3
 ---
 
+![Header](_img/cell-membrane_header.avif)
+
 # Cell Membrane
 
 ## Overview

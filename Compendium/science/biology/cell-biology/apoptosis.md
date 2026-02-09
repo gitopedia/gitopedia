@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 3
 ---
 
+![Header](_img/apoptosis_header.avif)
+
 ## Overview
 Apoptosis is a biological process of programmed cell death that occurs naturally in multicellular organisms. It involves the intentional destruction of cells for the benefit of the entire organism. Unlike necrosis, which results from external trauma or deprivation, apoptosis is a controlled and orderly process.
 
