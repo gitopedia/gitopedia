@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 1
 ---
 
+![Header](_img/prokaryotic-cells_header.avif)
+
 ## Overview  
 Prokaryotic cells are unicellular organisms that lack a true nucleus and membrane-bound organelles. They form the basis of life within the domains Bacteria and Archaea, while all other forms of life are eukaryotic. These cells are characterized by their simplicity in structure and function, yet they play critical roles in ecosystems and human health.
 

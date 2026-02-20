@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 2
 ---
 
+![Header](_img/ribosomes_header.avif)
+
 ## Overview
 Ribosomes are essential cellular structures responsible for protein synthesis, translating genetic code from mRNA into chains of amino acids. They play a critical role in producing proteins necessary for almost all cellular functions.
 

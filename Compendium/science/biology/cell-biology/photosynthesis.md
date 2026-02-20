@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 0
 ---
 
+![Header](_img/photosynthesis_header.avif)
+
 # Photosynthesis
 
 ## Overview

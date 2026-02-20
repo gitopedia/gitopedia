@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 1
 ---
 
+![Header](_img/stem-cells_header.avif)
+
 # Stem Cells
 
 ## Overview  

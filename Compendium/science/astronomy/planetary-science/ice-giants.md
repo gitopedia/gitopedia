@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 2
 ---
 
+![Header](_img/ice-giants_header.avif)
+
 ## Overview  
 The Ice Giants are the two outer planets of the Solar System: Uranus and Neptune. These gas giants are primarily composed of volatile compounds such as water, ammonia, and methane, which give them their distinctive blue-green coloration. Unlike the more massive gas giants Jupiter and Saturn, Uranus and Neptune are often referred to as "ice giants" due to their composition.
 

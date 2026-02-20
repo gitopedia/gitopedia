@@ -14,6 +14,8 @@ model: "deepseek-r1:14b"
 iterations: 2
 ---
 
+![Header](_img/osmosis_header.avif)
+
 ## Overview
 Osmosis is a fundamental biological and physical process defined as the movement of a solvent, typically water, through a selectively permeable membrane into an area of higher solute concentration. This process aims to equalize solute concentrations on both sides of the membrane. Osmosis plays a critical role in maintaining balance at cellular and macroscopic levels, essential for survival across various biological systems.
 
